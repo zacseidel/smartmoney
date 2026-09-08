@@ -1,313 +1,254 @@
 [
   {
-    "id": "776345b56a21a9ddc081a6c835c2b5fcd74ea0a4ebebb3068135f54a75bebf95",
+    "id": "035ea264374f70758e22dbdbae34de99e082a779630bd6eedc11cd0372379f73",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Novocure Reports Patient Data Exposure in Cybersecurity Incident",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:12:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986010/novocure-reports-patient-data-exposure-in-cybersecurity-incident?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-2986010",
+    "tickers": [
+      "NVCR",
+      "BSX",
+      "MCK",
+      "ABT",
+      "WST",
+      "MDT",
+      "SYK"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d6/3739.jpg",
+    "description": "Novocure Limited (NVCR) disclosed unauthorized access to internal systems in mid-August 2026, exposing internal patient ID numbers for over 1,400 U.S. patients and contact information for healthcare providers and employees. The company stated that medical devices were not accessed, systems remained functional, and no material financial impact is expected. NVCR shares rose 3.2% since the September 1 disclosure.",
+    "keywords": [
+      "cybersecurity incident",
+      "data breach",
+      "patient records",
+      "healthcare security",
+      "medical technology",
+      "unauthorized access"
+    ],
+    "insights": [
+      {
+        "ticker": "NVCR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the cybersecurity incident is concerning, the company's proactive disclosure, containment measures, and assurance that devices were not compromised and no material financial impact is expected mitigate negative sentiment. Stock performance has been positive post-disclosure."
+      },
+      {
+        "ticker": "BSX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Experienced a cybersecurity incident in August that disrupted access to systems and business applications, affecting order processing and shipping operations."
+      },
+      {
+        "ticker": "MCK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Disclosed a data breach involving unauthorized access to third-party applications with alleged theft of data from Oncology & Multispecialty and Medical-Surgical business units."
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Reported two separate cyber incidents but stated they did not affect products, manufacturing, or patient services, limiting material impact."
+      },
+      {
+        "ticker": "WST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Faced a cyberattack in May with data exfiltration and encryption, but the article notes it carries a Zacks Rank #2 with strong earnings performance."
+      },
+      {
+        "ticker": "MDT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Reported unauthorized access to corporate IT systems, but products and patient care were not compromised."
+      },
+      {
+        "ticker": "SYK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Experienced a cyberattack affecting Microsoft environment and temporarily disrupting manufacturing and shipping, but products and patient care were not compromised."
+      }
+    ]
+  },
+  {
+    "id": "0bc7f27e4daa68a933b61c5aac69e7944a30e3dd34d01d6282c5a04be5c1a2b3",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Eli Lilly and vs. Teva: Which Pharmaceutical Stock Is a Better Buy in 2026?",
+    "title": "AbbVie vs. Pfizer: Which Healthcare Stock Is a Better Buy in 2026?",
     "author": "Brendan Coffey",
-    "published_utc": "2026-07-06T17:09:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/06/eli-lilly-and-vs-teva-pharmaceutical-industries-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "published_utc": "2026-09-04T18:30:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/04/abbvie-vs-pfizer-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "LLY",
-      "TEVA",
-      "NVO",
-      "VTRS",
-      "MCK"
+      "ABBV",
+      "PFE",
+      "MCK",
+      "CAH",
+      "COR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5d5d57f05229d5e553cc6e2f816603ec4ca01b17-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Eli Lilly and Teva Pharmaceutical represent two different pharmaceutical strategies: Eli Lilly dominates the high-growth GLP-1 market with blockbuster drugs like Mounjaro and Zepbound, posting 44% revenue growth and trading at a 33x forward P/E. Teva operates in generics and biosimilars with lower valuations (16.4x forward P/E) but faces declining sales projections for 2026 and significant debt challenges. The article recommends Eli Lilly as the better buy despite premium valuation due to its continued GLP-1 growth momentum.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3a7b7d740be428c35a4ad30f93004a7d655cc124-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "AbbVie has successfully diversified beyond its blockbuster Humira with strong immunology drugs (Skyrizi and Rinvoq), while Pfizer is leveraging its cash position to build oncology and GLP-1 pipelines. Despite AbbVie's stronger growth trajectory, Pfizer offers better valuation metrics with lower P/E and P/S ratios, making it the preferred choice for long-term value investors willing to wait for new product launches.",
     "keywords": [
+      "pharmaceutical industry",
+      "patent expiration",
+      "drug pricing reforms",
+      "immunology",
+      "oncology",
       "GLP-1 drugs",
-      "pharmaceutical stocks",
-      "Eli Lilly",
-      "Teva Pharmaceutical",
-      "generic medicines",
       "biosimilars",
-      "weight loss treatment",
-      "diabetes treatment",
-      "valuation comparison",
-      "revenue growth"
+      "pipeline development",
+      "valuation comparison"
     ],
     "insights": [
       {
-        "ticker": "LLY",
+        "ticker": "ABBV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth of 44% in FY2025, dominant position in high-demand GLP-1 market with blockbuster drugs (Mounjaro, Zepbound), projected 30% revenue growth for 2026, robust net income doubling, and promising pipeline including Retatrutide and lipoprotein(a) therapeutic. Despite premium valuation, growth trajectory justifies investment."
+        "sentiment_reasoning": "Successfully pivoted away from Humira decline with strong growth in Skyrizi and Rinvoq immunology drugs. Expected net income to jump from $4.2B to $14.6B in 2026, with promising pipeline including potential blockbusters for Parkinson's, schizophrenia, and Alzheimer's treatments. Strong free cash flow of $17.8B supports growth strategy."
       },
       {
-        "ticker": "TEVA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed outlook with modest 4% revenue growth in FY2025 and return to profitability ($1.4B net income), but facing headwinds including projected sales decline to $16.6B in 2026, high debt-to-equity ratio of 2.2x limiting financial flexibility, and competitive generic market pressures. Positioned as value play with potential recovery in 2027."
-      },
-      {
-        "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as intense competitor to Eli Lilly in the GLP-1 market with Saxenda generic version. Competitive threat acknowledged but no specific performance data provided in article."
-      },
-      {
-        "ticker": "VTRS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor in generic pharmaceutical market creating price erosion pressures on Teva, but no specific performance analysis provided."
+        "ticker": "PFE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Trading at attractive valuation (9.8x forward P/E vs AbbVie's 16.1x) with net income expected to jump 40% to $11B in 2026. Making strategic moves in GLP-1 market and oncology through acquisitions. Despite patent expiration risks, multiple FDA decisions and trial readouts expected to generate new products. Recommended as better value play for long-term investors."
       },
       {
         "ticker": "MCK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as major wholesale distributor partner for Eli Lilly's U.S. distribution, representing customer concentration risk but essential partnership for market access."
+        "sentiment_reasoning": "Mentioned as a major pharmaceutical wholesaler/distributor for AbbVie products. No specific analysis provided regarding the company itself."
+      },
+      {
+        "ticker": "CAH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major pharmaceutical wholesaler/distributor for AbbVie products. No specific analysis provided regarding the company itself."
+      },
+      {
+        "ticker": "COR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major pharmaceutical wholesaler/distributor for AbbVie products. No specific analysis provided regarding the company itself."
       }
     ]
   },
   {
-    "id": "4c74d831ba26047c85b17bff51263b0a31a76769687d4b346ae4ca0ee068dfa5",
+    "id": "983016bf64edd052558280db09c91752991de6816465ae78d77cccf7f5218e25",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "$663.3 Bn Revenue Cycle Management Market Trends and Global Forecasts Report 2026-2035",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-05-21T08:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/21/3299062/28124/en/663-3-Bn-Revenue-Cycle-Management-Market-Trends-and-Global-Forecasts-Report-2026-2035.html",
+    "title": "Cencora Raises 2026 EPS Outlook as Specialty Businesses Strengthen",
+    "author": "Na",
+    "published_utc": "2026-09-03T19:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984771/cencora-raises-2026-eps-outlook-as-specialty-businesses-strengthen?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2984771",
     "tickers": [
-      "MMM",
-      "UNH",
+      "COR",
+      "MCK",
+      "CAH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f9/384.jpg",
+    "description": "Cencora (COR) raised its fiscal 2026 adjusted EPS guidance to $17.75-$17.95 following stronger-than-expected third-quarter results. The company's U.S. segment profit grew 15.9% driven by specialty sales and GLP-1 demand, while international operating income rose 20.8%. However, headwinds from lower-margin GLP-1 products, manufacturer price reductions, and higher financing costs tempered upside. The stock maintains a Zacks Rank #3 (Hold) rating.",
+    "keywords": [
+      "earnings guidance",
+      "specialty pharmaceuticals",
+      "GLP-1 products",
+      "operating margin",
+      "pharmaceutical distribution",
+      "debt financing",
+      "oncology services"
+    ],
+    "insights": [
+      {
+        "ticker": "COR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company raised FY2026 EPS guidance and demonstrated strong Q3 profit growth (17% operating income increase) with specialty-driven operating leverage. U.S. segment profit rose 15.9% and international segment rose 20.8%, beating consensus estimates."
+      },
+      {
+        "ticker": "MCK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor also expanding oncology and multispecialty platforms with a $2.25 billion acquisition of Precision Medicine Group. No specific performance data provided; serves as industry comparison point."
+      },
+      {
+        "ticker": "CAH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as another major pharmaceutical distributor for industry comparison purposes. No specific performance metrics or sentiment drivers mentioned in the article."
+      }
+    ]
+  },
+  {
+    "id": "f6d92eca8f0656f4bf4d3732de9a2246388803f11296450223c80288826ee981",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is Generics Still a Quiet Profit Engine for Cardinal Health?",
+    "author": "Na",
+    "published_utc": "2026-09-03T12:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984213/is-generics-still-a-quiet-profit-engine-for-cardinal-health?cid=CS-ZC-FT-analyst_blog|quick_take-2984213",
+    "tickers": [
+      "CAH",
+      "MCK",
+      "COR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f9/384.jpg",
+    "description": "Cardinal Health's generics business continues to be a steady profit contributor, with fiscal 2026 volume growth exceeding long-term planning assumptions of 2-3%. The company expects fiscal 2027 to benefit from new generic launches, brand-to-generic conversions, and stable Red Oak program dynamics, supporting projected Pharma segment profit growth of 8-11%. Peers McKesson and Cencora also show strength in their pharmaceutical distribution and generics portfolios.",
+    "keywords": [
+      "generics",
+      "pharmaceutical distribution",
+      "brand-to-generic conversions",
+      "Pharma profitability",
+      "Red Oak program",
+      "biosimilars"
+    ],
+    "insights": [
+      {
+        "ticker": "CAH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Generic volume growth exceeded planning assumptions, brand-to-generic conversions are driving profitability, and Pharma segment profit is expected to grow 8-11% in fiscal 2027. Stock has gained 19.4% year-to-date and carries a Value Score of A."
+      },
+      {
+        "ticker": "MCK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Generics portfolio remains a meaningful contributor to North American Pharmaceutical profitability with 5% prescription transaction volume growth. Operating profit grew 19% to $894 million, and ClarusONE generic sourcing program continues to create customer value."
+      },
+      {
+        "ticker": "COR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "U.S. Healthcare Solutions revenues increased 5% to $74.9 billion with operating income rising 16% to $966 million. Part B biosimilars represent an incremental profit opportunity through distribution and physician-administered product services."
+      }
+    ]
+  },
+  {
+    "id": "636f464c75e00d115e74556b145fbe671805cfb78353c07632f2afcd77829cad",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's How Much a $1000 Investment in McKesson Made 10 Years Ago Would Be Worth Today",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-01T12:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2982969/here-s-how-much-a-1000-investment-in-mckesson-made-10-years-ago-would-be-worth-today?cid=CS-ZC-FT-fundamental_analysis|investing_$1000-2982969",
+    "tickers": [
       "MCK"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global revenue cycle management (RCM) market is projected to grow at a CAGR of 11.51% from $200.1 billion in 2026 to $663.3 billion by 2035, driven by widespread EHR adoption, shift to value-based care models, and increasing use of AI and automation. North America holds the largest market share due to its complex healthcare system and advanced technology infrastructure. Key players include 3M, Change Healthcare, Optum, and McKesson, though high implementation costs and regulatory complexity present challenges.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default247.jpg",
+    "description": "A $1,000 investment in McKesson (MCK) made in September 2016 would be worth $4,795.36 as of September 1, 2026, representing a 379.54% gain and significantly outperforming the S&P 500's 254.05% return. The pharmaceutical distributor is benefiting from growth in specialty pharmaceuticals, oncology services, and GLP-1 medications, with FY26 revenues reaching $403.4 billion and adjusted EPS up 18% year-over-year. Analysts remain optimistic with recent earnings estimate revisions and raised fiscal 2027 guidance.",
     "keywords": [
-      "revenue cycle management",
-      "healthcare IT",
-      "EHR systems",
-      "value-based care",
-      "medical billing",
-      "AI and automation",
-      "cloud-based platforms",
-      "claims processing"
+      "pharmaceutical distribution",
+      "specialty pharmaceuticals",
+      "oncology services",
+      "GLP-1 medications",
+      "portfolio restructuring",
+      "long-term investment returns"
     ],
     "insights": [
       {
-        "ticker": "MMM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a prominent company shaping the RCM market through technological innovation and strategic collaborations, positioned to benefit from the market's projected 11.51% CAGR growth."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as a prominent company shaping the RCM market with advancements in AI, machine learning, automation, and cloud-based platforms, well-positioned for market expansion."
-      },
-      {
         "ticker": "MCK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as an established global player prioritizing technological innovation and comprehensive RCM solutions, positioned to capitalize on the growing market demand."
-      }
-    ]
-  },
-  {
-    "id": "6dea5ccce2558fc623facbdb6d6bd7504fbd7a81ed6414c3c75d2dad58064811",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Global Healthcare Analytics Market is Predicted to Cross the USD 380 Billion Mark by 2034 | DelveInsight",
-    "author": "Delveinsight",
-    "published_utc": "2026-05-06T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/06/3289206/0/en/Global-Healthcare-Analytics-Market-is-Predicted-to-Cross-the-USD-380-Billion-Mark-by-2034-DelveInsight.html",
-    "tickers": [
-      "IBM",
-      "ORCL",
-      "ORCLpD",
-      "UNH",
-      "MCK",
-      "MSFT",
-      "PHG",
-      "GEHC"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
-    "description": "The global healthcare analytics market is projected to grow from USD 56 billion in 2025 to USD 390 billion by 2034, with a CAGR of ~24%. Growth is driven by widespread EHR adoption, rising chronic disease prevalence, shift toward value-based care, AI/ML integration, and government digital health initiatives. North America leads with 44.36% market share, while Asia-Pacific emerges as a major growth engine.",
-    "keywords": [
-      "healthcare analytics",
-      "electronic health records",
-      "artificial intelligence",
-      "machine learning",
-      "value-based care",
-      "predictive analytics",
-      "cloud-based analytics",
-      "chronic diseases",
-      "digital health transformation"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the healthcare analytics market with significant presence in the growing sector"
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading healthcare analytics vendor benefiting from market expansion and EHR adoption"
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading healthcare analytics vendor benefiting from market expansion and EHR adoption"
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major healthcare analytics company that expanded its analytics suite in May 2025 with enhanced revenue cycle modules"
-      },
-      {
-        "ticker": "MCK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player in the rapidly growing healthcare analytics market"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key healthcare analytics company positioned to benefit from cloud-based analytics adoption and AI integration trends"
-      },
-      {
-        "ticker": "PHG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major healthcare analytics vendor with strong presence in the expanding market"
-      },
-      {
-        "ticker": "GEHC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in healthcare analytics market benefiting from digital health transformation and AI adoption"
-      }
-    ]
-  },
-  {
-    "id": "ae54154bc127e6e2d3e682cd55b429b9c11154f177977ee57058bb841f464489",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Robotic Pharmacy Prescription Market Research and Global Forecast Report 2025-2032",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-04-09T08:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/04/09/3270701/28124/en/Robotic-Pharmacy-Prescription-Market-Research-and-Global-Forecast-Report-2025-2032.html",
-    "tickers": [
-      "OMCL",
-      "MCK",
-      "CAH",
-      "BAX",
-      "BDX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/5bd8ef47-ce9a-412d-99c4-3a59a2869f90",
-    "description": "The global robotic pharmacy prescription market is experiencing significant growth, expanding from USD 214.16 million in 2025 to USD 237.65 million in 2026, with a projected CAGR of 9.18% through 2032, reaching USD 396.21 million. The market is driven by automation adoption for medication safety and efficiency, workforce transformation toward clinical roles, and bundled solution procurement strategies across hospitals, clinics, and long-term care facilities.",
-    "keywords": [
-      "robotic pharmacy systems",
-      "medication management",
-      "automation",
-      "healthcare technology",
-      "market growth",
-      "pharmacy automation",
-      "dispensing systems",
-      "sterile compounding"
-    ],
-    "insights": [
-      {
-        "ticker": "OMCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a key vendor in the growing robotic pharmacy market with strong CAGR of 9.18% through 2032, indicating expanding market opportunities for established automation solution providers."
-      },
-      {
-        "ticker": "MCK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major companies in a rapidly expanding market segment, positioned to benefit from increased healthcare automation investments and bundled solution procurement trends."
-      },
-      {
-        "ticker": "CAH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a key player in the robotic pharmacy market experiencing sustained growth, with opportunities in integrated solutions and service models."
-      },
-      {
-        "ticker": "BAX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included among vendors in a growing market segment focused on sterile compounding and medication preparation automation, supporting healthcare efficiency initiatives."
-      },
-      {
-        "ticker": "BDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured in the expanding robotic pharmacy market with opportunities in integrated hardware and software solutions for medication management."
-      }
-    ]
-  },
-  {
-    "id": "0384af07616e4ff330c8cada68116a49a312fb3f6f88f2ea93346440bed0cb8d",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Biopharmaceutical Third Party Logistics (Distribution Management, Packaging & Labeling, Transportation, Warehousing) Market Research and Global Forecast Report 2026-2032",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-04-09T08:49:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/04/09/3270697/28124/en/Biopharmaceutical-Third-Party-Logistics-Distribution-Management-Packaging-Labeling-Transportation-Warehousing-Market-Research-and-Global-Forecast-Report-2026-2032.html",
-    "tickers": [
-      "TMO",
-      "FDX",
-      "UPS",
-      "CAH",
-      "MCK",
-      "CYRX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/fca5084b-413b-43c7-aa6e-3cb2f27687fa",
-    "description": "The biopharmaceutical third-party logistics market is expected to grow from $140.03 billion in 2025 to $384.23 billion by 2032, with a CAGR of 15.51%. Growth is driven by rising product complexity, regulatory scrutiny, cold chain integrity demands, and technological advancements in digital tracking and specialized handling for biologics and gene therapies.",
-    "keywords": [
-      "biopharmaceutical logistics",
-      "cold chain management",
-      "third-party logistics",
-      "supply chain",
-      "gene therapies",
-      "monoclonal antibodies",
-      "digital tracking",
-      "regulatory compliance",
-      "warehousing",
-      "transportation"
-    ],
-    "insights": [
-      {
-        "ticker": "TMO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major player in biopharmaceutical logistics and cold chain solutions, Thermo Fisher is well-positioned to capitalize on growing demand for advanced packaging, digital orchestration, and specialized handling capabilities for complex biologics."
-      },
-      {
-        "ticker": "FDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "FedEx's inclusion as a key logistics provider positions it to benefit from the expanding biopharmaceutical logistics market, particularly through air freight services for temperature-sensitive shipments."
-      },
-      {
-        "ticker": "UPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "UPS is positioned to gain from increased demand for specialized biopharmaceutical logistics services, including cold chain transportation and advanced tracking capabilities."
-      },
-      {
-        "ticker": "CAH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cardinal Health's logistics and distribution capabilities in the biopharmaceutical sector align with market growth drivers, particularly in distribution management and specialized handling."
-      },
-      {
-        "ticker": "MCK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "McKesson's extensive pharmaceutical distribution network positions it to benefit from the expanding biopharmaceutical logistics market and increased demand for specialized supply chain solutions."
-      },
-      {
-        "ticker": "CYRX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cryoport specializes in cold chain logistics for biopharmaceuticals, directly benefiting from the market's projected 15.51% CAGR growth and increasing demand for specialized cold chain infrastructure and validated temperature-controlled solutions."
+        "sentiment_reasoning": "Strong 10-year investment performance with 379.54% returns, outperforming S&P 500. Company demonstrates robust revenue growth (12% YoY), earnings growth (18% EPS increase), and strategic portfolio optimization through divestitures and acquisitions. Analysts have raised guidance and earnings estimates, with recent stock rally of 7.03% over four weeks. Growth drivers in high-margin specialty pharmaceuticals and oncology services are well-positioned for future expansion."
       }
     ]
   }

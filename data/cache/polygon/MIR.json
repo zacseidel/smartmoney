@@ -1,0 +1,35 @@
+{
+  "ticker": "MIR",
+  "name": "Mirion Technologies, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001809987",
+  "composite_figi": "BBG00VHJ1K96",
+  "share_class_figi": "BBG00VHJ1KB3",
+  "market_cap": 4118698097.56,
+  "phone_number": "(770) 432-2744",
+  "address": {
+    "address1": "1218 MENLO DRIVE",
+    "city": "ATLANTA",
+    "state": "GA",
+    "postal_code": "30318"
+  },
+  "description": "Mirion Technologies Inc provides products, services, and software that allow customers to safely leverage the power of ionizing radiation for applications that benefit the health, safety, vitality, and technological progress of the human experience. The Company manages its operations through two segments: Nuclear & Safety and Medical. The Medical segment improves the quality and safety of cancer care delivery and supports applications across medical diagnostics and practitioner safety. The Nuclear & Safety segment powers advancements in nuclear energy and critical radiation safety, measurement and analysis applications across laboratories, research and other industrial markets such as defense.",
+  "sic_code": "3829",
+  "sic_description": "MEASURING & CONTROLLING DEVICES, NEC",
+  "ticker_root": "MIR",
+  "homepage_url": "https://www.mirion.com",
+  "total_employees": 3281,
+  "list_date": "2020-08-20",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bWlyaW9uLmNvbQ/images/2026-09-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/bWlyaW9uLmNvbQ/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 243278092,
+  "weighted_shares_outstanding": 243278092,
+  "round_lot": 100
+}

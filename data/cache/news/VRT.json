@@ -1,259 +1,274 @@
 [
   {
-    "id": "ffe69ef7ff58f6194f8c60d766bbf4b80e6e07586fa0f142a969f6f846cf6dd8",
+    "id": "757791cb05345fe79dd41d926491f5434f87aba30b363680d4b828fe7bdc8962",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "AI Infrastructure Will Mint More Millionaires Over the Next Decade: 3 Stocks to Buy Right Now",
-    "author": "Leo Sun",
-    "published_utc": "2026-07-23T13:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/23/ai-infrastructure-will-mint-more-millionaires-over/?source=iedfolrf0000001",
+    "title": "3 AI-Related Stocks Worth a Closer Look After Pullbacks",
+    "author": "Na",
+    "published_utc": "2026-09-04T23:01:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985509/3-ai-related-stocks-worth-a-closer-look-after-pullbacks?cid=CS-ZC-FT-stocks_in_the_news-2985509",
     "tickers": [
-      "MRVL",
-      "COHR",
       "VRT",
-      "NVDA"
+      "AAOI",
+      "INOD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876424%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-    "description": "The global AI infrastructure market is projected to expand at 26.6% CAGR through 2034. Three infrastructure leaders\u2014Marvell, Coherent, and Vertiv\u2014are positioned to capitalize on this growth through connectivity chips, fiber-optic components, and cooling systems respectively. All three stocks show strong EBITDA growth projections and are considered reasonably valued relative to their long-term potential.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7f/211.jpg",
+    "description": "Three AI infrastructure stocks\u2014Vertiv, Applied Optoelectronics, and Innodata\u2014have experienced significant pullbacks from their 2026 highs despite maintaining strong underlying growth fundamentals. Each company offers exposure to different segments of AI infrastructure: power/cooling systems, optical networking, and data services. Their recent earnings remain solid with robust growth outlooks, suggesting potential opportunities for investors.",
     "keywords": [
       "AI infrastructure",
-      "data center upgrades",
-      "semiconductor connectivity",
-      "fiber-optic technology",
-      "thermal management",
-      "EBITDA growth"
+      "data centers",
+      "stock pullback",
+      "optical networking",
+      "AI services",
+      "growth stocks",
+      "volatility"
     ],
     "insights": [
       {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company provides essential high-speed connectivity chips and DPUs for AI data centers with projected 44% EBITDA CAGR through 2029. Positioned as a key beneficiary of AI infrastructure expansion."
-      },
-      {
-        "ticker": "COHR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading photonics company experiencing strong demand as data centers replace copper with fiber-optic cables. Expected 44% EBITDA CAGR through 2028 reflects robust growth prospects in AI infrastructure."
-      },
-      {
         "ticker": "VRT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Provides critical thermal management and cooling solutions for high-powered AI chips. Co-developing infrastructure with Nvidia and projecting 38% EBITDA CAGR through 2028, indicating solid growth trajectory."
+        "sentiment_reasoning": "Strong fundamentals with 24% YoY sales growth, 60% EPS jump, and raised full-year guidance expecting 30-32% organic growth. Pullback from highs creates attractive entry point despite solid underlying demand for data center infrastructure."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a reference point for AI chipmakers but not the focus of the article. Collaborating with Vertiv on cooling systems, indicating continued importance in the AI ecosystem."
+        "ticker": "AAOI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional growth with 86% YoY revenue increase, fifth consecutive quarterly record, and 140% data center revenue jump. Management expects demand to exceed production capacity through mid-2027. Sharp pullback from peak makes valuation more attractive."
+      },
+      {
+        "ticker": "INOD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record quarterly revenue up 58% YoY with 92% EBITDA growth and improved customer diversification. Management maintains 40% revenue growth guidance for 2026. Significant pullback from highs presents opportunity despite strong execution."
       }
     ]
   },
   {
-    "id": "18987e3629c14429d26b08e7e5948143f7502e2c90f5bba05b6e83fd5e82e355",
+    "id": "044ec0495fadb07fa4e9d33ee05bda52a741a0d21f6295fc393ec428b3910362",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant",
+    "author": "Na",
+    "published_utc": "2026-09-04T18:05:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985454/eaton-to-boost-u-s-power-capacity-with-242m-arkansas-plant?cid=CS-ZC-FT-analyst_blog|quick_take-2985454",
+    "tickers": [
+      "ETN",
+      "ROK",
+      "VRT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/84/376.jpg",
+    "description": "Eaton Corporation plans to invest over $242 million in a new one-million-square-foot manufacturing facility in North Little Rock, Arkansas to double U.S. Fibrebond capacity and create 1,200 jobs. The expansion supports strong demand in critical-power infrastructure, with Electrical Americas reporting 18% organic sales growth, 41% order growth, and 33% backlog growth in Q2 2026. The facility will help address capacity constraints and deepen exposure to AI infrastructure and grid modernization.",
+    "keywords": [
+      "manufacturing expansion",
+      "critical-power infrastructure",
+      "data center capacity",
+      "AI infrastructure",
+      "electrical enclosures",
+      "grid modernization",
+      "electrification"
+    ],
+    "insights": [
+      {
+        "ticker": "ETN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong organic sales growth (18%), significant order increases (41%), growing backlog (33%), major capital investment ($242M) to expand capacity, raised 2026 guidance to 11-13%, and strategic positioning in high-growth AI infrastructure and grid modernization markets."
+      },
+      {
+        "ticker": "ROK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer company planning similar manufacturing expansion in Wisconsin, but no specific performance metrics or strategic details provided to indicate positive or negative sentiment."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer company investing in power architectures and thermal systems for AI deployments, but no specific financial performance or strategic outcomes provided."
+      }
+    ]
+  },
+  {
+    "id": "c47137a81a1b1515213686ede2a5418043615f5d837af0ba24cb275a0ac4367f",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "5 Stocks Poised to Outperform With Their Best Growth Still Ahead",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-07-19T10:24:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/19/stocks-poised-outperform-best-growth-ahead/?source=iedfolrf0000001",
+    "title": "Every Hyperscaler Raised Capex Again. These 3 Boring Industrials Get Paid No Matter Who Wins the AI Race.",
+    "author": "Patrick Sanders",
+    "published_utc": "2026-09-04T11:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/04/every-hyperscaler-raised-capex-again-these-3-borin/?source=iedfolrf0000001",
     "tickers": [
-      "GEV",
+      "CAT",
+      "ETN",
       "VRT",
-      "FIX",
-      "STRL",
-      "POWL"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMZN",
+      "META",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879095%2Fgettyimages-1437903456.jpg&w=1200&op=resize",
-    "description": "Five financially strong industrial companies\u2014GE Vernova, Vertiv Holdings, Comfort Systems USA, Sterling Infrastructure, and Powell Industries\u2014are positioned to benefit from AI data center expansion and power grid electrification. Each company has strong balance sheets with low debt and substantial cash reserves, enabling continued investment and growth. However, valuations are elevated and all five are exposed to the same cyclical theme, so a slowdown in data center spending could impact them collectively.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885846%2Fcat_machine_with_logo_cat.jpg&w=1200&op=resize",
+    "description": "Major tech companies (Alphabet, Amazon, Meta) are significantly increasing capital expenditures for AI infrastructure. Rather than betting on which tech company will succeed, investors can gain exposure to the AI boom through industrial companies that supply essential infrastructure\u2014power generation, electrical systems, and cooling hardware\u2014regardless of which tech platform dominates.",
     "keywords": [
       "AI infrastructure",
+      "capital expenditure",
       "data centers",
-      "power grid electrification",
+      "power generation",
+      "cooling systems",
       "industrial stocks",
-      "balance sheet strength",
-      "low debt",
-      "backlog growth"
-    ],
-    "insights": [
-      {
-        "ticker": "GEV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong cash position ($10B+), minimal debt, quadrupled free cash flow, massive backlog ($160B+), and record data center equipment orders indicate robust growth potential in AI infrastructure."
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Direct beneficiary of data center expansion with $15B backlog, strong free cash flow generation, modest leverage, and recent investment-grade bond refinancing improve financial flexibility."
-      },
-      {
-        "ticker": "FIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "50% revenue from data center/technology projects, record-level backlog, $1B+ annual operating cash flow, and light leverage position the company well for continued growth."
-      },
-      {
-        "ticker": "STRL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net cash position provides flexibility, backlog jumped over 100%, and major semiconductor campus project indicate strong demand and growth runway."
-      },
-      {
-        "ticker": "POWL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fortress balance sheet with hundreds of millions in cash and no drawn debt, nearly 100% surge in new orders, record backlog, and largest data center order in company history ($400M+) signal significant demand acceleration."
-      }
-    ]
-  },
-  {
-    "id": "608060f56b37c69dcd9cb3a4c9b5c48396a5934c1e79b2e9822993042aaeb40d",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "A Big Bet on Fusion Just Became the First to be Publicly Listed, and it\u2019s making a lot of noise",
-    "author": "Canada News Group",
-    "published_utc": "2026-07-16T22:36:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328868/0/en/A-Big-Bet-on-Fusion-Just-Became-the-First-to-be-Publicly-Listed-and-it-s-making-a-lot-of-noise.html",
-    "tickers": [
-      "GFUZ",
-      "GFUZW",
-      "NVDA",
-      "GEV",
-      "VRT",
-      "BE"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/8706309d-9878-47a1-b292-8cc7e952fd84",
-    "description": "General Fusion Group Ltd. (GFUZ) debuted on Nasdaq as the first publicly listed fusion energy company, rallying approximately 21% on its first trading day. The Vancouver-based company, backed by Jeff Bezos and Tobias L\u00fctke, uses a mechanically-driven Magnetized Target Fusion approach and entered public markets with ~$150 million to fund technical milestones through 2028, including reaching the Lawson criterion for net energy production.",
-    "keywords": [
-      "fusion energy",
-      "Nasdaq IPO",
-      "clean power",
-      "magnetized target fusion",
-      "artificial intelligence",
-      "electricity demand",
-      "renewable energy"
-    ],
-    "insights": [
-      {
-        "ticker": "GFUZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Nasdaq debut with ~21% first-day gain, significant backing from prominent investors, differentiated technical approach, and positioned to benefit from surging electricity demand driven by AI infrastructure buildout. However, company is pre-revenue with significant technical risks ahead."
-      },
-      {
-        "ticker": "GFUZW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Nasdaq debut with ~21% first-day gain, significant backing from prominent investors, differentiated technical approach, and positioned to benefit from surging electricity demand driven by AI infrastructure buildout. However, company is pre-revenue with significant technical risks ahead."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Referenced as the root driver of electricity demand through AI accelerators powering data centers, creating urgent need for power solutions that fusion aims to address long-term."
-      },
-      {
-        "ticker": "GEV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefiting from immediate data-center power demand with gas-turbine supply sold out through 2030, representing near-term solution to the same energy demand that fusion addresses long-term."
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong performer with tens of billions in backlog supplying critical data-center power and cooling infrastructure, benefiting from AI-driven power demand surge."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Thematic cousin to fusion with on-site clean power generation for data centers, validating the core thesis of customer demand for abundant, clean, independent power sources."
-      }
-    ]
-  },
-  {
-    "id": "f51777cce94511d553c9f422aeefd70d575d11e109f2b7245fbb5b9b9ef95c52",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "AI Capex Crosses $1 Trillion Next Year. Here Are 2 Industrial Stocks That Will Benefit",
-    "author": "Leo Sun",
-    "published_utc": "2026-07-15T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/15/ai-capex-crosses-1-trillion-next-year-heres-x-indu/?source=iedfolrf0000001",
-    "tickers": [
-      "VRT",
-      "PWR",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878697%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-    "description": "As AI spending by U.S. hyperscalers is projected to reach $1 trillion in 2027, industrial companies supporting data center infrastructure are positioned for significant growth. Vertiv Holdings and Quanta Services are highlighted as key beneficiaries, with Vertiv providing thermal management and power systems for AI chips, while Quanta builds transmission infrastructure to support power-hungry data centers.",
-    "keywords": [
-      "AI capex",
-      "data center infrastructure",
-      "thermal management",
-      "power transmission",
-      "hyperscaler spending",
-      "industrial stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Revenue more than doubled from 2021-2025, adjusted EBITDA tripled, backlog doubled year-over-year to $15B, and analysts expect 28% revenue and 38% EBITDA CAGRs through 2028. Strong partnership with Nvidia positions it well for AI infrastructure growth."
-      },
-      {
-        "ticker": "PWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Year-end backlog more than doubled from $19.3B to $44B (2021-2025), driven by cloud and AI market expansion. Analysts expect 17% revenue and 19% EBITDA CAGRs through 2028. Positioned to benefit from grid upgrades and renewable energy infrastructure buildout."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner to Vertiv and driver of demand for infrastructure upgrades due to power-hungry AI chips, but not the primary focus of the investment thesis."
-      }
-    ]
-  },
-  {
-    "id": "3172dd176b00175e42c5a39c8464ec23a6d90f7b33774b3e9855a3a0d06842f6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Top Power Stocks That Could Outperform the Market Through 2030",
-    "author": "John Ballard",
-    "published_utc": "2026-07-12T18:23:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/12/2-top-power-stocks-could-outperform-market/?source=iedfolrf0000001",
-    "tickers": [
-      "VRT",
-      "GEV"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878264%2Ftop-power-stocks-to-invest-in-ai-growth.jpg&w=1200&op=resize",
-    "description": "As AI data centers require massive power infrastructure investments (estimated at $6 trillion by 2030), two companies are positioned for significant growth: Vertiv Holdings, which supplies cooling and power management systems with 30% YoY revenue growth, and GE Vernova, a gas turbine supplier with a $163 billion order backlog. Both stocks have already surged this year and are expected to continue outperforming the market through 2030.",
-    "keywords": [
-      "AI infrastructure",
-      "data centers",
-      "power management",
-      "gas turbines",
-      "energy demand",
-      "order backlog",
       "hyperscalers"
     ],
     "insights": [
       {
-        "ticker": "VRT",
+        "ticker": "CAT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong 30% YoY revenue growth accelerating during AI boom, robust pipeline, raised full-year guidance (29-31% growth expected), deep relationships with hyperscalers, and McKinsey estimates of $6 trillion data center investment by 2030 support continued outperformance potential."
+        "sentiment_reasoning": "Strong revenue growth (24% YoY) with power generation segment up 72% due to data center demand. Stock up 91% in past 12 months. Positioned as key AI infrastructure supplier with natural gas generators for data centers."
       },
       {
-        "ticker": "GEV",
+        "ticker": "ETN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Massive 71% YoY order backlog growth ($163 billion), supplies 25% of world's electricity, 16% YoY revenue growth, and Goldman Sachs projects 165% rise in data center power demand by 2030, positioning the company for substantial earnings growth and long-term profitability."
+        "sentiment_reasoning": "Provides essential power distribution and circuit protection for data centers. Revenue growth of 21% YoY ($8.53B vs $7.02B). Benefits from increasing power demands as AI clusters now consume up to 500 MW. Stock up 13% in past year."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Specialized power and cooling hardware for data centers with custom solutions for Nvidia's Vera Rubin architecture. Revenue up 24% YoY to $3.27B with net income up 54%. Stock up 115% in past year, indicating strong market recognition."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Increased capex from $200B to $220B for AI data centers. Facing similar investor scrutiny as other hyperscalers regarding AI spending returns. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Issuing new debt to fund AI ambitions. Facing investor pressure during 'show me' phase of AI. Mentioned as subject of uncertainty rather than recommendation."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as beneficiary of AI infrastructure spending through its Vera Rubin architecture that Vertiv designs solutions for. Not directly analyzed in the article."
+      }
+    ]
+  },
+  {
+    "id": "52157b0cdbf3a2ac3bd876260cdacd22bf75e7ff508f0982834017fb7f9a73e7",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-09-03T08:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/03/millionaire-artificial-intelligence-ai-stock-buy/?source=iedfolrf0000001",
+    "tickers": [
+      "ALAB",
+      "CRDO",
+      "VRT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885595%2Fgettyimages-2217957588-1.jpg&w=1200&op=resize",
+    "description": "The article highlights three AI infrastructure stocks\u2014Astera Labs, Credo Technology, and Vertiv\u2014that address critical bottlenecks in AI data center scaling. Astera Labs specializes in connectivity solutions with 93% YoY revenue growth and a $6.5B Amazon warrant agreement. Credo Technology manufactures active electrical cables with 272% YoY growth but faces customer concentration risks. Vertiv dominates power and cooling systems with a $15B backlog and strong positioning in liquid cooling demand.",
+    "keywords": [
+      "AI infrastructure",
+      "data center bottlenecks",
+      "connectivity solutions",
+      "active electrical cables",
+      "power distribution",
+      "liquid cooling",
+      "high-growth stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "ALAB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 93% YoY revenue growth, high 76.3% gross margins indicating design-focused business model, Scorpio product family expected to become largest product line, and strategic $6.5B warrant agreement with Amazon provide significant growth catalysts and validation."
+      },
+      {
+        "ticker": "CRDO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional 272% YoY revenue growth with guidance above 200% for full-year, steep adoption curve for active electrical cables, and expanding product portfolio (ZeroFlap Optics, OmniConnect gearboxes). However, sentiment is tempered by significant customer concentration risk and high stock volatility."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Massive $15B backlog with 2.9 book-to-bill ratio indicating strong demand, binding purchase orders with advance payments, and strategic positioning in liquid cooling where lead times have extended significantly. Expanding manufacturing capacity by 40-50% demonstrates confidence in sustained demand."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner through Astera Labs' $6.5B warrant agreement, indicating Amazon's commitment to AI infrastructure scaling, but no direct investment recommendation or analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "0f46d5f443ee2ae57d4702cc8827cb91ef67fd86a4644b2048cfa16bfd79f319",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Vertiv Just Made an Up to $2.6 Billion Bet to Solve AI Data Centers' Biggest Bottleneck",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-09-03T06:30:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/03/vertiv-just-made-an-up-to-usd2-6-billion-bet-to-solve-ai-data-centers-biggest-bottleneck/?source=iedfolrf0000001",
+    "tickers": [
+      "VRT",
+      "BE"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F41bf32cf7080c04d5b191509ee8c43a6ca4c7e0c-6720x3780.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Vertiv is acquiring Utility Innovations for up to $2.6 billion to address the power supply bottleneck in AI data centers. The deal extends Vertiv's capabilities across the full power value chain from grid to chip, including microgrid solutions and on-site generation, enabling faster time-to-power for data center developers.",
+    "keywords": [
+      "AI data centers",
+      "power infrastructure",
+      "Vertiv acquisition",
+      "Utility Innovations",
+      "microgrid solutions",
+      "time to power",
+      "on-site generation",
+      "energy storage"
+    ],
+    "insights": [
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strategic acquisition expands capabilities to solve critical AI data center bottleneck; expected to be accretive to earnings in first year; positions company across full power value chain; supports continued robust growth trajectory with 31% sales growth and 72% EPS surge expected"
+      },
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as beneficiary of accelerating demand for on-site power solutions; demonstrated rapid deployment capability (55 days vs. 90-day target); expected 100% revenue growth in 2026; partnership expansion with Oracle validates market opportunity"
       }
     ]
   }

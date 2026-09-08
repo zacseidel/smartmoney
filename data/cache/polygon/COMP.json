@@ -1,0 +1,36 @@
+{
+  "ticker": "COMP",
+  "name": "Compass, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001563190",
+  "composite_figi": "BBG00J5SXTH3",
+  "share_class_figi": "BBG00J5SXTJ1",
+  "market_cap": 8536208285.599999,
+  "phone_number": "646-982-0353",
+  "address": {
+    "address1": "110 FIFTH AVENUE",
+    "address2": "4TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "postal_code": "10011"
+  },
+  "description": "Compass Inc provides an end-to-end platform that empowers residential real estate agents to deliver exceptional service to seller and buyer clients. The platform includes an integrated suite of cloud-based software for customer relationship management, marketing, client service and other critical functionality, all custom-built for the real estate industry and enabling core brokerage services. Business operations are conducted in the United States and earn revenue domestically.",
+  "sic_code": "6531",
+  "sic_description": "REAL ESTATE AGENTS & MANAGERS (FOR OTHERS)",
+  "ticker_root": "COMP",
+  "homepage_url": "https://www.compass.com",
+  "total_employees": 3200,
+  "list_date": "2021-04-01",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Y29tcGFzcy5jb20/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Y29tcGFzcy5jb20/images/2026-09-01_icon.png"
+  },
+  "share_class_shares_outstanding": 757522197,
+  "weighted_shares_outstanding": 767644630,
+  "round_lot": 100
+}

@@ -1,63 +1,19 @@
 [
   {
-    "id": "4afb6dd259fe1eaebafa44defb200b3026a16c7fc11baea88f9e08c0c538bd10",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Public-Private Partnership Advances a 200-Unit Affordable Housing Community in Raleigh, North Carolina",
-    "author": "Not Specified",
-    "published_utc": "2026-07-28T13:53:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334397/0/en/Public-Private-Partnership-Advances-a-200-Unit-Affordable-Housing-Community-in-Raleigh-North-Carolina.html",
-    "tickers": [
-      "C",
-      "CpN",
-      "CpR"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/6128fa97-10df-4109-86e9-faf98d3b97db",
-    "description": "A $93 million affordable housing development called Chapanoke has closed in Raleigh, NC, delivering 200 units for households earning 30-70% of Area Median Income. The project is a public-private partnership between Harmony Housing Affordable Development Inc., Gilbane Development, and F7 International Development, with financing from Greystone Real Estate Capital, Greystone Housing Impact Investors LP, Citi Community Capital, Wake County, and the City of Raleigh. Construction is expected to complete in early 2028.",
-    "keywords": [
-      "affordable housing",
-      "public-private partnership",
-      "Raleigh North Carolina",
-      "housing development",
-      "community revitalization",
-      "transit-oriented development",
-      "low-income housing tax credits"
-    ],
-    "insights": [
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Providing permanent financing for affordable housing project, demonstrating commitment to community development and affordable housing initiatives."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Providing permanent financing for affordable housing project, demonstrating commitment to community development and affordable housing initiatives."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Providing permanent financing for affordable housing project, demonstrating commitment to community development and affordable housing initiatives."
-      }
-    ]
-  },
-  {
-    "id": "0f12ebbabbb209cd500427775aee22f7a702cc7a1d502021d1b235dac51281e1",
+    "id": "bb80186e269b1baa37bc180b501b78c905091dc0cfdc73202fbab18d16746ad4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-26T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/what-big-bank-earnings-just-revealed-about-the-hea/?source=iedfolrf0000001",
+    "title": "The iShares Europe Financials ETF Outperforms First Trust Bank ETF on Yield, Cost, and Performance",
+    "author": "Sarah Sidlow",
+    "published_utc": "2026-09-08T12:04:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/08/ishares-europe-financials-etf-outperforms-first-trust-bank-etf/?source=iedfolrf0000001",
     "tickers": [
+      "EUFN",
+      "FTXO",
       "BAC",
       "BACpB",
       "BACpE",
@@ -74,13 +30,6 @@
       "BMLpJ",
       "BMLpL",
       "MERpK",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -92,272 +41,193 @@
       "VYLD",
       "C",
       "CpN",
-      "CpR"
+      "CpR",
+      "HSBC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879627%2F26_07_24-a-person-in-a-suit-with-their-head-against-a-wall-in-worry-_mf-dload-gettyimages-1194953668-929x800-062eea1.jpg&w=1200&op=resize",
-    "description": "Big bank Q2 2026 earnings reveal that U.S. consumers remain financially healthy despite economic headwinds from inflation and high oil prices. Key credit metrics from Bank of America, Wells Fargo, JPMorgan Chase, and Citigroup show improving or stable charge-off and non-performing loan ratios, suggesting consumers are managing debt well and recession fears may be overstated.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93b56fbcd074a01f33741ab9a66bb5b3e30875ca-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The iShares MSCI Europe Financials ETF (EUFN) outperforms the First Trust Nasdaq Bank ETF (FTXO) across multiple metrics, including a lower expense ratio (0.49% vs 0.6%), higher dividend yield (3.9% vs 1.7%), and superior 1-year returns (31.6% vs 18.4%). EUFN offers broader diversification with 84 European holdings and lower volatility, making it the more attractive option for income and growth-focused investors.",
     "keywords": [
-      "consumer health",
-      "bank earnings",
-      "credit metrics",
-      "charge-off ratio",
-      "non-performing loans",
-      "inflation",
-      "recession risk",
-      "credit cards"
+      "ETF comparison",
+      "European financials",
+      "dividend yield",
+      "expense ratio",
+      "financial sector",
+      "diversification"
     ],
     "insights": [
       {
-        "ticker": "BAC",
+        "ticker": "EUFN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment_reasoning": "EUFN demonstrates superior performance with 31.6% 1-year returns, lower expense ratio (0.49%), higher dividend yield (3.9%), larger AUM ($4.3B), lower volatility (beta 0.85), and better 5-year growth ($2,647 vs $1,461). It offers broader diversification across 84 stocks with lower maximum drawdown."
+      },
+      {
+        "ticker": "FTXO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "FTXO underperforms across key metrics with lower 1-year returns (18.4%), higher expense ratio (0.6%), lower dividend yield (1.7%), smaller AUM ($304M), higher volatility (beta 1.03), and worse 5-year performance. It offers concentrated exposure to only 42 U.S. bank holdings."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.8% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.3% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "C",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.7% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "CpN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.7% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
       },
       {
         "ticker": "CpR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a top holding in FTXO (8.7% position) but no independent analysis provided. Included as part of the underperforming U.S. bank ETF comparison."
+      },
+      {
+        "ticker": "HSBC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the largest holding in EUFN (9.8% position) but no independent analysis provided. Included as part of the outperforming European financials ETF."
       }
     ]
   },
   {
-    "id": "ee2dd778e7a179ae04e6243ffa8753e697fe7c3e14e3c8ce31b22b5b89fe391f",
+    "id": "43e48ab11aa3a608b16e0ce4e12d19f8f7b9d170f74e3b67730399bff9702920",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Why Did Micron Stock Drop Friday?",
-    "author": "Rich Smith",
-    "published_utc": "2026-07-24T14:33:54Z",
-    "article_url": "https://www.fool.com/investing/2026/07/24/why-did-micron-stock-drop-friday/?source=iedfolrf0000001",
+    "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
+    "author": "Na",
+    "published_utc": "2026-09-07T16:26:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986029/c-nears-china-brokerage-license-can-onshore-expansion-boost-growth?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2986029",
     "tickers": [
-      "MU",
-      "INTC",
       "C",
       "CpN",
-      "CpR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880474%2Fmicron-building-at-night-with-micron-logo-on-top-is-mu.jpg&w=1200&op=resize",
-    "description": "Micron stock fell 5.7% Friday despite bullish semiconductor news. Citigroup called the sector sell-off a buying opportunity, citing strong AI and data center demand for memory chips. Intel also reported better-than-expected earnings with 25% revenue growth. However, investors sold Micron shares anyway, seemingly misreading the positive industry developments.",
-    "keywords": [
-      "semiconductor stocks",
-      "AI chips",
-      "memory chips",
-      "data center demand",
-      "stock sell-off",
-      "earnings beat"
-    ],
-    "insights": [
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamentals with insatiable data center demand driving AI and memory chip sales. Citi identifies semiconductor sector as buying opportunity with demand expected to outstrip supply through 2030. However, stock price declined, suggesting market sentiment diverges from fundamentals."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported significant earnings beat with pro forma profits of $0.42 per share (double expectations) and 25% revenue growth, the fastest in nearly 15 years. Strong demand for Xeon processors for AI inference solutions demonstrates robust market position."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned as analyst/advisor providing market perspective on semiconductor sector opportunity rather than being directly impacted by the news discussed."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned as analyst/advisor providing market perspective on semiconductor sector opportunity rather than being directly impacted by the news discussed."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned as analyst/advisor providing market perspective on semiconductor sector opportunity rather than being directly impacted by the news discussed."
-      }
-    ]
-  },
-  {
-    "id": "7fbcc7b833135214d1afd5cdbc14c574e28ae58988c01ad68b8d945bf573a731",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "S&P 500 Earnings Growth Remains Narrow as Energy and Technology Lead",
-    "author": "Louis Navellier",
-    "published_utc": "2026-07-14T18:21:00Z",
-    "article_url": "https://www.investing.com/analysis/sp-500-earnings-growth-remains-narrow-as-energy-and-technology-lead-200683917",
-    "tickers": [
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
+      "CpR",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -367,138 +237,138 @@
       "JPMpL",
       "JPMpM",
       "VYLD",
-      "C",
-      "CpN",
-      "CpR",
-      "IBM",
-      "TSM",
-      "WDFC"
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "HSBC"
     ],
-    "amp_url": "https://m.investing.com/analysis/sp-500-earnings-growth-remains-narrow-as-energy-and-technology-lead-200683917?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "S&P 500 earnings season shows strong performance with major banks beating expectations, though IBM missed due to data center competition. Energy, technology, and semiconductors are leading earnings growth. Positive analyst revisions suggest stronger underlying earnings ahead. Taiwan Semiconductor Manufacturing reported record June sales of $13.99 billion, signaling strong AI and semiconductor momentum. Cooling inflation data with June CPI declining 0.4% reduces Fed rate hike expectations.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/33/496.jpg",
+    "description": "Citigroup is on track to receive final regulatory approval for a wholly owned China brokerage business by September 2026. The platform will offer A-share brokerage, underwriting, research, and principal trading services, enabling the bank to deepen client relationships and increase its investment-banking wallet share above 6%. This expansion aligns with Citigroup's OneCiti strategy and repositioning toward institutional banking in China following the sale of its consumer banking business to HSBC in 2024.",
     "keywords": [
-      "earnings season",
-      "S&P 500",
-      "energy stocks",
-      "technology stocks",
-      "semiconductors",
-      "inflation",
-      "CPI",
-      "AI stocks",
-      "data centers"
+      "China brokerage license",
+      "regulatory approval",
+      "investment banking",
+      "wallet share",
+      "institutional banking",
+      "capital markets",
+      "OneCiti strategy"
     ],
     "insights": [
       {
-        "ticker": "GS",
+        "ticker": "C",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
       },
       {
         "ticker": "GSpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
       },
       {
         "ticker": "GSpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
       },
       {
         "ticker": "GSpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
       },
       {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank beat earnings expectations during earnings season"
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Missed earnings expectations due to losing market share to data centers"
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Announced record June sales of $13.99 billion with 67.9% growth, exceeding analyst expectations; strong sales bode well for continued AI and semiconductor momentum"
-      },
-      {
-        "ticker": "WDFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged following 43.1% earnings surprise, demonstrating market reward for strong earnings announcements"
+        "ticker": "HSBC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as the acquirer of Citigroup's China consumer banking business in 2024. No new developments or strategic implications are discussed."
       }
     ]
   },
   {
-    "id": "595a039e7642ee977fb028b0dc6f03952c5abc4a03b41553ba2fe33c9dcb5669",
+    "id": "2f9dbd7991fb08e5f497d0a26b7239b9057e1cfc06158f26f4543eefe8ed1d99",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "5 of America's Biggest Banks Report Q2 Earnings Tuesday. Here's What Wall Street Is Watching.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-07-13T07:37:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/13/5-of-americas-biggest-banks-report-q2-earnings-tue/?source=iedfolrf0000001",
+    "title": "Capital Markets Momentum Fades: What it Means for Big Banks in Q3",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986006/capital-markets-momentum-fades-what-it-means-for-big-banks-in-q3?cid=CS-ZC-FT-analyst_blog|industry_focus-2986006",
     "tickers": [
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -508,20 +378,6 @@
       "JPMpL",
       "JPMpM",
       "VYLD",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "C",
-      "CpN",
-      "CpR",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
       "BAC",
       "BACpB",
       "BACpE",
@@ -537,214 +393,494 @@
       "BMLpH",
       "BMLpJ",
       "BMLpL",
-      "MERpK"
+      "MERpK",
+      "C",
+      "CpN",
+      "CpR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878551%2Fbank-stocks-earnings.jpg&w=1200&op=resize",
-    "description": "Five major U.S. banks\u2014JPMorgan Chase, Wells Fargo, Citigroup, Goldman Sachs, and Bank of America\u2014report Q2 earnings on Tuesday. With the Federal Reserve maintaining elevated interest rates, net interest income (NII) is the key metric to watch. Investors should also monitor credit-loss provisions to assess consumer health and investment banking activity for signs of broader market recovery.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2e/65031.jpg",
+    "description": "U.S. banks enter Q3 2026 with supportive lending conditions but face mixed capital markets trends. Investment banking volumes declined 6% YoY in July due to weak debt markets, though M&A and equity underwriting showed strength. Goldman Sachs and Morgan Stanley face greater sensitivity to capital markets weakness, while diversified banks like JPMorgan, Bank of America, and Citigroup benefit from broader revenue streams including loan and deposit growth.",
     "keywords": [
-      "Q2 earnings",
-      "net interest income",
-      "interest rates",
-      "credit provisions",
       "investment banking",
-      "consumer credit",
-      "bank stocks"
+      "capital markets",
+      "Q3 2026 earnings",
+      "debt capital markets",
+      "M&A activity",
+      "equity underwriting",
+      "trading revenues",
+      "loan growth",
+      "deposit growth"
     ],
     "insights": [
       {
+        "ticker": "GS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
         "ticker": "AMJB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "JPMpM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "VYLD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. bank with strong Q1 performance (13% net income growth, 9% NII growth), record $11.6B markets revenue, and 28% increase in investment banking fees. Sets the tone for the sector."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NII bet with elevated interest rates favoring its lending-focused business model. Recently freed from asset cap constraints, enabling balance sheet growth and loan/deposit expansion."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Turnaround story showing momentum with 14% revenue growth and improved profitability metrics. However, as a major credit card lender, rising provisions could signal consumer stress."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Turnaround story showing momentum with 14% revenue growth and improved profitability metrics. However, as a major credit card lender, rising provisions could signal consumer stress."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Turnaround story showing momentum with 14% revenue growth and improved profitability metrics. However, as a major credit card lender, rising provisions could signal consumer stress."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Direct beneficiary of dealmaking rebound with 48% jump in investment banking fees and strong trading revenue ($9B+) in Q1. Results could signal broader banking sector recovery."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Direct beneficiary of dealmaking rebound with 48% jump in investment banking fees and strong trading revenue ($9B+) in Q1. Results could signal broader banking sector recovery."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Direct beneficiary of dealmaking rebound with 48% jump in investment banking fees and strong trading revenue ($9B+) in Q1. Results could signal broader banking sector recovery."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Direct beneficiary of dealmaking rebound with 48% jump in investment banking fees and strong trading revenue ($9B+) in Q1. Results could signal broader banking sector recovery."
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
       },
       {
         "ticker": "BAC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BACpS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BMLpG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BMLpH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BMLpJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "BMLpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
       },
       {
         "ticker": "MERpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Deposit-funded lender benefiting from elevated rates with widened spreads. Strong Q1 performance, record consumer checking accounts (38.5M), and raised full-year NII guidance to 6-8%."
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      }
+    ]
+  },
+  {
+    "id": "577b2e3a08bf9f31a099fc6f54ebf93621ede0d3c09120db02b436bf846c111c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Citigroup (C) Outpaces Stock Market Gains: What You Should Know",
+    "author": "Na",
+    "published_utc": "2026-09-02T21:45:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2984086/citigroup-c-outpaces-stock-market-gains-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2984086",
+    "tickers": [
+      "C",
+      "CpN",
+      "CpR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default309.jpg",
+    "description": "Citigroup (C) closed at $134.38, up 1.39% in the latest session, outperforming the S&P 500. The stock has declined 3.16% over the past month. The company is expected to report Q3 2026 earnings on October 13 with forecasted EPS of $2.68 (up 19.64% YoY) and revenue of $23.74 billion (up 7.46% YoY). Citigroup holds a Zacks Rank #2 (Buy) with a Forward P/E of 11.83, trading at a discount to its industry average of 14.46.",
+    "keywords": [
+      "Citigroup",
+      "earnings forecast",
+      "stock performance",
+      "Zacks Rank",
+      "valuation",
+      "financial sector"
+    ],
+    "insights": [
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup received a Zacks Rank #2 (Buy) rating with strong earnings growth forecasts (19.64% EPS growth and 7.46% revenue growth expected). The stock trades at a valuation discount (Forward P/E of 11.83 vs. industry average of 14.46) and has a favorable PEG ratio of 0.6, indicating attractive growth-adjusted valuation. Recent estimate revisions show upward momentum."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup received a Zacks Rank #2 (Buy) rating with strong earnings growth forecasts (19.64% EPS growth and 7.46% revenue growth expected). The stock trades at a valuation discount (Forward P/E of 11.83 vs. industry average of 14.46) and has a favorable PEG ratio of 0.6, indicating attractive growth-adjusted valuation. Recent estimate revisions show upward momentum."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup received a Zacks Rank #2 (Buy) rating with strong earnings growth forecasts (19.64% EPS growth and 7.46% revenue growth expected). The stock trades at a valuation discount (Forward P/E of 11.83 vs. industry average of 14.46) and has a favorable PEG ratio of 0.6, indicating attractive growth-adjusted valuation. Recent estimate revisions show upward momentum."
+      }
+    ]
+  },
+  {
+    "id": "bc9c286791bc4017d720fc865c8f3b23a46d6441a0367687f61713449b3fd6e4",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Major Banks Make a Move Into Stablecoins: What Should Investors Watch?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T14:14:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983832/major-banks-make-a-move-into-stablecoins-what-should-investors-watch?cid=CS-ZC-FT-analyst_blog|industry_focus-2983832",
+    "tickers": [
+      "C",
+      "CpN",
+      "CpR",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "CRCL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a7/148399.webp",
+    "description": "A consortium of 21 major global banks including Citigroup, Bank of America, Goldman Sachs, and Wells Fargo plans to launch a U.S. dollar-denominated stablecoin in the first half of 2027, enabled by the new GENIUS Act regulatory framework. While this represents a long-term strategic opportunity for the participating banks, it poses a competitive threat to Circle Internet Group's USDC stablecoin, which currently dominates the market with $73.3B in circulation.",
+    "keywords": [
+      "stablecoins",
+      "digital payments",
+      "blockchain",
+      "GENIUS Act",
+      "regulatory framework",
+      "USDC",
+      "cryptocurrency",
+      "financial institutions"
+    ],
+    "insights": [
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Long-term strategic opportunity to leverage global transaction-banking and cross-border payment capabilities as blockchain-based settlement expands among corporations and financial institutions."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Long-term strategic opportunity to leverage global transaction-banking and cross-border payment capabilities as blockchain-based settlement expands among corporations and financial institutions."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Long-term strategic opportunity to leverage global transaction-banking and cross-border payment capabilities as blockchain-based settlement expands among corporations and financial institutions."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can deepen payment and treasury relationships with commercial and corporate clients as they adopt tokenized forms of money through the stablecoin initiative."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from greater institutional adoption of tokenized assets and blockchain-based settlement, particularly in capital markets integration."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from greater institutional adoption of tokenized assets and blockchain-based settlement, particularly in capital markets integration."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from greater institutional adoption of tokenized assets and blockchain-based settlement, particularly in capital markets integration."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from greater institutional adoption of tokenized assets and blockchain-based settlement, particularly in capital markets integration."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can enhance treasury management and payment offerings for corporate customers through stablecoin infrastructure."
+      },
+      {
+        "ticker": "CRCL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Faces credible competitive risk to its USDC stablecoin from a bank-backed alternative with strong regulatory standing and distribution networks, potentially pressuring market share and reserve income which comprises 95% of revenues."
       }
     ]
   }

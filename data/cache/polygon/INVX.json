@@ -1,0 +1,35 @@
+{
+  "ticker": "INVX",
+  "name": "Innovex International, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001042893",
+  "composite_figi": "BBG000BVDBY2",
+  "share_class_figi": "BBG001SB9LK4",
+  "market_cap": 2102970317.89,
+  "phone_number": "(346) 398-0000",
+  "address": {
+    "address1": "19120 KENSWICK DRIVE",
+    "city": "HUMBLE",
+    "state": "TX",
+    "postal_code": "77338"
+  },
+  "description": "Innovex International Inc designs, manufactures, sells, and rents mission-critical engineered products to the oil and natural gas industry. Its products are Subsea, Surface Wellheads, Well Construction, Well Completion, Production Solutions, Fishing & Intervention. Its products support upstream onshore and offshore activities. The group's geographic regions are North America, Latin America, Middle East & Asia Pacific, and Europe & Africa.",
+  "sic_code": "3533",
+  "sic_description": "OIL & GAS FIELD MACHINERY & EQUIPMENT",
+  "ticker_root": "INVX",
+  "homepage_url": "https://www.innovex-inc.com",
+  "total_employees": 2160,
+  "list_date": "2024-09-09",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/aW5ub3ZleC1pbmMuY29t/images/2026-09-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/aW5ub3ZleC1pbmMuY29t/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 69935827,
+  "weighted_shares_outstanding": 69935827,
+  "round_lot": 100
+}

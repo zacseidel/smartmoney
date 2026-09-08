@@ -1,121 +1,17 @@
 [
   {
-    "id": "347844e9114cffe92895aef9ef5d23cedea8cd8af14867bb24deb099b1fc75eb",
+    "id": "6cd72c25d32b9528c72cad30776d845c5d3e0d61e8031ee128288e99d02e1cbb",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "5 Compelling Stocks Worth Buying More Of Right Now (Including Broadcom)",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-07-21T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/21/5-compelling-stocks-worth-buying-more-of-right-now/?source=iedfolrf0000001",
+    "title": "Can Verizon's Disaster Preparedness Boost Customer Satisfaction?",
+    "author": "Na",
+    "published_utc": "2026-09-01T15:40:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983335/can-verizon-s-disaster-preparedness-boost-customer-satisfaction?cid=CS-ZC-FT-analyst_blog|quick_take-2983335",
     "tickers": [
-      "AVGO",
-      "TSM",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ",
-      "VZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879133%2Fgettyimages-925486246.jpg&w=1200&op=resize",
-    "description": "The article recommends five stocks positioned to benefit from AI infrastructure build-out and connectivity demand: Broadcom (custom AI chips and networking), Taiwan Semiconductor Manufacturing (foundry services), Alphabet (search, cloud, and AI), T-Mobile (telecom growth via home internet), and Verizon (fiber expansion and dividends). While acknowledging risks including elevated valuations and geopolitical concerns, the author suggests gradually adding to positions that align with long-term investment goals.",
-    "keywords": [
-      "artificial intelligence",
-      "semiconductor",
-      "chip design",
-      "data center",
-      "connectivity",
-      "broadband",
-      "fiber",
-      "telecom",
-      "infrastructure"
-    ],
-    "insights": [
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as 'one of the most important companies in AI' with dominant market position in custom AI chips and networking gear, massive AI order backlog, and diversified revenue streams providing stability."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as an irreplaceable chokepoint in AI economy with 'extremely robust' AI demand, raised growth outlook, and $100 billion investment in advanced manufacturing capacity."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Combines profitable search business with fast-growing cloud and leading AI models; endorsed by Berkshire Hathaway's large stake; weaving AI across products rather than facing disruption."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Combines profitable search business with fast-growing cloud and leading AI models; endorsed by Berkshire Hathaway's large stake; weaving AI across products rather than facing disruption."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Combines profitable search business with fast-growing cloud and leading AI models; endorsed by Berkshire Hathaway's large stake; weaving AI across products rather than facing disruption."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Combines profitable search business with fast-growing cloud and leading AI models; endorsed by Berkshire Hathaway's large stake; weaving AI across products rather than facing disruption."
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as 'growth story in telecom' with strong customer acquisition, 500,000+ broadband additions in recent quarter, fiber expansion, and raised multiyear growth targets."
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as 'growth story in telecom' with strong customer acquisition, 500,000+ broadband additions in recent quarter, fiber expansion, and raised multiyear growth targets."
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as 'growth story in telecom' with strong customer acquisition, 500,000+ broadband additions in recent quarter, fiber expansion, and raised multiyear growth targets."
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as 'growth story in telecom' with strong customer acquisition, 500,000+ broadband additions in recent quarter, fiber expansion, and raised multiyear growth targets."
-      },
-      {
-        "ticker": "VZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offers defensive characteristics with hefty dividend, expanded fiber footprint to 30+ million homes through Frontier acquisition, and bundling strategy to defend customer base."
-      }
-    ]
-  },
-  {
-    "id": "fca6350c07a089b77f3b4602504b9260531e15067335ce87deaf5c20c08e8106",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Oil Pulls the Market Lower Again",
-    "author": "Motley Fool Staff",
-    "published_utc": "2026-07-19T23:15:01Z",
-    "article_url": "https://www.fool.com/investing/2026/07/19/oil-pulls-the-market-lower-again/?source=iedfolrf0000001",
-    "tickers": [
-      "MU",
-      "SNDK",
-      "F",
-      "FpB",
-      "FpC",
-      "FpD",
-      "STLA",
-      "AMT",
       "VZ",
       "T",
       "TBB",
@@ -124,367 +20,319 @@
       "TMUS",
       "TMUSI",
       "TMUSL",
-      "TMUSZ",
-      "ASTS",
-      "RIVN",
-      "AMZN"
+      "TMUSZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6464a95ef5b0c7eed43707092d73f742f795a40a-1280x720.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Oil prices surged 5% following the U.S. cancellation of Iran sanctions waivers and ceasefire declaration, triggering a market pullback with the Nasdaq down 5%. However, analysts suggest this may be overblown volatility driven by algorithmic trading rather than fundamental concerns. The market remains up 9% year-to-date despite sector rotation, with tech stocks experiencing significant swings. The podcast also discusses emerging low-cost EV options like Fiat's Topolino and Slate's $25,000 truck, questioning whether Americans will embrace practical, affordable vehicles. American Tower's debt is deemed manageable due to sticky telecom contracts, while satellite technology is unlikely to disrupt traditional tower infrastructure in the near term.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/30/115.jpg",
+    "description": "Verizon is mobilizing its network infrastructure and emergency response resources ahead of Tropical Storm Edouard in the Gulf. The company has positioned backup generators, portable power systems, and satellite connectivity to maintain communications for communities in Houston, Southeast Texas, and Southwest Louisiana. Verizon's Frontline Crisis Response Team, composed of former first responders and military personnel, is on standby to support public safety agencies at no cost.",
     "keywords": [
-      "oil prices",
-      "market volatility",
-      "inflation concerns",
-      "electric vehicles",
-      "tech stocks",
-      "interest rates",
-      "sector rotation",
-      "satellite technology",
-      "telecom infrastructure"
+      "Tropical Storm Edouard",
+      "network preparedness",
+      "emergency response",
+      "backup power systems",
+      "satellite connectivity",
+      "disaster management",
+      "public safety communications"
     ],
     "insights": [
       {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent 21% decline from highs, stock is up 200% year-to-date, demonstrating strong long-term performance despite short-term volatility"
-      },
-      {
-        "ticker": "SNDK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Down 31% from highs but part of memory/chip sector that has seen significant gains; volatility reflects sector momentum shifts"
-      },
-      {
-        "ticker": "F",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Ford Maverick positioned as competitive alternative to emerging low-cost EVs; established production and features provide advantage over startups"
-      },
-      {
-        "ticker": "FpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Ford Maverick positioned as competitive alternative to emerging low-cost EVs; established production and features provide advantage over startups"
-      },
-      {
-        "ticker": "FpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Ford Maverick positioned as competitive alternative to emerging low-cost EVs; established production and features provide advantage over startups"
-      },
-      {
-        "ticker": "FpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Ford Maverick positioned as competitive alternative to emerging low-cost EVs; established production and features provide advantage over startups"
-      },
-      {
-        "ticker": "STLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Topolino positioned as golf cart/micromobility vehicle rather than practical EV; limited market appeal for actual transportation needs"
-      },
-      {
-        "ticker": "AMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Debt of $45 billion is manageable due to sticky multi-year telecom contracts providing predictable cash flows; satellite technology unlikely to disrupt core business"
-      },
-      {
         "ticker": "VZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Long-term telecom partnerships with tower REITs remain stable; satellite technology will supplement rather than replace terrestrial networks"
+        "sentiment": "positive",
+        "sentiment_reasoning": "Verizon is demonstrating proactive disaster preparedness with comprehensive infrastructure investments including backup generators, portable power systems, and satellite connectivity. The company's dedicated Frontline Crisis Response Team and commitment to supporting public safety agencies at no cost reflects strong operational readiness and customer-focused crisis management."
       },
       {
         "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Core telecom business supported by tower infrastructure partnerships; satellite technology poses minimal disruption threat"
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T is highlighted as a competitor with comparable disaster preparedness capabilities, having recently deployed network recovery teams, portable generators, and dedicated FirstNet Response Operations Group support during Tropical Storm Lala in Hawaii."
       },
       {
         "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Core telecom business supported by tower infrastructure partnerships; satellite technology poses minimal disruption threat"
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T is highlighted as a competitor with comparable disaster preparedness capabilities, having recently deployed network recovery teams, portable generators, and dedicated FirstNet Response Operations Group support during Tropical Storm Lala in Hawaii."
       },
       {
         "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Core telecom business supported by tower infrastructure partnerships; satellite technology poses minimal disruption threat"
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T is highlighted as a competitor with comparable disaster preparedness capabilities, having recently deployed network recovery teams, portable generators, and dedicated FirstNet Response Operations Group support during Tropical Storm Lala in Hawaii."
       },
       {
         "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Core telecom business supported by tower infrastructure partnerships; satellite technology poses minimal disruption threat"
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T is highlighted as a competitor with comparable disaster preparedness capabilities, having recently deployed network recovery teams, portable generators, and dedicated FirstNet Response Operations Group support during Tropical Storm Lala in Hawaii."
       },
       {
         "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Telecom partnerships with tower operators remain valuable; satellite technology unlikely to replace terrestrial network economics"
+        "sentiment": "positive",
+        "sentiment_reasoning": "T-Mobile is noted as strengthening its disaster preparedness through network planning, emergency response teams, and deployable technology resources including mobile cell sites to maintain connectivity during severe weather events."
       },
       {
         "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Telecom partnerships with tower operators remain valuable; satellite technology unlikely to replace terrestrial network economics"
+        "sentiment": "positive",
+        "sentiment_reasoning": "T-Mobile is noted as strengthening its disaster preparedness through network planning, emergency response teams, and deployable technology resources including mobile cell sites to maintain connectivity during severe weather events."
       },
       {
         "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Telecom partnerships with tower operators remain valuable; satellite technology unlikely to replace terrestrial network economics"
+        "sentiment": "positive",
+        "sentiment_reasoning": "T-Mobile is noted as strengthening its disaster preparedness through network planning, emergency response teams, and deployable technology resources including mobile cell sites to maintain connectivity during severe weather events."
       },
       {
         "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Telecom partnerships with tower operators remain valuable; satellite technology unlikely to replace terrestrial network economics"
-      },
-      {
-        "ticker": "ASTS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Satellite technology faces physics limitations and spectrum licensing constraints; unlikely to replace terrestrial networks for primary phone connectivity"
-      },
-      {
-        "ticker": "RIVN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "EV startup mentioned in context of Amazon investments; faces challenges in competitive low-cost EV market"
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Invested in Rivian and Slate through CEO Bezos; diversifying into EV infrastructure but outcomes remain uncertain"
+        "sentiment": "positive",
+        "sentiment_reasoning": "T-Mobile is noted as strengthening its disaster preparedness through network planning, emergency response teams, and deployable technology resources including mobile cell sites to maintain connectivity during severe weather events."
       }
     ]
   },
   {
-    "id": "8389e45c73eba80e59ebde3391a83d9e4f176d1b285ecd1623ede041e0bcc39b",
+    "id": "8066f7b41e07e5d1620202fb6054fd5a329210563bedbca3127c900981266d15",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AT&T Benefits From Margin Expansion: Can the Trend Last?",
+    "author": "Na",
+    "published_utc": "2026-08-31T13:31:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982427/at-t-benefits-from-margin-expansion-can-the-trend-last?cid=CS-ZC-FT-analyst_blog|quick_take-2982427",
+    "tickers": [
+      "T",
+      "TBB",
+      "TpA",
+      "TpC",
+      "VZ",
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/43/204.jpg",
+    "description": "AT&T's Q2 results show improved profitability with adjusted EBITDA margin expanding to 39.1% and operating income rising 8.3% year-over-year. The company is on track to achieve $4 billion in annual cost savings by 2028 through network modernization and legacy copper network shutdown. Wireless gains, fiber growth, and service bundling are driving customer growth, while competitors Verizon and T-Mobile also report resilient performance despite market challenges.",
+    "keywords": [
+      "Q2 earnings",
+      "EBITDA margin expansion",
+      "cost transformation",
+      "5G and fiber growth",
+      "wireless service revenue",
+      "network modernization",
+      "customer churn reduction",
+      "competitive analysis"
+    ],
+    "insights": [
+      {
+        "ticker": "T",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 performance with 8.3% operating income growth, expanded EBITDA margins to 39.1%, 432,000 postpaid phone net additions, and on-track cost savings targets of $4 billion by 2028. Fiber and 5G expansion supporting revenue growth and profitability improvements."
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 performance with 8.3% operating income growth, expanded EBITDA margins to 39.1%, 432,000 postpaid phone net additions, and on-track cost savings targets of $4 billion by 2028. Fiber and 5G expansion supporting revenue growth and profitability improvements."
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 performance with 8.3% operating income growth, expanded EBITDA margins to 39.1%, 432,000 postpaid phone net additions, and on-track cost savings targets of $4 billion by 2028. Fiber and 5G expansion supporting revenue growth and profitability improvements."
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 performance with 8.3% operating income growth, expanded EBITDA margins to 39.1%, 432,000 postpaid phone net additions, and on-track cost savings targets of $4 billion by 2028. Fiber and 5G expansion supporting revenue growth and profitability improvements."
+      },
+      {
+        "ticker": "VZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with record adjusted EBITDA of $13.7 billion and 6.6% EPS growth, but GAAP net income declined 22.9% due to $1.8 billion in special charges from business dispositions and asset rationalization."
+      },
+      {
+        "ticker": "TMUS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operating expenses increased but profitability remained resilient with net income rising to $3.24 billion, diluted EPS up 5.3%, and core adjusted EBITDA growing 11.7% year-over-year, reflecting strong operating leverage."
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operating expenses increased but profitability remained resilient with net income rising to $3.24 billion, diluted EPS up 5.3%, and core adjusted EBITDA growing 11.7% year-over-year, reflecting strong operating leverage."
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operating expenses increased but profitability remained resilient with net income rising to $3.24 billion, diluted EPS up 5.3%, and core adjusted EBITDA growing 11.7% year-over-year, reflecting strong operating leverage."
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operating expenses increased but profitability remained resilient with net income rising to $3.24 billion, diluted EPS up 5.3%, and core adjusted EBITDA growing 11.7% year-over-year, reflecting strong operating leverage."
+      }
+    ]
+  },
+  {
+    "id": "91ce4677ca9beebc9dd08cd0865751b04c36c8f7cb801eba5dc1ce794b435301",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "ISSA VEO Conference Heads to Dallas During National Hispanic Heritage Month to Empower the Next Generation of Industry Leaders",
+    "author": "Issa",
+    "published_utc": "2026-08-06T23:23:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340886/0/en/ISSA-VEO-Conference-Heads-to-Dallas-During-National-Hispanic-Heritage-Month-to-Empower-the-Next-Generation-of-Industry-Leaders.html",
+    "tickers": [
+      "SRSR",
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ",
+      "SYHO"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/61574f0c-30f1-4907-a8ad-8b1111ef0cd9",
+    "description": "ISSA announces the 2026 VEO Conference returning to Dallas on September 28-29, focusing on empowering Hispanic professionals in the cleaning and facility solutions industries. The second annual event will feature keynote speaker Cherian Thomas from T-Mobile, bilingual education, leadership development, and networking opportunities centered on financial literacy, professional growth, and technology mastery.",
+    "keywords": [
+      "ISSA VEO Conference",
+      "Hispanic professionals",
+      "cleaning industry",
+      "leadership development",
+      "Dallas",
+      "National Hispanic Heritage Month",
+      "facility solutions",
+      "professional networking"
+    ],
+    "insights": [
+      {
+        "ticker": "SRSR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ISSA is expanding its VEO platform with a second annual conference, demonstrating growth and commitment to supporting Hispanic professionals in the industry. The event shows organizational momentum and investment in community engagement and professional development."
+      },
+      {
+        "ticker": "TMUS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the employer of the keynote speaker Cherian Thomas. The mention is promotional in nature with no material business impact or strategic significance to the company."
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the employer of the keynote speaker Cherian Thomas. The mention is promotional in nature with no material business impact or strategic significance to the company."
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the employer of the keynote speaker Cherian Thomas. The mention is promotional in nature with no material business impact or strategic significance to the company."
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the employer of the keynote speaker Cherian Thomas. The mention is promotional in nature with no material business impact or strategic significance to the company."
+      },
+      {
+        "ticker": "SYHO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CleanBoss Pro is listed as a conference sponsor, indicating brand visibility and association with industry leadership development initiatives targeting Hispanic professionals."
+      }
+    ]
+  },
+  {
+    "id": "8573cf51916a581fc0a7b90f11e2feb652d80d20b5a4716d325ba5d2ae34e3a7",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Cellhub Earns 3 Major \u201826 Channel Media Accolades, Recognizing its Value as a Unique Connectivity Services Provider",
+    "author": "Suzanne Mattaboni Communications",
+    "published_utc": "2026-08-05T17:52:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339586/0/en/Cellhub-Earns-3-Major-26-Channel-Media-Accolades-Recognizing-its-Value-as-a-Unique-Connectivity-Services-Provider.html",
+    "tickers": [
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/af3bab13-c032-4f16-8304-b4e837b289d2",
+    "description": "Cellhub, a 5G connectivity provider and Primary Agent for T-Mobile, has received three major industry accolades in 2026: CEO Andy Sinha was featured in CRN's CEO Outlook, Director of Partner Marketing Cindy Tank-Murphy was named to CRN's Women of the Channel list, and the company won ChannelVision magazine's Visionary Spotlight Award. These honors recognize Cellhub's expanding managed services portfolio, leadership in 5G/6G-ready connectivity solutions, and growing market presence serving healthcare, retail, and enterprise sectors.",
+    "keywords": [
+      "5G connectivity",
+      "managed services",
+      "T-Mobile Primary Agent",
+      "healthcare IT",
+      "retail connectivity",
+      "Zero Trust security",
+      "channel partners",
+      "MSPs",
+      "VARs"
+    ],
+    "insights": [
+      {
+        "ticker": "TMUS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the carrier for which Cellhub serves as a Primary Agent. The article does not provide information about T-Mobile's performance, strategy, or market position, so sentiment is neutral."
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the carrier for which Cellhub serves as a Primary Agent. The article does not provide information about T-Mobile's performance, strategy, or market position, so sentiment is neutral."
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the carrier for which Cellhub serves as a Primary Agent. The article does not provide information about T-Mobile's performance, strategy, or market position, so sentiment is neutral."
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only as the carrier for which Cellhub serves as a Primary Agent. The article does not provide information about T-Mobile's performance, strategy, or market position, so sentiment is neutral."
+      }
+    ]
+  },
+  {
+    "id": "2268ce57f35fec573220ed7e304d7bd470f25295d831498b5807ffb97f8d84b9",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "With a Nearly 7% Dividend Yield, Is Verizon Stock a Buy on SpaceX Fears?",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-07-15T10:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/15/with-a-nearly-7-dividend-yield-is-verizon-stock-a/?source=iedfolrf0000001",
+    "title": "T-Mobile Fell 11% on an Earnings Beat, Then Rebounded 6% the Next Day. Here's What's Going On.",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-07-29T15:26:00Z",
+    "article_url": "https://www.fool.com/investing/2026/07/29/t-mobile-fell-11-on-an-earnings-beat-then-rebounde/?source=iedfolrf0000001",
     "tickers": [
-      "VZ",
-      "SPCX",
       "TMUS",
       "TMUSI",
       "TMUSL",
       "TMUSZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878670%2Fvz.png&w=1200&op=resize",
-    "description": "Verizon's stock has declined following SpaceX's IPO amid investor concerns about satellite internet competition. However, the article argues the sell-off is overdone, citing technology constraints and regulatory barriers that prevent LEO satellites from matching terrestrial network capacity in dense areas. Verizon offers an attractive 6.7% dividend yield and a forward P/E of 8.6, with additional growth potential from bundling wireless and broadband services following its Frontier Communications acquisition.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881070%2F5g-smartphone-launch-event-stage-getty.png&w=1200&op=resize",
+    "description": "T-Mobile experienced significant volatility following its Q2 earnings report on July 23-24, 2026. The stock initially fell 10.75% despite beating profit expectations, then rebounded 5.67% the next day. While the company reported 9% service revenue growth and raised its free cash flow guidance to $18.4-18.8 billion, investors were concerned about slower expected account additions in Q3 due to planned rate plan migrations. The author argues the rebound was justified, as the company's core fundamentals\u2014service revenue growth, 10% EBITDA growth, and improved cash forecasts\u2014remain intact.",
     "keywords": [
-      "dividend yield",
-      "satellite internet",
-      "mobile carriers",
-      "LEO satellites",
-      "spectrum",
-      "broadband bundling",
+      "earnings report",
+      "stock volatility",
+      "service revenue growth",
       "free cash flow",
-      "regulatory barriers"
+      "rate plan migration",
+      "postpaid accounts",
+      "EBITDA growth",
+      "valuation"
     ],
     "insights": [
       {
-        "ticker": "VZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article presents Verizon as an attractive buy opportunity with a nearly 7% dividend yield, low leverage, well-covered dividend, and growth potential from Frontier acquisition bundling. SpaceX competition threat is deemed manageable due to technical and regulatory constraints."
-      },
-      {
-        "ticker": "SPCX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While SpaceX is positioned as a potential competitive threat, the article acknowledges its satellite technology is complementary rather than directly competitive with terrestrial networks due to capacity limitations and regulatory barriers to entering the mobile carrier space."
-      },
-      {
         "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of the three major carriers that formed a joint venture to address coverage gaps and fend off satellite competition risks, but no specific analysis or recommendation provided."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite initial market disappointment, T-Mobile's fundamentals remain strong with 9% service revenue growth, raised free cash flow guidance ($18.4-18.8B), maintained full-year guidance, 10% EBITDA growth, and a reasonable valuation at 14x forward earnings with a 10% free cash flow yield. The Q3 slowdown is temporary and deliberate due to planned rate plan migrations, not a sign of business deterioration."
       },
       {
         "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of the three major carriers that formed a joint venture to address coverage gaps and fend off satellite competition risks, but no specific analysis or recommendation provided."
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of the three major carriers that formed a joint venture to address coverage gaps and fend off satellite competition risks, but no specific analysis or recommendation provided."
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of the three major carriers that formed a joint venture to address coverage gaps and fend off satellite competition risks, but no specific analysis or recommendation provided."
-      }
-    ]
-  },
-  {
-    "id": "d8224089ef953f7cfaf8d4dd9e02a73963e3f7d94b80aa6a7ac93c927b9052d4",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "What AST SpaceMobile Could Be Worth in 2028, According to Analysts",
-    "author": "Rick Orford",
-    "published_utc": "2026-07-14T13:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/14/what-ast-spacemobile-could-be-worth-in-2028-accord/?source=iedfolrf0000001",
-    "tickers": [
-      "ASTS",
-      "VZ",
-      "T",
-      "TBB",
-      "TpA",
-      "TpC",
-      "VOD",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843453%2Fgettyimages-2101393152-1201x633-65d4be6.jpg&w=1200&op=resize",
-    "description": "AST SpaceMobile aims to provide global cellular coverage via low-Earth-orbit satellites through partnerships with major telecom operators. Analysts project the stock could reach $174-$290 by 2028 under a bullish scenario, assuming 5% subscriber adoption from 3 billion accessible users, 90% EBITDA margins, and $4.5 billion in net income. The company received FCC approval for U.S. operations and operates a B2B model with carriers like Verizon, AT&T, and Vodafone rather than competing directly with them.",
-    "keywords": [
-      "satellite constellation",
-      "cellular coverage",
-      "low-Earth-orbit satellites",
-      "telecom partnerships",
-      "EBITDA margins",
-      "subscriber adoption",
-      "FCC approval",
-      "revenue-sharing model"
-    ],
-    "insights": [
-      {
-        "ticker": "ASTS",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article presents a bullish investment case with potential stock price targets of $174-$290 by 2028, highlights FCC approval achievement, partnerships with major carriers, and a scalable B2B business model with potential for high operating margins. The company's innovative approach to filling coverage gaps is positioned as a competitive advantage."
-      },
-      {
-        "ticker": "VZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner for AST SpaceMobile's service delivery. The partnership is presented as mutually beneficial, allowing Verizon to reduce capital expenditure on infrastructure while gaining new revenue streams, but no specific impact on Verizon's valuation or performance is discussed."
-      },
-      {
-        "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key telecom operator partner for AST SpaceMobile's service. The partnership is framed as beneficial for both parties, but no direct impact on AT&T's business or stock is analyzed."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key telecom operator partner for AST SpaceMobile's service. The partnership is framed as beneficial for both parties, but no direct impact on AT&T's business or stock is analyzed."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key telecom operator partner for AST SpaceMobile's service. The partnership is framed as beneficial for both parties, but no direct impact on AT&T's business or stock is analyzed."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key telecom operator partner for AST SpaceMobile's service. The partnership is framed as beneficial for both parties, but no direct impact on AT&T's business or stock is analyzed."
-      },
-      {
-        "ticker": "VOD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the established telecom operators partnering with AST SpaceMobile. The partnership is presented as advantageous for carriers, but no specific analysis of impact on Vodafone is provided."
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as an example of a carrier offering satellite connectivity services (T-Satellite at $10/month). Used as a pricing reference point but not analyzed for competitive impact or strategic implications."
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as an example of a carrier offering satellite connectivity services (T-Satellite at $10/month). Used as a pricing reference point but not analyzed for competitive impact or strategic implications."
+        "sentiment_reasoning": "Despite initial market disappointment, T-Mobile's fundamentals remain strong with 9% service revenue growth, raised free cash flow guidance ($18.4-18.8B), maintained full-year guidance, 10% EBITDA growth, and a reasonable valuation at 14x forward earnings with a 10% free cash flow yield. The Q3 slowdown is temporary and deliberate due to planned rate plan migrations, not a sign of business deterioration."
       },
       {
         "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as an example of a carrier offering satellite connectivity services (T-Satellite at $10/month). Used as a pricing reference point but not analyzed for competitive impact or strategic implications."
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as an example of a carrier offering satellite connectivity services (T-Satellite at $10/month). Used as a pricing reference point but not analyzed for competitive impact or strategic implications."
-      }
-    ]
-  },
-  {
-    "id": "35ba0bd1042ea64e5d1576896bfcff2293af3487dc9237f371cfcdbac49692f0",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Where Will SpaceX Be in 3 Years?",
-    "author": "Chris Neiger",
-    "published_utc": "2026-07-06T16:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/06/where-will-spacex-be-in-3-years/?source=iedfolrf0000001",
-    "tickers": [
-      "SPCX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F863022%2Fgettyimages-1360560315-1201x676-3f04514.jpg&w=1200&op=resize",
-    "description": "SpaceX is positioned for significant growth across three business segments over the next three years: its neocloud AI data center business (with major deals from Google and Anthropic), Starlink satellite internet service (targeting 15 million U.S. subscribers by 2030), and rocket launches (expected to reach $8.3 billion in revenue by 2030). The company's Starship rockets could achieve a 90% reduction in launch costs, creating a competitive advantage. However, investors are advised to wait and see execution before investing.",
-    "keywords": [
-      "SpaceX",
-      "neocloud",
-      "AI data centers",
-      "Starlink",
-      "satellite internet",
-      "Starship rockets",
-      "space exploration",
-      "revenue growth"
-    ],
-    "insights": [
-      {
-        "ticker": "SPCX",
         "sentiment": "positive",
-        "sentiment_reasoning": "SpaceX is expanding into high-growth markets (AI data centers, satellite internet) with major contracts, strong revenue projections, and technological advantages. Starlink is profitable and growing rapidly. Starship rockets promise significant cost reductions and competitive moats."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google signed a three-year deal with SpaceX for data center capacity, indicating strategic partnership and investment in AI infrastructure, but this is mentioned as a supporting detail rather than a primary focus."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google signed a three-year deal with SpaceX for data center capacity, indicating strategic partnership and investment in AI infrastructure, but this is mentioned as a supporting detail rather than a primary focus."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google signed a three-year deal with SpaceX for data center capacity, indicating strategic partnership and investment in AI infrastructure, but this is mentioned as a supporting detail rather than a primary focus."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google signed a three-year deal with SpaceX for data center capacity, indicating strategic partnership and investment in AI infrastructure, but this is mentioned as a supporting detail rather than a primary focus."
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned speculatively as a potential acquisition target by SpaceX to expand internet services, but this is unconfirmed speculation with no concrete developments."
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned speculatively as a potential acquisition target by SpaceX to expand internet services, but this is unconfirmed speculation with no concrete developments."
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned speculatively as a potential acquisition target by SpaceX to expand internet services, but this is unconfirmed speculation with no concrete developments."
+        "sentiment_reasoning": "Despite initial market disappointment, T-Mobile's fundamentals remain strong with 9% service revenue growth, raised free cash flow guidance ($18.4-18.8B), maintained full-year guidance, 10% EBITDA growth, and a reasonable valuation at 14x forward earnings with a 10% free cash flow yield. The Q3 slowdown is temporary and deliberate due to planned rate plan migrations, not a sign of business deterioration."
       },
       {
         "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned speculatively as a potential acquisition target by SpaceX to expand internet services, but this is unconfirmed speculation with no concrete developments."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite initial market disappointment, T-Mobile's fundamentals remain strong with 9% service revenue growth, raised free cash flow guidance ($18.4-18.8B), maintained full-year guidance, 10% EBITDA growth, and a reasonable valuation at 14x forward earnings with a 10% free cash flow yield. The Q3 slowdown is temporary and deliberate due to planned rate plan migrations, not a sign of business deterioration."
       }
     ]
   }

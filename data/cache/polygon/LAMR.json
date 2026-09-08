@@ -1,0 +1,36 @@
+{
+  "ticker": "LAMR",
+  "name": "Lamar Advertising Co",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001090425",
+  "composite_figi": "BBG000FGMKY1",
+  "share_class_figi": "BBG001S8KJC2",
+  "market_cap": 15309630359.839998,
+  "phone_number": "(225) 926-1000",
+  "address": {
+    "address1": "C/O LAMAR ADVERTISING COMPANY",
+    "address2": "5321 CORPORATE BOULEVARD",
+    "city": "BATON ROUGE",
+    "state": "LA",
+    "postal_code": "70808"
+  },
+  "description": "Lamar Advertising Co is an outdoor advertising company that operates as a real estate investment trust. It is engaged in the outdoor advertising business, operating outdoor advertising displays and logo signs mainly near highway exits, delivering brand-name information on available gas, food, lodging, and camping services. Included in the company's logo sign business are tourism signing contracts. It also provides transit advertising services in airport terminals, on bus shelters, benches, and buses. The company manages its operations through three operating segments: Billboard, which generates maximum revenue, Logo, and Transit Advertising. Geographically, it operates in the United States and Canada.",
+  "sic_code": "6798",
+  "sic_description": "REAL ESTATE INVESTMENT TRUSTS",
+  "ticker_root": "LAMR",
+  "homepage_url": "https://www.lamar.com",
+  "total_employees": 3500,
+  "list_date": "1996-08-02",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bGFtYXIuY29t/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/bGFtYXIuY29t/images/2026-09-01_icon.png"
+  },
+  "share_class_shares_outstanding": 87129599,
+  "weighted_shares_outstanding": 101549684,
+  "round_lot": 100
+}

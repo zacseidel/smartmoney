@@ -1,286 +1,313 @@
 [
   {
-    "id": "f07ebe65618d218f2b75f015a9babe49d1f280d1cf816a471c218457d5e6a785",
+    "id": "0fc4602cc765aa7b57ce2e45c363a5351d6d5d9149fbdc7866b25f7b83c32255",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Prediction: This Dividend ETF Will Thrive After 20 Years No Matter What the Market Does",
-    "author": "James Brumley",
-    "published_utc": "2026-07-28T10:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/28/prediction-dividend-etf-thrive-20-years-schd/?source=iedfolrf0000001",
+    "title": "Merck Trading Near 52-Week High: Is the Stock a Buy, Hold or Sell?",
+    "author": "Na",
+    "published_utc": "2026-09-08T12:38:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986193/merck-trading-near-52-week-high-is-the-stock-a-buy-hold-or-sell?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986193",
     "tickers": [
-      "SCHD",
-      "VIG",
-      "DGRO",
-      "KO",
       "MRK",
-      "CVX",
-      "PG"
+      "MRNA",
+      "AZN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879524%2Fman-looking-in-the-distance-with-a-pair-of-binoculars.jpg&w=1200&op=resize",
-    "description": "The Schwab U.S. Dividend Equity ETF (SCHD) is recommended as the best dividend ETF for long-term investors seeking a 20-year income strategy. Unlike the Vanguard Dividend Appreciation ETF (VIG) and iShares Core Dividend Growth ETF (DGRO), SCHD maintains better sector balance and prioritizes dividend yield and fundamental value, with top holdings in stable consumer staples like Coca-Cola, Merck, Chevron, and Procter & Gamble that will remain relevant over decades.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3e/2848.jpg",
+    "description": "Merck's stock is trading near its 52-week high, driven by positive phase III data for its Keytruda-Moderna cancer therapy combo and strong fundamentals. Keytruda is expected to reach $35 billion in peak sales by 2028, with the company launching 20 new drugs by 2030. However, Merck faces significant headwinds including Keytruda's 2028 patent expiration, declining Gardasil vaccine sales, and generic erosion of diabetes and other drugs.",
     "keywords": [
-      "dividend ETF",
-      "long-term investing",
-      "sector balance",
-      "dividend yield",
-      "consumer staples",
-      "portfolio diversification"
+      "Keytruda patent cliff",
+      "cancer immunotherapy",
+      "pharmaceutical pipeline",
+      "biosimilar competition",
+      "vaccine sales decline",
+      "generic pressure",
+      "acquisitions strategy"
     ],
     "insights": [
-      {
-        "ticker": "SCHD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the superior choice among dividend ETFs due to its balanced sector exposure, higher dividend yield (3.13%), low expense ratio (0.06%), and focus on fundamentally sound dividend-paying companies with predictable long-term demand."
-      },
-      {
-        "ticker": "VIG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acknowledged as a solid option but criticized for excessive technology concentration (26% of portfolio) driven by AI hype, with top holdings (Broadcom, Apple, Microsoft) creating concentration risk and a lower trailing yield of 1.5%, making it more of a growth fund than income fund."
-      },
-      {
-        "ticker": "DGRO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Considered a solid option but flagged for poor sector balance with 21% in financials and 18% in healthcare during periods of potential secular headwinds in both industries, limiting its suitability for long-term stability."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a top holding in SCHD with proven dividend pedigree and a predictable business model that will remain in demand over 20 years."
-      },
       {
         "ticker": "MRK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in SCHD with established dividend history and fundamental strength, though healthcare sector faces some long-term cost challenges."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Merck demonstrates strong near-term growth drivers with Keytruda momentum and positive clinical data, but faces significant long-term challenges from Keytruda's 2028 patent expiration, declining Gardasil sales, and generic competition. The stock is rated Hold with valuation above historical averages, reflecting balanced risk-reward."
       },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a top holding in SCHD with proven dividend pedigree and a business model expected to remain relevant over the 20-year investment horizon."
-      },
-      {
-        "ticker": "PG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a top holding in SCHD with a strong dividend history and predictable consumer staples business model suitable for long-term income generation."
-      }
-    ]
-  },
-  {
-    "id": "b971884457588058681cdc8a8f193686131748dde91ad817e76cd5d07281b104",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "After Soaring Nearly 90% Thus Far in 2026, Is Moderna's Stock Still a Buy?",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-07-27T20:02:27Z",
-    "article_url": "https://www.fool.com/investing/2026/07/27/after-doubling-this-year-is-modernas-stock-still-a/?source=iedfolrf0000001",
-    "tickers": [
-      "MRNA",
-      "MRK"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880489%2Fa-doctor-looking-at-a-tablet-with-another-person.jpg&w=1200&op=resize",
-    "description": "Moderna's stock has surged nearly 90% in 2026, driven by positive FDA news about its flu vaccine mRNA-1010 in June. However, the rally appears unjustified as the vaccine is unlikely to generate significant revenue ($1B by 2028) and the company faces fundamental challenges including $3.4B in operating losses over the trailing 12 months, declining revenue, and dependence on COVID vaccine sales. With a $20B+ market cap and limited compelling growth catalysts beyond the experimental cancer vaccine mRNA-4157, the stock appears overvalued for its risk profile.",
-    "keywords": [
-      "Moderna stock",
-      "vaccine development",
-      "mRNA-1010 flu vaccine",
-      "mRNA-4157 cancer vaccine",
-      "operating losses",
-      "valuation concerns",
-      "COVID vaccine dependency"
-    ],
-    "insights": [
       {
         "ticker": "MRNA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite recent stock rally, the company faces significant headwinds including $3.4B in operating losses, declining revenue, limited near-term growth catalysts outside of flu/RSV vaccines, and overvaluation relative to risk. The FDA approval of mRNA-1010 does not justify the premium valuation given competitive market and modest revenue potential."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moderna's personalized cancer therapy (intismeran autogene) in combination with Keytruda met primary and key secondary endpoints in phase III INTerpath-001 study, demonstrating clinical progress and potential commercial opportunity in oncology."
       },
       {
-        "ticker": "MRK",
+        "ticker": "AZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Merck is mentioned as a partner in developing mRNA-4157 (personalized cancer vaccine), which remains in development with no approval guarantee. The partnership represents potential upside but carries development risk and is not a primary focus of the article's analysis."
+        "sentiment_reasoning": "AstraZeneca's Lynparza is mentioned as a partner drug contributing to Merck's oncology portfolio growth, but receives minimal focus in the article with no specific performance metrics or concerns highlighted."
       }
     ]
   },
   {
-    "id": "cfc90c87ae8f97741bd8c21f09320bb03aae4a014cbc6df4ca14112c11778503",
+    "id": "21d6548cf186dc37ae508edbd5bd3ebc0005986dcad625631a8b303bb68f590b",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Ascentage Pharma Chairman and CEO Dr. Dajun Yang Named to The Medicine Maker Power List 2026",
-    "author": "Ascentage Pharma Group International",
-    "published_utc": "2026-07-26T23:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/26/3333236/0/en/Ascentage-Pharma-Chairman-and-CEO-Dr-Dajun-Yang-Named-to-The-Medicine-Maker-Power-List-2026.html",
+    "title": "Dr. Gillian Cannon Joins Lindus Therapeutics\u2019 Board as a Non-Executive Director",
+    "author": "Na",
+    "published_utc": "2026-09-08T12:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/08/3357552/0/en/dr-gillian-cannon-joins-lindus-therapeutics-board-as-a-non-executive-director.html",
     "tickers": [
-      "TAK",
-      "AZN",
       "MRK",
-      "PFE",
-      "AAPG"
+      "ROIV"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/b9623a51-a13b-4b80-8152-61d5014f4a0a",
-    "description": "Dr. Dajun Yang, Chairman and CEO of Ascentage Pharma, has been recognized in The Medicine Maker Power List 2026, ranking No. 3 in the Small Molecules category. The recognition highlights the company's achievements in advancing innovative cancer therapies, including the commercialization of olverembatinib and lisaftoclax, with multiple global Phase III clinical trials underway.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/08/3357552/0/en/dr-gillian-cannon-joins-lindus-therapeutics-board-as-a-non-executive-director.html",
+    "description": "Lindus Therapeutics, a drug development company focused on in-licensed assets, has appointed Dr. Gillian Cannon as a non-executive director. Cannon brings over 30 years of biopharmaceutical commercial leadership experience from roles at Merck and Roivant Sciences. She will help shape the company's commercial strategy as it builds its portfolio of clinical-stage assets.",
     "keywords": [
-      "oncology",
-      "small molecule inhibitors",
-      "BCR-ABL tyrosine kinase inhibitor",
-      "Bcl-2 inhibitor",
-      "clinical trials",
+      "board appointment",
       "drug development",
-      "cancer therapy",
-      "hematologic malignancies"
+      "in-licensed assets",
+      "commercial strategy",
+      "clinical trials",
+      "biopharmaceutical"
     ],
     "insights": [
       {
-        "ticker": "TAK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a global partnership partner with Ascentage Pharma, but no specific details about the partnership or its impact are provided in the article."
-      },
-      {
-        "ticker": "AZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a global partnership partner with Ascentage Pharma, but no specific details about the partnership or its impact are provided in the article."
-      },
-      {
         "ticker": "MRK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a global partnership partner with Ascentage Pharma, but no specific details about the partnership or its impact are provided in the article."
+        "sentiment_reasoning": "Merck is mentioned only as a former employer of the appointed director. No direct business developments, partnerships, or impacts to Merck are discussed in the article."
+      },
+      {
+        "ticker": "ROIV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Roivant Sciences is mentioned only as a former employer of the appointed director. No direct business developments or impacts to Roivant are discussed in the article."
+      }
+    ]
+  },
+  {
+    "id": "4a588212b6554f06e2821ff76d1f14f44d6327d397666842287498ec0bf2aec9",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Vaxcyte's CEO Parted With Shares for Taxes. Here's What Long-Term Investors Should Know About the Firm",
+    "author": "Jonathan Ponciano",
+    "published_utc": "2026-09-08T09:24:37Z",
+    "article_url": "https://www.fool.com/coverage/filings/2026/09/08/vaxcyte-s-ceo-parted-with-shares-weeks-before-a-phase-3-readout-here-s-what-long-term-investors-should-know/?source=iedfolrf0000001",
+    "tickers": [
+      "PCVX",
+      "PFE",
+      "MRK"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6f699693a3501babe6eb40aac5d3061bf74bda96-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Vaxcyte CEO Grant Pickering sold 6,289 shares (~$384,900) to cover tax withholding on vesting restricted stock units, retaining 447,000 direct shares. The clinical-stage biotech company, up 95% over the past year, is awaiting pivotal Phase 3 trial data for VAX-31 in Q4 2026. With $2.5 billion in cash but burning $284.3 million quarterly, the company's future hinges on successful trial results.",
+    "keywords": [
+      "insider trading",
+      "restricted stock units",
+      "clinical-stage biotech",
+      "vaccine development",
+      "Phase 3 trial",
+      "VAX-31",
+      "pneumococcal vaccine",
+      "cash burn",
+      "trial data"
+    ],
+    "insights": [
+      {
+        "ticker": "PCVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The CEO's share sale is routine tax-related and non-discretionary, indicating no loss of confidence. However, the company faces significant execution risk with high cash burn ($284.3M quarterly) and critical Phase 3 trial results pending in Q4 2026. Stock momentum is positive (95% YTD return), but future performance depends entirely on trial success."
       },
       {
         "ticker": "PFE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a global partnership partner with Ascentage Pharma, but no specific details about the partnership or its impact are provided in the article."
-      },
-      {
-        "ticker": "AAPG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company's CEO received industry recognition for leadership in drug discovery and innovation. The company has successfully commercialized two innovative therapies and is advancing multiple global Phase III clinical trials cleared by FDA and EMA, demonstrating strong pipeline progress and commercial success."
-      }
-    ]
-  },
-  {
-    "id": "589e1250ea7cf3e50043d7784e9f89a9e763c3965c556b884497107c28eb1b53",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "If I Were Starting My Portfolio From Scratch Today, This Is the First ETF I'd Buy",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-07-26T12:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/26/if-i-were-starting-my-portfolio-from-scratch-today/?source=iedfolrf0000001",
-    "tickers": [
-      "SCHD",
-      "ABT",
-      "MRK",
-      "UNH"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879297%2Fa-person-looking-at-a-screen-with-the-word-etf-on-it-along-with-several-investing-diagrams.jpg&w=1200&op=resize",
-    "description": "An experienced investor recommends the Schwab U.S. Dividend Equity ETF (SCHD) as the foundational holding for a new portfolio. The ETF focuses on high-yielding dividend-growth stocks and has delivered over 12% average annualized returns over multiple periods, outperforming pure growth stocks and high-yield stocks with lower volatility.",
-    "keywords": [
-      "dividend growth stocks",
-      "ETF",
-      "portfolio foundation",
-      "dividend equity",
-      "long-term investing",
-      "volatility",
-      "total returns"
-    ],
-    "insights": [
-      {
-        "ticker": "SCHD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The ETF is recommended as an ideal foundational holding with exceptional performance metrics including 12%+ average annualized returns, 11.2% compound annual payout growth since 2017, low expense ratio of 0.06%, and lower volatility compared to other stock categories. The author explicitly states it would be their first choice for a new portfolio."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (4.54%) in SCHD but mentioned only as a portfolio component without specific commentary or analysis."
+        "sentiment_reasoning": "Mentioned as a competitor with Prevnar 20 vaccine in the same Phase 3 trial comparison. No direct news impact on Pfizer; mentioned only as a competitive benchmark."
       },
       {
         "ticker": "MRK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (4.47%) in SCHD but mentioned only as a portfolio component without specific commentary or analysis."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (4.41%) in SCHD but mentioned only as a portfolio component without specific commentary or analysis."
+        "sentiment_reasoning": "Mentioned as a competitor with Capvaxive vaccine in the same Phase 3 trial comparison. No direct news impact on Merck; mentioned only as a competitive benchmark."
       }
     ]
   },
   {
-    "id": "1e80ef10f8ffc430632852f1c249ad5a76a0ee98e732ef177dacfc3761bc1ca3",
+    "id": "a3bd64b81805b5752aa2ad4c44a329905a36af362c3f257a8d260ae52c217c9e",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "2 Top Growth Stocks to Buy Right Now Without Any Hesitation",
-    "author": "Prosper Junior Bakiny",
-    "published_utc": "2026-07-24T04:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/24/2-top-growth-stocks-to-buy-right-now-without-any-h/?source=iedfolrf0000001",
+    "title": "Ulcerative Colitis Market Outlook: 5 Late-Stage Drug Candidates to Watch | DelveInsight",
+    "author": "Delveinsight",
+    "published_utc": "2026-09-07T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357229/0/en/ulcerative-colitis-market-outlook-5-late-stage-drug-candidates-to-watch-delveinsight.html",
     "tickers": [
-      "LLY",
-      "ISRG",
-      "JNJ",
-      "NVO",
+      "ABVX",
       "MRK",
-      "ABBV"
+      "RHHBY",
+      "JNJ",
+      "TEVA",
+      "PTGX",
+      "SNY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880083%2Feli-lilly-and-intuitive-surgical-logos.png&w=1200&op=resize",
-    "description": "The article recommends Eli Lilly and Intuitive Surgical as outstanding healthcare stocks to buy. Eli Lilly is positioned as a leader in the rapidly growing weight management medicine market with approved drugs like Zepbound and Foundayo, plus promising pipeline candidates like retatrutide. Intuitive Surgical, despite recent underperformance and headwinds, is viewed as a buying opportunity due to the successful launch of its da Vinci 5 surgical system and strong long-term prospects driven by innovation and high switching costs.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+    "description": "The ulcerative colitis market is experiencing significant growth with emerging therapies addressing unmet needs in moderate-to-severe disease. The market, valued at approximately USD 9.4 billion in 2025, is projected to expand at a CAGR of 7.6% through 2036. Five promising late-stage candidates\u2014Obefazimod (Abivax), Tulisokibart (Merck), Afimkibart (Roche), Icotrokinra (J&J/Protagonist), and Duvakitug (Teva/Sanofi)\u2014are reshaping the treatment landscape with novel mechanisms targeting IL-23 and TL1A pathways, while established biologics and oral therapies continue to maintain market presence.",
     "keywords": [
-      "weight management",
-      "obesity epidemic",
-      "pharmaceutical",
-      "robotic-assisted surgery",
-      "healthcare stocks",
-      "pipeline",
-      "innovation",
-      "market opportunity"
+      "ulcerative colitis",
+      "emerging therapies",
+      "biologics",
+      "IL-23 inhibitors",
+      "TL1A inhibitors",
+      "oral targeted therapies",
+      "market forecast",
+      "clinical trials"
     ],
     "insights": [
       {
-        "ticker": "LLY",
+        "ticker": "ABVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading position in rapidly growing weight management market with approved products (Zepbound, Foundayo) showing strong performance, deep pipeline with promising candidates like retatrutide demonstrating superior efficacy, and broader pharmaceutical portfolio positioning it as a top-performing pharma giant with continued growth potential."
+        "sentiment_reasoning": "Obefazimod demonstrated positive Phase III results with rapid symptom improvements and favorable safety profile comparable to placebo, positioning it as a first-in-class miR-124 enhancer with significant market potential."
       },
       {
-        "ticker": "ISRG",
+        "ticker": "MRK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent 33% underperformance and near-term headwinds (competition, tariffs, lower margins), the company benefits from successful da Vinci 5 launch with advanced capabilities, strong competitive moat due to high switching costs, 20+ years of real-world outcomes, and significant long-term opportunities in robotic-assisted surgery adoption and AI-assisted procedures."
+        "sentiment_reasoning": "Tulisokibart met primary endpoints in Phase 3 ATLAS-UC trial, demonstrating clinical remission superiority over placebo with consistent safety profile, strengthening Merck's position in the growing UC market."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Afimkibart showed strong Phase IIb efficacy (35% remission vs 12% placebo) and is advancing to Phase III trials with regulatory filing anticipated in 2027, supporting Roche's IBD portfolio expansion."
       },
       {
         "ticker": "JNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in disclosure statements regarding analyst positions and Motley Fool recommendations; no substantive analysis or investment thesis provided in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Icotrokinra demonstrated sustained clinical benefits across multiple endpoints in Phase 2b trials and has advanced to Phase 3 ICONIC-UC program, offering a novel once-daily oral IL-23 receptor antagonist with broad applicability."
       },
       {
-        "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Eli Lilly in the weight management market and in related lawsuit context; no detailed analysis or investment recommendation provided."
+        "ticker": "TEVA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duvakitug secured $400 million strategic funding from Blackstone Life Sciences for continued development, indicating strong confidence in the TL1A inhibitor's potential in Phase III trials for UC and Crohn's disease."
+      },
+      {
+        "ticker": "PTGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Co-developed Icotrokinra with J&J, a first-in-class oral IL-23 receptor antagonist showing strong clinical efficacy, positioning the company as an innovator in oral peptide therapeutics for IBD."
+      },
+      {
+        "ticker": "SNY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Co-developing Duvakitug with Teva and eligible for milestone payments and royalties, providing exposure to a promising TL1A-targeting therapy in the expanding IBD market."
+      }
+    ]
+  },
+  {
+    "id": "da115e42010116af85c5240a433526266f26996217c32f48b6168d337d97620e",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI in Pharmaceutical Market to Hit USD 48.43 Billion by 2035, Growing at 31.76% CAGR \u2013 SNS Insider",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-07T12:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357102/0/en/ai-in-pharmaceutical-market-to-hit-usd-48-43-billion-by-2035-growing-at-31-76-cagr-sns-insider.html",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "NVDA",
+      "RXRX",
+      "AZN",
+      "PFE",
+      "MRK",
+      "NVS",
+      "MSFT",
+      "IBM",
+      "BAYRY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI in pharmaceutical market is projected to grow from USD 3.07 billion in 2025 to USD 48.43 billion by 2035, with a CAGR of 31.76%. The U.S. market is expected to reach USD 15.10 billion and Europe USD 12.60 billion by 2035. Growth is driven by generative AI, adaptive trials reducing patient enrollment by 40%, regulatory endorsement including FDA's qualification of AIM-NASH, and increased venture capital investment in AI-first drug discovery platforms.",
+    "keywords": [
+      "AI in pharmaceuticals",
+      "drug discovery",
+      "generative AI",
+      "adaptive trials",
+      "machine learning",
+      "pharmacovigilance",
+      "protein folding",
+      "regulatory approval",
+      "venture capital"
+    ],
+    "insights": [
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received USD 1 billion investment in 2025, demonstrating strong market confidence in AI-first pharma pipelines and positioning as a leader in the space"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received USD 1 billion investment in 2025, demonstrating strong market confidence in AI-first pharma pipelines and positioning as a leader in the space"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received USD 1 billion investment in 2025, demonstrating strong market confidence in AI-first pharma pipelines and positioning as a leader in the space"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received USD 1 billion investment in 2025, demonstrating strong market confidence in AI-first pharma pipelines and positioning as a leader in the space"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding computing infrastructure partnerships with pharmaceutical companies to support generative protein-folding models, positioning it as critical infrastructure provider for AI pharma growth"
+      },
+      {
+        "ticker": "RXRX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Advancing AI-driven drug discovery platform following merger integration, strengthening position in machine learning-based therapeutic candidate identification"
+      },
+      {
+        "ticker": "AZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player in competitive landscape benefiting from industry-wide shift toward AI-driven drug development"
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player positioned to benefit from rapid growth in AI pharmaceutical applications"
       },
       {
         "ticker": "MRK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in disclosure statements regarding Motley Fool recommendations; no substantive analysis provided in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player in the expanding AI pharmaceutical market"
       },
       {
-        "ticker": "ABBV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in disclosure statements regarding Motley Fool recommendations; no substantive analysis provided in the article."
+        "ticker": "NVS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player positioned to leverage AI technologies in drug development"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player providing AI and cloud infrastructure solutions for pharmaceutical companies"
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player offering AI solutions and computing infrastructure for pharmaceutical applications"
+      },
+      {
+        "ticker": "BAYRY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as major key player in competitive landscape benefiting from AI adoption in pharmaceuticals"
       }
     ]
   }

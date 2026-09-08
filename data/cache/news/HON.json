@@ -1,310 +1,268 @@
 [
   {
-    "id": "92ff05e9898be3cad5ced147c63cb8499ba13f69a1cf290215216a71a7180a05",
+    "id": "e30c9e9b291606959a264b43f7673a7b8a318cbe92ec3b4c3760a269a27e86e5",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Building Automation System Market",
+    "author": "Market Minds Advisory",
+    "published_utc": "2026-09-08T12:50:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/08/3357688/0/en/building-automation-system-market.html",
+    "tickers": [
+      "JCI",
+      "SBGSY",
+      "HON",
+      "SIEGY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/2ccda42e-1f09-4fb0-8cba-e9aaafc0fd04",
+    "description": "The building automation system market is undergoing structural transformation as hardware commoditizes while software, analytics, and building intelligence capture strategic value. The global BAS market, valued at $105.5 billion in 2026, is projected to reach $182.6 billion by 2033 at 8.2% CAGR. Key shifts include portfolio-level standardization replacing building-by-building procurement, cloud-based deployments displacing on-premise architectures, and cybersecurity becoming a primary procurement criterion. Large commercial owners are consolidating vendor relationships over the next 18 months, creating compounding advantages for early movers while independent system integrators face consolidation pressure.",
+    "keywords": [
+      "building automation systems",
+      "software and analytics",
+      "cloud deployment",
+      "portfolio standardization",
+      "cybersecurity",
+      "HVAC control",
+      "BACnet protocol",
+      "data center demand",
+      "system integrator consolidation",
+      "recurring revenue models"
+    ],
+    "insights": [
+      {
+        "ticker": "JCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanded OpenBlue digital platform with enhanced analytics capabilities targeting large commercial portfolio operators, positioning itself for the shift toward software and analytics-driven value capture."
+      },
+      {
+        "ticker": "SBGSY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Extended EcoStruxure Building portfolio with new edge controllers for retrofit applications, addressing the large retrofit opportunity in legacy installed bases identified as a key growth driver."
+      },
+      {
+        "ticker": "HON",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Introduced cybersecurity-focused offerings for connected building operations, directly addressing cybersecurity as an emerging primary procurement criterion for enterprise buyers."
+      },
+      {
+        "ticker": "SIEGY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced strategic focus on accelerating Building X cloud platform deployment across European commercial real estate, aligning with the market trend toward cloud-based deployments and portfolio-level standardization."
+      }
+    ]
+  },
+  {
+    "id": "7475500237b386b5b993004993c52cd1838e2513f195854f35151f24e08bcb0f",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Strength in Transportation & Electronics Unit Drives 3M: A Sign of More Upside?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T15:43:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985964/strength-in-transportation-electronics-unit-drives-3m-a-sign-of-more-upside?cid=CS-ZC-FT-analyst_blog|quick_take-2985964",
+    "tickers": [
+      "MMM",
+      "EMR",
+      "HON"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/84/473.jpg",
+    "description": "3M's Transportation & Electronics segment showed strong growth with revenues up 6.2% to $2.07 billion in Q2 2026, driven by double-digit growth in semiconductor, data center, and aerospace markets. The company raised its 2026 outlook, expecting adjusted organic sales growth above 3.5% and adjusted EPS of $8.80-$8.95, though softness in auto and consumer electronics remains a concern.",
+    "keywords": [
+      "3M",
+      "Transportation & Electronics",
+      "Q2 2026 earnings",
+      "semiconductor market",
+      "data center",
+      "aerospace",
+      "organic revenue growth",
+      "2026 guidance",
+      "adjusted EPS"
+    ],
+    "insights": [
+      {
+        "ticker": "MMM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 revenue growth of 6.2% in Transportation & Electronics segment, double-digit growth in key markets (semiconductor, data center, aerospace), raised 2026 guidance with expected EPS increase from $8.06 to $8.80-$8.95, and stock outperformance of 11.2% over six months. Zacks Rank #2 (Buy) rating supports positive outlook."
+      },
+      {
+        "ticker": "EMR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Experiencing solid momentum in power and life sciences markets with Software & Systems segment sales increasing 11% year-over-year to $1.64 billion in Q3 fiscal 2026."
+      },
+      {
+        "ticker": "HON",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Process Automation and Technology segment experiencing softness with organic revenues declining 1% year-over-year, including a 6% drop in aftermarket business and reduced customer demand in the Middle East due to geopolitical tensions."
+      }
+    ]
+  },
+  {
+    "id": "35438d41e60bd65f6b4178fb12d7508f2971b96bf473bdeae14b7a8314e6a003",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Where Will Quantinuum Stock Be in 1 Year?",
-    "author": "Manali Pradhan, Cfa",
-    "published_utc": "2026-07-27T10:03:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/27/where-will-quantinuum-stock-be-in-1-year/?source=iedfolrf0000001",
+    "title": "Honeywell Is Now Three Companies. Here's Which Piece I'd Actually Own.",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-09-05T02:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/04/honeywell-is-now-three-companies-heres-which-piece/?source=iedfolrf0000001",
     "tickers": [
-      "QNT",
-      "IONQ",
-      "IONQ.WS",
+      "HON",
+      "HONA",
+      "SOLS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885865%2F25_04_05-a-directional-sign-that-says-good-better-and-best-_mf-dload-getty-good-better-best-sign-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "Honeywell has completed its breakup into three separate companies: Honeywell Technologies (automation), Solstice Advanced Materials, and Honeywell Aerospace. The article recommends Honeywell Technologies as the best investment choice, as CEO Vimal Kapur chose to lead this division, which shows strong 16% order growth and benefits from AI-driven industrial automation trends. Honeywell Aerospace lowered guidance and appears to be off to a rocky start, while Solstice Advanced Materials, though performing well, is the smallest of the three.",
+    "keywords": [
+      "conglomerate breakup",
+      "corporate spin-off",
+      "industrial automation",
+      "artificial intelligence",
+      "business separation",
+      "CEO leadership",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "HON",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CEO retained leadership of this division, showing confidence in automation business. Strong 16% order growth (vs. 4% combined), $20B backlog, 10% adjusted earnings growth, and positioned to benefit from AI-driven industrial automation trends."
+      },
+      {
+        "ticker": "HONA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lowered organic sales growth guidance immediately after spin-off, described as 'off to a bit of a rocky start.' Despite long-term aviation industry opportunities, near-term performance concerns make it the easiest to pass over."
+      },
+      {
+        "ticker": "SOLS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid early results with 11% sales increase and 23% EPS growth, plus raised full-year guidance. However, at $9.5B market cap, it is significantly smaller than the other two companies, which could be viewed as a limitation for investors seeking larger positions."
+      }
+    ]
+  },
+  {
+    "id": "388bec3c4396f44b7d7d59acc99de9b14cde09c88899c6e74eee18eef263280d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Air Traffic Control (ATC) Market Trends and Growth Strategy 2026-2035 | UAV Integration Expands Airspace Management Opportunities",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-02T08:56:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3354886/28124/en/air-traffic-control-atc-market-trends-and-growth-strategy-2026-2035-uav-integration-expands-airspace-management-opportunities.html",
+    "tickers": [
+      "RTX",
+      "LHX",
+      "CAE",
+      "HON",
+      "LMT",
+      "NOC",
+      "BAESY",
+      "THLLY",
+      "FINMY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/9a809c33-2319-40e1-aacd-48b167acbd0b",
+    "description": "The global air traffic control market is projected to grow from USD 11.83 billion in 2026 to USD 25.89 billion by 2035, with a CAGR of 8.14%. Growth is driven by rising aviation traffic, airport modernization, UAV integration, and adoption of AI, machine learning, digital towers, and satellite-based navigation. North America leads the market, while challenges include complex technology integration and workforce shortages.",
+    "keywords": [
+      "air traffic control",
+      "ATC market",
+      "AI automation",
+      "UAV integration",
+      "digital towers",
+      "airspace management",
+      "aviation technology",
+      "market growth",
+      "cybersecurity",
+      "satellite navigation"
+    ],
+    "insights": [
+      {
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a major North American industry participant advancing airspace management technologies and services, positioned to benefit from sustained ATC market growth and modernization investments."
+      },
+      {
+        "ticker": "LHX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a leading North American company continuing to advance airspace management technologies and services, well-positioned to capture market opportunities in the growing ATC sector."
+      },
+      {
+        "ticker": "CAE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a major North American participant in ATC, with opportunities in workforce training and simulation technologies as the market expands and modernizes."
+      },
+      {
+        "ticker": "HON",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key player in ATC solutions, well-positioned to capitalize on growing demand for automation, communication, navigation, and surveillance systems."
+      },
+      {
+        "ticker": "LMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included as a key industry participant with opportunities in both commercial and military ATC sectors during the projected market expansion period."
+      },
+      {
+        "ticker": "NOC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among major companies in the ATC market, positioned to benefit from investments in advanced surveillance, automation, and airspace management technologies."
+      },
+      {
+        "ticker": "BAESY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a key ATC market participant with opportunities in defense and commercial airspace management solutions during market growth period."
+      },
+      {
+        "ticker": "THLLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included among key companies in the ATC market, positioned to benefit from global investments in advanced navigation, surveillance, and digital infrastructure modernization."
+      },
+      {
+        "ticker": "FINMY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned among major ATC industry participants, positioned to benefit from European and global airspace infrastructure modernization initiatives."
+      }
+    ]
+  },
+  {
+    "id": "19c2692bdc044ffa348e864a9d5ed340cc44fa80e6dea7d2310a9d1bb2f30706",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Honeywell International Inc. (HON) Declines More Than Market: Some Information for Investors",
+    "author": "Zacks.Com",
+    "published_utc": "2026-08-28T22:15:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2982140/honeywell-international-inc-hon-declines-more-than-market-some-information-for-investors?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v3-2982140",
+    "tickers": [
       "HON"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879494%2Fprofessional_thinking_in_an_office.jpg&w=1200&op=resize",
-    "description": "Quantinuum, a quantum computing company, is trading at a steep valuation of 512x its 2026 revenue estimate despite generating only $30.9 million in 2025 revenue. Analysts project the stock could fall 67% to around $17 per share within one year under base case assumptions, with potential downside to $7 in bear case scenarios. The company's success depends on translating technical progress in logical qubits into commercial revenue growth.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default154.jpg",
+    "description": "Honeywell International Inc. (HON) declined 1.34% on August 28, 2026, underperforming the S&P 500. The stock has lost 8.9% over the past month and faces significant headwinds with expected EPS down 61.88% and revenue down 51.13% for the upcoming quarter. The company holds a Zacks Rank of #5 (Strong Sell) with a Forward P/E ratio of 26.71, well above its industry average of 13.01.",
     "keywords": [
-      "quantum computing",
-      "IPO",
-      "valuation",
-      "logical qubits",
-      "revenue growth",
-      "stock forecast"
+      "Honeywell International",
+      "stock decline",
+      "earnings forecast",
+      "Strong Sell rating",
+      "valuation premium",
+      "conglomerates sector"
     ],
     "insights": [
       {
-        "ticker": "QNT",
+        "ticker": "HON",
         "sentiment": "negative",
-        "sentiment_reasoning": "Trading 13% below IPO price at $52.29 with a $14B market cap on minimal revenues ($30.9M in 2025). Analysts project 67% downside to $17 in base case and potential decline to $7 in bear case. Valuation is extremely stretched at 512x 2026 revenue estimates compared to competitor IonQ at 48x, with significant execution risk required to justify current price."
-      },
-      {
-        "ticker": "IONQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a valuation benchmark in the article. Trading at approximately 48x 2026 revenue estimate with $268.33 million in projected revenue, representing a more reasonable valuation multiple than Quantinuum, though no direct investment recommendation is made."
-      },
-      {
-        "ticker": "IONQ.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a valuation benchmark in the article. Trading at approximately 48x 2026 revenue estimate with $268.33 million in projected revenue, representing a more reasonable valuation multiple than Quantinuum, though no direct investment recommendation is made."
-      },
-      {
-        "ticker": "HON",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as strategic backer of Quantinuum, providing some credibility to the company's technical progress. However, no specific analysis or recommendation regarding Honeywell stock itself is provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "39c8933e1b4c7973203de38c706fcecd0ec38241989478c872b5162f2e842b86",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Blowing Agent Market Size to Reach USD 2.94 Billion by 2035 on Rising Demand for Low-GWP Insulation Solutions | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-27T09:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333318/0/en/Blowing-Agent-Market-Size-to-Reach-USD-2-94-Billion-by-2035-on-Rising-Demand-for-Low-GWP-Insulation-Solutions-SNS-Insider.html",
-    "tickers": [
-      "HON",
-      "CC",
-      "ARKAY",
-      "DOW",
-      "BASFY",
-      "DKILY",
-      "SLVYY",
-      "COVTY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global blowing agent market is projected to grow from USD 1.79 billion in 2025 to USD 2.94 billion by 2035, driven by increasing demand for eco-friendly foam insulation, regulatory requirements to ban high-GWP compounds, and energy-efficient building construction. Chemical blowing agents dominate with 51.8% market share, while HFO technology is the fastest-growing segment. North America leads with 32.5% market share, with the U.S. market expected to reach USD 0.56 billion by 2035, while Europe is projected to reach USD 0.66 billion.",
-    "keywords": [
-      "blowing agents",
-      "low-GWP insulation",
-      "HFO technology",
-      "foam insulation",
-      "energy-efficient buildings",
-      "EPA regulations",
-      "EU F-Gas regulations",
-      "polyurethane foam",
-      "green building",
-      "automotive lightweighting"
-    ],
-    "insights": [
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Honeywell is highlighted as a major player with commercial presence in North America and recently expanded production capacity for Solstice HFO blowing agents to meet growing global demand, positioning it well for market growth."
-      },
-      {
-        "ticker": "CC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Chemours is identified as a key market player in North America and recently introduced advanced Opteon HFO-based blowing agent formulations, demonstrating innovation aligned with regulatory compliance and market trends."
-      },
-      {
-        "ticker": "ARKAY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Arkema is listed as a major player with commercial presence in the growing blowing agent market, benefiting from the shift toward low-GWP solutions and regulatory-driven demand."
-      },
-      {
-        "ticker": "DOW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Dow is identified as a significant market player with presence in North America, positioned to benefit from growing demand for eco-friendly foam insulation and energy-efficient building materials."
-      },
-      {
-        "ticker": "BASFY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BASF is listed among major players in the blowing agent market, well-positioned to capitalize on the growing demand for low-GWP insulation solutions across construction and automotive sectors."
-      },
-      {
-        "ticker": "DKILY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Daikin is listed as a key player in the blowing agent market, positioned to benefit from growing demand for HFO-based solutions and energy-efficient insulation applications."
-      },
-      {
-        "ticker": "SLVYY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Solvay is identified as a major player in the expanding blowing agent market, benefiting from regulatory drivers and the shift toward sustainable foam insulation solutions."
-      },
-      {
-        "ticker": "COVTY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Covestro is identified as a major player in the market, well-positioned to benefit from the growing demand for polyurethane foam insulation driven by energy efficiency requirements."
-      }
-    ]
-  },
-  {
-    "id": "b1d241e340faaf6eb86bd110ed8e132855591eec7d279904d13388fd91fc25e3",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Warehouse Shuttle Software Market to Reach $2.66 Billion by 2030 as AI and Automation Transform Logistics",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-07-15T10:42:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/15/3327564/28124/en/Warehouse-Shuttle-Software-Market-to-Reach-2-66-Billion-by-2030-as-AI-and-Automation-Transform-Logistics.html",
-    "tickers": [
-      "HON",
-      "SAP",
-      "DFKCY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/8d0b0b4c-d5da-45ac-af7f-30098e3ff810",
-    "description": "The global warehouse shuttle software market is projected to grow from $1.38 billion in 2025 to $2.66 billion by 2030, with a CAGR of 14.1%. Growth is driven by increased e-commerce volumes, labor costs, AI-powered orchestration, robotic material handling, and cloud-based control systems. Key trends include digital twins, predictive maintenance, and autonomous multi-shuttle coordination, with North America leading and Asia-Pacific showing fastest growth potential.",
-    "keywords": [
-      "warehouse automation",
-      "shuttle software",
-      "AI orchestration",
-      "logistics technology",
-      "e-commerce fulfillment",
-      "robotic material handling",
-      "cloud-based control",
-      "digital twins",
-      "supply chain visibility"
-    ],
-    "insights": [
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a leading company in the warehouse shuttle software market, positioned to benefit from the projected 14.1% CAGR growth through 2030."
-      },
-      {
-        "ticker": "SAP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as a key market participant with enterprise software capabilities; well-positioned to capitalize on unified WMS-enterprise platform integration trends."
-      },
-      {
-        "ticker": "DFKCY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among leading companies in the growing warehouse automation software market with strong positioning in material handling solutions."
-      }
-    ]
-  },
-  {
-    "id": "cef2390964ea0bfb129f3f5150fb52e7118af23b7b56922f2df0a19e6534fbfc",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Health and Safety Management Market Forecast to Reach $2.87 Billion by 2030 as AI and Connected Safety Adoption Accelerate",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-07-15T08:13:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/15/3327499/28124/en/Health-and-Safety-Management-Market-Forecast-to-Reach-2-87-Billion-by-2030-as-AI-and-Connected-Safety-Adoption-Accelerate.html",
-    "tickers": [
-      "HON",
-      "MMM",
-      "DD",
-      "FTV",
-      "WTKWY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/7ec5e2fb-96ee-4f04-bc38-a89cc6b330ce",
-    "description": "The global health and safety management market is projected to grow from $2.07 billion in 2026 to $2.87 billion by 2030, with a compound annual growth rate of 8.5%. Growth is driven by rising workplace accidents, regulatory pressure, and adoption of AI-powered risk prediction, IoT monitoring, cloud-based compliance platforms, and automated safety auditing. Asia-Pacific presents significant expansion opportunities.",
-    "keywords": [
-      "health and safety management",
-      "AI risk prediction",
-      "IoT monitoring",
-      "cloud compliance",
-      "safety wearables",
-      "workplace safety",
-      "regulatory compliance",
-      "digital transformation",
-      "Asia-Pacific expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a leading company in the health and safety management market, positioned to benefit from the projected 8.5% CAGR growth through 2030 and increasing demand for AI and IoT-enabled safety solutions."
-      },
-      {
-        "ticker": "MMM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a major competitor in the market, well-positioned to capitalize on growing demand for safety wearables and connected safety solutions in the expanding health and safety management sector."
-      },
-      {
-        "ticker": "DD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the health and safety management market, positioned to benefit from rising regulatory pressure and increased workplace safety investments across industrial and manufacturing sectors."
-      },
-      {
-        "ticker": "FTV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major competitor positioned to gain from increasing adoption of cloud-based compliance platforms and automated safety auditing systems in the growing market."
-      },
-      {
-        "ticker": "WTKWY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included among leading companies in the market, likely to benefit from growth in compliance management software and digital transformation initiatives driving the market expansion."
-      }
-    ]
-  },
-  {
-    "id": "80e38f5abfef485a3fb0546b9209ea3738632f027b33028f79d63f55a5487d9a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Hazardous Area Equipment Market Size to Hit USD 25.28 Billion by 2035 | Research by SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-15T07:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/15/3327484/0/en/Hazardous-Area-Equipment-Market-Size-to-Hit-USD-25-28-Billion-by-2035-Research-by-SNS-Insider.html",
-    "tickers": [
-      "HON",
-      "EMR",
-      "ETN",
-      "ROK",
-      "ABBNY",
-      "SIEGY",
-      "SBGSY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global Hazardous Area Equipment Market, valued at USD 13.50 Billion in 2025, is expected to grow to USD 25.28 Billion by 2035 at a CAGR of 6.48%. Growth is driven by stringent industrial safety regulations (ATEX, IECEx, OSHA), adoption of explosion-proof equipment, and smart monitoring technologies. Asia Pacific leads with 39% market share, while North America is expected to witness the highest growth rate during the forecast period.",
-    "keywords": [
-      "Hazardous Area Equipment",
-      "Industrial Safety",
-      "Explosion-Proof Equipment",
-      "ATEX Regulations",
-      "IIoT",
-      "Market Growth",
-      "Oil & Gas",
-      "Asia Pacific"
-    ],
-    "insights": [
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanded portfolio of explosion-proof and intrinsically safe solutions with IoT connectivity integration in 2024, showing strategic positioning in emerging smart monitoring and predictive maintenance trends within the market."
-      },
-      {
-        "ticker": "EMR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or innovations mentioned in the article."
-      },
-      {
-        "ticker": "ETN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player through its Crouse-Hinds division but no specific recent developments or innovations mentioned in the article."
-      },
-      {
-        "ticker": "ROK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or innovations mentioned in the article."
-      },
-      {
-        "ticker": "ABBNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company introduced new low-voltage flameproof motors in 2024 with improved energy efficiency and reliability, demonstrating active product innovation and market engagement in the growing hazardous area equipment sector."
-      },
-      {
-        "ticker": "SIEGY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or innovations mentioned in the article."
-      },
-      {
-        "ticker": "SBGSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or innovations mentioned in the article."
+        "sentiment_reasoning": "The company received a Zacks Rank #5 (Strong Sell) rating due to significant expected declines in both earnings (down 61.88%) and revenue (down 51.13%) for the upcoming quarter. Additionally, the stock trades at a substantial valuation premium with a Forward P/E of 26.71 versus the industry average of 13.01, and has underperformed the broader market with an 8.9% loss over the past month."
       }
     ]
   }

@@ -1,495 +1,642 @@
 [
   {
-    "id": "83e109dd370fa5f904fcd9341f77f1ac21cd0fc9c9550553b64db57164593966",
+    "id": "67e22f8ae389aaeabc4a31419ff42be4333411de96c670effa2edf0cb142236f",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Elon Musk Just Uttered 3 Massively Bullish Words for Micron, Sandisk, and SK Hynix",
-    "author": "Billy Duberstein",
-    "published_utc": "2026-08-17T10:06:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/17/elon-musk-just-uttered-3-massively-bullish-words-f/?source=iedfolrf0000001",
+    "title": "The Bond Market Sell-Off Is Appearing in Earnings Reports",
+    "author": "Motley Fool Staff",
+    "published_utc": "2026-09-07T20:15:08Z",
+    "article_url": "https://www.fool.com/investing/2026/09/07/the-bond-market-sell-off-is-appearing-in-earnings-reports/?source=iedfolrf0000001",
     "tickers": [
-      "MU",
-      "SKHY",
-      "SNDK",
+      "KLAR",
+      "HD",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "META"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6713bd149081c7920e31b48b1c2d44e5383147a7-1280x720.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Rising bond yields at 20-year highs are impacting corporate earnings and stock performance. Klarna reported strong operational metrics but cut guidance due to softer consumer spending in Germany, causing a 21% stock decline. Home Depot beat expectations despite a frozen housing market but showed limited growth. The higher interest rate environment is pressuring companies reliant on consumer spending and capital-intensive AI buildouts, with hyperscaler capex expected to reach $1.2 trillion next year, increasingly funded by debt.",
+    "keywords": [
+      "bond market sell-off",
+      "rising yields",
+      "earnings reports",
+      "AI capex spending",
+      "consumer spending",
+      "housing market",
+      "corporate debt",
+      "interest rates"
+    ],
+    "insights": [
+      {
+        "ticker": "KLAR",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 21% despite strong operational metrics (27% revenue growth, improved credit quality) due to substantial guidance cuts attributed to currency headwinds and reduced expectations from Germany. Management changes (CFO and CMO departing) and concerns about consumer spending in higher rate environment added to weakness."
+      },
+      {
+        "ticker": "HD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations in a frozen housing market, showing resilience with 1.7% comp store sales growth (accelerating from prior quarter). However, growth remains below inflation, big projects remain on hold, and stock is up only 5% over five years. Company faces headwinds from higher interest rates suppressing housing demand."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Reported first quarter of negative free cash flow since going public due to massive AI capex spending. Rising debt funding needs and higher interest rates increase cost of capital for continued AI infrastructure buildout."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Reported first quarter of negative free cash flow since going public due to massive AI capex spending. Rising debt funding needs and higher interest rates increase cost of capital for continued AI infrastructure buildout."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Reported first quarter of negative free cash flow since going public due to massive AI capex spending. Rising debt funding needs and higher interest rates increase cost of capital for continued AI infrastructure buildout."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Reported first quarter of negative free cash flow since going public due to massive AI capex spending. Rising debt funding needs and higher interest rates increase cost of capital for continued AI infrastructure buildout."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for forecasting that 35% of the $1.2 trillion hyperscaler capex next year will be debt-funded, highlighting the competitive pressure on bond markets from corporate debt issuance."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for forecasting that 35% of the $1.2 trillion hyperscaler capex next year will be debt-funded, highlighting the competitive pressure on bond markets from corporate debt issuance."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for forecasting that 35% of the $1.2 trillion hyperscaler capex next year will be debt-funded, highlighting the competitive pressure on bond markets from corporate debt issuance."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for forecasting that 35% of the $1.2 trillion hyperscaler capex next year will be debt-funded, highlighting the competitive pressure on bond markets from corporate debt issuance."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "negative",
+        "sentiment_reasoning": "As a hyperscaler with significant AI capex commitments, facing higher cost of capital from rising bond yields and increased debt funding needs for infrastructure buildout."
+      }
+    ]
+  },
+  {
+    "id": "43e48ab11aa3a608b16e0ce4e12d19f8f7b9d170f74e3b67730399bff9702920",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
+    "author": "Na",
+    "published_utc": "2026-09-07T16:26:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986029/c-nears-china-brokerage-license-can-onshore-expansion-boost-growth?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2986029",
+    "tickers": [
+      "C",
+      "CpN",
+      "CpR",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "HSBC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/33/496.jpg",
+    "description": "Citigroup is on track to receive final regulatory approval for a wholly owned China brokerage business by September 2026. The platform will offer A-share brokerage, underwriting, research, and principal trading services, enabling the bank to deepen client relationships and increase its investment-banking wallet share above 6%. This expansion aligns with Citigroup's OneCiti strategy and repositioning toward institutional banking in China following the sale of its consumer banking business to HSBC in 2024.",
+    "keywords": [
+      "China brokerage license",
+      "regulatory approval",
+      "investment banking",
+      "wallet share",
+      "institutional banking",
+      "capital markets",
+      "OneCiti strategy"
+    ],
+    "insights": [
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Moving closer to regulatory approval for a wholly owned China brokerage business, which represents a significant expansion opportunity. The new platform will enable deeper client relationships, access to domestic capital markets, and support the bank's goal of increasing investment-banking wallet share from 4.7% to over 6%."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has already established a strong securities presence in China with full CSRC approval since 2021. No new developments or changes to its position are reported."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with an established China securities franchise approved in 2021. While its investment-banking fees and backlog are strong, no new developments specific to its China operations are reported."
+      },
+      {
+        "ticker": "HSBC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as the acquirer of Citigroup's China consumer banking business in 2024. No new developments or strategic implications are discussed."
+      }
+    ]
+  },
+  {
+    "id": "2f9dbd7991fb08e5f497d0a26b7239b9057e1cfc06158f26f4543eefe8ed1d99",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Capital Markets Momentum Fades: What it Means for Big Banks in Q3",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986006/capital-markets-momentum-fades-what-it-means-for-big-banks-in-q3?cid=CS-ZC-FT-analyst_blog|industry_focus-2986006",
+    "tickers": [
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "C",
+      "CpN",
+      "CpR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2e/65031.jpg",
+    "description": "U.S. banks enter Q3 2026 with supportive lending conditions but face mixed capital markets trends. Investment banking volumes declined 6% YoY in July due to weak debt markets, though M&A and equity underwriting showed strength. Goldman Sachs and Morgan Stanley face greater sensitivity to capital markets weakness, while diversified banks like JPMorgan, Bank of America, and Citigroup benefit from broader revenue streams including loan and deposit growth.",
+    "keywords": [
+      "investment banking",
+      "capital markets",
+      "Q3 2026 earnings",
+      "debt capital markets",
+      "M&A activity",
+      "equity underwriting",
+      "trading revenues",
+      "loan growth",
+      "deposit growth"
+    ],
+    "insights": [
+      {
+        "ticker": "GS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      }
+    ]
+  },
+  {
+    "id": "78c53b7ce816357a4a91f08a1d5d44d1c25881c355e2ad9bb21c4708221d8cb1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Earnings Growth & Price Strength Make Goldman Sachs (GS) a Stock to Watch",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T13:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2985703/earnings-growth-price-strength-make-goldman-sachs-gs-a-stock-to-watch?cid=CS-ZC-FT-fundamental_analysis|zacks_education_focus_list-2985703",
+    "tickers": [
       "GS",
       "GSpA",
       "GSpC",
       "GSpD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883772%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house_2.jpeg&w=1200&op=resize",
-    "description": "Elon Musk highlighted that memory, not compute, is the rate limiter for agentic AI systems. As AI agents require vast amounts of specialized memory and storage for planning, task execution, and data retrieval, demand for DRAM and NAND flash is exploding. Goldman Sachs estimates agentic AI will consume 120 quadrillion tokens monthly by 2030\u201424 times current usage\u2014suggesting the memory up-cycle could last longer than expected despite recent stock pullbacks.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default171.jpg",
+    "description": "Goldman Sachs (GS) has been highlighted as a strong investment opportunity due to positive earnings growth and price momentum. The company, added to the Zacks Focus List in July 2018, has seen shares increase 357.84% since then. Seven analysts revised earnings estimates higher in the last 60 days, with the consensus estimate increasing to $68.89, and GS is rated #1 (Strong Buy) on the Zacks Rank with expected earnings growth of 34.2% for the current fiscal year.",
     "keywords": [
-      "agentic AI",
-      "memory constraint",
-      "DRAM",
-      "NAND flash",
-      "semiconductor demand",
-      "KV-cache",
-      "token consumption",
-      "high-bandwidth memory"
+      "earnings growth",
+      "price strength",
+      "Goldman Sachs",
+      "Zacks Rank",
+      "earnings estimate revisions",
+      "Strong Buy",
+      "investment banking",
+      "financial holding company"
     ],
     "insights": [
       {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Directly benefits from increased memory demand for agentic AI. Produces both DRAM and NAND flash. Elon Musk's endorsement of memory as the critical constraint validates Micron's market opportunity. Recent pullback presents buying opportunity despite strong long-term demand outlook."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major memory and storage producer positioned to benefit from agentic AI's exponential memory requirements. Produces both DRAM and NAND flash. Musk's comments validate the strategic importance of their core products in the AI era."
-      },
-      {
-        "ticker": "SNDK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pure-play NAND flash manufacturer well-positioned for growing demand from long-context agents requiring massive KV-cache storage on SSDs. Benefits from the shift toward storage-intensive agentic AI workloads."
-      },
-      {
         "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as source of research projecting 24x increase in AI token usage by 2030. No direct business impact discussed; included for analytical credibility only."
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS receives a positive sentiment due to multiple bullish indicators: (1) Seven analysts revised earnings estimates higher in the last 60 days, (2) Zacks Consensus Estimate increased by $8.39 to $68.89, (3) Company holds #1 (Strong Buy) rating on Zacks Rank, (4) Expected earnings growth of 34.2% for current fiscal year, (5) Average earnings surprise of 20.4%, and (6) Strong historical performance with 357.84% share price increase since Focus List addition in July 2018."
       },
       {
         "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as source of research projecting 24x increase in AI token usage by 2030. No direct business impact discussed; included for analytical credibility only."
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS receives a positive sentiment due to multiple bullish indicators: (1) Seven analysts revised earnings estimates higher in the last 60 days, (2) Zacks Consensus Estimate increased by $8.39 to $68.89, (3) Company holds #1 (Strong Buy) rating on Zacks Rank, (4) Expected earnings growth of 34.2% for current fiscal year, (5) Average earnings surprise of 20.4%, and (6) Strong historical performance with 357.84% share price increase since Focus List addition in July 2018."
       },
       {
         "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as source of research projecting 24x increase in AI token usage by 2030. No direct business impact discussed; included for analytical credibility only."
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS receives a positive sentiment due to multiple bullish indicators: (1) Seven analysts revised earnings estimates higher in the last 60 days, (2) Zacks Consensus Estimate increased by $8.39 to $68.89, (3) Company holds #1 (Strong Buy) rating on Zacks Rank, (4) Expected earnings growth of 34.2% for current fiscal year, (5) Average earnings surprise of 20.4%, and (6) Strong historical performance with 357.84% share price increase since Focus List addition in July 2018."
       },
       {
         "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as source of research projecting 24x increase in AI token usage by 2030. No direct business impact discussed; included for analytical credibility only."
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS receives a positive sentiment due to multiple bullish indicators: (1) Seven analysts revised earnings estimates higher in the last 60 days, (2) Zacks Consensus Estimate increased by $8.39 to $68.89, (3) Company holds #1 (Strong Buy) rating on Zacks Rank, (4) Expected earnings growth of 34.2% for current fiscal year, (5) Average earnings surprise of 20.4%, and (6) Strong historical performance with 357.84% share price increase since Focus List addition in July 2018."
       }
     ]
   },
   {
-    "id": "e01c25770a6b5d80a64582cd4f899f6a30cd498dbe42075d5185b55100beb7ac",
+    "id": "7c970f074a0da5ecf62004477c13b57ae9b71afd347742f1ae0fa10a51391cf2",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-15T09:14:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/15/jensen-huang-explained-500-billion-of-wall-street/?source=iedfolrf0000001",
+    "title": "Should State Street SPDR Dow Jones Industrial Average ETF Trust (DIA) Be on Your Investing Radar?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T10:20:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2985566/should-state-street-spdr-dow-jones-industrial-average-etf-trust-dia-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2985566",
     "tickers": [
-      "NVDA",
+      "DIA",
       "GS",
       "GSpA",
       "GSpC",
       "GSpD",
-      "BLK",
-      "DIVB",
-      "KKR",
-      "KKRS",
-      "KKRT",
-      "KKRpD"
+      "CAT",
+      "MSFT",
+      "SCHD",
+      "VTV"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883163%2Fjensen-huang_nvidia_nvda_ceo_imagesource_nvidia-corporation.jpg&w=1200&op=resize",
-    "description": "Nvidia CEO Jensen Huang announced a $500 billion financing initiative with Goldman Sachs, BlackRock, KKR and others to mobilize capital for AI infrastructure. The five-word thesis 'In AI, compute is revenue' frames Nvidia chips as collateral for loans, similar to aircraft or rail cars. However, the arrangement's viability depends on sustained AI demand and the resale value of chips, with risks remaining untested.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+    "description": "The State Street SPDR Dow Jones Industrial Average ETF Trust (DIA) is highlighted as a strong option for investors seeking large-cap value exposure. With $45.92 billion in assets, a low 0.16% expense ratio, and a Zacks ETF Rank of 1 (Strong Buy), DIA has gained 12.02% year-to-date and 18.46% over the past year. The ETF holds 31 blue-chip stocks with heavy exposure to Financials (27.5%), led by holdings in Goldman Sachs, Caterpillar, and Microsoft.",
     "keywords": [
-      "AI infrastructure financing",
-      "compute as collateral",
-      "Nvidia chips",
-      "CUDA software",
-      "chip depreciation risk",
-      "AI demand sustainability"
+      "ETF",
+      "large-cap value",
+      "Dow Jones Industrial Average",
+      "expense ratio",
+      "dividend yield",
+      "blue-chip stocks"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "DIA",
         "sentiment": "positive",
-        "sentiment_reasoning": "The financing platform validates Nvidia's compute as bankable collateral, expanding addressable market for AI infrastructure without requiring customers to tap balance sheets. Strong revenue growth (71% trailing 12 months) and CUDA's software stickiness support the thesis."
+        "sentiment_reasoning": "Receives a Zacks ETF Rank of 1 (Strong Buy), has low expense ratio of 0.16%, substantial assets of $45.92 billion, strong year-to-date performance of 12.02%, and is recommended as an excellent vehicle for long-term investors."
       },
       {
         "ticker": "GS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform participant, Goldman Sachs gains access to a new lending market, but the article notes credit loss responsibility is unassigned and collateral risk is untested, creating uncertainty about profitability."
+        "sentiment_reasoning": "Mentioned as the largest holding in DIA at 11.42% of assets, but no specific performance or outlook commentary provided."
       },
       {
         "ticker": "GSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform participant, Goldman Sachs gains access to a new lending market, but the article notes credit loss responsibility is unassigned and collateral risk is untested, creating uncertainty about profitability."
+        "sentiment_reasoning": "Mentioned as the largest holding in DIA at 11.42% of assets, but no specific performance or outlook commentary provided."
       },
       {
         "ticker": "GSpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform participant, Goldman Sachs gains access to a new lending market, but the article notes credit loss responsibility is unassigned and collateral risk is untested, creating uncertainty about profitability."
+        "sentiment_reasoning": "Mentioned as the largest holding in DIA at 11.42% of assets, but no specific performance or outlook commentary provided."
       },
       {
         "ticker": "GSpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform participant, Goldman Sachs gains access to a new lending market, but the article notes credit loss responsibility is unassigned and collateral risk is untested, creating uncertainty about profitability."
+        "sentiment_reasoning": "Mentioned as the largest holding in DIA at 11.42% of assets, but no specific performance or outlook commentary provided."
       },
       {
-        "ticker": "BLK",
+        "ticker": "CAT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Similar to Goldman Sachs, BlackRock participates in the financing platform but faces unquantified credit risk if AI demand cools or chip values depreciate faster than expected."
+        "sentiment_reasoning": "Listed as a top holding in DIA, but no specific performance or outlook commentary provided."
       },
       {
-        "ticker": "DIVB",
+        "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Similar to Goldman Sachs, BlackRock participates in the financing platform but faces unquantified credit risk if AI demand cools or chip values depreciate faster than expected."
+        "sentiment_reasoning": "Listed as a top holding in DIA, but no specific performance or outlook commentary provided."
       },
       {
-        "ticker": "KKR",
+        "ticker": "SCHD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform partner, KKR gains exposure to AI infrastructure lending but inherits the same untested collateral risks as other participants."
+        "sentiment_reasoning": "Presented as an alternative option with lower expense ratio (0.06%) but larger assets ($112.35 billion), without comparative advantage or disadvantage stated."
       },
       {
-        "ticker": "KKRS",
+        "ticker": "VTV",
         "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform partner, KKR gains exposure to AI infrastructure lending but inherits the same untested collateral risks as other participants."
-      },
-      {
-        "ticker": "KKRT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform partner, KKR gains exposure to AI infrastructure lending but inherits the same untested collateral risks as other participants."
-      },
-      {
-        "ticker": "KKRpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "As a financing platform partner, KKR gains exposure to AI infrastructure lending but inherits the same untested collateral risks as other participants."
-      }
-    ]
-  },
-  {
-    "id": "42a25b167dff1f94654d63e28ed0c4fe81f42b45e4e1d5941f195c4d3c32d376",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "I Think You Missed CoreWeave's Zero-Cost-Basis Engine",
-    "author": "Beegee Alop",
-    "published_utc": "2026-08-14T15:24:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/14/i-think-you-missed-coreweaves-zero-cost-basis-engi/?source=iedfolrf0000001",
-    "tickers": [
-      "CRWV",
-      "NVDA",
-      "BLK",
-      "DIVB",
-      "BX",
-      "BN",
-      "BNH",
-      "BNJ",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "KKR",
-      "KKRS",
-      "KKRT",
-      "KKRpD",
-      "APO",
-      "APOS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883189%2Fgemini_generated_image_uvnx1guvnx1guvnx.png&w=1200&op=resize",
-    "description": "CoreWeave's business model challenges the bear case that older GPUs become obsolete quickly. The company secured a multi-year renewal on 2020-era Nvidia A100 chips extending through 2029, demonstrating that older hardware can generate profitable revenue in subsequent contracts after initial debt is paid down. Debt markets are increasingly pricing in this residual value, with CoreWeave's new $2.6 billion facility having a longer maturity than underlying customer contracts, signaling lender confidence in GPU longevity.",
-    "keywords": [
-      "GPU infrastructure",
-      "residual value",
-      "debt financing",
-      "AI compute",
-      "workload cascading",
-      "hardware depreciation",
-      "contract renewals"
-    ],
-    "insights": [
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights CoreWeave's competitive advantage in extracting long-term value from GPU assets through contract renewals and residual value monetization, challenging the obsolescence thesis and demonstrating sustainable economics."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia's partnership with major asset managers to mobilize $500 billion for AI compute infrastructure and potential residual-value support strengthens the ecosystem around its chips, extending their economic utility and market demand."
-      },
-      {
-        "ticker": "BLK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Nvidia's consortium to formalize AI compute as an investable asset class, but no specific impact analysis provided."
-      },
-      {
-        "ticker": "DIVB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Nvidia's consortium to formalize AI compute as an investable asset class, but no specific impact analysis provided."
-      },
-      {
-        "ticker": "BX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "BN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "BNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "BNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "KKR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "KKRS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "KKRT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "KKRpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "APO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      },
-      {
-        "ticker": "APOS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Consortium member for AI infrastructure investment mobilization, but limited direct impact discussed."
-      }
-    ]
-  },
-  {
-    "id": "9657120da589641dfeebe81113302760b39f6bcd9bd15991b1cc6b57abcc8d0c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Nvidia Just Recruited Wall Street to Help Fund $500 Billion in AI Infrastructure. Here\u2019s the Catch.",
-    "author": "Johnny Rice",
-    "published_utc": "2026-08-11T22:22:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/11/nvidia-just-recruited-wall-street-to-help-fund-usd500-billion-in-ai-infrastructure-here-s-the-catch/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "BLK",
-      "DIVB",
-      "BX",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "KKR",
-      "KKRS",
-      "KKRT",
-      "KKRpD",
-      "BN",
-      "BNH",
-      "BNJ",
-      "APO",
-      "APOS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F77b36599c7bafe4ce2b1695b739afbcc147c1eba-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Nvidia partnered with major Wall Street firms (Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR) to create compute financing platforms targeting $500 billion in AI data center funding. While the deal aims to accelerate AI infrastructure buildout, the author expresses skepticism about its sustainability, noting that hyperscalers are increasingly relying on debt markets and questioning whether GPUs' shorter lifespan makes them viable collateral compared to traditional assets like power plants.",
-    "keywords": [
-      "AI infrastructure financing",
-      "GPU financing",
-      "data center funding",
-      "hyperscaler spending",
-      "AI sustainability concerns",
-      "compute financing platforms"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the $500B financing deal appears positive on the surface, the author suggests it may actually signal weakness in AI demand sustainability rather than strength. The announcement comes amid concerns about hyperscalers turning to debt markets, and questions about GPU collateral viability due to their shorter useful life compared to traditional assets."
-      },
-      {
-        "ticker": "BLK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner in the financing initiative. No specific sentiment expressed about the firm itself; participation is presented as part of a broader financing arrangement with uncertain long-term viability."
-      },
-      {
-        "ticker": "DIVB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner in the financing initiative. No specific sentiment expressed about the firm itself; participation is presented as part of a broader financing arrangement with uncertain long-term viability."
-      },
-      {
-        "ticker": "BX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a partner in the compute financing platforms. No distinct sentiment provided; involvement is presented neutrally as part of the Wall Street consortium."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as one of the six major Wall Street partners. No specific commentary on the firm; participation is presented as part of the broader financing arrangement."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as one of the six major Wall Street partners. No specific commentary on the firm; participation is presented as part of the broader financing arrangement."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as one of the six major Wall Street partners. No specific commentary on the firm; participation is presented as part of the broader financing arrangement."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as one of the six major Wall Street partners. No specific commentary on the firm; participation is presented as part of the broader financing arrangement."
-      },
-      {
-        "ticker": "KKR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Named as a partner in the initiative. No distinct sentiment expressed; involvement is presented as part of the consortium without specific analysis."
-      },
-      {
-        "ticker": "KKRS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Named as a partner in the initiative. No distinct sentiment expressed; involvement is presented as part of the consortium without specific analysis."
-      },
-      {
-        "ticker": "KKRT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Named as a partner in the initiative. No distinct sentiment expressed; involvement is presented as part of the consortium without specific analysis."
-      },
-      {
-        "ticker": "KKRpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Named as a partner in the initiative. No distinct sentiment expressed; involvement is presented as part of the consortium without specific analysis."
-      },
-      {
-        "ticker": "BN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among the six Wall Street partners. No specific sentiment provided; participation is presented neutrally within the broader financing context."
-      },
-      {
-        "ticker": "BNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among the six Wall Street partners. No specific sentiment provided; participation is presented neutrally within the broader financing context."
-      },
-      {
-        "ticker": "BNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among the six Wall Street partners. No specific sentiment provided; participation is presented neutrally within the broader financing context."
-      },
-      {
-        "ticker": "APO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as one of the six major asset managers and investment banks in the partnership. No distinct sentiment expressed; involvement is presented as part of the consortium."
-      },
-      {
-        "ticker": "APOS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as one of the six major asset managers and investment banks in the partnership. No distinct sentiment expressed; involvement is presented as part of the consortium."
-      }
-    ]
-  },
-  {
-    "id": "7cd45bfee9b6f5d9b1d2307988e768eb31dd6eb373fa59334408399d9ef56ab6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Elon Musk's Tesla and SpaceX Have Shed $1.19 Trillion in Value Since June. Is This a Buying Opportunity?",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-08-05T14:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/05/elon-musks-tesla-and-spacex-have-shed-119-trillio/?source=iedfolrf0000001",
-    "tickers": [
-      "TSLA",
-      "SPCX",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881296%2F56d29df5158c61e221950ae2ff9dd90ec91e06d0-1.png&w=1200&op=resize",
-    "description": "Tesla and SpaceX have lost a combined $1.19 trillion in market value since June, with Tesla down 20% and SpaceX down 40%. Both companies are heavily investing in ambitious AI projects\u2014Tesla in Optimus robots and full self-driving, SpaceX in orbital data centers\u2014requiring billions in spending and debt. SpaceX faces additional pressure as lockup period restrictions begin expiring, potentially flooding the market with shares. The article suggests these declines may present buying opportunities for long-term investors willing to tolerate near-term volatility.",
-    "keywords": [
-      "market decline",
-      "artificial intelligence investment",
-      "capital expenditure",
-      "IPO lockup period",
-      "contrarian investing",
-      "Optimus robot",
-      "full self-driving",
-      "orbital data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 18% following Q2 earnings announcement due to doubled capex and $30 billion borrowing plans. Company faces uncertainty around Optimus robot commercialization and regulatory approval for full self-driving technology."
-      },
-      {
-        "ticker": "SPCX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 40% since June. Goldman Sachs projects negative free cash flow of $105 billion in 2029. Imminent lockup period expiration could flood market with up to 912 million shares, potentially pressuring stock price further."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as lead underwriter for SpaceX IPO and provider of financial projections; no direct impact on company performance discussed."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as lead underwriter for SpaceX IPO and provider of financial projections; no direct impact on company performance discussed."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as lead underwriter for SpaceX IPO and provider of financial projections; no direct impact on company performance discussed."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as lead underwriter for SpaceX IPO and provider of financial projections; no direct impact on company performance discussed."
+        "sentiment_reasoning": "Presented as an alternative option with the lowest expense ratio (0.03%) and largest assets ($193.52 billion), without comparative advantage or disadvantage stated."
       }
     ]
   }

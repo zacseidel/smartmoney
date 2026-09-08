@@ -1,5 +1,97 @@
 [
   {
+    "id": "75bf7e345cf97d1f10f5a2ce12f67d4999d628616758d71b36c0d7884de9b40a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Old Dominion Unveils Solid LTL Unit Performance for August",
+    "author": "Na",
+    "published_utc": "2026-09-03T18:01:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984747/old-dominion-unveils-solid-ltl-unit-performance-for-august?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2984747",
+    "tickers": [
+      "ODFL",
+      "EXPD",
+      "SHIP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a4/2341.jpg",
+    "description": "Old Dominion Freight Line (ODFL) reported 12.4% year-over-year revenue per day growth in August 2026, driven by increased LTL revenue per hundredweight, despite a 0.9% decline in tons per day. Quarter-to-date LTL revenue per hundredweight rose 11.3% (4.8% excluding fuel surcharges). CEO Marty Freeman expressed confidence in the company's strategic positioning and capacity to capture profitable market share.",
+    "keywords": [
+      "Old Dominion Freight Line",
+      "LTL revenue",
+      "transportation",
+      "freight",
+      "revenue growth",
+      "market share"
+    ],
+    "insights": [
+      {
+        "ticker": "ODFL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong double-digit revenue per day growth (12.4% YoY), consistent demand trends, improved LTL revenue per hundredweight metrics, and management confidence in strategic execution and capacity to support future growth."
+      },
+      {
+        "ticker": "EXPD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) rating with 28.6% expected earnings growth for 2026 and consistent earnings beats (average 17.15% above consensus) in trailing four quarters."
+      },
+      {
+        "ticker": "SHIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 rating with over 100% expected earnings growth for the current year and strong earnings surprise history (average 38% beat above consensus) in trailing four quarters."
+      }
+    ]
+  },
+  {
+    "id": "1d49ac692de5d848742b787b453f17e1e1ee4b0ce74e9fc1397cea8b7e3d4f2d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Landstar EPS Estimates Northbound: How to Play the Stock Now?",
+    "author": "Na",
+    "published_utc": "2026-08-31T17:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982764/landstar-eps-estimates-northbound-how-to-play-the-stock-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2982764",
+    "tickers": [
+      "LSTR",
+      "WERN",
+      "ODFL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ab/82011.jpg",
+    "description": "Landstar System (LSTR) receives a buy recommendation with a Zacks Rank #2 rating. The company benefits from expanding heavy haul services and cross-border transportation opportunities with Mexico, maintains a strong balance sheet with $353.25M in cash versus $26.1M in current debt, and consistently returns capital to shareholders through dividends and buybacks. LSTR trades at an attractive valuation with a forward P/S ratio of 1.03X versus the industry average of 2.32X, though it has underperformed the broader transportation-truck industry over the past year.",
+    "keywords": [
+      "transportation",
+      "heavy haul services",
+      "cross-border transportation",
+      "dividends",
+      "share buybacks",
+      "valuation",
+      "balance sheet",
+      "freight services"
+    ],
+    "insights": [
+      {
+        "ticker": "LSTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fundamentals including solid balance sheet ($353.25M cash vs $26.1M debt), consistent shareholder returns ($120M in H1 2026), attractive valuation (P/S 1.03X vs industry 2.32X), growth opportunities in heavy haul and Mexico cross-border services, and upward earnings estimate revisions support a buy recommendation."
+      },
+      {
+        "ticker": "WERN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison showing LSTR outperforming WERN over the past year, but no specific analysis or sentiment provided about the company itself."
+      },
+      {
+        "ticker": "ODFL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison showing LSTR outperforming ODFL over the past year, but no specific analysis or sentiment provided about the company itself."
+      }
+    ]
+  },
+  {
     "id": "e331b6871184829cb11d735ab492e838e0ecfece175518552c24118b5aa6677c",
     "publisher": {
       "name": "Benzinga",
@@ -206,84 +298,6 @@
         "ticker": "ODFL",
         "sentiment": "positive",
         "sentiment_reasoning": "Mentioned as a sector leader expressing optimism for 2026, which helped catalyze the broader LTL industry rally including XPO. The positive sector sentiment benefits the company."
-      }
-    ]
-  },
-  {
-    "id": "7caa785c5234cba48b5bcfecbc76958ff179104d482cea11286914bb030b0cae",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Old Dominion Proves Pricing Power In A Tough Trucking Market",
-    "author": "Lekha Gupta",
-    "published_utc": "2026-02-04T17:15:23Z",
-    "article_url": "https://www.benzinga.com/markets/earnings/26/02/50384162/old-dominion-proves-pricing-power-in-a-tough-trucking-market?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "ODFL"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/02/04/Old-Dominion-Freight-Lines.jpeg?width=1200&height=800&fit=crop",
-    "description": "Old Dominion Freight Line (NASDAQ: ODFL) stock rose Wednesday after reporting Q4 2025 results that beat earnings expectations despite challenging market conditions. Revenue fell 5.7% YoY to $1.307 billion due to a 10.7% decline in LTL tons per day, but the company demonstrated pricing power with a 4.9% increase in LTL revenue per hundredweight excluding fuel surcharges. EPS of $1.09 exceeded Street estimates of $1.06, and the company increased its quarterly dividend by 3.6%.",
-    "keywords": [
-      "Old Dominion Freight Line",
-      "Q4 2025 earnings",
-      "LTL trucking",
-      "pricing power",
-      "revenue beat",
-      "dividend increase",
-      "operating ratio"
-    ],
-    "insights": [
-      {
-        "ticker": "ODFL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained on earnings beat with EPS of $1.09 exceeding estimates of $1.06. Despite revenue decline, the company demonstrated pricing power with 4.9% increase in LTL revenue per hundredweight. Dividend increased 3.6% YoY, and management maintained commitment to revenue quality and cost discipline in a challenging environment. Strong cash generation and shareholder returns support positive outlook."
-      }
-    ]
-  },
-  {
-    "id": "0a37673de4769b715443d43306cf590fb29ae6ef8d320e2aaa304c448cce56ff",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "XPO Speeds Past the Competition Again. AI Could Give It Another Leg Up",
-    "author": "Jeremy Bowman",
-    "published_utc": "2025-11-02T08:05:00Z",
-    "article_url": "https://www.fool.com/investing/2025/11/02/xpo-speeds-past-the-competition-again-ai-could-giv/?source=iedfolrf0000001",
-    "tickers": [
-      "XPO",
-      "ODFL",
-      "SAIA"
-    ],
-    "image_url": "https://g.foolcdn.com/editorial/images/840436/xpo_nightdrive_1-1080x1920.jpg",
-    "description": "XPO delivered strong Q3 earnings, beating estimates and improving operating margins through AI-driven productivity enhancements, despite challenging macroeconomic conditions in the trucking and manufacturing sectors.",
-    "keywords": [
-      "trucking",
-      "AI",
-      "productivity",
-      "earnings",
-      "transportation"
-    ],
-    "insights": [
-      {
-        "ticker": "XPO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beat earnings estimates, improved operating ratio, leveraging AI for productivity, stock up 13% year-to-date, well-positioned for future demand"
-      },
-      {
-        "ticker": "ODFL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor, minimal performance details provided"
-      },
-      {
-        "ticker": "SAIA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor, minimal performance details provided"
       }
     ]
   }

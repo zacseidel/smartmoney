@@ -1,383 +1,211 @@
 [
   {
-    "id": "60aa62027641061a0badcfc0d34b4b0be908f0c35bdaae682c6b65af2a3eef68",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "3 Telltale Signs an 8%+ Dividend Is Built to Last",
-    "author": "Michael Foster",
-    "published_utc": "2026-06-29T10:37:00Z",
-    "article_url": "https://www.investing.com/analysis/3-telltale-signs-an-8-dividend-is-built-to-last-200682948",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "MSFT",
-      "AMZN",
-      "STRL",
-      "NVT",
-      "CRDO"
-    ],
-    "amp_url": "https://m.investing.com/analysis/3-telltale-signs-an-8-dividend-is-built-to-last-200682948?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The article examines how closed-end funds (CEFs) can sustainably offer 8%+ dividend yields by investing in profitable stocks and returning those profits to shareholders. Using Liberty All-Star Growth Fund (ASG) as an example, the author outlines three key evaluation criteria: portfolio quality (focusing on large-cap tech and data-center beneficiaries), trading at a discount to net asset value, and consistent dividend history. ASG currently yields 8.2% and trades at a 12.2% discount to NAV, making it potentially attractive for investors bullish on U.S. large-cap and AI stocks.",
-    "keywords": [
-      "closed-end funds",
-      "dividend yield",
-      "net asset value discount",
-      "portfolio quality",
-      "sustainable payouts",
-      "AI stocks",
-      "data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio and identified as a beneficiary of AI and data-center buildout trends."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top large-cap stalwart position in ASG's portfolio."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio of quality large-cap stocks."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio of quality large-cap stocks."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio of quality large-cap stocks."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio of quality large-cap stocks."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top large-cap position in ASG's portfolio."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top position in ASG's portfolio of quality large-cap stocks."
-      },
-      {
-        "ticker": "STRL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a lesser-known holding that benefits from data-center buildout."
-      },
-      {
-        "ticker": "NVT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a company benefiting from data-center buildout providing systems and services."
-      },
-      {
-        "ticker": "CRDO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a company benefiting from data-center buildout."
-      }
-    ]
-  },
-  {
-    "id": "86727669b3e3c6fd03bfaced11bc9905a1d27638b292c4769c55927d58f8814c",
+    "id": "c48f58a4bdeeefe127d2eb9456cc0a4842582ab9269260c9aa285a6a73c0d81c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "VONG vs. IWO: Large-Cap Stability or Small-Cap Growth Upside?",
-    "author": "John Ballard",
-    "published_utc": "2026-06-11T17:31:17Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/06/11/vong-vs-iwo-large-cap-stability-or-small-cap-growth-upside/?source=iedfolrf0000001",
+    "title": "Why Credo Technology Sank This Week",
+    "author": "Billy Duberstein",
+    "published_utc": "2026-09-03T22:17:30Z",
+    "article_url": "https://www.fool.com/investing/2026/09/03/why-credo-technology-sank-this-week/?source=iedfolrf0000001",
     "tickers": [
-      "VONG",
-      "IWO",
-      "BE",
-      "CRDO"
+      "CRDO",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two growth-focused ETFs: Vanguard Russell 1000 Growth ETF (VONG), which offers lower costs and large-cap stability with a 0.06% expense ratio, and iShares Russell 2000 Growth ETF (IWO), which provides small-cap growth exposure with higher recent returns (32.4% vs 21.2% over 1 year) but a higher 0.24% expense ratio. VONG has outperformed over 5 years, while IWO has shown better recent performance, suggesting a potential market rotation toward small-cap stocks beyond the tech-dominated large-cap sector.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886393%2Fgettyimages-2195012879.jpg&w=1200&op=resize",
+    "description": "Credo Technology stock plunged 29.5% this week despite beating earnings expectations with 114.7% revenue growth and 130% EPS growth. The sell-off was driven by margin pressure, with GAAP gross margins falling to 64.5% from 68% last quarter, and higher-than-expected stock-based compensation. At a valuation of ~50x true forward earnings when accounting for stock dilution, investors viewed the results as insufficient given the company's already high valuation.",
     "keywords": [
-      "growth ETFs",
-      "large-cap vs small-cap",
-      "expense ratio",
-      "market performance",
-      "portfolio diversification",
-      "technology sector",
-      "market rotation"
+      "AI networking",
+      "semiconductor",
+      "earnings beat",
+      "margin pressure",
+      "stock-based compensation",
+      "valuation",
+      "AI data centers"
     ],
     "insights": [
       {
-        "ticker": "VONG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "VONG is presented favorably for its significantly lower expense ratio (0.06%), superior 5-year performance ($1,974 growth vs $1,257 for IWO), and lower volatility (beta 1.16 vs 1.46). It offers stability and cost efficiency for long-term investors."
-      },
-      {
-        "ticker": "IWO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "IWO is viewed positively for its recent outperformance (32.4% 1-year return), more diversified sector allocation beyond tech, and attractive valuations in small-cap stocks. It represents potential upside if the bull market broadens beyond technology."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IWO (3.19% weight) without specific performance commentary or investment recommendation."
-      },
-      {
         "ticker": "CRDO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 29.5% despite beating revenue and earnings expectations. Margin compression (GAAP gross margins down to 64.5% from 68%), rising stock-based compensation, and deteriorating margin guidance spooked investors. While the company maintains strong triple-digit growth, the high valuation (~50x true forward earnings) left no room for disappointment."
+      },
+      {
+        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in IWO (2.06% weight) without specific performance commentary or investment recommendation."
+        "sentiment_reasoning": "Mentioned as a comparison point for Credo's AI infrastructure positioning. No direct news or sentiment impact discussed in the article."
       }
     ]
   },
   {
-    "id": "661bcc4a512254f6c9c51f40dbe6a0fb83311e23ff4fed66c4aa179828e999f7",
+    "id": "52157b0cdbf3a2ac3bd876260cdacd22bf75e7ff508f0982834017fb7f9a73e7",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Tom Lee's Small-Cap Granny Shots ETF Reloads: First Solar, Zoom Among 10 New Buys",
-    "author": "Chandrima Sanyal",
-    "published_utc": "2026-06-10T20:44:23Z",
-    "article_url": "https://www.benzinga.com/etfs/broad-u-s-equity-etfs/26/06/53130702/tom-lees-small-cap-granny-shots-etf-reloads-first-solar-zoom-among-10-new-buys?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+    "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-09-03T08:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/03/millionaire-artificial-intelligence-ai-stock-buy/?source=iedfolrf0000001",
     "tickers": [
-      "GRNJ",
-      "FSLR",
+      "ALAB",
       "CRDO",
-      "NBIX",
-      "CARR",
-      "ARRY"
+      "VRT",
+      "AMZN"
     ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/10/tom-lee-dall-e_0.png",
-    "description": "Fundstrat Capital completed its May 2026 quarterly rebalance of the Fundstrat Granny Shots US Small- & Mid-Cap ETF (GRNJ), adding 10 stocks including First Solar, Zoom, Credo Technology, and Neurocrine Biosciences, while removing 8 positions. CIO Tom Lee positions the portfolio for a 'challenging but ultimately constructive' environment, with the strategy focusing on companies benefiting from structural tailwinds across themes like Millennials, Global Labor Supply, Energy, Cybersecurity, and Easing Financial Conditions.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885595%2Fgettyimages-2217957588-1.jpg&w=1200&op=resize",
+    "description": "The article highlights three AI infrastructure stocks\u2014Astera Labs, Credo Technology, and Vertiv\u2014that address critical bottlenecks in AI data center scaling. Astera Labs specializes in connectivity solutions with 93% YoY revenue growth and a $6.5B Amazon warrant agreement. Credo Technology manufactures active electrical cables with 272% YoY growth but faces customer concentration risks. Vertiv dominates power and cooling systems with a $15B backlog and strong positioning in liquid cooling demand.",
     "keywords": [
-      "ETF rebalance",
-      "small-cap stocks",
-      "Fundstrat Capital",
-      "Tom Lee",
-      "quarterly rebalance",
-      "thematic investing",
-      "renewable energy",
-      "technology stocks"
+      "AI infrastructure",
+      "data center bottlenecks",
+      "connectivity solutions",
+      "active electrical cables",
+      "power distribution",
+      "liquid cooling",
+      "high-growth stocks"
     ],
     "insights": [
       {
-        "ticker": "GRNJ",
+        "ticker": "ALAB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Active rebalancing with strategic additions of quality companies across growth sectors; positioned for constructive market environment despite near-term challenges"
-      },
-      {
-        "ticker": "FSLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Added to portfolio in rebalance, indicating alignment with renewable energy structural tailwinds"
+        "sentiment_reasoning": "Strong 93% YoY revenue growth, high 76.3% gross margins indicating design-focused business model, Scorpio product family expected to become largest product line, and strategic $6.5B warrant agreement with Amazon provide significant growth catalysts and validation."
       },
       {
         "ticker": "CRDO",
         "sentiment": "positive",
-        "sentiment_reasoning": "New addition to portfolio, likely benefiting from cybersecurity and technology themes"
+        "sentiment_reasoning": "Exceptional 272% YoY revenue growth with guidance above 200% for full-year, steep adoption curve for active electrical cables, and expanding product portfolio (ZeroFlap Optics, OmniConnect gearboxes). However, sentiment is tempered by significant customer concentration risk and high stock volatility."
       },
       {
-        "ticker": "NBIX",
+        "ticker": "VRT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Added to portfolio, indicating healthcare sector positioning aligned with fund themes"
+        "sentiment_reasoning": "Massive $15B backlog with 2.9 book-to-bill ratio indicating strong demand, binding purchase orders with advance payments, and strategic positioning in liquid cooling where lead times have extended significantly. Expanding manufacturing capacity by 40-50% demonstrates confidence in sustained demand."
       },
-      {
-        "ticker": "CARR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Removed from portfolio as it no longer met thematic criteria"
-      },
-      {
-        "ticker": "ARRY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Removed from portfolio, indicating it no longer aligns with fund's investment themes"
-      }
-    ]
-  },
-  {
-    "id": "741d589a2dc857982b2e98a0f8852b5a879a711066aa696a4dfe721d370e91bf",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Buy The Dip? Not So Fast. 6 Stocks Investors Ignored In Last Week's Chaos",
-    "author": "Erica Kollmann",
-    "published_utc": "2026-06-08T19:47:33Z",
-    "article_url": "https://www.benzinga.com/markets/tech/26/06/53072445/buy-the-dip-not-so-fast-6-stocks-investors-ignored-in-last-weeks-chaos?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "AMZN",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "CRDO",
-      "NOW",
-      "TSLA",
-      "NVDA",
-      "META",
-      "CRWV",
-      "AAOI"
-    ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/08/retail-traders---EK.jpeg",
-    "description": "During Friday's 1,100-point Nasdaq decline, retail traders on Robinhood showed a rotation pattern rather than a simple 'buy the dip' strategy. While mega-cap AI names like Tesla, Nvidia, and CoreWeave saw aggressive buying, major software and cloud stocks including Amazon, Microsoft, and Alphabet were net sold despite declining prices. Credo Technology was the most heavily sold stock on the platform, suggesting traders locked in gains from recent rallies rather than adding exposure to beaten-down mega-cap names.",
-    "keywords": [
-      "retail trading",
-      "market selloff",
-      "Nasdaq decline",
-      "buy the dip",
-      "sector rotation",
-      "mega-cap tech",
-      "AI stocks"
-    ],
-    "insights": [
       {
         "ticker": "AMZN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Net seller despite market decline; buy/sell ratio well below 1.0x, indicating retail traders were exiting positions rather than buying the dip"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Net seller despite market decline; buy/sell ratio well below 1.0x, showing retail traders were reducing exposure to this mega-cap software name"
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Net seller despite market decline; buy/sell ratio well below 1.0x, indicating retail traders were selling rather than buying during the rout"
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Net seller despite market decline; buy/sell ratio well below 1.0x, indicating retail traders were selling rather than buying during the rout"
-      },
-      {
-        "ticker": "CRDO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Most heavily net-sold stock on Robinhood with buy/sell ratio of 0.63x, the lowest on the entire list, suggesting traders were locking in gains"
-      },
-      {
-        "ticker": "NOW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite 30-day buy ratio of 1.12x, saw sharp single-day reversal with net selling, indicating traders were locking in gains rather than adding exposure"
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Aggressively bought with buy/sell ratio of 1.49x, well above 30-day average, showing strong retail conviction during the market decline"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Aggressively bought with buy/sell ratio of 1.43x, meaningfully above 30-day average, indicating retail traders were buying the dip in this AI infrastructure name"
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rounded out the most aggressively bought names on Friday, showing retail traders were accumulating this mega-cap AI name during the decline"
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Most aggressively bought stock with buy/sell ratio of 1.52x, highest on the list, reflecting strong retail demand for AI infrastructure plays"
-      },
-      {
-        "ticker": "AAOI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rounded out the most aggressively bought names, indicating retail traders were buying hardware and AI infrastructure plays during the market decline"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner through Astera Labs' $6.5B warrant agreement, indicating Amazon's commitment to AI infrastructure scaling, but no direct investment recommendation or analysis provided."
       }
     ]
   },
   {
-    "id": "88792b4deef3a443e27067eaf56e4e281c724f38b641316e44355fe2e2366121",
+    "id": "7427fed3c145bf6d682a3aeb1a037ce941a34aab5aa58e16ee134114e8f4d0a3",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Nvidia And Other 6 Chip Stocks Set For A 'Secular Upside,' Analyst Says",
-    "author": "Piero Cingari",
-    "published_utc": "2026-06-08T16:25:11Z",
-    "article_url": "https://www.benzinga.com/news/26/06/53065410/bofa-nvidia-chip-stocks-secular-upside-ai-scarcity?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+    "title": "Why Credo Technology Stock Plunged 20% Today",
+    "author": "Anders Bylund",
+    "published_utc": "2026-09-02T20:19:12Z",
+    "article_url": "https://www.fool.com/investing/2026/09/02/why-credo-technology-stock-plunged-20-today/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "MCHP",
-      "MCHPP",
-      "TXN",
-      "CRDO",
-      "ADI",
-      "KLAC",
-      "CDNS"
+      "CRDO"
     ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/08/The-modern-Nvidia-logo-and-company-name-.jpeg",
-    "description": "Bank of America analyst Vivek Arya identifies seven semiconductor stocks positioned for sustained outperformance in the AI era, driven by surging demand for AI chips and data center infrastructure. With AI data center equipment market projected to reach $1.7 trillion by 2030 (up from $264 billion in 2025), the key constraint is supply scarcity rather than demand. All seven stocks are rated Buy, with Nvidia offering the most upside at 71% to BofA's $350 price target.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886065%2Fcrdo-logo-blue.png&w=1200&op=resize",
+    "description": "Credo Technology's stock dropped 20% despite beating Q1 2027 earnings estimates with 115% revenue growth and 131% earnings growth. The decline was driven by concerns over high customer concentration (three clients account for 74% of revenue), elevated valuation multiples (59x trailing earnings), and high volatility (beta of 3.2), despite strong guidance for Q2.",
     "keywords": [
-      "artificial intelligence",
-      "semiconductor stocks",
-      "data center spending",
-      "chip demand",
-      "secular growth",
-      "AI chips",
-      "hyperscaler investment"
+      "earnings beat",
+      "customer concentration risk",
+      "high valuation",
+      "data center infrastructure",
+      "semiconductor",
+      "AI infrastructure"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "CRDO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "While the company delivered exceptional financial results (115% revenue growth, 131% earnings growth) and raised guidance, the stock fell 20% due to investor concerns about extreme customer concentration (74% of revenue from three clients), already-high valuation multiples (59x trailing earnings), and the risk of demand cliff if major customers reduce orders. The market's reaction suggests these structural risks outweigh the strong operational performance."
+      }
+    ]
+  },
+  {
+    "id": "51e2419ee29453976c14ac0e8c0c12675a84460b5dc4031e0b04fc65c6ff813d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Credo's Optical Bet: Is a $600M+ Revenue Opportunity Taking Shape?",
+    "author": "Na",
+    "published_utc": "2026-09-02T12:40:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983576/credo-s-optical-bet-is-a-600m-revenue-opportunity-taking-shape?cid=CS-ZC-FT-analyst_blog|quick_take-2983576",
+    "tickers": [
+      "CRDO",
+      "MRVL",
+      "ALAB"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/168846.webp",
+    "description": "Credo Technology reported $479 million in Q1 FY2027 revenue, up 114.7% year-over-year, driven by strong demand for optical connectivity solutions in AI infrastructure. The company expects optical revenue to exceed $600 million in FY2027 with three product lines each contributing over $100 million. Competitors Marvell Technology and Astera Labs are also benefiting from the shift toward higher-speed connectivity and near-package optics in AI networks.",
+    "keywords": [
+      "AI infrastructure",
+      "optical connectivity",
+      "silicon photonics",
+      "near-package optics",
+      "semiconductor",
+      "data center",
+      "high-speed interconnects"
+    ],
+    "insights": [
+      {
+        "ticker": "CRDO",
         "sentiment": "positive",
-        "sentiment_reasoning": "BofA rates Buy with $350 price target implying 71% upside; identified as top sector pick with strongest growth potential among the seven stocks"
+        "sentiment_reasoning": "Strong revenue growth of 114.7% YoY with record optical DSP revenue and successful silicon photonics PIC integration. Expected inflection in H2 FY2027 with optical revenue exceeding $600 million and over 85% full-year growth. However, trading at premium valuation (14.24x forward P/S vs. industry 4.96x) and rated Hold."
       },
       {
-        "ticker": "MCHP",
+        "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 38% upside potential; positioned to benefit from semiconductor scarcity and AI infrastructure buildout"
+        "sentiment_reasoning": "Strong demand across optical DSPs, broadband analog, and switching businesses with 1.6T ramping rapidly. Multiple business segments tracking toward $1 billion annualized revenue run rates, with significant scale-up opportunity ahead."
       },
       {
-        "ticker": "MCHPP",
+        "ticker": "ALAB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 38% upside potential; positioned to benefit from semiconductor scarcity and AI infrastructure buildout"
-      },
+        "sentiment_reasoning": "Benefiting from rising demand for high-speed connectivity in AI infrastructure with diverse product portfolio (Taurus, CXL, UALink, optical). Expected Q3 revenue of $540-$560 million implies ~40% sequential growth with strong product shipments."
+      }
+    ]
+  },
+  {
+    "id": "4ef79c1004017819a5dd55b0851260eda25afbb7c4827c15b43cbba2d7db60f0",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Marvell Technology (MRVL) Q2 Earnings and Revenues Beat Estimates",
+    "author": "Na",
+    "published_utc": "2026-08-27T21:15:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2981436/marvell-technology-mrvl-q2-earnings-and-revenues-beat-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-2981436",
+    "tickers": [
+      "MRVL",
+      "CRDO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default362.jpg",
+    "description": "Marvell Technology reported Q3 2026 earnings of $0.94 per share, beating consensus estimates of $0.93, with revenues of $2.74 billion exceeding expectations by 1.03%. The stock has gained 188.4% year-to-date and holds a Zacks Rank #2 (Buy) rating. Meanwhile, Credo Technology Group is expected to report quarterly earnings of $1.16 per share (up 123.1% YoY) with revenues of $470.73 million when it reports on September 1.",
+    "keywords": [
+      "earnings surprise",
+      "semiconductor industry",
+      "earnings estimates",
+      "revenue growth",
+      "stock rating",
+      "year-over-year comparison"
+    ],
+    "insights": [
       {
-        "ticker": "TXN",
+        "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 30% upside potential; included in analyst's secular upside thesis for chip stocks"
+        "sentiment_reasoning": "Beat consensus EPS estimates by $0.01 (1.08% surprise), exceeded revenue expectations by 1.03%, demonstrated strong year-to-date performance (+188.4%), and received a Zacks Rank #2 (Buy) rating with favorable estimate revision trends."
       },
       {
         "ticker": "CRDO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 22% upside potential; positioned to capture AI data center demand growth"
-      },
-      {
-        "ticker": "ADI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 15% upside potential; included in semiconductor scarcity play thesis"
-      },
-      {
-        "ticker": "KLAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 9% upside potential; benefits from increased semiconductor manufacturing capacity needs"
-      },
-      {
-        "ticker": "CDNS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rated Buy by BofA with approximately 6% upside potential; positioned to benefit from AI chip design and semiconductor growth"
+        "sentiment_reasoning": "Expected to report exceptional earnings growth of 123.1% year-over-year with revenues up 111% from the prior year quarter, indicating strong business momentum in the semiconductor industry."
       }
     ]
   }

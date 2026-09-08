@@ -1,0 +1,35 @@
+{
+  "ticker": "VYX",
+  "name": "NCR Voyix Corporation",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000070866",
+  "composite_figi": "BBG000BMXK89",
+  "share_class_figi": "BBG001S9FBR7",
+  "market_cap": 1261958867.72,
+  "phone_number": "(917) 821-9817",
+  "address": {
+    "address1": "864 SPRING ST NW",
+    "city": "ATLANTA",
+    "state": "GA",
+    "postal_code": "30308"
+  },
+  "description": "NCR Voyix Corp is a company providing services of digital commerce solutions for retail, restaurant, and digital banking. The company operates in two reportable segments: Retail, and Restaurants. The Retail segment provides software solutions for retailers of all sizes, enhancing operational efficiency and customer experience. The Restaurants segment offers end-to-end technology solutions for food service establishments, improving operational efficiency, and customer satisfaction, and reducing costs. The company derives maximum revenue from Retail segment. Geographically, the company operates in United States, Americas (excluding United States), Europe, Middle East and Africa, and Asia Pacific. It derives maximum revenue from United States.",
+  "sic_code": "3578",
+  "sic_description": "CALCULATING & ACCOUNTING MACHINES (NO ELECTRONIC COMPUTERS)",
+  "ticker_root": "VYX",
+  "homepage_url": "https://www.ncrvoyix.com",
+  "total_employees": 13500,
+  "list_date": "1981-12-31",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bmNydm95aXguY29t/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/bmNydm95aXguY29t/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 138069898,
+  "weighted_shares_outstanding": 138069898,
+  "round_lot": 100
+}

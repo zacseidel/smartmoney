@@ -1,5 +1,79 @@
 [
   {
+    "id": "bff2b2bd80e24daf5ea427059c8de06990851ea762be36c680556c2c9ff65df4",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Planet Labs PBC (PL) Tops Q2 Earnings and Revenue Estimates",
+    "author": "Na",
+    "published_utc": "2026-09-03T21:20:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2984781/planet-labs-pbc-pl-tops-q2-earnings-and-revenue-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-2984781",
+    "tickers": [
+      "PL",
+      "PAYX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default101.jpg",
+    "description": "Planet Labs PBC reported Q3 2026 earnings of $0.02 per share, beating consensus estimates of -$0.02 loss, with revenues of $116.05 million exceeding expectations by 10.67%. However, the stock has underperformed the S&P 500 year-to-date and carries a Zacks Rank #3 (Hold) rating. The company operates in the Satellite and Communication industry, currently ranked in the bottom 11% of industries. Paychex is expected to report Q2 2026 earnings of $1.33 per share, representing 9% year-over-year growth.",
+    "keywords": [
+      "earnings surprise",
+      "revenue beat",
+      "Zacks Rank",
+      "satellite communications",
+      "earnings estimates",
+      "industry outlook"
+    ],
+    "insights": [
+      {
+        "ticker": "PL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat earnings and revenue estimates with a +200% surprise, it underperformed the S&P 500 year-to-date (+1.4% vs +12%) and received a Hold rating. The Satellite and Communication industry ranks in the bottom 11%, which constrains upside potential despite solid quarterly results."
+      },
+      {
+        "ticker": "PAYX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to report 9% year-over-year earnings growth with stable consensus estimates and 5.1% revenue growth. As a payroll processor in the Computer and Technology sector, it demonstrates consistent performance expectations without negative revisions."
+      }
+    ]
+  },
+  {
+    "id": "a311af1401d919a2f1e5a54c746cf2b19f5326452350cb9d5cb747e4e26285b7",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "WISE at Work: Early Results Show Paychex AI Is Reducing Payroll Errors and Improving Service Efficiency at Scale",
+    "author": "Paychex, Inc.",
+    "published_utc": "2026-08-31T13:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/31/3353324/0/en/wise-at-work-early-results-show-paychex-ai-is-reducing-payroll-errors-and-improving-service-efficiency-at-scale.html",
+    "tickers": [
+      "PAYX"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/7d951b09-5234-42ca-bde6-32a0b2f62002",
+    "description": "Paychex announced early results from its WISE AI platform, which has been adopted by over 50,000 businesses. The agentic AI engine has demonstrated significant improvements in payroll error prevention, with nearly 90% of identified errors corrected before payroll runs, and has handled over 350,000 workforce conversations with more than 20% resolved without human involvement. The platform is now rolling out across Paychex Flex users with plans to expand further.",
+    "keywords": [
+      "AI",
+      "payroll automation",
+      "WISE platform",
+      "agentic AI",
+      "payroll error reduction",
+      "customer service efficiency",
+      "workforce management",
+      "HCM platforms"
+    ],
+    "insights": [
+      {
+        "ticker": "PAYX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Paychex demonstrated strong early adoption metrics with 50,000+ businesses using WISE, achieving nearly 90% error correction rates before payroll runs, handling 350,000+ conversations with 20%+ autonomous resolution, and 100% accuracy on voice agent operations. The successful scaling of AI capabilities across the enterprise and positive customer outcomes indicate strong business momentum and competitive differentiation."
+      }
+    ]
+  },
+  {
     "id": "3e7c64e99de6bfa3f1d5dbb972419317837e86ddc35def560f096e5dc4acad22",
     "publisher": {
       "name": "The Motley Fool",
@@ -104,91 +178,6 @@
         "ticker": "PAYX",
         "sentiment": "positive",
         "sentiment_reasoning": "VP & CISO received Global ORBIE award for organizations over $5 billion revenue, demonstrating recognized leadership excellence in cybersecurity and business protection."
-      }
-    ]
-  },
-  {
-    "id": "efa999fc3c178de8bbf1efa6d641445ecb5b42f2206c739cd0687460f1411d9a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Michael Haske to Become isolved CEO as Company Embarks on Next Phase of AI-Led Growth",
-    "author": "Na",
-    "published_utc": "2026-05-04T18:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/04/3287054/0/en/Michael-Haske-to-Become-isolved-CEO-as-Company-Embarks-on-Next-Phase-of-AI-Led-Growth.html",
-    "tickers": [
-      "PCTY",
-      "ADP",
-      "PAYX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/c7803669-a575-4be5-a22a-b9982b790c1c",
-    "description": "isolved announced a planned CEO transition effective May 4, 2026, with Mark Duffell retiring after leading the company since 2020 and Michael Haske, a veteran HCM technology executive, assuming the role. Under Duffell's tenure, isolved achieved nearly fourfold revenue growth and now serves over 200,000 employers and 9 million employees. Haske plans to position isolved as a 'Platform of Action' by integrating agentic AI and advanced automation capabilities.",
-    "keywords": [
-      "CEO transition",
-      "human capital management",
-      "HCM platform",
-      "agentic AI",
-      "payroll services",
-      "workforce management",
-      "succession planning"
-    ],
-    "insights": [
-      {
-        "ticker": "PCTY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a company where incoming CEO Michael Haske previously worked for 16 years and helped scale to $1 billion in revenue. This is contextual information about Haske's background rather than news directly affecting Paylocity's operations or outlook."
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as part of incoming CEO's career history where he began his career. No direct business impact or news related to ADP is discussed."
-      },
-      {
-        "ticker": "PAYX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as part of incoming CEO's prior employment history where he spent 10 years. No direct business impact or news related to Paychex is discussed."
-      }
-    ]
-  },
-  {
-    "id": "9f160078c5750fc9ad03cc0279db2d879a1880a3b6460a8201ca4f3016f8aec2",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "YouLinc Launches Referral Partner Generation Platform for B2B Professionals on LinkedIn",
-    "author": "Youlinc Digital Llc",
-    "published_utc": "2026-04-09T22:38:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/04/09/3271479/0/en/YouLinc-Launches-Referral-Partner-Generation-Platform-for-B2B-Professionals-on-LinkedIn.html",
-    "tickers": [
-      "PAYX",
-      "GPN"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/04/09/3271479/0/en/YouLinc-Launches-Referral-Partner-Generation-Platform-for-B2B-Professionals-on-LinkedIn.html",
-    "description": "YouLinc Digital LLC, founded in 2025 and headquartered in Frisco, Texas, announced the launch of its referral partner generation platform on LinkedIn. The platform helps B2B professionals systematically identify and build relationships with complementary partners. Early metrics show a 21% acceptance rate for connection requests and 16% reply rate, targeting industries including financial services, insurance, payroll, and professional services. The platform is already being used by organizations such as Paychex, Auris, InKind, Jimmy John's, Global Payments, and Farmers Insurance.",
-    "keywords": [
-      "referral partner generation",
-      "LinkedIn platform",
-      "B2B professionals",
-      "relationship-driven growth",
-      "campaign automation",
-      "business development"
-    ],
-    "insights": [
-      {
-        "ticker": "PAYX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Paychex is listed as an early adopter of YouLinc's platform, indicating adoption of innovative business development tools to enhance referral partner networks."
-      },
-      {
-        "ticker": "GPN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Global Payments is mentioned as a user of the YouLinc platform, suggesting investment in relationship-driven growth strategies and modern sales infrastructure."
       }
     ]
   }

@@ -1,0 +1,34 @@
+{
+  "ticker": "ALKS",
+  "name": "Alkermes Inc. plc",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001520262",
+  "market_cap": 7733886839.2,
+  "phone_number": "00-353-1-772-8000",
+  "address": {
+    "address1": "CONNAUGHT HOUSE",
+    "address2": "1 BURLINGTON ROAD",
+    "city": "DUBLIN 4",
+    "state": "L2",
+    "postal_code": "00000"
+  },
+  "description": "Alkermes PLC is a fully integrated biotechnology company that applies its proprietary technologies to research, develop, and commercialize pharmaceutical products designed for unmet medical needs in therapeutic areas. The company utilizes several to develop and commercialize products and, in so doing, access technological, financial, marketing, manufacturing, and other resources. Alkermes either purchases active drug products from third parties or receives them from its third-party licensees to formulate products using its technologies. It operates in U.S., which derives maximum revenue, Ireland and Rest of the world.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "ALKS",
+  "homepage_url": "https://www.alkermes.com",
+  "total_employees": 2050,
+  "list_date": "1991-07-16",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YWxrZXJtZXMuY29t/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YWxrZXJtZXMuY29t/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 167763272,
+  "weighted_shares_outstanding": 167763272,
+  "round_lot": 100
+}

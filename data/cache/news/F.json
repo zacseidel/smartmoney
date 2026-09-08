@@ -1,426 +1,317 @@
 [
   {
-    "id": "fda1c330edde014dca6652b0a8b164eec500a0e95409fec72f63d7b602030ac7",
+    "id": "8bc8f6ca0c5083081d2856621d556308348ffa4416d16290f6af47e654774f3b",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Ford Just Delivered Bad News for Tesla Investors",
-    "author": "Marc Guberti",
-    "published_utc": "2026-07-29T15:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/ford-just-delivered-bad-news-for-tesla-investors/?source=iedfolrf0000001",
+    "title": "Should You Invest in the First Trust NASDAQ Transportation ETF (FTXR)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T10:20:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2985569/should-you-invest-in-the-first-trust-nasdaq-transportation-etf-ftxr?cid=CS-ZC-FT-sector_etf-2985569",
     "tickers": [
-      "TSLA",
+      "FTXR",
+      "GM",
+      "UNP",
       "F",
       "FpB",
       "FpC",
       "FpD",
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "UBER",
-      "NVDA"
+      "JETS",
+      "IYT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880677%2Fgettyimages-1441650317-1200x844-3b42050.jpg&w=1200&op=resize",
-    "description": "Ford announced it will achieve point-to-point autonomy by 2028 with Apple executives working on the technology, positioning itself to enter the robotaxi market. This threatens Tesla's dominance in robotaxis, one of the key growth drivers justifying Tesla's extremely high P/E ratio of ~300. As traditional automakers like Ford, Toyota, and Volkswagen enter the robotaxi space, competition will intensify and pressure Tesla's future margins and growth rates in this sector.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default302.jpg",
+    "description": "The First Trust NASDAQ Transportation ETF (FTXR) is a passively managed fund providing exposure to the transportation/shipping sector with $1.03 billion in assets. It has delivered strong performance with 13.63% YTD returns and 28.08% one-year returns, though it carries higher volatility (beta of 1.29). The fund holds a Zacks ETF Rank of 3 (Hold) with a 0.6% expense ratio and concentrated holdings in industrials stocks like General Motors, Union Pacific, and Ford.",
     "keywords": [
-      "robotaxis",
-      "autonomous vehicles",
-      "electric vehicles",
-      "market competition",
-      "valuation risk",
-      "self-driving technology"
+      "transportation ETF",
+      "FTXR",
+      "passive management",
+      "industrials sector",
+      "ETF performance",
+      "expense ratio",
+      "sector exposure"
     ],
     "insights": [
       {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Tesla faces increasing competition in robotaxis from Ford and other automakers. With a P/E ratio of ~300, Tesla has no margin for error and relies heavily on robotaxi and humanoid robot success. Rising competition threatens growth rates and profit margins in this critical segment."
+        "ticker": "FTXR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF receives a Hold rating with mixed characteristics: strong recent performance (28.08% one-year return) and reasonable expense ratio (0.6%), but offset by higher volatility (beta 1.29), concentrated holdings (44 holdings with top 10 at 59.71%), and a neutral Zacks ETF Rank of 3. Suitable for long-term investors but not a strong buy."
+      },
+      {
+        "ticker": "GM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in FTXR at 8.24% of portfolio. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
+      },
+      {
+        "ticker": "UNP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in FTXR. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
       },
       {
         "ticker": "F",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Ford is making strategic progress in autonomous vehicle technology with Apple executives involved, positioning itself to enter the high-margin robotaxi market by 2028. This represents a significant growth opportunity for the company."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in FTXR. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
       },
       {
         "ticker": "FpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Ford is making strategic progress in autonomous vehicle technology with Apple executives involved, positioning itself to enter the high-margin robotaxi market by 2028. This represents a significant growth opportunity for the company."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in FTXR. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
       },
       {
         "ticker": "FpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Ford is making strategic progress in autonomous vehicle technology with Apple executives involved, positioning itself to enter the high-margin robotaxi market by 2028. This represents a significant growth opportunity for the company."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in FTXR. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
       },
       {
         "ticker": "FpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in FTXR. No independent sentiment provided; mentioned only as a major component of the transportation ETF."
+      },
+      {
+        "ticker": "JETS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative ETF option with $749.18 million in assets and 0.6% expense ratio. No comparative advantage or disadvantage stated."
+      },
+      {
+        "ticker": "IYT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Ford is making strategic progress in autonomous vehicle technology with Apple executives involved, positioning itself to enter the high-margin robotaxi market by 2028. This represents a significant growth opportunity for the company."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Apple is mentioned as having executives working on Ford's autonomous technology, but the article provides no specific details about Apple's involvement, benefits, or strategic implications for Apple itself."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Waymo is noted as already operating in more cities than Tesla's robotaxis, indicating competitive progress, but the article does not provide forward-looking analysis or sentiment about Alphabet's robotaxi prospects."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Waymo is noted as already operating in more cities than Tesla's robotaxis, indicating competitive progress, but the article does not provide forward-looking analysis or sentiment about Alphabet's robotaxi prospects."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Waymo is noted as already operating in more cities than Tesla's robotaxis, indicating competitive progress, but the article does not provide forward-looking analysis or sentiment about Alphabet's robotaxi prospects."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Waymo is noted as already operating in more cities than Tesla's robotaxis, indicating competitive progress, but the article does not provide forward-looking analysis or sentiment about Alphabet's robotaxi prospects."
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Uber's recent partnership with Nvidia to launch robotaxis across 28 cities is mentioned as competition to Tesla, but the article provides no specific analysis of Uber's prospects or implications."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Nvidia is mentioned as partnering with Uber on robotaxi deployment, but the article does not analyze the impact or implications for Nvidia's business."
+        "sentiment_reasoning": "Presented as an alternative with a lower expense ratio (0.38% vs FTXR's 0.6%) and larger asset base ($2.18 billion), making it potentially more cost-efficient for similar exposure."
       }
     ]
   },
   {
-    "id": "aae5bf3af9d72ef2f550956500b27c52c936f739448686c74b498ba4b39c18bc",
+    "id": "13def77ddc3862645a4aaaf21ec448e6c9afd4d4b866ba222d5a80ddbbb710f2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Automotive Sales Driven by Growth in Hybrids in the Second Quarter of 2026",
-    "author": "Eric Volkman",
-    "published_utc": "2026-07-29T12:03:01Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/automotive-sales-driven-by-growth-in-hybrids-in-the-second-quarter-of-2026/?source=iedfolrf0000001",
+    "title": "Where Will Ford Be in 5 Years?",
+    "author": "Neil Patel",
+    "published_utc": "2026-09-06T15:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/06/where-will-ford-be-in-5-years/?source=iedfolrf0000001",
     "tickers": [
-      "TM",
+      "F",
+      "FpB",
+      "FpC",
+      "FpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885546%2Fford-logo-on-blue-filter-with-bronco-in-background_-the-motley-fool.png&w=1200&op=resize",
+    "description": "Ford's stock has gained 21% over the past 12 months but only 9% over five years. While the company's Ford Pro segment and new energy division offer some growth potential, the analyst argues Ford is unlikely to become a market-beating investment due to a mature automotive market, cyclical demand, high capital expenditures, and thin profit margins. The best-case scenario is a 50% stock appreciation over five years, driven primarily by valuation expansion rather than operational improvements.",
+    "keywords": [
+      "Ford Motor Company",
+      "automotive industry",
+      "stock performance",
+      "Ford Pro segment",
+      "Ford Energy",
+      "electric vehicles",
+      "valuation expansion",
+      "capital expenditures",
+      "cyclical demand"
+    ],
+    "insights": [
+      {
+        "ticker": "F",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The analyst presents a pessimistic outlook for Ford's five-year prospects. While acknowledging recent stock gains and new business segments (Ford Pro and Ford Energy), the article emphasizes structural headwinds: a mature, non-growing automotive market, cyclical consumer demand, razor-thin margins, and substantial capital requirements. The analyst concludes Ford will never be a 'compounding machine' and assigns only a 50% best-case appreciation scenario with low probability, suggesting limited upside potential."
+      },
+      {
+        "ticker": "FpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The analyst presents a pessimistic outlook for Ford's five-year prospects. While acknowledging recent stock gains and new business segments (Ford Pro and Ford Energy), the article emphasizes structural headwinds: a mature, non-growing automotive market, cyclical consumer demand, razor-thin margins, and substantial capital requirements. The analyst concludes Ford will never be a 'compounding machine' and assigns only a 50% best-case appreciation scenario with low probability, suggesting limited upside potential."
+      },
+      {
+        "ticker": "FpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The analyst presents a pessimistic outlook for Ford's five-year prospects. While acknowledging recent stock gains and new business segments (Ford Pro and Ford Energy), the article emphasizes structural headwinds: a mature, non-growing automotive market, cyclical consumer demand, razor-thin margins, and substantial capital requirements. The analyst concludes Ford will never be a 'compounding machine' and assigns only a 50% best-case appreciation scenario with low probability, suggesting limited upside potential."
+      },
+      {
+        "ticker": "FpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The analyst presents a pessimistic outlook for Ford's five-year prospects. While acknowledging recent stock gains and new business segments (Ford Pro and Ford Energy), the article emphasizes structural headwinds: a mature, non-growing automotive market, cyclical consumer demand, razor-thin margins, and substantial capital requirements. The analyst concludes Ford will never be a 'compounding machine' and assigns only a 50% best-case appreciation scenario with low probability, suggesting limited upside potential."
+      }
+    ]
+  },
+  {
+    "id": "1a01549414a4760a4071d2326f97175a893954eb08deb01728ec94fb812a8c99",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "What's Behind Ford's Recall of Nearly 149K Mustang Vehicles?",
+    "author": "Na",
+    "published_utc": "2026-09-03T14:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984431/what-s-behind-ford-s-recall-of-nearly-149k-mustang-vehicles?cid=CS-ZC-FT-analyst_blog|quick_take-2984431",
+    "tickers": [
+      "F",
+      "FpB",
+      "FpC",
+      "FpD",
       "TSLA",
-      "RIVN",
-      "LCID",
+      "GM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/37/503.jpg",
+    "description": "Ford is recalling 148,663 Mustang vehicles (2024-2026 model years) due to an electrical wiring defect that could cause loss of propulsion and affect critical systems like headlights and air conditioning. Owners will be notified by mail starting August 31, 2026, with repairs expected to be available by March 2027 at no cost. The recall affects approximately 1% of the recalled vehicles.",
+    "keywords": [
+      "vehicle recall",
+      "electrical wiring defect",
+      "propulsion loss",
+      "safety issue",
+      "NHTSA",
+      "Mustang",
+      "automotive safety"
+    ],
+    "insights": [
+      {
+        "ticker": "F",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The recall of nearly 150,000 vehicles represents a significant safety issue that could impact brand reputation and customer trust. While the company is addressing the issue proactively, recalls typically have negative implications for investor sentiment and potential financial/legal costs."
+      },
+      {
+        "ticker": "FpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The recall of nearly 150,000 vehicles represents a significant safety issue that could impact brand reputation and customer trust. While the company is addressing the issue proactively, recalls typically have negative implications for investor sentiment and potential financial/legal costs."
+      },
+      {
+        "ticker": "FpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The recall of nearly 150,000 vehicles represents a significant safety issue that could impact brand reputation and customer trust. While the company is addressing the issue proactively, recalls typically have negative implications for investor sentiment and potential financial/legal costs."
+      },
+      {
+        "ticker": "FpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The recall of nearly 150,000 vehicles represents a significant safety issue that could impact brand reputation and customer trust. While the company is addressing the issue proactively, recalls typically have negative implications for investor sentiment and potential financial/legal costs."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Tesla is facing heightened regulatory scrutiny in China with a recall of 2.98 million vehicles over emergency door-release system failures, indicating serious safety concerns with a core design feature of their EVs."
+      },
+      {
+        "ticker": "GM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "GM is facing an expanded safety investigation into engine failures affecting nearly 1 million vehicles, with persistent issues even after previous recalls and thousands of post-recall complaints, indicating unresolved quality problems."
+      }
+    ]
+  },
+  {
+    "id": "244ed71b40548eef93d025a4a2d53cb983319c84b7102462d124ddd88f837413",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Ford Motor Company (F) Exceeds Market Returns: Some Facts to Consider",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T21:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2984085/ford-motor-company-f-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2984085",
+    "tickers": [
+      "F",
+      "FpB",
+      "FpC",
+      "FpD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default189.jpg",
+    "description": "Ford Motor Company (F) outperformed the S&P 500 with a +2.24% daily gain, closing at $14.15. However, the stock has lagged over the past month with a -2.81% decline. Upcoming earnings are projected to show an 8.89% EPS decline quarter-over-quarter, though full-year estimates suggest a +70.64% earnings increase. Ford carries a Zacks Rank #3 (Hold) rating with a Forward P/E of 7.46, trading at a significant discount to the industry average of 17.55.",
+    "keywords": [
+      "Ford Motor Company",
+      "stock performance",
+      "earnings forecast",
+      "valuation metrics",
+      "Zacks Rank",
+      "automotive sector"
+    ],
+    "insights": [
+      {
+        "ticker": "F",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Ford received a Zacks Rank #3 (Hold) rating, indicating neither strong buy nor sell signals. While the stock outperformed the market on the trading day and trades at a valuation discount (Forward P/E 7.46 vs. industry 17.55), near-term earnings are expected to decline 8.89% quarter-over-quarter. The stock has underperformed its sector over the past month (-2.81% vs. +9.91% sector gain), suggesting mixed momentum despite attractive valuation."
+      },
+      {
+        "ticker": "FpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Ford received a Zacks Rank #3 (Hold) rating, indicating neither strong buy nor sell signals. While the stock outperformed the market on the trading day and trades at a valuation discount (Forward P/E 7.46 vs. industry 17.55), near-term earnings are expected to decline 8.89% quarter-over-quarter. The stock has underperformed its sector over the past month (-2.81% vs. +9.91% sector gain), suggesting mixed momentum despite attractive valuation."
+      },
+      {
+        "ticker": "FpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Ford received a Zacks Rank #3 (Hold) rating, indicating neither strong buy nor sell signals. While the stock outperformed the market on the trading day and trades at a valuation discount (Forward P/E 7.46 vs. industry 17.55), near-term earnings are expected to decline 8.89% quarter-over-quarter. The stock has underperformed its sector over the past month (-2.81% vs. +9.91% sector gain), suggesting mixed momentum despite attractive valuation."
+      },
+      {
+        "ticker": "FpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Ford received a Zacks Rank #3 (Hold) rating, indicating neither strong buy nor sell signals. While the stock outperformed the market on the trading day and trades at a valuation discount (Forward P/E 7.46 vs. industry 17.55), near-term earnings are expected to decline 8.89% quarter-over-quarter. The stock has underperformed its sector over the past month (-2.81% vs. +9.91% sector gain), suggesting mixed momentum despite attractive valuation."
+      }
+    ]
+  },
+  {
+    "id": "a67df18511c9d26f26c20260e77ae6d367b87907e0050ef129f5ceee146ce646",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is General Motors a Buy After Its C$1B+ Canadian Investment Pledge?",
+    "author": "Na",
+    "published_utc": "2026-08-31T15:38:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982621/is-general-motors-a-buy-after-its-c-1b-canadian-investment-pledge?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2982621",
+    "tickers": [
+      "GM",
       "F",
       "FpB",
       "FpC",
       "FpD",
       "STLA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fde97eefc5e9b9d2793d58e891f0e1f6b9d9a8748-2309x1299.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Hybrid vehicle sales surged 9% in H1 2026 while the overall automotive market declined 2%. EV sales dropped 24%, but the rate of decline is improving quarter-over-quarter. Niche EV makers like Rivian and Lucid gained market share, while traditional automakers and Tesla faced significant headwinds. Hybrids are emerging as the preferred choice for consumers seeking fuel convenience and efficiency.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4f/1131.jpg",
+    "description": "General Motors announced over C$1 billion in investments in Ontario operations, including production of next-generation trucks, engines, and transmissions, providing visibility into future manufacturing. While GM's North American margins have recovered to target levels and the company expects 2027 results to exceed 2026, near-term pressures from tariffs ($2.5-$3.5B), commodity/logistics costs ($1.2-$1.7B), and production transitions are expected to weigh on Q4 results. Analysts recommend holding the stock but not buying at current levels due to cost uncertainties.",
     "keywords": [
-      "hybrid vehicles",
-      "electric vehicles",
-      "automotive sales",
-      "Q2 2026",
-      "EV market decline",
-      "consumer preferences"
+      "General Motors",
+      "Canadian manufacturing",
+      "tariff exposure",
+      "North American margins",
+      "production transition",
+      "commodity costs",
+      "truck production",
+      "earnings guidance"
     ],
     "insights": [
-      {
-        "ticker": "TM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Toyota is highlighted as a pioneer and leader in hybrid-exclusive vehicle strategies, with multiple models (Camry, RAV4, Sienna) now offered as hybrids. The author explicitly recommends Toyota as the company most enthusiastically embracing hybrids and notes it is well-run and consistently profitable."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Tesla's full lineup posted an 11% decline in H1 2026. While the Model Y showed resilience with only 1.5% decline, the Model 3 dropped 28%. The author explicitly states they would 'give that stock a miss' due to ineffective priority-setting."
-      },
-      {
-        "ticker": "RIVN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rivian achieved 14% sales growth in H1 2026 (19,152 units) and saw gains in both Q2 and the half-year period. As a niche EV specialist, it is positioned to benefit from reduced competition as incumbents shift strategies away from pure EV development."
-      },
-      {
-        "ticker": "LCID",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Lucid achieved 2% sales growth in H1 2026 (5,103 units) and saw gains in both Q2 and the half-year period. As a high-end EV specialist, it is positioned to benefit from reduced competition and is highlighted as a niche player outperforming the broader EV market."
-      },
-      {
-        "ticker": "F",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Ford experienced a severe 57% decline in EV unit sales in H1 2026 (16,606 EVs), reflecting the struggles of traditional automakers that committed to EV development timelines but have since shifted strategies."
-      },
-      {
-        "ticker": "FpB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Ford experienced a severe 57% decline in EV unit sales in H1 2026 (16,606 EVs), reflecting the struggles of traditional automakers that committed to EV development timelines but have since shifted strategies."
-      },
-      {
-        "ticker": "FpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Ford experienced a severe 57% decline in EV unit sales in H1 2026 (16,606 EVs), reflecting the struggles of traditional automakers that committed to EV development timelines but have since shifted strategies."
-      },
-      {
-        "ticker": "FpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Ford experienced a severe 57% decline in EV unit sales in H1 2026 (16,606 EVs), reflecting the struggles of traditional automakers that committed to EV development timelines but have since shifted strategies."
-      },
-      {
-        "ticker": "STLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stellantis is mentioned as a manufacturer that shifted to hybrid-only versions of classic models (Jeep Cherokee), indicating strategic adaptation to market trends. However, no specific sales performance data is provided to determine positive or negative sentiment."
-      }
-    ]
-  },
-  {
-    "id": "6d99b1234f5301bb52b0fa18e156de0ed13824195b19c44ff31cd7f0a757e838",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "122,000 Reasons to Believe This Turnaround Story Stock Will Soar",
-    "author": "Daniel Miller",
-    "published_utc": "2026-07-29T08:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/reasons-believe-turnaround-story-stock-stla/?source=iedfolrf0000001",
-    "tickers": [
-      "STLA",
-      "F",
-      "FpB",
-      "FpC",
-      "FpD",
-      "GM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880682%2Framhemi-1.jpg&w=1200&op=resize",
-    "description": "Stellantis' North America region showed strong momentum with 122,000 units of shipment growth in Q2, driven by new vehicle launches including Ram and Jeep models. The company is investing $70 billion globally with 60% focused on North America to drive a turnaround. However, much of the shipment spike was due to inventory buildup ahead of planned factory shutdowns, while actual U.S. retail sales grew only 6%, suggesting the growth may be partially inflated.",
-    "keywords": [
-      "turnaround strategy",
-      "North America shipments",
-      "automotive",
-      "inventory buildup",
-      "new vehicle launches",
-      "capital investment"
-    ],
-    "insights": [
-      {
-        "ticker": "STLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock has significant upside potential after a 40% decline, showing early signs of traction with four consecutive quarters of U.S. sales growth and a $70 billion turnaround plan focused on North America with new product launches in high-margin brands like Ram and Jeep."
-      },
-      {
-        "ticker": "F",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 25% annual gain, but no specific analysis or outlook provided in the article."
-      },
-      {
-        "ticker": "FpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 25% annual gain, but no specific analysis or outlook provided in the article."
-      },
-      {
-        "ticker": "FpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 25% annual gain, but no specific analysis or outlook provided in the article."
-      },
-      {
-        "ticker": "FpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 25% annual gain, but no specific analysis or outlook provided in the article."
-      },
       {
         "ticker": "GM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 54% annual gain, but no specific analysis or outlook provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "17953bdbf7d74016e6f1bfbeaabffbfc21351a01e521c8f69b7417da83795a3c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-07-25T18:26:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/ford-just-put-apple-maps-in-the-dashboard-of-a-300/?source=iedfolrf0000001",
-    "tickers": [
-      "AAPL",
-      "F",
-      "FpB",
-      "FpC",
-      "FpD",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880578%2Fford-oval-logo-on-front-grille-getty.jpg&w=1200&op=resize",
-    "description": "Apple has embedded its Maps technology into Ford's new Universal Electric Vehicle Platform launching in 2027, marking a strategic pivot from Apple's canceled car project. Rather than building vehicles, Apple is supplying software and mapping services to automakers, with the technology integrated into Ford's $30,000 midsize EV and supporting hands-free driving capabilities through BlueCruise.",
-    "keywords": [
-      "Apple Maps",
-      "Ford EV",
-      "automotive software",
-      "MapKit for Automotive",
-      "electric vehicles",
-      "autonomous driving",
-      "services revenue"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Apple successfully pivoted from a failed car project to a lucrative software partnership, expanding its services reach beyond iPhone users. The deal positions Apple as a supplier to automakers' autonomy programs, leveraging its high-margin services business (75% gross margin) while gaining valuable map data from millions of vehicle miles."
+        "sentiment_reasoning": "GM shows strong fundamentals with recovered North American margins (8.6-9.3%), disciplined pricing, and positive 2026-2027 EPS growth guidance (25% and 11% respectively). However, significant near-term headwinds including $2.5-$3.5B tariff exposure, $1.2-$1.7B commodity/logistics costs, and production transition pressures limit upside. Analysts rate it a Hold, recommending retention for long-term investors but not as a buy opportunity currently."
       },
       {
         "ticker": "F",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Ford gains advanced mapping and navigation technology for its new $30,000 EV platform, enhancing product competitiveness. However, the article notes Ford's weak financial position (market cap of $57B, recent losses, and major recalls), suggesting the partnership is more critical for Ford's turnaround than transformative for its business."
+        "sentiment_reasoning": "Ford is mentioned as a peer comparison with similar labor agreements reached with Unifor in July. Over 6 months, Ford shares gained 4%, underperforming GM's 11% gain. No specific fundamental analysis provided, but context suggests it faces similar industry headwinds."
       },
       {
         "ticker": "FpB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Ford gains advanced mapping and navigation technology for its new $30,000 EV platform, enhancing product competitiveness. However, the article notes Ford's weak financial position (market cap of $57B, recent losses, and major recalls), suggesting the partnership is more critical for Ford's turnaround than transformative for its business."
+        "sentiment_reasoning": "Ford is mentioned as a peer comparison with similar labor agreements reached with Unifor in July. Over 6 months, Ford shares gained 4%, underperforming GM's 11% gain. No specific fundamental analysis provided, but context suggests it faces similar industry headwinds."
       },
       {
         "ticker": "FpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Ford gains advanced mapping and navigation technology for its new $30,000 EV platform, enhancing product competitiveness. However, the article notes Ford's weak financial position (market cap of $57B, recent losses, and major recalls), suggesting the partnership is more critical for Ford's turnaround than transformative for its business."
+        "sentiment_reasoning": "Ford is mentioned as a peer comparison with similar labor agreements reached with Unifor in July. Over 6 months, Ford shares gained 4%, underperforming GM's 11% gain. No specific fundamental analysis provided, but context suggests it faces similar industry headwinds."
       },
       {
         "ticker": "FpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Ford gains advanced mapping and navigation technology for its new $30,000 EV platform, enhancing product competitiveness. However, the article notes Ford's weak financial position (market cap of $57B, recent losses, and major recalls), suggesting the partnership is more critical for Ford's turnaround than transformative for its business."
+        "sentiment_reasoning": "Ford is mentioned as a peer comparison with similar labor agreements reached with Unifor in July. Over 6 months, Ford shares gained 4%, underperforming GM's 11% gain. No specific fundamental analysis provided, but context suggests it faces similar industry headwinds."
       },
       {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Android Automotive is mentioned as a competing system already present in some Ford rivals. The article presents this as a potential risk to Apple's deal but doesn't indicate any negative impact on Alphabet's position in the automotive software market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Android Automotive is mentioned as a competing system already present in some Ford rivals. The article presents this as a potential risk to Apple's deal but doesn't indicate any negative impact on Alphabet's position in the automotive software market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Android Automotive is mentioned as a competing system already present in some Ford rivals. The article presents this as a potential risk to Apple's deal but doesn't indicate any negative impact on Alphabet's position in the automotive software market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Android Automotive is mentioned as a competing system already present in some Ford rivals. The article presents this as a potential risk to Apple's deal but doesn't indicate any negative impact on Alphabet's position in the automotive software market."
-      }
-    ]
-  },
-  {
-    "id": "eaaba7fcad27d2f274972f6f740165c4d1b6efad508f7e15252a25b54197b2ba",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Archer Aviation vs. Ford Motor: Are Electric Planes or Automobiles a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-25T18:25:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/25/archer-aviation-vs-ford-motor-are-electric-planes-or-automobiles-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "ACHR",
-      "ACHR.WS",
-      "F",
-      "FpB",
-      "FpC",
-      "FpD",
-      "UAL",
-      "TSLA",
-      "GM",
-      "MU",
-      "JOBY",
-      "JOBY.WS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Archer Aviation, a pre-commercial electric aircraft manufacturer, with Ford Motor, an established automotive giant transitioning to EVs. Archer faces FAA certification hurdles and massive cash burn ($618.2M net loss on $300K revenue in FY2025) but benefits from regulatory frameworks and a United Airlines partnership. Ford generates $174B in revenue but reported an $8.2B net loss in FY2025 amid EV transition costs. The author recommends Ford as the safer long-term investment due to its established scale and rock-bottom valuation, despite Archer's disruptive potential.",
-    "keywords": [
-      "electric vehicles",
-      "urban air mobility",
-      "eVTOL aircraft",
-      "EV transition",
-      "aviation certification",
-      "cash burn",
-      "valuation comparison"
-    ],
-    "insights": [
-      {
-        "ticker": "ACHR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Early-stage company with significant growth potential in emerging urban air mobility market, but faces substantial execution risks including FAA certification requirements, massive negative cash flow (-$511.7M), cumulative losses of $2.3B, and litigation with competitor Joby Aviation. High valuation (1,710x P/S) reflects speculative nature."
-      },
-      {
-        "ticker": "ACHR.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Early-stage company with significant growth potential in emerging urban air mobility market, but faces substantial execution risks including FAA certification requirements, massive negative cash flow (-$511.7M), cumulative losses of $2.3B, and litigation with competitor Joby Aviation. High valuation (1,710x P/S) reflects speculative nature."
-      },
-      {
-        "ticker": "F",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established automotive leader with $174B revenue and five consecutive years of revenue growth. Despite current challenges (FY2025 net loss of $8.2B, negative free cash flow of -$343M), company has strong market positions across ICE, hybrid, and EV segments. Analyst consensus projects return to profitability ($4.8B net income in FY2026) and revenue growth to $175.6B. Attractive valuation (0.3x P/S, 8.6x Forward P/E) and 4.18% dividend yield make it the recommended buy."
-      },
-      {
-        "ticker": "FpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established automotive leader with $174B revenue and five consecutive years of revenue growth. Despite current challenges (FY2025 net loss of $8.2B, negative free cash flow of -$343M), company has strong market positions across ICE, hybrid, and EV segments. Analyst consensus projects return to profitability ($4.8B net income in FY2026) and revenue growth to $175.6B. Attractive valuation (0.3x P/S, 8.6x Forward P/E) and 4.18% dividend yield make it the recommended buy."
-      },
-      {
-        "ticker": "FpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established automotive leader with $174B revenue and five consecutive years of revenue growth. Despite current challenges (FY2025 net loss of $8.2B, negative free cash flow of -$343M), company has strong market positions across ICE, hybrid, and EV segments. Analyst consensus projects return to profitability ($4.8B net income in FY2026) and revenue growth to $175.6B. Attractive valuation (0.3x P/S, 8.6x Forward P/E) and 4.18% dividend yield make it the recommended buy."
-      },
-      {
-        "ticker": "FpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established automotive leader with $174B revenue and five consecutive years of revenue growth. Despite current challenges (FY2025 net loss of $8.2B, negative free cash flow of -$343M), company has strong market positions across ICE, hybrid, and EV segments. Analyst consensus projects return to profitability ($4.8B net income in FY2026) and revenue growth to $175.6B. Attractive valuation (0.3x P/S, 8.6x Forward P/E) and 4.18% dividend yield make it the recommended buy."
-      },
-      {
-        "ticker": "UAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key customer for Archer Aviation with a $1 billion conditional purchase agreement for air taxi services. This partnership represents significant upside potential for Archer but introduces customer concentration risk."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Ford in the EV market, creating pricing pressure on traditional automakers."
-      },
-      {
-        "ticker": "GM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Ford in the automotive market."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic technology partner with Ford for EV development under the Ford+ plan."
-      },
-      {
-        "ticker": "JOBY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a rival to Archer Aviation in the eVTOL space; Archer is involved in active litigation against the company."
-      },
-      {
-        "ticker": "JOBY.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a rival to Archer Aviation in the eVTOL space; Archer is involved in active litigation against the company."
+        "ticker": "STLA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stellantis shares declined 29% over the 6-month period, significantly underperforming both GM and Ford. This substantial underperformance suggests weaker fundamentals or market sentiment compared to peers."
       }
     ]
   }

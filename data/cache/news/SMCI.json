@@ -1,351 +1,342 @@
 [
   {
-    "id": "5129a20e46c33fb0150a12382c644466ccd8d641a5fcf66fc09c7c9300b21846",
+    "id": "5f3ed66fb71e7e8144827a1be867d77bbe4722d63190e0885d3d82de6c8acab7",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Is Super Micro Stock a No-Brainer Buy After Posting Incredible Q4 Numbers?",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-08-12T18:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/12/is-super-micro-stock-a-no-brainer-buy-after-postin/?source=iedfolrf0000001",
-    "tickers": [
-      "SMCI",
-      "SMCIP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883019%2Fbusinessperson-giving-a-presentation.jpg&w=1200&op=resize",
-    "description": "Super Micro Computer posted strong Q4 results with 93% revenue growth, 257% gross profit increase, and 497% net income growth, with gross margins improving to 17.5%. However, the analyst cautions against calling it a no-brainer buy due to historical volatility in earnings and margins, concerns about margin sustainability based on customer/product mix, and risks from potential slowdowns in AI spending.",
-    "keywords": [
-      "Super Micro Computer",
-      "Q4 earnings",
-      "revenue growth",
-      "gross margin improvement",
-      "AI infrastructure",
-      "valuation",
-      "earnings volatility",
-      "price-to-earnings ratio"
-    ],
-    "insights": [
-      {
-        "ticker": "SMCI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company demonstrated exceptional financial performance with nearly doubled sales and significant margin improvements, the analyst expresses caution due to concerns about earnings consistency, margin volatility driven by customer/product mix changes, and risks from potential AI spending slowdowns. The low P/E valuation reflects investor uncertainty rather than a clear buy signal."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company demonstrated exceptional financial performance with nearly doubled sales and significant margin improvements, the analyst expresses caution due to concerns about earnings consistency, margin volatility driven by customer/product mix changes, and risks from potential AI spending slowdowns. The low P/E valuation reflects investor uncertainty rather than a clear buy signal."
-      }
-    ]
-  },
-  {
-    "id": "2108ca19db21a351bb83cc7cf7091c699ea4f7481795d8ce8e05e634d3af6c96",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Super Micro Computer Stock Popped Today",
-    "author": "Rich Smith",
-    "published_utc": "2026-08-12T15:31:48Z",
-    "article_url": "https://www.fool.com/investing/2026/08/12/why-super-micro-computer-stock-popped-today/?source=iedfolrf0000001",
-    "tickers": [
-      "SMCI",
-      "SMCIP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883013%2Fgreen-arrow-marches-higher-over-a-bar-chart.jpg&w=1200&op=resize",
-    "description": "Super Micro Computer stock surged 12.86% despite mixed fiscal Q4 2026 earnings, beating EPS expectations ($1.70 vs $0.71 expected) but missing revenue guidance ($11.1B vs $11.7B expected). The company achieved 91% year-over-year sales growth and generated $722M in positive free cash flow last quarter. CEO forecasts strong Q1 2027 sales of $14.5-15.5B, though analysts expect continued cash burn in 2027.",
-    "keywords": [
-      "Super Micro Computer",
-      "earnings report",
-      "AI servers",
-      "revenue growth",
-      "free cash flow",
-      "fiscal 2027 guidance"
-    ],
-    "insights": [
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 12.86% following earnings beat on EPS ($1.70 vs $0.71 expected), strong 91% YoY sales growth, doubled gross profit margins to 17.5%, and positive free cash flow of $722M in the quarter. Strong Q1 2027 guidance ($14.5-15.5B revenue) and continued AI server demand support positive momentum, though revenue miss and analyst concerns about future cash burn present some headwinds."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 12.86% following earnings beat on EPS ($1.70 vs $0.71 expected), strong 91% YoY sales growth, doubled gross profit margins to 17.5%, and positive free cash flow of $722M in the quarter. Strong Q1 2027 guidance ($14.5-15.5B revenue) and continued AI server demand support positive momentum, though revenue miss and analyst concerns about future cash burn present some headwinds."
-      }
-    ]
-  },
-  {
-    "id": "06a39e31a4f21e0328ad40facd150a671cfdcb35b24c5bade87e8df33a4e375f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-08-09T09:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/09/super-micro-computer-landed-60-billion-in-orders/?source=iedfolrf0000001",
+    "title": "Buy 5 Top-Ranked Undervalued Stocks to Enhance Your Portfolio Returns",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-08T12:26:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986264/buy-5-top-ranked-undervalued-stocks-to-enhance-your-portfolio-returns?cid=CS-ZC-FT-analyst_blog|investment_ideas-2986264",
     "tickers": [
       "SMCI",
       "SMCIP",
-      "NVDA"
+      "ADM",
+      "ALL",
+      "ALLpB",
+      "ALLpH",
+      "ALLpI",
+      "ALLpJ",
+      "CNC",
+      "AVT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882083%2Fgettyimages-1998660059-1.jpg&w=1200&op=resize",
-    "description": "Super Micro Computer booked over $60 billion in AI server orders in Q4 and projects gross margins of 15-17%, nearly double prior guidance. However, the stock trades around $30 per share due to market concerns: not all orders are firm commitments, the company is raising $7 billion through equity financing (causing dilution), and an internal review of export control issues is underway.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3c/1948.jpg",
+    "description": "Zacks recommends five Zacks Rank #1 stocks that have surged year-to-date while remaining undervalued: Super Micro Computer, Archer-Daniels-Midland, The Allstate, Centene, and Avnet. These stocks combine strong growth projections with attractive valuations relative to industry and S&P 500 benchmarks, positioning them for continued gains in 2026.",
     "keywords": [
-      "AI servers",
-      "order backlog",
-      "gross margins",
-      "equity financing",
-      "export control review",
-      "stock dilution",
-      "AI infrastructure"
+      "undervalued stocks",
+      "Zacks Rank #1",
+      "AI infrastructure",
+      "earnings growth",
+      "valuation metrics",
+      "portfolio returns"
     ],
     "insights": [
       {
         "ticker": "SMCI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company achieved record $60 billion in orders and significantly improved margins (15-17% vs. 8.2-8.4% expected), offsetting positive factors include: non-binding order commitments, substantial equity dilution from $7 billion financing, ongoing board review of export control issues, and auditor concerns. The stock's depressed valuation reflects this mixed risk-reward profile."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong AI infrastructure demand, 71.8% expected revenue growth and 22% earnings growth for current year, improving estimates (30.3% over 30 days), and attractive valuation metrics (forward P/E of 8.94X vs S&P 500's 18.52X)"
       },
       {
         "ticker": "SMCIP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company achieved record $60 billion in orders and significantly improved margins (15-17% vs. 8.2-8.4% expected), offsetting positive factors include: non-binding order commitments, substantial equity dilution from $7 billion financing, ongoing board review of export control issues, and auditor concerns. The stock's depressed valuation reflects this mixed risk-reward profile."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong AI infrastructure demand, 71.8% expected revenue growth and 22% earnings growth for current year, improving estimates (30.3% over 30 days), and attractive valuation metrics (forward P/E of 8.94X vs S&P 500's 18.52X)"
+      },
+      {
+        "ticker": "ADM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "52.2% expected earnings growth for current year with improving estimates (8.5% over 60 days), strategic initiatives advancing productivity and cost savings, and forward P/E of 16.20X below S&P 500's 18.52X"
+      },
+      {
+        "ticker": "ALL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sustained premium growth, expanding market share, stronger underwriting performance, and attractive valuation with forward P/E of 7.31X significantly below S&P 500's 18.52X, though earnings growth is modest at 1.9%"
+      },
+      {
+        "ticker": "ALLpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sustained premium growth, expanding market share, stronger underwriting performance, and attractive valuation with forward P/E of 7.31X significantly below S&P 500's 18.52X, though earnings growth is modest at 1.9%"
+      },
+      {
+        "ticker": "ALLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sustained premium growth, expanding market share, stronger underwriting performance, and attractive valuation with forward P/E of 7.31X significantly below S&P 500's 18.52X, though earnings growth is modest at 1.9%"
+      },
+      {
+        "ticker": "ALLpI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sustained premium growth, expanding market share, stronger underwriting performance, and attractive valuation with forward P/E of 7.31X significantly below S&P 500's 18.52X, though earnings growth is modest at 1.9%"
+      },
+      {
+        "ticker": "ALLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sustained premium growth, expanding market share, stronger underwriting performance, and attractive valuation with forward P/E of 7.31X significantly below S&P 500's 18.52X, though earnings growth is modest at 1.9%"
+      },
+      {
+        "ticker": "CNC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional earnings growth exceeding 100% for current year, disciplined pricing and portfolio optimization, favorable Medicaid rate actions, and forward P/E of 13.70X well below industry average of 23.44X"
+      },
+      {
+        "ticker": "AVT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth of 23.5% and exceptional earnings growth of 84.3% for current year, improving estimates (22.9% over 30 days), broad-based demand growth, and attractive forward P/E of 8.81X versus industry's 15.49X"
+      }
+    ]
+  },
+  {
+    "id": "885343645292468818937a44c29eb3677c7b20e4a90334780e7b30c546f41b08",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Buy Super Micro Computer for Handsome Returns & Attractive Valuations",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-08T12:23:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986259/buy-super-micro-computer-for-handsome-returns-attractive-valuations?cid=CS-ZC-FT-analyst_blog|investment_ideas-2986259",
+    "tickers": [
+      "SMCI",
+      "SMCIP",
+      "NVDA",
+      "AMD",
+      "INTC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/989.jpg",
+    "description": "Super Micro Computer (SMCI) reported fiscal 2026 revenues nearly doubled to $39.1 billion with record backlog levels. The company projects fiscal 2027 sales of $65-$72 billion driven by AI infrastructure demand. SMCI is expanding its Data Center Building Block Solutions strategy, strengthening liquid-cooling capabilities, and benefits from partnerships with major chip manufacturers. The stock trades at attractive valuations with a forward P/E of 8.94X versus industry average of 10.36X, earning a Zacks Rank #1 (Strong Buy) rating.",
+    "keywords": [
+      "AI infrastructure",
+      "data center",
+      "server systems",
+      "liquid cooling",
+      "GPU platforms",
+      "backlog",
+      "valuation",
+      "revenue growth"
+    ],
+    "insights": [
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fiscal 2026 results with nearly doubled revenues to $39.1B, record backlog, robust guidance for fiscal 2027 ($65-$72B), Zacks Rank #1 rating, attractive valuation metrics, and strategic positioning in high-growth AI infrastructure market with expanding product portfolio and customer partnerships."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fiscal 2026 results with nearly doubled revenues to $39.1B, record backlog, robust guidance for fiscal 2027 ($65-$72B), Zacks Rank #1 rating, attractive valuation metrics, and strategic positioning in high-growth AI infrastructure market with expanding product portfolio and customer partnerships."
       },
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Supermicro's massive AI server orders indicate strong demand for AI infrastructure buildout, which benefits Nvidia as a primary supplier of AI chips and GPUs for data centers."
+        "sentiment_reasoning": "SMCI is shipping volume products across multiple NVIDIA GPU platforms (GB300, HGX B300, B200, RTX 6000 Pro) and preparing systems for upcoming Vera platforms, indicating strong demand and partnership benefits from AI infrastructure expansion."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "SMCI launched AMD's Helios product line and MI450 Total Solution while supporting MI350 and MI355X systems, demonstrating active partnership and volume shipments benefiting from AI infrastructure demand."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "SMCI is shipping Intel Xeon 6+ platforms in volume and developing systems for Arm-based AGI processors, showing continued partnership but with less emphasis compared to NVIDIA and AMD in the article's discussion."
       }
     ]
   },
   {
-    "id": "360d68baa545a2c31287fc8a8a8a3b60d4bfdf453ade30cf1bc6357b398c5e7d",
+    "id": "73aa22bcdb2173e71bb2f130f6f9b2341fbf6372aa989a1474c308f34dc45fe1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's How Much You'd Have If You Invested $1000 in Super Micro Computer a Decade Ago",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T12:30:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2985605/here-s-how-much-you-d-have-if-you-invested-1000-in-super-micro-computer-a-decade-ago?cid=CS-ZC-FT-fundamental_analysis|investing_$1000-2985605",
+    "tickers": [
+      "SMCI",
+      "SMCIP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default116.jpg",
+    "description": "A $1,000 investment in Super Micro Computer (SMCI) made in September 2016 would be worth $17,873.59 as of September 2026, representing a 1,687% gain. This significantly outperforms the S&P 500's 254% return over the same period. The company benefits from strong AI infrastructure demand, record fiscal 2026 revenue of $39.1 billion (up 78% YoY), and a robust order pipeline, though execution risks remain due to customer concentration, inventory levels, and intense competition.",
+    "keywords": [
+      "Super Micro Computer",
+      "AI infrastructure",
+      "data center solutions",
+      "stock performance",
+      "investment returns",
+      "GPU servers",
+      "liquid cooling"
+    ],
+    "insights": [
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional 10-year returns (1,687% gain), strong fiscal 2026 revenue growth (78% YoY to $39.1B), positioned to benefit from expanding AI infrastructure demand, record revenue, robust order pipeline, and analyst Outperform rating. Stock gained 27.18% in past four weeks with rising earnings estimates. However, risks include customer concentration (28% from one customer), inventory challenges, and intense competition."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional 10-year returns (1,687% gain), strong fiscal 2026 revenue growth (78% YoY to $39.1B), positioned to benefit from expanding AI infrastructure demand, record revenue, robust order pipeline, and analyst Outperform rating. Stock gained 27.18% in past four weeks with rising earnings estimates. However, risks include customer concentration (28% from one customer), inventory challenges, and intense competition."
+      }
+    ]
+  },
+  {
+    "id": "1858c7acd7afcda8c98f2a265a78e0efaa57e50828f41572a4c7b462c9bd7674",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NTAP Q1 Earnings & Revenues Top Estimates on AI and All-Flash Strength",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-03T14:13:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984433/ntap-q1-earnings-revenues-top-estimates-on-ai-and-all-flash-strength?cid=CS-ZC-FT-analyst_blog|earnings_article-2984433",
+    "tickers": [
+      "NTAP",
+      "SNDK",
+      "TDC",
+      "SMCI",
+      "SMCIP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a3/179120.webp",
+    "description": "NetApp delivered record Q1 fiscal 2027 results with EPS up 66.5% to $2.58 and revenues climbing 29.9% to $2.03 billion, driven by strong AI spending and all-flash array sales reaching $1.31 billion. The company raised full-year guidance to $7.975-$8.225 billion in revenues with EPS of $9.73-$10.03, reflecting 17% and 22% growth respectively.",
+    "keywords": [
+      "AI infrastructure",
+      "all-flash arrays",
+      "cloud storage",
+      "earnings beat",
+      "guidance raise",
+      "hybrid cloud",
+      "data modernization"
+    ],
+    "insights": [
+      {
+        "ticker": "NTAP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q1 results with 66.5% EPS growth and 29.9% revenue growth, both significantly beating consensus estimates. Record all-flash array revenues of $1.31 billion (+46.6%), robust AI deal wins (~350), and raised full-year guidance by $650 million indicate strong momentum and market demand."
+      },
+      {
+        "ticker": "SNDK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q4 fiscal 2026 earnings of $39.25 per share beat consensus by 14.63% with 68% sequential growth. Revenues surged 371.6% year-over-year to $8.97 billion, driven by strong datacenter growth and pricing power."
+      },
+      {
+        "ticker": "TDC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q2 2026 earnings of 69 cents per share beat consensus by 25.46% with 46.8% year-over-year growth. Annual recurring revenues increased 1-2%, showing stable business fundamentals."
+      },
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q4 fiscal 2026 earnings of $1.70 per share beat consensus by 150%, with 315% year-over-year growth. Net sales of $11.12 billion increased 93% year-over-year, driven by continued AI infrastructure demand and enterprise activity."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q4 fiscal 2026 earnings of $1.70 per share beat consensus by 150%, with 315% year-over-year growth. Net sales of $11.12 billion increased 93% year-over-year, driven by continued AI infrastructure demand and enterprise activity."
+      }
+    ]
+  },
+  {
+    "id": "f30821afd6fca3d036f74a96072f808f6ab609e7c3f5ede7d72db362dc01deae",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "AI Inference Infrastructure Market Size to Surpass $229.95 Billion by 2035 | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-08-04T08:58:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338073/0/en/AI-Inference-Infrastructure-Market-Size-to-Surpass-229-95-Billion-by-2035-SNS-Insider.html",
+    "title": "Data Center Solutions Market Surges to $1,336.55 billion at a CAGR 20.1% by 2031 | Report by MarketsandMarkets\u2122",
+    "author": "Marketsandmarkets\u2122",
+    "published_utc": "2026-09-03T14:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356047/0/en/data-center-solutions-market-surges-to-1-336-55-billion-at-a-cagr-20-1-by-2031-report-by-marketsandmarkets.html",
     "tickers": [
-      "NVDA",
-      "AMD",
-      "INTC",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
-      "ORCL",
-      "ORCLpD",
       "DELL",
       "HPE",
       "HPEpC",
+      "AVGO",
+      "NVDA",
       "SMCI",
       "SMCIP",
-      "CSCO",
-      "AVGO",
-      "MU",
+      "IBM",
       "LNVGY",
-      "EQIX",
-      "VRT",
-      "SKHY",
-      "SBGSY"
+      "SBGSY",
+      "CSCO"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI Inference Infrastructure Market is projected to grow from $22.80 billion in 2025 to $229.95 billion by 2035, with a CAGR of 26.02%. The U.S. market alone is expected to reach $157.83 billion by 2035, while Europe is projected to hit $51.93 billion. Growth is driven by hyperscale data center expansion, GPU adoption, AI accelerators, and enterprise demand for high-performance inference infrastructure. Hardware components dominate with 67.80% market share, while cloud deployment leads with 63.40% share.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+    "description": "The global Data Center Solutions Market is projected to grow from USD 535.45 billion in 2026 to USD 1,336.55 billion by 2031, with a CAGR of 20.1%. Growth is driven by increasing demand for AI infrastructure, high-density computing, intelligent power systems, advanced cooling, and software-defined infrastructure. The software segment is the fastest-growing component at 24.7% CAGR, while Asia Pacific is the fastest-growing region.",
     "keywords": [
-      "AI Inference Infrastructure",
-      "Generative AI",
-      "Large Language Models",
-      "GPU adoption",
-      "AI accelerators",
-      "Hyperscale data centers",
-      "Cloud deployment",
-      "High-performance computing"
+      "data center solutions",
+      "AI infrastructure",
+      "GPU-accelerated servers",
+      "software-defined infrastructure",
+      "cloud computing",
+      "high-performance computing",
+      "liquid cooling",
+      "DCIM",
+      "hyperscale data centers",
+      "edge computing"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA is a key player in the AI inference infrastructure market with dominant GPU market share (61.90% in 2025). Recent developments highlight NVIDIA's expansion of Blackwell AI infrastructure platform with next-generation GPU systems, positioning it to benefit from the projected 26.02% CAGR market growth."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AMD is listed as a key player in the AI inference infrastructure market and stands to benefit from growing GPU and AI accelerator adoption. The market's strong growth trajectory and increasing enterprise demand for high-performance inference infrastructure supports AMD's competitive positioning."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Intel is identified as a key player in the AI inference infrastructure market. The company can capitalize on the growing demand for processors and AI accelerators as enterprises expand their AI inference capabilities."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is both a key player and cloud service provider (which leads with 52.80% market share). Recent May 2026 developments show Microsoft expanding Azure AI infrastructure with new AI-optimized virtual machines, directly supporting the projected market growth."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS is a leading cloud service provider (which holds 52.80% market share) and key player in AI inference infrastructure. The company is well-positioned to capture growth from enterprise demand for cloud-based AI inference solutions."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is listed as a key player in the AI inference infrastructure market and can benefit from growing enterprise demand for high-performance AI infrastructure and cloud-based solutions."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is listed as a key player in the AI inference infrastructure market and can benefit from growing enterprise demand for high-performance AI infrastructure and cloud-based solutions."
-      },
-      {
         "ticker": "DELL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dell is a key player in AI inference infrastructure hardware. With hardware representing 67.80% of market share and strong growth in hyperscale data centers, Dell is positioned to benefit from infrastructure expansion."
+        "sentiment_reasoning": "Listed as a key market player in the rapidly growing data center solutions market with strong demand for IT infrastructure and AI-ready systems."
       },
       {
         "ticker": "HPE",
         "sentiment": "positive",
-        "sentiment_reasoning": "HPE is listed as a key player in AI inference infrastructure and can capitalize on growing demand for high-performance servers and computing infrastructure supporting AI workloads."
+        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
       },
       {
         "ticker": "HPEpC",
         "sentiment": "positive",
-        "sentiment_reasoning": "HPE is listed as a key player in AI inference infrastructure and can capitalize on growing demand for high-performance servers and computing infrastructure supporting AI workloads."
-      },
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Super Micro is a key player specializing in high-performance computing infrastructure. The company is well-positioned to benefit from hyperscale data center expansion and enterprise demand for AI inference infrastructure."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Super Micro is a key player specializing in high-performance computing infrastructure. The company is well-positioned to benefit from hyperscale data center expansion and enterprise demand for AI inference infrastructure."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cisco is listed as a key player in AI inference infrastructure. Networking is growing at 31.23% CAGR due to increasing need for fast connections in distributed AI inference clusters, supporting Cisco's networking solutions."
+        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Broadcom is a key player in AI inference infrastructure, particularly in networking and semiconductor components. The market's strong growth and networking segment's 31.23% CAGR support Broadcom's positioning."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Micron is listed as a key player and benefits from increasing adoption of high bandwidth memory, which is highlighted as a key driver of inference performance and efficiency improvements."
-      },
-      {
-        "ticker": "LNVGY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Lenovo is listed as a key player in AI inference infrastructure hardware and can benefit from growing enterprise demand for high-performance servers and computing infrastructure."
-      },
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Equinix is a key player in data center infrastructure. With hyperscale data center expansion driving market growth and cloud deployment leading at 63.40% market share, Equinix is positioned to benefit from infrastructure demand."
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Vertiv is listed as a key player and benefits from developments in liquid cooling technology, which is highlighted as a key driver improving performance and efficiency of inference operations."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SK hynix is a key player in memory and semiconductor solutions for AI infrastructure. The company benefits from increasing adoption of high bandwidth memory and AI accelerators."
-      },
-      {
-        "ticker": "SBGSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Schneider Electric is listed as a key player in AI inference infrastructure, particularly in energy efficiency and operational infrastructure supporting hyperscale data centers."
-      }
-    ]
-  },
-  {
-    "id": "4e1fa49657b99ea50e17a2b6619b382daa9f1c6e9d2572be0597bb1bfa68df2f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Supermicro Stock Just Jumped 20%. Why I'm Passing and Buying This AI Leader Instead.",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-07-25T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/supermicro-stock-just-jumped-20-why-im-passing-and/?source=iedfolrf0000001",
-    "tickers": [
-      "SMCI",
-      "SMCIP",
-      "NVDA",
-      "TSM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880192%2Fsmcinvda.png&w=1200&op=resize",
-    "description": "Supermicro's stock surged 20% after announcing strong Q2 preliminary results with improved gross margins of 15-17%, driven by AI infrastructure demand and supply shortages. However, the analyst recommends buying Nvidia instead, citing Supermicro's low-margin business model, history of controversy (including a Taiwan office raid related to chip smuggling), and the fact that most value resides with Nvidia's GPUs rather than the integrator.",
-    "keywords": [
-      "AI infrastructure",
-      "server integrators",
-      "GPU demand",
-      "gross margins",
-      "supply shortages",
-      "data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "SMCI",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company showed margin improvement and strong revenue growth, the analyst views it as a low-margin middleman with temporary margin gains due to supply shortages. The company also faces controversy from Taiwan office raids related to chip smuggling, making it a riskier investment despite positive Q2 results."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company showed margin improvement and strong revenue growth, the analyst views it as a low-margin middleman with temporary margin gains due to supply shortages. The company also faces controversy from Taiwan office raids related to chip smuggling, making it a riskier investment despite positive Q2 results."
+        "sentiment_reasoning": "Key player in the market benefiting from growing demand for high-speed networking and advanced infrastructure technologies."
       },
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Presented as the superior investment choice with 74% gross margins, strong market leadership in AI infrastructure, and a reasonable forward P/E of 16x. The analyst views Supermicro's strong results as a positive leading indicator for Nvidia's continued demand, and recommends buying Nvidia as the high-quality market leader without the controversy."
+        "sentiment_reasoning": "Major beneficiary of rising deployment of GPU-accelerated servers and AI training/inference infrastructure across data centers."
       },
       {
-        "ticker": "TSM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a supporting indicator of strong long-term AI infrastructure demand through increased capex commentary, but not the focus of the investment recommendation."
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market player positioned to benefit from enterprise data center modernization and AI infrastructure investments."
+      },
+      {
+        "ticker": "LNVGY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a leading player in the growing data center solutions market with strong demand for IT infrastructure."
+      },
+      {
+        "ticker": "SBGSY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key player benefiting from increased investment in intelligent power systems and energy-efficient data center operations."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major player positioned to benefit from growing demand for advanced networking technologies and software-defined infrastructure."
       }
     ]
   }

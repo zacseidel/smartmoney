@@ -1,0 +1,34 @@
+{
+  "ticker": "MSB",
+  "name": "Mesabi Trust",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000065172",
+  "composite_figi": "BBG000BPFCM4",
+  "share_class_figi": "BBG001S5TCR8",
+  "market_cap": 313568239.0,
+  "phone_number": "904-271-2520",
+  "address": {
+    "address1": "C/O DEUTSCHE BANK TRUST COMPANY AMERICAS",
+    "address2": "1 COLUMBUS CIRCLE, 17TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "postal_code": "10019"
+  },
+  "description": "Mesabi Trust operates as a royalty trust in the United States. The company is involved in the conservation and protection of its assets. The company's principally wholly-owned segment is the iron ore mining segment, which generates income from the Peter Mitchell Mine, an iron mine located near Babbitt, Minnesota, at the northeastern end of the Mesabi Iron Range.",
+  "sic_code": "6795",
+  "sic_description": "MINERAL ROYALTY TRADERS",
+  "ticker_root": "MSB",
+  "homepage_url": "https://www.mesabi-trust.com",
+  "list_date": "1961-07-28",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bWVzYWJpLXRydXN0LmNvbQ/images/2026-09-01_logo.png"
+  },
+  "share_class_shares_outstanding": 13120010,
+  "weighted_shares_outstanding": 13120010,
+  "round_lot": 100
+}

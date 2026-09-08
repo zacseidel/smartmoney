@@ -1,0 +1,35 @@
+{
+  "ticker": "AURA",
+  "name": "Aura Biosciences, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001501796",
+  "composite_figi": "BBG00226DGM5",
+  "share_class_figi": "BBG00226DGP2",
+  "market_cap": 784008356.04,
+  "phone_number": "(617)500-8864",
+  "address": {
+    "address1": "80 GUEST STREET",
+    "city": "BOSTON",
+    "state": "MA",
+    "postal_code": "02135"
+  },
+  "description": "Aura Biosciences Inc is a clinical-stage biotechnology company developing precision immunotherapies to treat a range of solid tumors designed to preserve the function of organs afflicted with cancer. Its candidate bel-sar is in late-stage clinical development for the treatment of patients with primary choroidal melanoma, and other ocular oncology indications as well as in early-stage clinical development in bladder cancer. The Company views its operations and manages its business in one operating segment operating exclusively in the United States.",
+  "sic_code": "2836",
+  "sic_description": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
+  "ticker_root": "AURA",
+  "homepage_url": "https://www.aurabiosciences.com",
+  "total_employees": 113,
+  "list_date": "2021-10-29",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YXVyYWJpb3NjaWVuY2VzLmNvbQ/images/2026-09-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YXVyYWJpb3NjaWVuY2VzLmNvbQ/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 103704809,
+  "weighted_shares_outstanding": 103704809,
+  "round_lot": 100
+}

@@ -1,225 +1,215 @@
 [
   {
-    "id": "cd7c0602aa7fa235b75c4d4908cd23b22f4b9a5c8d560b77680b6e27fca1677f",
+    "id": "9e4eada167065d4096a3fb270a880a76c4b19d6299c7ea411dca0b51dcba80bb",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Is Sally Beauty (SBH) Down 1.2% Since Last Earnings Report?",
+    "author": "Na",
+    "published_utc": "2026-09-02T15:30:10Z",
+    "article_url": "https://www.zacks.com/stock/news/2983866/why-is-sally-beauty-sbh-down-1-2-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2983866",
+    "tickers": [
+      "SBH",
+      "TSCO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default351.jpg",
+    "description": "Sally Beauty (SBH) delivered a Q3 earnings beat with adjusted EPS of 55 cents versus consensus of 53 cents, though revenues slightly missed expectations at $935.5 million. The company expanded margins, generated strong cash flow, and raised the low end of its FY2026 EPS guidance to $2.04-$2.08. Digital initiatives showed strength with 11% e-commerce growth, but the Beauty Systems Group segment faced headwinds from weakness in the Care category. Shares jumped 7.8% following the results.",
+    "keywords": [
+      "earnings beat",
+      "margin expansion",
+      "e-commerce growth",
+      "guidance raised",
+      "Beauty Systems Group weakness",
+      "digital initiatives",
+      "comparable sales"
+    ],
+    "insights": [
+      {
+        "ticker": "SBH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company beat EPS expectations by 3.8%, expanded gross margins by 40 basis points, raised the low end of FY2026 EPS guidance, generated strong free cash flow of $62 million, and achieved 11% e-commerce growth. Stock jumped 7.8% post-earnings. However, revenue slightly missed and comparable sales were flat, which tempers the overall positive outlook."
+      },
+      {
+        "ticker": "TSCO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company has a Zacks Rank #5 (Strong Sell) rating based on negative estimate revisions. Expected to post -18.4% year-over-year earnings decline for the current quarter. Consensus estimates have declined 2.4% over the last 30 days. VGM Score of D indicates poor valuation metrics."
+      }
+    ]
+  },
+  {
+    "id": "1258787456fe80e2d709e09381a2382a6ccd4b0c20cc3875d1fe33434c1beba4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Academy Sports vs. Tractor Supply: A Comparison of Two Embattled Retail Stocks",
-    "author": "John Ballard",
-    "published_utc": "2026-07-14T03:05:01Z",
-    "article_url": "https://www.fool.com/coverage/charts/2026/07/13/academy-sports-vs-tractor-supply-a-comparison-of-two-embattled-retail-stocks/?source=iedfolrf0000001",
+    "title": "A Once-in-a-Decade Opportunity: 1 Magnificent S&P 500 Dividend Stock Down 45% to Buy Right Now",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-08-11T09:10:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/11/a-once-in-a-decade-opportunity-1-magnificent-sp-50/?source=iedfolrf0000001",
     "tickers": [
-      "ASO",
       "TSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Faso-tsco%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Faso-tsco_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
-    "description": "Both Academy Sports and Tractor Supply face macroeconomic headwinds affecting retail growth. While both trade at cheap valuations, Tractor Supply demonstrates greater resilience with a more stable business model focused on essential rural goods, commanding a higher P/E multiple of 14x versus Academy's 7x. Tractor Supply expects 1-3% comparable store sales growth versus Academy's flat to 2%, making it the stronger near-term performer despite Academy's potential upside if it achieves consistent growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882661%2Fgettyimages-946047540-3.jpg&w=1200&op=resize",
+    "description": "Tractor Supply Company (TSCO) has declined 45% from its 52-week high and is trading near decade-low valuations. The company's CEO recently purchased $500,000 worth of shares, signaling confidence. Despite near-term headwinds from post-pandemic normalization and negative same-store sales, the company's 41 million loyalty members, strong dividend history (15-year streak), and 2.7% dividend yield make it an attractive buying opportunity for long-term investors.",
     "keywords": [
-      "retail stocks",
-      "revenue growth",
-      "macroeconomic headwinds",
-      "comparable store sales",
-      "valuation multiples",
-      "consumer spending",
-      "e-commerce expansion"
+      "dividend stock",
+      "insider buying",
+      "valuation",
+      "rural lifestyle retailer",
+      "loyalty members",
+      "post-pandemic normalization",
+      "dividend yield",
+      "share buybacks"
     ],
     "insights": [
       {
-        "ticker": "ASO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at a cheap 8.15 P/E valuation with potential upside if it achieves consistent growth, but currently showing flat to slightly declining revenue compared to two years ago. Strong e-commerce growth and loyalty program investments are positive, but near-term guidance (flat to 2% comp sales) is modest."
-      },
-      {
         "ticker": "TSCO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates superior business resilience with essential goods focus on rural customers, maintaining relatively stable revenue despite macroeconomic headwinds. Higher P/E multiple of 14.95 reflects market confidence, and stronger guidance (1-3% comp sales growth) outpaces Academy Sports, though valuation is less attractive than Academy's."
+        "sentiment_reasoning": "Stock is down 45% creating a valuation opportunity near decade lows; CEO insider buying signals confidence; strong fundamentals including 41 million loyalty members generating 80% of sales, 15-year dividend growth streak, 2.7% dividend yield above 10-year average, and ongoing share buybacks. Near-term headwinds appear cyclical rather than structural."
       }
     ]
   },
   {
-    "id": "7478647e929bd79b9362a22fdfbf2d885a5dadad658a03fadb1300e6c7c8990d",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "5 Downgraded Stocks That May Reward Long-Term Investors",
-    "author": "Thomas Hughes",
-    "published_utc": "2026-07-07T15:24:00Z",
-    "article_url": "https://www.investing.com/analysis/5-downgraded-stocks-that-may-reward-longterm-investors-200683475",
-    "tickers": [
-      "DPZ",
-      "LOW",
-      "ZS",
-      "NOW",
-      "TSCO"
-    ],
-    "amp_url": "https://m.investing.com/analysis/5-downgraded-stocks-that-may-reward-longterm-investors-200683475?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The article identifies five downgraded stocks that may present buying opportunities for long-term investors despite recent analyst downgrades. These stocks\u2014Domino's Pizza, Lowe's Companies, Zscaler, ServiceNow, and Tractor Supply Company\u2014have fallen sharply but maintain constructive analyst sentiment with significant upside potential. The downgrades reflect reset expectations rather than broken investment cases, with catalysts including earnings reports, housing market recovery, AI-driven business improvements, and new product rollouts.",
-    "keywords": [
-      "downgraded stocks",
-      "long-term investing",
-      "analyst downgrades",
-      "value opportunities",
-      "earnings catalysts",
-      "AI impact",
-      "consumer spending",
-      "housing market"
-    ],
-    "insights": [
-      {
-        "ticker": "DPZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite sharp declines due to sluggish consumer spending and GLP-1 inhibitor trends, DPZ maintains a consensus Moderate Buy rating with 30% upside potential. Strong fundamentals including unrivaled scale, technological advantages, and aggressive buybacks support recovery, with Q2 earnings as a near-term catalyst."
-      },
-      {
-        "ticker": "LOW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Market has overreacted to housing weakness and cautionary guidance. Stock offers deep value relative to forward estimates, reliable growing dividend, opportunistic buybacks, and potential for double-digit upside as housing markets improve."
-      },
-      {
-        "ticker": "ZS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite ranking third in most downgraded stocks, analyst trends indicate a bottom with consensus Moderate Buy rating and 40% upside potential. Recent reiterated ratings and June-July activity suggest recovery as results reflect company strengths and outpace management's conservative guidance."
-      },
-      {
-        "ticker": "NOW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock at long-term lows due to SaaS concerns, but AI actually underpins company strengths. Late June/early July analyst activity reflects sentiment shift with expectations of meaningful business impact from new consumption-based pricing tiers, forecasting approximately 35% upside."
-      },
-      {
-        "ticker": "TSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite tepid growth and below-forecast results, company sustains system-wide growth and cash flow through store expansion and comp sales, enabling dividend and buybacks. Stock offers deep-value opportunity with 40% upside potential and 3.17% yield, with fresh pet food rollout as a catalyst."
-      }
-    ]
-  },
-  {
-    "id": "290821af313a246d27866c255d0b89f0f730462f6bcb6ade77f7906467488f18",
+    "id": "b61071582617dbebea125b216b9482b873ebf5d47409ac79ef7501f000f457c0",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Reasons Realty Income Stock Belongs in Every Dividend Investor's Portfolio",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-06-26T07:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/06/26/3-reasons-realty-income-belongs-in-every-dividend/?source=iedfolrf0000001",
+    "title": "3 High-Yield Dividend Stocks to Load Up On Before 2026 Ends",
+    "author": "Will Healy",
+    "published_utc": "2026-08-09T13:32:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/09/3-high-yield-dividend-stocks-to-load-up-on-before/?source=iedfolrf0000001",
     "tickers": [
       "O",
-      "DG",
-      "TSCO",
-      "BJ"
+      "CLX",
+      "CPB",
+      "HD",
+      "FDX",
+      "TSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875975%2Ffamily-child-saving-piggy-bank-financial-lessons-save-money-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Realty Income (O), a major retail REIT with nearly 15,600 global properties, is highlighted as an excellent dividend stock for investors seeking passive income and portfolio safety. The company offers a 5.3% dividend yield (nearly five times the S&P 500 average), has paid monthly dividends for 56 consecutive years, and raised dividends for 115 consecutive quarters. Despite challenging real estate conditions, Realty Income maintains strong performance with a 98.9% occupancy rate and 6.6% year-over-year AFFO growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882052%2Fcash-and-coins-with-a-dividend-sign.jpg&w=1200&op=resize",
+    "description": "The article recommends three consumer dividend stocks trading at low valuations with strong dividend yields: Realty Income (5.2% yield), Clorox (4.7% yield), and Campbell's (6.8% yield). All three have faced recent challenges but show signs of recovery, offering potential for market-beating returns for income investors.",
     "keywords": [
       "dividend stocks",
+      "high-yield dividends",
+      "consumer staples",
+      "value investing",
       "REIT",
-      "passive income",
-      "portfolio diversification",
-      "retail properties",
-      "high yield"
+      "income investing"
     ],
     "insights": [
       {
         "ticker": "O",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamentals including 56-year dividend payment history, 115 consecutive quarters of dividend increases, resilient business model with 98.9% occupancy rate, high 5.3% yield, and solid AFFO growth of 6.6% year-over-year. Recommended as a core holding for dividend investors."
+        "sentiment_reasoning": "Strong monthly dividend history with 135 consecutive increases, 5.2% yield well above S&P 500 average, 99% occupancy rate, and attractive FFO-based valuation of 15x despite high P/E ratio."
       },
       {
-        "ticker": "DG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a major tenant of Realty Income; no independent analysis or commentary provided about the company itself."
-      },
-      {
-        "ticker": "TSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a major tenant of Realty Income; no independent analysis or commentary provided about the company itself."
-      },
-      {
-        "ticker": "BJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a major tenant of Realty Income; no independent analysis or commentary provided about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "7cdfdf823c310977f5283975839411c1698eb41de7e5936414c609308229d365",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "1 Magnificent Dividend Stock Down 40% to Buy and Hold Forever",
-    "author": "Selena Maranjian",
-    "published_utc": "2026-05-26T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/26/1-magnificent-dividend-stock-down-40-to-hold/?source=iedfolrf0000001",
-    "tickers": [
-      "TSCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F870360%2Fgetty-cowboy-with-hat-smiling-happy.jpg&w=1200&op=resize",
-    "description": "Tractor Supply (TSCO) has declined 40% recently but offers a 3% dividend yield plus 5.2% total yield including buybacks, with 17 consecutive years of dividend increases. Despite Q1 weakness with only 3.6% revenue growth and 9% EPS decline due to struggling pet food sales, the company maintains a strong business model with loyal customers. Trading at a forward P/E of 15 versus its five-year average of 22, the stock appears undervalued with management projecting 4-6% revenue growth for 2026.",
-    "keywords": [
-      "dividend stocks",
-      "rural retail",
-      "valuation",
-      "earnings decline",
-      "market share",
-      "pet food weakness"
-    ],
-    "insights": [
-      {
-        "ticker": "TSCO",
+        "ticker": "CLX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite near-term operational challenges (Q1 revenue growth of only 3.6% and EPS decline of 9%), the stock is viewed positively due to its significant 40% price decline creating an attractive entry point, strong dividend history (17 years of increases), undervalued forward P/E ratio of 15 versus 5-year average of 22, loyal customer base, and management's confidence in 4-6% revenue growth projections for 2026. The article frames current weakness as a temporary opportunity for long-term investors."
+        "sentiment_reasoning": "Stock has recovered from cyberattack and IT upgrade challenges, trading at reasonable 22x earnings with 4.7% dividend yield, strong free cash flow coverage, and expected sales rebound in current fiscal year."
+      },
+      {
+        "ticker": "CPB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Trading at attractive 11x P/E ratio at multi-year lows, offering 6.8% dividend yield with sustainable payout supported by earnings, and strategic pivot to premium brands like Rao's showing turnaround potential."
+      },
+      {
+        "ticker": "HD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a tenant of Realty Income's properties; no specific investment recommendation or analysis provided."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a tenant of Realty Income's properties; no specific investment recommendation or analysis provided."
+      },
+      {
+        "ticker": "TSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a tenant of Realty Income's properties; no specific investment recommendation or analysis provided."
       }
     ]
   },
   {
-    "id": "d3ace81df8c9ec2bc704bb9e479e6004def7b23d9f39a61e3a66d3a1e4abc502",
+    "id": "0fa5d7e8b9f71000550e46f9a065278ef5fc51e592e84a4526322d57eb485ae0",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "2 Brilliant Dividend Stocks Down 20% to Buy Before They Rebound",
-    "author": "Will Healy",
-    "published_utc": "2026-05-09T16:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/09/2-brilliant-dividend-stocks-down-20-to-buy-before/?source=iedfolrf0000001",
+    "title": "Tractor Supply CEO Lawton Buys 15,600 Shares for $501,540 Amid Stock's 44% Decline",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-08-08T16:20:38Z",
+    "article_url": "https://www.fool.com/coverage/filings/2026/08/08/tractor-supply-ceo-lawton-buys-15-600-shares-for-usd501-540-amid-stock-s-42-decline/?source=iedfolrf0000001",
     "tickers": [
-      "RCL",
       "TSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868111%2Fthe-word-yield-spelled-in-blocks-atop-stacks-of-coins.jpg&w=1200&op=resize",
-    "description": "The article highlights two dividend stocks that have declined significantly but present buying opportunities. Royal Caribbean has dropped 22% from its 52-week high due to fuel price concerns, but maintains strong bookings and sustainable dividend growth. Tractor Supply fell nearly 50% after disappointing Q1 results in its pet supplies segment, but offers a low P/E ratio and 17 years of consecutive dividend increases, suggesting both stocks are undervalued and poised for recovery.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F280eca1b4ecd8cc2401a2f4b2c3a68395e00dc85-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Tractor Supply CEO Harry Lawton purchased 15,600 shares worth $501,540 on August 4, 2026, increasing his total beneficial ownership to 541,591 shares. The purchase occurred as the stock has declined 44% over the past year, with the CEO's investment suggesting confidence in a potential turnaround at current valuations.",
     "keywords": [
-      "dividend stocks",
-      "buying opportunity",
+      "insider buying",
+      "CEO purchase",
       "stock decline",
+      "rural retail",
       "dividend yield",
       "valuation",
-      "free cash flow",
-      "recovery"
+      "consumer spending"
     ],
     "insights": [
       {
-        "ticker": "RCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite a 22% decline from 52-week high and fuel price headwinds, the company demonstrates strong bookings exceeding prior year levels, sustainable dividend growth (50% increase in February), robust free cash flow ($1.4B trailing 12 months), and attractive P/E ratio of 17 near multi-year lows, suggesting undervaluation and recovery potential."
+        "ticker": "TSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the CEO's insider purchase signals confidence in the stock's recovery potential and the company maintains attractive valuations (EV/EBITDA of 13, P/E of 18) with a well-funded 2.5% dividend yield, the 44% stock decline over the past year and recent 1.5% same-store sales decrease reflect current operational challenges. The sentiment is neutral as the article presents both bullish insider activity and bearish market performance without a clear directional conviction."
+      }
+    ]
+  },
+  {
+    "id": "1fc1f1408cc981b5a3d1c9f15364f4f1055fc3ff5e1720c85ec82a11d6b40c5e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Beyond Meat vs. Tractor Supply: Which Consumer Goods Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-08-04T20:09:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/08/04/beyond-meat-vs-tractor-supply-which-consumer-goods-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BYND",
+      "TSCO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Beyond Meat and Tractor Supply as investment options for 2026. Beyond Meat faces significant challenges including declining revenues (down 16% YoY), substantial debt ($500M), negative free cash flow, and delisting risk, though it's attempting a turnaround with new beverage products. Tractor Supply demonstrates consistent strength with $15.5B in revenue (4% growth), $1.3B in free cash flow, and 17 consecutive years of dividend increases. The analyst recommends Tractor Supply as the safer choice, suggesting investors wait for Beyond Meat to prove its turnaround strategy before investing.",
+    "keywords": [
+      "plant-based meat",
+      "retail",
+      "consumer goods",
+      "financial performance",
+      "investment comparison",
+      "turnaround strategy",
+      "free cash flow",
+      "dividend",
+      "delisting risk"
+    ],
+    "insights": [
+      {
+        "ticker": "BYND",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company faces severe financial distress with 16% revenue decline, negative free cash flow (-$157M), $500M debt burden, Nasdaq delisting risk, high customer concentration (13% from one customer), and persistent losses. While attempting a turnaround with new beverage products, execution remains unproven."
       },
       {
         "ticker": "TSCO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Although the stock fell nearly 50% from its 52-week high due to disappointing Q1 results in pet supplies, the company maintains a sustainable dividend with 17 consecutive years of increases, attractive P/E ratio of 16 (well below 5-year average of 25), positive free cash flow ($552M), and strong core business fundamentals suggesting the decline is temporary and presents a buying opportunity."
+        "sentiment_reasoning": "Company demonstrates consistent operational strength with 4% revenue growth to $15.5B, strong profitability ($1.1B net income), robust free cash flow ($1.3B), 17-year dividend growth streak, and strategic initiatives like Instacart partnership. Despite macroeconomic headwinds affecting rural customers, the business model remains resilient with over 50% of sales from consumables."
       }
     ]
   }

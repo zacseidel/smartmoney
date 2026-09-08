@@ -1,235 +1,205 @@
 [
   {
-    "id": "cba6663e74e83baef4281f1a01f497acf50ac27ebcc6555164b0ec4b77b335fc",
+    "id": "9100d17312f3f247ca6594f35167e4bb38add9bcac39e17d3845f13ba298f57a",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Bill Gates' Foundation Was Snubbed by Warren Buffett for the First Time in 20 Years. Buffett Is Now on Track to Offload His Entire $140 Billion Berkshire Stake by 2034.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-19T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/19/bill-gates-foundation-was-snubbed-by-warren-buffet/?source=iedfolrf0000001",
+    "title": "PepsiCo's Snack Portfolio: What's Driving Volume Gains?",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:13:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986012/pepsico-s-snack-portfolio-what-s-driving-volume-gains?cid=CS-ZC-FT-analyst_blog|quick_take-2986012",
     "tickers": [
-      "MSFT",
-      "HSY",
-      "HRL",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878855%2F22_03_21-a-person-jumping-between-cliffs-one-with-past-written-on-it-and-the-other-with-future-_gettyimages-1295289697.jpg&w=1200&op=resize",
-    "description": "Warren Buffett has redirected his charitable giving away from the Bill Gates Foundation for the first time in 20 years, instead donating his $140 billion Berkshire Hathaway stake to foundations run by his children by 2034. This shift could have significant implications for Berkshire's future operations, potentially leading to dividend payments to support the foundations' philanthropic goals, which may differ from Buffett's traditional reinvestment strategy.",
-    "keywords": [
-      "Warren Buffett",
-      "charitable giving",
-      "Berkshire Hathaway",
-      "dividend policy",
-      "succession planning",
-      "Greg Abel",
-      "Bill Gates Foundation"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microsoft is mentioned only in context of Bill Gates' association with the company and the Epstein scandal connection. No direct business impact is discussed."
-      },
-      {
-        "ticker": "HSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a comparative example of how founder-established foundations can influence corporate strategy, but no direct sentiment regarding Hershey's business is expressed."
-      },
-      {
-        "ticker": "HRL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a comparative example of how foundations use dividends to support philanthropic goals, but no direct sentiment regarding Hormel's business is expressed."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents a structural change in ownership and potential future dividend policy, but doesn't indicate immediate negative or positive impact. The shift could lead to operational changes under new leadership, but the long-term implications remain uncertain."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents a structural change in ownership and potential future dividend policy, but doesn't indicate immediate negative or positive impact. The shift could lead to operational changes under new leadership, but the long-term implications remain uncertain."
-      }
-    ]
-  },
-  {
-    "id": "5659ae4129a9a14cb6c70461b7c1f6bfb30354c74cb572ecaafcfc34e0601046",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Milton Hershey School Trust Sells 30,000 Hershey Shares for $5.2 Million. Here's What Investors Should Know.",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-07-18T17:01:25Z",
-    "article_url": "https://www.fool.com/coverage/filings/2026/07/18/milton-hershey-school-trust-sells-30-000-hershey-shares-for-usd5-2-million-here-s-what-investors-should-know/?source=iedfolrf0000001",
-    "tickers": [
-      "HSY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0fe050b5d35dffd742b195c313bda291f30dfea0-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Milton Hershey School Trust sold 30,000 shares of Hershey Company stock for approximately $5.2 million on July 13-14, 2026, at weighted-average prices ranging from $169.44 to $177.64 per share. The trust retains substantial ownership with ~1.3 million common shares and ~54.6 million Class B shares. The transaction is characterized as routine portfolio management and should not concern investors. Hershey faces headwinds from cocoa prices and GLP-1 medicines but trades at a reasonable 20x forward earnings with a 3.4% dividend yield.",
-    "keywords": [
-      "insider selling",
-      "Hershey Company",
-      "Milton Hershey School Trust",
-      "share sale",
-      "dividend stock",
-      "consumer defensive",
-      "cocoa prices",
-      "GLP-1 medicines"
-    ],
-    "insights": [
-      {
-        "ticker": "HSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The insider sale is characterized as routine and non-concerning. While the company faces near-term headwinds from cocoa inflation and health trends, it shows stabilizing fundamentals with 11% recent sales growth, a reasonable valuation at 20x forward earnings, and a growing 3.4% dividend yield. The stock has underperformed historically but may rebound as it expands into higher-growth segments."
-      }
-    ]
-  },
-  {
-    "id": "8bde735174cc19a9765993eb3dc8d73ef960cb6c6e574235c41b7b15d2611572",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Hershey Stock May Be Near a Sweet Spot as Cocoa Pressure Eases",
-    "author": "Peter Frank",
-    "published_utc": "2026-07-02T15:11:00Z",
-    "article_url": "https://www.investing.com/analysis/hershey-stock-may-be-near-a-sweet-spot-as-cocoa-pressure-eases-200683229",
-    "tickers": [
-      "HSY"
-    ],
-    "amp_url": "https://m.investing.com/analysis/hershey-stock-may-be-near-a-sweet-spot-as-cocoa-pressure-eases-200683229?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Hershey is positioned for potential margin recovery as cocoa prices decline from historic highs. The company demonstrated strong pricing power during the commodity crisis, with Q1 2026 showing 10.6% net sales growth and 12.4% adjusted EPS growth. Management reaffirmed full-year guidance of 4-5% net sales growth and 30-35% EPS growth. Most analysts rate it a Hold with 20% upside potential, citing the balance between pricing power and demand sustainability.",
-    "keywords": [
-      "cocoa prices",
-      "pricing power",
-      "margin recovery",
-      "commodity costs",
-      "confectionery",
-      "salty snacks",
-      "dividend growth",
-      "consumer staples"
-    ],
-    "insights": [
-      {
-        "ticker": "HSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q1 2026 results with 10.6% sales growth and 12.4% EPS growth, demonstrated pricing power during cocoa crisis, cocoa prices declining from highs, successful portfolio diversification into salty snacks and protein products, 15-year dividend growth streak, and new management positioning for future growth. However, valuation at P/E of 33 and analyst consensus of Hold tempers enthusiasm."
-      }
-    ]
-  },
-  {
-    "id": "426f9c13d991b815bcdbc8ebd716d733901fa39b63bab08968d41a7bf157fa6c",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Campbell\u2019s Soup Stock: Deep Value and a 7% Dividend Yield",
-    "author": "Thomas Hughes",
-    "published_utc": "2026-06-09T11:26:00Z",
-    "article_url": "https://www.investing.com/analysis/campbells-soup-stock-deep-value-and-a-7-dividend-yield-200681792",
-    "tickers": [
-      "CPB",
-      "MDLZ",
       "PEP",
+      "MDLZ",
       "HSY"
     ],
-    "amp_url": "https://m.investing.com/analysis/campbells-soup-stock-deep-value-and-a-7-dividend-yield-200681792?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Campbell's Soup (CPB) stock has experienced a significant multi-year decline but appears to have bottomed in 2026, presenting a value opportunity for buy-and-hold investors. The company offers a 7% dividend yield with a sustainable payout ratio, trades at attractive valuations (10X earnings, 3X 10-year forecast) compared to peers, and is expected to return to growth by mid-fiscal 2027. Institutional investors have been accumulating shares aggressively, and a partnership with Buffalo Wild Wings and premium product lines like Rao's sauces are expected to drive recovery.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/102.jpg",
+    "description": "PepsiCo reported improving momentum in its snack portfolio during Q2 2026, with global convenient foods organic volume rising 3% and international volume up 4%. The company gained market share in U.S. salty snacks for a third consecutive quarter, driven by portfolio innovation including portion-control multipacks and healthier permissible offerings. Competitors Mondelez and Hershey are also showing strength through brand innovation and emerging market expansion, though PepsiCo's stock has underperformed its industry peers over the past three months.",
     "keywords": [
-      "dividend yield",
-      "value investing",
-      "consumer staples",
-      "stock recovery",
-      "institutional buying",
-      "product innovation",
-      "margin expansion"
+      "snacking",
+      "volume growth",
+      "portfolio innovation",
+      "market share",
+      "permissible snacks",
+      "international demand",
+      "salty snacks"
     ],
     "insights": [
       {
-        "ticker": "CPB",
+        "ticker": "PEP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock has reached a multi-decade low with strong support from institutional investors accumulating shares. The 7% dividend yield is sustainable, valuation is attractive relative to peers, and business recovery is anticipated by mid-fiscal 2027. New partnerships and premium product lines provide catalysts for growth."
+        "sentiment_reasoning": "Strong organic volume growth (3% global, 4% international), three consecutive quarters of U.S. salty snack volume growth, market share gains across multiple categories, and successful portfolio diversification with portion-control and healthier product lines. However, stock has underperformed industry by 7.1% in past three months and trades at discount valuation (15.54X vs 19.41X industry average)."
       },
       {
         "ticker": "MDLZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer trading at double the valuation of Campbell's, used as a comparison point to highlight CPB's relative value opportunity."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer trading at double the valuation of Campbell's, used as a comparison point to highlight CPB's relative value opportunity."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Gaining traction with strong Q2 2026 volume, positive volume mix and share gains in North America, successful brand portfolio (Ritz, Oreo, Tate's, Hu), and innovation in protein, gluten-free, and zero-sugar offerings supporting momentum."
       },
       {
         "ticker": "HSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer trading at double the valuation of Campbell's, used as a comparison point to highlight CPB's relative value opportunity."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Snack portfolio gaining momentum with strong consumer demand for brands like Dot's Pretzels, SkinnyPop, and LesserEvil. Supply-chain constraints resolved and automation improvements supporting volume growth potential."
       }
     ]
   },
   {
-    "id": "0442a395af9148fc000890f2735231957691bdfeff28ef6f86ca55b0e55d9845",
+    "id": "33ab3f01e0a07e148975afac4b9b5aabf242c1d89425b97cee0178639beb3d40",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Hershey's Pricing Holds Firm: Can Volume Pressure Ease From Here?",
+    "author": "Na",
+    "published_utc": "2026-09-02T15:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983828/hershey-s-pricing-holds-firm-can-volume-pressure-ease-from-here?cid=CS-ZC-FT-analyst_blog|rank_focused-2983828",
+    "tickers": [
+      "HSY",
+      "CHEF",
+      "COCO",
+      "DAR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/1333.jpg",
+    "description": "The Hershey Company reported Q2 2026 organic sales growth of 3.6%, driven by 12% net price realization, but faced an 8% volume decline due to consumer elasticity and value-seeking behavior. The company expects improved core-item availability and increased demand-creation activities to support second-half performance. HSY trades at a forward P/E of 18.71, above industry average, with consensus estimates implying 34.6% and 16.1% year-over-year EPS growth for current and next fiscal years.",
+    "keywords": [
+      "pricing power",
+      "volume decline",
+      "elasticity",
+      "organic sales growth",
+      "consumer spending",
+      "confectionery",
+      "valuation"
+    ],
+    "insights": [
+      {
+        "ticker": "HSY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Hershey demonstrated pricing strength with 12% net price realization and positive organic sales growth of 3.6%, this was significantly offset by an 8% volume decline due to consumer elasticity. The company holds a Zacks Rank #3 (Hold) rating and trades above industry valuation multiples. The outlook depends on whether improved availability and demand creation can offset continued elasticity pressures."
+      },
+      {
+        "ticker": "CHEF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CHEF carries a Zacks Rank #1 (Strong Buy) with consensus estimates implying 10.6% sales growth and 33.7% EPS growth. The company has delivered a trailing four-quarter earnings surprise of 30.4% on average, demonstrating consistent outperformance."
+      },
+      {
+        "ticker": "COCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "COCO holds a Zacks Rank #1 with strong consensus estimates projecting 31.6% sales growth and 64.7% EPS growth. The company has delivered a trailing four-quarter earnings surprise of 21.9% on average."
+      },
+      {
+        "ticker": "DAR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "DAR carries a Zacks Rank #2 (Buy) with consensus estimates suggesting 11.5% sales growth and substantial EPS improvement. The company has delivered a trailing four-quarter earnings surprise of 38.9% on average, indicating consistent outperformance."
+      }
+    ]
+  },
+  {
+    "id": "278273c7a7022cb8efd1dfe02e99dccb7f305fbd69cb564b33e7ca508781dac9",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "These 3 Dividend Stocks Have Made Investors Rich. They Can Do It Again.",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-05-07T12:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/07/these-3-dividend-stocks-have-made-investors-rich-t/?source=iedfolrf0000001",
+    "title": "Cocoa Prices are Falling: Should You Buy Hershey's Stock?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-09-01T00:21:53Z",
+    "article_url": "https://www.fool.com/investing/2026/08/31/cocoa-prices-are-falling-should-you-buy-hersheys-s/?source=iedfolrf0000001",
     "tickers": [
-      "HSY",
-      "GIS",
-      "KMB",
-      "KVUE"
+      "HSY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868116%2Fgettyimages-1128492098.jpg&w=1200&op=resize",
-    "description": "Three consumer goods dividend stocks are positioned for growth: Hershey benefits from a 74% drop in cocoa prices enabling margin expansion; General Mills offers a 7% yield amid transformation and cost structure improvements; Kimberly-Clark is acquiring Kenvue to create a scaled personal-care platform with strong brands and long-term dividend durability.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885829%2F16-hershey.jpg&w=1200&op=resize",
+    "description": "With cocoa prices declining, investors are questioning whether Hershey stock presents a buying opportunity. The article examines how falling commodity costs could impact the chocolate manufacturer's operations and stock performance, noting that the business has experienced unusual volatility.",
     "keywords": [
-      "dividend stocks",
-      "consumer goods",
-      "margin expansion",
       "cocoa prices",
-      "acquisition",
-      "passive income",
-      "yield"
+      "Hershey stock",
+      "commodity prices",
+      "chocolate industry",
+      "stock volatility",
+      "investment opportunity"
+    ],
+    "insights": [
+      {
+        "ticker": "HSY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The article presents a balanced inquiry into whether falling cocoa prices benefit Hershey stock, without making a definitive recommendation. The mention of unusual business volatility and the questioning tone suggest caution, but the potential cost savings from lower cocoa prices could be positive. The neutral stance reflects the complexity of the situation."
+      }
+    ]
+  },
+  {
+    "id": "75be4761e733b90b81244e81fca13c31fab35995e3d878d90e3139d9f7e42cd3",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "1 Stat That Makes Hershey Stock Hard to Ignore Heading Into Fall",
+    "author": "Catie Hogan",
+    "published_utc": "2026-08-30T15:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/30/1-stat-that-makes-hershey-stock-hard-to-ignore/?source=iedfolrf0000001",
+    "tickers": [
+      "HSY"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885123%2Fchildren-halloween-chocolate-candy-getty-images.jpg&w=1200&op=resize",
+    "description": "Hershey demonstrates strong pricing power despite cocoa costs surging over 120% in six months. Q2 earnings showed 6.6% net sales growth and 57% adjusted EPS growth, indicating successful price increases without losing customers. With 82% of parents planning to buy chocolate in October, Hershey's expanded 'Hersheyween' promotion positions it well for the season. The stock offers a 3.2% dividend yield and is trading below its 52-week high, making it attractive for income-focused investors.",
+    "keywords": [
+      "cocoa prices",
+      "pricing power",
+      "Halloween season",
+      "dividend yield",
+      "earnings growth",
+      "confectionery",
+      "seasonal demand"
     ],
     "insights": [
       {
         "ticker": "HSY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Cocoa prices down 74% from peak, enabling significant margin recovery (33.7% to 39.4% in Q1 2026). Q1 earnings beat consensus by 14.9% with operating profit up 73.5%. Dividend yield elevated to 3.19%, not seen in years. Main risk is volume recovery timing."
-      },
+        "sentiment_reasoning": "Hershey demonstrates exceptional pricing power with 57% EPS growth despite 120%+ cocoa cost increases, indicating strong brand strength and consumer demand. The company's expanded Halloween promotions and 3.2% dividend yield position it well for seasonal demand. Stock trades below 52-week highs, offering value for income investors."
+      }
+    ]
+  },
+  {
+    "id": "ba34c3dba1f4daa36858ae22ff357e6fd02d877260bd7c0f2ef506d6c307f244",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Elon Musk Owns 48.4% of SpaceX, a New Filing Shows. Here's Why That Matters for Everyone Else Holding the Stock.",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-08-30T13:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/30/elon-musk-owns-484-of-spacex-a-new-filing-shows-he/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "HSY"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883889%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house.jpg&w=1200&op=resize",
+    "description": "A new SEC filing reveals that Elon Musk controls 48.4% of SpaceX's voting power, giving him effective control over major company decisions including mergers, acquisitions, and capital investments. The article compares this to The Hershey Foundation's 80% control of Hershey, noting that SpaceX investors are essentially investing alongside Musk. Whether this concentration of power is positive or negative depends on investor confidence in Musk's leadership.",
+    "keywords": [
+      "SpaceX ownership",
+      "Elon Musk control",
+      "voting power",
+      "shareholder implications",
+      "corporate governance",
+      "SEC filing"
+    ],
+    "insights": [
       {
-        "ticker": "GIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "127-year uninterrupted dividend history with 7% yield at 52-week lows. Completing yogurt divestiture transformation, Blue Buffalo pet food remains growth engine. Stock trades at 8.78x earnings, historically rewarding setup for income investors when sentiment is worst."
-      },
-      {
-        "ticker": "KMB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "54 consecutive years of dividend increases. $48.7 billion Kenvue acquisition approved, creating global personal-care platform with Kleenex, Huggies, Tylenol, Neutrogena, and Band-Aid. Q1 2026 showed 2.7% sales growth and EPS beat. Management prioritizes shareholder returns during transformation."
-      },
-      {
-        "ticker": "KVUE",
+        "ticker": "SPCX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Being acquired by Kimberly-Clark in deal valued at $48.7 billion, approved January 2026, closing expected second half 2026. Neutral sentiment as it's transitioning to subsidiary status rather than independent company."
+        "sentiment_reasoning": "The article presents Musk's 48.4% stake as a double-edged sword\u2014neither inherently positive nor negative. It depends on investor perspective: those who trust Musk's vision may view it positively, while those concerned about concentrated power may view it negatively. The article takes a balanced, informational stance without advocating for either position."
+      },
+      {
+        "ticker": "HSY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Hershey is used as a comparative example to illustrate governance structures and shareholder dynamics. The article notes the foundation's control prevents takeovers, which may or may not benefit shareholders. No specific investment recommendation or sentiment is expressed about Hershey itself."
       }
     ]
   }

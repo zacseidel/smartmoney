@@ -1,0 +1,35 @@
+{
+  "ticker": "PRAX",
+  "name": "Praxis Precision Medicines, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001689548",
+  "composite_figi": "BBG00W9LF2G5",
+  "share_class_figi": "BBG00W9LF2H4",
+  "market_cap": 9822530978.28,
+  "phone_number": "617-300-8460",
+  "address": {
+    "address1": "99 HIGH STREET, 30TH FLOOR",
+    "city": "BOSTON",
+    "state": "MA",
+    "postal_code": "02110"
+  },
+  "description": "Praxis Precision Medicines Inc is a clinical-stage biopharmaceutical company. It is engaged in translating genetic insights into the development of therapies for patients affected by central nervous system disorders characterized by a neuronal excitation-inhibition imbalance. The company applies genetic insights to the discovery and development of therapies for neurological disorders through two proprietary platforms: Cerebrum and Solidus. It has established a diversified, multimodal CNS portfolio with four clinical-stage product candidates across movement disorders and epilepsy, which include Ulixacaltamide, Relutrigine, Vormatrigine, and Elsunersen. The firm operates in only one segment and is focused on discovering and developing therapies for CNS disorders.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "PRAX",
+  "homepage_url": "https://www.praxismedicines.com",
+  "total_employees": 10998,
+  "list_date": "2020-10-16",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/cHJheGlzbWVkaWNpbmVzLmNvbQ/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/cHJheGlzbWVkaWNpbmVzLmNvbQ/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 27919988,
+  "weighted_shares_outstanding": 27919988,
+  "round_lot": 40
+}

@@ -1,270 +1,243 @@
 [
   {
-    "id": "3cbf958fb8a3903d85d4d84dba58ec475d9579a248c7be443fa9b70a37ae4fd9",
+    "id": "fd41f6d3c30a3f63dfa5b81a81809479e1fee514052b2f8ab95c6aaa4de36bfa",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "NVIDIA Expands NVIDIA Agent Toolkit With NVIDIA PhysicsNeMo and CUDA-X Libraries to Transform How the World Engineers, Designs and Builds",
-    "author": "Nvidia",
-    "published_utc": "2026-07-27T00:45:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333237/0/en/NVIDIA-Expands-NVIDIA-Agent-Toolkit-With-NVIDIA-PhysicsNeMo-and-CUDA-X-Libraries-to-Transform-How-the-World-Engineers-Designs-and-Builds.html",
+    "title": "CEVA Stock Slides 19% in a Month: Should You Buy the Dip or Wait?",
+    "author": "Na",
+    "published_utc": "2026-09-01T16:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983298/ceva-stock-slides-19-in-a-month-should-you-buy-the-dip-or-wait?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983298",
     "tickers": [
-      "NVDA",
-      "CDNS",
-      "SNPS"
+      "CEVA",
+      "SNPS",
+      "CDNS"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/8cc7fd5d-80e0-4960-9176-41e04d3909a0",
-    "description": "NVIDIA expanded its Agent Toolkit with re-architected PhysicsNeMo libraries and updated CUDA-X libraries, enabling developers to build autonomous AI engineers with physics simulation and quantum chemistry capabilities. The Nemotron 3 Ultra model leads in agentic RTL coding for chip design. Industry leaders including Cadence, Siemens, Synopsys, Samsung, and others are deploying these technologies to accelerate chip design, verification, and engineering workflows with significant performance improvements.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ca/171.jpg",
+    "description": "CEVA Inc. shares fell 18.7% over the past month following profit-taking after reaching a 52-week high of $51.60 in June amid AI hype. Despite beating Q2 earnings estimates with 8 cents per share (vs. 7 cents consensus) and 13% revenue growth to $29M, investors were unimpressed. The stock trades at a premium valuation of 5.66X forward sales versus its sub-industry average of 4.04X. Analysts recommend patience, citing a Hold rating due to the disconnect between favorable growth prospects and expensive valuation.",
     "keywords": [
-      "AI agents",
-      "chip design",
-      "physics simulation",
-      "CUDA-X libraries",
-      "PhysicsNeMo",
-      "Nemotron 3 Ultra",
-      "autonomous engineering",
-      "quantum chemistry",
-      "EDA tools",
-      "accelerated computing"
+      "CEVA",
+      "semiconductor IP",
+      "AI hype",
+      "profit-taking",
+      "valuation premium",
+      "earnings beat",
+      "Edge AI",
+      "wireless connectivity"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA announced significant expansion of its Agent Toolkit with new capabilities in physics simulation and quantum chemistry. The company is positioning itself as a leader in autonomous AI engineering with strong adoption from major industry partners, demonstrating market validation and revenue growth potential."
-      },
-      {
-        "ticker": "CDNS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cadence is actively integrating NVIDIA technologies into its AuraStack AI Super Agent and Millennium M2000 platform, achieving up to 20x faster multiphysics performance. The partnership demonstrates Cadence's commitment to AI-driven design automation and competitive positioning in the EDA market."
+        "ticker": "CEVA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 18.7% in one month after AI-fueled rally. While Q2 results beat estimates with strong revenue growth (13% YoY) and margin improvement, investors were unimpressed. The stock trades at an expensive 5.66X forward sales multiple (above sub-industry 4.04X average) with a Value Score of F. Zacks Rank #3 (Hold) recommends patience rather than buying, citing valuation concerns despite favorable growth profile."
       },
       {
         "ticker": "SNPS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Synopsys is leveraging NVIDIA Agent Toolkit and Nemotron models to build AgentEngineer for chip and system design workflows. The company is optimizing its VCS verification solution for NVIDIA Vera CPU and developing cuISS use cases, indicating strong collaboration and product advancement."
+        "sentiment_reasoning": "Synopsys shares gained over 12% in the past month, outperforming both CEVA and the broader sector, demonstrating stronger relative momentum among semiconductor design companies."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cadence shares inched up marginally over the past month, showing modest performance that slightly outpaced the sector but significantly underperformed Synopsys, indicating neutral momentum."
       }
     ]
   },
   {
-    "id": "8bd41a2db63d9c9221e109774adbdc0dff047de377078c0a33f97a033911049c",
+    "id": "5e6468f13a9b4d02807f2539b31fc5e6c05b4d9abbdf753a8d5b047706b15387",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is It Worth Investing in Synopsys (SNPS) Based on Wall Street's Bullish Views?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-01T13:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2983046/is-it-worth-investing-in-synopsys-snps-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2983046",
+    "tickers": [
+      "SNPS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default63.jpg",
+    "description": "Synopsys (SNPS) has a strong average brokerage recommendation of 1.59 (Strong Buy/Buy) from 22 firms, with 16 Strong Buy ratings. However, the article cautions that brokerage recommendations often carry positive bias due to institutional vested interests. The company's Zacks Rank #2 (Buy) rating is supported by a 3.3% increase in consensus earnings estimates over the past month to $15.06, suggesting legitimate near-term upside potential.",
+    "keywords": [
+      "Synopsys",
+      "SNPS",
+      "brokerage recommendations",
+      "earnings estimate revisions",
+      "Zacks Rank",
+      "stock rating",
+      "analyst bias",
+      "investment decision"
+    ],
+    "insights": [
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong brokerage consensus (72.7% Strong Buy ratings) combined with a Zacks Rank #2 (Buy) rating. Recent earnings estimate revisions increased 3.3% over the past month, indicating growing analyst optimism about the company's earnings prospects and supporting near-term price appreciation potential."
+      }
+    ]
+  },
+  {
+    "id": "ca2ba618648221330b600b5f4bafda9eb0d96b8b5b11e3feb893fe020f3c8b6b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's How Much You'd Have If You Invested $1000 in Synopsys a Decade Ago",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-01T12:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2982970/here-s-how-much-you-d-have-if-you-invested-1000-in-synopsys-a-decade-ago?cid=CS-ZC-FT-fundamental_analysis|investing_$1000-2982970",
+    "tickers": [
+      "SNPS",
+      "CDNS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default296.jpg",
+    "description": "A $1,000 investment in Synopsys (SNPS) made in September 2016 would have grown to $7,414.24 by September 2026, representing a 641.42% gain\u2014significantly outperforming the S&P 500's 254.05% return. The company benefits from recurring revenue, strong demand for chip design and AI-related tools, and the Ansys acquisition expansion, though elevated debt and execution risks remain concerns.",
+    "keywords": [
+      "Synopsys",
+      "stock performance",
+      "electronic design automation",
+      "semiconductor",
+      "AI demand",
+      "long-term investment",
+      "Ansys acquisition"
+    ],
+    "insights": [
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional 10-year returns (641.42% gain), strong business fundamentals with recurring revenue and growing demand for EDA tools driven by AI complexity, successful Ansys integration expanding multiphysics capabilities, and positive analyst outlook with rising earnings estimates. Stock momentum is strong with 12.12% gain over past four weeks."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a key competitor to Synopsys without specific performance data or analysis provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "689ca11ecf068977a058272043a8b88ff533a3f9650104fa6635eba2bd2aaa0d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Cadence Design Systems vs. Synopsys: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-07-14T23:19:03Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-synopsys-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "CDNS",
-      "SNPS",
-      "INTC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Both Cadence Design Systems and Synopsys are leaders in chip design software, benefiting from strong semiconductor demand. Cadence offers a cleaner growth story with record backlogs and strong profitability, while Synopsys provides broader capabilities through its Ansys acquisition but faces integration complexity and higher valuation multiples. The article recommends Cadence as the better 2026 buy due to its simpler execution and stronger balance sheet.",
-    "keywords": [
-      "chip design software",
-      "semiconductor industry",
-      "2nm chip design",
-      "acquisition integration",
-      "valuation comparison",
-      "free cash flow",
-      "AI-powered design tools"
-    ],
-    "insights": [
-      {
-        "ticker": "CDNS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (14.1% YoY), record backlog, raised full-year outlook, excellent balance sheet (0.5x debt-to-equity, 2.9x current ratio), higher gross margins (85.15%), and cleaner execution story without major integration risks. Recommended as the better buy."
-      },
-      {
-        "ticker": "SNPS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Solid revenue growth (15.1% YoY) and larger scale ($7.1B revenue), but faces significant headwinds including massive Ansys acquisition integration complexity, higher debt load, lower gross margins (64.88%), pending class action lawsuits, and higher valuation multiples (30.0x forward P/E vs. 48.6x for Cadence). Long-term potential exists but near-term execution risks are substantial."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a Cadence partnership customer for multi-year collaboration on chip design, indicating continued reliance on design software providers. No specific performance data provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "e50748c377ffd8a43039626d5e490b4193721c517b5e18b9635eaafb955bef0e",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "SRAM and ROM Design IP Market Size to Hit USD 784.47 Million by 2035 | Research by SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-06-19T07:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/19/3314634/0/en/SRAM-and-ROM-Design-IP-Market-Size-to-Hit-USD-784-47-Million-by-2035-Research-by-SNS-Insider.html",
-    "tickers": [
-      "ARM",
-      "SNPS",
-      "CDNS",
-      "RMBS"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global SRAM and ROM Design IP market, valued at $644.97 million in 2025, is expected to grow to $784.47 million by 2035 at a CAGR of 1.98%. Growth is driven by rising demand for AI, chiplet-based architectures, and advanced semiconductor memory solutions. Embedded Flash/NVM dominates with 54% market share, while MRAM is the fastest-growing segment at 9.20% CAGR. Asia-Pacific leads regionally with 40.5% of global revenue.",
-    "keywords": [
-      "SRAM",
-      "ROM Design IP",
-      "semiconductor memory",
-      "AI workloads",
-      "chiplet architecture",
-      "embedded flash",
-      "MRAM",
-      "advanced nodes",
-      "memory compiler IP"
-    ],
-    "insights": [
-      {
-        "ticker": "ARM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a leading market player in SRAM and ROM Design IP solutions, positioned to benefit from growing demand for memory IP across AI, automotive, and advanced computing applications."
-      },
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key market player and specifically mentioned for announcing optimized memory compiler IP solutions with TSMC for advanced semiconductor nodes and AI processors in September 2025."
-      },
-      {
-        "ticker": "CDNS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player mentioned for introducing sixth-generation Tensilica Hi-Fi iQ DSP in January 2026 with enhanced AI processing capability and energy efficiency for SoC applications."
-      },
-      {
-        "ticker": "RMBS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a market player in memory IP solutions but no specific recent developments or differentiation mentioned."
-      }
-    ]
-  },
-  {
-    "id": "9d758178fe11d4f3382eb159e316b23aa7b7e5f3788af9b63f0d11a553d8e433",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "GlobalFoundries completes acquisition of Synopsys' Processor IP Solutions Business, delivering a holistic technology platform for Physical AI",
-    "author": "Na",
-    "published_utc": "2026-06-02T12:30:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/26/06/g52934590/globalfoundries-completes-acquisition-of-synopsys-processor-ip-solutions-business-delivering-a-hol?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "GFS",
-      "SNPS"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-    "description": "GlobalFoundries has completed its acquisition of Synopsys' ARC Processor IP Solutions business. Combined with MIPS, this creates a comprehensive software-to-silicon platform for Physical AI applications. The combined entity offers RISC-V processor IP, custom design, and advanced manufacturing capabilities targeting automotive, industrial robotics, and embedded systems markets.",
-    "keywords": [
-      "acquisition",
-      "GlobalFoundries",
-      "Synopsys",
-      "ARC Processor IP",
-      "MIPS",
-      "Physical AI",
-      "RISC-V",
-      "semiconductor",
-      "processor IP"
-    ],
-    "insights": [
-      {
-        "ticker": "GFS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Successful completion of strategic acquisition that expands Physical AI portfolio, combines complementary processor IP technologies (MIPS and ARC), strengthens engineering capabilities, and positions the company as a comprehensive technology partner for automotive, industrial, and embedded systems markets."
-      },
-      {
-        "ticker": "SNPS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Divested ARC Processor IP business to focus on core portfolio of interface and foundation IP. While this represents a strategic narrowing, it allows Synopsys to concentrate on its broader IP offerings without negative implications."
-      }
-    ]
-  },
-  {
-    "id": "b00454cb0acf90b6e8efb2f5b9debec524d10f8af313fd1dde25e77e29918b32",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Enterprise Software Leaders Build AI Agents With NVIDIA",
-    "author": "Nvidia",
-    "published_utc": "2026-06-01T04:21:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/01/3303984/0/en/Enterprise-Software-Leaders-Build-AI-Agents-With-NVIDIA.html",
+    "title": "This AI Energy Stock Is Up Nearly 2,000% in the Last Two Years. Could It Be Nvidia's Next Big Investment?",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-08-28T22:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/28/this-ai-energy-stock-is-up-nearly-2000-in-the-last/?source=iedfolrf0000001",
     "tickers": [
       "NVDA",
-      "CDNS",
-      "DASTY",
-      "SIEGY",
+      "BE",
+      "SPCX",
+      "INTC",
+      "CRWV",
       "SNPS",
-      "CRWD",
-      "PLTR",
-      "MSFT"
+      "COHR",
+      "NOK",
+      "BAM"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/ff2cfe7d-f57b-496a-ab07-589cfdbe5c86",
-    "description": "NVIDIA announced new Agent Toolkit software including NemoClaw blueprints, Nemotron 3 Ultra models, and OpenShell secure runtime to enable enterprises to build autonomous AI agents. Major partners like Cadence, Dassault Syst\u00e8mes, Siemens, Synopsys, CrowdStrike, and Palantir are deploying these agents for engineering workflows, cybersecurity, and operations. NVIDIA also partnered with Microsoft, Canonical, and Red Hat to integrate OpenShell across Windows, Linux, and enterprise platforms.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885617%2Fai-energy-power-lines-glowing-in-the-dark.jpg&w=1200&op=resize",
+    "description": "Nvidia has built a $63.4 billion portfolio of AI infrastructure partners including Intel, SpaceX, CoreWeave, and Synopsys. As energy becomes a critical bottleneck for AI data center growth, Bloom Energy\u2014a hydrogen fuel-cell company that recently crossed $1 billion in quarterly revenue and signed a $25 billion partnership with Brookfield Asset Management\u2014emerges as a potential candidate for Nvidia investment.",
     "keywords": [
-      "AI agents",
-      "NemoClaw",
-      "Nemotron 3 Ultra",
-      "OpenShell",
-      "CUDA-X libraries",
-      "autonomous agents",
-      "enterprise AI",
-      "semiconductor design",
-      "cybersecurity"
+      "AI infrastructure",
+      "energy bottleneck",
+      "Nvidia investments",
+      "hydrogen fuel cells",
+      "data center power",
+      "AI computing"
     ],
     "insights": [
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA is launching comprehensive new AI agent software and models with strong enterprise adoption from leading software companies, positioning itself as the foundational platform for enterprise AI agent development."
+        "sentiment_reasoning": "Nvidia is positioned as a strategic investor and kingmaker in AI infrastructure with a diversified $63.4 billion portfolio across complementary technologies. The company is actively building partnerships to address AI growth bottlenecks."
       },
       {
-        "ticker": "CDNS",
+        "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Cadence is among the first to deploy NVIDIA NemoClaw for autonomous chip design and verification, with its ChipStack AI Super Agent compressing weeks of engineering work into hours."
+        "sentiment_reasoning": "Stock up nearly 2,000% in two years with 166% revenue growth in recent quarter. Gained broad adoption across major U.S. hyperscalers and neoclouds. Recently secured $25 billion partnership with Brookfield Asset Management, positioning it as a key solution to AI energy demands."
       },
       {
-        "ticker": "DASTY",
+        "ticker": "SPCX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dassault is productizing its 3DEXPERIENCE platform with NVIDIA NemoClaw and OpenShell for long-running autonomous agents across design, simulation, and manufacturing."
+        "sentiment_reasoning": "Close Nvidia partner with $20 billion stake held by Nvidia. Committed to building exclusively on Nvidia architecture and ramping AI compute capacity to 10GW by end of 2027, demonstrating strong alignment with Nvidia's growth strategy."
       },
       {
-        "ticker": "SIEGY",
+        "ticker": "INTC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Siemens is integrating NVIDIA NemoClaw and OpenShell into its Fuse EDA AI Agent for autonomous semiconductor and circuit board design workflows."
+        "sentiment_reasoning": "Nvidia invested when stock was near bottom as part of strategic partnership for data center and personal computing products. Positioned as largest U.S.-based foundry amid national semiconductor manufacturing priorities."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Leading neocloud company and close Nvidia partner that purchases Nvidia chips to rent out AI compute capacity, directly benefiting from AI infrastructure expansion."
       },
       {
         "ticker": "SNPS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Synopsys is collaborating with NVIDIA to build autonomous AI engineers for chip design with focus on achieving full workflow autonomy."
+        "sentiment_reasoning": "Received $2 billion Nvidia investment to accelerate chip design and engineering simulations, indicating strategic importance to Nvidia's product development roadmap."
       },
       {
-        "ticker": "CRWD",
+        "ticker": "COHR",
         "sentiment": "positive",
-        "sentiment_reasoning": "CrowdStrike is deploying NVIDIA Nemotron models for specialized cybersecurity agents that continuously identify and remediate vulnerabilities, enhancing operational efficiency."
+        "sentiment_reasoning": "Key supplier providing optical connectivity for AI infrastructure power and heat management. Nvidia investment secures this critical relationship for AI data center operations."
       },
       {
-        "ticker": "PLTR",
+        "ticker": "NOK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Palantir is integrating NVIDIA Nemotron models into its AI FDE platform to autonomously execute complex tasks and build domain-specific enterprise systems."
+        "sentiment_reasoning": "Received $1 billion Nvidia investment to lead 5G to 6G transition and develop AI-RAN technology, positioning it as partner in building AI-native wireless infrastructure."
       },
       {
-        "ticker": "MSFT",
+        "ticker": "BAM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is collaborating with NVIDIA to deliver native Windows experience for personal agents with new security primitives and OpenShell integration."
+        "sentiment_reasoning": "Signed $25 billion AI infrastructure power partnership with Bloom Energy, demonstrating major real estate developer's commitment to powering AI data center growth."
+      }
+    ]
+  },
+  {
+    "id": "4e3d34bce43bde058989e57eb2ade430a78b434eab8da562bbc310099178b3b5",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Synopsys Stock Popped Today",
+    "author": "Rich Smith",
+    "published_utc": "2026-08-27T15:35:13Z",
+    "article_url": "https://www.fool.com/investing/2026/08/27/why-synopsys-stock-popped-today/?source=iedfolrf0000001",
+    "tickers": [
+      "SNPS",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885230%2Fgreen-arrow-going-up-superimposed-on-chart-of-stock-prices.jpg&w=1200&op=resize",
+    "description": "Synopsys stock surged over 11% after beating analyst expectations for fiscal Q3 earnings and sales. The company reported $3.91 EPS on $2.5B in sales versus forecasts of $3.67 EPS on $2.4B. Strong growth was driven by increased demand for AI chip design software, with sales up 42.5% year-over-year. The company also generated $2.1B in free cash flow year-to-date, more than 3x its reported GAAP profits, and provided optimistic full-year guidance.",
+    "keywords": [
+      "earnings beat",
+      "AI chip design",
+      "semiconductor software",
+      "free cash flow",
+      "guidance",
+      "revenue growth"
+    ],
+    "insights": [
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company significantly beat analyst expectations on both earnings ($3.91 vs $3.67 forecast) and sales ($2.5B vs $2.4B forecast). Strong 42.5% YoY sales growth driven by AI demand, robust free cash flow generation ($2.1B YTD), and positive forward guidance all support positive sentiment. Stock gained 11.45% on the news."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in 'Read Next' section as a related stock story but not part of the main article content. Included for context only as it relates to the semiconductor/AI industry."
       }
     ]
   }
