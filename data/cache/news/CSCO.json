@@ -1,372 +1,377 @@
 [
   {
-    "id": "14c9daf1ab362d6eb3f1bed9c22ff3da81b5c0cb4a0ddabc458d6f783724b6a5",
+    "id": "02446143bbc2222368967b817f8d92581ad9e4a8de3a02a69fc331f26ac66bf8",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "The S&P 500 Is at Record Highs and Hasn't Been This Expensive in Decades. History Says This Could Happen Next",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-08-11T15:06:59Z",
-    "article_url": "https://www.fool.com/investing/2026/08/11/the-sp-500-is-at-record-highs-and-hasnt-been-this/?source=iedfolrf0000001",
+    "title": "Why Today's AI Boom Differs From the Internet Bubble",
+    "author": "Na",
+    "published_utc": "2026-09-08T19:10:00Z",
+    "article_url": "https://www.zacks.com/commentary/2986639/why-today-s-ai-boom-differs-from-the-internet-bubble?cid=CS-ZC-FT-investment_ideas-2986639",
     "tickers": [
-      "MSFT",
-      "AAPL",
+      "NVDA",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMD",
+      "MU",
+      "DELL",
       "CSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882581%2Finvestor-analyzing-a-chart.jpg&w=1200&op=resize",
-    "description": "The S&P 500 has reached record highs at 7,800 but is trading at a Shiller PE ratio of 42, the highest since the dotcom crash. Similar to the early 2000s bubble driven by internet stocks, today's rally is fueled by AI companies. However, history shows that even profitable tech giants like Microsoft, Apple, and Cisco crashed over 50% during the dotcom bubble. Investors are advised to shift from expensive stocks to more reasonably priced investments and dividend stocks rather than trying to time the market.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/da/181877.webp",
+    "description": "The article argues that the current AI buildout, representing the largest industrial expansion since 19th-century railroads, is fundamentally different from the 1990s internet bubble. Unlike the dot-com era where 90% of fiber infrastructure sat unused and 75% of IPOs operated at losses, today's AI companies are profitable, have reasonable valuations, and their hardware is in high demand with premium pricing. This suggests the AI boom has a stronger economic foundation than the internet bubble.",
     "keywords": [
-      "S&P 500",
-      "valuation",
-      "Shiller PE ratio",
-      "dotcom bubble",
-      "artificial intelligence",
-      "market crash",
-      "tech stocks",
-      "overpriced stocks",
-      "dividend stocks"
+      "AI buildout",
+      "internet bubble comparison",
+      "GPU demand",
+      "profitability",
+      "valuations",
+      "hardware utilization"
     ],
     "insights": [
       {
-        "ticker": "MSFT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Used as a historical example of a profitable, established tech company that crashed over 50% during the dotcom bubble despite strong fundamentals, illustrating that high valuations and market corrections can impact even quality companies."
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GPU chips remain in high demand with prices increasing 22% month-over-month, contradicting bear arguments about overinvestment and unused capacity."
       },
       {
-        "ticker": "AAPL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Similarly cited as a profitable tech company that crashed over 50% during the dotcom bubble, serving as a cautionary example that current market valuations could lead to significant sell-offs regardless of company quality."
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a highly profitable top AI company with reasonable valuations compared to internet bubble era companies."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as highly profitable AI company; generated $28.86 billion in net income last quarter, demonstrating strong financial performance."
+      },
+      {
+        "ticker": "DELL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as an AI-related company with reasonable P/E ratio of 28.52x, significantly lower than internet bubble peak valuations."
       },
       {
         "ticker": "CSCO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned alongside Microsoft and Apple as a profitable tech company that experienced a 50%+ crash during the dotcom bubble, reinforcing concerns about current market valuations and potential future corrections."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical comparison point from the internet bubble era that peaked at 200x P/E, illustrating how current AI valuations are more reasonable."
       }
     ]
   },
   {
-    "id": "cee9f285631027c1a019f80f6a4d33e0b08cbd0daec893d454c14ba52d562f84",
+    "id": "d824bb619b3072d35e771f6e9e4f87ca35834d22c81c706ea9e87a31df9a5005",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Ciena Stock Down 14% in the Past Month: Time to Buy, Hold or Sell?",
+    "author": "Na",
+    "published_utc": "2026-09-08T15:27:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986527/ciena-stock-down-14-in-the-past-month-time-to-buy-hold-or-sell?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986527",
+    "tickers": [
+      "CIEN",
+      "GLW",
+      "ANET",
+      "CSCO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/32/128049.webp",
+    "description": "Ciena Corporation's shares have declined 14.1% in the past month due to supply constraints limiting its ability to meet strong demand, despite benefiting from AI-driven demand for optical connectivity. The company raised fiscal 2026 revenue guidance to $6.42 billion (35% YoY growth) and projects at least 30% growth in fiscal 2027, with backlog expected to exceed $10 billion. However, near-term cash flow pressures and tariff risks remain concerns. Analysts recommend existing investors hold while new investors wait for a better entry point.",
+    "keywords": [
+      "supply constraints",
+      "AI demand",
+      "optical connectivity",
+      "revenue guidance",
+      "backlog",
+      "cash flow",
+      "tariffs"
+    ],
+    "insights": [
+      {
+        "ticker": "CIEN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: Strong AI-driven demand, robust order flow, and raised guidance are positive, but supply constraints, capacity limitations, near-term cash flow pressures, and tariff risks are significant headwinds. Stock has underperformed peers despite strong fundamentals."
+      },
+      {
+        "ticker": "GLW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 2% loss over the same period, indicating relatively stable performance compared to Ciena's steeper decline."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 1.1% gain over the same period, showing slight outperformance relative to Ciena."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 10.9% loss over the same period, indicating underperformance but less severe than Ciena's decline."
+      }
+    ]
+  },
+  {
+    "id": "9643ebf5862ef64da48b2f2b08e67c3076dea8018a2d05cc45220055572a9712",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Adobe vs. Arista Networks: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-08-09T23:11:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/08/09/adobe-vs-arista-networks-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Set a Fair Starting Line, as Favorites Can Falter",
+    "author": "The Rule Breakers Team",
+    "published_utc": "2026-09-07T19:19:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/07/set-a-fair-starting-line-as-favorites-can-falter/?source=iedfolrf0000001",
     "tickers": [
-      "ADBE",
+      "TTD",
       "ANET",
+      "AMD",
       "AVGO",
-      "CSCO",
-      "MSFT"
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "CSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Adobe and Arista Networks as investment choices for 2026. Adobe, a creative software giant with a 30% net margin and $23.8B in revenue, trades at a conservative 10.7x forward P/E ratio. Arista Networks, a high-speed networking infrastructure leader with 28.6% revenue growth and 39% net margin, trades at a higher 47.8x forward P/E. Despite Arista's stronger growth prospects from AI data center expansion, the author recommends Adobe due to its market leadership, profitability, and superior valuation offering greater upside potential.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffe6403e73394ab81b43cbf27ad87b5c54f1ce964-3453x2302.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Motley Fool illustrates the importance of equal portfolio weighting by comparing The Trade Desk, which fell from 40-fold returns to under 4-fold after Amazon undercut its pricing, with Arista Networks, which surpassed it with 40-fold returns. The article emphasizes giving every stock a fair starting position and then backing winners while retiring underperformers, rather than loading up on perceived favorites.",
     "keywords": [
-      "creative software",
-      "AI integration",
-      "data center networking",
-      "valuation comparison",
-      "revenue growth",
-      "profit margins",
-      "customer concentration risk",
-      "management transition"
+      "portfolio diversification",
+      "equal weighting",
+      "stock selection",
+      "competitive disruption",
+      "position management",
+      "programmatic advertising"
     ],
     "insights": [
       {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong market leadership in digital creation tools, excellent profitability (30% net margin, $7.1B net income), solid revenue growth (10.5%), manageable debt (0.6x debt-to-equity), and attractive valuation (10.7x forward P/E) with significant upside potential. Author's recommended pick despite CEO transition uncertainty."
+        "ticker": "TTD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined from 40-fold to under 4-fold returns after Amazon entered the market with aggressive 1-2% pricing versus The Trade Desk's 12-15%, causing growth to collapse from 22% to 3% and resulting in 15% workforce cuts with no clear restructuring plan."
       },
       {
         "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Impressive revenue growth (28.6%), high profitability (39% net margin, $3.5B net income), zero debt, and strong free cash flow ($4.3B). Benefits from AI data center expansion tailwinds. However, offset by high valuation (47.8x forward P/E), heavy customer concentration risk with cloud giants, and supply chain dependency on Broadcom."
+        "sentiment_reasoning": "Exceeded The Trade Desk with 40-fold returns, demonstrating strong performance as a dark horse pick that disrupted Cisco's switch market dominance and continued to outperform even after becoming obvious to the broader market."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Achieved nearly 7-fold returns through acquisition of Xilinx, benefiting from AI buildout and semiconductor demand, representing a successful dark horse investment."
       },
       {
         "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Delivered roughly 30-fold returns, significantly outperforming initial thesis expectations by benefiting from AI infrastructure buildout beyond the originally identified LTE, IoT, and broadband catalysts."
+      },
+      {
+        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a critical chip supplier to Arista Networks, representing a supply chain dependency risk. No direct investment recommendation provided."
+        "sentiment_reasoning": "Entered programmatic advertising market with aggressive pricing (1-2% vs competitors' 12-15%), capturing market share rapidly and disrupting The Trade Desk's business model, though not directly recommended in the article."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a walled garden advertising platform alongside Alphabet, but no specific performance commentary provided."
       },
       {
         "ticker": "CSCO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitive threat to Arista Networks in the networking equipment market. No direct investment recommendation provided."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of Arista's major customers, illustrating customer concentration risk. No direct investment recommendation provided."
+        "sentiment_reasoning": "Referenced as the incumbent switch vendor that Arista disrupted, but no direct investment recommendation or performance analysis provided."
       }
     ]
   },
   {
-    "id": "b6e75a4823f5f4639c3a55d168a3e2e6e2ecf74f61002bc761703dd1bd43051e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Cisco Raised Its AI Order Target to $9 Billion. Here's What Investors Need to Know.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-07T08:23:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/07/cisco-raised-its-ai-order-target-to-9-billion-here/?source=iedfolrf0000001",
-    "tickers": [
-      "CSCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882331%2Fglowing-cloud-over-digital-world-map-getty.jpg&w=1200&op=resize",
-    "description": "Cisco raised its AI infrastructure order target to $9 billion for fiscal 2026, up from $5 billion, driven by strong demand from hyperscalers building AI data centers. However, the company expects only $4 billion of this to convert to revenue in fiscal 2026, limiting overall revenue growth to 11%. With the stock trading at 26x forward earnings, the author suggests waiting for confirmation of the $9 billion target and fiscal 2027 guidance before investing.",
-    "keywords": [
-      "AI infrastructure orders",
-      "hyperscalers",
-      "data centers",
-      "optical connections",
-      "revenue growth",
-      "earnings guidance",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Cisco shows strong AI order growth (4.5x increase) and solid operational performance (12% revenue growth, record $15.8B quarterly revenue), the stock's 26x forward earnings multiple appears stretched relative to 11% guided revenue growth. The author acknowledges strong demand signals but recommends waiting for confirmation before investing at current valuations."
-      }
-    ]
-  },
-  {
-    "id": "360d68baa545a2c31287fc8a8a8a3b60d4bfdf453ade30cf1bc6357b398c5e7d",
+    "id": "f30821afd6fca3d036f74a96072f808f6ab609e7c3f5ede7d72db362dc01deae",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "AI Inference Infrastructure Market Size to Surpass $229.95 Billion by 2035 | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-08-04T08:58:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338073/0/en/AI-Inference-Infrastructure-Market-Size-to-Surpass-229-95-Billion-by-2035-SNS-Insider.html",
+    "title": "Data Center Solutions Market Surges to $1,336.55 billion at a CAGR 20.1% by 2031 | Report by MarketsandMarkets\u2122",
+    "author": "Marketsandmarkets\u2122",
+    "published_utc": "2026-09-03T14:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356047/0/en/data-center-solutions-market-surges-to-1-336-55-billion-at-a-cagr-20-1-by-2031-report-by-marketsandmarkets.html",
     "tickers": [
-      "NVDA",
-      "AMD",
-      "INTC",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
-      "ORCL",
-      "ORCLpD",
       "DELL",
       "HPE",
       "HPEpC",
+      "AVGO",
+      "NVDA",
       "SMCI",
       "SMCIP",
-      "CSCO",
-      "AVGO",
-      "MU",
+      "IBM",
       "LNVGY",
-      "EQIX",
-      "VRT",
-      "SKHY",
-      "SBGSY"
+      "SBGSY",
+      "CSCO"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI Inference Infrastructure Market is projected to grow from $22.80 billion in 2025 to $229.95 billion by 2035, with a CAGR of 26.02%. The U.S. market alone is expected to reach $157.83 billion by 2035, while Europe is projected to hit $51.93 billion. Growth is driven by hyperscale data center expansion, GPU adoption, AI accelerators, and enterprise demand for high-performance inference infrastructure. Hardware components dominate with 67.80% market share, while cloud deployment leads with 63.40% share.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+    "description": "The global Data Center Solutions Market is projected to grow from USD 535.45 billion in 2026 to USD 1,336.55 billion by 2031, with a CAGR of 20.1%. Growth is driven by increasing demand for AI infrastructure, high-density computing, intelligent power systems, advanced cooling, and software-defined infrastructure. The software segment is the fastest-growing component at 24.7% CAGR, while Asia Pacific is the fastest-growing region.",
     "keywords": [
-      "AI Inference Infrastructure",
-      "Generative AI",
-      "Large Language Models",
-      "GPU adoption",
-      "AI accelerators",
-      "Hyperscale data centers",
-      "Cloud deployment",
-      "High-performance computing"
+      "data center solutions",
+      "AI infrastructure",
+      "GPU-accelerated servers",
+      "software-defined infrastructure",
+      "cloud computing",
+      "high-performance computing",
+      "liquid cooling",
+      "DCIM",
+      "hyperscale data centers",
+      "edge computing"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA is a key player in the AI inference infrastructure market with dominant GPU market share (61.90% in 2025). Recent developments highlight NVIDIA's expansion of Blackwell AI infrastructure platform with next-generation GPU systems, positioning it to benefit from the projected 26.02% CAGR market growth."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AMD is listed as a key player in the AI inference infrastructure market and stands to benefit from growing GPU and AI accelerator adoption. The market's strong growth trajectory and increasing enterprise demand for high-performance inference infrastructure supports AMD's competitive positioning."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Intel is identified as a key player in the AI inference infrastructure market. The company can capitalize on the growing demand for processors and AI accelerators as enterprises expand their AI inference capabilities."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is both a key player and cloud service provider (which leads with 52.80% market share). Recent May 2026 developments show Microsoft expanding Azure AI infrastructure with new AI-optimized virtual machines, directly supporting the projected market growth."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a key player and cloud service provider in the AI inference infrastructure market. Cloud deployment dominates with 63.40% market share, positioning Google to benefit from enterprise AI adoption and hyperscale data center expansion."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS is a leading cloud service provider (which holds 52.80% market share) and key player in AI inference infrastructure. The company is well-positioned to capture growth from enterprise demand for cloud-based AI inference solutions."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is listed as a key player in the AI inference infrastructure market and can benefit from growing enterprise demand for high-performance AI infrastructure and cloud-based solutions."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is listed as a key player in the AI inference infrastructure market and can benefit from growing enterprise demand for high-performance AI infrastructure and cloud-based solutions."
-      },
-      {
         "ticker": "DELL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dell is a key player in AI inference infrastructure hardware. With hardware representing 67.80% of market share and strong growth in hyperscale data centers, Dell is positioned to benefit from infrastructure expansion."
+        "sentiment_reasoning": "Listed as a key market player in the rapidly growing data center solutions market with strong demand for IT infrastructure and AI-ready systems."
       },
       {
         "ticker": "HPE",
         "sentiment": "positive",
-        "sentiment_reasoning": "HPE is listed as a key player in AI inference infrastructure and can capitalize on growing demand for high-performance servers and computing infrastructure supporting AI workloads."
+        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
       },
       {
         "ticker": "HPEpC",
         "sentiment": "positive",
-        "sentiment_reasoning": "HPE is listed as a key player in AI inference infrastructure and can capitalize on growing demand for high-performance servers and computing infrastructure supporting AI workloads."
-      },
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Super Micro is a key player specializing in high-performance computing infrastructure. The company is well-positioned to benefit from hyperscale data center expansion and enterprise demand for AI inference infrastructure."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Super Micro is a key player specializing in high-performance computing infrastructure. The company is well-positioned to benefit from hyperscale data center expansion and enterprise demand for AI inference infrastructure."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cisco is listed as a key player in AI inference infrastructure. Networking is growing at 31.23% CAGR due to increasing need for fast connections in distributed AI inference clusters, supporting Cisco's networking solutions."
+        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Broadcom is a key player in AI inference infrastructure, particularly in networking and semiconductor components. The market's strong growth and networking segment's 31.23% CAGR support Broadcom's positioning."
+        "sentiment_reasoning": "Key player in the market benefiting from growing demand for high-speed networking and advanced infrastructure technologies."
       },
       {
-        "ticker": "MU",
+        "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Micron is listed as a key player and benefits from increasing adoption of high bandwidth memory, which is highlighted as a key driver of inference performance and efficiency improvements."
+        "sentiment_reasoning": "Major beneficiary of rising deployment of GPU-accelerated servers and AI training/inference infrastructure across data centers."
+      },
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market player positioned to benefit from enterprise data center modernization and AI infrastructure investments."
       },
       {
         "ticker": "LNVGY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Lenovo is listed as a key player in AI inference infrastructure hardware and can benefit from growing enterprise demand for high-performance servers and computing infrastructure."
-      },
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Equinix is a key player in data center infrastructure. With hyperscale data center expansion driving market growth and cloud deployment leading at 63.40% market share, Equinix is positioned to benefit from infrastructure demand."
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Vertiv is listed as a key player and benefits from developments in liquid cooling technology, which is highlighted as a key driver improving performance and efficiency of inference operations."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SK hynix is a key player in memory and semiconductor solutions for AI infrastructure. The company benefits from increasing adoption of high bandwidth memory and AI accelerators."
+        "sentiment_reasoning": "Identified as a leading player in the growing data center solutions market with strong demand for IT infrastructure."
       },
       {
         "ticker": "SBGSY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Schneider Electric is listed as a key player in AI inference infrastructure, particularly in energy efficiency and operational infrastructure supporting hyperscale data centers."
+        "sentiment_reasoning": "Key player benefiting from increased investment in intelligent power systems and energy-efficient data center operations."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major player positioned to benefit from growing demand for advanced networking technologies and software-defined infrastructure."
       }
     ]
   },
   {
-    "id": "9cce5af556ed8e0ce016277e495da2462f42395bb67cd654003f9710351db695",
+    "id": "c2aa095060fce3dc81b2bb5ceaf300e7dc3df9a4076d4990e380e20f30d59028",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Cathie Wood's Ark Invest Sold $11.8 Million of AMD Stock on a Single Day Last Month. Should Other Investors Also Sell?",
-    "author": "Will Healy",
-    "published_utc": "2026-08-03T20:07:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/03/cathie-woods-ark-sold-12-million-of-amd-stock/?source=iedfolrf0000001",
+    "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
+    "author": "Na",
+    "published_utc": "2026-09-02T18:47:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984036/can-amd-s-saudi-ai-buildout-challenge-nvidia-and-broadcom?cid=CS-ZC-FT-analyst_blog|quick_take-2984036",
     "tickers": [
       "AMD",
-      "TSLA",
-      "META",
       "CSCO",
-      "NVDA"
+      "NVDA",
+      "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879998%2Fcathie-wood_ark-investment-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
-    "description": "Ark Invest sold $68.1 million of AMD stock in July, including an $11.8 million sale on July 17, likely due to high valuations after 180% gains over the past year. However, the article suggests long-term investors should hold AMD shares, as the company remains Ark Invest's second-largest position and has significant growth potential with a $2 trillion addressable market by 2030.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/08/1020.jpg",
+    "description": "AMD, Cisco, and HUMAIN have launched MI355X-based AI systems in Saudi Arabia and plan to deploy up to 250 MW of new AI infrastructure starting in 2027, targeting 1 GW by 2030. AMD expects server revenues to grow over 70% in 2027, but faces intense competition from NVIDIA's dominant market position and Broadcom's growing custom AI accelerator business. AMD stock is trading at a premium valuation with a Zacks Rank #3 (Hold) rating.",
     "keywords": [
-      "AMD stock sale",
-      "Ark Invest",
-      "AI accelerators",
-      "valuation concerns",
-      "long-term growth",
-      "semiconductor industry"
+      "AI infrastructure",
+      "sovereign AI",
+      "GPU deployment",
+      "data center",
+      "MI355X",
+      "MI450",
+      "EPYC processors",
+      "competitive pressure"
     ],
     "insights": [
       {
         "ticker": "AMD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent profit-taking by Ark Invest, AMD remains positioned for long-term growth with strong partnerships (OpenAI, Meta, Cisco), new product launches (6th Gen EPYC, MI400 GPUs), and a massive $2 trillion addressable market by 2030. The company is gaining competitiveness in AI accelerators against Nvidia."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as Ark Invest's largest holding; no specific analysis or sentiment drivers related to Tesla are discussed in the article."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partnership with AMD for growth drivers; no independent analysis or sentiment assessment provided."
+        "sentiment_reasoning": "AMD is securing major infrastructure deals in the sovereign AI market with 250 MW deployment planned for 2027 and expected 1 GW by 2030. Data Center revenues surged 107% YoY and server revenues expected to grow over 70% in 2027, demonstrating strong business momentum and market expansion."
       },
       {
         "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partnership with AMD; no independent analysis or sentiment assessment provided."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cisco is a key partner in the large-scale AI infrastructure deployment, providing networking and 800G optics technology. The partnership positions Cisco to benefit from the growing demand for AI infrastructure buildout through 2030."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the market leader in AI accelerators that AMD is becoming more competitive with; mentioned contextually without specific sentiment analysis."
+        "sentiment_reasoning": "While NVIDIA maintains dominant market position with $89B in Data Center revenues and 70% expected growth, the article frames it as a competitive threat to AMD. NVIDIA's entrenched position is acknowledged but not directly impacted by this announcement."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broadcom is positioned as an increasingly important competitor with strong momentum: AI semiconductor revenues surged 143% YoY to $10.8B, with expectations of $100B+ in fiscal 2027. The company has major commitments with Google, Anthropic, OpenAI, and Meta."
       }
     ]
   }

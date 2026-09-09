@@ -1,5 +1,106 @@
 [
   {
+    "id": "824a0d19a108eeb56f987194e6b39d7a90d66c134220c81cdb1b2102118e3185",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Buy Analog-Mixed Signal Players MACOM, Monolithic & Semtech",
+    "author": "Na",
+    "published_utc": "2026-09-01T18:07:00Z",
+    "article_url": "https://www.zacks.com/commentary/2983350/buy-analog-mixed-signal-players-macom-monolithic-semtech?cid=CS-ZC-FT-industry_outlook-2983350",
+    "tickers": [
+      "MTSI",
+      "MPWR",
+      "SMTC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b1/85663.jpg",
+    "description": "The analog and mixed-signal semiconductor industry is positioned for solid growth in 2026, driven by AI infrastructure demand, industrial automation, and electric vehicle adoption. Despite rich valuations compared to the broader tech sector, capacity constraints in mature processes and strong end-market demand provide support. The industry trades at a 23.22X forward P/E multiple and has gained 37.4% over the past year, outperforming the S&P 500.",
+    "keywords": [
+      "analog semiconductors",
+      "mixed-signal semiconductors",
+      "AI infrastructure",
+      "data centers",
+      "industrial automation",
+      "electric vehicles",
+      "capacity constraints",
+      "semiconductor pricing",
+      "power management",
+      "optical connectivity"
+    ],
+    "insights": [
+      {
+        "ticker": "MTSI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong beneficiary of AI data-center buildout with expanding optical connectivity portfolio (800G, 1.6T, 3.2T). Recent earnings beat consensus by 4.5%, with 2026 and 2027 estimates up 9.1% and 22.7% respectively. Stock appreciated 105.8% in past year. Ranked #1 Strong Buy."
+      },
+      {
+        "ticker": "MPWR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from rising power requirements in AI infrastructure with Enterprise Data revenue surging 164.3% YoY. Diversified revenue streams across communications (up 78.3%), automotive (up 8.2%), and industrial (up 17.3%). Q2 earnings beat by 10.5%, with 2026-2027 estimates up 12.1% and 16.3%. Ranked #1 Strong Buy with 51.7% annual gain."
+      },
+      {
+        "ticker": "SMTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Benefiting from accelerating AI-driven data-center demand with data-center revenue up 91% YoY. Strong margin expansion (adjusted operating margin to 24.4% from 18.8% YoY) and diversified growth through LoRa IoT solutions. 2027 estimates jumped 42.7% in last seven days. Ranked #1 with 128.9% annual gain."
+      }
+    ]
+  },
+  {
+    "id": "7eb23783e9331bcf7e0c69787578f87fe2a0681a23179be5c1ee81301cf62e0e",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Monolithic Surges 54% in Past Year: Should You Jump on the Bandwagon?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-01T14:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983155/monolithic-surges-54-in-past-year-should-you-jump-on-the-bandwagon?cid=CS-ZC-FT-analyst_blog|investment_ideas-2983155",
+    "tickers": [
+      "MPWR",
+      "MCHP",
+      "MCHPP",
+      "MTSI"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/170201.webp",
+    "description": "Monolithic Power Systems (MPWR) has surged 53.9% over the past year, outperforming its industry peers, driven by strong demand for AI and cloud power solutions. The company benefits from its proprietary process technologies, growing traction in AI server power solutions, and diversified portfolio across automotive and industrial segments. Earnings estimates for 2026 and 2027 have increased significantly by 32.4% and 37.2% respectively, earning the stock a Zacks Rank #1 (Strong Buy) rating.",
+    "keywords": [
+      "AI infrastructure",
+      "power management solutions",
+      "data centers",
+      "semiconductor",
+      "earnings estimates",
+      "stock performance",
+      "cloud computing"
+    ],
+    "insights": [
+      {
+        "ticker": "MPWR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 54% year-over-year stock surge, outperforming industry average of 38.5%, supported by rising AI and cloud demand, significant earnings estimate increases (32.4% for 2026, 37.2% for 2027), Zacks Rank #1 Strong Buy rating, and expanding market opportunities in AI servers, automotive, and industrial segments."
+      },
+      {
+        "ticker": "MCHP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with modest 15.5% year-over-year gain, underperforming both MPWR and MACOM, indicating weaker relative performance in the semiconductor sector."
+      },
+      {
+        "ticker": "MCHPP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with modest 15.5% year-over-year gain, underperforming both MPWR and MACOM, indicating weaker relative performance in the semiconductor sector."
+      },
+      {
+        "ticker": "MTSI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 101.3% year-over-year surge, significantly outperforming both MPWR and the industry average, indicating robust market performance in the semiconductor/power solutions space."
+      }
+    ]
+  },
+  {
     "id": "6a1637d0e9910e7e6cf90e14cc1338761543a47a2b82f65c5c6dcbc7f8ba8b28",
     "publisher": {
       "name": "Benzinga",
@@ -129,155 +230,6 @@
         "ticker": "MPWR",
         "sentiment": "positive",
         "sentiment_reasoning": "Excellent dividend growth of 25%+ annualized over five years with latest 28% raise to $2/share. Record $751M quarterly revenue, backlog above 1.0 book-to-bill ratio, and returning three-quarters of free cash flow to shareholders. Bullish analyst outlook, though data center trend shifts pose risk."
-      }
-    ]
-  },
-  {
-    "id": "9e41be1a8f4a578db7d9e150936e88c1c724171dfb7b32bd2b2c57b52984fab5",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Trump Signals Iran Exit, S&P 500 Heads For Worst Month Since September 2022: What's Moving The Market On Tuesday?",
-    "author": "Piero Cingari",
-    "published_utc": "2026-03-31T17:27:07Z",
-    "article_url": "https://www.benzinga.com/markets/equities/26/03/51577677/stocks-rebound-7-month-lows-yields-fall-trump-iran-exit-markets-tuesday?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "META",
-      "NVDA",
-      "MSFT",
-      "ON",
-      "SNDK",
-      "MPWR",
-      "LLY",
-      "CEG",
-      "MKC",
-      "MKC.V",
-      "DELL",
-      "BIIB",
-      "CF"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/03/31/SP-500-Set-To-Surge-Like-Never-Before-Be.jpeg?width=1200&height=800&fit=crop",
-    "description": "U.S. equities staged their strongest rally in weeks on Tuesday following Trump's signals of willingness to end military hostilities with Iran. The S&P 500 advanced 1.8% to 6,456, though it remains down 6.2% for the month. Tech stocks led the recovery with the Nasdaq 100 rising 2%. Despite the rally, the S&P 500 is on track for its worst monthly performance since September 2022.",
-    "keywords": [
-      "stock market rally",
-      "Iran negotiations",
-      "Trump administration",
-      "tech sector recovery",
-      "S&P 500",
-      "Nasdaq 100",
-      "Strait of Hormuz",
-      "oil prices",
-      "semiconductor stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Surged 4.4% as part of broad tech sector recovery and Magnificent Seven rally"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Gained 3.6% as semiconductor and tech names benefited from rotation back into growth stocks"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rose 1.5% as part of tech sector recovery, though on track for worst quarter since Q4 2008"
-      },
-      {
-        "ticker": "ON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jumped 6.8% after receiving an upgrade to Buy rating"
-      },
-      {
-        "ticker": "SNDK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Gained 6.1% on strong AI data-center SSD demand"
-      },
-      {
-        "ticker": "MPWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rose 5.5% as chip and tech names broadly benefited from growth rotation"
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rose 2.5% after announcing $7.8 billion acquisition of Centessa Pharmaceuticals to expand pipeline"
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Sank 7.8% after 2026 earnings guidance came in below Street estimates despite nuclear fleet strength"
-      },
-      {
-        "ticker": "MKC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Tumbled 5.7% as initial earnings beat was overshadowed by investor concerns over $44.8 billion Unilever food business combination structure"
-      },
-      {
-        "ticker": "MKC.V",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Tumbled 5.7% as initial earnings beat was overshadowed by investor concerns over $44.8 billion Unilever food business combination structure"
-      },
-      {
-        "ticker": "DELL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 4.71% on the session"
-      },
-      {
-        "ticker": "BIIB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Fell 4.28% on the session"
-      },
-      {
-        "ticker": "CF",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 3.74% on the session"
-      }
-    ]
-  },
-  {
-    "id": "51c99722d56fa75b7e5ce725b8925476d44eee4f270ab4811cd6f92d75f50f45",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "A 28% Dividend Hike From the AI Stock You\u2019ve Never Heard Of",
-    "author": "Brett Owens",
-    "published_utc": "2026-03-25T11:32:00Z",
-    "article_url": "https://www.investing.com/analysis/a-28-dividend-hike-from-the-ai-stock-youve-never-heard-of-200677236",
-    "tickers": [
-      "MPWR",
-      "NVDA"
-    ],
-    "amp_url": "https://m.investing.com/analysis/a-28-dividend-hike-from-the-ai-stock-youve-never-heard-of-200677236?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Monolithic Power Systems (MPWR), a fabless chipmaker that designs power management chips for AI data centers, announced a 28% dividend increase. The company's specialized chips regulate electricity flow to keep AI processors cool and efficient. With a 25% annual dividend growth rate that doubles payouts every 2-3 years, the stock offers attractive long-term dividend growth potential for income investors seeking AI exposure beyond mainstream names like NVIDIA.",
-    "keywords": [
-      "AI chips",
-      "dividend growth",
-      "power management",
-      "data centers",
-      "fabless chipmaker",
-      "semiconductor",
-      "dividend yield"
-    ],
-    "insights": [
-      {
-        "ticker": "MPWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company announced a 28% dividend hike, maintains 25% annual dividend growth rate, has strong gross margins above 55%, and provides essential cooling/power management solutions for AI infrastructure with growing demand."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparison point for valuation (trading at 35x earnings) and as a beneficiary of MPWR's technology, but not the focus of the article's recommendation."
       }
     ]
   }

@@ -1,255 +1,258 @@
 [
   {
-    "id": "27fa6d0139c5fdcf2c18e2f8cfed9ad55e04984f105dc6d5542bddc6a26508e2",
+    "id": "339bd55583da4191d2b3c7b6ba4ecdc4d1bafc7e44029838b680bd17e9f50b7b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "$5,000 in Bloom Energy at Its COVID-Era Low Would Be Worth This Much Now",
-    "author": "Steven Porrello",
-    "published_utc": "2026-08-23T00:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/5000-in-bloom-energy-at-its-covid-low-would-be/?source=iedfolrf0000001",
+    "title": "SpaceX Built AI Data Centers So Fast, Some Ran Without Backup Power for Months. Now It Faces a $920 Million Deadline.",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-09-09T18:30:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/09/spacex-built-ai-data-centers-so-fast-some-ran-without-backup-power-for-months-now-it-faces-a-usd920-million-deadline/?source=iedfolrf0000001",
     "tickers": [
-      "BE"
+      "SPCX",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BE",
+      "NVDA",
+      "ORCL",
+      "ORCLpD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884233%2Fbloom-rooftop-2.jpg&w=1200&op=resize",
-    "description": "Bloom Energy reported its strongest quarter ever with revenue crossing $1 billion for the first time. The stock has surged significantly this year, with a $5,000 investment from the COVID-era low of $3 per share in March 2020 now worth approximately $337,000\u2014a 63-fold gain. While the stock has rallied substantially, analysts caution that such returns are unlikely to repeat and recommend keeping expectations realistic.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc9bdd288af1f6e4edf499325370759e54a071554-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "SpaceX has encountered reliability issues while rapidly expanding its AI data center infrastructure, with some facilities operating without backup power and cooling systems for months. The company faces a September 30 deadline to deliver 110,000 Nvidia GPUs to Google under a $920 million/month contract. To address these challenges, SpaceX is reshuffling its data center leadership team with executives from its rocket and Starlink divisions, delaying new projects, and building an in-house turbine blade manufacturing facility to accelerate deployment timelines.",
     "keywords": [
-      "Bloom Energy",
-      "stock performance",
-      "revenue growth",
-      "COVID-19 market recovery",
-      "energy sector",
-      "investment returns"
+      "AI data centers",
+      "infrastructure reliability",
+      "GPU capacity",
+      "supply chain constraints",
+      "leadership restructuring",
+      "manufacturing",
+      "contract deadline"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "SpaceX faces significant operational challenges with unreliable data center infrastructure, missed engineering targets, and a critical deadline risk. While the company is taking corrective actions, the execution risks and potential contract jeopardy present near-term concerns for investors."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
+      },
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Bloom Energy is positioned as a beneficiary of the AI data center boom, with the article highlighting its rapid fuel cell deployment capabilities as a competitive advantage in the accelerating data center buildout market."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nvidia benefits from the massive GPU demand in AI infrastructure expansion, with SpaceX's contract alone involving 110,000 Nvidia GPUs, demonstrating strong secular demand for its products."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
+      }
+    ]
+  },
+  {
+    "id": "862f5b72b579716a095ab63fd69af3b51b45170e1dca5feece758905d9e6607d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Bloom Energy Corporation of Class Action Lawsuit and Upcoming Deadlines \u2013 BE",
+    "author": "Pomerantz Llp",
+    "published_utc": "2026-09-08T20:51:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/08/3358154/1087/en/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-bloom-energy-corporation-of-class-action-lawsuit-and-upcoming-deadlines-be.html",
+    "tickers": [
+      "BE",
+      "PRIM",
+      "REGN"
+    ],
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/08/3358154/1087/en/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-bloom-energy-corporation-of-class-action-lawsuit-and-upcoming-deadlines-be.html",
+    "description": "Pomerantz Law Firm has filed class action lawsuits against Bloom Energy Corporation, Primoris Services Corporation, and Regeneron Pharmaceuticals, Inc., alleging securities fraud and unlawful business practices. The Bloom Energy lawsuit was triggered by a Hunterbrook Media report alleging the company relies on Chinese scandium in its supply chain, causing the stock to fall 5.67% on July 8, 2026. Investors have until September 28, 2026, to request Lead Plaintiff status.",
+    "keywords": [
+      "class action lawsuit",
+      "securities fraud",
+      "supply chain",
+      "Chinese scandium",
+      "stock price decline",
+      "investor losses"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud and undisclosed reliance on Chinese scandium in supply chain. Stock price fell 5.67% following negative media report on July 8, 2026."
+      },
+      {
+        "ticker": "PRIM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud or unlawful business practices, though specific allegations are not detailed in the provided excerpt."
+      },
+      {
+        "ticker": "REGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud or unlawful business practices, though specific allegations are not detailed in the provided excerpt."
+      }
+    ]
+  },
+  {
+    "id": "be2512a55bfb6185fbdfcd03da6169e4aa461724517a1fa65276566fe2a835df",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Top Stock Picks for Week of September 7, 2026",
+    "author": "Na",
+    "published_utc": "2026-09-08T20:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986641/top-stock-picks-for-week-of-september-7-2026?cid=CS-ZC-FT-video_blog-2986641",
+    "tickers": [
+      "BE",
+      "ANF"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default335.jpg",
+    "description": "Zacks highlights two Strong Buy stocks: Bloom Energy (BE), a renewable energy company with improved earnings outlook and strong technical momentum, and Abercrombie & Fitch (ANF), a specialty retailer benefiting from sales growth, inventory management, and raised fiscal 2026 guidance.",
+    "keywords": [
+      "renewable energy",
+      "specialty retail",
+      "Strong Buy",
+      "earnings growth",
+      "stock performance"
     ],
     "insights": [
       {
         "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "The company reported its strongest quarter ever with revenue exceeding $1 billion for the first time, achieved four consecutive quarters of year-over-year revenue growth, and the stock has delivered exceptional returns (63-fold gain from COVID lows). However, the sentiment is tempered by caution that such gains are unlikely to repeat and current valuations may limit future upside."
+        "sentiment_reasoning": "Company has Zacks Rank #1 (Strong Buy), consensus earnings estimate moved 43% higher in past quarter, broke multi-month downtrend with heavy volume, and returned 145.9% year-to-date."
+      },
+      {
+        "ticker": "ANF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company has Zacks Rank #1 (Strong Buy) with VGM Score of A, benefiting from broad-based sales growth, improved product acceptance, disciplined inventory management, and raised fiscal 2026 sales, margin and earnings outlook."
       }
     ]
   },
   {
-    "id": "c6934021e81ef6ab5dc10ee325ecdbdcc103a2c9dcb879bc29e929f39fc4b4ed",
+    "id": "e6e1df8afd8cdd183928752c54c2f1c182e11d23dd6724267ea8414c2179c785",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround",
-    "author": "Catie Hogan",
-    "published_utc": "2026-08-22T14:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/2-hydrogen-stocks-to-buy-in-august-if-you-believe/?source=iedfolrf0000001",
+    "title": "Plug Power Surges 10.1% YTD: Should Investors Ride the Rally?",
+    "author": "Na",
+    "published_utc": "2026-09-08T15:19:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986518/plug-power-surges-10-1-ytd-should-investors-ride-the-rally?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986518",
     "tickers": [
       "PLUG",
-      "BE"
+      "BE",
+      "FCEL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883499%2Fbloom-energy-and-plug-power-logo-the-motley-fool.png&w=1200&op=resize",
-    "description": "Plug Power and Bloom Energy represent two different hydrogen sector opportunities in August 2026. Plug Power is executing a turnaround with improving margins, cost cuts, and doubled deployed units, while Bloom Energy is capitalizing on AI data center demand with exceptional earnings growth and strong guidance. Both stocks offer growth potential for hydrogen sector believers, though Bloom trades at a premium valuation.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
+    "description": "Plug Power reported 11.1% revenue growth in H1 2026 driven by strong services and power purchase agreement revenues, along with major electrolyzer orders in Australia and the UK. However, the company posted a $433.5 million net loss, primarily due to convertible debt and warrant liability losses. While the stock underperforms peers and the broader market, its growing presence in green hydrogen and strong electrolyzer demand position it for long-term growth, though analysts recommend current shareholders hold and new investors wait for better entry points.",
     "keywords": [
-      "hydrogen stocks",
-      "Plug Power",
-      "Bloom Energy",
-      "AI data centers",
-      "fuel cells",
-      "turnaround",
-      "earnings growth",
-      "valuation"
+      "green hydrogen",
+      "electrolyzer",
+      "fuel cell",
+      "renewable energy",
+      "net loss",
+      "revenue growth",
+      "H1 2026 earnings"
     ],
     "insights": [
       {
         "ticker": "PLUG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is executing a successful turnaround with adjusted losses narrowing to $0.07 per share, gross margins approaching breakeven, 50% operating expense reduction, doubled deployed units, and 82% service revenue growth. Stock up 40% over past 12 months with strong cash position of $160M+ providing runway to hit targets."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed fundamentals with positive revenue growth (11.1%) and strong electrolyzer demand, but offset by significant net losses ($433.5M) and underperformance versus industry peers and S&P 500. Zacks Rank #3 (Hold) rating reflects cautious outlook with long-term potential but near-term concerns."
       },
       {
         "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional momentum driven by AI data center demand with operating earnings up 680% year-over-year, revenue exceeding $1 billion (165% growth), raised guidance, and $2.67 billion in cash. Stock up 140% in 2026 and 350% over 12 months. Primary concern is high valuation (P/E ratio near 300), but significant growth runway remains as AI power demand expands globally."
+        "sentiment_reasoning": "Significantly outperformed PLUG with 191% year-to-date gains, demonstrating stronger market performance in the fuel cell and green hydrogen sector."
+      },
+      {
+        "ticker": "FCEL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong performer with 104.5% year-to-date gains, outpacing PLUG's 10.1% return and indicating better investor confidence in the company's execution within the green hydrogen market."
       }
     ]
   },
   {
-    "id": "cdd5855f3f323984a2b7dbd85c884c897cdb035b2224a9e3d1072bb08fd2a786",
+    "id": "d64e9206a961cf61cdec4bd471e6500f0a40715051c67c366bb518ec1559380a",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Bloom Energy vs. Palantir: Which \"Story Stock\" Actually Has More Room to Run?",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-21T16:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/bloom-energy-vs-palantir-which-story-stock-actuall/?source=iedfolrf0000001",
+    "title": "Bloom Energy Outpaces Its Industry in a Month: Time to Buy the Stock?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-08T13:29:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986266/bloom-energy-outpaces-its-industry-in-a-month-time-to-buy-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986266",
     "tickers": [
       "BE",
-      "PLTR",
-      "ORCL",
-      "ORCLpD",
-      "AMZN",
-      "AAPL",
-      "BAM"
+      "TLN",
+      "PLUG"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884224%2Fvisualization-of-a-digital-brain.jpg&w=1200&op=resize",
-    "description": "Bloom Energy and Palantir are both high-growth \"story stocks\" with compelling narratives. Bloom's solid oxide fuel cells power data centers cleanly and rapidly, while Palantir's AI-powered data platform serves government and commercial clients. Despite both stocks rallying over 1,000% in three years, Bloom trades at a lower valuation (14x sales vs. Palantir's 50x) and grows faster (70% revenue CAGR vs. 58%), making it the more attractive near-term opportunity according to the analyst.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5b/2422.jpg",
+    "description": "Bloom Energy (BE) gained 20% in the past month, outperforming its industry and the S&P 500, driven by rising AI data-center demand and a $5B-to-$25B expansion of its Brookfield partnership for AI power infrastructure. The company raised 2026 revenue guidance to $3.9-$4.2 billion with expected 34% gross margins, though it trades at a premium valuation of 12.94X forward P/S versus the industry average of 4.89X. Despite expensive valuation, Zacks rates it a Strong Buy based on strong earnings performance and superior ROE.",
     "keywords": [
-      "solid oxide fuel cells",
-      "AI infrastructure",
-      "data centers",
-      "valuation comparison",
-      "growth stocks",
-      "energy technology",
-      "data analytics"
+      "AI data centers",
+      "distributed energy solutions",
+      "clean energy",
+      "solid oxide technology",
+      "S&P 500 inclusion",
+      "valuation premium",
+      "earnings growth"
     ],
     "insights": [
       {
         "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Lower valuation (14x sales, 66x EBITDA), faster revenue growth (70% CAGR), dominant market position in utility-scale SOFCs, $20B backlog, expected GAAP profitability in 2026, and analyst recommendation as the better pick between the two stocks."
+        "sentiment_reasoning": "Strong 20% monthly gain, raised revenue guidance, expanding AI power partnership from $5B to $25B, consistent earnings beats, superior ROE of 35.45% vs industry 7.14%, and Zacks Rank #1 Strong Buy rating support positive outlook despite premium valuation."
       },
       {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (58% CAGR), consistent GAAP profitability since 2023, S&P 500 inclusion, booming government business driven by military conflicts, and expanding commercial enterprise customer base. However, higher valuation (50x sales, 81x EBITDA) limits near-term upside potential."
+        "ticker": "TLN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lost 7.6% in the past month, underperforming its industry, sector, and S&P 500. Declining EPS estimates (-5.2% for 2026) indicate weakening financial performance."
       },
       {
-        "ticker": "ORCL",
+        "ticker": "PLUG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer using Bloom Energy's SOFCs in data centers, indicating adoption of the technology but no direct analysis of the company provided."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer using Bloom Energy's SOFCs in data centers, indicating adoption of the technology but no direct analysis of the company provided."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a Palantir Foundry platform customer and analyst holds position, but no specific analysis or sentiment provided in the article."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a Palantir Foundry platform customer and analyst holds position, but no specific analysis or sentiment provided in the article."
-      },
-      {
-        "ticker": "BAM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner funding Bloom Energy's fuel cell deployment, indicating confidence in the technology, but no direct investment recommendation or analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "3ca4814a2999e435fce5972c7c037788ab1b49103cb488dd356e880b2cb16646",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Bloom Energy Stock Crashed This Week",
-    "author": "Howard Smith",
-    "published_utc": "2026-08-21T15:10:51Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/why-bloom-energy-stock-crashed-this-week/?source=iedfolrf0000001",
-    "tickers": [
-      "BE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884391%2Fbloom-energy-logo-in-blue-and-silver-on-grey-metallic-server-be-1.jpg&w=1200&op=resize",
-    "description": "Bloom Energy stock fell 13.5% this week despite announcing a new Power Connect deployment system that reduces installation time by over 40%. The decline reflects profit-taking by investors, as the stock has already surged 125% year-to-date and is valued at $60 billion. While the company expects $4 billion in revenue this year (doubling last year's sales), the high valuation leaves limited room for near-term gains, though long-term investors may view the pullback as a buying opportunity.",
-    "keywords": [
-      "fuel cells",
-      "data center power",
-      "stock decline",
-      "profit-taking",
-      "valuation",
-      "deployment system",
-      "revenue growth"
-    ],
-    "insights": [
-      {
-        "ticker": "BE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The company announced positive product news (Power Connect system) and strong fundamentals (125% YTD gains, $4B revenue expected, growing backlog), but the stock declined 13.5% due to profit-taking and high valuation concerns. The mixed price action and balanced outlook for long-term vs. short-term investors warrant a neutral sentiment."
-      }
-    ]
-  },
-  {
-    "id": "4d1001b212a1d36801a16659923d00339a3d6acd4b66c24d9f6bad598957a5d6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Bloom Energy Calls Its Fuel Cells \"Lego Blocks.\" Here's Why That Word Choice Is the Whole Investment Thesis.",
-    "author": "Courtney Carlsen",
-    "published_utc": "2026-08-21T11:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/bloom-energy-calls-its-fuel-cells-lego-blocks-here/?source=iedfolrf0000001",
-    "tickers": [
-      "BE",
-      "ORCL",
-      "ORCLpD",
-      "BAM",
-      "NVDA",
-      "INTC",
-      "CRWV",
-      "NBIS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883070%2Fimage-shows-bloom-energy-servers.jpg&w=1200&op=resize",
-    "description": "Bloom Energy's modular, factory-manufactured solid-oxide fuel cells are experiencing historic demand from data center developers. The \"Lego block\" design enables rapid deployment, scalability, and flexibility, attracting major customers like Oracle and Brookfield Asset Management. The company reported record Q2 revenue of $1.065 billion (166% YoY growth) with expanding margins, driven by the urgent need for quickly deployable power solutions in the AI data center buildout.",
-    "keywords": [
-      "fuel cells",
-      "data centers",
-      "modular design",
-      "renewable energy",
-      "AI infrastructure",
-      "power deployment",
-      "solid-oxide fuel cells"
-    ],
-    "insights": [
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record revenue growth of 166% YoY, expanding gross margins, historic surge in demand, major contract wins from Oracle and Brookfield, and strong visibility on future deployments (25 GW). Stock has surged 2,078% since November 2024."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Committed to Bloom Energy for 2.45 GW power block at Project Jupiter AI factory, demonstrating significant investment in AI infrastructure expansion."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Committed to Bloom Energy for 2.45 GW power block at Project Jupiter AI factory, demonstrating significant investment in AI infrastructure expansion."
-      },
-      {
-        "ticker": "BAM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanded strategic financing framework with Bloom Energy fivefold from $5B to $25B, indicating major capital commitment to data center buildout powered by Bloom's fuel cells."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as driver of data center energy demands through cutting-edge chips, but no direct business relationship with Bloom Energy discussed."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a hyperscaler/technology company interested in Bloom's solutions, but no specific commitments or details provided."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler customer of Bloom Energy, but no specific details about commitments provided."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Selected Bloom Energy to power AI infrastructure buildout with expanded funding of up to $1.7B from Industrial Development Funding."
+        "sentiment_reasoning": "Mentioned as a comparable clean energy company with consistent earnings beats (17.83% average surprise) and lower valuation (3.26X P/S vs industry 4.89X), but no specific performance data or recommendation provided in the article."
       }
     ]
   }

@@ -1,0 +1,33 @@
+{
+  "ticker": "XE",
+  "name": "X-Energy, Inc. Class A Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0002088896",
+  "composite_figi": "BBG005DX1RC7",
+  "share_class_figi": "BBG005DX1RD6",
+  "market_cap": 5504834756.099999,
+  "phone_number": "240-552-7980",
+  "address": {
+    "address1": "251 LITTLE FALLS DRIVE",
+    "city": "WILMINGTON",
+    "state": "DE",
+    "postal_code": "19808"
+  },
+  "description": "X-Energy Inc operates as a designer of small modular nuclear reactors (SMRs) and nuclear fuel technologies. Its products include the Xe-100 high-temperature gas-cooled reactor and TRISO-X particle fuel, which are being developed for applications in grid power, industrial facilities, and artificial intelligence infrastructure.",
+  "sic_code": "3443",
+  "sic_description": "FABRICATED PLATE WORK (BOILER SHOPS)",
+  "ticker_root": "XE",
+  "homepage_url": "https://www.x-energy.com",
+  "list_date": "2026-04-24",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/eC1lbmVyZ3kuY29t/images/2026-09-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/eC1lbmVyZ3kuY29t/images/2026-09-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 287458734,
+  "round_lot": 100
+}

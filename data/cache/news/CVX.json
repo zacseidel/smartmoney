@@ -1,253 +1,267 @@
 [
   {
-    "id": "c6fda75c8d8b2c81e6d8cd4fd0fac0fe02a1b5e86f88943732eb481f2db2d3db",
+    "id": "b19e32432ae11d2c3ede34146257ae35fb4a64191ee3bde9192f05f156caad84",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Oil Prices Are Climbing, Yet These 3 Energy Stocks Yield 3%+",
+    "author": "Na",
+    "published_utc": "2026-09-09T12:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986960/oil-prices-are-climbing-yet-these-3-energy-stocks-yield-3?cid=CS-ZC-FT-analyst_blog|industry_focus-2986960",
+    "tickers": [
+      "EP",
+      "EPpC",
+      "KMI",
+      "CVX",
+      "CNQ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
+    "description": "Oil prices have climbed to three-month highs due to Middle East tensions and disrupted Gulf crude flows. For investors seeking energy exposure without relying solely on oil price appreciation, dividend-paying energy stocks like Kinder Morgan, Chevron, and Canadian Natural Resources offer recurring income and diversified cash flows with yields above 3%.",
+    "keywords": [
+      "energy stocks",
+      "dividend yields",
+      "oil prices",
+      "geopolitical tensions",
+      "Middle East",
+      "energy infrastructure",
+      "commodity volatility"
+    ],
+    "insights": [
+      {
+        "ticker": "EP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
+      },
+      {
+        "ticker": "EPpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
+      },
+      {
+        "ticker": "KMI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Integrated business with multiple cash flow sources across geographies, 90-year dividend maintenance/increase track record, 3.4% yield above sector average, and disciplined capital spending support shareholder returns."
+      },
+      {
+        "ticker": "CNQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large portfolio of long-life, low-decline assets with geographic diversification, 26 consecutive years of dividend increases, 3.6% yield above sector average, and strong balance sheet support income sustainability."
+      }
+    ]
+  },
+  {
+    "id": "79f5c314da2a7c991a38a771e67382f12024d08f97d0e09b008be281855e1322",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Dividend Stocks to Buy and Hold for the Next Decade, Starting With Chevron",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-24T18:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/24/3-dividend-stocks-to-buy-and-hold-for-the-next-dec/?source=iedfolrf0000001",
+    "title": "1 No-Brainer ETF I'm Loading Up on in 2026 and Beyond",
+    "author": "Stefon Walters",
+    "published_utc": "2026-09-08T18:37:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/1-no-brainer-etf-im-loading-up-on-in-2026-and-beyo/?source=iedfolrf0000001",
+    "tickers": [
+      "SCHD",
+      "MRK",
+      "AMGN",
+      "ABT",
+      "KO",
+      "CVX",
+      "UNH",
+      "PG"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886467%2Fbusinesswoman-reading-financial-newspaper-stocks-invest-money-getty.jpg&w=1200&op=resize",
+    "description": "The Schwab U.S. Dividend Equity ETF (SCHD) is recommended as a core holding for long-term investors seeking diversified dividend income. With a 3% dividend yield (three times higher than S&P 500 ETFs), low 0.06% expense ratio, and exposure to stable sectors like healthcare and consumer staples, SCHD offers attractive passive income potential. The ETF has delivered 29% total returns year-to-date and is particularly suitable for tax-advantaged accounts like Roth IRAs.",
+    "keywords": [
+      "dividend ETF",
+      "passive income",
+      "SCHD",
+      "dividend yield",
+      "long-term investing",
+      "tax-free compounding",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "SCHD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article strongly endorses SCHD as a 'no-brainer' investment, highlighting its attractive 3% dividend yield (3x S&P 500), low expense ratio (0.06%), diversified holdings across stable sectors, and strong year-to-date performance (29% returns). The author explicitly states they are 'loading up' on it and recommends it for long-term holding."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a top holding (4.88%) of SCHD, indicating it meets the ETF's rigorous dividend criteria and represents a solid, cash-flow-heavy company with a proven track record."
+      },
+      {
+        "ticker": "AMGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding in SCHD (4.81%), representing a high-quality healthcare company meeting the ETF's dividend vetting standards."
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest holding in SCHD (4.63%), indicating strong fundamentals and dividend reliability as part of the diversified portfolio."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a top SCHD holding, representing a mature, cash-flow-heavy consumer staples company with proven dividend track record."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a top SCHD holding in the energy sector, representing a stable, dividend-paying company within the diversified portfolio."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a top SCHD holding in the healthcare sector, representing a quality company meeting the ETF's dividend criteria."
+      },
+      {
+        "ticker": "PG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a top SCHD holding in consumer staples, representing a mature, cash-flow-heavy company with strong dividend history."
+      }
+    ]
+  },
+  {
+    "id": "1aa16b71f4a64891588eb7434ce1f10561373c26e3575c895bda9b9f58ebea5e",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Chevron's Venezuela JV Expansion: Time to Buy, Sell or Hold the Stock?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-08T13:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986250/chevron-s-venezuela-jv-expansion-time-to-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986250",
     "tickers": [
       "CVX",
-      "WMB"
+      "E",
+      "REPYY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884218%2Fcouple-cash-shower.jpg&w=1200&op=resize",
-    "description": "The article recommends three energy sector dividend stocks for long-term investors: Chevron, ExxonMobil, and Williams Companies. Chevron and ExxonMobil are positioned as future Dividend Kings with strong dividend histories and low payout ratios, while Williams is highlighted as a midstream company with AI infrastructure exposure through its natural gas pipeline network serving data centers.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a4/2005.jpg",
+    "description": "Chevron plans over $7 billion in Venezuela investment targeting 600,000 barrels per day production, leveraging strong Q2 cash flow and faster-than-expected Hess synergies. However, the stock trades at a premium valuation compared to peers Eni and Repsol while facing geopolitical and execution risks in Venezuela. Analysts recommend a Hold rating, suggesting existing shareholders stay invested but new investors wait for better valuations.",
     "keywords": [
-      "dividend stocks",
-      "energy sector",
-      "long-term investing",
-      "dividend kings",
-      "midstream pipelines",
-      "AI infrastructure",
-      "natural gas"
+      "Venezuela expansion",
+      "oil production",
+      "capital investment",
+      "geopolitical risk",
+      "valuation premium",
+      "cash flow",
+      "energy sector"
     ],
     "insights": [
       {
         "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including $22.6B operating cash flow, record production growth, and successful Hess synergies are offset by premium valuation (P/E 13.68), underperformance versus peers, and significant Venezuela geopolitical/execution risks. Zacks Rank #3 (Hold) reflects balanced risk-reward."
+      },
+      {
+        "ticker": "E",
         "sentiment": "positive",
-        "sentiment_reasoning": "39 consecutive years of dividend increases with path to Dividend King status, diversified global operations, low break-even oil price ($50/barrel), 3.5% forward yield, and low 67% payout ratio providing room for future growth."
+        "sentiment_reasoning": "Significant Venezuelan exposure with 50% stake in Card\u00f3n IV and exclusive operator of Jun\u00edn-5 area (35 billion barrels). Stock outperformed CVX with 54.6% gain over past year and trades at lower forward P/E of 10.08, suggesting better valuation."
+      },
+      {
+        "ticker": "REPYY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Venezuelan positioning with 40% of Petroquiriquire and 50% of Card\u00f3n IV. Best performer among peers with 90.3% gain over past year and lowest forward P/E of 7.16, indicating market confidence and attractive valuation."
+      }
+    ]
+  },
+  {
+    "id": "b049c7ba21a2ae25513cd19d4d2285c3e3075bfd4f8a17105dbe3ca896ae29b9",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "2 Safe High-Yield Energy Dividend Stocks You've Probably Never Heard Of",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-07T17:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/07/3-safe-energy-dividends-youve-probably-never-heard/?source=iedfolrf0000001",
+    "tickers": [
+      "KRP",
+      "WMB",
+      "CVX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886279%2Foil-rig-in-oil-field.jpg&w=1200&op=resize",
+    "description": "The article highlights two overlooked energy dividend stocks: Kimbell Royalty Partners, which owns mineral rights to 17 million acres and generates steady cash from oil and gas production with a 10.75% dividend yield, and Williams Companies, a midstream pipeline operator with exposure to the AI boom through data center natural gas supply, offering a 2.76% yield with strong growth prospects.",
+    "keywords": [
+      "energy dividend stocks",
+      "mineral royalties",
+      "midstream pipeline",
+      "AI infrastructure",
+      "high-yield dividends",
+      "natural gas",
+      "data centers"
+    ],
+    "insights": [
+      {
+        "ticker": "KRP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company offers a reliable, high-yield dividend (10.75%), low-risk business model with minimal capex, and 27% year-over-year CAD growth. Trades at attractive valuation (less than 6x next year's EBITDA) with expected 5% CAGR through 2028."
       },
       {
         "ticker": "WMB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as an AI infrastructure play with 30% of U.S. natural gas transportation, 10 consecutive years of dividend increases, 2.91% forward yield, stable toll-based revenue model insulated from commodity price volatility, and growth potential in data center infrastructure."
+        "sentiment_reasoning": "Strong midstream operator with unique AI infrastructure exposure through data center natural gas supply. AFFO grew 17% year-over-year with 2.5x dividend coverage, trades at reasonable 13x forward EBITDA, and analysts expect 13% EBITDA CAGR through 2028."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a traditional integrated energy giant that investors typically focus on, but article suggests smaller alternatives like KRP and WMB offer better opportunities with higher yields or more stable models."
       }
     ]
   },
   {
-    "id": "f5b43d1f4f3fff0340ed197c383c1c9be29e27ca570ad3f0397fec42d660b93a",
+    "id": "f4178b9bd383bdfe57a39172da23fe127f664999ea64c8cfce3500b27479a8af",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Which Energy ETF Is a Better Buy: Broad Vanguard Fund or Concentrated XLE?",
-    "author": "Seena Hassouna",
-    "published_utc": "2026-08-23T05:04:01Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/08/23/which-energy-etf-is-a-better-buy-broad-vanguard-fund-or-concentrated-xle/?source=iedfolrf0000001",
+    "title": "Chevron Stayed in Venezuela for 20 Years While Rivals Left. Here's Why Its CEO Says Patience Pays Off.",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-09-06T19:15:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/06/chevron-stayed-in-venezuela-for-20-years-while-rivals-left-here-s-why-its-ceo-says-patience-pays-off/?source=iedfolrf0000001",
     "tickers": [
-      "XLE",
-      "VDE",
       "CVX",
       "COP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F66026f7773699286c73c3ab5f122b4888e5c42a9-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "State Street Energy Select Sector SPDR ETF (XLE) and Vanguard Energy ETF (VDE) both provide energy sector exposure with nearly identical 1-year returns of ~54%, but differ significantly in portfolio concentration. XLE focuses on 21 large-cap energy stocks with a slightly lower expense ratio (0.08% vs 0.09%), while VDE offers broader diversification with 112 holdings including mid-cap and small-cap companies. The choice depends on investor preference: XLE for concentrated exposure to major producers, or VDE for a more resilient, diversified energy bet.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff5a7938388594caff323cd143c66f2540f0e9eba-6144x4096.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Chevron has signed a landmark deal to significantly expand its Venezuela operations and double output over five years, capitalizing on its decision to remain in the country after rivals ExxonMobil and ConocoPhillips exited in 2007. The company plans to invest over $7 billion to increase production to 600,000 barrels per day with costs under $20 per barrel, positioning it ahead of competitors now evaluating re-entry.",
     "keywords": [
-      "energy ETF",
-      "portfolio diversification",
-      "sector exposure",
-      "dividend yield",
-      "expense ratio",
-      "large-cap vs mid-cap"
+      "Venezuela oil operations",
+      "long-term strategy",
+      "production expansion",
+      "competitive advantage",
+      "low-cost resources",
+      "joint ventures",
+      "Orinoco Oil Belt"
     ],
     "insights": [
       {
-        "ticker": "XLE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "XLE is presented as a viable option for investors seeking concentrated exposure to the largest energy producers with slightly lower fees and higher liquidity. However, it carries higher concentration risk with only 21 holdings, making it less resilient to individual company setbacks."
-      },
-      {
-        "ticker": "VDE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "VDE is recommended as the better choice for most investors due to its broader diversification across 112 holdings, including mid-cap and small-cap energy companies. This provides a more resilient portfolio that smooths volatility when major companies face challenges, while delivering comparable returns to XLE."
-      },
-      {
         "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Chevron is noted as the second-largest holding in both funds (14.93% in XLE, 13.50% in VDE), contributing to concentration risk but without specific performance commentary."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Chevron's patience in Venezuela is paying off with a landmark expansion deal, improved fiscal terms, planned $7B investment, and significant production growth potential (280K to 600K barrels/day) at low costs, providing competitive advantage over rivals."
       },
       {
         "ticker": "COP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "ConocoPhillips is mentioned as a top-3 holding in both funds (6.29% in XLE, 5.51% in VDE) but receives no specific positive or negative assessment."
-      }
-    ]
-  },
-  {
-    "id": "09b48a6e2f68a69ba4a545e5a64cfda89277baaa73df7a5cfe1882db09ea3f4d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Can This 6.3% Yield Survive if Oil Crashes Again?",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-08-22T19:15:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/can-this-6-3-yield-survive-if-oil-crashes-again/?source=iedfolrf0000001",
-    "tickers": [
-      "ET",
-      "ETpI",
-      "EPD",
-      "CVX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6ae8a09f9968c0b0c09e1ba0f37ad43828d21bcf-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Energy Transfer offers an attractive 6.3% yield as a master limited partnership, but investors should consider whether its distribution can survive another energy downturn. The company cut its distribution in half during the 2020 energy crisis, though it has since strengthened its balance sheet with improved debt-to-EBITDA ratios. The article compares Energy Transfer to Enterprise Products Partners, suggesting Energy Transfer is riskier but potentially more rewarding for aggressive income investors.",
-    "keywords": [
-      "master limited partnership",
-      "dividend yield",
-      "energy sector",
-      "distribution sustainability",
-      "midstream infrastructure",
-      "debt-to-EBITDA",
-      "distributable cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "ET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents a balanced view: while the company offers an attractive 6.3% yield and has improved its financial position since 2020, it remains more leveraged than peers and cut its distribution in half during the last downturn. Suitable for aggressive investors but carries higher risk."
-      },
-      {
-        "ticker": "ETpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents a balanced view: while the company offers an attractive 6.3% yield and has improved its financial position since 2020, it remains more leveraged than peers and cut its distribution in half during the last downturn. Suitable for aggressive investors but carries higher risk."
-      },
-      {
-        "ticker": "EPD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as the safer alternative with a 28-year track record of annual distribution increases, lower leverage (3.3x debt-to-EBITDA), and strong distribution coverage (1.9x). Recommended for conservative investors seeking reliability."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major energy company with views on commodity pricing; no specific investment recommendation or analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "50f73526597285df8fcd603da2986ebefa86813eba06fad02832bdd0702cbabf",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Shell and the Other Oil Majors Aren't Price Gouging",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-08-22T14:15:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/why-shell-and-the-other-oil-majors-aren-t-price-gouging/?source=iedfolrf0000001",
-    "tickers": [
-      "SHEL",
-      "CVX",
-      "TOT",
-      "TTE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F01cf8d197428016aa55f6c9fe29466e7912f5ddc-2121x1414.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Oil majors Shell, ExxonMobil, and Chevron are facing accusations of price gouging from politicians amid elevated energy prices and strong profits. However, the article argues these companies don't control oil prices\u2014the market does. Oil and gasoline are commodities, and energy companies' profits naturally rise and fall with market prices. The article recommends investing in integrated energy majors for portfolio diversification and attractive dividend yields.",
-    "keywords": [
-      "price gouging",
-      "oil majors",
-      "energy sector",
-      "commodity prices",
-      "geopolitical conflict",
-      "dividend yields",
-      "portfolio diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "SHEL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article defends Shell against price-gouging accusations and recommends it as a strong integrated energy major with attractive 3.4% dividend yield and decades of dividend growth potential for conservative investors."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article defends Chevron against price-gouging accusations and recommends it as a strong integrated energy major with 3.5% dividend yield and long history of dividend growth."
-      },
-      {
-        "ticker": "TOT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an example of a company addressing price-gouging concerns by instituting fuel price caps in France, but no investment recommendation provided."
-      },
-      {
-        "ticker": "TTE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an example of a company addressing price-gouging concerns by instituting fuel price caps in France, but no investment recommendation provided."
-      }
-    ]
-  },
-  {
-    "id": "d38461f384973b32d74cf6e36ef3e751eef17e0726388b68856da89154641177",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Energy Stock Pays an 8% Dividend, and Nobody's Talking About It",
-    "author": "Todd Shriber",
-    "published_utc": "2026-08-21T20:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/this-energy-stock-pays-an-8-dividend-and-nobodys-t/?source=iedfolrf0000001",
-    "tickers": [
-      "HESM",
-      "CVX",
-      "EPD",
-      "ET",
-      "ETpI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883518%2Fgettyimages-1189081858.jpg&w=1200&op=resize",
-    "description": "Hess Midstream (HESM) is an overlooked energy stock offering a 7.7% dividend yield with a 37-quarter streak of consecutive dividend increases. The midstream operator benefits from a long-term relationship with Chevron, providing stable cash flows and supporting its 5% annualized dividend growth target through 2028. The company also pursues share buybacks and debt reduction, offering attractive income potential for dividend investors.",
-    "keywords": [
-      "dividend yield",
-      "midstream energy",
-      "dividend growth",
-      "Bakken region",
-      "shareholder returns",
-      "pipeline stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "HESM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights Hess Midstream's attractive 7.7% dividend yield, consistent 37-quarter dividend increase streak, stable Chevron relationship providing revenue clarity, and shareholder-friendly capital allocation including buybacks and debt reduction. The stock is presented as undervalued and overlooked by the market."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Chevron is mentioned as a major customer and stakeholder in Hess Midstream through its 37.8% ownership stake acquired via the Hess Corp. acquisition. The relationship is described as providing stability and long-term fee-driven agreements, but Chevron itself is not the focus of the article's investment thesis."
-      },
-      {
-        "ticker": "EPD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Enterprise Products is briefly mentioned as one of the few high-yield energy stocks alongside Energy Transfer, but receives no detailed analysis or recommendation in the article."
-      },
-      {
-        "ticker": "ET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Energy Transfer is mentioned as a comparable high-yield pipeline stock but receives no detailed analysis or specific investment commentary in the article."
-      },
-      {
-        "ticker": "ETpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Energy Transfer is mentioned as a comparable high-yield pipeline stock but receives no detailed analysis or specific investment commentary in the article."
+        "sentiment_reasoning": "ConocoPhillips exited Venezuela in 2007 and has been pursuing a $12B arbitration award. Like ExxonMobil, it is evaluating potential re-entry but remains significantly behind Chevron's established position."
       }
     ]
   }

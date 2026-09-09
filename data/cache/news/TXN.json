@@ -1,300 +1,260 @@
 [
   {
-    "id": "5071cb1d4e802097a4d0173136a2c3b0a80098daaebe8a603712854572f1f79b",
+    "id": "915f1f4ea8316f1c9d591dba55c4fb4c92e4cf4d1a60001f8e49cfabd775d970",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Gate Driver IC Market Size to Surpass USD 2.91 Billion by 2035 | Research by SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-08-04T07:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/04/3338059/0/en/Gate-Driver-IC-Market-Size-to-Surpass-USD-2-91-Billion-by-2035-Research-by-SNS-Insider.html",
+    "title": "MCHP Rides on Open-Standard Connectivity: Can It Beat ADI & TXN?",
+    "author": "Na",
+    "published_utc": "2026-09-09T18:34:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2987311/mchp-rides-on-open-standard-connectivity-can-it-beat-adi-txn?cid=CS-ZC-FT-analyst_blog|quick_take-2987311",
     "tickers": [
-      "IFNNY",
-      "TXN",
-      "STM",
-      "NXPI",
-      "ADI",
-      "ON",
       "MCHP",
       "MCHPP",
-      "POWI"
+      "TXN",
+      "ADI"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global Gate Driver IC market is expected to expand at a CAGR of 5.19% through 2035, driven by electric vehicle adoption, renewable energy infrastructure development, and advanced power electronics. The U.S. market will grow from USD 0.45B to USD 0.78B, while Europe is estimated to reach USD 0.75B by 2035. High voltage gate driver ICs and silicon carbide semiconductors are expected to see the strongest growth, with Asia Pacific currently dominating at 38.76% market share.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/170201.webp",
+    "description": "Microchip Technology (MCHP) is expanding its automotive connectivity portfolio with an open-standard ASA Motion Link (ASA-ML) display connectivity solution for software-defined vehicles. The company's automotive business is gaining momentum with 29.3% year-over-year sales growth and automotive representing 15% of Q1 FY2027 revenues. However, MCHP faces intense competition from Texas Instruments and Analog Devices, both of which have strong automotive portfolios and growing market share. MCHP trades at a forward P/E of 18.33 and holds a Zacks Rank #3 (Hold) rating.",
     "keywords": [
-      "gate driver IC",
-      "electric vehicles",
-      "renewable energy",
-      "power electronics",
-      "silicon carbide",
-      "gallium nitride",
-      "semiconductor market"
+      "automotive connectivity",
+      "software-defined vehicles",
+      "display connectivity",
+      "ADAS",
+      "infotainment",
+      "semiconductor",
+      "competitive positioning"
     ],
     "insights": [
       {
-        "ticker": "IFNNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a leading market player in the growing gate driver IC market, positioned to benefit from increased demand in EV, renewable energy, and industrial automation sectors"
-      },
-      {
-        "ticker": "TXN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in gate driver IC market with exposure to high-growth applications including EV charging, battery storage systems, and solar inverters"
-      },
-      {
-        "ticker": "STM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market participant positioned to capitalize on growing demand for power management solutions across automotive, industrial, and renewable energy applications"
-      },
-      {
-        "ticker": "NXPI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as leading player in expanding gate driver IC market with strong positioning in automotive and industrial power electronics segments"
-      },
-      {
-        "ticker": "ADI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major competitor in gate driver IC market benefiting from growth in power conversion, energy storage, and industrial motor drive applications"
-      },
-      {
-        "ticker": "ON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with exposure to high-growth segments including EV power electronics and renewable energy systems"
-      },
-      {
         "ticker": "MCHP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading player in gate driver IC market positioned to benefit from industrial automation and power management system growth"
+        "sentiment_reasoning": "MCHP is expanding its automotive portfolio with innovative open-standard solutions, achieving strong 29.3% YoY automotive sales growth, and leveraging its broad semiconductor capabilities to compete for multiple sockets in software-defined vehicles."
       },
       {
         "ticker": "MCHPP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading player in gate driver IC market positioned to benefit from industrial automation and power management system growth"
+        "sentiment_reasoning": "MCHP is expanding its automotive portfolio with innovative open-standard solutions, achieving strong 29.3% YoY automotive sales growth, and leveraging its broad semiconductor capabilities to compete for multiple sockets in software-defined vehicles."
       },
-      {
-        "ticker": "POWI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specialized gate driver IC manufacturer well-positioned for growth in high-efficiency power electronics and renewable energy applications"
-      }
-    ]
-  },
-  {
-    "id": "f38ac148eb4855f8187eb1739f5af5dfead452a5063b548a8de80c41bb856593",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Texas Instruments Stock Is Down 16% From Its 52-Week High. Is It a Buy?",
-    "author": "John Ballard",
-    "published_utc": "2026-08-01T09:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/01/texas-instruments-stock-down-16-high-buy/?source=iedfolrf0000001",
-    "tickers": [
-      "TXN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880725%2Fcomputer-chip.jpg&w=1200&op=resize",
-    "description": "Texas Instruments shares have declined 16% from their 52-week high despite strong Q2 earnings (23% revenue growth, 52% EPS growth) and doubled data center revenue. The stock sell-off was driven by soft Q3 guidance below analyst expectations, though management attributes this to timing of price increases rather than weak demand. The company benefits from AI infrastructure buildout, strong industrial demand, and offers an attractive 2.1% dividend yield with 22 consecutive years of increases.",
-    "keywords": [
-      "semiconductor",
-      "data center",
-      "AI infrastructure",
-      "earnings growth",
-      "dividend yield",
-      "guidance",
-      "analog chips",
-      "industrial demand"
-    ],
-    "insights": [
       {
         "ticker": "TXN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent stock decline, the article highlights strong fundamentals including 23% revenue growth, 52% EPS growth, doubled data center revenue, broad-based industrial demand growth (30% YoY), solid automotive growth, competitive manufacturing advantages, and an attractive dividend yield of 2.1% with 22 consecutive years of increases. Soft Q3 guidance is attributed to timing of price increases rather than demand weakness, and management expects stronger results in Q4. The company is well-positioned to benefit from AI infrastructure investment."
+        "sentiment_reasoning": "TXN demonstrates strong competitive positioning with mid-teens automotive revenue growth, capacity investments supporting accelerating demand, and significant generation-over-generation content growth opportunities."
+      },
+      {
+        "ticker": "ADI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ADI shows strong automotive fundamentals with 25% of revenues from automotive, 16% YoY growth, and leadership in ADAS and infotainment systems, positioning it as a formidable competitor to MCHP."
       }
     ]
   },
   {
-    "id": "a3d4ebe77dee1b34d9d66647ae7e0401979b686c6e28f91749f89dad7ec3c950",
+    "id": "ee85a5d2d4847314910a9a9f811a301df4b02e6aa6d3071f0cdeac69c96fc7d3",
     "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Nvidia Is Finally Cheap: Here\u2019s How to Buy It and Get a 7.4% Dividend",
-    "author": "Michael Foster",
-    "published_utc": "2026-07-16T10:39:00Z",
-    "article_url": "https://www.investing.com/analysis/nvidia-is-finally-cheap-heres-how-to-buy-it-and-get-a-74-dividend-200684038",
+    "title": "ADI Declines 5.6% in a Month: Time to Buy, Sell or Hold the Stock?",
+    "author": "Na",
+    "published_utc": "2026-09-07T14:05:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985844/adi-declines-5-6-in-a-month-time-to-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985844",
+    "tickers": [
+      "ADI",
+      "TXN",
+      "STM",
+      "NXPI"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cb/577.jpg",
+    "description": "Analog Devices (ADI) is experiencing strong growth driven by industrial demand recovery and expanding AI data center activity, particularly in optical and power applications. The company expects optical circuit switching revenues to roughly double in fiscal 2026 and 2027. ADI's adjusted gross margin reached 72.5% and operating margin expanded to 50% in Q3, though the stock trades at a premium valuation of 9.76X forward P/S compared to the industry average of 7.74X. Analysts recommend buying the stock citing broad-based recovery and durable growth prospects.",
+    "keywords": [
+      "Analog Devices",
+      "AI data centers",
+      "optical circuit switching",
+      "industrial demand",
+      "power management",
+      "semiconductor",
+      "margin expansion",
+      "800V power distribution"
+    ],
+    "insights": [
+      {
+        "ticker": "ADI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth in industrial segment (53% YoY), significant margin expansion (gross margin to 72.5%, operating margin to 50%), expected optical revenue doubling in fiscal 2026-2027, and analyst Buy recommendation support positive outlook despite premium valuation."
+      },
+      {
+        "ticker": "TXN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a key competitor with manufacturing scale advantages, but no specific performance data or outlook provided in the article."
+      },
+      {
+        "ticker": "STM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in analog and mixed-signal semiconductors, but no specific performance metrics or competitive advantages discussed."
+      },
+      {
+        "ticker": "NXPI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a competitor in analog and mixed-signal solutions for mobile and IoT markets, but no specific performance data or outlook provided."
+      }
+    ]
+  },
+  {
+    "id": "ca42fee40502b88cba95b43954e492e4c1ae8229e8ebed472189717fa0e1c813",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T12:36:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985713/buy-these-5-semiconductor-stocks-as-sales-skyrocket-on-solid-ai-demand?cid=CS-ZC-FT-analyst_blog|investment_ideas-2985713",
+    "tickers": [
+      "ADI",
+      "TSM",
+      "TXN",
+      "NVDA",
+      "ACMR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f5/1013.jpg",
+    "description": "Global semiconductor sales reached $146.8 billion in July, up 6.4% sequentially and 135.1% year-over-year, marking 17 consecutive months of growth. Driven by strong AI demand and robust earnings from major chip companies, five semiconductor stocks are recommended as attractive investment opportunities with significant growth potential.",
+    "keywords": [
+      "semiconductor stocks",
+      "AI demand",
+      "chip sales growth",
+      "earnings growth",
+      "technology investment"
+    ],
+    "insights": [
+      {
+        "ticker": "ADI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 66.4% for current year with consensus estimate improved 5.2% over past 60 days; carries Zacks Rank #2 (Buy)"
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 7.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
+      },
+      {
+        "ticker": "TXN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 10.3% over past 60 days; carries Zacks Rank #2 (Buy)"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Leads the group with highest expected earnings growth of 93.3% for current year; carries Zacks Rank #1 (Strong Buy)"
+      },
+      {
+        "ticker": "ACMR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 27.3% for current year with consensus estimate jumped 49.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
+      }
+    ]
+  },
+  {
+    "id": "724df5df31d081bc7bf5cdebaaa8fc2de2c566e1c6c16ba78fa939e5f1c92d24",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Nvidia's $13 Billion Hugging Face Deal Expands Open-Source AI",
+    "author": "Na",
+    "published_utc": "2026-09-04T12:18:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984931/nvidia-s-13-billion-hugging-face-deal-expands-open-source-ai?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2984931",
     "tickers": [
       "NVDA",
-      "MU",
-      "AVGO",
-      "ASML",
-      "TXN",
-      "SMH"
+      "INTC",
+      "TXN"
     ],
-    "amp_url": "https://m.investing.com/analysis/nvidia-is-finally-cheap-heres-how-to-buy-it-and-get-a-74-dividend-200684038?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The article argues that semiconductor stocks, particularly NVIDIA and Micron, have been unfairly sold off despite strong underlying demand and reasonable valuations. The author recommends the BlackRock Technology and Private Equity Term Trust (BTX), a closed-end fund yielding 7.4% that holds these undervalued semiconductor stocks and is trading at a 13.7% discount to NAV that is narrowing, presenting an attractive opportunity for dividend income and capital appreciation.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+    "description": "Nvidia announced a $12.9 billion acquisition of Hugging Face, a major open-source AI platform with 18 million users and 3 million models. The deal, expected to close in 2027, aims to strengthen Nvidia's AI ecosystem and drive demand for its computing infrastructure as competitors develop their own AI chips. Nvidia's stock gained 1.8% following the announcement.",
     "keywords": [
-      "semiconductors",
-      "AI demand",
-      "valuation",
-      "dividend yield",
-      "closed-end fund",
-      "profit-taking",
-      "tech stocks",
-      "NAV discount"
+      "Nvidia acquisition",
+      "Hugging Face",
+      "artificial intelligence",
+      "open-source AI",
+      "AI ecosystem",
+      "semiconductor industry"
     ],
     "insights": [
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Trading at 32.3 P/E ratio, cheaper than S&P 500 average (32.6), with skyrocketing sales growth. Recent selloff is characterized as overblown despite strong AI demand fundamentals."
+        "sentiment_reasoning": "Major strategic acquisition to expand AI ecosystem and developer platform control; stock gained 1.8% on announcement; maintains Zacks Rank #1 (Strong Buy) rating; acquisition strengthens competitive moat in AI hardware and software integration"
       },
       {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading at 22.2 P/E ratio, significantly cheaper than broader market, with exceptional revenue growth. Positioned as undervalued despite recent semiconductor sector decline."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 67.9% year-over-year sales increase with sold-out capacity on advanced nodes, demonstrating strong AI chip demand and market strength."
-      },
-      {
-        "ticker": "AVGO",
+        "ticker": "INTC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at expensive 67x P/E ratio, indicating overvaluation relative to growth peers despite being a semiconductor industry player."
-      },
-      {
-        "ticker": "ASML",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at elevated 59.9x P/E ratio, considered pricey compared to faster-growing semiconductor companies like NVIDIA and Micron."
+        "sentiment_reasoning": "Mentioned as industry peer with strong year-to-date performance (+148.5%), but Nvidia's aggressive ecosystem expansion may intensify competitive pressure in AI market; holds Zacks Rank #3 (Hold)"
       },
       {
         "ticker": "TXN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at 53.3x P/E ratio with 78.2% YTD returns, indicating expensive valuation despite strong performance, suggesting limited upside."
-      },
-      {
-        "ticker": "SMH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Passive index tracking forces holding of both overvalued and undervalued semiconductor stocks, offers only 0.2% dividend yield, and lacks active management to optimize portfolio."
+        "sentiment_reasoning": "Mentioned as industry peer with solid performance (+46.3% YTD); Zacks Rank #2 (Buy); no direct impact from Nvidia's acquisition strategy noted"
       }
     ]
   },
   {
-    "id": "c9c1145e1d46cc1e4cd3d3694d4fb7150f6f14eee5c28c7e34c223478c3c9500",
+    "id": "aee7d6888ec5cc5f8985cafc7ee1d63fbcf28549eebca3d9e1b5583e577cf8a4",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Automotive Microcontrollers Market Size to Worth USD 34.31 Billion by 2035 | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-16T07:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328249/0/en/Automotive-Microcontrollers-Market-Size-to-Worth-USD-34-31-Billion-by-2035-SNS-Insider.html",
+    "title": "Should You Buy Texas Instruments Stock Despite Its Premium Valuation?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-03T12:34:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984227/should-you-buy-texas-instruments-stock-despite-its-premium-valuation?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2984227",
     "tickers": [
-      "IFNNY",
-      "NXPI",
-      "STM",
       "TXN",
-      "MCHP",
-      "MCHPP"
+      "NVDA",
+      "ADI",
+      "ASYS"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global automotive microcontrollers market, valued at $15.49 billion in 2025, is expected to grow to $34.31 billion by 2035 at a CAGR of 8.28%. Growth is driven by ADAS adoption, vehicle electrification, and software-defined vehicle architectures. Asia Pacific leads with 46% market share, while North America is expected to register the highest growth rate.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/23/4158.jpg",
+    "description": "Texas Instruments (TXN) trades at a premium valuation of 26.97x forward P/E compared to the sector average of 20.22x, but the article argues this is justified. The company delivered strong Q2'26 results with 23% revenue growth and 52% EPS growth, while data center revenues doubled year-over-year. TXN benefits from AI infrastructure buildout through analog and embedded chips, plans to internalize 95% of wafer production by 2030, and generates substantial free cash flow. The company holds a Zacks Rank #2 (Buy) rating.",
     "keywords": [
-      "automotive microcontrollers",
-      "ADAS",
-      "vehicle electrification",
-      "software-defined vehicles",
-      "32-bit microcontrollers",
-      "electric vehicles",
-      "semiconductor manufacturing"
+      "Texas Instruments",
+      "semiconductor",
+      "AI infrastructure",
+      "valuation",
+      "data center",
+      "earnings growth",
+      "manufacturing",
+      "CHIPS Act"
     ],
     "insights": [
-      {
-        "ticker": "IFNNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring Marvell Technology's automotive Ethernet business for $2.5 billion strengthens its portfolio for software-defined vehicle networking and positions it well in the growing automotive semiconductor market."
-      },
-      {
-        "ticker": "NXPI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Introduced advanced S32K5 automotive microcontroller family with industry-first 16nm FinFET MCU and embedded magnetic RAM, demonstrating innovation leadership in software-defined vehicle architectures."
-      },
-      {
-        "ticker": "STM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a leading market player but no specific recent developments or strategic initiatives mentioned in the article."
-      },
       {
         "ticker": "TXN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or strategic initiatives mentioned in the article."
-      },
-      {
-        "ticker": "MCHP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a leading market player but no specific recent developments or strategic initiatives mentioned in the article."
-      },
-      {
-        "ticker": "MCHPP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a leading market player but no specific recent developments or strategic initiatives mentioned in the article."
-      }
-    ]
-  },
-  {
-    "id": "18d471f1c31dabcf740945f898d6a70d6467e74630257f5e6ca4677b4817b580",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Logic Analyzer Market Size to Worth USD 3.73 Billion by 2035 | Research by SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-13T11:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/13/3326100/0/en/Logic-Analyzer-Market-Size-to-Worth-USD-3-73-Billion-by-2035-Research-by-SNS-Insider.html",
-    "tickers": [
-      "KEYS",
-      "ADI",
-      "TXN"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global logic analyzer market is projected to grow at a CAGR of 4.97% from 2026 to 2035, driven by rising semiconductor design complexity, automotive multi-protocol validation, cloud-based solutions, and 5G protocol validation. Digital logic analyzers currently dominate with 52% market share, while mixed signal analyzers are expected to see the highest growth. North America leads the market, with Asia-Pacific emerging as the fastest-growing region.",
-    "keywords": [
-      "logic analyzer market",
-      "semiconductor design",
-      "5G protocol validation",
-      "automotive electronics",
-      "cloud-based instruments",
-      "mixed signal analyzers",
-      "digital logic analyzers",
-      "market growth forecast"
-    ],
-    "insights": [
-      {
-        "ticker": "KEYS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading market player and dominant company in North America. Recently launched enhanced 34-channel Logic Analyzer Series with advanced protocol decode libraries, demonstrating innovation and market leadership."
+        "sentiment_reasoning": "Strong financial performance with 23% revenue and 52% EPS growth, expanding AI infrastructure exposure through analog/embedded chips, strategic manufacturing investments with government support, robust free cash flow generation, and consistent shareholder returns justify the premium valuation despite trading at 26.97x forward P/E."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a valuation comparison point (17.44x forward P/E) and as a GPU competitor in the AI accelerator market. TXN's strategy positions it to benefit from AI infrastructure regardless of which GPU maker dominates."
       },
       {
         "ticker": "ADI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among leading market players but no specific developments or market positioning details mentioned in the article."
+        "sentiment_reasoning": "Included as a semiconductor peer comparison, trading at 22.49x forward P/E with 30.9% YTD gains, but no specific analysis or commentary provided."
       },
       {
-        "ticker": "TXN",
+        "ticker": "ASYS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included in the list of leading market players but lacks specific information about market performance or recent product launches."
+        "sentiment_reasoning": "Mentioned only as a valuation comparison point, trading at 12.25x forward P/E with 16.3% YTD gains, with no substantive analysis provided."
       }
     ]
   }

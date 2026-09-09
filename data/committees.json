@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08",
-  "n_total": 143,
-  "n_matched": 141,
+  "generated": "2026-09-09",
+  "n_total": 144,
+  "n_matched": 142,
   "match_rate": 98.6,
   "members": {
     "aderholt-robert-b": {
@@ -9079,6 +9079,118 @@
         "Pharmaceuticals & Biotech",
         "Telecommunication Services",
         "Utilities"
+      ]
+    },
+    "booker-cory-a": {
+      "bioguide": "B001288",
+      "match_method": "last_name",
+      "matched_name": "Cory A. Booker",
+      "committees": [
+        {
+          "id": "SSAF",
+          "name": "Senate Committee on Agriculture, Nutrition, and Forestry",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSAF13",
+          "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Commodities, Derivatives, Risk Management, and Trade",
+          "type": "senate",
+          "is_sub": true,
+          "title": "Ranking Member"
+        },
+        {
+          "id": "SSAF16",
+          "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Food and Nutrition, Specialty Crops, Organics, and Research",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSAF17",
+          "name": "Senate Committee on Agriculture, Nutrition, and Forestry: Livestock, Dairy, Poultry, and Food Safety",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSFR",
+          "name": "Senate Committee on Foreign Relations",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSFR09",
+          "name": "Senate Committee on Foreign Relations: Africa and Global Health Policy",
+          "type": "senate",
+          "is_sub": true,
+          "title": "Ranking Member"
+        },
+        {
+          "id": "SSFR01",
+          "name": "Senate Committee on Foreign Relations: Europe and Regional Security Cooperation",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSFR07",
+          "name": "Senate Committee on Foreign Relations: Near East, South Asia, Central Asia, and Counterterrorism",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSSB",
+          "name": "Senate Committee on Small Business and Entrepreneurship",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSJU",
+          "name": "Senate Committee on the Judiciary",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSJU01",
+          "name": "Senate Committee on the Judiciary: Antitrust, Competition Policy, and Consumer Rights",
+          "type": "senate",
+          "is_sub": true,
+          "title": "Ranking Member"
+        },
+        {
+          "id": "SSJU22",
+          "name": "Senate Committee on the Judiciary: Crime and Counterterrorism",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU04",
+          "name": "Senate Committee on the Judiciary: Border Security and Immigration",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU21",
+          "name": "Senate Committee on the Judiciary: the Constitution",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        }
+      ],
+      "industries": [
+        "Food & Staples Retailing",
+        "Food, Beverage & Tobacco",
+        "Health Care Equipment & Services",
+        "Materials",
+        "Pharmaceuticals & Biotech"
       ]
     }
   },

@@ -1,5 +1,44 @@
 [
   {
+    "id": "25048b7c536f6e032d5409cfaef45f06f90f72c9fa6a210c6bc572f50bfc09f5",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AER or WAB: Which Is the Better Value Stock Right Now?",
+    "author": "Na",
+    "published_utc": "2026-09-04T15:40:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2985373/aer-or-wab-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2985373",
+    "tickers": [
+      "AER",
+      "WAB"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default36.jpg",
+    "description": "AerCap (AER) emerges as the more attractive value investment compared to Westinghouse Air Brake Technologies (WAB). AER holds a Zacks Rank #1 (Strong Buy) with a forward P/E of 7.73 and Value grade of A, while WAB has a Zacks Rank #3 (Hold) with a forward P/E of 25.87 and Value grade of D. AER's superior valuation metrics and positive earnings estimate revisions make it the preferred choice for value investors.",
+    "keywords": [
+      "value investing",
+      "P/E ratio",
+      "Zacks Rank",
+      "valuation metrics",
+      "earnings estimates",
+      "transportation equipment sector"
+    ],
+    "insights": [
+      {
+        "ticker": "AER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Buy rating (Zacks Rank #1), attractive forward P/E of 7.73, low PEG ratio of 0.58, strong Value grade of A, and positive earnings estimate revisions indicate solid fundamentals and growth potential."
+      },
+      {
+        "ticker": "WAB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Hold rating (Zacks Rank #3), high forward P/E of 25.87, elevated PEG ratio of 1.90, weak Value grade of D, and less attractive valuation metrics compared to AER make it less appealing for value investors."
+      }
+    ]
+  },
+  {
     "id": "fb8ab7408aa4e7c3039ad4489e2e8473050155adcb934a153db35f99c5d4a1a6",
     "publisher": {
       "name": "The Motley Fool",
@@ -233,66 +272,6 @@
         "ticker": "WAB",
         "sentiment": "positive",
         "sentiment_reasoning": "Secured the largest locomotive modernization contract in rail industry history worth $1.2 billion, representing the fourth major order from Union Pacific since 2018. Production will occur at WAB's U.S. facilities with deliveries starting in 2027, providing significant revenue and growth opportunity. Stock price up 1.33% on announcement."
-      }
-    ]
-  },
-  {
-    "id": "02491a5c8d41e7ef57e8ac102c4157fadedf1b6331d86fc6d7957a0ebdbd18a6",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Rolling Stock Market Analysis Report 2026 - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-01-23T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/01/23/3224823/28124/en/Rolling-Stock-Market-Analysis-Report-2026-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
-    "tickers": [
-      "GE",
-      "WAB",
-      "ALSMY",
-      "SIEGY",
-      "KWHIY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global rolling stock market is projected to grow from USD 56.36 billion in 2025 to USD 82.61 billion by 2031 at a CAGR of 6.58%, driven by government infrastructure investments, urbanization, and adoption of sustainable train technologies. However, rising protectionism and local content mandates restrict international market access, with only 59% of the global rail market open to foreign suppliers. Key trends include predictive maintenance through IoT integration and autonomous train operations.",
-    "keywords": [
-      "rolling stock market",
-      "railway infrastructure",
-      "sustainable mobility",
-      "government investment",
-      "protectionism",
-      "autonomous trains",
-      "predictive maintenance",
-      "battery-electric trains",
-      "hydrogen-powered trains"
-    ],
-    "insights": [
-      {
-        "ticker": "GE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in the rolling stock market with exposure to growing demand for modern locomotives and sustainable technologies."
-      },
-      {
-        "ticker": "WAB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player in the growing rolling stock sector with opportunities from infrastructure modernization and technology innovation."
-      },
-      {
-        "ticker": "ALSMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted with \u20ac92 billion order backlog in 2024 and a \u20ac60 million digital maintenance contract, demonstrating strong market position and long-term demand."
-      },
-      {
-        "ticker": "SIEGY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the expanding rolling stock market with opportunities in sustainable and autonomous train technologies."
-      },
-      {
-        "ticker": "KWHIY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player in the rolling stock market with opportunities from global infrastructure investments and technology trends."
       }
     ]
   }

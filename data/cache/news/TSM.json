@@ -1,304 +1,281 @@
 [
   {
-    "id": "64f9627f7102d20a23a246ec40a8abd274048712493d5da2747a118e24190636",
+    "id": "88690a9c79789a3df93a3bf5419db58c883fa88d2bf395ec075cfafdbd6101e2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "The Smartest Growth ETF to Buy Right Now -- and It's Up 50% in 2026",
-    "author": "David Dierking",
-    "published_utc": "2026-08-04T13:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/04/smartest-growth-etf-to-buy-right-now-up-50-smh/?source=iedfolrf0000001",
+    "title": "Billionaire Stanley Druckenmiller Has 2 Megacap Stocks Worth Watching (Hint: His Top Holding Isn't Amazon, Alphabet, or Nvidia)",
+    "author": "Brett Schafer",
+    "published_utc": "2026-09-08T17:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/billionaire-stanley-druckenmiller-has-2-megacap/?source=iedfolrf0000001",
     "tickers": [
-      "SMH",
-      "NVDA",
-      "TSM",
-      "AVGO",
+      "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "META"
+      "NTRA",
+      "NVDA",
+      "TSM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879519%2Fgettyimages-1389207770.jpg&w=1200&op=resize",
-    "description": "The VanEck Semiconductor ETF (SMH) has fallen 20% from recent highs as investors demand tangible AI results rather than aggressive spending. Despite the correction, the ETF presents a potential 'buy the dip' opportunity, as underlying demand for semiconductors remains strong with supply still lagging, giving chip companies pricing power to sustain earnings growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886377%2Fstanley-druckenmiller_duquesne-family-office_chairman_imagesource_getty-images.jpeg&w=1200&op=resize",
+    "description": "Billionaire investor Stanley Druckenmiller holds positions in Amazon and Alphabet for AI infrastructure exposure, but his largest U.S. stock holding is Natera, a genetic diagnostics company that has returned approximately 10x since his initial investment in Q3 2022. Druckenmiller sold his Nvidia position in early 2024 due to valuation concerns and now holds Taiwan Semiconductor Manufacturing as his AI semiconductor bet instead.",
     "keywords": [
-      "semiconductor ETF",
-      "AI trade correction",
-      "buy the dip",
-      "chip demand",
-      "valuation concerns",
-      "pricing power"
+      "artificial intelligence",
+      "cloud computing",
+      "genetic diagnostics",
+      "semiconductor manufacturing",
+      "portfolio holdings",
+      "AI infrastructure"
     ],
     "insights": [
       {
-        "ticker": "SMH",
+        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite a 20% recent decline, the article frames this as a buying opportunity. Strong underlying demand for semiconductors, supply constraints, and pricing power support long-term growth potential, making the correction an attractive entry point for long-term investors."
+        "sentiment_reasoning": "AWS division showing strong 37% YoY revenue growth with massive backlog of AI cloud services spending; CEO projects potential for $1 trillion in annual revenue driven by cloud market share gains."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud growing rapidly at 82% YoY with Gemini chatbot serving 950 million monthly users; however, Google Search faces competitive pressures, creating mixed dynamics."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud growing rapidly at 82% YoY with Gemini chatbot serving 950 million monthly users; however, Google Search faces competitive pressures, creating mixed dynamics."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud growing rapidly at 82% YoY with Gemini chatbot serving 950 million monthly users; however, Google Search faces competitive pressures, creating mixed dynamics."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud growing rapidly at 82% YoY with Gemini chatbot serving 950 million monthly users; however, Google Search faces competitive pressures, creating mixed dynamics."
+      },
+      {
+        "ticker": "NTRA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Largest holding in Druckenmiller's portfolio (~20%), up approximately 10x since Q3 2022 investment; Q2 revenue grew 38% YoY to $753 million with raised full-year guidance, demonstrating accelerating business momentum."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding (20.83%) in SMH but not specifically discussed. Sentiment is neutral as it's part of the broader semiconductor sector experiencing correction due to investor concerns about AI spending justification."
+        "sentiment_reasoning": "Druckenmiller sold his position in early 2024 at $80-90 due to valuation concerns, which he later acknowledged as a mistake; stock has since tripled to $230, but he maintains no current position."
       },
       {
         "ticker": "TSM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as second-largest holding (9.58%) in SMH but not individually analyzed. Shares the sector's neutral sentiment amid the broader AI trade correction."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding (6.60%) in SMH. No specific commentary provided; sentiment reflects broader semiconductor sector dynamics."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has 'cratered' due to aggressive AI spending while free-cash-flow growth turns negative, exemplifying investor concerns about companies overextending on AI development without clear returns."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has 'cratered' due to aggressive AI spending while free-cash-flow growth turns negative, exemplifying investor concerns about companies overextending on AI development without clear returns."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has 'cratered' due to aggressive AI spending while free-cash-flow growth turns negative, exemplifying investor concerns about companies overextending on AI development without clear returns."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has 'cratered' due to aggressive AI spending while free-cash-flow growth turns negative, exemplifying investor concerns about companies overextending on AI development without clear returns."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Similar to Alphabet, stock has declined significantly due to heavy AI spending and negative free-cash-flow growth, representing the broader market skepticism about AI investment returns."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Current AI semiconductor bet offering exposure to AI trend with more reasonable valuation than Nvidia; holds monopoly position in advanced chipmaking and manufactures Nvidia chips."
       }
     ]
   },
   {
-    "id": "e6b92d1b7969dfed895b101ac2691f99dbaae89986a76a68c8c46557913d32bf",
+    "id": "464f4c1a6b53c437da5be7a633602c32e96cacd9f414d21ce2449025176080e2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Stocks to Buy as AI Infrastructure Continues to Surge",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-08-04T09:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/04/3-stocks-to-buy-as-ai-infrastructure-continues-to/?source=iedfolrf0000001",
+    "title": "Taiwan Semiconductor Just Set a New Company Record. A New All-Time High Stock Price Is Coming",
+    "author": "Keithen Drury",
+    "published_utc": "2026-09-08T16:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/taiwan-semiconductor-just-set-a-new-company-record/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "SKHY",
-      "TSM",
+      "TSM"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886516%2Ftsm.png&w=1200&op=resize",
+    "description": "Taiwan Semiconductor Manufacturing (TSMC) has reached new all-time highs in gross profit margins, driven by its dominant position in AI chip fabrication. With over 70% of global chip foundry revenue and strong pricing power, the company's improved profitability suggests the stock could reach new all-time highs, as current valuations don't yet reflect the premium margins of this improved business.",
+    "keywords": [
+      "Taiwan Semiconductor",
+      "AI chip fabrication",
+      "gross margin",
+      "profit margins",
+      "chip foundry",
+      "valuation",
+      "stock price"
+    ],
+    "insights": [
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The company has set new all-time highs in gross profit margins, holds 70%+ of global chip foundry revenue, benefits from AI demand, has pricing power, and the stock is not yet trading at a premium valuation despite improved profitability, suggesting significant upside potential."
+      }
+    ]
+  },
+  {
+    "id": "421c7082ff1bacccdfd0110df76e0cb9cc48698cefe1387ba03e576191410b5d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Billionaire David Tepper Just Bought These 2 Artificial Intelligence (AI) Stocks That Wall Street Thinks Could Soar by 50% or More",
+    "author": "Prosper Junior Bakiny",
+    "published_utc": "2026-09-08T12:30:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/billionaire-david-tepper-just-bought-these-2-artificial-intelligence-ai-stocks-that-wall-street-thinks-could-soar-by-50-or-more/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "CRWV",
+      "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "AMZN"
+      "MU",
+      "TSM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881797%2Fgettyimages-1492319884.jpg&w=1200&op=resize",
-    "description": "With Alphabet and Amazon increasing their 2026 capital expenditure budgets for AI infrastructure, three semiconductor and memory companies are well-positioned to benefit: Nvidia leads in AI training and inference with its GPUs and networking portfolio; SK Hynix dominates the high-bandwidth memory market with over 50% share; and TSMC is the only company capable of manufacturing advanced chips at scale for AI data centers.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa89083e28d8376b6803f0b8094122c7987e58391-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Billionaire David Tepper's hedge fund Appaloosa Management added SpaceX and CoreWeave to its portfolio in Q2, betting on their AI growth potential. While Wall Street sees 50-62% upside for both stocks, SpaceX appears overvalued at a P/S ratio of 69.1 with limited margin for error, whereas CoreWeave's P/S ratio of 5.8 seems more reasonable given its 112.5% revenue growth and $104 billion revenue backlog.",
     "keywords": [
+      "artificial intelligence",
+      "hedge fund investment",
+      "SpaceX IPO",
       "AI infrastructure",
-      "capital expenditure",
-      "semiconductor",
-      "GPU",
-      "high-bandwidth memory",
-      "chip manufacturing",
-      "inference",
-      "data centers"
+      "stock valuation",
+      "revenue growth",
+      "tech stocks"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "SPCX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong business fundamentals with 92% YoY revenue growth and improving profitability trajectory, but current valuation at P/S 69.1 is expensive with substantial uncertainty around Starship development, regulatory risks, and AI investments. Limited margin for error makes it risky despite Wall Street's 50% upside target."
+      },
+      {
+        "ticker": "CRWV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as the dominant leader in AI model training with GPUs and CUDA software moat; expanding into inference market through LPU acquisition; trading at attractive forward P/E of 16x; developing complementary products (CPUs, DPUs) for agentic AI."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Market leader in high-bandwidth memory with over 50% market share; primary HBM supplier to Nvidia with major $500 billion multiyear supply deal; supply-constrained market favors established players; trading at attractive forward P/E of 5x with long-term contracts providing pricing stability."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Virtual monopoly in advanced chip manufacturing with proven high-yield production at scale; strong pricing power and robust gross margins; uniquely positioned to benefit from proliferation of AI chips in data centers; aggressively building capacity; trading at reasonable 19x 2027 estimates given growth outlook."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as increasing 2026 capex budgets for AI infrastructure, signaling continued investment commitment, but article focuses on suppliers rather than end-users."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as increasing 2026 capex budgets for AI infrastructure, signaling continued investment commitment, but article focuses on suppliers rather than end-users."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as increasing 2026 capex budgets for AI infrastructure, signaling continued investment commitment, but article focuses on suppliers rather than end-users."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as increasing 2026 capex budgets for AI infrastructure, signaling continued investment commitment, but article focuses on suppliers rather than end-users."
+        "sentiment_reasoning": "Exceptional revenue growth of 112.5% YoY, sold-out capacity justifying further investment, and massive $104 billion revenue backlog provide strong visibility. P/S ratio of 5.8 appears fair for growth rate. Wall Street's 62% upside target seems justified despite current operating losses."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as increasing 2026 capex budgets for AI infrastructure, signaling continued investment commitment, but article focuses on suppliers rather than end-users."
-      }
-    ]
-  },
-  {
-    "id": "d9d564056918a07f24620517d5eb24aee9d18213cbbebc643bc8305b84df11dc",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Asian Stocks Are Down 10% From June Highs. That Could Be Bad News for This Semiconductor Index.",
-    "author": "Ben Gran",
-    "published_utc": "2026-08-03T13:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/03/asian-stocks-are-down-10-from-june-highs-could-be/?source=iedfolrf0000001",
-    "tickers": [
-      "SOXX",
-      "TSM",
-      "ASML",
-      "NVDA",
-      "EWY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880963%2Fgettyimages-1466958957-1201x633-65d4be6.jpg&w=1200&op=resize",
-    "description": "Asian stocks have declined 10% since June 22, with semiconductor stocks particularly hard hit as investors worry AI hyperscalers may scale back spending on data centers. The iShares Semiconductor ETF has fallen 22.9% since June, raising questions about whether the recent sell-off is temporary or signals a longer-term repricing of chip stocks amid concerns about AI investment sustainability.",
-    "keywords": [
-      "semiconductor stocks",
-      "AI hyperscalers",
-      "Asian markets",
-      "market correction",
-      "chip demand",
-      "capital expenditure"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
+      },
       {
-        "ticker": "SOXX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 22.9% since June 22; article questions whether supercharged returns can continue and suggests investors worried about AI overvaluation might want to avoid concentrated position in volatile sector"
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
       },
       {
         "ticker": "TSM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Shares down 13.8% since June 22; major holding in affected semiconductor index amid concerns about AI capex scaling back"
-      },
-      {
-        "ticker": "ASML",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 14.4% since June 22 as semiconductor sector faces headwinds from potential AI investment slowdown"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 6.4% since June 22; less severe decline than peers but still affected by semiconductor sector sell-off and AI capex concerns"
-      },
-      {
-        "ticker": "EWY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 26.4% since June 22; significant decline reflects exposure to major chip stocks from South Korea affected by sector downturn"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in Appaloosa Management's portfolio (roughly 50% of portfolio across four companies), indicating confidence in the company, but no specific analysis provided in the article."
       }
     ]
   },
   {
-    "id": "264c4e2c5d0aeb6083c805ff51f69f23c017eef00868856e177be0d321c66eb6",
+    "id": "649113600447a19c9ee06858bdc2932ffd21b570bf50cb43606e30dc9ddcc98b",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-03T13:26:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/03/taiwan-semiconductor-just-reclaimed-a-2-trillion-m/?source=iedfolrf0000001",
+    "title": "Wall Street Analysts Think TSMC (TSM) Is a Good Investment: Is It?",
+    "author": "Na",
+    "published_utc": "2026-09-07T13:30:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2985691/wall-street-analysts-think-tsmc-tsm-is-a-good-investment-is-it?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2985691",
     "tickers": [
-      "TSM",
-      "NVDA",
-      "AMD"
+      "TSM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881744%2Ftaiwan-semiconductor-tsmc-fabrication-of-semiconductor-chip-wafers_tsmc.jpg&w=1200&op=resize",
-    "description": "Taiwan Semiconductor Manufacturing (TSMC) surpassed a $2.1 trillion market cap after a 7.6% jump on July 30, 2026. Despite this milestone valuation, the stock trades at approximately 20 times forward earnings\u2014an average multiple for large companies. The company's Q2 results showed exceptional performance with 34% YoY revenue growth to $40.2 billion and 77% net income growth. The analyst argues this represents an attractive valuation for an extraordinary business, particularly given strong guidance for Q3 and early-stage 2-nanometer technology ramp-up.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default144.jpg",
+    "description": "The article examines the reliability of Wall Street analyst recommendations versus Zacks Rank, a proprietary stock-rating tool. Using TSMC as an example, it explains that brokerage recommendations often carry positive bias due to vested interests, with firms issuing five 'Strong Buy' ratings for every 'Strong Sell.' In contrast, Zacks Rank, driven by earnings estimate revisions, provides a more accurate predictor of near-term stock price movements. TSMC received a Zacks Rank #1 (Strong Buy) based on recent earnings estimate revisions.",
     "keywords": [
-      "semiconductor manufacturing",
-      "AI chip demand",
-      "valuation",
+      "analyst recommendations",
+      "brokerage bias",
+      "Zacks Rank",
+      "earnings estimate revisions",
+      "stock rating",
+      "investment strategy"
+    ],
+    "insights": [
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "TSMC received a Zacks Rank #1 (Strong Buy) rating based on earnings estimate revisions that increased 0.4% over the past month to $16.52. The consensus estimate revisions indicate growing analyst optimism about the company's earnings prospects, suggesting potential for near-term stock price appreciation."
+      }
+    ]
+  },
+  {
+    "id": "ca42fee40502b88cba95b43954e492e4c1ae8229e8ebed472189717fa0e1c813",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T12:36:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985713/buy-these-5-semiconductor-stocks-as-sales-skyrocket-on-solid-ai-demand?cid=CS-ZC-FT-analyst_blog|investment_ideas-2985713",
+    "tickers": [
+      "ADI",
+      "TSM",
+      "TXN",
+      "NVDA",
+      "ACMR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f5/1013.jpg",
+    "description": "Global semiconductor sales reached $146.8 billion in July, up 6.4% sequentially and 135.1% year-over-year, marking 17 consecutive months of growth. Driven by strong AI demand and robust earnings from major chip companies, five semiconductor stocks are recommended as attractive investment opportunities with significant growth potential.",
+    "keywords": [
+      "semiconductor stocks",
+      "AI demand",
+      "chip sales growth",
       "earnings growth",
-      "foundry business",
-      "advanced chip processes",
-      "geopolitical risk"
+      "technology investment"
     ],
     "insights": [
       {
+        "ticker": "ADI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 66.4% for current year with consensus estimate improved 5.2% over past 60 days; carries Zacks Rank #2 (Buy)"
+      },
+      {
         "ticker": "TSM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional financial performance with 77% YoY net income growth, 67.7% gross margins, and strong Q3 guidance showing 12% sequential revenue growth. Trading at reasonable 20x forward earnings despite extraordinary business fundamentals. Early-stage 2-nanometer ramp presents significant future growth opportunity. Analyst recommends buying despite acknowledging cyclical and geopolitical risks."
+        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 7.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
+      },
+      {
+        "ticker": "TXN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 10.3% over past 60 days; carries Zacks Rank #2 (Buy)"
       },
       {
         "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as TSMC's major customer benefiting from AI chip demand. Trades at similar 20x forward earnings as TSMC but relies on TSMC's manufacturing. No specific news or analysis provided about Nvidia itself; included for context on supply chain relationships."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as another TSMC customer trading at significantly higher valuation (54x forward earnings). Mentioned only for comparative valuation context; no specific company news or analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "12b6bbcb2fb35c6884bfcd588c2ecc4be3873750e90215af5813344c1b3984e5",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Semiconductor Stocks Are Down 22%. Here's the 1 Chip Stock I'd Buy Right Now.",
-    "author": "Adam Levy",
-    "published_utc": "2026-08-03T08:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/03/semiconductor-stocks-down-chip-stock-buy/?source=iedfolrf0000001",
-    "tickers": [
-      "TSM",
-      "INTC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881405%2Fgetty-images-silicon-wafers-and-microcircuits-with-automation-system-control-application-semiconductor.jpeg&w=1200&op=resize",
-    "description": "Semiconductor stocks have declined 22% from their peak due to concerns about AI spending sustainability. Taiwan Semiconductor Manufacturing (TSMC) is highlighted as a top buy opportunity, leveraging its dominant 73% market share, technological lead, massive scale, and pricing power to maintain growth despite the sector pullback.",
-    "keywords": [
-      "semiconductor stocks",
-      "AI spending",
-      "market correction",
-      "TSMC",
-      "chip fabrication",
-      "competitive advantage",
-      "capital expenditure",
-      "revenue growth",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "TSM",
         "sentiment": "positive",
-        "sentiment_reasoning": "TSMC is positioned as the top semiconductor pick due to its dominant 73% market share, significant technological lead over competitors (Samsung and Intel), massive scale enabling $62B capex spending, ability to raise prices sustainably, raised full-year revenue guidance to 40%, and attractive 28x forward earnings valuation despite sector weakness."
+        "sentiment_reasoning": "Leads the group with highest expected earnings growth of 93.3% for current year; carries Zacks Rank #1 (Strong Buy)"
       },
       {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Intel is developing its 1.4nm process expected to compete with TSMC starting in 2028, but lacks the manufacturing scale and capital spending capacity to match TSMC's competitive advantages."
+        "ticker": "ACMR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected earnings growth of 27.3% for current year with consensus estimate jumped 49.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
       }
     ]
   }

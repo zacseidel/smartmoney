@@ -1,278 +1,287 @@
 [
   {
-    "id": "b91f4d206cc6f208cb7b9b6d44460647eb11b03deeea49cd9effd8c0ef6ffc1c",
+    "id": "b17502a74f2156caf67d82eb03364318fb45b6c6bd7ed77231197a421878533b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "2 Stocks to Buy Right Now From the Prospering Computer Industry",
+    "author": "Na",
+    "published_utc": "2026-09-09T18:27:00Z",
+    "article_url": "https://www.zacks.com/commentary/2987304/2-stocks-to-buy-right-now-from-the-prospering-computer-industry?cid=CS-ZC-FT-industry_outlook-2987304",
+    "tickers": [
+      "DELL",
+      "HPQ",
+      "INTC",
+      "QCOM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7c/163603.webp",
+    "description": "The Computer-Micro Computers industry is experiencing strong growth driven by enterprise PC replacement cycles, Windows 11 adoption, and emerging AI PC demand. The industry has outperformed the S&P 500 by 46.2% over the past year and trades at a forward P/E of 31.16X. Key players Dell Technologies and HP are benefiting from increased enterprise IT spending and AI workload adoption, though rising memory and storage costs present headwinds.",
+    "keywords": [
+      "AI PCs",
+      "enterprise PC refresh",
+      "Windows 11 transition",
+      "edge computing",
+      "memory costs",
+      "commercial PC replacement cycle",
+      "neural processing units"
+    ],
+    "insights": [
+      {
+        "ticker": "DELL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 Strong Buy with 34.8% earnings estimate increase over 30 days. Benefiting from ongoing commercial PC refresh cycle, double-digit demand growth, and expanding enterprise IT spending. Stock appreciated 342% year to date."
+      },
+      {
+        "ticker": "HPQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 Strong Buy with 8.4% earnings estimate increase over 30 days. Riding on AI PC demand, edge AI workloads, and Windows 11 transition. Expects AI PCs to account for 60-70% of PC mix by 2027. Stock appreciated 42.6% year to date."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a processor supplier offering NPU chips to OEMs for AI-enabled devices, but no specific company performance or outlook provided."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a processor supplier offering NPU chips to OEMs for AI-enabled devices, but no specific company performance or outlook provided."
+      }
+    ]
+  },
+  {
+    "id": "e6e90eceb5a1152dff9aa8434582109a5097b6ea1824cec86aeb31fe527c58f0",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Where Will Nvidia Stock Be in 5 Years?",
-    "author": "Harsh Chauhan",
-    "published_utc": "2026-08-24T17:23:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/24/where-will-nvidia-stock-be-in-5-years/?source=iedfolrf0000001",
+    "title": "Stock Market Today, Sept. 8: Stocks Slide Amid Surging Oil Prices, Persistent Geopolotical Tenisons",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-09-08T21:16:26Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/08/stock-market-today-sept-8-stocks-slide-amid-surging-oil-prices-persistent-geopolotical-tenisons/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "MRVL",
-      "AMD",
-      "INTC"
+      "INTC",
+      "GLW",
+      "VZ",
+      "AMGN",
+      "NVS",
+      "QCOM",
+      "AMZN",
+      "CASY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffb220ae712815f10c44d733e8421671142c3d900-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Nvidia, currently the world's largest company with a $5.2 trillion market cap, is positioned for continued growth through expansion into custom AI processors, optical networking, and server CPUs. Analysts project the company could reach an $11 trillion market cap by 2030 if it sustains 15% revenue growth and maintains a 12x price-to-sales ratio, potentially doubling current valuations.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Major stock indices declined on September 8, 2026, as rising crude oil prices approaching $100/barrel and geopolitical tensions weighed on markets. The Dow fell 1.18%, S&P 500 dropped 0.58%, and Nasdaq declined 0.31%. Notable movers included Intel gaining 9% on pricing plans, Corning rising 7% on a Verizon fiber deal, while Amgen and Novartis fell sharply following a drug trial setback. Qualcomm signed a major AI chip deal with Amazon worth up to $60 billion.",
     "keywords": [
-      "Nvidia",
+      "stock market decline",
+      "oil prices",
+      "geopolitical tensions",
+      "Middle East conflict",
       "AI chips",
-      "data center",
-      "custom processors",
-      "optical networking",
-      "server CPU",
-      "market growth",
-      "revenue projections"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong growth catalysts identified including expansion into custom AI processors ($118B market by 2033), optical networking ($154B market potential), and server CPUs ($200B addressable market). Revenue projected to reach $918B by 2030 with potential market cap doubling to $11 trillion."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strategic $2 billion partnership with Nvidia to provide custom AI processors, positioning Marvell as a key player in the fast-growing custom AI chip market estimated at $118 billion by 2033."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the server CPU market alongside Intel, but no specific analysis provided regarding competitive positioning or impact from Nvidia's expansion."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a dominant player in server CPUs that Nvidia is now competing against, but no detailed analysis of competitive threat or market impact provided."
-      }
-    ]
-  },
-  {
-    "id": "70fe5a8282f0e5f7df27a101e70dc1bb7f0d54b54912f18cf96673f122c1787b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Outperform Nvidia Over the Next 3 Years",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-08-22T12:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/prediction-this-artificial-intelligence-ai-semicon/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "AMD",
-      "ARM",
-      "INTC",
-      "CBRS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881449%2Famdnvda.png&w=1200&op=resize",
-    "description": "While Nvidia remains the dominant AI chip leader with strong growth, AMD is positioned to outperform over the next three years due to its competitive advantages in the faster-growing inference market and agentic AI opportunities. AMD's smaller size provides more room for explosive growth as it gains market share with its improved ROCm software, strategic acquisitions, and partnerships.",
-    "keywords": [
-      "AI semiconductors",
-      "inference market",
-      "agentic AI",
-      "GPU",
-      "CPU",
-      "market share",
-      "software stack"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recognized as the gold standard in AI semiconductors with dominant market position in LLM training, strong revenue growth (85% YoY), and attractive valuation at 24.5x forward P/E. However, limited upside potential due to its massive size."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as a serious challenger in the faster-growing inference market (32% CAGR through 2032), strong in server CPUs, strategic acquisitions (MEXT, Taalas), and partnerships (Cerebras). As a smaller company, has significant room for explosive growth and outperformance potential."
-      },
-      {
-        "ticker": "ARM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in context of Nvidia's custom Arm-based CPUs but not a primary focus of the analysis."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a competitor losing server CPU market share to AMD; not a primary subject of the article."
-      },
-      {
-        "ticker": "CBRS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partnership partner with AMD for disaggregated inference systems but not a primary investment focus."
-      }
-    ]
-  },
-  {
-    "id": "bc77b2fca18c9be5e75c175bfdd6315415ae6584d52c9cf3f50f3d58b41c8cde",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Intel Sold $20 Billion of Stock at $95 a Share. It Now Trades Below $93.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-22T00:12:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/intel-sold-usd20-billion-of-stock-at-usd95-a-share-it-now-trades-below-usd93/?source=iedfolrf0000001",
-    "tickers": [
-      "INTC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7cfbee1bddc75f610e25ff51c876035b6cd9a6ee-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Intel raised approximately $23 billion through a stock offering priced at $95 per share on August 10, 2026, with strong institutional demand causing the deal to grow from $15 billion to $20 billion. However, the stock has since declined to below $93, leaving investors from the offering underwater. The company cited strong AI demand as justification for the capital raise, but the market is now demanding proof through future earnings before returning the stock to the offering price.",
-    "keywords": [
-      "stock offering",
-      "capital raise",
-      "AI demand",
-      "semiconductor",
-      "institutional investment",
-      "stock price decline"
+      "drug trial setback"
     ],
     "insights": [
       {
         "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 9.05% as the company plans to raise processor prices by up to 10% to improve margins, indicating positive investor sentiment toward profitability improvements."
+      },
+      {
+        "ticker": "GLW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Rose 7.56% after securing a major contract to supply 80 million miles of high-density optical fiber to Verizon, demonstrating strong business growth."
+      },
+      {
+        "ticker": "VZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Minimal movement (+0.54%) despite securing major fiber infrastructure deal, suggesting market already priced in the contract or broader market headwinds offset positive news."
+      },
+      {
+        "ticker": "AMGN",
         "sentiment": "negative",
-        "sentiment_reasoning": "Stock has declined approximately 3% below the $95 offering price within 11 days, with shares trading at $92.13. The rapid decline suggests market skepticism about the company's AI growth narrative despite strong recent revenue growth (25% YoY). Investors who participated in the offering are now underwater, and the market is demanding additional proof of productive capital deployment before supporting higher valuations."
+        "sentiment_reasoning": "Shares slid 10.08% due to concerns that Novartis' failed Phase 3 trial for a similar heart disease treatment (pelacarsen) may indicate Amgen's comparable drug (olpasiran) could face similar setbacks."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.93% after reporting a Phase 3 trial setback for pelacarsen injectable, a heart disease treatment, directly impacting investor confidence."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Rose 3.17% after signing a major AI chip deal with Amazon worth up to $60 billion, helping diversify beyond smartphones and demonstrating strong AI market positioning."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Declined 0.60% despite securing a major AI chip deal with Qualcomm, suggesting broader market weakness offset positive deal news."
+      },
+      {
+        "ticker": "CASY",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Down 10% after reporting analyst-beating earnings but offering conservative forward guidance, indicating investor disappointment with cautious outlook despite strong current results."
       }
     ]
   },
   {
-    "id": "4d1001b212a1d36801a16659923d00339a3d6acd4b66c24d9f6bad598957a5d6",
+    "id": "385845d52849d16d8bde5ab605a10a71d820ed3b99336cbeba85e02bf0261f4d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Bloom Energy Calls Its Fuel Cells \"Lego Blocks.\" Here's Why That Word Choice Is the Whole Investment Thesis.",
-    "author": "Courtney Carlsen",
-    "published_utc": "2026-08-21T11:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/bloom-energy-calls-its-fuel-cells-lego-blocks-here/?source=iedfolrf0000001",
+    "title": "Why CoreWeave Stock Soared 12% Today",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-08T20:31:53Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/why-coreweave-stock-soared-xx-today/?source=iedfolrf0000001",
     "tickers": [
-      "BE",
-      "ORCL",
-      "ORCLpD",
-      "BAM",
-      "NVDA",
-      "INTC",
       "CRWV",
-      "NBIS"
+      "NBIS",
+      "PLTR",
+      "INTC",
+      "RGTI",
+      "RGTIW",
+      "QBTS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883070%2Fimage-shows-bloom-energy-servers.jpg&w=1200&op=resize",
-    "description": "Bloom Energy's modular, factory-manufactured solid-oxide fuel cells are experiencing historic demand from data center developers. The \"Lego block\" design enables rapid deployment, scalability, and flexibility, attracting major customers like Oracle and Brookfield Asset Management. The company reported record Q2 revenue of $1.065 billion (166% YoY growth) with expanding margins, driven by the urgent need for quickly deployable power solutions in the AI data center buildout.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886718%2Fthe-inside-of-a-data-center.jpg&w=1200&op=resize",
+    "description": "CoreWeave shares gained 12% today despite no company-specific news, benefiting from a broader rally in the AI infrastructure sector. The gains were driven by Nebius's partnership announcement with Palantir, Department of Commerce investments in quantum computing companies, and Intel's processor price increase announcement. CoreWeave remains a volatile, high-risk stock with rapid revenue growth but massive losses due to heavy capital expenditures and debt servicing.",
     "keywords": [
-      "fuel cells",
-      "data centers",
-      "modular design",
-      "renewable energy",
       "AI infrastructure",
-      "power deployment",
-      "solid-oxide fuel cells"
+      "neocloud sector",
+      "stock volatility",
+      "capital expenditures",
+      "quantum computing",
+      "sector rally"
     ],
     "insights": [
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record revenue growth of 166% YoY, expanding gross margins, historic surge in demand, major contract wins from Oracle and Brookfield, and strong visibility on future deployments (25 GW). Stock has surged 2,078% since November 2024."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Committed to Bloom Energy for 2.45 GW power block at Project Jupiter AI factory, demonstrating significant investment in AI infrastructure expansion."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Committed to Bloom Energy for 2.45 GW power block at Project Jupiter AI factory, demonstrating significant investment in AI infrastructure expansion."
-      },
-      {
-        "ticker": "BAM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanded strategic financing framework with Bloom Energy fivefold from $5B to $25B, indicating major capital commitment to data center buildout powered by Bloom's fuel cells."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as driver of data center energy demands through cutting-edge chips, but no direct business relationship with Bloom Energy discussed."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a hyperscaler/technology company interested in Bloom's solutions, but no specific commitments or details provided."
-      },
       {
         "ticker": "CRWV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler customer of Bloom Energy, but no specific details about commitments provided."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 12% today and benefited from positive sector sentiment, though the article notes it remains high-risk with massive losses and heavy debt burden."
       },
       {
         "ticker": "NBIS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Selected Bloom Energy to power AI infrastructure buildout with expanded funding of up to $1.7B from Industrial Development Funding."
+        "sentiment_reasoning": "Announced a new sovereign AI partnership with Palantir, which drove its shares up and lifted the broader neocloud sector."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced a new partnership with Nebius, validating the neocloud sector, though stock was down slightly on the day."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced processor price increases, signaling potential price hikes across the tech supply chain including AI infrastructure."
+      },
+      {
+        "ticker": "RGTI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received $100 million investment from the Department of Commerce, supporting strategic tech development."
+      },
+      {
+        "ticker": "RGTIW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received $100 million investment from the Department of Commerce, supporting strategic tech development."
+      },
+      {
+        "ticker": "QBTS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received $100 million investment from the Department of Commerce, supporting quantum computing development."
       }
     ]
   },
   {
-    "id": "53851b02d846875a7400481cc57858ee99295de7dd5eab4463923258ab136865",
+    "id": "6b574868ff3b4e14dd9ebf1307aab4b872d6033f89c858b6313310c1097bc3c1",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "A Famed Billionaire Tech Investor Just Sold Nvidia Shares to Buy These 2 AI Chip Stocks",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-08-20T12:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/20/billionaire-investor-sold-nvidia-ai-chip-stock/?source=iedfolrf0000001",
+    "title": "Why Intel Stock Rallied Tuesday Morning",
+    "author": "Danny Vena, Cpa",
+    "published_utc": "2026-09-08T15:29:06Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/why-intel-stock-rallied-tuesday-morning/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "CBRS",
-      "INTC",
-      "AMD",
-      "ARM"
+      "INTC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884004%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-    "description": "Chase Coleman of Tiger Global Management reduced his Nvidia stake in Q2 while adding a new position in Cerebras Systems and increasing Intel holdings. The article analyzes these three semiconductor stocks, highlighting Nvidia's dominant AI infrastructure position at attractive valuations, Cerebras' innovative high-speed inference chips, and Intel's late entry into the AI market with CPU demand growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886635%2Fthe-intel-logo-superimposed-over-a-picture-of-the-companys-headquarters.png&w=1200&op=resize",
+    "description": "Intel stock surged 8-9% on reports of planned 10% CPU price increases aimed at improving gross margins. Northland Securities upgraded Intel to 'outperform' with a $120 price target, citing material progress in the company's turnaround and foundry ambitions. However, analysts note the stock is already expensive at 68x forward earnings.",
     "keywords": [
-      "AI chips",
-      "semiconductor stocks",
-      "GPU",
-      "inference",
-      "data center CPUs",
-      "Tiger Global Management"
+      "Intel price increase",
+      "CPU pricing",
+      "gross margin improvement",
+      "analyst upgrade",
+      "foundry business",
+      "semiconductor",
+      "valuation concerns"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "INTC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dominant AI infrastructure player with powerful CUDA moat, expanding beyond GPUs into networking and custom chips, explosive growth potential, and attractive forward P/E of 17x for fiscal 2028."
+        "sentiment_reasoning": "Stock rallied 8-9% on price increase announcements and analyst upgrade to 'outperform' with 25% upside potential. Analyst cited material progress in turnaround and foundry ambitions, plus near-term pricing power from CPU shortage. However, positive sentiment is tempered by concerns about high valuation multiples (68x forward earnings)."
+      }
+    ]
+  },
+  {
+    "id": "c27b327886fc79eaf2ac3cb806a2910bd3fb724375349e78b393f3d15051d187",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Rigetti Computing Popped Today",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-08T14:40:28Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/why-rigetti-computing-popped-today/?source=iedfolrf0000001",
+    "tickers": [
+      "RGTI",
+      "RGTIW",
+      "QBTS",
+      "INTC",
+      "GFS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886606%2Fquantum-computing.jpg&w=1200&op=resize",
+    "description": "Rigetti Computing's stock surged up to 12.2% after securing $100 million in CHIPS Act funding from the Department of Commerce to advance superconducting quantum computing research. The government will receive a minority, non-controlling equity stake in the company. While the funding is a positive development for the quantum computing sector, Rigetti remains speculative as it generates minimal revenue ($5.1 million in Q2) and quantum computing is still an emerging technology.",
+    "keywords": [
+      "CHIPS Act",
+      "quantum computing",
+      "federal funding",
+      "superconducting quantum computers",
+      "R&D acceleration"
+    ],
+    "insights": [
+      {
+        "ticker": "RGTI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company received $100 million in government funding to advance quantum computing research, demonstrating sector validation and providing capital for R&D. Stock price increased significantly (up to 12.2%). However, sentiment is tempered by minimal revenue generation and speculative nature of the business."
       },
       {
-        "ticker": "CBRS",
+        "ticker": "RGTIW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Innovative wafer-sized chips with SRAM embedding enable inference speeds 6x faster than competitors, securing major deals with OpenAI and AWS, partnership with AMD to offer cost-effective solutions, positioned as high-end inference winner."
+        "sentiment_reasoning": "Company received $100 million in government funding to advance quantum computing research, demonstrating sector validation and providing capital for R&D. Stock price increased significantly (up to 12.2%). However, sentiment is tempered by minimal revenue generation and speculative nature of the business."
+      },
+      {
+        "ticker": "QBTS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Peer company also received CHIPS Act funding alongside Rigetti, indicating broader government support for the quantum computing sector. Stock showed positive movement (+9.62%)."
       },
       {
         "ticker": "INTC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Late AI winner benefiting from general market tide rather than competitive advantage, losing server CPU market share to AMD and Arm, trailing in technology, stock no longer cheap after recent gains, foundry business experiencing heavy losses."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a previous recipient of government investment through CHIPS Act, but not directly impacted by this announcement."
       },
       {
-        "ticker": "AMD",
+        "ticker": "GFS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as gaining server CPU market share from Intel and partnering with Cerebras on cost-effective inference solutions, but not a primary focus of the article."
-      },
-      {
-        "ticker": "ARM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as new entrant adding competition to Intel's server CPU market but not a primary focus."
+        "sentiment_reasoning": "Mentioned as a previous recipient of government investment through CHIPS Act, but not directly impacted by this announcement."
       }
     ]
   }

@@ -1,5 +1,103 @@
 [
   {
+    "id": "a8d091bb159d2612a9d41fe7ed1ea702cb8f2578cd2027176bb2624901dad33a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is COHR Stock a Buy as AI Growth Meets Premium Valuation and Risk?",
+    "author": "Na",
+    "published_utc": "2026-09-03T16:09:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984687/is-cohr-stock-a-buy-as-ai-growth-meets-premium-valuation-and-risk?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2984687",
+    "tickers": [
+      "COHR",
+      "LITE",
+      "FN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/90/125757.webp",
+    "description": "Coherent Corp. is projected to deliver strong fiscal 2027 revenue growth of 50.1% and earnings growth of 67.2%, driven by AI-optics demand. However, the stock trades at a premium 26.5X forward earnings with rising capital expenditures and weakening operating cash flow, creating execution risks. While earnings estimates are rising favorably, valuation and cash-flow pressures present concerns for investors.",
+    "keywords": [
+      "AI-optics",
+      "revenue growth",
+      "earnings estimates",
+      "valuation premium",
+      "capital expenditures",
+      "operating cash flow",
+      "datacenter demand"
+    ],
+    "insights": [
+      {
+        "ticker": "COHR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong growth fundamentals (50.1% revenue growth, 67.2% earnings growth) and positive earnings revisions (+13% in 4 weeks) are offset by premium valuation (26.5X forward earnings), deteriorating cash flow ($79.5M vs $633.6M prior year), and rising capex ($1.1B vs $440.8M). The stock requires substantial execution to justify its valuation."
+      },
+      {
+        "ticker": "LITE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as an adjacent AI-optics supplier benefiting from sector strength, with Q4 FY2026 revenues of $1.01B and Q1 FY2027 guidance of $1.225-$1.275B, indicating solid growth momentum in the AI-optics space."
+      },
+      {
+        "ticker": "FN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported FY2026 revenues of $4.64B, up 35.7%, with data-center products representing 47.9% of revenues, demonstrating strong participation in the growing AI-optics and datacenter market."
+      }
+    ]
+  },
+  {
+    "id": "89a39078aff2f5cb75cca0fd7768119c364450594f1dff97d7df86bf42bde754",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NVT Trades at Premium Valuation: Buy, Sell or Hold the Stock?",
+    "author": "Na",
+    "published_utc": "2026-09-02T15:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983837/nvt-trades-at-premium-valuation-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983837",
+    "tickers": [
+      "NVT",
+      "FN",
+      "OSIS",
+      "TEL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/989.jpg",
+    "description": "nVent Electric (NVT) is experiencing strong demand from AI-driven data center investments and power utilities, with expectations for data center sales to exceed $2 billion in 2026. The company is expanding capacity and seeing infrastructure grow to nearly 60% of sales. Despite trading at a premium valuation (P/E of 24.65X), analyst estimates for 2026 and 2027 EPS have been revised upward by 10.1% and 9.9% respectively, with the stock outperforming peers year-to-date.",
+    "keywords": [
+      "AI infrastructure",
+      "data center demand",
+      "liquid cooling",
+      "power utilities",
+      "capacity expansion",
+      "earnings growth",
+      "valuation premium"
+    ],
+    "insights": [
+      {
+        "ticker": "NVT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong double-digit growth in power utilities, data center sales expected to exceed $2 billion in 2026 (more than double 2025 levels), healthy $2.5 billion backlog, capacity expansions underway, upward EPS estimate revisions (10.1% and 9.9% for 2026 and 2027), and stock outperformance of 44.5% year-to-date with bullish technical signals."
+      },
+      {
+        "ticker": "FN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an industry peer for valuation comparison with a P/E of 20.93X, but no specific operational or financial information provided. Stock has declined 11.7% year-to-date."
+      },
+      {
+        "ticker": "OSIS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an industry peer for valuation comparison with a P/E of 18.11X, but no specific operational or financial information provided. Stock has declined 18.2% year-to-date."
+      },
+      {
+        "ticker": "TEL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an industry peer for valuation comparison with a P/E of 16.08X, but no specific operational or financial information provided. Stock has declined 8.6% year-to-date."
+      }
+    ]
+  },
+  {
     "id": "fecf594d53e28c8b50f56ff9b79d4951ff4b637e4a0c93849b980288b8d6ea93",
     "publisher": {
       "name": "The Motley Fool",
@@ -150,176 +248,6 @@
         "ticker": "FN",
         "sentiment": "positive",
         "sentiment_reasoning": "Top holding in BTX as maker of AI infrastructure technology, directly benefiting from AI buildout driving fund's ~40% gains."
-      }
-    ]
-  },
-  {
-    "id": "bdb617b27ed00d71de74308477ba53b2a33d4c1e35a71fa67e5683fdaf9c765a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Unstoppable Vanguard ETF Is Obliterating the S&P 500 in 2026, but a Looming Change in Interest Rates Could Halt Its Momentum",
-    "author": "Anthony Di Pizio",
-    "published_utc": "2026-05-29T08:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/29/this-vanguard-etf-sp-500-interest-rates-momentum/?source=iedfolrf0000001",
-    "tickers": [
-      "VTWO",
-      "BE",
-      "NXT",
-      "AEIS",
-      "FN",
-      "CRDO",
-      "TTMI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871902%2Fan-investor-looking-at-a-chart-on-their-computer-screen-while-holding-a-smartphone.jpg&w=1200&op=resize",
-    "description": "The Vanguard Russell 2000 ETF is outperforming the S&P 500 with an 18% year-to-date gain, driven by domestic-focused small-cap companies benefiting from U.S. government policies and AI infrastructure demand. However, rising inflation and anticipated interest rate hikes pose a significant risk, as 32% of Russell 2000 companies carry floating-rate debt that will become more expensive, potentially hampering their growth and earnings.",
-    "keywords": [
-      "Russell 2000",
-      "small-cap stocks",
-      "interest rate hikes",
-      "inflation",
-      "AI infrastructure",
-      "floating-rate debt",
-      "geopolitical risk"
-    ],
-    "insights": [
-      {
-        "ticker": "VTWO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong performance year-to-date (18% gain) and diversification benefits are offset by significant headwinds from anticipated interest rate hikes that disproportionately affect small-cap companies with floating-rate debt."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock has surged 1,400% over the last 12 months due to strong demand for clean energy solutions from AI data center operators seeking alternative power sources."
-      },
-      {
-        "ticker": "NXT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Experiencing blistering demand for energy solutions from the AI industry, driving strong stock returns."
-      },
-      {
-        "ticker": "AEIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefiting from significant demand for energy solutions from the AI industry, resulting in strong stock performance."
-      },
-      {
-        "ticker": "FN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capitalizing on AI opportunity by supplying semiconductors and components for data center networking and connectivity solutions."
-      },
-      {
-        "ticker": "CRDO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Supplying semiconductors and components for AI data centers addressing complex networking and connectivity challenges."
-      },
-      {
-        "ticker": "TTMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefiting from AI infrastructure demand by supplying semiconductors and components for data center solutions."
-      }
-    ]
-  },
-  {
-    "id": "b1f57d238fd5efe4828f4b3526c3f81ac044998acf478343fb561143cddeac46",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "These 3 Telecom Stocks Rallied Over 1,000% In A Year: Nvidia Did 75%",
-    "author": "Piero Cingari",
-    "published_utc": "2026-05-05T15:34:47Z",
-    "article_url": "https://www.benzinga.com/markets/tech/26/05/52290283/telecom-stocks-rallied-1000-percent-nvidia-lumentum-ondas-applied-optoelectronics?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "LITE",
-      "AAOI",
-      "ONDS",
-      "NVDA",
-      "MSFT",
-      "META",
-      "GOOG",
-      "GOOGL",
-      "AMZN",
-      "COHR",
-      "FN",
-      "XTL"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/05/05/Lumentum-Logo-And-Sign-At-The-Corporate-.jpeg?width=1200&height=800&fit=crop",
-    "description": "Three communications equipment companies\u2014Lumentum Holdings, Applied Optoelectronics, and Ondas Holdings\u2014have each delivered over 1,000% returns in the past year, significantly outpacing Nvidia's 75% gain. Lumentum and Applied Optoelectronics benefit from hyperscaler datacenter buildouts requiring optical components, while Ondas focuses on industrial communications and defense-adjacent autonomy. Wall Street analyst consensus remains mixed, with some targets lagging current prices, particularly for Applied Optoelectronics which shows 35% implied downside.",
-    "keywords": [
-      "optical components",
-      "datacenter buildout",
-      "AI infrastructure",
-      "hyperscaler capex",
-      "analyst ratings",
-      "stock rally",
-      "communications equipment"
-    ],
-    "insights": [
-      {
-        "ticker": "LITE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "1,462% year-over-year return driven by strong demand for optical transceivers in hyperscaler datacenters. Analyst consensus Buy rating with recent upgrades from JP Morgan and Rothschild & Co. Stock trading near analyst targets with minimal downside."
-      },
-      {
-        "ticker": "AAOI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "1,164% year-over-year return benefiting from datacenter optical networking demand. However, stock significantly outpaced analyst targets with 35% implied downside, suggesting valuation stretched relative to Wall Street expectations."
-      },
-      {
-        "ticker": "ONDS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "1,119% year-over-year return driven by defense-adjacent autonomy and industrial communications demand. Analyst consensus points to 81% upside from current levels, indicating significant conviction despite recent pullback from earlier 2026 highs."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "75% year-over-year return, significantly underperforming the three telecom stocks mentioned. Used as a benchmark comparison rather than primary focus of the article."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler driving datacenter capex acceleration, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler driving datacenter capex acceleration, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler driving datacenter capex acceleration, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler driving datacenter capex acceleration, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler with partnership disclosed for 800G transceivers, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "COHR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of the optical transceiver cohort but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "FN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a credible second-source to Lumentum for manufacturing 800G transceivers, but not analyzed for investment merit in the article."
-      },
-      {
-        "ticker": "XTL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the ETF containing the three outperforming stocks, but not analyzed for investment merit in the article."
       }
     ]
   }

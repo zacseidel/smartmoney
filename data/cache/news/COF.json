@@ -1,235 +1,159 @@
 [
   {
-    "id": "f0729d0bed3c9819210aeab8bb6973fcf55f74df3a7ae6dc0975d24058624c41",
+    "id": "5772adb5f9b2b1580c9bb087dd1b0066fcbefa653ea827cb935e1945c31eb74b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Snowflake (SNOW) Stock Soars 16% After Q2 Earnings: Is It Still a Buy?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-03T22:23:00Z",
+    "article_url": "https://www.zacks.com/commentary/2984787/snowflake-snow-stock-soars-16-after-q2-earnings-is-it-still-a-buy?cid=CS-ZC-FT-investment_ideas-2984787",
+    "tickers": [
+      "SNOW",
+      "AMZN",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "NVDA",
+      "COF",
+      "COFpI",
+      "COFpJ",
+      "COFpK",
+      "COFpL",
+      "COFpN",
+      "TRI",
+      "BKNG",
+      "PCLN",
+      "DKNG"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/75/2558.jpg",
+    "description": "Snowflake shares surged 16% after beating Q2 expectations with $0.62 adjusted EPS (vs. $0.45 expected) and $1.54B revenue (vs. $1.47B expected). The company raised full-year product revenue guidance to $6.07B with 36% growth, driven by accelerating AI adoption. However, the stock trades at a premium valuation of 15X forward sales and 150X forward P/E, significantly above industry averages.",
+    "keywords": [
+      "cloud data platform",
+      "Q2 earnings beat",
+      "AI adoption",
+      "guidance raise",
+      "valuation premium",
+      "product revenue growth",
+      "enterprise customers"
+    ],
+    "insights": [
+      {
+        "ticker": "SNOW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 earnings beat with 35% YoY revenue growth, accelerating product revenue growth for third consecutive quarter, AI products driving ~50% of growth acceleration, raised full-year guidance, 828 customers generating $1M+ ARR, and Zacks Rank #2 (Buy) rating. However, premium valuation is a concern."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Amazon's business or performance discussed."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Microsoft's business or performance discussed."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Alphabet's business or performance discussed."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Alphabet's business or performance discussed."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Alphabet's business or performance discussed."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Alphabet's business or performance discussed."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner supporting Snowflake's enterprise deployments, but no direct impact on Nvidia's business or performance discussed."
+      },
+      {
+        "ticker": "COF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "COFpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "COFpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "COFpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "COFpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "COFpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Capital One discussed."
+      },
+      {
+        "ticker": "TRI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on Thomson Reuters discussed."
+      },
+      {
+        "ticker": "BKNG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer through Booking.com, but no specific impact on Booking Holdings discussed."
+      },
+      {
+        "ticker": "PCLN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer through Booking.com, but no specific impact on Booking Holdings discussed."
+      },
+      {
+        "ticker": "DKNG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent Snowflake customer, but no specific impact on DraftKings discussed."
+      }
+    ]
+  },
+  {
+    "id": "49ed898004a9c09905430294ad47c8d89a8b16e9fb1cd561242a9e9ad926334c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "What the Capital One-Discover Tie-Up Means for the Card Business Now",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-25T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/what-the-capital-one-discover-tie-up-means-for-the/?source=iedfolrf0000001",
+    "title": "Greg Abel Bought $39.4 Billion of Stocks in 6 Months, Up From the $7.1 Billion Berkshire Purchased a Year Earlier Under Warren Buffett",
+    "author": "Neil Patel",
+    "published_utc": "2026-09-03T18:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/03/greg-abel-stocks-2026-berkshire-warren-buffett/?source=iedfolrf0000001",
     "tickers": [
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879629%2F26_07_22-confused-man-staring-at-blackboard-with-complicated-equations-on-it-_mfdload-1201x767-04d69f9.jpg&w=1200&op=resize",
-    "description": "Capital One reported solid Q2 2026 earnings with adjusted earnings of $5.81 per share, up from $5.48 year-over-year. The Discover acquisition integration is progressing well with debit customers transitioned to the Discover network and credit card customers being moved to Capital One's systems. However, integration costs of $1.08 per share continue to complicate earnings. Capital One is deliberately shifting Discover toward a more conservative financing approach, which may temporarily depress performance. Despite earnings complexity, revenues grew 4% year-over-year and credit quality metrics improved across the board.",
-    "keywords": [
-      "Capital One",
-      "Discover acquisition",
-      "integration",
-      "earnings",
-      "credit cards",
-      "transaction processing",
-      "credit quality"
-    ],
-    "insights": [
-      {
-        "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adjusted earnings increased year-over-year, revenues grew 4%, credit quality metrics improved, and the Discover integration is progressing as planned. Despite near-term earnings complexity from integration costs, the acquisition positions the company well for long-term growth in the card business and transaction processing."
-      }
-    ]
-  },
-  {
-    "id": "b1a7430e40d3ff0cffa20b343a1702b0807057a48f950cda0e2a01592f438cb7",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Capital One Flips Millions of Discover Cards to Its Own Platform on July 27. Can It Upsell Without Losing Them?",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-12T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover-cards-to-it/?source=iedfolrf0000001",
-    "tickers": [
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877639%2F24_06_03-an-hourglass-with-white-sand-against-a-blue-background-_mf-dload-wait-1190x800-36c2708.jpg&w=1200&op=resize",
-    "description": "Capital One is integrating Discover's millions of cardholders onto its own technology platform on July 27, 2026. While successful execution could unlock significant cross-selling opportunities, poor execution risks losing customers. The transition represents a critical test of the acquisition's viability, with complex financial systems and potential product changes creating both technical and customer retention challenges.",
-    "keywords": [
-      "Capital One",
-      "Discover acquisition",
-      "platform integration",
-      "technology transition",
-      "customer retention",
-      "cross-selling",
-      "financial services"
-    ],
-    "insights": [
-      {
-        "ticker": "COF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents both significant upside potential (expanded business, cross-selling opportunities) and material downside risk (complex technical transition, customer loss risk). The outcome is uncertain and dependent on execution quality, warranting a neutral stance until the July 27 transition results are known."
-      }
-    ]
-  },
-  {
-    "id": "6b1e0ddf1d06c26217cb77bd773026bc0c398c92b09a51721b285654937ce101",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Subprime Auto Loans Just Hit Their Worst Delinquency Rate in 32 Years. Here's What It Means for Lenders.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-12T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/11/subprime-auto-loans-just-hit-their-worst-delinquen/?source=iedfolrf0000001",
-    "tickers": [
-      "OMF",
-      "CACC",
-      "CRMT",
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877637%2F22_10_24-a-hand-stopping-falling-dominos-from-overturning-a-stock-of-coins-_mf-dload.jpg&w=1200&op=resize",
-    "description": "Subprime auto loan delinquency rates have reached 6.8% at the start of 2026, the worst in 32 years and exceeding Great Recession levels. This poses significant risks to subprime lenders like OneMain Holdings and Credit Acceptance, whose loan portfolios are underperforming. Capital One Financial, which uses more stringent lending criteria, maintains healthier delinquency rates and is a safer alternative for investors seeking exposure to lower-credit customers.",
-    "keywords": [
-      "subprime auto loans",
-      "delinquency rates",
-      "auto lending",
-      "credit risk",
-      "financial strain",
-      "lending standards"
-    ],
-    "insights": [
-      {
-        "ticker": "OMF",
-        "sentiment": "negative",
-        "sentiment_reasoning": "30-day delinquency rate increased year-over-year from 5.16% to 5.37%, and charge-offs rose from 7.83% to 8.02%. Credit situation is weakening despite slight quarterly improvement."
-      },
-      {
-        "ticker": "CACC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Loans made between 2021-2024 are underperforming expectations, and even 2026 loans are not performing as well as anticipated, indicating deteriorating credit quality."
-      },
-      {
-        "ticker": "CRMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Forced to work with lenders for survival in mid-2026, exemplifying the financial strain facing subprime auto lenders during the current delinquency crisis."
-      },
-      {
-        "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains lower delinquency rates (3.24% combined, 4.21% for auto loans) with improving trends, demonstrating that more stringent lending standards provide better protection against credit deterioration."
-      }
-    ]
-  },
-  {
-    "id": "6d2c2d14141689c549314c72a32d4261bc40e2a5eda6b2739db3e963d146aff0",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Embedded Finance Revolutionizing Point-of-Sale Credit Boosts Consumer Finance Market",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-07-06T14:49:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/06/3322553/28124/en/Embedded-Finance-Revolutionizing-Point-of-Sale-Credit-Boosts-Consumer-Finance-Market.html",
-    "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
+      "BRK.A",
+      "BRK.B",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
       "BAC",
       "BACpB",
       "BACpE",
@@ -246,372 +170,667 @@
       "BMLpJ",
       "BMLpL",
       "MERpK",
-      "C",
-      "CpN",
-      "CpR",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "AXP",
       "COF",
       "COFpI",
       "COFpJ",
       "COFpK",
       "COFpL",
       "COFpN",
-      "SOFI",
-      "AFRM",
-      "KLAR",
-      "NU",
-      "PYPL",
-      "SYF",
-      "SYFpA",
-      "SYFpB"
+      "KR"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global consumer finance market is projected to expand from USD 9.87 trillion in 2025 to USD 14.08 trillion by 2031, driven by embedded finance at point-of-sale, improved open banking data, and the rise of fintechs. Unsecured non-revolving credit dominated with 52% market share in 2025, while fintechs are expected to grow fastest at 10.7% CAGR. However, rising regulatory compliance costs pose challenges, particularly for smaller lenders.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883054%2Fperson-trading-berkshire-hathaway-stock-on-mobile-app_-getty.jpg&w=1200&op=resize",
+    "description": "Berkshire Hathaway shifted to net stock buying in Q2 2026 under CEO Greg Abel, purchasing $39.4 billion in equities during the first half of the year compared to $7.1 billion a year earlier. The company's most notable addition was Alphabet, making it the third-largest portfolio position. Despite a frothy market with elevated valuations, Abel is playing offense while managing $365.5 billion in cash and Treasuries awaiting deployment.",
     "keywords": [
-      "consumer finance",
-      "embedded finance",
-      "open banking",
-      "fintech",
-      "digital lending",
-      "regulatory compliance",
-      "market growth",
-      "CAGR 6.17%",
-      "Asia-Pacific",
-      "unsecured credit"
+      "Berkshire Hathaway",
+      "stock buying",
+      "Greg Abel",
+      "portfolio allocation",
+      "Alphabet investment",
+      "net buyer",
+      "cash reserves"
     ],
     "insights": [
       {
-        "ticker": "AMJB",
+        "ticker": "BRK.A",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Shifted from net seller to aggressive net buyer of stocks, purchasing $39.4B in H1 2026 vs $7.1B year-over-year, indicating renewed confidence in equity markets and active capital deployment under new CEO leadership."
       },
       {
-        "ticker": "JPM",
+        "ticker": "BRK.B",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Shifted from net seller to aggressive net buyer of stocks, purchasing $39.4B in H1 2026 vs $7.1B year-over-year, indicating renewed confidence in equity markets and active capital deployment under new CEO leadership."
       },
       {
-        "ticker": "JPMpC",
+        "ticker": "GOOG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Became Berkshire's third-largest portfolio position through significant purchases in H1 2026, demonstrating CEO Abel's bullishness on the company's AI positioning and competitive advantages."
       },
       {
-        "ticker": "JPMpD",
+        "ticker": "GOOGL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Became Berkshire's third-largest portfolio position through significant purchases in H1 2026, demonstrating CEO Abel's bullishness on the company's AI positioning and competitive advantages."
       },
       {
-        "ticker": "JPMpJ",
+        "ticker": "GOOGM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Became Berkshire's third-largest portfolio position through significant purchases in H1 2026, demonstrating CEO Abel's bullishness on the company's AI positioning and competitive advantages."
       },
       {
-        "ticker": "JPMpK",
+        "ticker": "GOOGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as exemplifying how scale supports continued growth in the consumer finance market; banks dominated with 61.9% market share in 2025."
+        "sentiment_reasoning": "Became Berkshire's third-largest portfolio position through significant purchases in H1 2026, demonstrating CEO Abel's bullishness on the company's AI positioning and competitive advantages."
       },
       {
         "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major banks benefiting from deposit-backed funding advantages and customer relationships in the expanding consumer finance market."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank with competitive advantages in consumer finance through scale and customer relationships during market expansion period."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank with competitive advantages in consumer finance through scale and customer relationships during market expansion period."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major bank with competitive advantages in consumer finance through scale and customer relationships during market expansion period."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established bank positioned to benefit from consumer finance market growth through traditional lending channels."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in revolving credit segment, which is projected to grow 7.9% CAGR through 2031."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its position in the bank during H1 2026, indicating reduced conviction or reallocation of capital away from the financial sector."
       },
       {
         "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
         "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
         "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
         "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
         "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
         "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant consumer finance lender positioned to benefit from market expansion and digital lending trends."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced share ownership in the company during H1 2026, suggesting decreased confidence in the financial services firm."
       },
       {
-        "ticker": "SOFI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fintech lender expected to benefit from fastest growth segment at 10.7% CAGR through 2031, driven by faster underwriting and mobile-first design."
-      },
-      {
-        "ticker": "AFRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BNPL provider positioned to benefit from embedded finance at point-of-sale expansion and normalization of short-duration consumer credit."
-      },
-      {
-        "ticker": "KLAR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BNPL provider benefiting from embedded finance growth and point-of-sale lending expansion trends."
-      },
-      {
-        "ticker": "NU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Digital fintech lender positioned to capitalize on Asia-Pacific and emerging market growth, which represents 43.3% of market share."
-      },
-      {
-        "ticker": "PYPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fintech player benefiting from embedded finance and digital distribution channel expansion in consumer finance."
-      },
-      {
-        "ticker": "SYF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major consumer finance lender benefiting from market expansion and revolving credit growth."
-      },
-      {
-        "ticker": "SYFpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major consumer finance lender benefiting from market expansion and revolving credit growth."
-      },
-      {
-        "ticker": "SYFpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major consumer finance lender benefiting from market expansion and revolving credit growth."
+        "ticker": "KR",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake in the grocery retailer during H1 2026, indicating a shift away from this consumer staples position."
       }
     ]
   },
   {
-    "id": "52ef963ec8605dc05d3355293f279e8cde0cde53432e7a985787c6985b852e20",
+    "id": "fa9a3bb402c1507a8cca85ae4e18683533dd656956581b5c94bf1d548f4340f0",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Reliance Global Group Names CTO From Coinbase and Capital One To Lead AI-Powered Insurance Product Development and Agency Roll-Up Strategy",
-    "author": "Not Specified",
-    "published_utc": "2026-06-22T15:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/22/3315454/0/en/Reliance-Global-Group-Names-CTO-From-Coinbase-and-Capital-One-To-Lead-AI-Powered-Insurance-Product-Development-and-Agency-Roll-Up-Strategy.html",
+    "title": "Berkshire Hathaway Just Sold 3 Bank Stocks. Here\u2019s Why Investors Should Take Notice",
+    "author": "Matt Frankel, Cfp\u00ae",
+    "published_utc": "2026-09-02T10:22:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/02/berkshire-hathaway-just-sold-3-bank-stocks-here-s-why-investors-should-take-notice/?source=iedfolrf0000001",
     "tickers": [
-      "EZRA",
-      "COIN",
+      "BRK.A",
+      "BRK.B",
       "COF",
       "COFpI",
       "COFpJ",
       "COFpK",
       "COFpL",
-      "COFpN"
+      "COFpN",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "ALLY",
+      "AXP"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/92baed0b-de89-4fd1-9987-e9b35719cb6b",
-    "description": "Reliance Global Group announced key leadership appointments including Zack Wilder as CTO (from Coinbase and Capital One), Judah Korman as COO, and Mordy Beyman as EVP to execute a dual strategy: developing AI-native insurance products and pursuing an AI-powered insurance agency acquisition roll-up. The company aims to differentiate itself by using AI as core architecture rather than an add-on feature.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe782451fcb7901ca92b74c083a50e2ea213ffe74-3300x1856.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Berkshire Hathaway reduced its positions in three bank stocks during Q2 2026: Capital One (58% reduction), Bank of America ($1.7B sale), and Ally Financial (7% reduction). While the exact reasons are unclear, potential factors include concerns about consumer credit deterioration, interest rate risks, and profit-taking in a well-performing financial sector. Berkshire remains heavily invested in banks despite these sales.",
     "keywords": [
-      "AI-powered insurance",
-      "agency acquisition roll-up",
-      "AI-native products",
-      "insurtech",
-      "leadership appointments",
-      "technology infrastructure",
-      "insurance consolidation"
+      "bank stocks",
+      "portfolio rebalancing",
+      "financial sector",
+      "consumer credit",
+      "interest rates",
+      "position sizing"
     ],
     "insights": [
       {
-        "ticker": "EZRA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is making strategic leadership hires from top fintech firms (Coinbase, Capital One), announcing a clear dual-pillar growth strategy centered on AI, and positioning itself distinctly from competitors. The appointments and strategic vision demonstrate confidence in execution and market opportunity in the insurtech space."
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Berkshire is reducing bank exposure but remains heavily invested in the sector. The moves appear strategic rather than indicating a complete loss of confidence, with the author noting they personally maintain their Bank of America position."
       },
       {
-        "ticker": "COIN",
+        "ticker": "BRK.B",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Coinbase is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Coinbase itself."
+        "sentiment_reasoning": "Berkshire is reducing bank exposure but remains heavily invested in the sector. The moves appear strategic rather than indicating a complete loss of confidence, with the author noting they personally maintain their Bank of America position."
       },
       {
         "ticker": "COF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
       },
       {
         "ticker": "COFpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
       },
       {
         "ticker": "COFpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
       },
       {
         "ticker": "COFpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
       },
       {
         "ticker": "COFpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
       },
       {
         "ticker": "COFpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire reduced its stake by 58%, the sharpest percentage decline among the three sales. This significant reduction may signal concerns about the credit card-focused bank's exposure to consumer credit deterioration."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire sold $1.7B worth of shares (30.2M shares), though it remains a major holding. The gradual selling over quarters combined with concerns about interest rate margins in a 'higher for longer' environment suggests caution."
+      },
+      {
+        "ticker": "ALLY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned only as the previous employer of the newly appointed CTO. This is a factual reference with no direct business impact or sentiment implications for Capital One itself."
+        "sentiment_reasoning": "The 7% reduction appears to be a regulatory position-sizing move to keep ownership below 10%, rather than a reflection of fundamental concerns about the company."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a large Berkshire holding in the financial sector but not sold in this quarter. Remains part of Berkshire's concentrated financial sector exposure."
+      }
+    ]
+  },
+  {
+    "id": "9cdc7702355e985096916c72c2be16449b38c6965f21e703c796a571fb808e0f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Credit Card Balances 90 Days Late Have Nearly Doubled Since 2022. New Delinquencies Have Not Moved.",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-08-27T02:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/26/credit-card-balances-90-days-late-have-nearly-doub/?source=iedfolrf0000001",
+    "tickers": [
+      "COF",
+      "COFpI",
+      "COFpJ",
+      "COFpK",
+      "COFpL",
+      "COFpN",
+      "SYF",
+      "SYFpA",
+      "SYFpB",
+      "BFH",
+      "BFHpA",
+      "BFHpB"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884258%2F25_03_27-a-person-using-a-credit-card-while-holding-a-phone-and-sitting-in-front-of-a-computer-_mf-dload-gettyimages-1305615921-1200x798-36b7a2e.jpg&w=1200&op=resize",
+    "description": "While 90-day delinquent credit card balances have nearly doubled since 2022, reaching levels not seen since the Great Recession, a Federal Reserve analysis reveals the situation is more nuanced. New delinquency rates have remained stable since 2024, suggesting most consumers are managing through the difficult period. The increase in 90-day delinquencies appears driven by lenders reporting delinquent debts longer before charging them off, rather than a surge in new defaults. Financial strain is concentrated among those already struggling.",
+    "keywords": [
+      "credit card delinquency",
+      "consumer debt",
+      "financial strain",
+      "Federal Reserve",
+      "credit risk",
+      "delinquency rates"
+    ],
+    "insights": [
+      {
+        "ticker": "COF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "COFpI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "COFpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "COFpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "COFpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "COFpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "30-day delinquency rate of 3.13% is down year-over-year and sequentially, indicating improving credit metrics and consumer repayment behavior. Lowest delinquency rate among the three card issuers mentioned."
+      },
+      {
+        "ticker": "SYF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "30-day delinquency rate of 4.16% is higher than Capital One due to store card risk profile, but still showing improvement year-over-year and sequentially. Trends are not negative but higher risk than peers."
+      },
+      {
+        "ticker": "SYFpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "30-day delinquency rate of 4.16% is higher than Capital One due to store card risk profile, but still showing improvement year-over-year and sequentially. Trends are not negative but higher risk than peers."
+      },
+      {
+        "ticker": "SYFpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "30-day delinquency rate of 4.16% is higher than Capital One due to store card risk profile, but still showing improvement year-over-year and sequentially. Trends are not negative but higher risk than peers."
+      },
+      {
+        "ticker": "BFH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "5.25% delinquency rate is the highest among the three issuers and more than two percentage points above Capital One, indicating elevated credit risk. However, rate improved year-over-year and sequentially, showing some stabilization."
+      },
+      {
+        "ticker": "BFHpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "5.25% delinquency rate is the highest among the three issuers and more than two percentage points above Capital One, indicating elevated credit risk. However, rate improved year-over-year and sequentially, showing some stabilization."
+      },
+      {
+        "ticker": "BFHpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "5.25% delinquency rate is the highest among the three issuers and more than two percentage points above Capital One, indicating elevated credit risk. However, rate improved year-over-year and sequentially, showing some stabilization."
+      }
+    ]
+  },
+  {
+    "id": "261090aef70fb7392a107a08a0bab91fc43ddc8618907cbdbfa0f4cb3b17e85e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Berkshire's Cash Pile Fell From $400 Billion to $365.5 Billion as Greg Abel Became a Net Buyer for the First Time in 3 Years. What Does That Signal for Investors?",
+    "author": "Adam Spatacco",
+    "published_utc": "2026-08-19T16:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/19/berkshires-cash-pile-fell-from-400-billion-to-365/?source=iedfolrf0000001",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "COF",
+      "COFpI",
+      "COFpJ",
+      "COFpK",
+      "COFpL",
+      "COFpN",
+      "AMZN",
+      "OXY",
+      "OXY.WS",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883271%2Fbrkb.png&w=1200&op=resize",
+    "description": "Berkshire Hathaway ended its 14-quarter streak as a net seller of equities in Q2 2026, purchasing $23.5 billion in stocks while selling only $3.7 billion, reducing cash reserves from $400 billion to $365.5 billion. Under new CEO Greg Abel, the company has made strategic portfolio adjustments including significant stake increases in Alphabet through a $10 billion private placement, acquisitions of Occidental Petroleum's chemicals business and Taylor Morrison homebuilder, and increased share buybacks. These moves signal management's confidence in identifying attractive investment opportunities while maintaining a fortress balance sheet with over $360 billion in liquidity.",
+    "keywords": [
+      "Berkshire Hathaway",
+      "net buyer",
+      "cash deployment",
+      "Greg Abel",
+      "Alphabet investment",
+      "portfolio rebalancing",
+      "share buybacks",
+      "acquisitions"
+    ],
+    "insights": [
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Elevated to core holding status in Berkshire's portfolio with $10 billion private placement in June plus additional open-market purchases. Berkshire's significant investment signals confidence in Alphabet's competitive moats, long-term growth trajectory, and valuation attractiveness."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Elevated to core holding status in Berkshire's portfolio with $10 billion private placement in June plus additional open-market purchases. Berkshire's significant investment signals confidence in Alphabet's competitive moats, long-term growth trajectory, and valuation attractiveness."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Elevated to core holding status in Berkshire's portfolio with $10 billion private placement in June plus additional open-market purchases. Berkshire's significant investment signals confidence in Alphabet's competitive moats, long-term growth trajectory, and valuation attractiveness."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Elevated to core holding status in Berkshire's portfolio with $10 billion private placement in June plus additional open-market purchases. Berkshire's significant investment signals confidence in Alphabet's competitive moats, long-term growth trajectory, and valuation attractiveness."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire substantially reduced its position in the bank as part of portfolio cleanup and concentration into higher-conviction holdings, indicating reduced conviction in the company's prospects."
+      },
+      {
+        "ticker": "COF",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "COFpI",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "COFpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "COFpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "COFpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "COFpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Position trimmed as part of Berkshire's strategic portfolio rebalancing away from smaller positions toward core holdings."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire completely exited its Amazon position during the portfolio cleanup, suggesting reduced conviction in the company relative to other opportunities."
+      },
+      {
+        "ticker": "OXY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire completed $9.7 billion acquisition of Occidental's chemicals business, demonstrating confidence in the asset's value and strategic fit within the portfolio."
+      },
+      {
+        "ticker": "OXY.WS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire completed $9.7 billion acquisition of Occidental's chemicals business, demonstrating confidence in the asset's value and strategic fit within the portfolio."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company ended prolonged selling streak and returned to net buying with $20 billion net purchases in Q2. Strategic capital deployment into high-conviction holdings like Alphabet and acquisitions demonstrates management confidence and disciplined capital allocation under new leadership."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company ended prolonged selling streak and returned to net buying with $20 billion net purchases in Q2. Strategic capital deployment into high-conviction holdings like Alphabet and acquisitions demonstrates management confidence and disciplined capital allocation under new leadership."
       }
     ]
   }

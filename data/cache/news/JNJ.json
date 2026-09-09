@@ -1,275 +1,263 @@
 [
   {
-    "id": "a3fe8f6c40b4041b19b040ea9f29614ed33acce4a5eed1c5862243ae6db782f1",
+    "id": "26b3291531c0447f19b310601d42af249314960cacf516a22065a7b42a0a25af",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "2 Dividend Stocks Built to Hold Up When Markets Don't",
+    "author": "Adria Cimino",
+    "published_utc": "2026-09-09T14:10:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/09/2-dividend-stocks-built-to-hold-up-in-any-market/?source=iedfolrf0000001",
+    "tickers": [
+      "JNJ",
+      "ABBV"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885367%2Fgettyimages-519517489-1.jpg&w=1200&op=resize",
+    "description": "The article recommends two Dividend Kings\u2014Johnson & Johnson and AbbVie\u2014as defensive dividend stocks that can provide steady income during market volatility. Both companies have demonstrated consistent dividend growth and strong business fundamentals in their pharmaceutical and healthcare portfolios.",
+    "keywords": [
+      "dividend stocks",
+      "Dividend Kings",
+      "market volatility",
+      "healthcare",
+      "passive income",
+      "pharmaceutical",
+      "dividend yield"
+    ],
+    "insights": [
+      {
+        "ticker": "JNJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is praised for its strategic exit from consumer health to focus on high-potential pharma and medtech units. It has 28 products generating over $1 billion annually, eight brands with double-digit growth, and is on track to achieve record revenue exceeding $100 billion. Offers a 1.9% dividend yield with consistent growth history."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite losing Humira exclusivity, the company successfully transitioned with newer immunology products Skyrizi and Rinvoq showing ~24% revenue growth. Strong portfolio across aesthetics, neuroscience, and oncology with double-digit growth in several drugs. Worldwide revenue advanced 10% to over $16 billion with a 2.7% dividend yield and long history of dividend increases."
+      }
+    ]
+  },
+  {
+    "id": "704a9a0f87c0aa0ff258aa4bfe00e637d8b54281cbfe75f995a401bd2548d8a1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Johnson & Johnson (JNJ) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-08T21:45:08Z",
+    "article_url": "https://www.zacks.com/stock/news/2986654/johnson-johnson-jnj-sees-a-more-significant-dip-than-broader-market-some-facts-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2986654",
+    "tickers": [
+      "JNJ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default83.jpg",
+    "description": "Johnson & Johnson stock declined 2.22% on September 8, 2026, underperforming the S&P 500's 0.58% loss. The company is expected to report earnings on October 13, 2026, with forecasted EPS of $2.95 (up 5.36% YoY) and revenue of $25.36 billion (up 5.71% YoY). JNJ holds a Zacks Rank #3 (Hold) rating with a Forward P/E of 23.75, trading at a premium to its industry average.",
+    "keywords": [
+      "Johnson & Johnson",
+      "stock decline",
+      "earnings forecast",
+      "Zacks Rank",
+      "valuation",
+      "pharmaceutical",
+      "market performance"
+    ],
+    "insights": [
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "JNJ experienced a notable single-day decline of 2.22%, underperforming broader market indices. However, the stock had gained 5.13% prior to this trading day and maintains positive earnings growth forecasts (5.36% EPS growth, 5.71% revenue growth YoY). The Zacks Rank #3 (Hold) rating and premium valuation (Forward P/E of 23.75 vs. industry average of 17.92) suggest a balanced outlook with neither strong bullish nor bearish signals."
+      }
+    ]
+  },
+  {
+    "id": "19a39f6e1841ad205e49f55c1b322a98ab63e94e4d157f70be70393ec3d55f63",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Is the iShares Pharmaceuticals ETF or iShares Healthcare ETF the Better Fund for 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-09-08T18:30:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/08/is-the-ishares-pharmaceuticals-etf-or-ishares-healthcare-etf-the-better-fund-for-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "IHE",
+      "IYH",
+      "LLY",
+      "JNJ",
+      "ABBV",
+      "MRK",
+      "BLK",
+      "DIVB"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe2a7a839652ce1e4b5e887767e5794b4ba7e66f4-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two healthcare-focused ETFs from iShares: IHE (Pharmaceuticals ETF) with 55 holdings and IYH (Healthcare ETF) with 100 holdings. While IHE delivered stronger 1-year returns of 50% versus IYH's 27.4%, the article recommends IYH as the better choice due to superior 3- and 5-year performance, greater diversification, and larger asset base of $3.9B. Both funds have identical 0.37% expense ratios.",
+    "keywords": [
+      "ETF comparison",
+      "healthcare sector",
+      "pharmaceutical stocks",
+      "fund performance",
+      "diversification",
+      "iShares"
+    ],
+    "insights": [
+      {
+        "ticker": "IHE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong recent 1-year performance (50% return) but underperformed on 3-, 5-, and 10-year returns. More concentrated portfolio with higher risk profile (lower beta of 0.49 indicates less volatility but narrower focus). Not recommended as the better choice despite recent gains."
+      },
+      {
+        "ticker": "IYH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better fund choice due to superior 3-year (19.9% vs 10%) and 5-year (11.9% vs 5.5%) annualized returns. Offers broader diversification with 100 holdings, larger AUM of $3.9B providing better liquidity, and more balanced exposure across healthcare subsectors."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Major holding in both ETFs (14.5% in IYH, 20.5% in IHE), indicating significant exposure to this pharmaceutical company. Mentioned as a top position but no specific performance commentary provided."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IHE (22.5%) and second-largest in IYH (10%). Key component of both funds but no specific sentiment expressed regarding the company itself."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IYH at 7.1%. Mentioned as part of the fund composition but no specific performance or outlook commentary provided."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IHE at 5%. Included as a major pharmaceutical position but no specific sentiment or analysis provided."
+      },
+      {
+        "ticker": "BLK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Parent company of iShares (fund manager). Mentioned as the issuer but no specific sentiment regarding the company itself."
+      },
+      {
+        "ticker": "DIVB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Parent company of iShares (fund manager). Mentioned as the issuer but no specific sentiment regarding the company itself."
+      }
+    ]
+  },
+  {
+    "id": "a3bd64b81805b5752aa2ad4c44a329905a36af362c3f257a8d260ae52c217c9e",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Intravascular Lithotripsy Market Size to Reach USD 4.19 Billion by 2035 as Coronary and Peripheral IVL Adoption Accelerates \u2013 SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-08-25T15:59:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350749/0/en/intravascular-lithotripsy-market-size-to-reach-usd-4-19-billion-by-2035-as-coronary-and-peripheral-ivl-adoption-accelerates-sns-insider.html",
+    "title": "Ulcerative Colitis Market Outlook: 5 Late-Stage Drug Candidates to Watch | DelveInsight",
+    "author": "Delveinsight",
+    "published_utc": "2026-09-07T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357229/0/en/ulcerative-colitis-market-outlook-5-late-stage-drug-candidates-to-watch-delveinsight.html",
     "tickers": [
+      "ABVX",
+      "MRK",
+      "RHHBY",
       "JNJ",
-      "BSX",
-      "ABT",
-      "MDT",
-      "SYK"
+      "TEVA",
+      "PTGX",
+      "SNY"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global Intravascular Lithotripsy (IVL) market is projected to grow from USD 1.01 billion in 2025 to USD 4.19 billion by 2035, expanding at a 15.3% CAGR. Growth is driven by increasing prevalence of calcified coronary and peripheral artery disease, adoption of minimally invasive procedures, and expanding peripheral IVL applications. North America leads with 58% market share, while Asia-Pacific is the fastest-growing region.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+    "description": "The ulcerative colitis market is experiencing significant growth with emerging therapies addressing unmet needs in moderate-to-severe disease. The market, valued at approximately USD 9.4 billion in 2025, is projected to expand at a CAGR of 7.6% through 2036. Five promising late-stage candidates\u2014Obefazimod (Abivax), Tulisokibart (Merck), Afimkibart (Roche), Icotrokinra (J&J/Protagonist), and Duvakitug (Teva/Sanofi)\u2014are reshaping the treatment landscape with novel mechanisms targeting IL-23 and TL1A pathways, while established biologics and oral therapies continue to maintain market presence.",
     "keywords": [
-      "Intravascular Lithotripsy",
-      "IVL Market",
-      "Calcified Lesions",
-      "Coronary Artery Disease",
-      "Peripheral Artery Disease",
-      "Minimally Invasive Procedures",
-      "Medical Devices",
-      "Interventional Cardiology"
+      "ulcerative colitis",
+      "emerging therapies",
+      "biologics",
+      "IL-23 inhibitors",
+      "TL1A inhibitors",
+      "oral targeted therapies",
+      "market forecast",
+      "clinical trials"
     ],
     "insights": [
       {
+        "ticker": "ABVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Obefazimod demonstrated positive Phase III results with rapid symptom improvements and favorable safety profile comparable to placebo, positioning it as a first-in-class miR-124 enhancer with significant market potential."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Tulisokibart met primary endpoints in Phase 3 ATLAS-UC trial, demonstrating clinical remission superiority over placebo with consistent safety profile, strengthening Merck's position in the growing UC market."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Afimkibart showed strong Phase IIb efficacy (35% remission vs 12% placebo) and is advancing to Phase III trials with regulatory filing anticipated in 2027, supporting Roche's IBD portfolio expansion."
+      },
+      {
         "ticker": "JNJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recent product launch of Javelin Peripheral IVL Catheter in 2025 demonstrates active market participation and innovation in the growing IVL segment, positioning the company favorably in an expanding market."
+        "sentiment_reasoning": "Icotrokinra demonstrated sustained clinical benefits across multiple endpoints in Phase 2b trials and has advanced to Phase 3 ICONIC-UC program, offering a novel once-daily oral IL-23 receptor antagonist with broad applicability."
       },
       {
-        "ticker": "BSX",
+        "ticker": "TEVA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Completed acquisition of Bolt Medical and introduced Seismiq intravascular lithotripsy system in 2025, indicating strategic expansion and strengthened presence in the high-growth IVL technology market."
+        "sentiment_reasoning": "Duvakitug secured $400 million strategic funding from Blackstone Life Sciences for continued development, indicating strong confidence in the TL1A inhibitor's potential in Phase III trials for UC and Crohn's disease."
       },
       {
-        "ticker": "ABT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or product launches mentioned in the article, warranting a neutral stance."
+        "ticker": "PTGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Co-developed Icotrokinra with J&J, a first-in-class oral IL-23 receptor antagonist showing strong clinical efficacy, positioning the company as an innovator in oral peptide therapeutics for IBD."
       },
       {
-        "ticker": "MDT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a leading market player but no specific recent developments or product launches mentioned in the article."
-      },
-      {
-        "ticker": "SYK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a leading market player but no specific recent developments or product launches mentioned in the article."
+        "ticker": "SNY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Co-developing Duvakitug with Teva and eligible for milestone payments and royalties, providing exposure to a promising TL1A-targeting therapy in the expanding IBD market."
       }
     ]
   },
   {
-    "id": "30c7b4f600f807710ad84af324afa23fc8f28a1dbf8cf6cd89bb4fe31c6c3128",
+    "id": "470885391b0579e5b4984ca6896412468c7104ce7f49db181e409f50d01c3231",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "This Company Has Raised Its Dividend for 72 Straight Years. Almost Nobody Talks About It.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-08-23T19:08:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/this-company-has-raised-its-dividend-for-72-straig/?source=iedfolrf0000001",
+    "title": "Lilly vs. J&J: Betting on Breakout Growth or Built-In Stability?",
+    "author": "Na",
+    "published_utc": "2026-09-07T14:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985837/lilly-vs-j-j-betting-on-breakout-growth-or-built-in-stability?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985837",
     "tickers": [
-      "AWR",
-      "KO",
-      "JNJ",
-      "AWK"
+      "LLY",
+      "JNJ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884551%2Fgettyimages-2150330615-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "American States Water (AWR) has extended its dividend growth streak to 72 consecutive years with an 8.2% increase, making it one of fewer than 60 companies with 50+ years of annual dividend increases. The regulated water and electric utility operates in California and manages military base facilities, generating stable cash flows. With a 2.5% yield, 8.7% compound annual dividend growth over the past decade, and a target of 7%+ future growth, the company remains an underrecognized dividend growth stock.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/39/612.jpg",
+    "description": "Eli Lilly and Johnson & Johnson are compared as investment opportunities in the healthcare sector. Lilly is driven by its dominant GLP-1 franchise (Mounjaro, Zepbound) generating $27.6B in H1 2026 sales, with new oral therapy Foundayo and pipeline candidate Retatrutide offering future growth. J&J offers diversification across pharmaceuticals and medical devices with 28 products generating over $1B annually, steady 6.2% organic growth in Innovative Medicines, and 64 consecutive years of dividend increases. While J&J shows better valuation and recent stock performance (+33% YTD), Lilly is selected as the superior long-term pick due to substantially stronger earnings-growth prospects, despite facing pricing pressures and GLP-1 market competition.",
     "keywords": [
-      "dividend growth",
-      "Dividend Kings",
-      "water utility",
-      "regulated utility",
+      "GLP-1 therapies",
+      "obesity treatment",
+      "diabetes",
+      "pharmaceutical growth",
+      "pipeline candidates",
+      "M&A activity",
       "dividend yield",
-      "income investing",
-      "capital investment"
+      "valuation",
+      "earnings growth"
     ],
     "insights": [
       {
-        "ticker": "AWR",
+        "ticker": "LLY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates exceptional dividend consistency with 72 years of consecutive increases, stable cash flows from regulated utility operations, strong historical dividend growth rate of 8.7% CAGR, and attractive valuation with 2.5% yield. The article positions it as an undervalued dividend growth opportunity."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a comparison point for name recognition among Dividend Kings; no specific analysis or commentary provided about the company itself."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a comparison point for name recognition among Dividend Kings; no specific analysis or commentary provided about the company itself."
-      },
-      {
-        "ticker": "AWK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only to distinguish it from American States Water as a larger competitor; serves as a clarification point rather than subject of analysis."
-      }
-    ]
-  },
-  {
-    "id": "54aea190f36559278efdb86407e96c2148be7897be66138a4b08fec94e11c574",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Dividend Stocks to Buy and Never Sell",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-08-23T12:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/x-dividend-stocks-to-buy-and-never-sell/?source=iedfolrf0000001",
-    "tickers": [
-      "JNJ",
-      "ABBV",
-      "KVUE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883459%2Fgettyimages-2229745657.jpg&w=1200&op=resize",
-    "description": "Johnson & Johnson and AbbVie are recommended as long-term dividend stocks to hold indefinitely. Both are Dividend Kings with strong cash flows, reliable dividend payments, and solid historical returns. JNJ has increased dividends for 64 consecutive years with a 1.96% yield, while ABBV has 54 years of increases with a higher 2.6% yield and stronger recent performance.",
-    "keywords": [
-      "dividend stocks",
-      "Dividend Kings",
-      "pharmaceutical companies",
-      "long-term investing",
-      "dividend yield",
-      "cash flow",
-      "healthcare sector"
-    ],
-    "insights": [
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recognized as a Dividend King with 64 years of consecutive dividend increases, strong dual revenue streams (pharma and medtech), robust free cash flow generation ($8.7B in Q2, $21B expected by 2026), and solid 5-year and 10-year returns of 12% and 11.5% respectively."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Dividend King with 54 consecutive years of dividend increases, higher dividend yield (2.6% vs JNJ's 1.96%), strong revenue growth (10% YoY), significant operating earnings spike (31% YoY), and superior historical returns (22.1% 5-year and 19.6% 10-year annualized returns)."
-      },
-      {
-        "ticker": "KVUE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in passing as a recommendation alongside JNJ; no substantive analysis or performance data provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "7f52ba19ac89344ee5fe943fddbe881e47d8abd8b967242664f67a671324575c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "If a Stock Market Crash Is Coming, History Says Buying and Holding These Stocks Is a Smart Move",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-08-22T12:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/if-a-stock-market-crash-is-coming-history-says-buy/?source=iedfolrf0000001",
-    "tickers": [
-      "VOO",
-      "JNJ",
-      "BDX",
-      "KO",
-      "PEP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882988%2F24_09_14-wooden-blocks-spelling-out-bull-and-bear-_mf-dload-gettyimages-1316129074-1201x656-9cff472.jpg&w=1200&op=resize",
-    "description": "The article recommends a buy-and-hold strategy for weathering inevitable bear markets, highlighting that the S&P 500 has historically recovered from all downturns. It suggests focusing on dividend-paying stocks in defensive sectors like healthcare and consumer staples, particularly Dividend Kings that have increased dividends for 50+ years, as these provide stability and income during market volatility.",
-    "keywords": [
-      "bear market",
-      "buy and hold strategy",
-      "dividend stocks",
-      "Dividend Kings",
-      "healthcare stocks",
-      "consumer staples",
-      "market downturn",
-      "defensive investing"
-    ],
-    "insights": [
-      {
-        "ticker": "VOO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a low-cost alternative to individual stock picking with a 0.03% expense ratio. Highlighted as a reliable wealth-building strategy with historical recovery from all bear markets."
+        "sentiment_reasoning": "Strong growth momentum in cardiometabolic franchise with blockbuster GLP-1 drugs generating $27.6B in H1 2026. New oral therapy Foundayo offers competitive advantage. Late-stage pipeline candidate Retatrutide has multibillion-dollar potential. Diversifying portfolio through M&A and new product launches. Selected as better long-term investment despite higher valuation (26.87 P/E) due to substantially stronger earnings-growth prospects (48.4% EPS growth expected in 2026)."
       },
       {
         "ticker": "JNJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a Dividend King with 64 consecutive years of dividend increases. Praised as one of the world's largest healthcare companies with high business resilience and diversified operations, though trading at a premium valuation."
-      },
-      {
-        "ticker": "BDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Noted as a Dividend King healthcare company currently out of favor with investors, making it attractively priced with dividend yield above its five-year average, suggesting good value for long-term holders."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a reliable Dividend King in consumer staples, but trading at a premium with dividend yield below its five-year average. Recommended for defensive positioning despite higher valuation."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a diversified Dividend King in consumer staples currently struggling and out of favor, making it attractively priced with dividend yield significantly above its five-year average, offering good value."
-      }
-    ]
-  },
-  {
-    "id": "c28f2d73e43dd54b3c543b786b99cd9dba501b7f1941a5088ceb247a7c05d005",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Warren Buffett Thinks Investors Are \"Gambling\" and \"Playing With Fire\" Right Now. But Here Are 3 Safe Stocks Even the Oracle of Omaha Would Like.",
-    "author": "Thomas Niel",
-    "published_utc": "2026-08-19T14:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/19/warren-buffett-thinks-investors-are-gambling-and/?source=iedfolrf0000001",
-    "tickers": [
-      "JNJ",
-      "PEP",
-      "WM",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882993%2Fbuffett-advice-for-stock-market-crash.webp&w=1200&op=resize",
-    "description": "Warren Buffett warns that investors are gambling in the current market environment with excessive speculation. The article recommends three defensive stocks that could perform well during a market correction: Johnson & Johnson, PepsiCo, and Waste Management. These companies offer stability through strong dividend growth histories, quality business models, and resilience during economic downturns.",
-    "keywords": [
-      "Warren Buffett",
-      "market speculation",
-      "defensive stocks",
-      "dividend growth",
-      "blue chip stocks",
-      "market correction",
-      "gambling culture"
-    ],
-    "insights": [
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong oncology pivot driving earnings growth, AAA credit rating, 65-year dividend growth streak, high-quality blue chip status, and reasonable valuation at 22x forward earnings despite recent price appreciation."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Dividend King with 55-year dividend growth streak, defensive consumer staples characteristics, attractive valuation at 16.5x forward earnings compared to peers, higher dividend yield of 4.2%, and potential activist investor pressure for improvements."
-      },
-      {
-        "ticker": "WM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recession-resistant business model, nearly two-decade dividend growth streak, consistent earnings growth from successful acquisition strategy, expected upper-single-digit to lower-double-digit earnings growth, and premium valuation justified by growth prospects."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the holding company of Warren Buffett and mentioned for context regarding his investment philosophy and past holdings, but not a primary recommendation in the article."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the holding company of Warren Buffett and mentioned for context regarding his investment philosophy and past holdings, but not a primary recommendation in the article."
+        "sentiment_reasoning": "Diversified business model with 28 products generating over $1B annually reduces risk. Innovative Medicines segment growing 6.2% organically despite Stelara patent cliff. Strong cash generation and 64 consecutive years of dividend increases (2% yield). Better valuation (22.16 P/E) and stronger recent stock performance (+33% YTD). However, faces headwinds from patent cliffs and MedTech softness, resulting in lower earnings growth expectations (7.4% in 2026)."
       }
     ]
   }

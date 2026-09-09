@@ -1,272 +1,276 @@
 [
   {
-    "id": "c0b37c20549f780984a67f6b3ffd47f84d81f505171ff13085265aa0b90a1205",
+    "id": "af6d82907995ac6df318d4e35c5a0b5f1c87e10750aa886396c263f2cb7a087f",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Adobe Trades at 10 Times Next Year's Earnings. Is It Finally Time to Buy the Stock?",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-16T19:08:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/16/adobe-trades-at-10-times-next-years-earnings-is-it/?source=iedfolrf0000001",
-    "tickers": [
-      "ADBE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883790%2Fadobe-logo-on-smartphone-app-icons-backdrop-getty.jpg&w=1200&op=resize",
-    "description": "Adobe stock has fallen 29% from its 52-week high and now trades at approximately 10 times next year's projected earnings, a valuation typically reserved for declining businesses. However, the company reported record Q2 revenue of $6.62 billion (up 13% YoY), raised full-year guidance, and its AI-first products tripled to over $500 million in annualized recurring revenue. While generative AI poses a competitive threat, current financial results show strength, suggesting the market is pricing in a decline that hasn't yet materialized in the numbers.",
-    "keywords": [
-      "valuation",
-      "earnings multiple",
-      "revenue growth",
-      "AI threat",
-      "stock buyback",
-      "guidance raise",
-      "generative AI",
-      "recurring revenue"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite trading at a low valuation multiple, Adobe demonstrates strong fundamentals with record revenue, double-digit growth (13% YoY), raised full-year guidance, significant share buybacks (2% in one quarter), and AI-first products growing rapidly. The author concludes shares look attractive as the market appears to be pricing in a decline that hasn't yet shown up in reported numbers."
-      }
-    ]
-  },
-  {
-    "id": "cee9f285631027c1a019f80f6a4d33e0b08cbd0daec893d454c14ba52d562f84",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Adobe vs. Arista Networks: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-08-09T23:11:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/08/09/adobe-vs-arista-networks-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "ADBE",
-      "ANET",
-      "AVGO",
-      "CSCO",
-      "MSFT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Adobe and Arista Networks as investment choices for 2026. Adobe, a creative software giant with a 30% net margin and $23.8B in revenue, trades at a conservative 10.7x forward P/E ratio. Arista Networks, a high-speed networking infrastructure leader with 28.6% revenue growth and 39% net margin, trades at a higher 47.8x forward P/E. Despite Arista's stronger growth prospects from AI data center expansion, the author recommends Adobe due to its market leadership, profitability, and superior valuation offering greater upside potential.",
-    "keywords": [
-      "creative software",
-      "AI integration",
-      "data center networking",
-      "valuation comparison",
-      "revenue growth",
-      "profit margins",
-      "customer concentration risk",
-      "management transition"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong market leadership in digital creation tools, excellent profitability (30% net margin, $7.1B net income), solid revenue growth (10.5%), manageable debt (0.6x debt-to-equity), and attractive valuation (10.7x forward P/E) with significant upside potential. Author's recommended pick despite CEO transition uncertainty."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Impressive revenue growth (28.6%), high profitability (39% net margin, $3.5B net income), zero debt, and strong free cash flow ($4.3B). Benefits from AI data center expansion tailwinds. However, offset by high valuation (47.8x forward P/E), heavy customer concentration risk with cloud giants, and supply chain dependency on Broadcom."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a critical chip supplier to Arista Networks, representing a supply chain dependency risk. No direct investment recommendation provided."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitive threat to Arista Networks in the networking equipment market. No direct investment recommendation provided."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of Arista's major customers, illustrating customer concentration risk. No direct investment recommendation provided."
-      }
-    ]
-  },
-  {
-    "id": "7a5d9f0174511fb090b6243fdbfdb1479d18af7c93439c7ecfc283d7491f3069",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Pearson Names Certiport 2026 Adobe Certified Professional World Champion",
+    "title": "Adobe Before Q3 Earnings: Should You Hold or Fold the ADBE Stock?",
     "author": "Na",
-    "published_utc": "2026-07-29T19:50:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/29/3335536/0/en/Pearson-Names-Certiport-2026-Adobe-Certified-Professional-World-Champion.html",
+    "published_utc": "2026-09-08T18:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986634/adobe-before-q3-earnings-should-you-hold-or-fold-the-adbe-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986634",
     "tickers": [
       "ADBE",
-      "PSO"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/be820aa8-f440-4a95-87e1-32d3beb4f2ff",
-    "description": "Pearson announced the winners of the 13th annual Certiport Adobe Certified Professional World Championship, held in Anaheim, CA, with 56 finalists from 27 countries competing. The competition showcases students aged 13-22 who have earned Adobe certifications in Photoshop, Illustrator, or InDesign. Lulu Emanuele from the USA won first place. According to Pearson, 75% of hiring managers value professional certifications for creative positions, highlighting the importance of early credential achievement for career advancement.",
-    "keywords": [
-      "Adobe Certified Professional",
-      "World Championship",
-      "student competition",
-      "professional certification",
-      "design skills",
-      "creative industry",
-      "hiring managers",
-      "digital media"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adobe's professional certifications are portrayed as highly valued credentials in the digital media and design industry. The competition showcases Adobe software expertise (Photoshop, Illustrator, InDesign) and reinforces the market demand for Adobe skills among employers seeking creative talent."
-      },
-      {
-        "ticker": "PSO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pearson is highlighted as the organizer and supporter of a prestigious global competition that validates professional skills and credentials. The article emphasizes the value of their certifications to employers (75% of hiring managers recognize them) and positions Pearson as a leader in professional development and assessment, supporting young talent entering the creative industry."
-      }
-    ]
-  },
-  {
-    "id": "d309e8da91b6fda0f45d9a0a2144f8c8aee797eb0da1dadee71375b3d7bf99d0",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Adobe President Wadhwani Sells 1,498 Shares for Tax Withholding",
-    "author": "Will Healy",
-    "published_utc": "2026-07-27T17:20:01Z",
-    "article_url": "https://www.fool.com/coverage/filings/2026/07/27/adobe-president-wadhwani-sells-1-498-shares-for-tax-withholding/?source=iedfolrf0000001",
-    "tickers": [
-      "ADBE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd227e0f40b399dc519a5bed98ee8a4568fc6efb8-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Adobe President David Wadhwani sold 1,498 shares worth approximately $336,400 on July 15, 2026, to cover tax liabilities from restricted stock unit vesting. Despite the sale, Wadhwani retained substantial equity holdings of 43,216 shares and 15,826 derivative securities, signaling confidence in Adobe's business amid industry concerns about AI disruption. Adobe's 11% revenue growth in H1 FY2026 and attractive P/E ratio of 13 suggest the company remains resilient despite software sector headwinds.",
-    "keywords": [
-      "insider trading",
-      "tax withholding",
-      "restricted stock units",
-      "software stocks",
-      "AI disruption",
-      "SaaS",
-      "equity compensation"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite the insider's share sale being for tax purposes rather than a loss of confidence, the article emphasizes Wadhwani's decision to retain substantial equity holdings (43,216 shares and 15,826 options), indicating confidence in the company. Adobe's 11% revenue growth in H1 FY2026, strong profitability ($7.2B net income TTM), and attractive valuation (P/E of 13) demonstrate resilience against AI-driven disruption concerns. The article concludes investors should remain bullish on the stock."
-      }
-    ]
-  },
-  {
-    "id": "03052a91ecce1f0bade88a90d88cfcd0ead16534c9d1070a6813959fe758b8cf",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "AI Watermarking Market Size to Surpass $5,040.94 Million by 2035, Fueled by AI Content Authentication and Copyright Protection Technologies | Research by SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-24T13:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3332882/0/en/AI-Watermarking-Market-Size-to-Surpass-5-040-94-Million-by-2035-Fueled-by-AI-Content-Authentication-and-Copyright-Protection-Technologies-Research-by-SNS-Insider.html",
-    "tickers": [
+      "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "MSFT",
-      "META",
-      "IBM",
-      "AMZN",
-      "ADBE",
-      "BABA",
-      "NVDA",
-      "DMRC"
+      "CRM"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI watermarking market is projected to grow from $520.50 million in 2025 to $5,040.94 million by 2035, with a CAGR of 25.49%. Growth is driven by increasing demand for AI content authentication, copyright protection, and regulatory compliance. Invisible watermarking leads the market with 61% share, while the copyright protection segment is expected to show the fastest growth. North America dominates with 37.70% market share, followed by Europe and Asia Pacific.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5d/931.jpg",
+    "description": "Adobe is set to report Q3 FY2026 results on September 10 with expected revenues of $6.67-$6.72 billion and non-GAAP EPS of $6.05-$6.10. The company's AI initiatives including Firefly, Acrobat AI Assistant, and GenStudio are driving growth with AI-first ARR exceeding $500 million. However, intensifying GenAI competition, rising investments, and near-term ARR pressure from freemium strategy expansion present concerns. Adobe shares have underperformed the sector by 23.8% year-to-date but trade at a valuation discount.",
     "keywords": [
-      "AI watermarking",
-      "content authentication",
-      "copyright protection",
-      "digital content security",
+      "Q3 earnings",
       "generative AI",
-      "intellectual property",
-      "AI governance",
-      "invisible watermarking",
-      "non-reversible watermarking"
+      "freemium strategy",
+      "ARR growth",
+      "enterprise adoption",
+      "GenAI competition",
+      "Firefly",
+      "Acrobat AI Assistant",
+      "GenStudio"
     ],
     "insights": [
       {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Adobe demonstrates strong AI monetization momentum with Firefly ARR approaching $300 million and AI-first ARR exceeding $500 million, plus robust enterprise adoption. However, this is offset by intensifying GenAI competition, rising investments pressuring profitability, and near-term ARR headwinds from aggressive freemium expansion. The stock's 23.8% YTD underperformance and Zacks Rank #4 (Sell) rating reflect these offsetting factors."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as a key competitor in the GenAI space posing a threat to Adobe's market position. Microsoft's superior YTD performance (+3.3%) and higher valuation multiple (9.22X P/S) suggest it is better positioned in the competitive AI landscape."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Listed as a competitor in the GenAI space. While Salesforce has underperformed YTD (-2%), it remains a competitive threat in enterprise AI solutions."
+      }
+    ]
+  },
+  {
+    "id": "379006d9a3be80e7411f6f1ff35e16fd4da3e2e8e6cbc5ffd45404e30f6341f7",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Adobe's Next Earnings Report on Sept. 10 Could Send the Stock Plunging. Here's Why.",
+    "author": "Patrick Sanders",
+    "published_utc": "2026-09-08T18:07:23Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/adobes-next-earnings-report-on-sept-10-could-send-the-stock-plunging-heres-why/?source=iedfolrf0000001",
+    "tickers": [
+      "ADBE",
+      "FIG"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F150114b14adb45743511b2fbe48eb425dda8f72e-1024x683.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Adobe faces a critical earnings report on Sept. 10 as it navigates AI disruption to its core creative software business. The company has tripled AI-first revenue to $500 million annualized recurring revenue but must balance aggressive user acquisition through freemium offerings with meaningful monetization. Adobe stock is down 26% year-to-date amid competition from AI tools and rivals like Figma and Canva, while the company undergoes leadership transitions with a new CEO taking over in December.",
+    "keywords": [
+      "Adobe earnings",
+      "generative AI",
+      "Firefly",
+      "creative software",
+      "AI disruption",
+      "freemium strategy",
+      "leadership transition",
+      "monetization"
+    ],
+    "insights": [
+      {
+        "ticker": "ADBE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock down 26% year-to-date heading into earnings. Author expects stock to slip after Sept. 10 report due to market's 'show-me' mentality. Company faces pressure to monetize AI products while managing user acquisition, and is undergoing major C-suite transitions. Competitors like Figma and Canva are gaining market share."
+      },
+      {
+        "ticker": "FIG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Adobe with estimated 13 million users, particularly outside the U.S., potentially capturing market share from Adobe's traditional customer base."
+      }
+    ]
+  },
+  {
+    "id": "2bdb1a71ab8bb73c64e64f597a9cee09caffc64cf1c2fa36dea346b4a2d3458e",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Oracle, Adobe, Micron, Alphabet and Nvidia are part of Zacks Earnings Preview",
+    "author": "Zacks Investment Research",
+    "published_utc": "2026-09-08T13:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986268/oracle-adobe-micron-alphabet-and-nvidia-are-part-of-zacks-earnings-preview?cid=CS-ZC-FT-press_releases-2986268",
+    "tickers": [
+      "ORCL",
+      "ORCLpD",
+      "ADBE",
+      "MU",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "NVDA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/79/525.jpg",
+    "description": "Zacks releases its earnings preview for the week of September 8, 2026, highlighting five companies expected to report earnings surprises: Oracle and Adobe kick off Q3 earnings season on September 10th. The S&P 500 is expected to see Q3 earnings grow +23% year-over-year with +11.2% revenue growth. Q2 results showed strong performance with 84.2% of companies beating EPS estimates. Positive revision trends have broadened across 8 of 16 sectors beyond just Technology and Energy.",
+    "keywords": [
+      "Q3 earnings season",
+      "earnings surprises",
+      "S&P 500",
+      "earnings growth",
+      "revenue growth",
+      "earnings revisions",
+      "technology sector"
+    ],
+    "insights": [
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle is highlighted as part of the earnings preview and will kick off Q3 earnings season on September 10th. However, the article notes it has been a 'major stock laggard lately' relative to the Tech sector and S&P 500, suggesting recent underperformance despite being included in the earnings preview."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle is highlighted as part of the earnings preview and will kick off Q3 earnings season on September 10th. However, the article notes it has been a 'major stock laggard lately' relative to the Tech sector and S&P 500, suggesting recent underperformance despite being included in the earnings preview."
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Adobe is featured as a key earnings reporter for Q3 season alongside Oracle. Like Oracle, it is noted as a 'major stock laggard lately,' indicating recent underperformance despite being part of the earnings preview."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Micron is specifically highlighted as delivering 'blockbuster results' in Q2, contributing significantly to the unusually strong S&P 500 earnings growth rate of +45.6%. This exceptional performance is explicitly called out as a major positive driver."
+      },
+      {
         "ticker": "GOOG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google introduced SynthID in October 2024, embedding invisible watermarks into AI-generated content to improve authenticity and traceability, demonstrating active innovation in the growing AI watermarking market."
+        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google introduced SynthID in October 2024, embedding invisible watermarks into AI-generated content to improve authenticity and traceability, demonstrating active innovation in the growing AI watermarking market."
+        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google introduced SynthID in October 2024, embedding invisible watermarks into AI-generated content to improve authenticity and traceability, demonstrating active innovation in the growing AI watermarking market."
+        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google introduced SynthID in October 2024, embedding invisible watermarks into AI-generated content to improve authenticity and traceability, demonstrating active innovation in the growing AI watermarking market."
+        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
       },
       {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
-      },
-      {
-        "ticker": "AMZN",
+        "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "AWS expanded AI content authentication capabilities in October 2024 through enhanced synthetic media detection and integrated watermarking functionality within Amazon Bedrock Titan models, showing active market participation."
-      },
+        "sentiment_reasoning": "Nvidia is included in the earnings preview and its contributions are flagged as 'significant' to the annual earnings picture. The company is part of the Tech sector which is expected to see +52.3% earnings growth, with Nvidia being a key driver of this performance."
+      }
+    ]
+  },
+  {
+    "id": "d92b7f540b6594490164ad9bf865df16cfb2153651ddad5787bce0442d8add25",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Adobe Has Handed Over the CEO Job Once in 19 Years. Here's What the Stock Did After the Last Time.",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-09-08T08:31:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/adobe-has-handed-over-the-ceo-job-once-in-19-years-here-s-what-the-stock-did-after-the-last-time/?source=iedfolrf0000001",
+    "tickers": [
+      "ADBE"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F150114b14adb45743511b2fbe48eb425dda8f72e-1024x683.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Adobe announced that Anil Chakravarthy will become CEO on December 1, 2026, replacing Shantanu Narayen who will move to executive chair. This marks only the second CEO transition in 19 years. While the stock fell 6.7% on the announcement, the article argues that current conditions favor the new CEO more than the 2007 transition did, when the Great Recession caused a 50% stock decline within 12 months. The company now has stronger recurring revenue and a more stable business model than it did in 2007.",
+    "keywords": [
+      "CEO transition",
+      "leadership change",
+      "stock performance",
+      "recurring revenue",
+      "business model",
+      "market conditions",
+      "valuation"
+    ],
+    "insights": [
+      {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the stock declined 6.7% on the CEO transition announcement, the article presents a balanced view. The author notes that current conditions are more favorable than the 2007 transition (stronger recurring revenue model, better valuation at 9.5x forward earnings vs 26x in 2007), and concludes 'I wouldn't sell Adobe over this transition. If anything, at this price, I'd rather buy than sell.' However, concerns remain about AI disruption and executive departures, preventing a positive rating."
+      }
+    ]
+  },
+  {
+    "id": "6b8b11836a92751e7364a010dce3a2c1c55a4cfa025d86636006a6823b9f3bd4",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Is Adobe's Stock Heading for $300?",
+    "author": "David Jagielski, Cpa",
+    "published_utc": "2026-09-07T16:02:29Z",
+    "article_url": "https://www.fool.com/investing/2026/09/07/is-adobe-s-stock-heading-for-300/?source=iedfolrf0000001",
+    "tickers": [
+      "ADBE",
+      "AAPL",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6acb60eadf30fcaa13192897bd2c1c41552f7973-2000x1125.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Adobe's stock has fallen 24% year-to-date due to AI-related concerns, as AI chatbots threaten its core image creation software business. However, the stock has been rallying recently and trades at a discount (15x trailing earnings vs. S&P 500 average of 24x). Despite valid risks from potential demand erosion, the author believes Adobe's continued solid growth (11% revenue increase) and attractive valuation provide sufficient margin of safety for the stock to potentially finish the year above $300.",
+    "keywords": [
+      "artificial intelligence threat",
+      "software stocks",
+      "valuation discount",
+      "AI chatbots",
+      "subscription services",
+      "tech stock rally",
+      "margin of safety"
+    ],
+    "insights": [
       {
         "ticker": "ADBE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Adobe expanded its Content Credentials platform in April 2025 by integrating invisible watermarking technology, demonstrating continued investment in digital content authentication across its creative software portfolio."
+        "sentiment_reasoning": "Despite significant AI-related headwinds and a 24% year-to-date decline, Adobe trades at an attractive valuation discount (15x trailing earnings) compared to the broader market. The company continues to show solid revenue growth (11%) and is incorporating AI into its products. The author believes the stock has more upside than downside at current levels and could reach $300 by year-end."
       },
       {
-        "ticker": "BABA",
+        "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
+        "sentiment_reasoning": "Apple is mentioned as a high-flying tech stock that has hit record levels and is receiving significant investor focus, but it is not the subject of analysis in this article and no specific sentiment is expressed about its investment merits."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
-      },
-      {
-        "ticker": "DMRC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a key player in the AI watermarking market but no specific recent developments or initiatives mentioned in the article."
+        "sentiment_reasoning": "Nvidia is mentioned as a high-flying tech stock that has hit record levels, but it is not the subject of analysis in this article and no specific sentiment is expressed about its investment merits."
       }
     ]
   }

@@ -1,202 +1,209 @@
 [
   {
-    "id": "86836421768eaac0e9ead16ab8f3e0d4dcda1b6986a4dad080b3a593446e4481",
+    "id": "ad2dd142b88c97fde368899f1121cee1b78fa6f34df938a02652f56d2da3aa90",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Microsoft vs. Automatic Data Processing: Scale vs. Seasonality in Revenue",
-    "author": "John Ballard",
-    "published_utc": "2026-08-06T20:11:01Z",
-    "article_url": "https://www.fool.com/coverage/charts/2026/08/06/microsoft-vs-automatic-data-processing-scale-vs-seasonality-in-revenue/?source=iedfolrf0000001",
-    "tickers": [
-      "MSFT",
-      "ADP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Fmsft-adp%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Fmsft-adp_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
-    "description": "Microsoft demonstrates superior revenue growth and consistency compared to Automatic Data Processing, with Microsoft growing at mid-teens rates while ADP grows at mid-single-digit rates. Microsoft's $388 billion annual revenue, driven by 43% Azure cloud growth and 30 million Copilot paid seats, positions it as the leader in AI monetization. ADP's AI platform The Zone shows adoption but hasn't meaningfully lifted revenue growth yet, suggesting the gap between the companies may continue to widen.",
-    "keywords": [
-      "revenue growth",
-      "cloud computing",
-      "AI adoption",
-      "enterprise software",
-      "business comparison",
-      "market positioning"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft shows strong and consistent revenue growth (18% YoY), significant Azure cloud expansion (43% growth), successful AI monetization with 30 million Copilot paid seats, and is positioned as the leader in enterprise AI infrastructure and services."
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "ADP demonstrates stable but modest revenue growth (6.7% YoY) with seasonal fluctuations, high client retention (92%), and AI platform adoption through The Zone. However, AI offerings have not yet meaningfully accelerated revenue growth, and the company faces a widening competitive gap with Microsoft."
-      }
-    ]
-  },
-  {
-    "id": "a12c4fded641a9f3e7f303bc2320998bc4ceee2c60ae12cab1b0d057473f276f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The Smartest Dividend Stocks to Buy With $1,000 in July and Never Sell",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-07-16T14:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/16/the-smartest-dividend-stocks-to-buy-with-1000-in/?source=iedfolrf0000001",
-    "tickers": [
-      "MCD",
-      "WM",
-      "O",
-      "ADP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878145%2Fmcd.jpg&w=1200&op=resize",
-    "description": "The article recommends four dividend stocks as long-term buy-and-hold investments for a $1,000 portfolio: McDonald's for its global reach and 50-year dividend growth history, Waste Management for its essential services and 23-year dividend streak, Realty Income for its monthly dividend payouts and 31-year growth record, and Automatic Data Processing for its reliable cloud-based payroll services and 50-year dividend increase streak.",
-    "keywords": [
-      "dividend stocks",
-      "long-term investing",
-      "buy-and-hold strategy",
-      "dividend yield",
-      "portfolio diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong global presence with 45,500 locations, consistent revenue growth (9% YoY), 50-year dividend increase history, and 2.7% dividend yield make it a reliable long-term investment."
-      },
-      {
-        "ticker": "WM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recession-resistant business model with essential services, market leadership capturing $25B of $130B market, strong operational growth (24% cash flow increase), and 23-year consecutive dividend increases."
-      },
-      {
-        "ticker": "O",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Unique monthly dividend structure (673 consecutive months), 31-year dividend growth history, high dividend yield of 5.1%, and REIT structure providing real estate market access."
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stable cloud-based payroll services business with 7% revenue growth, 50-year dividend increase streak, 2.7% dividend yield, and AI integration for operational efficiency."
-      }
-    ]
-  },
-  {
-    "id": "efa999fc3c178de8bbf1efa6d641445ecb5b42f2206c739cd0687460f1411d9a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Michael Haske to Become isolved CEO as Company Embarks on Next Phase of AI-Led Growth",
+    "title": "Here's Why Investors Must Hold ADP Stock in Their Portfolios Now",
     "author": "Na",
-    "published_utc": "2026-05-04T18:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/04/3287054/0/en/Michael-Haske-to-Become-isolved-CEO-as-Company-Embarks-on-Next-Phase-of-AI-Led-Growth.html",
+    "published_utc": "2026-09-08T15:29:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986595/here-s-why-investors-must-hold-adp-stock-in-their-portfolios-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2986595",
     "tickers": [
-      "PCTY",
       "ADP",
-      "PAYX"
+      "ANET",
+      "AMKR"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/c7803669-a575-4be5-a22a-b9982b790c1c",
-    "description": "isolved announced a planned CEO transition effective May 4, 2026, with Mark Duffell retiring after leading the company since 2020 and Michael Haske, a veteran HCM technology executive, assuming the role. Under Duffell's tenure, isolved achieved nearly fourfold revenue growth and now serves over 200,000 employers and 9 million employees. Haske plans to position isolved as a 'Platform of Action' by integrating agentic AI and advanced automation capabilities.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/78/424.jpg",
+    "description": "ADP stock has gained 26.4% over six months, outperforming the S&P 500. The company reported strong FY26 ES bookings of $2.2B with 92.1% retention and 60 bps margin expansion driven by AI investments. FY27 revenues are estimated to grow 6% to $23.3B with EPS growth of 10.3%. However, risks include flat employment growth limiting revenues, PEO margin weakness, and expected retention drag in FY27.",
     "keywords": [
-      "CEO transition",
-      "human capital management",
-      "HCM platform",
-      "agentic AI",
-      "payroll services",
-      "workforce management",
-      "succession planning"
+      "ADP",
+      "payroll processing",
+      "AI-driven productivity",
+      "margin expansion",
+      "employment growth",
+      "shareholder returns",
+      "PEO margins",
+      "retention rates"
     ],
     "insights": [
       {
-        "ticker": "PCTY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a company where incoming CEO Michael Haske previously worked for 16 years and helped scale to $1 billion in revenue. This is contextual information about Haske's background rather than news directly affecting Paylocity's operations or outlook."
-      },
-      {
         "ticker": "ADP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as part of incoming CEO's career history where he began his career. No direct business impact or news related to ADP is discussed."
+        "sentiment_reasoning": "ADP demonstrates positive fundamentals with strong bookings, high retention rates, and AI-driven margin expansion. However, these gains are offset by headwinds including flat employment growth expectations, PEO margin pressure, and anticipated retention drag in FY27. The company's Zacks Rank of #3 (Hold) reflects this balanced risk-reward profile."
       },
       {
-        "ticker": "PAYX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as part of incoming CEO's prior employment history where he spent 10 years. No direct business impact or news related to Paychex is discussed."
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a better-ranked alternative with Zacks Rank #1 (Strong Buy), 22.7% long-term earnings growth expectation, and consistent 8.9% average trailing four-quarter earnings surprises."
+      },
+      {
+        "ticker": "AMKR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a superior investment option with Zacks Rank #1 (Strong Buy), 31.2% long-term earnings growth expectation, and impressive 43.6% average trailing four-quarter earnings surprises."
       }
     ]
   },
   {
-    "id": "41a984fa5cc801569593e2509f783b8d922ef53978c878cba83c9ba8e72c8e7f",
+    "id": "810d18530d6a83c54bffe9dcc91d8921df6e6e5eb729377e665de1a9e1f4ed55",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ADP Declares Regular Quarterly Dividend",
-    "author": "Prnewswire",
-    "published_utc": "2026-04-08T20:29:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/26/04/n51719283/adp-declares-regular-quarterly-dividend?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+    "title": "Why Is Match Group (MTCH) Up 11.2% Since Last Earnings Report?",
+    "author": "Na",
+    "published_utc": "2026-09-03T15:30:20Z",
+    "article_url": "https://www.zacks.com/stock/news/2984558/why-is-match-group-mtch-up-11-2-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2984558",
     "tickers": [
+      "MTCH",
       "ADP"
     ],
-    "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-    "description": "Automatic Data Processing, Inc. (NASDAQ:ADP) has declared a regular quarterly dividend of $1.70 per share, payable on July 1, 2026 to shareholders of record as of June 12, 2026.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+    "description": "Match Group reported Q2 2026 earnings of $0.92 per share, missing consensus estimates by 5.15%, with revenues of $853 million down 1% year-over-year. Despite the miss, the company showed improving Tinder engagement trends and strong Hinge growth of 22% year-over-year. Management raised full-year guidance with Adjusted EBITDA expected at or above the high end of prior guidance. Shares have gained 11.2% since the earnings report, and the stock received a Zacks Rank #1 (Strong Buy) rating with upward estimate revisions.",
     "keywords": [
-      "dividend",
-      "quarterly",
-      "ADP",
-      "shareholder returns",
-      "payroll solutions"
+      "earnings miss",
+      "revenue decline",
+      "Tinder turnaround",
+      "Hinge growth",
+      "guidance raise",
+      "EBITDA expansion",
+      "estimate revisions"
     ],
     "insights": [
       {
-        "ticker": "ADP",
+        "ticker": "MTCH",
         "sentiment": "positive",
-        "sentiment_reasoning": "The declaration of a regular quarterly dividend demonstrates the company's financial health and commitment to returning value to shareholders. Consistent dividend payments are typically viewed positively by investors as they indicate stable cash flows and management confidence in the company's future performance."
+        "sentiment_reasoning": "Despite missing Q2 earnings and revenue estimates, the company demonstrated improving operational trends (Tinder DAU decline slowed to best in 10 quarters, Hinge revenue +22% YoY), raised full-year guidance, expanded EBITDA margins by 500 basis points, and received upward estimate revisions (11.67% consensus shift) resulting in a Zacks Rank #1 Strong Buy rating."
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ADP showed solid fundamentals with 6.8% revenue growth and 16.8% EPS growth year-over-year, but received a Zacks Rank #3 (Hold) rating with no estimate revisions over the past 30 days and a poor VGM Score of D, indicating limited near-term upside potential."
       }
     ]
   },
   {
-    "id": "6eca61dc5578c381c003e373e010329a0fe2c6ef6d390a4534177715b0e052b8",
+    "id": "5f20d26bfb146466ebe6ffbf2050acd273afc31c4020540e0ca0422cda0f915c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "1 Magnificent S&P 500 Dividend Stock Down 36% to Buy and Hold Forever",
-    "author": "James Brumley",
-    "published_utc": "2026-03-19T12:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/03/19/magnificent-sp-500-dividend-stock-down-buy-hold/?source=iedfolrf0000001",
+    "title": "Why SSR Mining Stock Was a Winner on Wednesday",
+    "author": "Eric Volkman",
+    "published_utc": "2026-09-02T23:32:16Z",
+    "article_url": "https://www.fool.com/investing/2026/09/02/why-ssr-mining-stock-was-a-winner-on-wednesday/?source=iedfolrf0000001",
     "tickers": [
+      "SSRM",
       "ADP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F859492%2Ffemale-investor-reviewing-her-portfolio-on-a-laptop.jpg&w=1200&op=resize",
-    "description": "Automatic Data Processing (ADP) has declined 36% due to AI disruption concerns, but the article argues this decline is unwarranted. ADP is a major U.S. payroll processor serving 1 in 6 workers with diverse HR capabilities beyond payroll. The company is embracing AI strategically rather than competing against it, and maintains a strong dividend history with 51 consecutive annual increases, making it attractive for income-seeking investors at current valuations.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886137%2Fhand-of-a-person-holding-large-gold-nuggets.jpg&w=1200&op=resize",
+    "description": "SSR Mining stock surged over 5% on Wednesday following a weaker-than-expected jobs report from ADP, which cooled Fed rate hike concerns. Lower interest rate expectations boosted precious metals prices, benefiting gold and silver mining stocks. However, the author remains cautious, believing inflation pressures will likely lead to future rate increases that could pressure precious metals prices.",
     "keywords": [
-      "dividend stock",
-      "payroll processing",
-      "artificial intelligence",
-      "HR technology",
-      "Dividend King",
-      "S&P 500",
-      "income investing"
+      "precious metals",
+      "gold prices",
+      "silver prices",
+      "interest rates",
+      "Federal Reserve",
+      "jobs report",
+      "inflation"
     ],
     "insights": [
       {
+        "ticker": "SSRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the stock gained 5.36% on Wednesday due to favorable market conditions around precious metals, the author expresses skepticism about future performance, believing inflation concerns will likely lead to Fed rate hikes that would negatively impact precious metals and mining stocks."
+      },
+      {
         "ticker": "ADP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ADP released the jobs report that triggered the market movement, but the company itself is not the focus of investment analysis in this article. It serves as a catalyst for market sentiment rather than being evaluated as an investment."
+      }
+    ]
+  },
+  {
+    "id": "b73ddd6985bb250a926f636b467f207792b127f35e9a4528bdbf08d3680ca42b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Is Palantir Technologies (PLTR) Up 10.6% Since Last Earnings Report?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T15:30:09Z",
+    "article_url": "https://www.zacks.com/stock/news/2983870/why-is-palantir-technologies-pltr-up-10-6-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2983870",
+    "tickers": [
+      "PLTR",
+      "ADP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default78.jpg",
+    "description": "Palantir Technologies delivered exceptional Q2 2026 results, beating earnings estimates with $1.94B in revenue (92.8% YoY growth) and $0.41 EPS (156.3% YoY growth). The company's commercial business surged 109.7% YoY, driven by strong AI platform adoption. Management raised full-year guidance significantly, projecting $8.15-8.158B in revenue and $4.5-4.7B in adjusted free cash flow. The stock has gained 10.6% since the earnings report and received a Zacks Rank #1 (Strong Buy) rating.",
+    "keywords": [
+      "earnings report",
+      "revenue growth",
+      "AI platform",
+      "guidance raise",
+      "commercial business",
+      "enterprise software",
+      "cash flow",
+      "customer expansion"
+    ],
+    "insights": [
+      {
+        "ticker": "PLTR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite a 36% stock decline, the article presents a bullish case arguing the selloff is excessive. ADP's diversified HR services, strategic AI integration, strong financial position, and 51-year dividend growth streak (Dividend King status) support the recommendation as a 'buy and hold forever' opportunity at depressed valuations with an above-average 3.2% dividend yield."
+        "sentiment_reasoning": "Strong Q2 earnings beat with 92.8% YoY revenue growth and 156.3% YoY EPS growth. Commercial revenue surged 109.7% YoY. Management raised full-year guidance by ~$500M. Exceptional margins (86% gross, 62% operating), strong cash generation ($1.22B free cash flow), record bookings of $3.4B, and 157% net dollar retention demonstrate robust business momentum and customer expansion. Zacks Rank #1 (Strong Buy) rating reflects analyst confidence."
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Modest 6.8% YoY revenue growth and 17.1% YoY EPS growth in last reported quarter. Stock gained only 4.8% over the past month, significantly underperforming PLTR. Zacks Rank #3 (Hold) indicates neutral outlook with no estimate revisions in the last 30 days. VGM Score of D suggests limited appeal across investment strategies."
+      }
+    ]
+  },
+  {
+    "id": "735d8f2a8b67f9938e882a394850a79f81a2d3a3d9a4cdfda5cf3c2fcd2eb709",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Oil, Yields Higher Ahead of \"Jobs Week\"",
+    "author": "Na",
+    "published_utc": "2026-08-31T14:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982553/oil-yields-higher-ahead-of-jobs-week?cid=CS-ZC-FT-ahead_of_wall_street-2982553",
+    "tickers": [
+      "NVDA",
+      "ADP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c5/123172.webp",
+    "description": "U.S.-Iran military escalation overnight pushed spot oil prices up over 3%, with WTI at $86/bbl and Brent at $91/bbl. Bond yields reached their highest levels of the Trump presidency (10-year at 4.75%, 30-year at 5.25%), complicating the Fed's rate-cutting outlook. Pre-market futures opened lower on Monday as investors await a week of critical labor market data including JOLTS, ADP employment, jobless claims, and Friday's BLS non-farm payrolls report.",
+    "keywords": [
+      "geopolitical tension",
+      "oil prices",
+      "bond yields",
+      "labor market",
+      "Fed policy",
+      "employment data",
+      "Iran-U.S. conflict"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as having strong earnings results that supported market gains last week, but no direct impact from current week's geopolitical or economic developments."
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ADP employment report expected to show +45K new jobs in August, essentially flat month-over-month, indicating stable but unspectacular labor market conditions."
       }
     ]
   }

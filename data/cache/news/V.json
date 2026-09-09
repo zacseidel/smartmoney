@@ -1,460 +1,241 @@
 [
   {
-    "id": "0806571a6d993d05348fcbf8ded127b30ebfa360665ecc5efb8b4d85f3aa5f90",
+    "id": "7f838b44ffc96052f1142de6a17e2e9d888826f80e519ed59a1d24f3b8f493e1",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "For Investors in Their 30s, Here's 1 Glorious Growth ETF to Buy Hand Over Fist and Hold Forever",
-    "author": "Anthony Di Pizio",
-    "published_utc": "2026-08-25T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/25/investors-glorious-growth-etf-buy-hold-mgk/?source=iedfolrf0000001",
+    "title": "I've Covered Many IPOs for The Motley Fool. Here's What Most Investors Get Wrong.",
+    "author": "Jennifer Saibil",
+    "published_utc": "2026-09-08T11:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/ive-covered-many-ipos-for-the-motley-fool-heres-wh/?source=iedfolrf0000001",
     "tickers": [
-      "MGK",
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
+      "SPCX",
+      "HOOD",
+      "SOFI",
       "AMZN",
-      "META",
-      "TSLA",
-      "AVGO",
-      "V",
-      "MA",
-      "LLY",
-      "NFLX"
+      "NVDA",
+      "SBUX",
+      "V"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884592%2Fa-smiling-person-writing-notes-while-looking-at-stock-charts-on-the-computer.jpg&w=1200&op=resize",
-    "description": "The Vanguard Morningstar Mega Cap Growth ETF (MGK) is recommended for investors in their 30s seeking long-term growth. With 72% exposure to technology stocks and top holdings in Nvidia, Apple, and Microsoft, the ETF has delivered 13.6% compound annual returns since 2007, outperforming the S&P 500's 10.9%. A $30,000 investment could yield approximately $700,000 more at retirement compared to conservative alternatives, though diversification is advised.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885941%2Fperson-cheering-in-a-stock-exchange-with-stock-charts.jpg&w=1200&op=resize",
+    "description": "IPO stocks are often overpriced at launch due to hype, making them risky investments. Retail investors have limited access to IPO shares, which mostly go to institutional investors. The article recommends waiting for better entry points, particularly after the 180-day lockup period expires when insiders can sell, rather than buying immediately at IPO prices.",
     "keywords": [
-      "growth ETF",
-      "long-term investing",
-      "technology stocks",
-      "retirement planning",
-      "compound returns",
-      "mega cap growth",
-      "artificial intelligence"
+      "IPO",
+      "initial public offering",
+      "lockup period",
+      "retail investors",
+      "institutional investors",
+      "stock valuation",
+      "market entry timing"
     ],
     "insights": [
       {
-        "ticker": "MGK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a strong growth investment for 30-year-old investors with 13.6% compound annual returns since 2007, outperforming S&P 500 by 2.7 percentage points annually and offering significant long-term wealth accumulation potential."
+        "ticker": "SPCX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Used as a cautionary example of IPO overpricing. Stock was priced at $130 but jumped to $150+ on first day (100x trailing sales valuation), then fell significantly below IPO price before recovering slightly. Demonstrates the risks of buying at IPO."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a top holding with exceptional growth, rising 1,370% over three and a half years due to AI demand for its GPUs, demonstrating strong market position and pricing power."
+        "ticker": "HOOD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a platform offering IPO access to retail investors, but no performance analysis or investment recommendation provided."
       },
       {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top three holding in the ETF with more than doubled value since early 2023, slightly outperforming the S&P 500 during the AI boom period."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top three holding with more than doubled value since early 2023, benefiting from AI trends and maintaining strong performance relative to the broader market."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI giant holding in the ETF portfolio, contributing to the fund's technology sector concentration and growth potential."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI giant holding in the ETF portfolio, contributing to the fund's technology sector concentration and growth potential."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI giant holding in the ETF portfolio, contributing to the fund's technology sector concentration and growth potential."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI giant holding in the ETF portfolio, contributing to the fund's technology sector concentration and growth potential."
+        "ticker": "SOFI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a trading platform offering IPO access to retail investors, but no performance analysis or investment recommendation provided."
       },
       {
         "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as an AI giant holding in the ETF, contributing to the diversified mega-cap growth portfolio."
+        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
       },
       {
-        "ticker": "META",
+        "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Included as an AI giant holding in the ETF portfolio, supporting the fund's technology sector exposure."
+        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
       },
       {
-        "ticker": "TSLA",
+        "ticker": "SBUX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI giant holding in the ETF, contributing to the growth-focused portfolio."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as an AI giant holding in the ETF portfolio, supporting technology sector diversification."
+        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
       },
       {
         "ticker": "V",
         "sentiment": "positive",
-        "sentiment_reasoning": "Included as a payment leader holding in the ETF, providing diversification beyond pure technology stocks."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a payment leader holding in the ETF, contributing to portfolio diversification."
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a pharma holding in the ETF, providing sector diversification beyond technology."
-      },
-      {
-        "ticker": "NFLX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a holding in the ETF, contributing to diversification across different growth sectors."
+        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
       }
     ]
   },
   {
-    "id": "71f802370a22555c5a167809ea4995367748b25ef5fb9c764366f0a58315dfd3",
+    "id": "06fb10911bc4d3c65a30ddcf805e2d12c946a99239449dd3b023af97fbc67226",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Where Will XRP (Ripple) Be in 5 Years?",
-    "author": "Johnny Rice",
-    "published_utc": "2026-08-20T12:13:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/20/where-will-xrp-ripple-be-in-5-years/?source=iedfolrf0000001",
+    "title": "Visa (V) Exceeds Market Returns: Some Facts to Consider",
+    "author": "Na",
+    "published_utc": "2026-09-02T21:45:04Z",
+    "article_url": "https://www.zacks.com/stock/news/2984079/visa-v-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2984079",
     "tickers": [
       "V"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883662%2Fxrp-slide.jpg&w=1200&op=resize",
-    "description": "The article argues that XRP will trade below $1 by August 2031 despite Ripple's institutional growth. While Ripple's business is strengthening with $3 trillion in prime brokerage volume and a national trust bank charter, the company's stablecoin RLUSD is replacing XRP's role in transactions. Token burns are too minimal to support price appreciation, and XRP's value has historically been driven by hype rather than network utility.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default57.jpg",
+    "description": "Visa (V) closed at $378.40, up 1.54%, outperforming the S&P 500's 0.46% gain. The stock is expected to report EPS of $3.43 (15.1% growth) and revenue of $12.07 billion (12.56% growth). However, Visa trades at a Forward P/E of 28.32, significantly above its industry average of 13.42, and carries a PEG ratio of 2 compared to the Financial Transaction Services industry average of 0.85. The company holds a Zacks Rank of #3 (Hold).",
     "keywords": [
-      "XRP",
-      "Ripple",
-      "cryptocurrency",
-      "stablecoin",
-      "RLUSD",
-      "token burn",
-      "price prediction",
-      "institutional adoption"
+      "Visa",
+      "stock performance",
+      "earnings forecast",
+      "valuation",
+      "Forward P/E ratio",
+      "PEG ratio",
+      "Zacks Rank"
     ],
     "insights": [
       {
         "ticker": "V",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Visa is mentioned only as a benchmark for transaction volume comparison in the token burn analysis, with no sentiment expressed about the company itself."
+        "sentiment_reasoning": "While Visa demonstrates solid earnings growth expectations (15.1% EPS growth, 12.56% revenue growth) and outperformed market indices on the trading day, the stock is trading at a significant premium valuation with a Forward P/E of 28.32 versus industry average of 13.42, and a PEG ratio of 2 versus industry average of 0.85. The Zacks Rank of #3 (Hold) reflects this balanced view of growth potential offset by elevated valuation concerns."
       }
     ]
   },
   {
-    "id": "d7279bf1272b08220736ea970a7f33544babc86f05b985e3b22cd93833ae4fd9",
+    "id": "25e3e389343e444afcdedea83f1e99397ea32119db801326e55cc87477993904",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Prediction: Solana (SOL) Will Be Worth $200 in 2 Years",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-18T18:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/18/prediction-solana-will-be-worth-200-in-2-years/?source=iedfolrf0000001",
-    "tickers": [
-      "BLK",
-      "DIVB",
-      "V",
-      "SHOP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883664%2Fa-visualization-of-a-blockchain.jpg&w=1200&op=resize",
-    "description": "Solana's price has dropped over 70% from its all-time high of $293.31 to $77, but analyst Leo Sun believes three catalysts could drive it back above $200 within two years: macro environment stabilization with Fed rate cuts, growing adoption of stablecoins and tokenized real-world assets, and passage of the CLARITY Act for digital asset regulation. Solana's superior transaction speed compared to Ethereum and partnerships with major financial institutions like BlackRock, Visa, and Shopify support its potential recovery.",
-    "keywords": [
-      "Solana",
-      "cryptocurrency",
-      "blockchain",
-      "stablecoins",
-      "tokenized assets",
-      "price prediction",
-      "digital regulation"
-    ],
-    "insights": [
-      {
-        "ticker": "BLK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as deploying tokenized funds on Solana, demonstrating institutional adoption and validation of the platform."
-      },
-      {
-        "ticker": "DIVB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as deploying tokenized funds on Solana, demonstrating institutional adoption and validation of the platform."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Uses Solana to process stablecoin-based payments, indicating real-world utility and partnership validation."
-      },
-      {
-        "ticker": "SHOP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Uses Solana for stablecoin-based payment processing, demonstrating commercial adoption of the platform."
-      }
-    ]
-  },
-  {
-    "id": "e547f755085ce2dab3b12f2a6da9dbea84cabf87beaac07cee18cddc97899140",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Breakfast News: Mastercard's CEO Speaks",
-    "author": "Tmf Breakfast News",
-    "published_utc": "2026-08-15T11:25:00Z",
-    "article_url": "https://www.fool.com/investing/breakfast-news/2026/08/15/breakfast-news/?source=iedfolrf0000001",
+    "title": "Can Mastercard's VAS Business Sustain Its Double-Digit Growth?",
+    "author": "Na",
+    "published_utc": "2026-09-02T16:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983990/can-mastercard-s-vas-business-sustain-its-double-digit-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2983990",
     "tickers": [
       "MA",
-      "V"
+      "V",
+      "AXP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883546%2Ftmf-michael-miebach-thumbnail-artboardsartboard-1-1.png&w=1200&op=resize",
-    "description": "Mastercard's CEO Michael Miebach discusses the company's strategic positioning as the operating system of the digital economy, emphasizing its role in cybersecurity, stablecoin interoperability, and emerging agentic commerce. The CEO highlights that by 2030, cyber risk-driven damage could reach $15.6 trillion, positioning Mastercard's security and trust infrastructure as critical. The company is expanding beyond traditional card rails into stablecoins and machine-to-machine payments while maintaining an agnostic approach to underlying payment infrastructure.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/09/344.jpg",
+    "description": "Mastercard's Value-Added Services (VAS) revenues grew 20% year-over-year in Q2 2026, now representing 41.2% of net revenues. The company is expanding capabilities in cybersecurity, AI, fraud prevention, and merchant analytics through initiatives like its Merchant Trust Services and Advantage Partner program. Competitors Visa and American Express are also investing heavily in similar VAS offerings, with Visa reporting 34% YoY VAS growth. Mastercard trades at a forward P/E of 26.54, above industry average, with a Zacks Rank #3 (Hold) rating.",
     "keywords": [
+      "Value-Added Services",
+      "VAS growth",
       "cybersecurity",
-      "stablecoins",
-      "digital economy",
-      "agentic commerce",
-      "interoperability",
-      "payment infrastructure",
-      "threat intelligence",
-      "machine-to-machine payments"
+      "AI and fraud prevention",
+      "payment networks",
+      "merchant analytics"
     ],
     "insights": [
       {
         "ticker": "MA",
         "sentiment": "positive",
-        "sentiment_reasoning": "The CEO articulates a strong strategic vision positioning Mastercard as the critical infrastructure layer for the digital economy. The company is proactively addressing cybersecurity threats, expanding into emerging payment technologies (stablecoins, agentic commerce), and maintaining flexibility through an agnostic approach to underlying rails. The stock's 27% annual return since IPO and the company's focus on solving real problems demonstrates strong market confidence and growth trajectory."
+        "sentiment_reasoning": "Strong double-digit VAS revenue growth (20% YoY), expanding market share in high-margin services, strategic investments in AI and cybersecurity, and growing contribution to overall revenues (41.2%) demonstrate solid business momentum and future growth potential."
       },
       {
         "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Visa is mentioned only in a comparative context ('Visa and Mastercard Have Both Reported') without specific commentary on its strategy or performance relative to Mastercard's initiatives in cybersecurity, stablecoins, or agentic commerce."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Aggressive VAS expansion with 34% YoY growth in Q3 FY2026, significant investments in AI and cybersecurity, and VAS now representing roughly one-third of total revenues indicate strong competitive positioning and growth trajectory."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Steadily strengthening VAS portfolio through fraud protection, merchant analytics, and AI-enabled tools. Closed-loop network advantage provides differentiated data capabilities for customer engagement and ecosystem reinforcement."
       }
     ]
   },
   {
-    "id": "77dea40b645436a179cce85797eafacf0fcc32da1e418f74593e56a6ec7ec88f",
+    "id": "a1f7a6ca24c70dfd5e9e20fccee340320b91711deb4ebf0b64e3ad2100f4d683",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Visa Turns A2A Fraud Risk Into a New Growth Opportunity",
+    "author": "Na",
+    "published_utc": "2026-09-02T13:24:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983613/visa-turns-a2a-fraud-risk-into-a-new-growth-opportunity?cid=CS-ZC-FT-analyst_blog|quick_take-2983613",
+    "tickers": [
+      "V",
+      "MA",
+      "FIS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7a/172.jpg",
+    "description": "Visa is expanding its presence in the growing account-to-account (A2A) payments market with an enhanced A2A Protect solution that uses AI to detect fraud in real-time. The solution boosts scam detection by up to 75% and reduces false alerts by 40%, allowing Visa to monetize A2A transactions even when they bypass its traditional card network. This supports Visa's Value-Added Services growth strategy and deepens relationships with financial institutions.",
+    "keywords": [
+      "account-to-account payments",
+      "fraud detection",
+      "A2A Protect",
+      "behavioral AI",
+      "Value-Added Services",
+      "real-time payments",
+      "payment security"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Visa is successfully expanding into the high-growth A2A payments market with a competitive fraud detection solution that delivers strong results (75% scam detection improvement, 40% reduction in false alerts). The solution creates new recurring revenue opportunities through its Value-Added Services strategy and strengthens bank relationships, positioning the company well for future growth in real-time payments."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mastercard is also developing competitive fraud-prevention capabilities for A2A payments through solutions like Mastercard A2A Protect and AI-driven Consumer Fraud Risk. While positioned to capture fraud-prevention revenues, the article does not provide specific performance metrics or competitive advantages that would differentiate it from Visa."
+      },
+      {
+        "ticker": "FIS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "FIS offers real-time fraud monitoring and predictive scoring through solutions like SecurLOCK and is expanding AI use in fraud prevention. Its entrenched role in payment processing provides advantages, but the article does not highlight specific competitive strengths or performance metrics that would indicate outperformance in the A2A market."
+      }
+    ]
+  },
+  {
+    "id": "046f6d013f9cce3e8cb263efd089ee267240759584fbb73d96f3c06717d14dbb",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "IYF vs. FNCL: Which Financials ETF Is the Better Buy?",
-    "author": "Andy Gould",
-    "published_utc": "2026-08-15T11:01:02Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/08/15/iyf-vs-fncl-which-financials-etf-is-the-better-buy/?source=iedfolrf0000001",
+    "title": "Here's What $1,000 in Visa Stock at Its IPO Would Be Worth Today",
+    "author": "Jennifer Saibil",
+    "published_utc": "2026-09-02T13:24:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/02/heres-what-1000-in-visa-stock-at-its-ipo-worth/?source=iedfolrf0000001",
     "tickers": [
-      "IYF",
-      "FNCL",
-      "BRK.A",
-      "BRK.B",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "V"
+      "V",
+      "MA",
+      "AXP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F66026f7773699286c73c3ab5f122b4888e5c42a9-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "IYF (iShares U.S. Financials ETF) has outperformed FNCL (Fidelity MSCI Financials Index ETF) with stronger 5-year returns despite a higher 0.38% expense ratio versus FNCL's 0.08%. IYF holds 142 stocks with concentrated positions in financial leaders like Berkshire Hathaway and JPMorgan Chase, while FNCL offers broader diversification across 387 holdings. The choice depends on whether investors prefer concentrated exposure to sector leaders or lower-cost, broader sector exposure.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885473%2Fvisa-tap-to-phone.jpg&w=1200&op=resize",
+    "description": "A $1,000 investment in Visa stock at its 2008 IPO would be worth approximately $440,000 today, including reinvested dividends. Visa's exceptional business model, dominant market position as the world's largest credit card network, asset-light operations, and consistent dividend growth over 18 years demonstrate its reliability as a long-term investment that benefits from economic expansion.",
     "keywords": [
-      "financials ETF",
-      "sector exposure",
-      "diversification",
-      "expense ratio",
-      "total returns",
-      "financial sector"
+      "Visa IPO",
+      "payment networks",
+      "dividend growth",
+      "long-term investing",
+      "business moat",
+      "credit card networks"
     ],
     "insights": [
       {
-        "ticker": "IYF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "IYF delivered stronger 1-year (13.62%) and 5-year total returns compared to FNCL, demonstrating superior performance despite higher fees. Its concentrated portfolio of financial leaders has outperformed the broader sector."
-      },
-      {
-        "ticker": "FNCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "FNCL offers a significantly lower expense ratio (0.08%), broader diversification with 387 holdings, and slightly higher dividend yield (1.56%). It provides a cost-effective way to gain sector exposure with reduced individual stock risk."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top holding in both ETFs, representing 11.4% of IYF and 7.8% of FNCL, indicating it is a major financial sector leader contributing to fund performance."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top holding in both ETFs, representing 11.4% of IYF and 7.8% of FNCL, indicating it is a major financial sector leader contributing to fund performance."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in both funds (11.2% in IYF, 10.5% in FNCL), demonstrating its significance as a financial sector leader driving ETF performance."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable holding in IYF at 4.7%, but no specific performance commentary provided."
-      },
-      {
         "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Visa demonstrates exceptional long-term performance with $1,000 growing to ~$440,000 including dividends. The company has a strong competitive moat as the world's largest payment network, high operating margins (66.25%), consistent 18-year dividend growth (2,450% increase), and robust year-over-year sales growth (14%) despite inflationary pressures."
+      },
+      {
+        "ticker": "MA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in FNCL at 6.8%, but no specific performance analysis provided."
+        "sentiment_reasoning": "Mentioned as a main competitor to Visa in the credit card network space. No specific performance data or analysis provided in the article."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of four major credit card networks competing with Visa. No specific performance analysis provided."
       }
     ]
   }

@@ -1,5 +1,51 @@
 [
   {
+    "id": "6530ff1096bfcbc6f0b333a1bec95df57852118f87bcfbddefe7f14669624f82",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti",
+    "author": "Na",
+    "published_utc": "2026-09-07T14:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985851/ndaq-boosts-ai-and-data-driven-investment-technology-with-dasseti?cid=CS-ZC-FT-analyst_blog|quick_take-2985851",
+    "tickers": [
+      "NDAQ",
+      "CBOE",
+      "ICE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/833.jpg",
+    "description": "Nasdaq has completed its acquisition of Dasseti, an AI-powered due diligence and monitoring platform, expanding its institutional investment-technology capabilities. The deal integrates Dasseti into eVestment and provides access to an ecosystem of 17,000 asset managers representing $34 trillion in AUM, supporting Nasdaq's shift toward higher-value data, analytics, and workflow technology.",
+    "keywords": [
+      "acquisition",
+      "AI technology",
+      "due diligence",
+      "institutional investors",
+      "data and analytics",
+      "eVestment",
+      "asset management"
+    ],
+    "insights": [
+      {
+        "ticker": "NDAQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The acquisition strategically strengthens Nasdaq's Data & Technology Solutions franchise, provides access to a large ecosystem of asset managers and $34 trillion in AUM, and creates opportunities for cross-selling and recurring technology revenues. Analyst estimates for EPS have moved up 3-5.6% in the past 60 days, and the stock carries a Zacks Rank #2 (Buy)."
+      },
+      {
+        "ticker": "CBOE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with similar acquisition strategy focused on building market-data and analytics capabilities, but no specific news or performance impact is discussed in the article."
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as a peer example with successful acquisitions like Black Knight, but no current news or performance impact related to this article is provided."
+      }
+    ]
+  },
+  {
     "id": "6bce88ce92fe06f0001daf2466e7efdbe59a36fc37f0050381ae0ddaa349c0b9",
     "publisher": {
       "name": "The Motley Fool",
@@ -190,52 +236,6 @@
         "ticker": "ICE",
         "sentiment": "neutral",
         "sentiment_reasoning": "Mentioned as Bakkt's largest shareholder with 19.8% stake. No direct news or sentiment drivers specific to ICE are discussed in the article."
-      }
-    ]
-  },
-  {
-    "id": "ce11db2bc6caf71998825983f4f4d2838e70914836bc65d26849731397f4821c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Polymarket Volume Is Exploding -- but the Real Money Might Be in This Tiny Sports Data Duopoly Stock.",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-05-05T20:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/05/polymarket-volume-is-exploding-but-the-real-money/?source=iedfolrf0000001",
-    "tickers": [
-      "GENI",
-      "SRAD",
-      "ICE"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F866580%2Fgettyimages-1838779776.jpg&w=1200&op=resize",
-    "description": "While prediction markets like Polymarket are experiencing explosive growth with $26.2 billion in Q1 2026 volume, the article argues that Genius Sports, which provides official sports data for settling bets, is positioned to benefit more directly. Genius Sports holds exclusive data rights from major leagues and is growing revenue 31% year-over-year, though it remains unprofitable. Analysts see potential upside to $8.60 per share, but the stock has declined 61% in 2026 amid execution risks.",
-    "keywords": [
-      "prediction markets",
-      "sports data",
-      "official data rights",
-      "Polymarket",
-      "regulatory tailwind",
-      "media technology",
-      "programmatic advertising"
-    ],
-    "insights": [
-      {
-        "ticker": "GENI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (31% YoY), exclusive official sports data rights from major leagues, regulatory tailwinds from CFTC favoring official data for settlement, expanding high-margin media tech segment, and analyst price target of $8.60 (double current price). However, tempered by current unprofitability, 61% stock decline in 2026, and execution risks."
-      },
-      {
-        "ticker": "SRAD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as chief rival with official data rights from NBA, MLB, NHL, and FIFA. Posted record 2025 revenue of \u20ac1.29 billion and stock performance has held up better than Genius Sports. However, article focuses more on Genius Sports as the investment opportunity, providing limited analysis of Sportradar's prospects."
-      },
-      {
-        "ticker": "ICE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NYSE parent company disclosed plans for $2 billion investment in Polymarket at $8 billion valuation, signaling institutional confidence in prediction market growth and positioning the company to benefit from market expansion."
       }
     ]
   }

@@ -1,5 +1,119 @@
 [
   {
+    "id": "70f6a105aca2560864d604393b124eb04e34335f89aab8047799aa9e552d2e5a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should iShares S&P 500 Value ETF (IVE) Be on Your Investing Radar?",
+    "author": "Na",
+    "published_utc": "2026-09-02T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2983502/should-ishares-s-p-500-value-etf-ive-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2983502",
+    "tickers": [
+      "AAPL",
+      "AMZN",
+      "XOM",
+      "SCHD",
+      "VTV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default301.jpg",
+    "description": "The iShares S&P 500 Value ETF (IVE) is a passively managed large-cap value fund with $49.81 billion in assets and a low 0.18% expense ratio. The ETF has gained 11.98% year-to-date and 17.38% over the past year, with a medium risk profile (beta of 0.82). It holds a Zacks ETF Rank of 2 (Buy) and offers diversified exposure across 443 holdings, with top positions in Apple, Amazon, and ExxonMobil. Alternative options include SCHD and VTV, which offer lower expense ratios.",
+    "keywords": [
+      "large-cap value ETF",
+      "passive management",
+      "low expense ratio",
+      "diversification",
+      "S&P 500 Value Index",
+      "dividend yield",
+      "ETF comparison"
+    ],
+    "insights": [
+      {
+        "ticker": "IVE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The ETF demonstrates strong fundamentals with low costs (0.18% expense ratio), substantial assets ($49.81 billion), solid year-to-date performance (11.98%), and a favorable Zacks ETF Rank of 2 (Buy). It offers effective diversification with 443 holdings and medium risk profile."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Apple is mentioned as the largest holding in IVE at 7.39% of assets. No performance analysis or sentiment is provided; it is presented as a factual portfolio component."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Amazon is mentioned as the second-largest holding in IVE. No performance analysis or sentiment is provided; it is presented as a factual portfolio component."
+      },
+      {
+        "ticker": "XOM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ExxonMobil is mentioned as the third-largest holding in IVE. No performance analysis or sentiment is provided; it is presented as a factual portfolio component."
+      },
+      {
+        "ticker": "SCHD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "SCHD is presented as an alternative option with a lower expense ratio (0.06%) and larger assets ($111.93 billion), but no performance comparison or recommendation is provided."
+      },
+      {
+        "ticker": "VTV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "VTV is presented as an alternative option with the lowest expense ratio (0.03%) and the largest assets ($191.04 billion), but no performance comparison or recommendation is provided."
+      }
+    ]
+  },
+  {
+    "id": "4f6700afd774a1d7b65be1d057eeb7ce04715115fbb8689fdcf0987916719e7a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Chevron and Halliburton Near Billion-Dollar Venezuela Oil Deals",
+    "author": "Na",
+    "published_utc": "2026-08-31T15:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982711/chevron-and-halliburton-near-billion-dollar-venezuela-oil-deals?cid=CS-ZC-FT-analyst_blog|company_news_energy_sector-2982711",
+    "tickers": [
+      "CVX",
+      "HAL",
+      "XOM",
+      "COP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/930.jpg",
+    "description": "Chevron is reportedly close to acquiring two heavy-oil fields in Venezuela, while Halliburton discusses equipment and services deals as the Trump administration pushes U.S. energy companies to rebuild Venezuela's oil production. The deals could bring billions in investment to develop undeveloped fields, though ExxonMobil and ConocoPhillips remain cautious due to past asset nationalization claims.",
+    "keywords": [
+      "Venezuela oil",
+      "heavy crude",
+      "oilfield services",
+      "energy investment",
+      "oil production",
+      "Trump administration"
+    ],
+    "insights": [
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding Venezuelan portfolio with two heavy-oil fields strengthens upstream assets and provides access to vast proven reserves; aligns with U.S. energy policy objectives"
+      },
+      {
+        "ticker": "HAL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Potential equipment and oilfield services deals in Venezuela could generate substantial demand from billions in required infrastructure investment"
+      },
+      {
+        "ticker": "XOM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Taking cautious approach to Venezuelan investments while pursuing billions in restitution claims for nationalized assets; remaining on sidelines reflects political and financial uncertainties"
+      },
+      {
+        "ticker": "COP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly cautious stance as ExxonMobil, seeking restitution for past asset nationalization; holding off on new Venezuelan investments due to unresolved complexities"
+      }
+    ]
+  },
+  {
     "id": "a91aeac537c67ab5173a8fb31aab662ebce65eaf5ec4e2f62608afec43d9c98f",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -170,172 +284,6 @@
         "ticker": "CVX",
         "sentiment": "neutral",
         "sentiment_reasoning": "Mentioned as a competitive peer in the oil industry but no specific analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "ab3d13c2d22d2f057a41324ed8da7896f251fd7de521f060e2891a3aad15c265",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This 3% Yielding Energy Stock Has Hiked Its Dividend for 43 Straight Years. Here's Why I'd Buy It Without Hesitation Right Now.",
-    "author": "Leo Sun",
-    "published_utc": "2026-07-01T18:08:59Z",
-    "article_url": "https://www.fool.com/investing/2026/07/01/this-x-yielding-energy-stock-has-hiked-its-dividen/?source=iedfolrf0000001",
-    "tickers": [
-      "XOM",
-      "OXY",
-      "OXY.WS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877000%2Foil-rig-in-oil-field.jpg&w=1200&op=resize",
-    "description": "ExxonMobil has raised its dividend for 43 consecutive years and is on track to become a Dividend King. The company's diversified business model across upstream, midstream, and downstream operations, combined with geographic diversification across 56 countries, provides resilience against oil price volatility. Trading at 12x forward earnings with a 3% yield, the stock is viewed as an attractive value investment even as crude oil prices have pulled back from recent highs.",
-    "keywords": [
-      "dividend growth",
-      "energy stocks",
-      "oil prices",
-      "diversification",
-      "dividend yield",
-      "Dividend King",
-      "EPS growth",
-      "free cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "XOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights ExxonMobil's 43-year dividend growth streak, diversified business model insulating it from oil price volatility, strong free cash flow coverage of dividends, geographic diversification across 56 countries, and attractive valuation at 12x forward earnings with a 3% yield. The author explicitly states they would buy it 'without hesitation.'"
-      },
-      {
-        "ticker": "OXY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparison point to highlight that ExxonMobil is less tethered to oil prices than Occidental Petroleum, which generates most revenue from upstream business. The Motley Fool recommends it, but it's not the focus of this article's positive thesis."
-      },
-      {
-        "ticker": "OXY.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparison point to highlight that ExxonMobil is less tethered to oil prices than Occidental Petroleum, which generates most revenue from upstream business. The Motley Fool recommends it, but it's not the focus of this article's positive thesis."
-      }
-    ]
-  },
-  {
-    "id": "988cd8db0602a8223d52a80440b5c0485c166ed66040f051c06a4452bf7f8c6f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "If You're Looking for a Dividend Fund, Which Vanguard ETF Is the Better Buy, VYM or VIG?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-01T18:06:46Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/01/if-you-re-looking-for-a-dividend-fund-which-vanguard-etf-is-the-better-buy-vym-or-vig/?source=iedfolrf0000001",
-    "tickers": [
-      "VIG",
-      "VYM",
-      "AAPL",
-      "MSFT",
-      "AVGO",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "XOM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3f28864d917b18e124dc110dee6614eac0a6339c-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two Vanguard dividend ETFs: VIG (Dividend Appreciation) focuses on companies with 10+ years of dividend growth with a 1.90% yield, while VYM (High Dividend Yield) targets higher-yielding stocks with a 2.30% yield. Both charge 0.04% expense ratios, but VYM outperforms VIG over most timeframes and offers better income generation, making it the recommended choice for income-focused investors.",
-    "keywords": [
-      "dividend ETF",
-      "VIG",
-      "VYM",
-      "dividend yield",
-      "income investing",
-      "ETF comparison",
-      "large-cap stocks",
-      "dividend growth"
-    ],
-    "insights": [
-      {
-        "ticker": "VIG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "VIG is presented as a solid option for dividend growth investors with a disciplined 10-year dividend increase requirement, but is rated as the less attractive choice compared to VYM due to lower yield (1.90% vs 2.30%) and underperformance over most timeframes."
-      },
-      {
-        "ticker": "VYM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "VYM is explicitly recommended as the better buy, offering superior income generation (2.30% yield), better performance across most time periods, lower volatility (max drawdown of -15.80% vs -20.40%), and broader diversification with 605 holdings."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Apple is mentioned as a top holding in VIG (4.56%), indicating its inclusion in dividend-appreciating companies, but no specific sentiment is expressed about the stock itself."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microsoft is listed as a top holding in VIG (4.26%), representing growth-oriented dividend payers, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Broadcom appears as a top holding in both funds (5.39% in VIG, 8.49% in VYM), indicating its significance in dividend portfolios, but no specific sentiment is expressed."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding in VYM (3.13%), representing the financial services sector allocation, but no specific sentiment is provided."
-      },
-      {
-        "ticker": "XOM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Exxon Mobil is listed as a top holding in VYM (2.52%), representing value-oriented dividend stocks, but no specific sentiment is expressed."
       }
     ]
   }

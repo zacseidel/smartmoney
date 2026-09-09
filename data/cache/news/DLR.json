@@ -1,386 +1,342 @@
 [
   {
-    "id": "17fd9ec3e9550e695ce6ce40cc85f477f3b28c2d50c2432c90f804857fbb4a2d",
+    "id": "af732366b726d2081a876711c7ce890da4fb398f301fac9ec11e6e6e3ca1c734",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Key Reasons to Add Digital Realty Stock to Your Portfolio Now",
+    "author": "Na",
+    "published_utc": "2026-09-04T14:18:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985120/key-reasons-to-add-digital-realty-stock-to-your-portfolio-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2985120",
+    "tickers": [
+      "DLR",
+      "DLRpJ",
+      "DLRpK",
+      "DLRpL",
+      "FCPT",
+      "OUT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+    "description": "Digital Realty (DLR) signed $307 million in Q2 bookings with a record $1.9 billion backlog, driven by AI and cloud demand. The company is expanding capacity through land purchases and data-center acquisitions, with 1.4 GW under construction at 11.5% yield. Strong balance sheet and diverse tenant base support long-term growth prospects.",
+    "keywords": [
+      "data centers",
+      "AI demand",
+      "cloud migration",
+      "bookings",
+      "backlog",
+      "REIT",
+      "development pipeline",
+      "hyperscale",
+      "FFO per share"
+    ],
+    "insights": [
+      {
+        "ticker": "DLR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record backlog of $1.9 billion, strong Q2 bookings of $307 million, raised 2026 Core FFO guidance, robust development pipeline with 1.4 GW under construction at 11.5% yield, diverse tenant base, and strategic expansion initiatives support bullish outlook. Zacks Rank #2 (Buy) with consensus estimate raised."
+      },
+      {
+        "ticker": "DLRpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record backlog of $1.9 billion, strong Q2 bookings of $307 million, raised 2026 Core FFO guidance, robust development pipeline with 1.4 GW under construction at 11.5% yield, diverse tenant base, and strategic expansion initiatives support bullish outlook. Zacks Rank #2 (Buy) with consensus estimate raised."
+      },
+      {
+        "ticker": "DLRpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record backlog of $1.9 billion, strong Q2 bookings of $307 million, raised 2026 Core FFO guidance, robust development pipeline with 1.4 GW under construction at 11.5% yield, diverse tenant base, and strategic expansion initiatives support bullish outlook. Zacks Rank #2 (Buy) with consensus estimate raised."
+      },
+      {
+        "ticker": "DLRpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record backlog of $1.9 billion, strong Q2 bookings of $307 million, raised 2026 Core FFO guidance, robust development pipeline with 1.4 GW under construction at 11.5% yield, diverse tenant base, and strategic expansion initiatives support bullish outlook. Zacks Rank #2 (Buy) with consensus estimate raised."
+      },
+      {
+        "ticker": "FCPT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing modest FFO per share growth of 4.5% year-over-year for 2026, but lacks specific positive catalysts or detailed analysis."
+      },
+      {
+        "ticker": "OUT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as alternative REIT option with Zacks Rank #2 and recent upward consensus estimate revision of 3.4%, but no detailed analysis or specific growth drivers provided."
+      }
+    ]
+  },
+  {
+    "id": "8075353bc8051e75ca37c825e7e6cdcf6fc1076cbb76c869d9b178ba8c247a59",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Equinix & CPP Investments Complete $4 Billion atNorth Acquisition",
+    "author": "Na",
+    "published_utc": "2026-09-03T16:31:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984726/equinix-cpp-investments-complete-4-billion-atnorth-acquisition?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2984726",
+    "tickers": [
+      "EQIX",
+      "DLR",
+      "DLRpJ",
+      "DLRpK",
+      "DLRpL",
+      "WELL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/95/2599.jpg",
+    "description": "Equinix and Canada Pension Plan Investment Board have completed their $4 billion acquisition of Nordic data center operator atNorth. CPP Investments owns 51% while Equinix holds 34% of the company. The deal is immediately accretive to Equinix's AFFO per share and expands their exposure to AI-ready Nordic infrastructure with eight operational data centers across the Nordic region.",
+    "keywords": [
+      "data center acquisition",
+      "Nordic infrastructure",
+      "artificial intelligence",
+      "cloud computing",
+      "renewable energy",
+      "AFFO per share",
+      "hyperscale customers"
+    ],
+    "insights": [
+      {
+        "ticker": "EQIX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The acquisition is immediately accretive to AFFO per share, provides meaningful geographic diversification, supports AI and hyperscale growth strategy, and aligns with long-term growth outlook of 9-12% annual AFFO-per-share growth through 2029."
+      },
+      {
+        "ticker": "DLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
+      },
+      {
+        "ticker": "DLRpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
+      },
+      {
+        "ticker": "DLRpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
+      },
+      {
+        "ticker": "DLRpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
+      },
+      {
+        "ticker": "WELL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 20.98% FFO per share growth for 2026, but operates in a different sector (healthcare) with no connection to the atNorth acquisition."
+      }
+    ]
+  },
+  {
+    "id": "1376c69d609a3119682d1328c1c1223efccab387545a41bcbc4c9d5f51c647bc",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Equinix, NVIDIA & Together AI Accelerate Enterprise AI Inference",
+    "author": "Na",
+    "published_utc": "2026-09-03T16:30:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984722/equinix-nvidia-together-ai-accelerate-enterprise-ai-inference?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2984722",
+    "tickers": [
+      "EQIX",
+      "NVDA",
+      "DLR",
+      "DLRpJ",
+      "DLRpK",
+      "DLRpL",
+      "WELL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/9855.jpg",
+    "description": "Equinix has partnered with NVIDIA and Together AI to launch Equinix Inference Exchange, a distributed AI inference platform for enterprises. The solution combines NVIDIA's Enterprise Reference Architectures, Together AI's inference capabilities, and Equinix's global infrastructure to enable faster, more cost-efficient AI deployment across multiple geographies. The platform will support metro-edge inference, open-source models, and sovereign AI requirements, with availability expected in Q1 2027.",
+    "keywords": [
+      "AI inference",
+      "distributed computing",
+      "enterprise AI",
+      "data centers",
+      "edge computing",
+      "sovereign AI",
+      "open-source models"
+    ],
+    "insights": [
+      {
+        "ticker": "EQIX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Equinix is strengthening its positioning in enterprise AI through a strategic partnership that leverages its global infrastructure of 280+ data centers. The initiative aligns with rising AI demand and provides a new growth opportunity as enterprises move AI workloads to production, with the company gaining 4.8% in the past six months."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NVIDIA is expanding its collaboration with Equinix by providing Enterprise Reference Architectures and AI infrastructure designed to optimize AI factory throughput and minimize token costs, reinforcing its role in the enterprise AI ecosystem."
+      },
+      {
+        "ticker": "DLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
+      },
+      {
+        "ticker": "DLRpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
+      },
+      {
+        "ticker": "DLRpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
+      },
+      {
+        "ticker": "DLRpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
+      },
+      {
+        "ticker": "WELL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 20.98% FFO per share growth for 2026, but not directly involved in the announced initiative."
+      }
+    ]
+  },
+  {
+    "id": "6e9dfee92efc5f61b79c8e29ffe42e9cb52e26e430d828f1e5e30fcec2fd645d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "4 Reasons Why OUTFRONT Stock Is a Solid Portfolio Pick Now",
+    "author": "Na",
+    "published_utc": "2026-09-02T16:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983998/4-reasons-why-outfront-stock-is-a-solid-portfolio-pick-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2983998",
+    "tickers": [
+      "OUT",
+      "DLR",
+      "DLRpJ",
+      "DLRpK",
+      "DLRpL",
+      "AMT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/34/40658.jpg",
+    "description": "OUTFRONT Media (OUT) demonstrates solid fundamentals with digital revenues rising 23.3% to $193.7 million and transit revenues climbing 32.3% to $140.6 million, led by a 48% increase at New York MTA. The company's diversified U.S. footprint across 120 markets, digital billboard conversions generating 4-5x higher revenues, and permit-based competitive barriers support long-term growth. Analysts maintain a Zacks Rank #2 (Buy) rating with favorable estimate revisions for 2026 AFFO per share.",
+    "keywords": [
+      "outdoor advertising",
+      "digital billboards",
+      "transit advertising",
+      "revenue growth",
+      "REIT sector",
+      "permit-based barriers",
+      "digital conversion"
+    ],
+    "insights": [
+      {
+        "ticker": "OUT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth across digital (23.3%) and transit (32.3%) segments, diversified geographic footprint reducing concentration risk, high barriers to entry through permits, and positive analyst revisions support bullish outlook. Stock outperformed industry peers over past six months."
+      },
+      {
+        "ticker": "DLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing 13.67% year-over-year FFO growth, but no specific analysis or performance data provided in the article."
+      },
+      {
+        "ticker": "DLRpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing 13.67% year-over-year FFO growth, but no specific analysis or performance data provided in the article."
+      },
+      {
+        "ticker": "DLRpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing 13.67% year-over-year FFO growth, but no specific analysis or performance data provided in the article."
+      },
+      {
+        "ticker": "DLRpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing 13.67% year-over-year FFO growth, but no specific analysis or performance data provided in the article."
+      },
+      {
+        "ticker": "AMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as comparable REIT with Zacks Rank #2, showing modest 2.88% year-over-year FFO growth, but no specific analysis or performance data provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "2e5d9f13e5d30ff96a9e2cc9c1cc39f409bcc7171c2c77ff1c0cd7b408bc4436",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Digital Realty Welcomes Governor Abbott\u2019s Initiative for Responsible and Transparent Data Center Investment in Texas",
-    "author": "Na",
-    "published_utc": "2026-08-07T12:44:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/07/3341100/0/en/digital-realty-welcomes-governor-abbott-s-initiative-for-responsible-and-transparent-data-center-investment-in-texas.html",
+    "title": "United States Data Center Colocation Market Outlook & Forecast 2026-2031 | Renewable Energy Gains Ground Across U.S. Colocation Facilities",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-01T10:58:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353928/28124/en/united-states-data-center-colocation-market-outlook-forecast-2026-2031-renewable-energy-gains-ground-across-u-s-colocation-facilities.html",
     "tickers": [
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
-    "description": "Digital Realty reaffirmed its commitment to responsible data center growth in Texas, pledging to work with elected officials, regulators, utilities, and local communities. The company supports efforts to maintain grid reliability, protect consumers, and promote responsible resource management as AI and cloud computing demand accelerates in the state.",
-    "keywords": [
-      "data center",
-      "Texas",
-      "grid reliability",
-      "AI infrastructure",
-      "responsible investment",
-      "digital economy"
-    ],
-    "insights": [
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is proactively engaging with state leadership and stakeholders on responsible data center development, positioning itself as a collaborative partner. The CEO's statements emphasize commitment to Texas and constructive engagement, which demonstrates positive corporate governance and stakeholder relations. The company's willingness to address concerns and provide solutions suggests confidence in its business model and operations."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is proactively engaging with state leadership and stakeholders on responsible data center development, positioning itself as a collaborative partner. The CEO's statements emphasize commitment to Texas and constructive engagement, which demonstrates positive corporate governance and stakeholder relations. The company's willingness to address concerns and provide solutions suggests confidence in its business model and operations."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is proactively engaging with state leadership and stakeholders on responsible data center development, positioning itself as a collaborative partner. The CEO's statements emphasize commitment to Texas and constructive engagement, which demonstrates positive corporate governance and stakeholder relations. The company's willingness to address concerns and provide solutions suggests confidence in its business model and operations."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is proactively engaging with state leadership and stakeholders on responsible data center development, positioning itself as a collaborative partner. The CEO's statements emphasize commitment to Texas and constructive engagement, which demonstrates positive corporate governance and stakeholder relations. The company's willingness to address concerns and provide solutions suggests confidence in its business model and operations."
-      }
-    ]
-  },
-  {
-    "id": "f15ef172eea80cb51c8d0884e320eb21e7c0cfb0dec8c25a736456e07e7b0214",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-07-26T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/26/retail-investors-are-pulling-money-from-blackstone/?source=iedfolrf0000001",
-    "tickers": [
-      "BX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880160%2Fbx.png&w=1200&op=resize",
-    "description": "Despite retail investors withdrawing 10% of capital from Blackstone's BCRED private credit fund in Q2 (exceeding the 5% redemption cap), the company reported strong financial results with distributable earnings up 26% to $2 billion. The article argues that AI investments, not private credit concerns, are the real driver of Blackstone's growth, with nine of its ten best-performing assets having AI exposure. The company raised $70 billion in total inflows and continues expanding its data center platform through partnerships with Google.",
-    "keywords": [
-      "private credit",
-      "redemptions",
-      "AI investments",
-      "data centers",
-      "distributable earnings",
-      "alternative investments",
-      "capital inflows"
-    ],
-    "insights": [
-      {
-        "ticker": "BX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings with 26% growth in distributable earnings, $70 billion in capital inflows, and significant AI-driven investment gains. Stock decline attributed to BCRED concerns rather than fundamental weakness. CEO indicates stock is undervalued relative to AI growth opportunities."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      }
-    ]
-  },
-  {
-    "id": "5f7a464ee5eb27d2365232dd376ccc0323fa059f58754bbefd74b1c3a6a4a13b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "What Greg Abel Might Do With Berkshire Hathaway's Massive Cash Pile",
-    "author": "James Brumley",
-    "published_utc": "2026-07-25T10:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/what-greg-abel-might-do-berkshire-hathaway-cash/?source=iedfolrf0000001",
-    "tickers": [
-      "BRK.A",
-      "BRK.B",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "EQIX",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879628%2Fthinking-investor-using-a-laptop-computer.jpg&w=1200&op=resize",
-    "description": "New Berkshire Hathaway CEO Greg Abel is likely to deploy the company's $397 billion cash pile through increased stock buybacks, selective tech investments (particularly AI-related opportunities), and capital investments in Berkshire Hathaway Energy to capitalize on growing AI data center demand.",
-    "keywords": [
-      "stock buybacks",
-      "cash deployment",
-      "AI data centers",
-      "tech investments",
-      "Berkshire Hathaway Energy",
-      "dividend stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "New CEO Abel is actively deploying massive cash reserves through buybacks and strategic investments, signaling confidence in capital allocation and potential shareholder value creation."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "New CEO Abel is actively deploying massive cash reserves through buybacks and strategic investments, signaling confidence in capital allocation and potential shareholder value creation."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Already a top-5 holding for Berkshire; unlikely to see significant expansion, suggesting stable but not growth-oriented positioning."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Already a top-5 holding for Berkshire; unlikely to see significant expansion, suggesting stable but not growth-oriented positioning."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Already a top-5 holding for Berkshire; unlikely to see significant expansion, suggesting stable but not growth-oriented positioning."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Already a top-5 holding for Berkshire; unlikely to see significant expansion, suggesting stable but not growth-oriented positioning."
-      },
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI data center REIT identified as a potential investment target given growth potential, reliable dividends, and alignment with Abel's strategic focus on AI infrastructure."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI data center REIT mentioned as a plausible addition to Berkshire's portfolio due to growth potential and dividend income in the expanding AI sector."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI data center REIT mentioned as a plausible addition to Berkshire's portfolio due to growth potential and dividend income in the expanding AI sector."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI data center REIT mentioned as a plausible addition to Berkshire's portfolio due to growth potential and dividend income in the expanding AI sector."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI data center REIT mentioned as a plausible addition to Berkshire's portfolio due to growth potential and dividend income in the expanding AI sector."
-      }
-    ]
-  },
-  {
-    "id": "5cabeb7c1cf1526a6ffdf309b83ea6616101ef9ad2145e0c6f5f65d63196cc03",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Asset Class Has Lagged the Market for Years But Was the Best Performer in June. Time to Invest?",
-    "author": "Matthew Benjamin",
-    "published_utc": "2026-07-06T16:17:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/06/this-asset-class-has-lagged-the-market-for-years/?source=iedfolrf0000001",
-    "tickers": [
-      "VNQ",
-      "O",
-      "WELL",
       "DLR",
       "DLRpJ",
       "DLRpK",
       "DLRpL",
-      "EQIX"
+      "EQIX",
+      "SLNH",
+      "SLNHP",
+      "APLD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877362%2Fgettyimages-2245882134.jpg&w=1200&op=resize",
-    "description": "Real estate investment trusts (REITs) rebounded strongly in June and are up 9.5% in 2026, outperforming the broader market. After years of underperformance due to post-pandemic trends and elevated interest rates, REITs are benefiting from workers returning to offices and malls, data center growth driven by AI, and moderating interest rates. Key performing categories include lodging REITs (up 43%), data center REITs (up 33%), and healthcare REITs (up 20%), while only gaming and telecommunications REITs are down for the year.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/3aa870a2-0fb1-4b40-8420-bc92cd625d06",
+    "description": "The U.S. data center colocation market is projected to grow from $43.71 billion in 2025 to $85.18 billion by 2031 at an 11.76% CAGR, driven by AI adoption, cloud computing, hyperscale expansion, and renewable energy initiatives. The Southeastern U.S. leads investment with over $15 billion in 2025, followed by the Southwest. Major operators are deploying liquid-cooling technologies and high-density infrastructure to support GPU-intensive AI workloads.",
     "keywords": [
-      "REITs",
-      "real estate investment trusts",
-      "market rebound",
-      "data centers",
+      "data center colocation",
       "artificial intelligence",
-      "interest rates",
-      "lodging",
-      "healthcare properties"
+      "GPU adoption",
+      "liquid cooling",
+      "renewable energy",
+      "hyperscale expansion",
+      "cloud computing",
+      "high-density infrastructure"
     ],
     "insights": [
       {
-        "ticker": "VNQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 9.5% in 2026, outperforming S&P 500; highly diversified across 145 REITs with strong exposure to growth sectors like data centers (10.7%) and healthcare (16.5%)"
-      },
-      {
-        "ticker": "O",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 13% in 2026; popular retail REIT with 135 consecutive monthly dividend increases since 1994, providing stable income"
-      },
-      {
-        "ticker": "WELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 26% in 2026; focuses on recession-resistant senior housing and healthcare properties benefiting from aging U.S. population"
-      },
-      {
         "ticker": "DLR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Up 12% in 2026; data center REIT benefiting from extraordinary growth driven by AI companies and rising data usage"
+        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
       },
       {
         "ticker": "DLRpJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Up 12% in 2026; data center REIT benefiting from extraordinary growth driven by AI companies and rising data usage"
+        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
       },
       {
         "ticker": "DLRpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Up 12% in 2026; data center REIT benefiting from extraordinary growth driven by AI companies and rising data usage"
+        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
       },
       {
         "ticker": "DLRpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Up 12% in 2026; data center REIT benefiting from extraordinary growth driven by AI companies and rising data usage"
+        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
       },
       {
         "ticker": "EQIX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Up 30% in 2026; data center REIT capitalizing on full-steam data center build-out and AI infrastructure demand"
-      }
-    ]
-  },
-  {
-    "id": "dd2388c5d4708862ce271641f767ba00b43f28f53482662cf563e93c4461f7b0",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Want a Lifetime of Passive Income? Buy Realty Income Stock in July and Never Sell.",
-    "author": "James Brumley",
-    "published_utc": "2026-07-02T07:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/02/want-a-lifetime-of-passive-income-buy-realty-incom/?source=iedfolrf0000001",
-    "tickers": [
-      "O",
-      "WMT",
-      "HD",
-      "FDX",
-      "DG",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875201%2Ffalling-cash-happy-investor.jpg&w=1200&op=resize",
-    "description": "Realty Income (O), a REIT specializing in brick-and-mortar retail properties, is presented as a long-term dividend investment opportunity. Despite retail sector challenges, the company maintains 98%+ occupancy rates with strong tenants like Walmart and Home Depot, has paid monthly dividends since 1969 with quarterly increases since 1998, and is exploring new markets including AI data center infrastructure.",
-    "keywords": [
-      "REIT",
-      "dividend stock",
-      "passive income",
-      "retail real estate",
-      "occupancy rates",
-      "dividend growth",
-      "AI infrastructure"
-    ],
-    "insights": [
-      {
-        "ticker": "O",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates resilience with 98%+ occupancy rates, consistent monthly dividend payments since 1969, quarterly dividend increases since 1998, 13.6% compound annual returns since 1994 IPO, and strategic diversification into AI data center partnerships."
+        "sentiment_reasoning": "Announced carbon-neutrality targets for 2030, positioning the company as a sustainability leader in the growing data center market."
       },
       {
-        "ticker": "WMT",
+        "ticker": "SLNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a top-20 tenant of Realty Income with both brick-and-mortar and e-commerce operations, demonstrating adaptability to changing retail landscape."
+        "sentiment_reasoning": "Exceeded 1 GW of clean computing capacity following launch of wind- and solar-powered facilities in Texas, aligning with the market's renewable energy trend."
       },
       {
-        "ticker": "HD",
+        "ticker": "SLNHP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top-20 tenant of Realty Income, representing a stable, essential retail business that benefits from Realty Income's portfolio strength."
+        "sentiment_reasoning": "Exceeded 1 GW of clean computing capacity following launch of wind- and solar-powered facilities in Texas, aligning with the market's renewable energy trend."
       },
       {
-        "ticker": "FDX",
+        "ticker": "APLD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a top-20 tenant that benefits from e-commerce growth, providing diversification and resilience to Realty Income's tenant base."
-      },
-      {
-        "ticker": "DG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top-20 tenant of Realty Income, representing a stable discount retail business contributing to the REIT's strong occupancy."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Partnership with Realty Income on AI data center facilities represents growth opportunity and strategic diversification beyond traditional retail real estate."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Partnership with Realty Income on AI data center facilities represents growth opportunity and strategic diversification beyond traditional retail real estate."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Partnership with Realty Income on AI data center facilities represents growth opportunity and strategic diversification beyond traditional retail real estate."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Partnership with Realty Income on AI data center facilities represents growth opportunity and strategic diversification beyond traditional retail real estate."
+        "sentiment_reasoning": "Listed as a prominent U.S. data center colocation operator positioned to benefit from the 11.76% CAGR market growth driven by AI and high-performance computing demand."
       }
     ]
   }
