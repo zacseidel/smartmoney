@@ -31,6 +31,13 @@ Dates accept `YYYY-MM-DD` or `MM/DD/YYYY`. Notes are free text (may contain `|`)
 - CRDO | 2026-09-04 |
 - BE | 2026-09-04 | Energy favorite, always mentioned
 
+## Portfolio
+### Open
+- BE | 2026-09-09 | Twitter and Hedge fund favorite, focused on energy
+- CRDO | 2026-09-09 | Hedge fund favorite
+- MRVL | 2026-09-09 |
+
+### Closed
 
 ## Archive
 - MSFT | 2024-03-05 | 2024-12-18 | Rotated to cash; rich multiple into year-end
