@@ -1,5 +1,39 @@
 [
   {
+    "id": "5a3131bd9bdf951ea66aec1ce10aac887256f5b31134d7c2ee3b2f9657c9a607",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "What Does a Hilton Executive's Sale of Nearly 2,000 Shares Mean for Investors?",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-08-07T12:11:01Z",
+    "article_url": "https://www.fool.com/coverage/filings/2026/08/07/what-does-a-hilton-executive-s-sale-of-nearly-2-000-shares-mean-for-investors/?source=iedfolrf0000001",
+    "tickers": [
+      "HLT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd227e0f40b399dc519a5bed98ee8a4568fc6efb8-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Hilton Worldwide Holdings' Chief Development Officer Christian Charnaux sold 1,854 shares on August 5, 2026, for approximately $601,700. The sale was non-discretionary and executed solely to cover tax obligations from equity award vesting, not reflecting any negative view on the stock. Charnaux retained 16,435 shares worth $5.3 million, maintaining significant alignment with shareholders. The transaction is not a cause for investor concern given Hilton's strong Q2 performance with revenue growth and improved earnings guidance.",
+    "keywords": [
+      "insider stock sale",
+      "tax withholding",
+      "equity awards",
+      "hospitality sector",
+      "Q2 earnings",
+      "franchise model",
+      "hotel industry"
+    ],
+    "insights": [
+      {
+        "ticker": "HLT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite the insider stock sale, the article emphasizes this was a routine tax-related transaction with no negative implications. Hilton demonstrated strong fundamentals with Q2 revenue growth to $3.3B, EPS improvement to $2.10, positive full-year guidance ($8.22-$8.35 EPS), 6% pipeline growth, and new brand expansion. The executive retained substantial equity stake, indicating confidence in the company's future."
+      }
+    ]
+  },
+  {
     "id": "638c49ce591edf1db6fa2f6ea08241c0e3c6f43be95c042f298329a972d76765",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -273,212 +307,6 @@
         "ticker": "BRK.B",
         "sentiment": "positive",
         "sentiment_reasoning": "Used as a positive comparison model for Pershing Square's business structure, highlighting the benefits of permanent capital and long-term value creation through fee economics."
-      }
-    ]
-  },
-  {
-    "id": "eae37cbd0553f8c4fd652daf68b797f9fb1a731389761d3890aa129e8fd61b4f",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Welcome to Shareholder Meeting Month: AI, Oil, and Consumer Are in the Spotlight",
-    "author": "Christine Short",
-    "published_utc": "2026-05-06T14:35:00Z",
-    "article_url": "https://www.investing.com/analysis/welcome-to-shareholder-meeting-month-ai-oil-and-consumer-are-in-the-spotlight-200679797",
-    "tickers": [
-      "PEP",
-      "LUV",
-      "CSX",
-      "MMM",
-      "AMD",
-      "INTC",
-      "F",
-      "FpB",
-      "FpC",
-      "FpD",
-      "HLT",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "C",
-      "CpN",
-      "CpR",
-      "AMZN",
-      "MCD",
-      "HD",
-      "XOM",
-      "CVX",
-      "CRM"
-    ],
-    "amp_url": "https://m.investing.com/analysis/welcome-to-shareholder-meeting-month-ai-oil-and-consumer-are-in-the-spotlight-200679797?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "May marks Shareholder Meeting Month with major corporations holding Annual General Meetings across sectors including Consumer Staples, Industrials, Financials, Tech, and Energy. Key topics include consumer spending resilience, AI strategy, energy production amid geopolitical tensions, and economic health. Notable meetings include PepsiCo, Southwest Airlines, AMD, Intel, JPMorgan, Citigroup, Amazon, McDonald's, Exxon Mobil, Chevron, and Salesforce, offering investors forward-looking insights beyond quarterly earnings.",
-    "keywords": [
-      "shareholder meetings",
-      "AGM",
-      "consumer spending",
-      "AI strategy",
-      "energy prices",
-      "geopolitical tensions",
-      "Iran conflict",
-      "oil prices",
-      "semiconductor industry",
-      "financial sector"
-    ],
-    "insights": [
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Beat Q1 earnings but shares trading sideways; sequential declines across segments reflect changing consumption trends and food inflation concerns warrant monitoring at AGM."
-      },
-      {
-        "ticker": "LUV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Faces headwinds from soaring jet fuel costs and no longer hedges fuel exposure; CEO commentary on booking trends will be critical given fuel price volatility."
-      },
-      {
-        "ticker": "CSX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported healthy railcar volumes in Q1 and stock hit all-time highs; new CEO Steve Angel's confidence could buttress manufacturing PMI improvements."
-      },
-      {
-        "ticker": "MMM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined from $170 high in February to laggard status; dinged by elevated oil prices and new CEO has not generated bullish sentiment."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock up 15.16% with recent upgrades on strong AI demand; AGM will provide context on competitive dynamics and long-term AI/data center positioning."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Foundry ambitions and capital intensity remain focal points; potential political intervention from Trump administration adds uncertainty to outlook."
-      },
-      {
-        "ticker": "F",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 13% YTD, badly lagging S&P 500; faces headwinds from EV strategy scrutiny, rising aluminum costs, and elevated gas prices impacting consumer demand."
-      },
-      {
-        "ticker": "FpB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 13% YTD, badly lagging S&P 500; faces headwinds from EV strategy scrutiny, rising aluminum costs, and elevated gas prices impacting consumer demand."
-      },
-      {
-        "ticker": "FpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 13% YTD, badly lagging S&P 500; faces headwinds from EV strategy scrutiny, rising aluminum costs, and elevated gas prices impacting consumer demand."
-      },
-      {
-        "ticker": "FpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Down 13% YTD, badly lagging S&P 500; faces headwinds from EV strategy scrutiny, rising aluminum costs, and elevated gas prices impacting consumer demand."
-      },
-      {
-        "ticker": "HLT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Up 8% YTD with mixed Q1 results; modest 2\u20133% FY2026 RevPAR growth guidance with Iran conflict headwinds; business travel trends will be key discussion point."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jamie Dimon's commentary highly anticipated; banks sit at intersection of Main Street health and corporate activity, providing useful economic proxy."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock up 78% over past year with CEO Jane Fraser executing well; first Investor Day in years suggests positive news; AGM could reinforce momentum."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock up 78% over past year with CEO Jane Fraser executing well; first Investor Day in years suggests positive news; AGM could reinforce momentum."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock up 78% over past year with CEO Jane Fraser executing well; first Investor Day in years suggests positive news; AGM could reinforce momentum."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock at all-time highs; executing well on cloud business with strong tech progress; AI hyperscaler positioning remains favorable."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Grappling with sluggish spending among low- and middle-income cohorts; AGM will reveal ground-level consumer health, traffic trends, and pricing power amid persistent inflation."
-      },
-      {
-        "ticker": "HD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Notable AGM scheduled; consumer discretionary exposure provides insight into household spending trends and housing market health."
-      },
-      {
-        "ticker": "XOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beat earnings; signaled optimism on Venezuela production; benefits from triple-digit oil prices though geopolitical tensions and Strait of Hormuz blockade pose risks."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beat earnings with improved upstream revenue growth; positioned to benefit from elevated oil prices though supply dynamics and logistics challenges require monitoring."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 30% over past 12 months; faces existential threat from AI tools like Claude, ChatGPT, and Gemini potentially disrupting enterprise product suite; tensions expected at AGM."
       }
     ]
   }

@@ -1,441 +1,273 @@
 [
   {
-    "id": "4e7ac13c6e0fbe88900f93f084dc041b3d1407d728e2ada2d6e2814620dfb1f1",
+    "id": "954a965b3302a2d6f8aed64f0affb2642c77d72dd1934c7efe239bfb7fb53618",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Which Financial Stocks Actually Benefit When Interest Rates Stay High?",
-    "author": "Matthew Benjamin",
-    "published_utc": "2026-07-01T08:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/01/which-financial-stocks-actually-benefit-when-inter/?source=iedfolrf0000001",
+    "title": "LPL Financial Welcomes Horizon Wealth Management Group",
+    "author": "Lpl Financial",
+    "published_utc": "2026-09-15T12:55:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362106/29579/en/lpl-financial-welcomes-horizon-wealth-management-group.html",
     "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
+      "LPLA",
       "WFC",
       "WFCpA",
       "WFCpC",
       "WFCpD",
       "WFCpL",
       "WFCpY",
-      "WFCpZ",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ",
-      "LPLA",
-      "ALL",
-      "ALLpB",
-      "ALLpH",
-      "ALLpI",
-      "ALLpJ",
-      "BRK.A",
-      "BRK.B"
+      "WFCpZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876573%2Fgettyimages-1446870553.jpg&w=1200&op=resize",
-    "description": "As the Federal Reserve appears likely to raise interest rates, certain financial stocks stand to benefit. Banks like JPMorgan Chase, Wells Fargo, and Bank of America will see wider net interest margins. Brokerages such as Charles Schwab and LPL Financial will earn more on client cash holdings. Insurance companies including Berkshire Hathaway and Allstate can purchase bonds at higher yields, improving portfolio returns.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/53e1e8c9-85a6-4959-822d-a2cead7e0840",
+    "description": "Three financial advisors from Horizon Wealth Management Group, managing approximately $385 million in assets, have joined LPL Financial's broker-dealer and RIA platforms from Wells Fargo Advisors Financial Network. The Wichita-based firm specializes in retirement planning and comprehensive financial guidance for retirees and pre-retirees, citing LPL's advanced technology, financial planning capabilities, and dedicated service model as key reasons for the move.",
     "keywords": [
-      "interest rates",
-      "Federal Reserve",
-      "net interest margin",
-      "financial stocks",
-      "banks",
-      "insurance companies",
-      "brokerages"
+      "wealth management",
+      "financial advisors",
+      "asset management",
+      "retirement planning",
+      "broker-dealer",
+      "registered investment advisor"
     ],
     "insights": [
       {
-        "ticker": "AMJB",
+        "ticker": "LPLA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Banks benefit from higher interest rates through wider net interest margins. JPMorgan Chase generated record net interest income exceeding $90 billion during the 2022-2023 Fed hiking cycle."
+        "sentiment_reasoning": "LPL Financial successfully recruited a team managing $385 million in assets, demonstrating continued growth and competitive strength in attracting advisory practices. The acquisition highlights LPL's platform capabilities and market position."
       },
       {
         "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       },
       {
         "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major bank, Wells Fargo will see increased profitability from wider net interest margins when rates rise."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Big banks benefit from higher rates through expanded net interest margins. Bank of America saw a surge in interest income during the previous hiking cycle."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Brokerages earn more on large cash holdings when rates rise, as short-term securities become more attractive with higher yields."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Brokerages earn more on large cash holdings when rates rise, as short-term securities become more attractive with higher yields."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Brokerages earn more on large cash holdings when rates rise, as short-term securities become more attractive with higher yields."
-      },
-      {
-        "ticker": "LPLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a brokerage, LPL Financial benefits from higher rates by earning increased returns on client cash held in short-term securities."
-      },
-      {
-        "ticker": "ALL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies can reinvest collected premiums into higher-yielding bonds when interest rates rise, enhancing portfolio returns."
-      },
-      {
-        "ticker": "ALLpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies can reinvest collected premiums into higher-yielding bonds when interest rates rise, enhancing portfolio returns."
-      },
-      {
-        "ticker": "ALLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies can reinvest collected premiums into higher-yielding bonds when interest rates rise, enhancing portfolio returns."
-      },
-      {
-        "ticker": "ALLpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies can reinvest collected premiums into higher-yielding bonds when interest rates rise, enhancing portfolio returns."
-      },
-      {
-        "ticker": "ALLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies can reinvest collected premiums into higher-yielding bonds when interest rates rise, enhancing portfolio returns."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies benefit from higher rates by purchasing new bonds at higher yields, improving returns on their large fixed-income portfolios."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insurance companies benefit from higher rates by purchasing new bonds at higher yields, improving returns on their large fixed-income portfolios."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo Advisors is mentioned only as the previous employer of the departing team. The article contains no information about Wells Fargo's performance or strategic position, warranting a neutral stance."
       }
     ]
   },
   {
-    "id": "f0aede133a9b6573dbfcdd034c1db5457afeb7c835d633dec342636bc03e5c96",
+    "id": "240e9c942aa7254e35e3648ceec50f1306bb2e7ad2f926796c9caea34ab21532",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "LPL Financial Welcomes Tribute Financial",
-    "author": "Lpl Financial",
-    "published_utc": "2026-06-24T12:55:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/24/3316861/29579/en/LPL-Financial-Welcomes-Tribute-Financial.html",
+    "title": "LPL Financial Welcomes Preferred Financial Group",
+    "author": "Not Specified",
+    "published_utc": "2026-08-25T12:55:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350472/29579/en/lpl-financial-welcomes-preferred-financial-group.html",
     "tickers": [
       "LPLA"
     ],
     "image_url": "https://ml.globenewswire.com/Resource/Download/53e1e8c9-85a6-4959-822d-a2cead7e0840",
-    "description": "Tribute Financial, a Missouri and Connecticut-based wealth management firm managing over $500 million in assets, has joined LPL Financial's broker-dealer and RIA platform. Led by CEO Kevin Daniels, the team transitioned from United Planners Financial Services and was attracted to LPL's advanced technology, resources, and support capabilities.",
+    "description": "Pat and James Gilbert of Preferred Financial Group, a father-son team managing approximately $230 million in assets, have joined LPL Financial's broker-dealer and RIA platforms. The team, with nearly 50 years of combined experience, selected LPL for its technology, scale, and streamlined operations to better serve clients and support future growth.",
     "keywords": [
+      "financial advisors",
       "wealth management",
       "broker-dealer",
       "registered investment advisor",
       "asset management",
-      "financial advisory",
-      "platform migration"
+      "practice growth",
+      "technology platform"
     ],
     "insights": [
       {
         "ticker": "LPLA",
         "sentiment": "positive",
-        "sentiment_reasoning": "LPL Financial successfully recruited a significant wealth management firm with $500M+ in assets, demonstrating continued growth and market competitiveness. The acquisition adds to their advisor base and assets under management, supporting their position as a leading wealth management platform."
+        "sentiment_reasoning": "LPL Financial successfully recruited a well-established advisory team with $230 million in assets under management, demonstrating continued growth and ability to attract experienced advisors. The acquisition strengthens LPL's market position and validates its technology platform and business model."
       }
     ]
   },
   {
-    "id": "821e2a80cd71bd8670aec3438a4554e1f88eb0ac046352d0a222212f958a3af6",
+    "id": "c407997485cdb23a965b9f19cbe23768f54257c6025f772579ed0be9f2a383cb",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "LPL Welcomes Allegia Wealth Management",
+    "title": "LPL Financial Appoints Jonathan Lewis as Managing Director, Chief Technology and Information Officer",
+    "author": "Lpl Financial",
+    "published_utc": "2026-08-24T20:05:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/24/3350100/29579/en/lpl-financial-appoints-jonathan-lewis-as-managing-director-chief-technology-and-information-officer.html",
+    "tickers": [
+      "LPLA"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/c4dd37ac-c417-4471-8c0d-eeecce3eb35d",
+    "description": "LPL Financial announced that Jonathan Lewis has joined as managing director and chief technology and information officer, bringing over two decades of experience from Wells Fargo and J.P. Morgan. Lewis will lead technology domains including architecture, engineering, and infrastructure, reporting to Greg Gates, who assumes the expanded title of group managing director, chief product and technology officer. The appointment reflects LPL's focus on enhancing its LPL Latitude technology platform and advancing AI and platform modernization initiatives.",
+    "keywords": [
+      "LPL Financial",
+      "Chief Technology Officer",
+      "Jonathan Lewis",
+      "Greg Gates",
+      "technology leadership",
+      "wealth management",
+      "AI innovation",
+      "platform modernization"
+    ],
+    "insights": [
+      {
+        "ticker": "LPLA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The appointment of an experienced technology executive from major financial institutions (Wells Fargo, J.P. Morgan) signals LPL's commitment to strengthening its technology infrastructure and innovation capabilities. The focus on AI advancement and platform modernization, combined with leadership restructuring to support these initiatives, indicates positive momentum in the company's strategic technology direction."
+      }
+    ]
+  },
+  {
+    "id": "b5ee99a1f165fe338b074003aeedb025d5f1a0e9c5d931be6da04fa4a31d708f",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "LPL and Private Advisor Group\u00a0Welcome Paxel Financial Consulting",
     "author": "Not Specified",
-    "published_utc": "2026-06-09T12:55:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/09/3308868/29579/en/LPL-Welcomes-Allegia-Wealth-Management.html",
+    "published_utc": "2026-08-06T12:55:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/06/3340316/29579/en/LPL-and-Private-Advisor-Group-Welcome-Paxel-Financial-Consulting.html",
     "tickers": [
       "LPLA"
     ],
     "image_url": "https://ml.globenewswire.com/Resource/Download/53e1e8c9-85a6-4959-822d-a2cead7e0840",
-    "description": "Darren Colananni, a CFP with $230 million in assets under management, has joined LPL Financial's platform to launch Allegia Wealth Management, a wealth management firm serving high-net-worth individuals in the Washington, D.C. area. Colananni selected LPL for its technology, scale, and advisor support capabilities.",
+    "description": "Paxel Financial Consulting, a firm managing approximately $300 million in assets and founded in 1989, has joined LPL Financial's broker-dealer and RIA platform. The team, led by Founder Chin Po, will leverage Private Advisor Group's infrastructure to support their growth. The move was motivated by LPL's technology, flexibility, and resources to enhance client experience while maintaining independent advisory services.",
     "keywords": [
       "wealth management",
-      "financial advisor",
-      "assets under management",
+      "financial advisory",
       "broker-dealer",
       "registered investment advisor",
-      "high-net-worth clients",
-      "financial planning"
+      "financial planning",
+      "estate planning",
+      "advisor consolidation"
     ],
     "insights": [
       {
         "ticker": "LPLA",
         "sentiment": "positive",
-        "sentiment_reasoning": "LPL Financial successfully attracted a new advisor with $230 million in AUM, demonstrating continued growth and appeal to experienced financial professionals. The company's technology and support infrastructure were cited as key reasons for the advisor's selection, indicating competitive strengths in the wealth management market."
+        "sentiment_reasoning": "LPL Financial successfully recruited a well-established advisory firm with $300 million in assets, demonstrating continued growth in their advisor-mediated marketplace and expansion of their platform capabilities."
       }
     ]
   },
   {
-    "id": "5ace07cf4e364f6784bdd6e0728f2c0ff62bc2bc942ae482dd8024d3f5351530",
+    "id": "5cb3d5a0ee29ba7e944365fa8ab9978af77a0a0b5d18e349cb1e837297f178ee",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Sharon Olson, CFP\u00ae, CEPA, Founder & Managing Principal of Olson Wealth Group, Announces Firms\u2019 Expanded Exit and Liquidity Planning Capabilities",
+    "title": "WestKai Private Wealth Joins LPL Strategic Wealth",
     "author": "Not Specified",
-    "published_utc": "2026-06-03T10:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/03/3305848/0/en/Sharon-Olson-CFP-CEPA-Founder-Managing-Principal-of-Olson-Wealth-Group-Announces-Firms-Expanded-Exit-and-Liquidity-Planning-Capabilities.html",
-    "tickers": [
-      "LPLA"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d1ec3fb8-2485-475c-8f00-6ee615160ebf",
-    "description": "Olson Wealth Group, founded by Sharon Olson (CFP\u00ae, CEPA), has expanded its integrated exit and liquidity planning services for business owners and entrepreneurial families. The firm now coordinates business strategy, tax planning, estate planning, and family office services years before a transaction occurs, aiming to maximize enterprise value and prevent value erosion that often occurs when planning begins too late in the process.",
-    "keywords": [
-      "exit planning",
-      "liquidity planning",
-      "business valuation",
-      "tax planning",
-      "estate planning",
-      "family office services",
-      "business succession",
-      "enterprise value"
-    ],
-    "insights": [
-      {
-        "ticker": "LPLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "LPL Financial is mentioned only as the registered investment advisor through which Olson Wealth Group offers securities and advisory services. This is a standard regulatory disclosure with no positive or negative implications about LPL Financial itself."
-      }
-    ]
-  },
-  {
-    "id": "cac8710aa07f47f2b2bbc7d7b3c1b751706a0334b5dca03ddbefd11d3ce411ad",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Moneco Advisors Welcomes Three Advisory Teams, Deepening its Partnership Model Across the Northeast",
-    "author": "Not Specified",
-    "published_utc": "2026-05-26T20:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/26/3301429/0/en/Moneco-Advisors-Welcomes-Three-Advisory-Teams-Deepening-its-Partnership-Model-Across-the-Northeast.html",
+    "published_utc": "2026-08-05T12:55:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/05/3339324/29579/en/WestKai-Private-Wealth-Joins-LPL-Strategic-Wealth.html",
     "tickers": [
       "LPLA",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ"
     ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/05/26/3301429/0/en/Moneco-Advisors-Welcomes-Three-Advisory-Teams-Deepening-its-Partnership-Model-Across-the-Northeast.html",
-    "description": "Moneco Advisors, an independent RIA founded in 1980, announced the integration of three advisory teams including Keith Kolinsky, David J. Karachuk, and Tim Tymniak and Joe Tatusko, bringing approximately $250 million in collective assets and 4 advisors to the firm. This marks the fourth completed integration since December 2025, bringing Moneco's total assets under management to over $3 billion across seven offices in New England and the NYC metropolitan area.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/53e1e8c9-85a6-4959-822d-a2cead7e0840",
+    "description": "Financial advisor Don A. Harrell and his team at WestKai Private Wealth, managing approximately $400 million in assets, have joined LPL Financial's supported independence model, LPL Strategic Wealth, transitioning from Morgan Stanley. The San Clemente-based firm chose LPL for its technology platform, flexibility, and resources to enhance personalized client service.",
     "keywords": [
-      "Moneco Advisors",
-      "advisory integration",
       "wealth management",
-      "financial planning",
-      "assets under management",
-      "partnership model",
-      "tax planning"
+      "financial advisory",
+      "advisor transition",
+      "LPL Strategic Wealth",
+      "independent advisory model",
+      "client assets",
+      "financial services"
     ],
     "insights": [
       {
         "ticker": "LPLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of Moneco's custodial partners. The reference is factual and operational in nature, indicating a business relationship but providing no information about performance or strategic significance."
+        "sentiment": "positive",
+        "sentiment_reasoning": "LPL Financial successfully recruited a $400 million AUM advisory team from a competitor (Morgan Stanley), demonstrating growth in its Strategic Wealth platform and ability to attract established advisors seeking independence and better resources."
       },
       {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a custodial relationship provider. The mention is factual and operational without sentiment implications."
+        "ticker": "MS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
       },
       {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a custodial relationship provider. The mention is factual and operational without sentiment implications."
+        "ticker": "MSpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
       },
       {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a custodial relationship provider. The mention is factual and operational without sentiment implications."
+        "ticker": "MSpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Morgan Stanley lost a financial advisory team managing $400 million in assets to a competitor, indicating client/advisor attrition to alternative wealth management platforms."
       }
     ]
   }

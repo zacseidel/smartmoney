@@ -1,5 +1,51 @@
 [
   {
+    "id": "a1f7a6ca24c70dfd5e9e20fccee340320b91711deb4ebf0b64e3ad2100f4d683",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Visa Turns A2A Fraud Risk Into a New Growth Opportunity",
+    "author": "Na",
+    "published_utc": "2026-09-02T13:24:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983613/visa-turns-a2a-fraud-risk-into-a-new-growth-opportunity?cid=CS-ZC-FT-analyst_blog|quick_take-2983613",
+    "tickers": [
+      "V",
+      "MA",
+      "FIS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7a/172.jpg",
+    "description": "Visa is expanding its presence in the growing account-to-account (A2A) payments market with an enhanced A2A Protect solution that uses AI to detect fraud in real-time. The solution boosts scam detection by up to 75% and reduces false alerts by 40%, allowing Visa to monetize A2A transactions even when they bypass its traditional card network. This supports Visa's Value-Added Services growth strategy and deepens relationships with financial institutions.",
+    "keywords": [
+      "account-to-account payments",
+      "fraud detection",
+      "A2A Protect",
+      "behavioral AI",
+      "Value-Added Services",
+      "real-time payments",
+      "payment security"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Visa is successfully expanding into the high-growth A2A payments market with a competitive fraud detection solution that delivers strong results (75% scam detection improvement, 40% reduction in false alerts). The solution creates new recurring revenue opportunities through its Value-Added Services strategy and strengthens bank relationships, positioning the company well for future growth in real-time payments."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mastercard is also developing competitive fraud-prevention capabilities for A2A payments through solutions like Mastercard A2A Protect and AI-driven Consumer Fraud Risk. While positioned to capture fraud-prevention revenues, the article does not provide specific performance metrics or competitive advantages that would differentiate it from Visa."
+      },
+      {
+        "ticker": "FIS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "FIS offers real-time fraud monitoring and predictive scoring through solutions like SecurLOCK and is expanding AI use in fraud prevention. Its entrenched role in payment processing provides advantages, but the article does not highlight specific competitive strengths or performance metrics that would indicate outperformance in the A2A market."
+      }
+    ]
+  },
+  {
     "id": "ed831ab23f82141ac3f2734428e8227537664d8bdf3bd3de228365b983c5279e",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -308,52 +354,6 @@
         "ticker": "FIS",
         "sentiment": "positive",
         "sentiment_reasoning": "Most balanced profile with predictable 5% revenue growth and 10% EPS growth; strong cash flow generation with 19% increase; attractive 4% dividend yield with recent 10% increase; Wall Street consensus is Moderate Buy with average price target of $69.67 representing ~50% upside; positioned as most stable income play in the sector."
-      }
-    ]
-  },
-  {
-    "id": "7bcd44769186205d949c9155d0761178e929097b8ec7b6fbd5d77aed896832f2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Top Dividend Stocks to Buy in February",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-02-23T03:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/02/22/2-top-dividend-stocks-to-buy-in-february/?source=iedfolrf0000001",
-    "tickers": [
-      "FIS",
-      "MAIN",
-      "GPN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F856065%2Ffinance-66.png&w=1200&op=resize",
-    "description": "The article recommends two dividend stocks for February: Fidelity National Information Services (FIS), a fintech company that recently divested its underperforming Worldpay acquisition and acquired Issuer Solutions, with analysts projecting 67% upside and a recent 10% dividend increase; and Main Street Capital (MAIN), a business development company paying monthly dividends at a 7.20% yield with 18 consecutive years of dividend increases and a five-year annualized return of 11%.",
-    "keywords": [
-      "dividend stocks",
-      "fintech",
-      "business development company",
-      "monthly dividend",
-      "dividend yield",
-      "stock acquisition",
-      "income investing"
-    ],
-    "insights": [
-      {
-        "ticker": "FIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock declined 63% over five years due to poor Worldpay acquisition, but recent divestment and acquisition of Issuer Solutions business is seen as a better strategic fit. Analysts rate it a consensus buy with 67% upside potential, and the company just increased its dividend by 10% to $0.44 per share at 3.62% yield."
-      },
-      {
-        "ticker": "MAIN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highly attractive dividend stock paying monthly dividends at 7.20% yield, with 18 consecutive years of dividend increases. As a BDC required to distribute 90% of taxable income, it also pays supplemental dividends quarterly. Five-year annualized return of 11% demonstrates reliable performance."
-      },
-      {
-        "ticker": "GPN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as the company from which Fidelity acquired the Issuer Solutions business. No direct investment recommendation or analysis provided."
       }
     ]
   }

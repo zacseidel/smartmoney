@@ -1,251 +1,216 @@
 [
   {
-    "id": "87136785db8fe2451bd2674eda5a4a332ec6e81432f3e122f623235386905c60",
+    "id": "bf0995306ba899e5025118c1f28f2341410793eb9e3b8d7e4006097dbdc0fdb3",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can 3M Continue Its Strong Capital Returns to Shareholders?",
+    "author": "Na",
+    "published_utc": "2026-09-15T17:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2990134/can-3m-continue-its-strong-capital-returns-to-shareholders?cid=CS-ZC-FT-analyst_blog|quick_take-2990134",
+    "tickers": [
+      "MMM",
+      "GE",
+      "HWM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/84/473.jpg",
+    "description": "3M Company returned $3.8 billion to shareholders through dividends and buybacks in the first half of 2026, with $1.8 billion remaining under its repurchase authorization. The company expects adjusted operating cash flow of $5.8-$6.0 billion and free cash flow conversion above 100% for 2026, while raising its quarterly dividend by 6.8% in February 2026. Despite trading above industry valuation averages, 3M shares gained 3.6% over the past year compared to a 27.8% industry decline.",
+    "keywords": [
+      "shareholder returns",
+      "dividends",
+      "share buybacks",
+      "cash flow",
+      "capital allocation",
+      "industrial diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "MMM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder return program with $3.8B returned in H1 2026, dividend increase of 6.8%, robust cash flow guidance ($5.8-$6.0B operating cash flow), and outperformance versus industry peers (3.6% gain vs. -27.8% industry decline). Zacks Rank #3 (Hold) reflects moderate confidence."
+      },
+      {
+        "ticker": "GE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Aggressive capital return with $4.2B in share repurchases and $873M in dividends in H1 2026, substantial 30.6% dividend increase, and raised free cash flow guidance to $8.9-$9.2B for 2026."
+      },
+      {
+        "ticker": "HWM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Consistent shareholder returns with $97M in dividends and $800M in share repurchases year-to-date through July 2026, plus a 17% dividend increase in July 2026."
+      }
+    ]
+  },
+  {
+    "id": "5e95ebb81814c4c543533a9d95a8dea5764f78048ce2fc521de101dd3aee1424",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "GE Aerospace has a Backlog Worth $210 Billion. Here's Why I'm Still Not Buying",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-26T23:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/26/ge-aerospace-has-a-backlog-worth-210-billion-heres/?source=iedfolrf0000001",
+    "title": "GE Aerospace Is Making a $12 Billion Acquisition. Here's What Investors Should Know.",
+    "author": "Catie Hogan",
+    "published_utc": "2026-09-12T08:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/12/ge-aerospace-is-making-a-12-billion-acquisition-he/?source=iedfolrf0000001",
     "tickers": [
       "GE"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879838%2F22_07_29-engineers-working-on-airplane-engine-_mf-dload.jpg&w=1200&op=resize",
-    "description": "Despite GE Aerospace's impressive $210 billion backlog, strong 24% revenue growth, and solid business fundamentals, analyst Reuben Gregg Brewer recommends against buying the stock. The company's valuation has become stretched, with price-to-sales, price-to-earnings, and price-to-book ratios all significantly above historical averages following a 300% price surge over three years. Additionally, the dividend yield of 0.5% is unattractive for income-focused investors. While GE Aerospace's future prospects are bright, current market pricing appears to have already factored in the good news.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886836%2Faerospace-engineer-jet-engine-source-getty-images.jpg&w=1200&op=resize",
+    "description": "GE Aerospace announced an $11.75 billion acquisition of Consolidated Precision Products (CPP), its largest deal since becoming independent in 2024. The acquisition addresses critical supply chain constraints by bringing a key aerospace castings supplier in-house, as CPP supplies approximately 25% of GE's needs. Financed with $7 billion cash and new debt, the deal is expected to boost adjusted profit per share and free cash flow in the first year, though it faces antitrust scrutiny. GE's $210 billion backlog extending into the 2030s necessitates the additional capacity.",
     "keywords": [
-      "GE Aerospace",
+      "aerospace acquisition",
+      "supply chain",
+      "manufacturing capacity",
+      "antitrust concerns",
+      "aerospace castings",
       "backlog",
-      "valuation",
-      "dividend yield",
-      "aerospace industry",
-      "stock overvaluation",
-      "price-to-earnings ratio"
+      "debt financing"
     ],
     "insights": [
       {
         "ticker": "GE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company's business fundamentals are strong with a $210 billion backlog and 24% revenue growth, the stock is overvalued relative to historical metrics and the broader market. The P/E ratio of 41x (vs. 30x historical average), P/S ratio of 7.2x (vs. 2.1x historical average), and minimal 0.5% dividend yield make it unattractive at current prices. The 300% three-year price appreciation has priced in future success, leaving limited margin of safety for investors."
+        "sentiment": "positive",
+        "sentiment_reasoning": "The acquisition strategically addresses a critical supply chain bottleneck, secures manufacturing capacity to meet a $210 billion backlog, and is expected to boost profitability and free cash flow in the first year. Despite near-term balance sheet pressure and antitrust concerns, the long-term operational benefits and revenue visibility support a positive outlook."
       }
     ]
   },
   {
-    "id": "6bee10b51a9f581520768e10e503263e46fc9dd06f39fc8ef06088a12890915f",
+    "id": "942795321fa07dc8d2723776e770e8974cfa3d9f7e7c575eaa46d176116a1f95",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Which Aerospace ETF is the Better Buy in 2026: Invesco Aerospace & Defense or U.S. Global Jets?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-24T18:15:01Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/24/which-aerospace-etf-is-the-better-buy-in-2026-invesco-aerospace-and-defense-or-u-s-global-jets/?source=iedfolrf0000001",
+    "title": "Can RTX's GTF Aftermarket Expansion Boost Its Growth Outlook?",
+    "author": "Na",
+    "published_utc": "2026-09-10T14:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2987762/can-rtx-s-gtf-aftermarket-expansion-boost-its-growth-outlook?cid=CS-ZC-FT-analyst_blog|quick_take-2987762",
     "tickers": [
-      "PPA",
-      "JETS",
-      "GE",
       "RTX",
-      "BA",
-      "BApA",
-      "AAL",
-      "UAL",
-      "LUV"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two aerospace ETFs: Invesco Aerospace & Defense (PPA) and U.S. Global Jets (JETS). While JETS has outperformed recently due to small-cap rally strength (up 46.1% in 52 weeks vs PPA's 25.4%), PPA demonstrates superior long-term performance with a 17.8% annualized return over the past decade compared to JETS' 5.2%. PPA offers lower volatility (0.74 beta vs 1.20), broader diversification across defense contractors and aerospace manufacturers, and a lower expense ratio. Despite PPA's stronger fundamentals, the article recommends JETS as the better buy, citing the historic small-cap rally and belief that small caps will continue outperforming.",
-    "keywords": [
-      "aerospace ETF",
-      "defense contractors",
-      "airline operators",
-      "small-cap stocks",
-      "ETF comparison",
-      "investment performance",
-      "volatility",
-      "dividend yield"
-    ],
-    "insights": [
-      {
-        "ticker": "PPA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "PPA demonstrates superior long-term performance (17.8% annualized over 10 years), significantly lower volatility (0.74 beta), broader diversification across defense and aerospace sectors, and a slightly lower expense ratio (0.58%). It converted $1,000 to $2,411 over 5 years versus JETS' $1,293."
-      },
-      {
-        "ticker": "JETS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JETS is recommended as the better buy despite weaker fundamentals, based on recent strong performance (46.1% in 52 weeks, up 18.4% year-to-date) driven by the historic small-cap rally. The article believes small caps will continue outperforming, making JETS an attractive near-term investment despite higher volatility and weaker long-term track record."
-      },
-      {
-        "ticker": "GE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in PPA (7.3% position) with no specific performance commentary or sentiment expressed in the article."
-      },
-      {
-        "ticker": "RTX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major PPA holding (7.2% position) representing defense contractor exposure, mentioned without specific sentiment or performance analysis."
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a significant PPA holding (6.8% position) in the aerospace sector, mentioned without specific commentary or sentiment."
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a significant PPA holding (6.8% position) in the aerospace sector, mentioned without specific commentary or sentiment."
-      },
-      {
-        "ticker": "AAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Top JETS holding (10.89%) representing the airline operator focus, mentioned without specific performance sentiment."
-      },
-      {
-        "ticker": "UAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Major JETS holding (11.1%) representing commercial airline exposure, mentioned without specific sentiment analysis."
-      },
-      {
-        "ticker": "LUV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Significant JETS holding (10.7%) in the airline sector, mentioned without specific performance commentary."
-      }
-    ]
-  },
-  {
-    "id": "5f61015eec5a7c23ba84e6c0f0e9f69e424747efe0055d544c5381a1e575fff4",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "GE Aerospace Wraps Historic Farnborough Airshow",
-    "author": "Na",
-    "published_utc": "2026-07-24T12:53:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3332847/0/en/GE-Aerospace-Wraps-Historic-Farnborough-Airshow.html",
-    "tickers": [
-      "GE",
-      "AER"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/879b05a8-5c97-4efe-8bdb-832f4c2fc9a0",
-    "description": "GE Aerospace and CFM International announced record engine commitments of approximately 1,800 engines at the 2026 Farnborough International Airshow, including IndiGo's record order for 1,000+ LEAP-1A engines and additional GEnx wins. The company also achieved major milestones in hybrid electric flight, completing the first flight above 30,000 feet, and secured FAA/EASA certification for LEAP-1B durability enhancements.",
-    "keywords": [
-      "record engine orders",
-      "LEAP engines",
-      "GEnx engines",
-      "hybrid electric flight",
-      "CFM International",
-      "Boeing 787",
-      "Airbus A320neo",
-      "durability certification",
-      "open fan technology"
-    ],
-    "insights": [
-      {
-        "ticker": "GE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record engine orders (~1,800 engines), major durability certifications, historic hybrid electric flight achievements, and strong commercial wins across multiple aircraft platforms demonstrate significant business momentum and technological advancement."
-      },
-      {
-        "ticker": "AER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Additional order for 15 GEnx-1B engines demonstrates continued confidence in the engine platform and expansion of their aircraft leasing portfolio."
-      }
-    ]
-  },
-  {
-    "id": "fe068a9fa096cfcd0e567cb5395d537af6f7f6310bed4d00d15ca8f5108011a8",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "GE Aerospace Announces AerCap Selects GEnx Engines to Power 15 Additional Boeing 787 Dreamliners",
-    "author": "Paul Bergman",
-    "published_utc": "2026-07-21T15:53:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330744/0/en/GE-Aerospace-Announces-AerCap-Selects-GEnx-Engines-to-Power-15-Additional-Boeing-787-Dreamliners.html",
-    "tickers": [
-      "GE",
-      "AER",
-      "BA",
-      "BApA"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/0b0303a7-6c0c-4db4-be89-697cef86dcd1",
-    "description": "AerCap Holdings, the world's largest owner of Boeing 787 aircraft, has selected GE Aerospace's GEnx-1B engine to power an additional 15 Boeing 787 Dreamliners. The GEnx engine has demonstrated a 99.98% dispatch reliability rate and stays on-wing at three times the rate of competing engines. GE Aerospace is investing over \u20ac110 million in European facilities and $1 billion across U.S. manufacturing sites to increase production capacity.",
-    "keywords": [
-      "GEnx-1B engine",
-      "Boeing 787 Dreamliner",
-      "aircraft leasing",
-      "engine reliability",
-      "manufacturing investment",
-      "aviation supply chain"
-    ],
-    "insights": [
-      {
-        "ticker": "GE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong order confirmation from major customer AerCap for 15 additional aircraft engines, demonstrating market confidence. Engine shows superior reliability metrics (99.98% dispatch rate) and significant operational achievements (50 million flight hours). Company is making substantial capital investments ($1+ billion) to expand production capacity, indicating strong demand and growth trajectory."
-      },
-      {
-        "ticker": "AER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Continued investment in proven engine technology for fleet expansion demonstrates confidence in business model and customer demand. Selection of GEnx engines for additional 15 aircraft shows strategic commitment to reliable, economical aircraft platforms that support customer requirements."
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Indirect positive sentiment as major aircraft lessor AerCap continues to order Boeing 787 Dreamliners equipped with GEnx engines, indicating sustained demand for Boeing's widebody aircraft platform."
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Indirect positive sentiment as major aircraft lessor AerCap continues to order Boeing 787 Dreamliners equipped with GEnx engines, indicating sustained demand for Boeing's widebody aircraft platform."
-      }
-    ]
-  },
-  {
-    "id": "1fdfaae2566ad29259da3a56136ef747cca9041400fdfe5d1e1cf11cd18b76fb",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "IndiGo and CFM sign MOU paving the way to a record agreement for 1,000+ LEAP-1A engines",
-    "author": "Na",
-    "published_utc": "2026-07-20T15:55:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/20/3329935/0/en/IndiGo-and-CFM-sign-MOU-paving-the-way-to-a-record-agreement-for-1-000-LEAP-1A-engines.html",
-    "tickers": [
       "GE",
       "SAFRY"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/73abc03b-7db9-4f81-b74c-a66487dadee9",
-    "description": "IndiGo, India's largest airline, announced a record MoU with CFM International for 1,000+ LEAP-1A engines to power 510 Airbus A320neo Family aircraft. The deal includes CFM's support for establishing IndiGo's engine MRO facility and long-term material services. This marks the largest single LEAP engine order ever placed and strengthens the decade-long partnership between the companies.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/02/147.jpg",
+    "description": "RTX Corporation is expanding its commercial aerospace aftermarket opportunity through Pratt & Whitney's growing Geared Turbofan (GTF) engine support network, which now spans 21 facilities worldwide. The GTF family powers over 2,600 aircraft across multiple platforms, creating recurring maintenance and repair opportunities. In 2025, the GTF Advantage engine received certification for the Airbus A320neo family, designed to offer higher thrust and improved fuel efficiency. Pratt & Whitney's sales grew to $32.9 billion in 2025, with operating profit reaching $2.6 billion.",
     "keywords": [
-      "LEAP engines",
-      "aircraft order",
-      "MRO facility",
-      "A320neo",
-      "engine maintenance",
-      "aviation partnership",
-      "fleet expansion"
+      "Geared Turbofan engine",
+      "aftermarket services",
+      "MRO (maintenance, repair, overhaul)",
+      "commercial aerospace",
+      "GTF Advantage certification",
+      "installed base growth"
+    ],
+    "insights": [
+      {
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "RTX is expanding its aftermarket revenue opportunities through a growing GTF support network (21 facilities), 26% year-over-year increase in shop-visit output, new engine certification, and strong financial performance with Pratt & Whitney sales up 17% and operating profit up 30% in 2025. The company holds a Zacks Rank #2 (Buy) rating."
+      },
+      {
+        "ticker": "GE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "GE Aerospace is mentioned as a competitor with significant exposure to commercial engine support and aftermarket services, but no specific performance metrics or developments are provided in the article."
+      },
+      {
+        "ticker": "SAFRY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Safran is mentioned as a major aerospace company with broad commercial engine aftermarket business and an expanding LEAP fleet, but no specific performance data or developments are discussed."
+      }
+    ]
+  },
+  {
+    "id": "8fc22a699d0e1a3c89cba4d232c76e4a4a79248c7ed3cff591871a0c6609da5b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GE Aerospace (GE) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-09T21:45:07Z",
+    "article_url": "https://www.zacks.com/stock/news/2987356/ge-aerospace-ge-registers-a-bigger-fall-than-the-market-important-facts-to-note?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2987356",
+    "tickers": [
+      "GE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default208.jpg",
+    "description": "GE Aerospace fell 2.83% on September 9, 2026, underperforming the S&P 500's 0.48% decline. Despite the recent weakness, analysts project strong earnings growth of 21.08% YoY and revenue growth of 12.27% for the upcoming quarter. The company holds a Zacks Rank #3 (Hold) with a Forward P/E of 42.36, trading at a premium to its industry average of 23.08.",
+    "keywords": [
+      "GE Aerospace",
+      "stock decline",
+      "earnings forecast",
+      "valuation premium",
+      "aerospace sector",
+      "Zacks Rank"
+    ],
+    "insights": [
+      {
+        "ticker": "GE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the stock experienced a notable daily decline of 2.83% and a 9.01% monthly loss, this is offset by strong projected earnings growth of 21.08% YoY and revenue growth of 12.27%. However, the elevated Forward P/E ratio of 42.36 (vs. industry average of 23.08) and PEG ratio of 2.45 suggest the stock is overvalued relative to growth prospects. The Zacks Rank #3 (Hold) rating reflects this mixed outlook, warranting a neutral stance."
+      }
+    ]
+  },
+  {
+    "id": "0ff068632847e48e2261765e5f6d9a5f5874fdbeb9d863982e9b91d90dbccd2c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GE Expands Mission-Critical Castings Capacity Through CPP Acquisition",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-09T15:39:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2987153/ge-expands-mission-critical-castings-capacity-through-cpp-acquisition?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2987153",
+    "tickers": [
+      "GE",
+      "HWM",
+      "ACHR",
+      "ACHR.WS",
+      "RTX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/65/143.jpg",
+    "description": "GE Aerospace announced an $11.75 billion acquisition of Consolidated Precision Products (CPP) from Warburg Pincus and Berkshire Partners. CPP manufactures precision castings and sub-assemblies for commercial and military aircraft engines. The deal aims to expand GE's casting capacity, strengthen its supply chain, and support growth in commercial engines, aftermarket, and defense markets. The transaction is expected to close in the second half of 2027.",
+    "keywords": [
+      "acquisition",
+      "aerospace",
+      "castings",
+      "manufacturing capacity",
+      "defense",
+      "commercial engines",
+      "supply chain"
     ],
     "insights": [
       {
         "ticker": "GE",
         "sentiment": "positive",
-        "sentiment_reasoning": "As 50% owner of CFM International, benefits from record LEAP engine order. Company highlights strong presence in India with manufacturing and engineering operations, supporting long-term growth in a strategic market."
+        "sentiment_reasoning": "The acquisition strengthens GE's strategic position by expanding casting capacity and supply chain capabilities. The company benefits from robust demand for commercial engines, defense spending, and positive airline dynamics. However, this is tempered by concerns about high costs and restructuring expenses affecting margins."
       },
       {
-        "ticker": "SAFRY",
+        "ticker": "HWM",
         "sentiment": "positive",
-        "sentiment_reasoning": "As 50% owner of CFM International, benefits from historic order. Recently inaugurated large LEAP MRO facility in India, positioning the company to capture aftermarket services revenue from this expanded fleet."
+        "sentiment_reasoning": "Howmet carries a Zacks Rank #2 (Buy) with consistent earnings surprises (6.9% trailing four-quarter average) and increased 2026 earnings estimates, indicating strong operational performance in the aerospace sector."
+      },
+      {
+        "ticker": "ACHR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Archer Aviation holds a Zacks Rank #2 with an impressive 18.4% trailing four-quarter average earnings surprise and increased 2026 earnings consensus estimates, suggesting strong growth momentum."
+      },
+      {
+        "ticker": "ACHR.WS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Archer Aviation holds a Zacks Rank #2 with an impressive 18.4% trailing four-quarter average earnings surprise and increased 2026 earnings consensus estimates, suggesting strong growth momentum."
+      },
+      {
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "RTX maintains a Zacks Rank #2 with a solid 14.2% trailing four-quarter average earnings surprise and increased 2026 earnings estimates, reflecting strong performance in the defense and aerospace sectors."
       }
     ]
   }

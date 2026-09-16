@@ -1,0 +1,35 @@
+{
+  "ticker": "GTE",
+  "name": "Gran Tierra Energy Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XASE",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001273441",
+  "composite_figi": "BBG000C2M300",
+  "share_class_figi": "BBG001S5RKW6",
+  "market_cap": 388830914.71,
+  "phone_number": "(403) 265-3221",
+  "address": {
+    "address1": "500 CENTRE STREET SE",
+    "city": "CALGARY",
+    "state": "A0",
+    "postal_code": "T2G 1A6"
+  },
+  "description": "Gran Tierra Energy Inc is an independent energy company. The company, along with its subsidiaries, is focused on oil and gas exploration and production, with assets in Colombia, Canada, and Ecuador. It produces oil, natural gas, and natural gas liquids. Gran Tierra has assembled a diversified, high-quality asset base that is fully operated in Colombia and Ecuador and partly in Canada. The company operates various blocks in Colombia and Ecuador, spanning three basins. It also has contiguous areas in Alberta, Canada, spanning various gross acres across the Western Canadian Sedimentary Basin. The company's reportable segments are Colombia, Ecuador, Canada, and Other. The majority of its revenue comes from operations in Colombia.",
+  "sic_code": "1311",
+  "sic_description": "CRUDE PETROLEUM & NATURAL GAS",
+  "ticker_root": "GTE",
+  "homepage_url": "https://www.grantierra.com",
+  "total_employees": 406,
+  "list_date": "2005-05-23",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Z3JhbnRpZXJyYS5jb20/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Z3JhbnRpZXJyYS5jb20/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 35380429,
+  "weighted_shares_outstanding": 35380429,
+  "round_lot": 100
+}

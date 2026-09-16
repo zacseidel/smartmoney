@@ -1,578 +1,211 @@
 [
   {
-    "id": "75dfa049278f2592054e733225fda610bb54f83a051238cd43e96490883f7b51",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Adobe vs. Autodesk: What Revenue Trends Reveal About These Software Stocks",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-07-17T17:28:01Z",
-    "article_url": "https://www.fool.com/coverage/charts/2026/07/17/adobe-vs-autodesk-what-revenue-trends-reveal-about-these-software-stocks/?source=iedfolrf0000001",
-    "tickers": [
-      "ADBE",
-      "ADSK"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Fadbe-adsk%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Fadbe-adsk_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
-    "description": "Adobe demonstrates stronger revenue momentum with eight consecutive quarters of growth, reaching $6.6 billion in Q2 2026, while Autodesk recorded its first revenue decline to $1.9 billion in Q2 2026 due to sales team reorganization. Despite leadership transitions at Adobe and market concerns about AI impact, the company maintains its competitive advantage with broader market reach compared to Autodesk's niche industry focus.",
-    "keywords": [
-      "revenue growth",
-      "software stocks",
-      "quarterly earnings",
-      "market comparison",
-      "artificial intelligence",
-      "leadership transition",
-      "sales performance"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adobe shows consistent revenue expansion with eight straight quarters of growth, strong net income margins (26%), and demonstrated ability to attract customer spending despite AI concerns and executive transitions. The article suggests it's a good buying opportunity at current valuations."
-      },
-      {
-        "ticker": "ADSK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Autodesk recorded its first revenue decline in Q2 2026 due to sales team reorganization, but management raised full-year guidance to $8.5 billion, indicating confidence in recovery. The company maintains solid fundamentals with 25% net income margins and strategic partnerships, though recent performance shows weakness."
-      }
-    ]
-  },
-  {
-    "id": "1fc7968a917819f1c91e2cc347ba4d56c3621fa32f392fa939505eee4f4ab89e",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Consumer Tech News (May 25-29): Dell, IBM, CrowdStrike, Meta Lead Big Tech AI Push",
-    "author": "Lekha Gupta",
-    "published_utc": "2026-05-31T13:53:24Z",
-    "article_url": "https://www.benzinga.com/markets/tech/26/05/52894213/consumer-tech-news-may-25-29-dell-ibm-crowdstrike-meta-lead-big-tech-ai-push?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "DELL",
-      "IBM",
-      "CRWD",
-      "META",
-      "ADSK",
-      "CRM",
-      "MDB",
-      "INTC",
-      "NVDA",
-      "CRWV",
-      "OKTA",
-      "HPQ",
-      "SNPS",
-      "MRVL",
-      "PATH",
-      "WB",
-      "LI",
-      "XPEV",
-      "PLAB",
-      "S",
-      "TSLA",
-      "SPCE",
-      "RKLB",
-      "GM",
-      "HOOD",
-      "KC",
-      "INFY",
-      "NBIS",
-      "SMCI",
-      "TSM",
-      "QCOM"
-    ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/31/Tech-Bubble-Risk-And-Economic-Technology.jpeg",
-    "description": "Major tech companies drove AI innovation this week with strong earnings and strategic initiatives. Dell reported record Q1 revenue of $43.84B, significantly beating estimates, while IBM and Red Hat launched a $5B open-source security initiative. Meta expanded into paid subscriptions across its platforms, and CrowdStrike expanded its cybersecurity initiatives. Anthropic surpassed OpenAI as the world's most valuable startup at $965B valuation. Japanese banks gained access to OpenAI's GPT-5.5 model for cybersecurity defense.",
-    "keywords": [
-      "AI infrastructure",
-      "earnings beat",
-      "cybersecurity",
-      "cloud computing",
-      "AI monetization",
-      "semiconductor demand",
-      "startup valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "DELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported Q1 revenue of $43.84B, significantly exceeding analyst estimates of $35.45B, with adjusted EPS of $4.86 vs. expected $2.94. Secured a $9.7B Pentagon contract for Microsoft software licensing management."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Launched Project Lightwell, a $5B initiative to secure open-source software against AI-driven cyber threats, demonstrating strategic investment in emerging security needs."
-      },
-      {
-        "ticker": "CRWD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanding Project QuiltWorks initiative with major cyber insurance industry players, strengthening market position in cybersecurity solutions."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Introducing paid subscriptions across Instagram, Facebook, WhatsApp, and Meta AI to unlock new AI-driven revenue streams and deepen monetization."
-      },
-      {
-        "ticker": "ADSK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported Q1 earnings of $2.99 per share beating consensus of $2.84, and revenue of $1.93B exceeding estimates of $1.89B."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 revenue of $11.13B beat consensus of $11.05B, with adjusted EPS of $3.88 significantly exceeding estimates of $3.12."
-      },
-      {
-        "ticker": "MDB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 revenue of $687.62M beat estimates of $667.82M, with adjusted EPS of $1.32 exceeding consensus of $1.18."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Launched new Arc G-series processors for Windows handheld gaming PCs, expanding product portfolio in competitive gaming market."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "CEO announced plans to spend approximately $150B annually in Taiwan, demonstrating strong commitment to AI infrastructure expansion."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Launched unified agentic AI capabilities for developing reliable AI agents, positioning itself in growing AI infrastructure market."
-      },
-      {
-        "ticker": "OKTA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 earnings of 91 cents per share beat consensus of 85 cents, with revenue of $765M exceeding Street estimate of $751.88M."
-      },
-      {
-        "ticker": "HPQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 earnings of 86 cents beat consensus of 71 cents, with revenue of $14.41B exceeding estimate of $14.04B."
-      },
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 earnings of $3.35 per share beat estimate of $3.15, with revenue of $2.28B exceeding consensus of $2.25B."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 results narrowly topped estimates with earnings of 80 cents vs. consensus of 79 cents, and issued upbeat long-term growth projections tied to AI infrastructure demand."
-      },
-      {
-        "ticker": "PATH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Q1 earnings of 15 cents missed Street estimate of 16 cents, though revenue of $418.38M beat consensus of $397.81M."
-      },
-      {
-        "ticker": "WB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 revenue of $421.3M exceeded analyst consensus estimate of $417.9M."
-      },
-      {
-        "ticker": "LI",
-        "sentiment": "mixed",
-        "sentiment_reasoning": "Q1 revenue of $3.33B exceeded consensus of $3.14B, but adjusted net loss of 30 cents per ADS missed profit expectations of 7 cents."
-      },
-      {
-        "ticker": "XPEV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Q1 revenue of $1.89B declined 17.6% year-over-year and fell significantly below analyst consensus estimate of $3.13B."
-      },
-      {
-        "ticker": "PLAB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Non-GAAP net income of 42 cents per diluted share missed estimated 54 cents per share."
-      },
-      {
-        "ticker": "S",
-        "sentiment": "mixed",
-        "sentiment_reasoning": "Q1 adjusted earnings of 4 cents beat Street estimate of 2 cents, but revenue of $276.66M fell short of $277.31M consensus."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reclaimed top spot in global BEV market during Q1 2026 according to Counterpoint Research, despite modest overall industry growth."
-      },
-      {
-        "ticker": "SPCE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Federal court granted preliminary approval of settlement resolving two longstanding shareholder derivative lawsuits."
-      },
-      {
-        "ticker": "RKLB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Successfully passed System Requirements Review for Space Development Agency's Tracking Layer Tranche 3 constellation contract worth approximately $816M."
-      },
-      {
-        "ticker": "GM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Defense unit will supply battery-electric propulsion for new lunar terrain vehicle as part of NASA's Moonbase goals."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Launched new AI-powered finance tools enabling autonomous agents to trade stocks and make purchases on behalf of users."
-      },
-      {
-        "ticker": "KC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q1 fiscal 2026 revenue rose year-over-year and topped analyst estimates as demand for AI-related cloud services accelerated."
-      },
-      {
-        "ticker": "INFY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Announced lineup of new AI-powered digital experiences for tennis fans in partnership with Roland-Garros, expanding AI applications."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Shares rising in extended trading after Situational Awareness reported a 5.6% stake in the neocloud company."
-      },
-      {
-        "ticker": "SMCI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Collaborating with Taiwanese authorities to prevent illicit diversion of server technology, addressing supply chain security concerns."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Senior VP indicated rising electricity demand from AI is making energy efficiency a central priority for future chip development, positioning for AI growth."
-      },
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reached deal to supply TikTok parent ByteDance with ASICs for AI data centers, expanding AI infrastructure business."
-      }
-    ]
-  },
-  {
-    "id": "1aabe7a05ff4649e4bcc908e302c700c5abfcabec4b2eddd3e925d9ba8df9786",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Deal Dispatch: Fertitta Entertainment Buys Caesars For $17.6 Billion, Arsenal Capital Buys Velcro Brands, Teaneck Surgical Center Bankruptcy",
-    "author": "Caroline Ryan",
-    "published_utc": "2026-05-29T18:15:15Z",
-    "article_url": "https://www.benzinga.com/m-a/26/05/52883875/deal-dispatch-fertitta-entertainment-buys-caesars-for-17-6-billion-arsenal-capital-buys-velcro-brands-teaneck?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "SEG",
-      "CZR",
-      "ADSK",
-      "MBC",
-      "AVO",
-      "DBRG",
-      "DBRGpH",
-      "DBRGpI",
-      "DBRGpJ",
-      "GLBE",
-      "MNRO",
-      "FBIN",
-      "LGO",
-      "CLGN",
-      "NNDM"
-    ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/benzinga-deal-dispatch2.jpeg",
-    "description": "Major M&A activity includes Fertitta Entertainment's $17.6 billion all-cash acquisition of Caesars Entertainment at $31 per share, Autodesk's $3.6 billion purchase of MaintainX, and MasterBrand's completion of its $3.6 billion acquisition of American Woodmark. Other notable deals include DigitalBridge acquiring ArcLight Capital Partners for $1.05 billion, Global-e acquiring Passport for $350 million, and Mission Produce completing its acquisition of Calavo Growers. Several companies initiated strategic reviews including Monro, Fortune Brands, and Largo.",
-    "keywords": [
-      "M&A",
-      "acquisitions",
-      "private equity",
-      "bankruptcy",
-      "strategic alternatives",
-      "deal closure"
-    ],
-    "insights": [
-      {
-        "ticker": "SEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Successfully acquiring Caesars Entertainment in a major $17.6 billion deal, demonstrating significant growth and expansion in the entertainment sector."
-      },
-      {
-        "ticker": "CZR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Being acquired at $31 per share in an all-cash deal; positive for shareholders but company ceases independence. Stock price down slightly (-0.09%) suggesting market already priced in the deal."
-      },
-      {
-        "ticker": "ADSK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring MaintainX for $3.6 billion to expand software capabilities in maintenance tools, though stock down 4.70% possibly due to deal financing concerns."
-      },
-      {
-        "ticker": "MBC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Successfully completed $3.6 billion acquisition of American Woodmark with expected $90 million in annual savings, demonstrating successful integration and synergy realization."
-      },
-      {
-        "ticker": "AVO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Completed acquisition of Calavo Growers, strengthening vertical integration and expanding into high-margin prepared foods segment. Stock up 1.33%."
-      },
-      {
-        "ticker": "DBRG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring ArcLight Capital Partners for $1.05 billion, expanding energy and infrastructure portfolio. Stock down slightly (-0.10%) despite strategic growth."
-      },
-      {
-        "ticker": "DBRGpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring ArcLight Capital Partners for $1.05 billion, expanding energy and infrastructure portfolio. Stock down slightly (-0.10%) despite strategic growth."
-      },
-      {
-        "ticker": "DBRGpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring ArcLight Capital Partners for $1.05 billion, expanding energy and infrastructure portfolio. Stock down slightly (-0.10%) despite strategic growth."
-      },
-      {
-        "ticker": "DBRGpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring ArcLight Capital Partners for $1.05 billion, expanding energy and infrastructure portfolio. Stock down slightly (-0.10%) despite strategic growth."
-      },
-      {
-        "ticker": "GLBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquiring Passport for $350 million to strengthen logistics control and cross-border capabilities. Stock up 1.40%."
-      },
-      {
-        "ticker": "MNRO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Reviewing strategic alternatives including asset sales or company sale, indicating potential restructuring but uncertain outcome."
-      },
-      {
-        "ticker": "FBIN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Initiating strategic review of Fiberon composite decking business; exploring alternatives but maintaining operations. Stock up 0.41%."
-      },
-      {
-        "ticker": "LGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Evaluating strategic alternatives for tungsten assets including joint ventures or sale, but maintaining core operations. Stock down 2.00%."
-      },
-      {
-        "ticker": "CLGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Initiating discussions with strategic players for medical aesthetics collaborations, showing positive interest and progress. Stock up 6.17%."
-      },
-      {
-        "ticker": "NNDM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Selling MarkForged subsidiary to Stratasys for $42.5 million, reducing annual cash burn by $15 million and improving financial efficiency."
-      }
-    ]
-  },
-  {
-    "id": "0b7452d0bccf2fd627e652a7ff764eceb16f782f6c9f31102efae05c253f609c",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Dow Jones Tops 51,000, Dell Jumps 28% On Blowout AI Sales: Stock Market Today",
-    "author": "Piero Cingari",
-    "published_utc": "2026-05-29T16:39:26Z",
-    "article_url": "https://www.benzinga.com/markets/market-summary/26/05/52879837/dow-jones-sp-500-records-highs-nine-week-of-gains-dell-earnings-ai-boom-friday-markets-wal?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "DELL",
-      "HPE",
-      "HPEpC",
-      "SMCI",
-      "NTAP",
-      "WDAY",
-      "AVGO",
-      "MU",
-      "QCOM",
-      "ORCL",
-      "ORCLpD",
-      "MSFT",
-      "ADSK",
-      "COST",
-      "TTD",
-      "COHR",
-      "HII"
-    ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/29/New-York-Ny-Usa-march-21--2024-The-New-Y.jpeg",
-    "description": "U.S. stocks reached record highs on Friday as the Dow Jones surged to 51,047, driven by Dell Technologies' blowout earnings report showing 88% revenue growth and $24.4 billion in AI-related orders. The company raised its fiscal 2027 revenue outlook to $165-169 billion and AI server revenue target to $60 billion, sparking broad gains across AI infrastructure and semiconductor stocks. Easing Middle East tensions pressured energy markets, while the S&P 500 advanced 0.2% and is on pace for its ninth consecutive weekly gain.",
-    "keywords": [
-      "AI boom",
-      "Dell Technologies",
-      "earnings",
-      "AI infrastructure",
-      "semiconductors",
-      "record highs",
-      "stock market"
-    ],
-    "insights": [
-      {
-        "ticker": "DELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Surged 28% on blowout Q1 earnings with 88% revenue growth, $24.4B in AI orders, and significantly raised fiscal 2027 guidance to $165-169B revenue and $60B AI server revenue target"
-      },
-      {
-        "ticker": "HPE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jumped 15% riding Dell's halo effect as AI infrastructure beneficiary, though no fresh company news reported"
-      },
-      {
-        "ticker": "HPEpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Jumped 15% riding Dell's halo effect as AI infrastructure beneficiary, though no fresh company news reported"
-      },
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rose nearly 12% benefiting from Dell's strong AI infrastructure results and positive sentiment in the AI server trade"
-      },
-      {
-        "ticker": "NTAP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rallied nearly 25% on fiscal Q4 revenue beat of $1.95B and multiyear cloud agreement with Google, with strong fiscal 2027 EPS guidance of $8.70-$9.00"
-      },
-      {
-        "ticker": "WDAY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Climbed over 10% after delivering strongest first-quarter new-bookings growth in five years, beating on revenue and EPS, and raising full-year margin forecast"
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 2.3% as semiconductor beneficiary of broad AI infrastructure rally and positive sentiment in chip sector"
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 5% as semiconductor beneficiary of AI infrastructure buildout and positive chip sector momentum"
-      },
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 4.4% as semiconductor beneficiary of AI infrastructure rally and positive sentiment in chip sector"
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up about 8% as software beneficiary of AI enthusiasm and cloud-computing positive sentiment"
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up about 8% as software beneficiary of AI enthusiasm and cloud-computing positive sentiment"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Climbed 4% on fresh funding for Anthropic reinforcing enthusiasm for AI software and cloud-computing beneficiaries"
-      },
-      {
-        "ticker": "ADSK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Fell nearly 9% despite beating on EPS and raising guidance, as investors balked at its $3.6 billion all-cash acquisition of MaintainX"
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Slid 4.7% after Q3 EPS of $4.93 narrowly missed consensus of $4.98 on margin pressure and lofty valuation, despite revenue beat"
-      },
-      {
-        "ticker": "TTD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 5.11% on the trading day, though specific reasons not detailed in article"
-      },
-      {
-        "ticker": "COHR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 4.88% on the trading day, though specific reasons not detailed in article"
-      },
-      {
-        "ticker": "HII",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Declined 4.23% on the trading day, though specific reasons not detailed in article"
-      }
-    ]
-  },
-  {
-    "id": "954f601ca4e6c59ac048290020ca40f38c84dab11cefc9b2def4b532fd828551",
+    "id": "6296e65fafa649f6b4270e3619ef7e2b2dfa3a0b3d25f2f56b5f4cad13fb1f74",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Digital Twin Market Expected to Reach US$ 140 Billion by 2031",
-    "author": "The Insight Partners",
-    "published_utc": "2026-05-29T13:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/29/3303628/0/en/Digital-Twin-Market-Expected-to-Reach-US-140-Billion-by-2031.html",
+    "title": "Egnyte Launches Context Layer to Power More Accurate AI Agents Across Business Workflows",
+    "author": "Unknown",
+    "published_utc": "2026-09-15T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362421/0/en/egnyte-launches-context-layer-to-power-more-accurate-ai-agents-across-business-workflows.html",
     "tickers": [
-      "MSFT",
-      "DASTY",
-      "PTC",
-      "IBM",
-      "ADSK",
-      "SIEGY"
+      "ADSK"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/efd8c9da-ac10-487a-a083-ec8f33cad35e",
-    "description": "The global digital twin market, valued at $13.74 billion in 2024, is expected to grow at a 40.1% CAGR to reach $140.94 billion by 2031. Growth is driven by increasing IoT adoption, Industry 4.0 implementation, and enterprise focus on predictive maintenance. North America leads with 35% market share, while Asia Pacific is the fastest-growing region. Large enterprises and healthcare sectors show the strongest adoption rates.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/18598a14-4bf6-4da2-81f0-4476163553fe",
+    "description": "Egnyte introduced the Context Layer, a business context foundation that maps relationships across content, people, projects, and systems to enable AI agents to work more efficiently and accurately. The platform eliminates redundant processing, reduces costs, and maintains security governance. New capabilities for AEC firms will be demonstrated at Autodesk University, including auto-classification, AI actions in project centers, and integration with Autodesk systems.",
     "keywords": [
-      "digital twin",
-      "IoT devices",
-      "Industry 4.0",
-      "market growth",
-      "manufacturing",
-      "predictive maintenance",
-      "smart cities",
-      "Asia Pacific",
-      "North America"
+      "AI agents",
+      "content collaboration",
+      "workflow automation",
+      "context mapping",
+      "AEC industry",
+      "governance",
+      "Autodesk integration",
+      "document management"
     ],
     "insights": [
       {
-        "ticker": "MSFT",
+        "ticker": "ADSK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a major cloud and AI provider offering Azure Digital Twins platform; recent development with Kyndryl announced in April 2026 for AI-powered workplace digital twin solutions"
-      },
+        "sentiment_reasoning": "Autodesk is featured as a strategic partner with deep integration capabilities through the new Autodesk Forma Data Management AI Connector. The partnership demonstrates Autodesk's ecosystem strength and positions its tools as central to AEC workflows powered by AI."
+      }
+    ]
+  },
+  {
+    "id": "4b2042f680174d42d6707640cb2da170bd168a8785110297839c9cf0d123ff76",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "EGHT or ADSK: Which Is the Better Value Stock Right Now?",
+    "author": "Na",
+    "published_utc": "2026-09-14T15:40:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2989289/eght-or-adsk-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2989289",
+    "tickers": [
+      "EGHT",
+      "ADSK"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default245.jpg",
+    "description": "In a comparison of two Internet-Software sector stocks, 8x8 (EGHT) emerges as the superior value option compared to Autodesk (ADSK). EGHT has a stronger Zacks Rank (#2 Buy vs #3 Hold), better valuation metrics including a forward P/E of 5.18 versus 16.81, and a Value grade of A compared to ADSK's C grade.",
+    "keywords": [
+      "value investing",
+      "valuation metrics",
+      "P/E ratio",
+      "Zacks Rank",
+      "Internet-Software sector",
+      "earnings outlook"
+    ],
+    "insights": [
       {
-        "ticker": "DASTY",
+        "ticker": "EGHT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading provider of virtual twin experiences through 3DEXPERIENCE platform for aerospace, automotive, and life sciences sectors"
-      },
-      {
-        "ticker": "PTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Industrial software company specializing in IoT-enabled digital twin and PLM solutions; announced expansion of NVIDIA collaboration in July 2025 to accelerate design and simulation capabilities"
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Enterprise AI and hybrid cloud provider delivering digital twin solutions for asset optimization and predictive maintenance"
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cloud infrastructure and enterprise software provider supporting digital twin applications in supply chain and smart operations"
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cloud infrastructure and enterprise software provider supporting digital twin applications in supply chain and smart operations"
+        "sentiment_reasoning": "EGHT demonstrates stronger fundamentals with a #2 Buy Zacks Rank, significantly lower forward P/E ratio (5.18), lower PEG ratio (0.73), lower P/B ratio (1.76), and an A Value grade, making it more attractive to value investors."
       },
       {
         "ticker": "ADSK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ADSK has a #3 Hold Zacks Rank with higher valuation multiples (forward P/E of 16.81, PEG of 1.07, P/B of 13.12) and a C Value grade, indicating it is less attractive as a value investment compared to EGHT."
+      }
+    ]
+  },
+  {
+    "id": "9a64ad7155854a4d24a974b983045856c792c0e41a332ae0f29b6cf9e10ccfe5",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI in Construction Market Surges to USD 53.32 Billion by 2035, at 26.38% CAGR \u2013 Report by SNS Insider",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-07T22:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357273/0/en/ai-in-construction-market-surges-to-usd-53-32-billion-by-2035-at-26-38-cagr-report-by-sns-insider.html",
+    "tickers": [
+      "ADSK",
+      "TRMB",
+      "ORCL",
+      "ORCLpD",
+      "PCOR",
+      "KMTUY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI in construction market is projected to grow from USD 5.13 billion in 2025 to USD 53.32 billion by 2035, driven by labor shortages, cost overruns, and adoption of AI-powered planning, safety monitoring, and robotics. North America leads the market with the U.S. accounting for 83.7% of regional revenue, while Asia Pacific emerges as the fastest-growing region. Software solutions dominate with 57.42% market share, while robotics and safety management applications show the fastest growth rates.",
+    "keywords": [
+      "AI in construction",
+      "market growth",
+      "robotics",
+      "safety monitoring",
+      "labor shortage",
+      "project planning",
+      "machine learning",
+      "Building Information Modeling",
+      "autonomous machines",
+      "computer vision"
+    ],
+    "insights": [
+      {
+        "ticker": "ADSK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Design and engineering software company supporting digital twin adoption in architecture, construction, and infrastructure projects"
+        "sentiment_reasoning": "Extended Construction IQ platform with prediction-based safety and scheduling risk analytics in 2025, positioning itself as a leader in AI-powered construction management solutions."
       },
       {
-        "ticker": "SIEGY",
+        "ticker": "TRMB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a global industrial automation leader with comprehensive digital twin capabilities across manufacturing, energy, and smart infrastructure"
+        "sentiment_reasoning": "Introduced AI-enabled versions of SketchUp and Tekla BIM platforms with generative design tools in 2025, enabling engineers to generate multiple design iterations simultaneously."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned through Aconex subsidiary as a major player in the market, but no specific recent developments or achievements highlighted in the article."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned through Aconex subsidiary as a major player in the market, but no specific recent developments or achievements highlighted in the article."
+      },
+      {
+        "ticker": "PCOR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a major key player in the competitive landscape but no specific recent developments or achievements mentioned."
+      },
+      {
+        "ticker": "KMTUY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Launched next-generation SmartConstruction platform in July 2025 combining drones, AI earthworks planning, and autonomous machine guidance that halved project setup time in trials."
+      }
+    ]
+  },
+  {
+    "id": "2dcfed180fe0a4f6006ce72da062ae3327965c962ed48cb9ed29bdf5aac1b4d2",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "ICBA and Global eTraining Launch Construction Technology Training Initiative to Upskill Canadian Contractors",
+    "author": "Not Specified",
+    "published_utc": "2026-09-07T12:38:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357104/31339/en/icba-and-global-etraining-launch-construction-technology-training-initiative-to-upskill-canadian-contractors.html",
+    "tickers": [
+      "ADSK"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/c814f8b2-d65b-4f3b-aa3c-ae42ad6c0f6d",
+    "description": "The Independent Contractors and Businesses Association (ICBA) has partnered with Global eTraining to launch a construction technology training initiative providing Canadian contractors with on-demand access to hundreds of software courses covering Autodesk applications, BIM tools, and other construction technologies through ICBA's learning management system.",
+    "keywords": [
+      "construction technology training",
+      "digital skills",
+      "BIM platforms",
+      "Autodesk applications",
+      "Canadian contractors",
+      "learning management system",
+      "AI-powered training platform",
+      "skilled labour shortage"
+    ],
+    "insights": [
+      {
+        "ticker": "ADSK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Autodesk applications (Revit, AutoCAD, Navisworks, Civil 3D) are prominently featured in the training initiative, which increases user adoption and proficiency with Autodesk products among Canadian contractors."
+      }
+    ]
+  },
+  {
+    "id": "b97bd2e26148eadbf36be56cf5e0171b33306fac65fcca0e7ac87a21ed248852",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Autodesk (ADSK) Reports Q2 Earnings: What Key Metrics Have to Say",
+    "author": "Na",
+    "published_utc": "2026-08-27T21:30:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2981441/autodesk-adsk-reports-q2-earnings-what-key-metrics-have-to-say?cid=CS-ZC-FT-fundamental_analysis|nfm-2981441",
+    "tickers": [
+      "ADSK"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default90.jpg",
+    "description": "Autodesk reported $2.05 billion in revenue for Q3 2026, up 16.1% year-over-year and exceeding the consensus estimate of $2.01 billion. EPS came in at $3.30 versus $3.12 expected, representing a 5.77% surprise. The company showed strong performance across key metrics including subscription revenue growth of 17.7% and solid performance in major product families like AECO and AutoCAD. The stock holds a Zacks Rank #3 (Hold) rating.",
+    "keywords": [
+      "earnings",
+      "revenue growth",
+      "subscription revenue",
+      "EPS surprise",
+      "AECO",
+      "AutoCAD",
+      "billings"
+    ],
+    "insights": [
+      {
+        "ticker": "ADSK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Autodesk exceeded both revenue and EPS expectations with strong year-over-year growth of 16.1% in revenue and 25.95% in EPS. Subscription revenue grew 17.7% YoY, and the company beat analyst estimates across multiple product families including AECO (+17.2%) and AutoCAD (+13.6%). The stock has outperformed the S&P 500 over the past month (+3.9% vs +3.7%)."
       }
     ]
   }

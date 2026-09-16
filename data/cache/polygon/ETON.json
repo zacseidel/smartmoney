@@ -1,0 +1,36 @@
+{
+  "ticker": "ETON",
+  "name": "Eton Pharmaceutcials, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001710340",
+  "composite_figi": "BBG00H0KCMV1",
+  "share_class_figi": "BBG00H0KCMW0",
+  "market_cap": 1570071605.55,
+  "phone_number": "(847) 787-7361",
+  "address": {
+    "address1": "21925 W. FIELD PARKWAY",
+    "address2": "SUITE 235",
+    "city": "DEER PARK",
+    "state": "IL",
+    "postal_code": "60010-7278"
+  },
+  "description": "Eton Pharmaceuticals Inc is a United States based specialty pharmaceutical company. The company is engaged in developing and commercializing pharmaceutical products to fulfill an unmet patient need. It has eight commercial rare disease products, INCRELEX, ALKINDI SPRINKLE, KHINDIVITM, GALZIN, PKU GOLIKE, Carglumic Acid, Betaine Anhydrous and Nitisinone. It also has five additional product candidates in late-stage development: ET-600, Amglidia, ET-700, ET-800 and ZENEO hydrocortisone autoinjector.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "ETON",
+  "homepage_url": "https://www.etonpharma.com",
+  "total_employees": 44,
+  "list_date": "2018-11-14",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/ZXRvbnBoYXJtYS5jb20/images/2026-09-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/ZXRvbnBoYXJtYS5jb20/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 28583135,
+  "weighted_shares_outstanding": 28583135,
+  "round_lot": 100
+}

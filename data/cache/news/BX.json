@@ -1,291 +1,266 @@
 [
   {
-    "id": "f15ef172eea80cb51c8d0884e320eb21e7c0cfb0dec8c25a736456e07e7b0214",
+    "id": "366932c150e35c5b60bc99c6226ce64ac96dd4683e4392f4adcc04ea541152b1",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Retail Investors Are Pulling Money From Blackstone's Private Credit Fund. Here's What Its Latest Quarter Says.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-07-26T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/26/retail-investors-are-pulling-money-from-blackstone/?source=iedfolrf0000001",
+    "title": "IFS vs. BX: Which Stock Is the Better Value Option?",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:40:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2985947/ifs-vs-bx-which-stock-is-the-better-value-option?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2985947",
     "tickers": [
-      "BX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL"
+      "IFS",
+      "BX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880160%2Fbx.png&w=1200&op=resize",
-    "description": "Despite retail investors withdrawing 10% of capital from Blackstone's BCRED private credit fund in Q2 (exceeding the 5% redemption cap), the company reported strong financial results with distributable earnings up 26% to $2 billion. The article argues that AI investments, not private credit concerns, are the real driver of Blackstone's growth, with nine of its ten best-performing assets having AI exposure. The company raised $70 billion in total inflows and continues expanding its data center platform through partnerships with Google.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default151.jpg",
+    "description": "In a comparison of two Financial - Miscellaneous Services sector stocks, Intercorp Financial Services Inc. (IFS) emerges as the more attractive option for value investors compared to Blackstone Inc. (BX). IFS holds a Zacks Rank of #2 (Buy) versus BX's #3 (Hold), and demonstrates superior valuation metrics including a forward P/E of 9.12 versus BX's 22.74, a PEG ratio of 0.73 versus 1.53, and a P/B ratio of 1.64 versus 4.8. IFS earned a Value grade of A while BX received a D grade.",
     "keywords": [
-      "private credit",
-      "redemptions",
-      "AI investments",
-      "data centers",
-      "distributable earnings",
-      "alternative investments",
-      "capital inflows"
+      "value investing",
+      "valuation metrics",
+      "P/E ratio",
+      "PEG ratio",
+      "Zacks Rank",
+      "financial services sector"
     ],
     "insights": [
       {
+        "ticker": "IFS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IFS demonstrates stronger fundamentals for value investors with a higher Zacks Rank (#2 Buy), significantly lower forward P/E ratio (9.12), lower PEG ratio (0.73), lower P/B ratio (1.64), and an A grade in the Value category, indicating it is more undervalued at current price levels."
+      },
+      {
         "ticker": "BX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings with 26% growth in distributable earnings, $70 billion in capital inflows, and significant AI-driven investment gains. Stock decline attributed to BCRED concerns rather than fundamental weakness. CEO indicates stock is undervalued relative to AI growth opportunities."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as Blackstone's joint venture partner for data center capacity and compute-as-a-service offering, positioning it to benefit from AI infrastructure buildout."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Beneficiary of Blackstone's data center sale during the quarter, indicating strong demand for AI-related infrastructure assets."
+        "sentiment": "negative",
+        "sentiment_reasoning": "BX shows weaker value metrics compared to IFS with a lower Zacks Rank (#3 Hold), higher forward P/E ratio (22.74), higher PEG ratio (1.53), higher P/B ratio (4.8), and a D grade in the Value category, making it less attractive for value investors."
       }
     ]
   },
   {
-    "id": "765477753c4e0f49155fcc642aeea245ea074320137ce55fa7d51be0b190e8f7",
+    "id": "17770b0b98279a0c5625fd10c7e6f3eebfc7df4d2970f300c3dd3aff10e7b322",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Is Circle Internet Group, Inc. (CRCL) Up 63.1% Since Last Earnings Report?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-04T15:30:38Z",
+    "article_url": "https://www.zacks.com/stock/news/2985282/why-is-circle-internet-group-inc-crcl-up-63-1-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2985282",
+    "tickers": [
+      "CRCL",
+      "BX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default36.jpg",
+    "description": "Circle Internet Group (CRCL) stock surged 63.1% following its Q2 2026 earnings beat, driven by strong USDC circulation growth (up 19% YoY to $73.3B), improved profitability (EPS of $0.18 vs. loss of $4.48 prior year), and expanded RLDC margins (41.2% vs. 38.2%). However, reserve income growth was tempered by lower interest rates. The company raised 2026 guidance for other revenues and RLDC margins, with Arc Mainnet launch scheduled for September 16, 2026. Despite the rally, Zacks assigned a Hold rating citing flat estimate revisions and a poor Value Score.",
+    "keywords": [
+      "earnings beat",
+      "USDC circulation",
+      "stablecoin",
+      "reserve income",
+      "Arc Mainnet",
+      "profitability",
+      "guidance raise",
+      "interest rate sensitivity"
+    ],
+    "insights": [
+      {
+        "ticker": "CRCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 earnings beat with 63.1% stock price appreciation, significant YoY growth in USDC circulation (19%), profitability improvement (EPS swing from -$4.48 to +$0.18), margin expansion, and raised 2026 guidance. Arc Mainnet launch catalyst upcoming. However, sentiment is tempered by interest rate headwinds and Zacks Hold rating."
+      },
+      {
+        "ticker": "BX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as industry peer with modest 3.2% monthly gain, solid revenue growth (+23.7% YoY), and stable EPS improvement. However, expected to face earnings decline (-10.5% YoY) in current quarter with flat estimate revisions. Assigned Zacks Hold rating."
+      }
+    ]
+  },
+  {
+    "id": "4daf0e47fc3644b5aea53eb2a4c0fbe310dc82a407b9ba45ca3fcb02b1192a77",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Angelini Pharma Completes Acquisition of Catalyst Pharmaceuticals",
-    "author": "Na",
-    "published_utc": "2026-07-16T07:36:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328252/0/en/Angelini-Pharma-Completes-Acquisition-of-Catalyst-Pharmaceuticals.html",
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges Smartsheet Inc. Investors to Act: Class Action Filed Alleging Investor Harm",
+    "author": "Bronstein, Gewirtz & Grossman Llc",
+    "published_utc": "2026-09-03T16:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356121/9788/en/bronstein-gewirtz-grossman-llc-urges-smartsheet-inc-investors-to-act-class-action-filed-alleging-investor-harm.html",
     "tickers": [
-      "CPRX",
       "BX"
     ],
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/f92dd6a5-1eab-49ca-94ea-b94225630a57",
-    "description": "Italian pharmaceutical company Angelini Pharma has completed its acquisition of Catalyst Pharmaceuticals for approximately $4.1 billion USD ($3.5 billion EUR). The deal strengthens Angelini Pharma's global presence in brain health and rare diseases while expanding into the U.S. market. Blackstone will invest \u20ac1 billion in preferred equity, and CDP Equity will acquire a 23.5% stake in Angelini Pharma for approximately \u20ac1 billion.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
+    "description": "A class action lawsuit has been filed against Smartsheet Inc. alleging that company defendants made materially false and misleading statements and failed to disclose acquisition offers from Blackstone and Vista Equity Partners while conducting a $50 million share repurchase program. Investors who purchased Smartsheet securities between June 1, 2024 and September 23, 2024 are encouraged to join the case, with a lead plaintiff deadline of October 5, 2026.",
     "keywords": [
-      "acquisition",
-      "pharmaceutical",
-      "brain health",
-      "rare diseases",
-      "U.S. market expansion",
-      "private equity investment",
-      "Blackstone",
-      "CDP Equity"
+      "class action lawsuit",
+      "securities fraud",
+      "share repurchase",
+      "acquisition offers",
+      "investor harm",
+      "material misstatement",
+      "disclosure violation"
     ],
     "insights": [
       {
-        "ticker": "CPRX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Acquisition completed at $31.50 per share providing liquidity to shareholders; integration into larger global pharmaceutical platform with enhanced resources for rare disease treatments and patient care expansion."
-      },
-      {
         "ticker": "BX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strategic investment of \u20ac1 billion in preferred equity in a growing pharmaceutical company with strong market position and expansion potential in high-growth brain health and rare disease sectors."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as having made a credible acquisition offer for Smartsheet. No allegations or negative actions attributed to Blackstone; mentioned in factual context only."
       }
     ]
   },
   {
-    "id": "880a714d9f0c0fe6659abb2c974da55326812b943850c4eb3ebd9d83440c46b4",
+    "id": "0e0bf3c1f8407a3533c1f8594f987b0b31c670452cb07b1355952631bdef8dbd",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Private Credit Is Coming to 401(k) Plans. These Are the Alternative Asset Managers Set to Cash In.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-11T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/10/private-credit-is-coming-to-401k-plans-these-are-t/?source=iedfolrf0000001",
+    "title": "Why Blackstone Inc. (BX) is a Top Stock for the Long-Term",
+    "author": "Na",
+    "published_utc": "2026-09-01T13:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2983045/why-blackstone-inc-bx-is-a-top-stock-for-the-long-term?cid=CS-ZC-FT-fundamental_analysis|zacks_education_focus_list-2983045",
     "tickers": [
-      "BX",
+      "BX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default287.jpg",
+    "description": "Zacks presents its Focus List investment strategy, a curated portfolio of 50 stocks designed to outperform the market over 12 months. The strategy relies on earnings estimate revisions and the proprietary Zacks Rank system. Historical performance shows the Focus List returned 2,519.23% cumulatively since 1996 versus the S&P 500's 854.95%. Blackstone Inc. is highlighted as a recent addition to the Focus List.",
+    "keywords": [
+      "Focus List",
+      "Zacks Rank",
+      "earnings estimate revisions",
+      "stock portfolio",
+      "investment strategy",
+      "alternative investments"
+    ],
+    "insights": [
+      {
+        "ticker": "BX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Added to Focus List at $120.89 with 18.49% share price increase to $143.24. Six analysts revised earnings estimates higher in last 60 days, consensus estimate increased to $5.99, and company boasts 13.9% average earnings surprise with expected 7.5% earnings growth for current fiscal year."
+      }
+    ]
+  },
+  {
+    "id": "86c4f890a3de9df08c22a3e4626def23bdd57867681c8e9db38c55056c06902a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Nvidia Stock Soars After Q2 Earnings: Is NVDA Still a Buy?",
+    "author": "Na",
+    "published_utc": "2026-08-27T18:45:00Z",
+    "article_url": "https://www.zacks.com/commentary/2981388/nvidia-stock-soars-after-q2-earnings-is-nvda-still-a-buy?cid=CS-ZC-FT-investment_ideas-2981388",
+    "tickers": [
+      "NVDA",
       "APO",
       "APOS",
-      "APOpA",
+      "BLK",
+      "DIVB",
+      "BX",
+      "BAM",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
       "KKR",
       "KKRS",
       "KKRT",
       "KKRpD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876226%2F21_05_19-two-people-looking-at-paperwork-with-a-calculator-_gettyimages-1284647686.jpg&w=1200&op=resize",
-    "description": "Private credit investments are expected to become available in 401(k) plans, opening a massive $14 trillion market opportunity. While private credit offers higher returns, it carries significant risks including illiquidity and interest rate sensitivity. Alternative asset managers like Blackstone, Apollo Global Management, and KKR are well-positioned to capitalize on this expansion without investors needing to directly buy private credit funds.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/98.jpg",
+    "description": "Nvidia surged 7% after delivering blockbuster Q2 earnings with $96.22B revenue (106% YoY growth) and raising FY28 guidance to ~70% growth. The Vera Rubin platform is ramping ahead of schedule with orders from all major hyperscalers. However, gross margins are expected to compress from 75% to 71-72% due to rising memory costs, and the company's massive capital commitments warrant monitoring.",
     "keywords": [
-      "private credit",
-      "401(k) plans",
-      "alternative assets",
-      "asset managers",
-      "illiquidity risk",
-      "institutional investors"
+      "AI chips",
+      "earnings",
+      "data center",
+      "Vera Rubin",
+      "gross margins",
+      "guidance",
+      "capital commitments"
     ],
     "insights": [
       {
-        "ticker": "BX",
+        "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong positioning with $1.3 trillion AUM, proven track record with 9.4% annualized returns over 20 years, 90+ investment strategies, and 75% institutional investor base providing foundation for 401(k) expansion."
+        "sentiment_reasoning": "Crushed Q2 expectations with 106% revenue growth, beat EPS estimates, provided strong Q3 guidance ($108B vs $102B consensus), and issued surprisingly bullish FY28 outlook (~70% growth). Vera Rubin platform ramping successfully. Stock trading at attractive 24X forward P/E, well below 10-year median of 45X."
       },
       {
         "ticker": "APO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Well-respected in private credit with $1 trillion AUM, complementary retirement services business (Athene) with annuities, and active efforts to increase sector transparency to build investor trust."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
       },
       {
         "ticker": "APOS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Well-respected in private credit with $1 trillion AUM, complementary retirement services business (Athene) with annuities, and active efforts to increase sector transparency to build investor trust."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
       },
       {
-        "ticker": "APOpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Well-respected in private credit with $1 trillion AUM, complementary retirement services business (Athene) with annuities, and active efforts to increase sector transparency to build investor trust."
+        "ticker": "BLK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
+      },
+      {
+        "ticker": "DIVB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
+      },
+      {
+        "ticker": "BX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
+      },
+      {
+        "ticker": "BAM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership is positive for capital deployment but represents indirect exposure with no direct earnings impact disclosed."
       },
       {
         "ticker": "KKR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Smaller but growing player with $760 billion AUM, insurance/retirement business (Global Atlantic) for customer relationships, diversified portfolio, and doubled inflows in Q1 despite media concerns about private credit."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
       },
       {
         "ticker": "KKRS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Smaller but growing player with $760 billion AUM, insurance/retirement business (Global Atlantic) for customer relationships, diversified portfolio, and doubled inflows in Q1 despite media concerns about private credit."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
       },
       {
         "ticker": "KKRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Smaller but growing player with $760 billion AUM, insurance/retirement business (Global Atlantic) for customer relationships, diversified portfolio, and doubled inflows in Q1 despite media concerns about private credit."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
       },
       {
         "ticker": "KKRpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Smaller but growing player with $760 billion AUM, insurance/retirement business (Global Atlantic) for customer relationships, diversified portfolio, and doubled inflows in Q1 despite media concerns about private credit."
-      }
-    ]
-  },
-  {
-    "id": "5204565d8de5c236c9c553f9f34c099645584dc2c2113ed2c35deaf538c8a8fe",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "GNI Group Completes Acquisition of AYUMI Pharmaceutical",
-    "author": "Na",
-    "published_utc": "2026-07-02T01:07:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/02/3321062/0/en/GNI-Group-Completes-Acquisition-of-AYUMI-Pharmaceutical.html",
-    "tickers": [
-      "BX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/db8c1e0d-ff3a-491b-a8b6-d75c9938992a",
-    "description": "GNI Group Ltd. has completed its acquisition of Ayumi Pharmaceutical Holdings Co., Ltd. from Blackstone and other shareholders for approximately JPY 44.8 billion. The acquisition marks GNI Group's entry into Japan's pharmaceutical market, establishing what the company calls its 'Second Founding Phase' as a global biopharma company. Ayumi Pharmaceutical, with JPY 38.5 billion in annual revenue and over 80% market share in acetaminophen products, will operate as a wholly owned subsidiary while maintaining its brand names and product portfolio.",
-    "keywords": [
-      "pharmaceutical acquisition",
-      "GNI Group",
-      "Ayumi Pharmaceutical",
-      "Japan market entry",
-      "M&A",
-      "global expansion",
-      "pain management",
-      "acetaminophen"
-    ],
-    "insights": [
-      {
-        "ticker": "BX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Blackstone successfully exited its investment in Ayumi Pharmaceutical through the acquisition. While this represents a liquidity event, the article provides no information about returns or strategic implications for Blackstone, warranting a neutral assessment."
-      }
-    ]
-  },
-  {
-    "id": "2f39a78cda6a9a8b6ca265ffd59e13baacd5712748ede95d8926d54ef86accc8",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Digital Realty Prices Secondary Offering of Common Stock by Blackstone",
-    "author": "Na",
-    "published_utc": "2026-06-30T04:26:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/30/3319371/0/en/Digital-Realty-Prices-Secondary-Offering-of-Common-Stock-by-Blackstone.html",
-    "tickers": [
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL",
-      "BX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dabe9af5-a528-4432-8a44-867697ef609b",
-    "description": "Digital Realty announced the pricing of an underwritten public offering of 12.3 million shares by Blackstone affiliates at $185 per share. The offering is contingent on Digital Realty's acquisition of Blackstone's interests in two Northern Virginia data center joint ventures (Digital Carver Dulles 9 and Digital Carver Brickyard), expected to close on June 30, 2026. Digital Realty will not receive proceeds from the secondary offering.",
-    "keywords": [
-      "secondary offering",
-      "data center acquisition",
-      "Northern Virginia",
-      "joint venture",
-      "stock offering",
-      "Morgan Stanley underwriter"
-    ],
-    "insights": [
-      {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is expanding its data center portfolio by acquiring Blackstone's interests in two Northern Virginia facilities, strengthening its position as the largest global data center provider. The acquisition demonstrates growth and strategic expansion in a key market."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is expanding its data center portfolio by acquiring Blackstone's interests in two Northern Virginia facilities, strengthening its position as the largest global data center provider. The acquisition demonstrates growth and strategic expansion in a key market."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is expanding its data center portfolio by acquiring Blackstone's interests in two Northern Virginia facilities, strengthening its position as the largest global data center provider. The acquisition demonstrates growth and strategic expansion in a key market."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is expanding its data center portfolio by acquiring Blackstone's interests in two Northern Virginia facilities, strengthening its position as the largest global data center provider. The acquisition demonstrates growth and strategic expansion in a key market."
-      },
-      {
-        "ticker": "BX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Blackstone is divesting its interests in these data center joint ventures through a secondary offering. While this represents a liquidity event, it is a partial exit from the partnership rather than a clear positive or negative development for the company."
+        "sentiment_reasoning": "Mentioned as partner in Nvidia's $500B+ AI infrastructure financing initiative. Partnership provides exposure to AI infrastructure growth but represents indirect involvement with no direct financial impact disclosed."
       }
     ]
   }

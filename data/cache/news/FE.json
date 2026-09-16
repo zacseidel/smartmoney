@@ -1,159 +1,366 @@
 [
   {
-    "id": "e89d73f50dcd1ab0733cb92612c9a9e2cd4b585490ca40d9cbbd5540c4443e77",
+    "id": "a9a09b558a6125dbce4e0a59f6f15d281b457c65131388d0b7f4adc6ccfa1995",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "FirstEnergy Corp. Declares Increased Common Stock Dividend of 46.5 Cents Per Share",
-    "author": "Prnewswire",
-    "published_utc": "2026-02-11T21:20:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/26/02/n50561208/firstenergy-corp-declares-increased-common-stock-dividend-of-46-5-cents-per-share?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+    "title": "PPL Stock Underperforms Its Industry in the Past Month: How to Play?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-14T15:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2989271/ppl-stock-underperforms-its-industry-in-the-past-month-how-to-play?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2989271",
     "tickers": [
-      "FE"
+      "PPL",
+      "PPLC",
+      "FE",
+      "EXC"
     ],
-    "image_url": "https://www.benzinga.com/next-assets/images/benzinga-schema-image-default.png",
-    "description": "FirstEnergy Corp. announced a 4.5% increase in its quarterly dividend to 46.5 cents per share, payable June 1, 2026. The 2026 annual dividend rate is expected to be $1.86 per share, up from $1.78 in 2025, reflecting the company's successful business strategy execution and long-term transformation focused on electric system reliability and resiliency.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fe/332.jpg",
+    "description": "PPL Corporation's shares fell 5.2% in the past month, underperforming its industry. While the company benefits from rising data center demand and plans $23 billion in regulated infrastructure investment through 2029, it trades at a premium valuation with below-industry ROE of 9.33% versus 11.4%, suggesting investors may wait for a better entry point. The stock holds a Zacks Rank #3 (Hold) rating.",
     "keywords": [
-      "dividend increase",
-      "FirstEnergy Corp",
-      "quarterly dividend",
-      "shareholder value",
-      "electric utility",
-      "payout ratio",
-      "investor returns"
+      "PPL Corporation",
+      "utility stocks",
+      "data center demand",
+      "infrastructure investment",
+      "valuation premium",
+      "return on equity",
+      "regulated utilities"
     ],
     "insights": [
       {
-        "ticker": "FE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company declared a 4.5% increase in quarterly dividend, demonstrating confidence in its financial performance and ability to deliver shareholder value. The dividend increase aligns with the company's targeted payout ratio of 60-70% of Core Earnings, and management expressed confidence in continued value delivery to customers, communities, and investors based on successful strategy execution over the past three years."
-      }
-    ]
-  },
-  {
-    "id": "21815cd7bb4b291b3d3ac58b838ba63a3073537fe0b81042427e02612f821898",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "FirstEnergy Corp. Declares Common Stock Dividend of 44.5 Cents Per Share",
-    "author": "Prnewswire",
-    "published_utc": "2025-12-17T21:20:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/25/12/n49464690/firstenergy-corp-declares-common-stock-dividend-of-44-5-cents-per-share?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "FE"
-    ],
-    "image_url": "https://www.benzinga.com/next-assets/images/benzinga-schema-image-default.png",
-    "description": "FirstEnergy Corp. announced a quarterly dividend of 44.5 cents per share, payable on March 1, 2026, to shareholders of record as of February 6, 2026. The company serves over 6 million customers across six states and operates approximately 24,000 miles of transmission lines.",
-    "keywords": [
-      "dividend",
-      "utilities",
-      "electric distribution",
-      "transmission lines"
-    ],
-    "insights": [
+        "ticker": "PPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL has positive growth drivers including $23B infrastructure investment plan, 10.3% rate base CAGR, and rising data center demand. However, it trades at a premium (P/E 16.56X vs industry 14.7X), has below-industry ROE (9.33% vs 11.4%), and faces execution risks and competition. The Hold rating reflects balanced risks and opportunities."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL has positive growth drivers including $23B infrastructure investment plan, 10.3% rate base CAGR, and rising data center demand. However, it trades at a premium (P/E 16.56X vs industry 14.7X), has below-industry ROE (9.33% vs 11.4%), and faces execution risks and competition. The Hold rating reflects balanced risks and opportunities."
+      },
       {
         "ticker": "FE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The announcement is a standard quarterly dividend declaration with no significant positive or negative indicators. The company provides routine financial information about its dividend distribution and operational overview."
+        "sentiment_reasoning": "Mentioned as a comparable operator making substantial infrastructure investments with better recent performance (down 2.7% vs PPL's 5.2%), but no detailed analysis provided. Trades at premium P/E of 15.98X."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a peer utility with strong transmission and distribution operations and strategic infrastructure expansion. Trades at industry discount (P/E 14.4X) with lower earnings growth projections (3.25% and 6.57% for 2026-2027) compared to PPL."
       }
     ]
   },
   {
-    "id": "3b6ab754c6b0aa0fcd22fa82572f62dcda92f0fc0414cdfd0698863c644249f9",
+    "id": "eeacb9d531222b3c5465c2be92d12d15eefd7f74cafed6fecd5be4a9c1826cbf",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "FirstEnergy Corp. Declares Common Stock Dividend of 44.5 Cents Per Share",
-    "author": "Prnewswire",
-    "published_utc": "2025-09-23T20:20:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/25/09/n47830311/firstenergy-corp-declares-common-stock-dividend-of-44-5-cents-per-share",
+    "title": "Tenet Healthcare and Archrock have been highlighted as Zacks Bull and Bear of the Day",
+    "author": "Zacks Equity Research",
+    "published_utc": "2026-09-02T12:04:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983599/tenet-healthcare-and-archrock-have-been-highlighted-as-zacks-bull-and-bear-of-the-day?cid=CS-ZC-FT-press_releases-2983599",
     "tickers": [
-      "FE"
+      "THC",
+      "AROC",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "FE",
+      "PPL",
+      "PPLC"
     ],
-    "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-    "description": "FirstEnergy Corp. announced a quarterly dividend of 44.5 cents per share, payable on December 1, 2025, to shareholders of record as of November 7, 2025. The company serves over six million customers across six states and operates approximately 24,000 miles of transmission lines.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e6/52046.jpg",
+    "description": "Tenet Healthcare (THC) is highlighted as the Bull of the Day with a Zacks Rank #1 (Strong Buy) due to strong Q2 earnings that beat expectations by 50%, 26 consecutive quarters of earnings beats, and attractive valuation at 12.6X forward earnings. Archrock (AROC) is the Bear of the Day with a Zacks Rank #5 (Strong Sell) following back-to-back earnings misses, reduced guidance, and declining EPS estimates. The article also provides analysis on NextEra Energy (NEE), FirstEnergy (FE), and PPL Corp. (PPL) regarding AI-driven data center demand opportunities.",
     "keywords": [
-      "dividend",
-      "utilities",
-      "electric distribution",
-      "transmission lines"
+      "healthcare stocks",
+      "earnings surprise",
+      "valuation",
+      "natural gas compression",
+      "earnings misses",
+      "data center demand",
+      "utility stocks",
+      "AI infrastructure"
     ],
     "insights": [
+      {
+        "ticker": "THC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 results with 50% EPS surprise, 26 consecutive quarters of earnings beats, raised full-year guidance, surging analyst EPS revisions (+17% over 60 days), attractive valuation at 12.6X forward earnings (below sector average), and strong price performance (36% YTD, 250% over 5 years). Zacks Rank #1 (Strong Buy)."
+      },
+      {
+        "ticker": "AROC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Back-to-back earnings and revenue misses (Q2 EPS missed by 17%, Q1 also missed), reduced 2026 EBITDA guidance, declining EPS estimates (down 9% for FY26, 7% for FY27), deteriorating technical picture with stock falling below 50-day and 200-day moving averages. Zacks Rank #5 (Strong Sell)."
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned to benefit from AI-driven data center demand with strong backlog growth (35.1 GW), but trading at premium valuation (19.4X vs. industry average 14.95X). Zacks Rank #3 (Hold) with modest earnings growth expectations (8.09% and 8.71% YoY for 2026-2027)."
+      },
       {
         "ticker": "FE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The company is maintaining its regular dividend payment, indicating stable financial performance without significant positive or negative signals. The forward-looking statements suggest potential risks and uncertainties, but the dividend declaration itself is a routine corporate action."
+        "sentiment_reasoning": "Benefiting from rising AI-driven data center demand supporting electricity load and infrastructure investment through its $36-billion Energize365 program, but no specific rating or detailed analysis provided in the article."
+      },
+      {
+        "ticker": "PPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Benefiting from expanding Pennsylvania data-center pipeline with potential $10-$12 billion of additional generation opportunities through 2032, but no specific rating or detailed analysis provided in the article."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Benefiting from expanding Pennsylvania data-center pipeline with potential $10-$12 billion of additional generation opportunities through 2032, but no specific rating or detailed analysis provided in the article."
       }
     ]
   },
   {
-    "id": "c21d981b6dfa7188bc15283d875da13b0a990ef6ff84442122164ae19d945a19",
+    "id": "8938bb50dee1632c18c9d91b393b12c59e30598035894cc2d20d599cef841301",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "FirstEnergy Corp. Declares Common Stock Dividend of $0.445 Per Share",
-    "author": "Prnewswire",
-    "published_utc": "2025-07-23T20:20:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/25/07/n46587171/firstenergy-corp-declares-common-stock-dividend-of-0-445-per-share",
+    "title": "Can AI Driven Data Center Growth Continue to Strengthen NEE's Backlog?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-01T16:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983320/can-ai-driven-data-center-growth-continue-to-strengthen-nee-s-backlog?cid=CS-ZC-FT-analyst_blog|quick_take-2983320",
     "tickers": [
-      "FE"
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "FE",
+      "PPL",
+      "PPLC"
     ],
-    "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-    "description": "FirstEnergy Corp. announced a quarterly dividend of $0.445 per share, payable on September 1, 2025, representing an annual dividend rate of $1.78 per share and an increase of over 11% since 2023.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4a/337.jpg",
+    "description": "NextEra Energy's backlog reached 35.1 GW after adding 3.6 GW in Q2 2026, driven by AI data center demand. The company is in talks with 30 potential data center hubs and targets 15 GW of new generation by 2035, with upside potential exceeding 30 GW. However, NEE trades at a premium valuation of 19.4X forward P/E versus the industry average of 14.95X and carries a Zacks Rank #3 (Hold).",
     "keywords": [
-      "dividend",
-      "utilities",
-      "stock",
-      "quarterly dividend",
-      "electric distribution"
+      "AI data centers",
+      "renewable energy",
+      "backlog growth",
+      "electricity demand",
+      "utility infrastructure",
+      "battery storage",
+      "hyperscalers"
+    ],
+    "insights": [
+      {
+        "ticker": "NEE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth of 35.1 GW with significant contributions from AI data center demand (30% of Q1 additions). Expanding pipeline with 30 data center hub discussions and ambitious 15-30 GW targets by 2035 demonstrate substantial growth opportunities. However, positive sentiment is tempered by premium valuation and Hold rating."
+      },
+      {
+        "ticker": "FE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Benefiting from rising AI-driven data center demand with a $36 billion Energize365 program supporting long-term earnings growth and infrastructure investment expansion."
+      },
+      {
+        "ticker": "PPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding Pennsylvania data center pipeline creating $10-12 billion of additional generation opportunities through 2032, strengthening long-term growth prospects from AI infrastructure demand."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding Pennsylvania data center pipeline creating $10-12 billion of additional generation opportunities through 2032, strengthening long-term growth prospects from AI infrastructure demand."
+      }
+    ]
+  },
+  {
+    "id": "d4356bf4b4e2e6ab21932c7ff365b8101961e105efe3e876ce9861dbb50ce0a2",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can Rising Operating Income Support PPL's Long-Term Earnings Growth?",
+    "author": "Na",
+    "published_utc": "2026-08-31T17:09:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982791/can-rising-operating-income-support-ppl-s-long-term-earnings-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2982791",
+    "tickers": [
+      "PPL",
+      "PPLC",
+      "FE",
+      "DUK",
+      "DUKB",
+      "DUKH",
+      "DUKU",
+      "DUKpA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fe/332.jpg",
+    "description": "PPL Corporation reported a 17% year-over-year increase in Q2 operating income to $475 million, driving a 20% rise in EPS. The company is positioned for sustained growth through 2029 with a $23 billion investment outlook supporting 10.3% annual rate-base growth and 6-8% EPS growth, bolstered by significant data center demand in Pennsylvania (31.8 GW) and Kentucky (13.7 GW). PPL's debt-to-capital ratio of 57.46% is lower than the industry average, strengthening its financial capacity.",
+    "keywords": [
+      "operating income growth",
+      "data center demand",
+      "rate-base growth",
+      "EPS growth",
+      "capital investment",
+      "utility sector",
+      "Pennsylvania rate case",
+      "Kentucky load growth"
+    ],
+    "insights": [
+      {
+        "ticker": "PPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 17% operating income growth, 20% EPS increase, significant data center demand opportunities, approved rate case settlements providing $275M annual revenue increase, $23B investment outlook through 2029 supporting 6-8% EPS growth, and lower debt-to-capital ratio than industry average all support positive outlook."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 17% operating income growth, 20% EPS increase, significant data center demand opportunities, approved rate case settlements providing $275M annual revenue increase, $23B investment outlook through 2029 supporting 6-8% EPS growth, and lower debt-to-capital ratio than industry average all support positive outlook."
+      },
+      {
+        "ticker": "FE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Reported 4.8% year-over-year operating income increase and is executing a $36 billion capital program, but the modest operating income growth rate and limited detail provided warrant a neutral stance."
+      },
+      {
+        "ticker": "DUK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
+      },
+      {
+        "ticker": "DUKB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
+      },
+      {
+        "ticker": "DUKH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
+      },
+      {
+        "ticker": "DUKU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
+      },
+      {
+        "ticker": "DUKpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
+      }
+    ]
+  },
+  {
+    "id": "47718adbdefa92d42befe4f7ed1ea2ca45728c5cc6bfb349d55f121a05c48321",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "PPL vs. FE: Which Utility Stock Offers Stronger Long-Term Growth?",
+    "author": "Na",
+    "published_utc": "2026-08-31T17:04:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2982759/ppl-vs-fe-which-utility-stock-offers-stronger-long-term-growth?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2982759",
+    "tickers": [
+      "FE",
+      "PPL",
+      "PPLC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fe/332.jpg",
+    "description": "A comparative analysis of two electric utility companies shows FirstEnergy (FE) emerging as the stronger investment choice over PPL Corporation (PPL). FirstEnergy demonstrates higher return on equity (10.51% vs 9.33%), a cheaper valuation (15.94X vs 16.67X P/E), and stronger share price performance (+5.2% vs -6.2% over the past year. Additionally, FE's $36 billion investment program through 2030 exceeds PPL's $23 billion plan for 2026-2029, supporting long-term growth despite higher debt levels. Both stocks carry a Zacks Rank #3 (Hold) rating.",
+    "keywords": [
+      "electric utilities",
+      "infrastructure investment",
+      "renewable energy",
+      "grid modernization",
+      "data center demand",
+      "valuation comparison",
+      "return on equity",
+      "capital expenditure"
     ],
     "insights": [
       {
         "ticker": "FE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company is increasing annual dividend, demonstrating financial stability and commitment to shareholders, with dividend growing over 11% since 2023"
-      }
-    ]
-  },
-  {
-    "id": "9677c74f56d1cad5b0a364263ac5d665f99add460194630512a4ebf48d91df34",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "FirstEnergy Corp. Declares Increased Quarterly Common Stock Dividend of $0.445 Per Share",
-    "author": "Prnewswire",
-    "published_utc": "2025-03-19T20:20:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/25/03/n44405827/firstenergy-corp-declares-increased-quarterly-common-stock-dividend-of-0-445-per-share",
-    "tickers": [
-      "FE"
-    ],
-    "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-    "description": "FirstEnergy Corp. has declared an increased quarterly common stock dividend of $0.445 per share, representing an annual rate of $1.78 per share, pending continued Board approval. This compares to $1.70 per share in 2024 declared dividends, an increase of more than 11%.",
-    "keywords": [
-      "dividend",
-      "FirstEnergy Corp",
-      "stock"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Higher ROE (10.51%), cheaper valuation (15.94X P/E), stronger year-over-year share performance (+5.2%), larger capital investment program ($36B through 2030), and better positioned for long-term growth despite higher debt levels."
+      },
       {
-        "ticker": "FE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company has increased its quarterly common stock dividend, reflecting its commitment to delivering shareholder value and its target payout ratio of 60 to 70 percent of Core (non-GAAP) earnings."
+        "ticker": "PPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid fundamentals with higher net profit margin (14.74%) and lower debt-to-capital ratio (57.46%), but underperforms FirstEnergy on ROE, valuation premium (16.67X P/E), and recent share price performance (-6.2%). Rated Hold with stable but less compelling investment profile."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid fundamentals with higher net profit margin (14.74%) and lower debt-to-capital ratio (57.46%), but underperforms FirstEnergy on ROE, valuation premium (16.67X P/E), and recent share price performance (-6.2%). Rated Hold with stable but less compelling investment profile."
       }
     ]
   }

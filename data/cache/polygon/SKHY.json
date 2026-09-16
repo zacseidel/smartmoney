@@ -1,0 +1,25 @@
+{
+  "ticker": "SKHY",
+  "name": "SK hynix Inc. American Depositary Shares",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "ADRC",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0002120882",
+  "composite_figi": "BBG0238L5JS9",
+  "share_class_figi": "BBG0238L5M11",
+  "market_cap": 1241039305935.3,
+  "description": "SK Hynix is a semiconductor memory manufacturer with around 60%-70% of its revenue from DRAM and 30%-35% of its revenue from NAND. The company is both the second-largest DRAM and NAND supplier globally, with a 33% and 21% market share, respectively, as of 2024. SK Hynix increased its market position in NAND from fourth to second, after acquiring Intel's NAND business in 2021. SK Square, an investment management company spun off from SK Telecom, is SK Hynix's largest shareholder and currently holds 20% of the company's shares.",
+  "ticker_root": "SKHY",
+  "homepage_url": "https://www.skhynix.com",
+  "total_employees": 33625,
+  "list_date": "2026-07-10",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2toeW5peC5jb20/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/c2toeW5peC5jb20/images/2026-09-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 7098548910,
+  "round_lot": 100
+}

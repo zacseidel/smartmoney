@@ -1,280 +1,252 @@
 [
   {
-    "id": "8e88655533807cfd468cd74dd65b03580aedbc9096290456decbaff8cb3b189b",
+    "id": "bf0995306ba899e5025118c1f28f2341410793eb9e3b8d7e4006097dbdc0fdb3",
     "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "These 8 Stocks Yield Up to 8.3% and Their Payouts Could Soon Rise",
-    "author": "Brett Owens",
-    "published_utc": "2026-07-03T09:13:00Z",
-    "article_url": "https://www.investing.com/analysis/these-8-stocks-yield-up-to-83-and-their-payouts-could-soon-rise-200683280",
+    "title": "Can 3M Continue Its Strong Capital Returns to Shareholders?",
+    "author": "Na",
+    "published_utc": "2026-09-15T17:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2990134/can-3m-continue-its-strong-capital-returns-to-shareholders?cid=CS-ZC-FT-analyst_blog|quick_take-2990134",
     "tickers": [
-      "AGX",
-      "CHE",
-      "HWM",
-      "FIX",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ",
-      "MO",
-      "VRTS"
+      "MMM",
+      "GE",
+      "HWM"
     ],
-    "amp_url": "https://m.investing.com/analysis/these-8-stocks-yield-up-to-83-and-their-payouts-could-soon-rise-200683280?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The article highlights eight dividend-paying stocks with yields up to 8.3% that are expected to increase their payouts soon. These companies have demonstrated strong earnings growth and maintain low payout ratios, suggesting room for dividend increases. The stocks span various sectors including construction, healthcare, aerospace, HVAC, telecommunications, tobacco, investment management, and energy infrastructure.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/84/473.jpg",
+    "description": "3M Company returned $3.8 billion to shareholders through dividends and buybacks in the first half of 2026, with $1.8 billion remaining under its repurchase authorization. The company expects adjusted operating cash flow of $5.8-$6.0 billion and free cash flow conversion above 100% for 2026, while raising its quarterly dividend by 6.8% in February 2026. Despite trading above industry valuation averages, 3M shares gained 3.6% over the past year compared to a 27.8% industry decline.",
     "keywords": [
-      "dividend growth",
-      "dividend yield",
-      "earnings growth",
-      "dividend magnet",
-      "payout ratio",
-      "dividend announcement",
-      "income investing"
+      "shareholder returns",
+      "dividends",
+      "share buybacks",
+      "cash flow",
+      "capital allocation",
+      "industrial diversification"
     ],
     "insights": [
       {
-        "ticker": "AGX",
+        "ticker": "MMM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dividend has doubled in three years with 33.3% boost last year; expected continued bottom-line growth; dividend announcement expected mid-September"
+        "sentiment_reasoning": "Strong shareholder return program with $3.8B returned in H1 2026, dividend increase of 6.8%, robust cash flow guidance ($5.8-$6.0B operating cash flow), and outperformance versus industry peers (3.6% gain vs. -27.8% industry decline). Zacks Rank #3 (Hold) reflects moderate confidence."
       },
       {
-        "ticker": "CHE",
+        "ticker": "GE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Two-decade uninterrupted dividend increases; doubled payout over five years; 20% increase in 2025 despite profit pullback; double-digit profit rebound expected; announcement early August"
+        "sentiment_reasoning": "Aggressive capital return with $4.2B in share repurchases and $873M in dividends in H1 2026, substantial 30.6% dividend increase, and raised free cash flow guidance to $8.9-$9.2B for 2026."
       },
       {
         "ticker": "HWM",
         "sentiment": "positive",
-        "sentiment_reasoning": "23% net income growth in 2025; 33% growth expected in 2026; pays out less than 10% of earnings; likely summer dividend hike announcement"
-      },
-      {
-        "ticker": "FIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net income nearly doubled in 2025; dividend 77.7% higher year-over-year; multiple raises per year since 2021; strong growth expected; announcement late July"
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Evolved into cellular powerhouse; dividend program started 2023 with 57% increase; 2.3% yield still lower than competitors but rapidly closing gap; announcement mid-September"
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Evolved into cellular powerhouse; dividend program started 2023 with 57% increase; 2.3% yield still lower than competitors but rapidly closing gap; announcement mid-September"
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Evolved into cellular powerhouse; dividend program started 2023 with 57% increase; 2.3% yield still lower than competitors but rapidly closing gap; announcement mid-September"
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Evolved into cellular powerhouse; dividend program started 2023 with 57% increase; 2.3% yield still lower than competitors but rapidly closing gap; announcement mid-September"
-      },
-      {
-        "ticker": "MO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Dividend King with 50+ years uninterrupted increases; pivoting to high-growth smokeless products expanding 25% annually; strong pricing power; sure dividend hike expected late August"
-      },
-      {
-        "ticker": "VRTS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Tripled quarterly dividend in five years; upward profit trend expected; but faces headwinds from active management challenges and low-fee market competition; announcement mid-August"
+        "sentiment_reasoning": "Consistent shareholder returns with $97M in dividends and $800M in share repurchases year-to-date through July 2026, plus a 17% dividend increase in July 2026."
       }
     ]
   },
   {
-    "id": "523d06679602f24e3fe29354ee4f5a3c257ef6511b03017669b1952f36651a3d",
+    "id": "85e44789bae216e951a309f1031573f8b43a3961c81029ae5234e9f463c6daae",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Don't Buy SpaceX Until You Consider These 2 Aerospace and Defense Stocks With 10% EPS Growth",
-    "author": "James Halley",
-    "published_utc": "2026-06-28T16:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/06/28/dont-buy-spacex-until-you-consider-these-2-stocks/?source=iedfolrf0000001",
+    "title": "Solid Demand in Commercial Aerospace Drives Howmet: Can It Sustain?",
+    "author": "Na",
+    "published_utc": "2026-09-11T15:29:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2988535/solid-demand-in-commercial-aerospace-drives-howmet-can-it-sustain?cid=CS-ZC-FT-analyst_blog|quick_take-2988535",
     "tickers": [
       "HWM",
-      "TDG",
-      "SPCX"
+      "TXT",
+      "RBC",
+      "BA",
+      "BApA",
+      "EADSY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875884%2Fpartially-disassembled-turbine-engine-of-a-passenger-jet-aircraft.jpg&w=1200&op=resize",
-    "description": "The article argues that Howmet Aerospace and TransDigm Group are more attractive aerospace and defense investments than SpaceX, citing their strong EPS growth profiles, high-margin aftermarket businesses, and disciplined acquisition strategies. Both companies benefit from aging aircraft fleets requiring maintenance and possess significant pricing power through proprietary products and sole-source supplier relationships.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/39/2343.jpg",
+    "description": "Howmet Aerospace (HWM) reported robust Q2 2026 results driven by 28% growth in commercial aerospace revenues, which now represent 53% of its business. Engine Products revenues jumped 32% to $1.37B, while Fastening Systems grew 37% year-over-year. The company's $1.8B acquisition of Stanley Black & Decker's CAM business strengthened its aerospace fastening portfolio. With Boeing's 737 MAX recovery and strong Airbus build rates, Howmet is positioned for continued momentum.",
     "keywords": [
-      "aerospace and defense stocks",
-      "EPS growth",
-      "aftermarket business",
-      "acquisition strategy",
-      "proprietary products",
-      "sole-source supplier",
-      "data center demand",
-      "aircraft maintenance"
+      "commercial aerospace",
+      "engine products",
+      "fastening systems",
+      "Boeing 737 MAX",
+      "Airbus A320/A350",
+      "aerospace aftermarket",
+      "M&A acquisition"
     ],
     "insights": [
       {
         "ticker": "HWM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates 540% EPS growth over five years, 71% YoY EPS growth in Q1, strong aftermarket business expansion (48% YoY growth in spare parts), emerging AI/data center opportunity with 39% gas turbine revenue growth, and aggressive acquisition strategy with $1.8B CAM acquisition expected to add $275M revenue and $60M EBITDA."
+        "sentiment_reasoning": "Strong Q2 2026 results with 28% commercial aerospace revenue growth, 32% Engine Products growth, and 37% Fastening Systems growth. Strategic $1.8B CAM acquisition expands capabilities. Stock gained 22.7% in past year. Zacks Rank #2 (Buy) with rising consensus estimates. Well-positioned for continued growth from Boeing and Airbus production recovery."
       },
       {
-        "ticker": "TDG",
+        "ticker": "TXT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company shows 270% EPS growth over five years, 11.6% YoY EPS growth in Q2, exceptional pricing power with 80% sole-source supplier status and 90% proprietary products, industry-leading 52.6% EBITDA margins, strong aftermarket growth (16% YoY), and aggressive capital deployment with $905M in buybacks and $960M acquisition of Stellant Systems."
+        "sentiment_reasoning": "Aviation segment revenues increased 1% year-over-year in Q2 with aftermarket revenues rising. Strong order activity resulted in $8B backlog, indicating sustained commercial aerospace demand momentum over multiyear horizon."
       },
       {
-        "ticker": "SPCX",
+        "ticker": "RBC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Aerospace/Defense segment revenues up 36.9% year-over-year in fiscal Q1 2027 (ended June 2026), driven by strong commercial aerospace market growth and increased OEM and aftermarket orders."
+      },
+      {
+        "ticker": "BA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Gradual production recovery underway, particularly in 737 MAX narrowbody aircraft, which is expected to drive sustained demand for aerospace suppliers like Howmet in quarters ahead."
+      },
+      {
+        "ticker": "BApA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Gradual production recovery underway, particularly in 737 MAX narrowbody aircraft, which is expected to drive sustained demand for aerospace suppliers like Howmet in quarters ahead."
+      },
+      {
+        "ticker": "EADSY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Healthy build rates for A320 narrowbody and A350 widebody aircraft hold promise for spare engine demand and continued support for aerospace suppliers."
+      }
+    ]
+  },
+  {
+    "id": "0ff068632847e48e2261765e5f6d9a5f5874fdbeb9d863982e9b91d90dbccd2c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GE Expands Mission-Critical Castings Capacity Through CPP Acquisition",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-09T15:39:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2987153/ge-expands-mission-critical-castings-capacity-through-cpp-acquisition?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2987153",
+    "tickers": [
+      "GE",
+      "HWM",
+      "ACHR",
+      "ACHR.WS",
+      "RTX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/65/143.jpg",
+    "description": "GE Aerospace announced an $11.75 billion acquisition of Consolidated Precision Products (CPP) from Warburg Pincus and Berkshire Partners. CPP manufactures precision castings and sub-assemblies for commercial and military aircraft engines. The deal aims to expand GE's casting capacity, strengthen its supply chain, and support growth in commercial engines, aftermarket, and defense markets. The transaction is expected to close in the second half of 2027.",
+    "keywords": [
+      "acquisition",
+      "aerospace",
+      "castings",
+      "manufacturing capacity",
+      "defense",
+      "commercial engines",
+      "supply chain"
+    ],
+    "insights": [
+      {
+        "ticker": "GE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The acquisition strengthens GE's strategic position by expanding casting capacity and supply chain capabilities. The company benefits from robust demand for commercial engines, defense spending, and positive airline dynamics. However, this is tempered by concerns about high costs and restructuring expenses affecting margins."
+      },
+      {
+        "ticker": "HWM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Howmet carries a Zacks Rank #2 (Buy) with consistent earnings surprises (6.9% trailing four-quarter average) and increased 2026 earnings estimates, indicating strong operational performance in the aerospace sector."
+      },
+      {
+        "ticker": "ACHR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Archer Aviation holds a Zacks Rank #2 with an impressive 18.4% trailing four-quarter average earnings surprise and increased 2026 earnings consensus estimates, suggesting strong growth momentum."
+      },
+      {
+        "ticker": "ACHR.WS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Archer Aviation holds a Zacks Rank #2 with an impressive 18.4% trailing four-quarter average earnings surprise and increased 2026 earnings consensus estimates, suggesting strong growth momentum."
+      },
+      {
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "RTX maintains a Zacks Rank #2 with a solid 14.2% trailing four-quarter average earnings surprise and increased 2026 earnings estimates, reflecting strong performance in the defense and aerospace sectors."
+      }
+    ]
+  },
+  {
+    "id": "896aabc984685d843ed24cd08994164abe9e092ba81da4cf335b19c44488be55",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GE Rides on Commercial Engines Unit Strength: Will the Uptrend Continue?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T18:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984027/ge-rides-on-commercial-engines-unit-strength-will-the-uptrend-continue?cid=CS-ZC-FT-analyst_blog|quick_take-2984027",
+    "tickers": [
+      "GE",
+      "HWM",
+      "RTX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/75.jpg",
+    "description": "GE Aerospace's Commercial Engines & Services segment shows strong momentum with revenues up 27% year-over-year to $9.73 billion in Q2 2026, driven by increased LEAP engine deliveries (up 24%) and major orders from airlines including United, Delta, and American Airlines. The company expects adjusted segment revenues to grow about 20% in 2026. GE shares have outperformed the industry with a 4.2% gain in three months, though the stock trades at a premium valuation of 38.40X forward P/E versus the industry average of 31.21X.",
+    "keywords": [
+      "commercial aerospace engines",
+      "LEAP engines",
+      "aircraft orders",
+      "revenue growth",
+      "fleet expansion",
+      "aftermarket services"
+    ],
+    "insights": [
+      {
+        "ticker": "GE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 27% revenue growth in Commercial Engines & Services, 24% increase in LEAP deliveries, 18% order growth to $12.93 billion, and multiple major airline contracts secured. Expected 20% revenue growth for 2026 demonstrates sustained momentum. Stock outperformed industry peers with 4.2% gain in three months."
+      },
+      {
+        "ticker": "HWM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Commercial aerospace revenues increased 28% year-over-year in Q2 2026, representing 53% of business. Consistent growth with 12% increase in 2025, indicating sustained strength in the commercial aerospace market."
+      },
+      {
+        "ticker": "RTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid momentum in commercial aerospace with 16% organic sales growth in Q2 2026, driven by Collins Aerospace and Pratt & Whitney segments. Rising aircraft utilization and demand for sustainable technologies support future growth."
+      }
+    ]
+  },
+  {
+    "id": "c3b0df024f3a51559957a72fe163656da2a590ceff5213935c9e1574cb8991db",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GD or HWM: Which Is the Better Value Stock Right Now?",
+    "author": "Na",
+    "published_utc": "2026-09-02T15:40:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2983907/gd-or-hwm-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2983907",
+    "tickers": [
+      "GD",
+      "HWM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default303.jpg",
+    "description": "In a comparison of two Aerospace-Defense sector stocks, General Dynamics (GD) emerges as the superior value investment option compared to Howmet (HWM). Both stocks hold a Zacks Rank #2 (Buy) with positive earnings outlooks, but GD's significantly lower valuation metrics make it more attractive to value investors. GD has a forward P/E of 21.83 versus HWM's 48.46, and a P/B ratio of 3.73 compared to HWM's 17.79, earning GD a Value grade of B while HWM receives an F.",
+    "keywords": [
+      "value investing",
+      "aerospace-defense sector",
+      "valuation metrics",
+      "P/E ratio",
+      "PEG ratio",
+      "P/B ratio"
+    ],
+    "insights": [
+      {
+        "ticker": "GD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GD is rated as the superior value investment with a Zacks Rank #2 (Buy), lower forward P/E ratio (21.83), lower P/B ratio (3.73), and a strong Value grade of B, indicating undervaluation at current price levels."
+      },
+      {
+        "ticker": "HWM",
         "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined from opening day closing price of $160.95 to $147.11 shortly after IPO, suggesting weak post-IPO performance and investor disappointment despite initial hype around Elon Musk becoming a trillionaire."
-      }
-    ]
-  },
-  {
-    "id": "944df8d6f765fc6a40ac1c0ccc2772b49f6e64837cfbadf309bcaa3f05191d97",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Micron\u2019s Record Sales Show the Memory Bottleneck Is Real",
-    "author": "Louis Navellier",
-    "published_utc": "2026-06-25T19:21:00Z",
-    "article_url": "https://www.investing.com/analysis/microns-record-sales-show-the-memory-bottleneck-is-real-200682807",
-    "tickers": [
-      "MU",
-      "CRS",
-      "ESLT",
-      "HWM"
-    ],
-    "amp_url": "https://m.investing.com/analysis/microns-record-sales-show-the-memory-bottleneck-is-real-200682807?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Micron Technology reported record sales and earnings, demonstrating that the memory bottleneck is real and benefiting the memory and SSD industry. The author also discusses defense contractors developing advanced aerospace technology and recommends selling cryptocurrencies due to Bitcoin's significant decline and a strengthening U.S. dollar.",
-    "keywords": [
-      "memory bottleneck",
-      "semiconductor earnings",
-      "defense contractors",
-      "cryptocurrency decline",
-      "strong dollar"
-    ],
-    "insights": [
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record sales and earnings announcement demonstrates strong demand for memory products and validates the memory bottleneck thesis, supporting future growth for memory-related companies."
-      },
-      {
-        "ticker": "CRS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a primary defense contractor of interest due to development of advanced aerospace technology, though sentiment is based on speculative future potential rather than concrete fundamentals."
-      },
-      {
-        "ticker": "ESLT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a defense contractor of interest but no specific positive or negative developments discussed; included for speculative technology development potential."
-      },
-      {
-        "ticker": "HWM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a defense contractor of interest but no specific positive or negative developments discussed; included for speculative technology development potential."
-      }
-    ]
-  },
-  {
-    "id": "57e03a3bbe8a64015087cf5a59ea5b5cf17f2756a868813c0cd163f4471c3bc8",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Micron Earnings Could Be the Grand Finale for AI and Memory Stocks",
-    "author": "Louis Navellier",
-    "published_utc": "2026-06-23T18:24:00Z",
-    "article_url": "https://www.investing.com/analysis/micron-earnings-could-be-the-grand-finale-for-ai-and-memory-stocks-200682653",
-    "tickers": [
-      "MU",
-      "CRS",
-      "ESLT",
-      "HWM"
-    ],
-    "amp_url": "https://m.investing.com/analysis/micron-earnings-could-be-the-grand-finale-for-ai-and-memory-stocks-200682653?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Memory and AI-related technology stocks are experiencing a buying opportunity as Micron Technology prepares to announce record earnings on Wednesday. Analysts have revised consensus earnings estimates up 4.8%, and the author expects continued strong performance through 2029 due to a 3-year order backlog in AI and data center stocks. Recent market corrections are viewed as temporary dips in an otherwise bullish trend.",
-    "keywords": [
-      "Micron Technology earnings",
-      "AI stocks",
-      "memory stocks",
-      "analyst revisions",
-      "data center",
-      "buying opportunity",
-      "technology sector"
-    ],
-    "insights": [
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company expected to announce record sales and earnings; analyst consensus estimates revised up 4.8%; positioned as the grand finale to earnings season with strong fundamentals"
-      },
-      {
-        "ticker": "CRS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a primary defense contractor of interest for potential advanced aerospace technology development, but no specific earnings or performance data provided"
-      },
-      {
-        "ticker": "ESLT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a defense contractor of interest for potential advanced technology development, but no specific performance metrics or analysis provided"
-      },
-      {
-        "ticker": "HWM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a defense contractor of interest for potential advanced aerospace technology, but lacks specific fundamental or performance analysis"
-      }
-    ]
-  },
-  {
-    "id": "5fe92f1ee86a2da4c5c2eb2e50d925e33be115c9dc425c03bdb42451ddb08358",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "These 2 Industrial Stocks Have Had a Strong Year. Buy Them and Hold Forever.",
-    "author": "Jack Delaney",
-    "published_utc": "2026-04-26T19:16:00Z",
-    "article_url": "https://www.fool.com/investing/2026/04/26/these-2-industrial-stocks-have-had-a-strong-year-b/?source=iedfolrf0000001",
-    "tickers": [
-      "HWM",
-      "GNRC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F865098%2Fgettyimages-2224177930-1201x675-128554e.jpg&w=1200&op=resize",
-    "description": "Howmet Aerospace and Generac Holdings are highlighted as long-term industrial stock buys following strong year-over-year performance. Howmet benefits from the growing aerospace market projected to double by 2035, while Generac is capitalizing on data center backup power demand. However, both stocks have elevated valuations and may face short-term volatility after significant recent gains.",
-    "keywords": [
-      "industrial stocks",
-      "aerospace market growth",
-      "data center demand",
-      "long-term investment",
-      "valuation concerns",
-      "backup power solutions"
-    ],
-    "insights": [
-      {
-        "ticker": "HWM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong commercial and defense aerospace revenue growth with favorable long-term market projections (aerospace market expected to nearly double by 2035). However, elevated P/E ratio of 55 and 700% five-year gain suggest limited near-term upside and vulnerability to earnings misses."
-      },
-      {
-        "ticker": "GNRC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant momentum in data center segment with 10% commercial/industrial division growth and strong CEO commentary on accelerating data center demand. Nearly 100% one-year gain demonstrates market confidence, though forward P/E of 25 reflects optimism that requires continued execution."
+        "sentiment_reasoning": "HWM has significantly higher valuation multiples with a forward P/E of 48.46 and P/B ratio of 17.79, resulting in a poor Value grade of F, making it less attractive for value investors despite holding a Zacks Rank #2 (Buy)."
       }
     ]
   }

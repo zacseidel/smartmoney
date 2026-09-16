@@ -1,361 +1,290 @@
 [
   {
-    "id": "ec834309d3c0ffad05875cd787cb71c806d3805ea6a9aebae2a54495dea57c96",
+    "id": "b19e32432ae11d2c3ede34146257ae35fb4a64191ee3bde9192f05f156caad84",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Elon Musk Is Quietly Turning to This Fossil Fuel to Power His AI Ambitions.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-25T22:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/elon-musk-is-quietly-turning-to-this-fossil-fuel-t/?source=iedfolrf0000001",
-    "tickers": [
-      "EPD",
-      "ENB",
-      "EP",
-      "EPpC",
-      "KMI",
-      "TSLA",
-      "SPCX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879242%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house.jpg&w=1200&op=resize",
-    "description": "Elon Musk is building off-grid natural gas power plants to supply energy for his massive AI data centers (Colossus I and II in Tennessee), bypassing grid connection issues and electricity price concerns. This shift toward natural gas as a reliable power source for AI infrastructure is expected to increase demand for natural gas, benefiting midstream energy companies that transport and manage natural gas infrastructure.",
-    "keywords": [
-      "artificial intelligence",
-      "natural gas",
-      "power generation",
-      "data centers",
-      "energy infrastructure",
-      "midstream companies",
-      "fossil fuels",
-      "electricity demand"
-    ],
-    "insights": [
-      {
-        "ticker": "EPD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Increased natural gas demand from AI data centers will boost volume through their pipeline infrastructure, driving higher revenues and earnings. High dividend yield of 5.65% makes it attractive for income investors."
-      },
-      {
-        "ticker": "ENB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major midstream company with natural gas assets and export capabilities, it will benefit from increased demand for natural gas transportation. Strong dividend yield of 4.87% and solid growth opportunities from expanded infrastructure needs."
-      },
-      {
-        "ticker": "EP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Operates the largest U.S. natural gas transmission network, positioning it as a material beneficiary of increased natural gas demand from AI infrastructure. Will see revenue growth from higher volume throughput."
-      },
-      {
-        "ticker": "EPpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Operates the largest U.S. natural gas transmission network, positioning it as a material beneficiary of increased natural gas demand from AI infrastructure. Will see revenue growth from higher volume throughput."
-      },
-      {
-        "ticker": "KMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Operates the largest U.S. natural gas transmission network, positioning it as a material beneficiary of increased natural gas demand from AI infrastructure. Will see revenue growth from higher volume throughput."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a company heavily investing in AI and related technology, but the article's focus is on natural gas benefits rather than Tesla's prospects."
-      },
-      {
-        "ticker": "SPCX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as spending heavily on AI, but not directly impacted by the natural gas power plant decision discussed in the article."
-      }
-    ]
-  },
-  {
-    "id": "1bc0a813192861c38b5c06f2af4fc64ba60132a85fbafb745a990891cdfe22d9",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "High-Yield and High-Growth? This Energy Stock Backs Its 3.7%-Yielding Dividend With Booming AI-Driven Gas Demand.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-07-23T05:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/23/high-yield-and-high-growth-this-energy-stock-backs/?source=iedfolrf0000001",
-    "tickers": [
-      "EP",
-      "EPpC",
-      "KMI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880277%2Fpeople-wearing-hard-hats-in-a-data-center.jpg&w=1200&op=resize",
-    "description": "Kinder Morgan reported strong Q2 earnings with adjusted EPS growing 32%, driven by increased natural gas demand from LNG exports, power generation, and emerging AI data center demand. The company expects to exceed its 2026 earnings guidance by 12% and has a $9.6 billion backlog of expansion projects plus $10 billion in additional opportunities under development. With 9 consecutive years of dividend increases and robust growth catalysts, the stock offers both high yield (3.7%) and growth potential.",
-    "keywords": [
-      "Kinder Morgan",
-      "natural gas pipeline",
-      "dividend growth",
-      "AI data centers",
-      "earnings growth",
-      "LNG demand",
-      "power generation",
-      "infrastructure expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "EP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings with 32% adjusted EPS growth, record net income, exceeding full-year guidance by 12%, robust backlog of $9.6 billion in projects, 9-year dividend growth streak, and emerging AI-driven demand catalysts providing long-term growth visibility through 2030."
-      },
-      {
-        "ticker": "EPpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings with 32% adjusted EPS growth, record net income, exceeding full-year guidance by 12%, robust backlog of $9.6 billion in projects, 9-year dividend growth streak, and emerging AI-driven demand catalysts providing long-term growth visibility through 2030."
-      },
-      {
-        "ticker": "KMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings with 32% adjusted EPS growth, record net income, exceeding full-year guidance by 12%, robust backlog of $9.6 billion in projects, 9-year dividend growth streak, and emerging AI-driven demand catalysts providing long-term growth visibility through 2030."
-      }
-    ]
-  },
-  {
-    "id": "744a40f75ce3d22d22d3ab3586cc3135b5fe1486b51f5ca5f7c6c7c4a00397a6",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "3 Dividend Stocks with Growth on Tap for the Second Half",
-    "author": "Chris Markoch",
-    "published_utc": "2026-07-13T16:20:00Z",
-    "article_url": "https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the-second-half-200683830",
-    "tickers": [
-      "IBM",
-      "EP",
-      "EPpC",
-      "KMI"
-    ],
-    "amp_url": "https://m.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the-second-half-200683830?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The article recommends three dividend-paying stocks for investors seeking safety amid market volatility and geopolitical tensions. IBM benefits from its Confluent acquisition and quantum computing investments with 30 consecutive years of dividend increases. Kinder Morgan offers stable midstream energy infrastructure with contracted, predictable cash flows and a 3.7% dividend yield. The Templeton Emerging Markets Fund provides diversified emerging market exposure with recent dividend increases, up 34% in 2026.",
-    "keywords": [
-      "dividend stocks",
-      "market volatility",
-      "passive income",
-      "technology sector",
-      "energy infrastructure",
-      "emerging markets",
-      "geopolitical risk"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is expanding into AI application layer through Confluent acquisition, investing in quantum computing, delivered 100%+ stock price growth over 5 years with 170%+ total return including dividends, and increased dividend for 30 consecutive years."
-      },
-      {
-        "ticker": "EP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Midstream company with stable, contracted business model insulated from commodity price volatility, up 17% in 2026 with 150%+ five-year total return, offers 3.7% dividend yield, and has increased dividend for 9 consecutive years with UBS price target of $43."
-      },
-      {
-        "ticker": "EPpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Midstream company with stable, contracted business model insulated from commodity price volatility, up 17% in 2026 with 150%+ five-year total return, offers 3.7% dividend yield, and has increased dividend for 9 consecutive years with UBS price target of $43."
-      },
-      {
-        "ticker": "KMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Midstream company with stable, contracted business model insulated from commodity price volatility, up 17% in 2026 with 150%+ five-year total return, offers 3.7% dividend yield, and has increased dividend for 9 consecutive years with UBS price target of $43."
-      }
-    ]
-  },
-  {
-    "id": "5eae89917eed4ae1cf25f9e03b6c576b48763841a1ef398f2039c3f4604e7ea9",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "The 22nd Annual Energy Innovations: LDC Gas Forum Rockies & West takes place in San Diego, CA, August 10 \u2013 12, 2026",
+    "title": "Oil Prices Are Climbing, Yet These 3 Energy Stocks Yield 3%+",
     "author": "Na",
-    "published_utc": "2026-07-07T17:58:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/07/3323564/0/en/The-22nd-Annual-Energy-Innovations-LDC-Gas-Forum-Rockies-West-takes-place-in-San-Diego-CA-August-10-12-2026.html",
+    "published_utc": "2026-09-09T12:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986960/oil-prices-are-climbing-yet-these-3-energy-stocks-yield-3?cid=CS-ZC-FT-analyst_blog|industry_focus-2986960",
     "tickers": [
+      "EP",
+      "EPpC",
       "KMI",
-      "WMB",
-      "NRG",
-      "SO",
-      "SOJC",
-      "SOJD",
-      "SOJE",
-      "SOJF",
-      "SOMN",
-      "EQT"
+      "CVX",
+      "CNQ"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/ebb2e8ab-934a-4498-b4d6-696defd42a3a",
-    "description": "The 22nd annual Energy Innovations: LDC Gas Forum Rockies & West will convene 250+ natural gas industry professionals in San Diego to address critical issues in U.S. Rockies and West natural gas markets. Key topics include natural gas demand from AI data centers, LNG exports, midstream infrastructure constraints, gas/electric coordination, and policy developments. The event features keynote speakers from Shell Energy North America and Kinder Morgan, along with panel discussions from industry leaders.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
+    "description": "Oil prices have climbed to three-month highs due to Middle East tensions and disrupted Gulf crude flows. For investors seeking energy exposure without relying solely on oil price appreciation, dividend-paying energy stocks like Kinder Morgan, Chevron, and Canadian Natural Resources offer recurring income and diversified cash flows with yields above 3%.",
     "keywords": [
-      "natural gas",
-      "LNG",
-      "Rockies and West markets",
-      "energy policy",
-      "AI data centers",
-      "midstream infrastructure",
-      "gas/electric coordination",
-      "LNG exports"
+      "energy stocks",
+      "dividend yields",
+      "oil prices",
+      "geopolitical tensions",
+      "Middle East",
+      "energy infrastructure",
+      "commodity volatility"
     ],
     "insights": [
       {
+        "ticker": "EP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
+      },
+      {
+        "ticker": "EPpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
+      },
+      {
         "ticker": "KMI",
         "sentiment": "positive",
-        "sentiment_reasoning": "Director of Commercial featured as keynote speaker in breakfast roundtable, demonstrating active engagement in regional natural gas market leadership and commercial operations."
+        "sentiment_reasoning": "Operates largest North America energy infrastructure network with stable fee-based cash flows, expects ninth consecutive dividend increase in 2026, and offers 3.7% yield with defensive characteristics during volatile markets."
       },
       {
-        "ticker": "WMB",
+        "ticker": "CVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Vice President featured as keynote speaker and company listed as panel participant, indicating significant involvement in Rockies and West natural gas infrastructure and commercial activities."
+        "sentiment_reasoning": "Integrated business with multiple cash flow sources across geographies, 90-year dividend maintenance/increase track record, 3.4% yield above sector average, and disciplined capital spending support shareholder returns."
       },
       {
-        "ticker": "NRG",
+        "ticker": "CNQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Director featured as moderator and company listed as panel participant, showing active engagement in natural gas market discussions and regional operations."
-      },
-      {
-        "ticker": "SO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "SOJC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "SOJD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "SOJE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "SOJF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "SOMN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
-      },
-      {
-        "ticker": "EQT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as panel participant company, indicating industry involvement but no specific strategic emphasis or concerns highlighted."
+        "sentiment_reasoning": "Large portfolio of long-life, low-decline assets with geographic diversification, 26 consecutive years of dividend increases, 3.6% yield above sector average, and strong balance sheet support income sustainability."
       }
     ]
   },
   {
-    "id": "d0d451d568e70f32c8d1ab88c4484007014b1ee2b0eee69dfa0807a3889480f7",
+    "id": "8b422a3e9aa6d924565c94051f53beff74f097407edaeac12741b08a73af194a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "The Williams Companies (WMB) Up 5.2% Since Last Earnings Report: Can It Continue?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T15:30:12Z",
+    "article_url": "https://www.zacks.com/stock/news/2983860/the-williams-companies-wmb-up-5-2-since-last-earnings-report-can-it-continue?cid=CS-ZC-FT-realtime_blog-2983860",
+    "tickers": [
+      "WMB",
+      "KMI"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default272.jpg",
+    "description": "Williams Companies reported Q2 2026 earnings that missed estimates with adjusted EPS of 50 cents versus 52 cents expected, though revenues increased 9.8% year-over-year. The company raised 2026 guidance and announced a $5.5 billion acquisition of Momentum Midstream to expand its natural gas infrastructure. Despite a 5.2% stock gain since earnings, analyst estimates have trended downward, and the stock received a Zacks Rank #3 (Hold) rating with an F VGM Score.",
+    "keywords": [
+      "earnings miss",
+      "guidance raised",
+      "acquisition",
+      "natural gas infrastructure",
+      "estimate revisions downward",
+      "hold rating"
+    ],
+    "insights": [
+      {
+        "ticker": "WMB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: while the company raised 2026 guidance and announced a strategic $5.5 billion acquisition to strengthen its position, Q2 earnings missed consensus estimates and post-earnings estimate revisions have trended downward. The Zacks Rank #3 (Hold) and F VGM Score suggest in-line returns expected."
+      },
+      {
+        "ticker": "KMI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Peer company in the same industry showing modest 2.3% gain over the past month with stable estimates. Reported strong revenue growth of 10.8% year-over-year and improved EPS, but also carries a Zacks Rank #3 (Hold) rating, indicating expected in-line performance."
+      }
+    ]
+  },
+  {
+    "id": "3cfb0074619fdcc143c52e501eeaa26dd6ff0924195cf85a9a486306d25e9091",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Energy ETFs: MLPX Delivers More Income, Lower Fees",
-    "author": "Jake Lerch",
-    "published_utc": "2026-06-03T15:07:39Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/06/03/energy-etfs-mlpx-delivers-more-income-lower-fees/?source=iedfolrf0000001",
+    "title": "Big Oil vs. Midstream: Which Side of the Barrel Pays Better Right Now?",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-09-02T09:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/02/big-oil-vs-midstream-which-side-of-the-barrel-pays/?source=iedfolrf0000001",
     "tickers": [
-      "MLPX",
-      "NLR",
-      "TRP",
+      "CVX",
+      "EPD",
       "ENB",
       "WMB",
-      "CEG",
-      "CCJ",
-      "BWXT",
-      "KMI",
-      "EPD",
-      "ET",
-      "ETpI"
+      "KMI"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe2a7a839652ce1e4b5e887767e5794b4ba7e66f4-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "A comparison of two energy sector ETFs reveals distinct investment strategies: MLPX (Global X - MLP & Energy Infrastructure ETF) offers higher dividend yield (4.13%) and lower fees (0.45%), making it ideal for income-focused investors, while NLR (VanEck Uranium and Nuclear ETF) has delivered superior long-term growth (146% total return over 5 years) but with higher volatility and lower dividend yield (2.29%).",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883517%2Fgettyimages-1457198372-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "Energy stocks offer attractive dividend yields, with midstream companies currently outpaying major oil producers. While ExxonMobil and Chevron provide solid yields around 2.5-3.5% backed by decades of dividend growth, midstream companies like Enterprise Products Partners and Enbridge offer higher yields of 5.5-5.8%, though with added tax complexity. Both sectors have strong growth prospects through major capital projects and strategic expansions.",
     "keywords": [
-      "energy ETFs",
       "dividend yield",
-      "expense ratio",
-      "midstream infrastructure",
-      "nuclear energy",
-      "master limited partnerships",
-      "portfolio comparison"
+      "energy sector",
+      "midstream companies",
+      "oil stocks",
+      "dividend growth",
+      "pipeline infrastructure",
+      "master limited partnerships"
     ],
     "insights": [
       {
-        "ticker": "MLPX",
+        "ticker": "CVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted for lower expense ratio (0.45%), significantly higher dividend yield (4.13%), lower volatility (beta 0.58), and smaller maximum drawdown (19.70%), making it attractive for income-focused investors seeking stable returns."
+        "sentiment_reasoning": "39-year dividend increase track record, expects 10%+ annual free cash flow growth through 2030, strategic expansion into Iraq"
       },
       {
-        "ticker": "NLR",
+        "ticker": "EPD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Praised for superior long-term performance with 146% total return over 5 years (19.7% CAGR) and strong 1-year return (40.50%), appealing to growth-oriented investors despite higher volatility and lower dividend yield."
-      },
-      {
-        "ticker": "TRP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in MLPX (8.54% position) without specific performance commentary; included as part of the fund's midstream infrastructure portfolio."
+        "sentiment_reasoning": "Highest yield at 5.8%, 28-year consecutive distribution increases, $6.5 billion in major capital projects under construction through early 2029"
       },
       {
         "ticker": "ENB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in MLPX (8.50% position) representing the fund's focus on energy infrastructure companies without individual performance assessment."
+        "sentiment": "positive",
+        "sentiment_reasoning": "31-year dividend growth streak, 5.5% yield, $29.6 billion in secured projects through early 2030s, recent strategic acquisitions and private equity partnerships"
       },
       {
         "ticker": "WMB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a top MLPX holding (8.03%) as part of the midstream energy infrastructure focus without specific sentiment commentary."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Top holding in NLR (8.07%) representing the nuclear energy subsector without individual performance evaluation."
-      },
-      {
-        "ticker": "CCJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Major NLR holding (8.07%) in the uranium mining sector without specific performance commentary."
-      },
-      {
-        "ticker": "BWXT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as NLR holding (6.46%) supporting nuclear technology exposure without individual assessment."
+        "sentiment_reasoning": "Mentioned as midstream company with lower yield (2.8%) comparable to big oil, no specific growth initiatives highlighted"
       },
       {
         "ticker": "KMI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as top MLPX holding representing midstream energy infrastructure without specific performance commentary."
-      },
-      {
-        "ticker": "EPD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as major MLPX holding in midstream energy sector without individual sentiment assessment."
-      },
+        "sentiment_reasoning": "Mentioned as midstream company with 3.7% yield, no specific growth initiatives or concerns highlighted"
+      }
+    ]
+  },
+  {
+    "id": "c13557e083df5f12afb59665bb07b1cc36e2f329571f6ba606e61062fa18318b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Energy Transfer Just Raised Its 2026 Guidance. Is the Stock Still a Buy?",
+    "author": "James Halley",
+    "published_utc": "2026-08-16T14:23:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/16/energy-transfer-just-raised-its-2026-guidance-is/?source=iedfolrf0000001",
+    "tickers": [
+      "ET",
+      "ETpI",
+      "ENB",
+      "EPD",
+      "EP",
+      "EPpC",
+      "KMI",
+      "META",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882363%2Foil-pipeline-refinery-energy-industry.jpg&w=1200&op=resize",
+    "description": "Energy Transfer raised its 2026 EBITDA guidance by $500 million to $18.8-19.1 billion following strong Q2 results, with distributable cash flow up 32% year-over-year. The company continues expanding infrastructure for AI data centers and natural gas exports, raised its dividend for the 19th consecutive quarter, and trades at a modest 9.7x EV/EBITDA multiple. However, a 29% decline in natural gas prices since January poses a risk to volume growth if sustained.",
+    "keywords": [
+      "midstream energy",
+      "natural gas infrastructure",
+      "AI data centers",
+      "dividend growth",
+      "EBITDA guidance",
+      "pipeline expansion",
+      "distributable cash flow"
+    ],
+    "insights": [
       {
         "ticker": "ET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as MLPX holding in midstream energy infrastructure without specific performance evaluation."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company raised full-year EBITDA guidance by $500 million, reported 32% YoY growth in distributable cash flow, raised dividend for 19th consecutive quarter, and trades at attractive valuation (9.7x EV/EBITDA) with strong positioning in AI data center and natural gas export markets."
       },
       {
         "ticker": "ETpI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company raised full-year EBITDA guidance by $500 million, reported 32% YoY growth in distributable cash flow, raised dividend for 19th consecutive quarter, and trades at attractive valuation (9.7x EV/EBITDA) with strong positioning in AI data center and natural gas export markets."
+      },
+      {
+        "ticker": "ENB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as MLPX holding in midstream energy infrastructure without specific performance evaluation."
+        "sentiment_reasoning": "Mentioned as a peer comparison for valuation and dividend yield analysis; no specific news or performance data provided about the company itself."
+      },
+      {
+        "ticker": "EPD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison for valuation and dividend yield analysis; no specific news or performance data provided about the company itself."
+      },
+      {
+        "ticker": "EP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison for valuation and dividend yield analysis; no specific news or performance data provided about the company itself."
+      },
+      {
+        "ticker": "EPpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison for valuation and dividend yield analysis; no specific news or performance data provided about the company itself."
+      },
+      {
+        "ticker": "KMI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison for valuation and dividend yield analysis; no specific news or performance data provided about the company itself."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer with long-term power agreements; no specific sentiment implied about the company."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer with long-term power agreements; no specific sentiment implied about the company."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer with long-term power agreements; no specific sentiment implied about the company."
+      }
+    ]
+  },
+  {
+    "id": "60afd69e69909e10ccdfd98644e4034dd6b3effe028e7c8a8e160ed4134eb60f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Kinder Morgan Just Locked In a $5 Billion Pipeline Deal. Here's What It Means for KMI's Dividend.",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-08-12T13:08:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/12/kinder-morgan-just-locked-in-a-5-billion-pipeline/?source=iedfolrf0000001",
+    "tickers": [
+      "KMI",
+      "PSX",
+      "DINO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882946%2Fa-person-in-a-hard-hat-looking-through-an-empty-pipeline.jpg&w=1200&op=resize",
+    "description": "Kinder Morgan, Phillips 66, and HF Sinclair finalized a joint venture to build the $5 billion Western Gateway Pipeline System, a 1,300-mile pipeline expected to be completed in 2029. Kinder Morgan will own 35.1% of the project and contribute $250 million in cash plus $1.5 billion in existing pipeline assets. The project is backed by long-term take-or-pay contracts that will generate stable cash flows to support the company's dividend growth trajectory.",
+    "keywords": [
+      "pipeline infrastructure",
+      "joint venture",
+      "dividend growth",
+      "take-or-pay contracts",
+      "refined petroleum products",
+      "cash flow generation",
+      "Western Gateway Pipeline System"
+    ],
+    "insights": [
+      {
+        "ticker": "KMI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The $5 billion Western Gateway project provides Kinder Morgan with incremental stable cash flows from long-term contracts, supporting its nine-year dividend growth streak and future dividend increases. The modest $250 million investment relative to expected returns enhances shareholder value."
+      },
+      {
+        "ticker": "PSX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "As the majority owner (49.9%) of the joint venture, Phillips 66 will benefit from a major infrastructure project with long-term contracted cash flows. The company's $2.5 billion investment positions it as the lead partner in this strategic pipeline expansion."
+      },
+      {
+        "ticker": "DINO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "HF Sinclair is a minority partner contributing $750 million to the joint venture. While the project provides exposure to stable pipeline cash flows, the company's limited ownership stake (approximately 15.1%) results in a more neutral impact compared to the other partners."
       }
     ]
   }

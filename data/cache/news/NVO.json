@@ -1,209 +1,290 @@
 [
   {
-    "id": "7348271beb8b2057a7496f7197e9e9ff6150183581566d8cf9b306517eb609c8",
+    "id": "8d73f4000a94c8403beaf31219aaa71e0617a5cd081f8e9499d84e991bbac467",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Prediction: Eli Lilly Will Be Worth $2 Trillion by 2031",
-    "author": "Prosper Junior Bakiny",
-    "published_utc": "2026-08-01T20:17:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/01/prediction-eli-lilly-will-be-worth-2-trillion-by-2/?source=iedfolrf0000001",
+    "title": "Oligonucleotide Therapeutics Market Outlook 2026-2035 - Featuring Profiles of Alnylam Pharmaceuticals, Ionis Pharmaceuticals, and Sarepta Therapeutics",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-15T09:58:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3361815/28124/en/oligonucleotide-therapeutics-market-outlook-2026-2035-featuring-profiles-of-alnylam-pharmaceuticals-ionis-pharmaceuticals-and-sarepta-therapeutics.html",
     "tickers": [
-      "LLY",
+      "ALNY",
+      "IONS",
+      "SRPT",
+      "BIIB",
+      "NVS",
+      "AZN",
       "NVO",
-      "JNJ"
+      "SNY",
+      "ALPMY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881396%2Feli-lilly-logo.png&w=1200&op=resize",
-    "description": "Eli Lilly is positioned to become the first healthcare company to reach a $2 trillion market cap by 2031, requiring a 12.7% compound annual growth rate. The company's GLP-1 drug portfolio, led by tirzepatide (Mounjaro/Zepbound), is expected to drive strong revenue growth despite increasing competition. Additional growth catalysts include new product launches like Foundayo, pipeline candidates such as retatrutide, and AI-driven cost efficiencies across the organization.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global oligonucleotide therapeutics market is projected to grow from USD 7.7 billion in 2025 to USD 72.1 billion by 2035, expanding at a 23.4% CAGR. Growth is driven by advances in RNA-based medicine, targeted delivery technologies, expanding applications beyond rare diseases into chronic and metabolic conditions, and increasing regulatory approvals. Antisense oligonucleotides lead the market at 39.9% share, while subcutaneous administration dominates at 56.4%. North America commands 57.9% market share.",
     "keywords": [
-      "GLP-1 drugs",
-      "tirzepatide",
-      "market cap",
-      "pharmaceutical growth",
-      "weight loss drugs",
-      "diabetes treatment",
-      "pipeline expansion",
-      "artificial intelligence",
-      "valuation"
+      "oligonucleotide therapeutics",
+      "RNA-based medicine",
+      "antisense oligonucleotides",
+      "siRNA",
+      "targeted drug delivery",
+      "rare genetic diseases",
+      "market growth forecast",
+      "biopharmaceutical innovation"
     ],
     "insights": [
       {
-        "ticker": "LLY",
+        "ticker": "ALNY",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article presents a bullish case for Eli Lilly, highlighting strong revenue growth prospects driven by its dominant GLP-1 portfolio, promising pipeline candidates, successful recent drug approvals (Kisunla, Omvoh), and AI-driven productivity gains. The company's ability to achieve 12.7% CAGR to reach $2 trillion valuation is deemed achievable, and the current 34x forward earnings multiple is justified given superior growth rates compared to peers."
+        "sentiment_reasoning": "Listed as a leading company in the expanding oligonucleotide therapeutics market with strong growth projections (23.4% CAGR). The company is positioned to benefit from increasing regulatory approvals, expanding applications, and rising investment in RNA platforms."
+      },
+      {
+        "ticker": "IONS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a major player in the oligonucleotide therapeutics market. The company stands to benefit from the market's projected growth and expansion into chronic diseases, with antisense oligonucleotides (their core focus) representing 39.9% of the market."
+      },
+      {
+        "ticker": "SRPT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured as a leading company in the growing oligonucleotide therapeutics sector. The company is well-positioned to capitalize on market expansion, improved delivery technologies, and broader therapeutic applications beyond rare diseases."
+      },
+      {
+        "ticker": "BIIB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among leading market participants investing in RNA platforms and advanced delivery systems. The company benefits from the market's strong growth trajectory and expansion into neurological and chronic disease applications."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a major competitor in the oligonucleotide therapeutics market with investments in proprietary RNA platforms and precision medicine strategies, positioned to benefit from sustained market growth."
+      },
+      {
+        "ticker": "AZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among leading companies in the expanding oligonucleotide therapeutics market, investing in advanced delivery systems and manufacturing capabilities to support future commercial demand."
       },
       {
         "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Novo Nordisk is mentioned only in a 'Read Next' section headline suggesting it has underperformed relative to Eli Lilly in the GLP-1 market, but no substantive analysis is provided in the main article content."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a key player in the oligonucleotide therapeutics market, positioned to benefit from expansion into metabolic and chronic disease applications with favorable market growth projections."
       },
       {
-        "ticker": "JNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Johnson & Johnson is mentioned only in a 'Read Next' section headline for a comparative analysis article, but receives no analysis or commentary in the main article content."
+        "ticker": "SNY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among leading market participants investing in RNA platforms and manufacturing capabilities, well-positioned to capitalize on the market's projected 23.4% CAGR growth through 2035."
+      },
+      {
+        "ticker": "ALPMY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among major market participants investing in proprietary RNA platforms and precision medicine strategies to support growth in the expanding oligonucleotide therapeutics market."
       }
     ]
   },
   {
-    "id": "26d3da355d8758a9f8e6bbeb371d2ba1f4961b76be0f04d7c242e7c78bcc5d6a",
+    "id": "c8bcafde69a67de9c5fd3d6783f6c7b05c45654d78176a777b05c7640e8122a0",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Eli Lilly Stock Has Skyrocketed. Novo Nordisk Has Crashed. 1 Number Explains Why They're Not Even Close Anymore.",
-    "author": "Matthew Benjamin",
-    "published_utc": "2026-07-31T17:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/31/eli-lilly-stock-has-skyrocketed-novo-nordisk-has/?source=iedfolrf0000001",
+    "title": "Set Yourself Up for a Strong 2027: 2 Pharmaceutical Stocks to Buy in September",
+    "author": "James Brumley",
+    "published_utc": "2026-09-11T09:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/11/set-up-strong-2027-pharmaceutical-stock-buy/?source=iedfolrf0000001",
     "tickers": [
+      "CRSP",
+      "VKTX",
+      "VRTX",
       "LLY",
       "NVO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881047%2Fgettyimages-614124732.jpg&w=1200&op=resize",
-    "description": "Eli Lilly has significantly outperformed Novo Nordisk in the booming GLP-1 obesity drug market, with Lilly commanding 60% market share compared to Novo's smaller portion of the combined 87% duopoly. While the obesity drug market is projected to grow from $66 billion in 2025 to $120 billion by 2030, Lilly's stock has surged 58% over 52 weeks, whereas Novo has plummeted 62% since July 2024. However, Novo's recent launch of a pill-form obesity drug could shift the competitive landscape.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885449%2Ftracking-investments-wealth-family-planning.jpg&w=1200&op=resize",
+    "description": "The article recommends two pharmaceutical stocks positioned for growth in 2027. CRISPR Therapeutics' Casgevy gene-editing treatment is generating accelerating revenue (78% YoY growth in Q2) and is projected to expand from $40M to $156M in 2027. Viking Therapeutics is entering the GLP-1 weight-loss market with VK2735, offering a monthly injection alternative to weekly competitors and planning oral trials by year-end, with analysts projecting 175% upside potential.",
     "keywords": [
-      "GLP-1 drugs",
+      "pharmaceutical stocks",
+      "gene editing",
+      "GLP-1 weight-loss drugs",
+      "FDA approval",
+      "clinical trials",
+      "revenue growth",
+      "2027 outlook"
+    ],
+    "insights": [
+      {
+        "ticker": "CRSP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Casgevy revenue is accelerating (78% YoY growth in Q2), with analyst projections showing significant revenue expansion from $40M to $156M in 2027. The company is approaching a major inflection point as the treatment pipeline matures."
+      },
+      {
+        "ticker": "VKTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "VK2735 shows strong clinical trial results with differentiated monthly injection format and oral formulation in development. Nearly all analysts rate it a strong buy with consensus 12-month price target 175% above current price, indicating substantial upside potential."
+      },
+      {
+        "ticker": "VRTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as marketing partner for CRISPR's Casgevy with $76M in Q2 revenue facilitation, but article focuses on CRISPR's growth trajectory rather than Vertex's prospects."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor in GLP-1 weight-loss market with Zepbound, but no specific analysis or sentiment provided in the article."
+      },
+      {
+        "ticker": "NVO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor in GLP-1 weight-loss market with Wegovy, but no specific analysis or sentiment provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "e84766fb031c7c949ed6686802d1e3684674ad5772db645220609ee4b9c25ef7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Pfizer Stock Rises Almost 9% in 3 Months: Time to Buy, Hold or Exit?",
+    "author": "Na",
+    "published_utc": "2026-09-09T12:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986812/pfizer-stock-rises-almost-9-in-3-months-time-to-buy-hold-or-exit?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986812",
+    "tickers": [
+      "PFE",
+      "BNTX",
+      "LLY",
+      "NVO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/89/447.jpg",
+    "description": "Pfizer's stock has risen 8.6% in three months as investors gain confidence in the company's ability to offset declining COVID-19 product sales with growth from non-COVID products, which grew 18% operationally in Q2. The company is pursuing ambitious pipelines in oncology and obesity, with plans for 10 Phase III studies for berobenatide targeting first approvals in 2028. However, Pfizer faces headwinds from a $1.1B revenue impact from patent expirations and expects 2026 revenue to decline slightly to $60.5-$62.5 billion. Despite these challenges, the stock trades at an attractive valuation with a 6.2% dividend yield, and analysts maintain a Hold rating with expectations for high single-digit revenue growth from 2029 onward.",
+    "keywords": [
+      "Pfizer",
+      "COVID-19 products decline",
+      "non-COVID growth",
+      "oncology portfolio",
       "obesity market",
-      "market share",
-      "Zepbound",
-      "Wegovy",
-      "pharmaceutical competition",
-      "weight loss drugs"
+      "berobenatide",
+      "patent cliff",
+      "pharmaceutical pipeline",
+      "dividend yield",
+      "2026 guidance"
     ],
     "insights": [
+      {
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Pfizer shows mixed signals: positive momentum from non-COVID product growth (18% operational growth in Q2), strong pipeline development, and attractive valuation with 6.2% dividend yield support a positive outlook. However, this is offset by declining COVID revenues, upcoming patent cliff ($1.1B impact in 2026), flat 2026 guidance, and lagging position in the obesity market behind competitors. The Hold rating reflects this balance."
+      },
+      {
+        "ticker": "BNTX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "BioNTech's partnership with Pfizer on Comirnaty is experiencing significant revenue decline as COVID-19 normalization continues, with sales expected to drop to approximately $4 billion in 2026 from $6.7 billion in 2025."
+      },
       {
         "ticker": "LLY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dominant 60% market share in the rapidly growing obesity drug segment, strong stock performance (+58% over 52 weeks, +13.4% YTD), and leading product efficacy with Zepbound driving market leadership."
+        "sentiment_reasoning": "Eli Lilly is mentioned as a leader in the obesity market, ahead of Pfizer in this high-growth therapeutic area, indicating competitive strength and market position."
       },
       {
         "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Despite significant recent stock decline (-62% since July 2024, -5% YTD), the company has positive momentum from its newly launched pill-form Wegovy with strong early uptake and revised higher sales forecasts, suggesting potential competitive recovery."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Novo Nordisk is identified as a leader in the obesity market alongside Eli Lilly, demonstrating strong competitive positioning in this growing therapeutic segment."
       }
     ]
   },
   {
-    "id": "dca36816e74531a7f03d2553ed0ff508742c5cab535e7e248a900a997eb2ba63",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Novo Nordisk provides update on the ZEUS phase 3 trial in people with ASCVD, CKD and inflammation",
-    "author": "Na",
-    "published_utc": "2026-07-31T11:21:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/31/3336733/0/en/Novo-Nordisk-provides-update-on-the-ZEUS-phase-3-trial-in-people-with-ASCVD-CKD-and-inflammation.html",
-    "tickers": [
-      "NVO"
-    ],
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/18c2fb08-e2c1-4a52-90dd-5c0f18213eb6",
-    "description": "Novo Nordisk announced that ziltivekimab failed to meet its primary endpoint in the ZEUS phase 3 trial, showing no significant reduction in major adverse cardiovascular events (MACE) despite achieving the expected biological effect of IL-6 pathway inhibition. The drug demonstrated a hazard ratio of 0.99 versus placebo in patients with atherosclerotic cardiovascular disease, chronic kidney disease, and inflammation. The company will take a non-cash impairment charge in Q3 2026 but maintains its 2026 profit outlook and plans to continue two additional cardiovascular trials (HERMES and ARTEMIS) expected to report in H1 2027.",
-    "keywords": [
-      "ziltivekimab",
-      "ZEUS trial",
-      "cardiovascular outcomes",
-      "IL-6 inhibition",
-      "MACE",
-      "clinical trial failure",
-      "drug development",
-      "impairment charge"
-    ],
-    "insights": [
-      {
-        "ticker": "NVO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The company's lead cardiovascular drug candidate failed to demonstrate efficacy in reducing major adverse cardiovascular events despite achieving biological target engagement. This represents a significant clinical and commercial setback, resulting in a non-cash impairment charge. However, the negative impact is partially mitigated by the company's maintained 2026 profit outlook and commitment to continue other cardiovascular trials."
-      }
-    ]
-  },
-  {
-    "id": "88c55f650e3a1192afbfd3478507d7f54a95aead9811d2bcf5ddd12edcb3c728",
+    "id": "1cf7c8c0e93b7a5b1dbce55d62332d5676a20c442990cde1addc0ab5bd8cf8f4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
-    "author": "Alex Carchidi",
-    "published_utc": "2026-07-29T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/watch-out-eli-lilly-and-novo-nordisk-amgens-monthl/?source=iedfolrf0000001",
+    "title": "Is Novo Nordisk Stock Still Too Cheap for Investors to Ignore?",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-09-08T16:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/is-novo-nordisk-stock-still-too-cheap-for-investor/?source=iedfolrf0000001",
     "tickers": [
-      "AMGN",
-      "LLY",
-      "NVO"
+      "NVO",
+      "LLY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880088%2Famgen.png&w=1200&op=resize",
-    "description": "Amgen is developing MariTide, a monthly weight loss injection, to compete with Eli Lilly's and Novo Nordisk's weekly GLP-1 drugs. While the monthly dosing offers convenience, MariTide's phase 2 efficacy data don't suggest it will outperform competitors. Eli Lilly and Novo Nordisk are advancing newer therapies including oral and combination drugs, positioning them ahead of Amgen in the competitive weight loss market.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885995%2F25_02_28-people-in-business-attire-leaving-the-starting-line-on-a-track-_mf-dload-gettyimages-89285817-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "Novo Nordisk's stock has declined 66% from its 2024 high and now trades at attractive valuations compared to historical averages. While the company lost its GLP-1 weight-loss drug market lead to Eli Lilly, it is attempting a comeback through a new GLP-1 pill and a volume-driven pricing strategy. Despite significant uncertainty around its competitive position and business transition, the stock's low valuation and 3.7% dividend yield may appeal to value and dividend investors.",
     "keywords": [
-      "weight loss drugs",
-      "GLP-1 agonists",
-      "MariTide",
-      "obesity treatment",
+      "GLP-1 drugs",
+      "weight-loss medications",
       "pharmaceutical competition",
-      "phase 3 trials",
-      "drug efficacy"
+      "stock valuation",
+      "market share",
+      "dividend yield",
+      "Wegovy",
+      "pricing strategy"
     ],
     "insights": [
       {
-        "ticker": "AMGN",
+        "ticker": "NVO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Amgen has a potential convenience advantage with monthly dosing, the article emphasizes that MariTide lacks evidence of superior efficacy or tolerability compared to competitors, and major trial results won't arrive until 2027, making it unlikely to capture significant market share before competitors launch superior alternatives."
+        "sentiment_reasoning": "Stock is attractively valued with low P/E and P/S ratios plus a solid dividend yield, but faces significant uncertainty regarding its ability to regain market share from Eli Lilly and the success of its volume-driven business model transition. The company has both positive valuation metrics and competitive headwinds."
       },
       {
         "ticker": "LLY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Eli Lilly is positioned favorably with its oral drug Foundayo already approved and multiple pipeline candidates. The article suggests oral formulations are preferable to injections, and the company doesn't need to fear Amgen's competition in the near term."
-      },
-      {
-        "ticker": "NVO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Novo Nordisk has filed for approval of CagriSema and maintains a strong market position with multiple weight loss candidates in development. The article indicates the company is well-positioned and doesn't face significant near-term threat from Amgen."
+        "sentiment_reasoning": "Eli Lilly has established itself as the industry leader in the GLP-1 weight-loss drug market, successfully taking market share from first-mover Novo Nordisk and recently introducing its own GLP-1 pill, demonstrating strong competitive positioning."
       }
     ]
   },
   {
-    "id": "311486ca5147c8c548a379f8c334d6b91b3530763cd4037024f64f28dab5e0a1",
+    "id": "6292522e0bc0f767625177dd8863a7c244d5e9482e6e17917021857b07f2630b",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Novo Nordisk A/S - share repurchase programme",
+    "title": "Novo Nordisk's Semaglutide Meets Goal in Pediatric Obesity Study",
     "author": "Na",
-    "published_utc": "2026-07-27T10:48:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333356/0/en/Novo-Nordisk-A-S-share-repurchase-programme.html",
+    "published_utc": "2026-09-08T13:23:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986260/novo-nordisk-s-semaglutide-meets-goal-in-pediatric-obesity-study?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-2986260",
     "tickers": [
+      "NVO",
       "LLY",
-      "NVO"
+      "VKTX",
+      "GPCR"
     ],
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/18c2fb08-e2c1-4a52-90dd-5c0f18213eb6",
-    "description": "Novo Nordisk continues its DKK 15 billion share repurchase programme, having repurchased 25.9 million B shares worth DKK 7.16 billion as of 24 July 2026. The company has also filed a false advertising lawsuit against Eli Lilly over misleading GLP-1 medicine advertising campaigns.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/de/2471.jpg",
+    "description": "Novo Nordisk announced positive phase III STEP Young study results showing semaglutide reduced BMI in children aged 6-12 with obesity, with 40.4% no longer classified as obese after 68 weeks. However, the company faces mounting competitive pressure from Eli Lilly's superior weight-loss drugs and emerging biotech competitors in the GLP-1 obesity treatment market.",
     "keywords": [
-      "share repurchase",
-      "treasury shares",
-      "GLP-1 medicines",
-      "false advertising lawsuit",
-      "Eli Lilly",
-      "regulatory compliance"
+      "semaglutide",
+      "obesity treatment",
+      "GLP-1 receptor agonist",
+      "pediatric study",
+      "weight management",
+      "competitive pressure",
+      "clinical trial"
     ],
     "insights": [
       {
-        "ticker": "LLY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Eli Lilly faces a false advertising lawsuit from Novo Nordisk regarding GLP-1 medicine comparisons, indicating regulatory and legal challenges that could impact brand reputation and market position in the competitive GLP-1 segment."
-      },
-      {
         "ticker": "NVO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The share repurchase programme is a routine capital allocation activity indicating confidence in valuation, but the legal action against Eli Lilly suggests competitive pressure and potential reputational concerns in the GLP-1 market. These factors balance to a neutral outlook."
+        "sentiment_reasoning": "Positive clinical trial results for semaglutide in children support pipeline strength, but stock performance lags industry (+16.4% vs -5.3% YTD) and intensifying competition from Eli Lilly and smaller biotechs limits upside potential."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mounjaro and Zepbound demonstrate superior weight-loss efficacy compared to Novo Nordisk's semaglutide, gaining market share steadily. Recent FDA approval of oral GLP-1 drug Foundayo strengthens competitive position in obesity market."
+      },
+      {
+        "ticker": "VKTX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Dual GIPR/GLP-1 receptor agonist VK2735 showing promise in obesity treatment development with plans to advance oral formulation to phase III in Q4 2026, positioning as emerging competitor in growing market."
+      },
+      {
+        "ticker": "GPCR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Phase II ACCESS program demonstrated significant weight loss with oral GLP-1 RA aleniglipron across all doses, with late-stage ACCOMPLISH program now enrolling patients for chronic weight management."
       }
     ]
   }

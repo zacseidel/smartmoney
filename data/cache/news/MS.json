@@ -1,18 +1,21 @@
 [
   {
-    "id": "fff115edc215f4d8da4e5b7efbb8ff9731761f41292db99641cc6cb5361c5794",
+    "id": "8beb8dbd3cd1065582d4bb89224e2dd76e6c74252bad9425347903f296c5754a",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "47 Analysts Cover Apple. Their Average Price Target Is Now Below the Stock Price, One Week Before Earnings.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-07-24T01:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/23/47-analysts-cover-apple-their-average-price-target/?source=iedfolrf0000001",
+    "title": "Goldman Stock Gains 38.6% in a Year: Buy Now or Wait for a Pullback?",
+    "author": "Na",
+    "published_utc": "2026-09-08T15:33:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986611/goldman-stock-gains-38-6-in-a-year-buy-now-or-wait-for-a-pullback?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986611",
     "tickers": [
-      "AAPL",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
       "MS",
       "MSpA",
       "MSpE",
@@ -22,190 +25,7 @@
       "MSpL",
       "MSpO",
       "MSpP",
-      "MSpQ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880388%2Fapple-store-crowd-overhead-product-tables.jpg&w=1200&op=resize",
-    "description": "Apple's average analyst price target of $319 has fallen below its current stock price of ~$320, an unusual situation for a major tech company. While 47 analysts still rate it a buy overall, the flat consensus suggests the stock's valuation multiple has already expanded significantly. With the company trading at 40x earnings and sitting 4% from record highs, the upcoming July 30 earnings report carries heightened importance, as good news may only confirm what's already priced in rather than drive further gains.",
-    "keywords": [
-      "Apple earnings",
-      "analyst price targets",
-      "valuation",
-      "stock momentum",
-      "earnings report",
-      "iPhone revenue",
-      "services business",
-      "device-leasing program"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While analysts maintain buy ratings and the business fundamentals are strong (17% revenue growth, 22% EPS growth), the average price target sitting below current price suggests limited upside. The stock's 59% gain from 52-week lows and 40x earnings valuation indicate most of the improvement is already priced in. The upcoming earnings report is critical, as the stock needs strong execution to justify current valuations rather than relying on multiple expansion."
-      },
-      {
-        "ticker": "MS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      },
-      {
-        "ticker": "MSpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Morgan Stanley recently lifted its Apple price target to $364, demonstrating continued bullish sentiment and confidence in the company's prospects despite the broader analyst consensus showing caution."
-      }
-    ]
-  },
-  {
-    "id": "3f6a72ff2ab9d8f935aee04aba7b700b05eca3c93949c6fad18a74c8745a2365",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Are SpaceX Bulls Deluding Themselves? This Wall Street Analyst Might Convince You So",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-07-23T01:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/22/are-spacex-bulls-deluding-themselves-this-wall-str/?source=iedfolrf0000001",
-    "tickers": [
-      "SPCX",
-      "AMZN",
-      "MS",
-      "MSpA",
-      "MSpE",
-      "MSpF",
-      "MSpI",
-      "MSpK",
-      "MSpL",
-      "MSpO",
-      "MSpP",
-      "MSpQ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880181%2Fcolossus-2-data-center-spacex.jpg&w=1200&op=resize",
-    "description": "SpaceX stock has fallen nearly 50% from its peak since IPO, trading below its $135 offering price. While Wall Street analysts issued bullish price targets averaging $278, Morgan Stanley forecasts no positive free cash flow until 2035 and estimates the company will need approximately $84 billion annually ($672 billion total) in external capital through 2034. The analysis suggests SpaceX's current $1.5 trillion valuation is difficult to justify given the decade-long cash burn projection, and the stock may continue declining as investors realize the company's ambitious goals remain decades away from profitability.",
-    "keywords": [
-      "SpaceX IPO",
-      "cash flow",
-      "valuation",
-      "analyst price targets",
-      "capital requirements",
-      "stock decline"
-    ],
-    "insights": [
-      {
-        "ticker": "SPCX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has declined 47% from its high and trades below IPO price. Morgan Stanley's base-case forecast shows no positive free cash flow until 2035 with massive capital needs ($672 billion over 8 years). Current valuation of $1.5 trillion appears unjustifiable using conventional DCF models given the extended cash burn period and slower growth (15% revenue growth) compared to Amazon at similar stage."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a historical comparison point to contextualize SpaceX's investment thesis. While Amazon also delayed positive free cash flow, it went public much earlier in its lifecycle (3 years vs. 24 years for SpaceX) and had triple-digit growth rates, making it fundamentally different from SpaceX's current situation."
-      },
-      {
-        "ticker": "MS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      },
-      {
-        "ticker": "MSpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the source of the cautious analyst forecast on SpaceX. Morgan Stanley issued a 'buy' recommendation but provided the most realistic assessment of SpaceX's cash flow challenges, serving as a counterweight to more exuberant Wall Street price targets."
-      }
-    ]
-  },
-  {
-    "id": "4c4cf463b945e7afdde5de02a0bd55c2154e7b9867f748bea5c18a501807281e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "What Bank Earnings Just Revealed About the Health of the American Consumer",
-    "author": "Courtney Carlsen",
-    "published_utc": "2026-07-22T10:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/22/what-bank-earnings-just-revealed-about-the-health/?source=iedfolrf0000001",
-    "tickers": [
+      "MSpQ",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -214,7 +34,151 @@
       "JPMpK",
       "JPMpL",
       "JPMpM",
-      "VYLD",
+      "VYLD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/27/834.jpg",
+    "description": "Goldman Sachs (GS) has outperformed its industry peers with a 38.6% gain over the past year, driven by a 52% rise in investment banking fees, strong M&A activity, and ambitious AI transformation initiatives. The company's strategic streamlining, robust liquidity, and expansion in asset management support continued growth and shareholder returns. Analysts maintain a bullish outlook with upward earnings revisions, though the stock trades at a modest premium to industry peers.",
+    "keywords": [
+      "investment banking",
+      "M&A activity",
+      "artificial intelligence",
+      "ETF expansion",
+      "capital allocation",
+      "earnings growth",
+      "shareholder returns"
+    ],
+    "insights": [
+      {
+        "ticker": "GS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 52% YoY growth in investment banking fees, record advisory backlog, successful AI transformation initiatives (OneGS 3.0, AlphaAI), strategic acquisitions in ETF space (NEOS Investments, Innovator Capital Management), robust balance sheet with $187B in cash, upward earnings estimate revisions, and Zacks Rank #1 Strong Buy rating support positive outlook."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 52% YoY growth in investment banking fees, record advisory backlog, successful AI transformation initiatives (OneGS 3.0, AlphaAI), strategic acquisitions in ETF space (NEOS Investments, Innovator Capital Management), robust balance sheet with $187B in cash, upward earnings estimate revisions, and Zacks Rank #1 Strong Buy rating support positive outlook."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 52% YoY growth in investment banking fees, record advisory backlog, successful AI transformation initiatives (OneGS 3.0, AlphaAI), strategic acquisitions in ETF space (NEOS Investments, Innovator Capital Management), robust balance sheet with $187B in cash, upward earnings estimate revisions, and Zacks Rank #1 Strong Buy rating support positive outlook."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 52% YoY growth in investment banking fees, record advisory backlog, successful AI transformation initiatives (OneGS 3.0, AlphaAI), strategic acquisitions in ETF space (NEOS Investments, Innovator Capital Management), robust balance sheet with $187B in cash, upward earnings estimate revisions, and Zacks Rank #1 Strong Buy rating support positive outlook."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 46.2% stock gain over the past year, outperforming GS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with 22.6% stock gain over the past year, underperforming both GS and MS, but no specific business developments or analysis provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "cb24d1335c8c1e53a73276958162751c78c78673751770238ecf76063c844004",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Nutanix Stock Ascended in August",
+    "author": "Eric Volkman",
+    "published_utc": "2026-09-08T09:14:02Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/why-nutanix-stock-ascended-in-august/?source=iedfolrf0000001",
+    "tickers": [
+      "NTNX",
       "BAC",
       "BACpB",
       "BACpE",
@@ -240,211 +204,237 @@
       "MSpL",
       "MSpO",
       "MSpP",
-      "MSpQ"
+      "MSpQ",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879624%2Fperson-hands-over-card-at-grocery-checkout-getty.jpg&w=1200&op=resize",
-    "description": "Major banks JPMorgan Chase and Bank of America reported strong Q2 earnings, revealing resilient consumer spending across all income segments. Credit metrics improved significantly, with lower charge-off rates and increased debit/credit card volumes. Banks attribute strength to a stable labor market with ~4.2% unemployment and higher tax refunds, though executives acknowledge some lower-income consumers still face wage stagnation amid inflation.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886591%2Fperson-reacting-joyfully-to-something-on-a-smartphone.jpg&w=1200&op=resize",
+    "description": "Nutanix stock surged over 16% in August following strong fiscal Q4 2026 earnings that beat analyst estimates. The company reported $757M in revenue (16% YoY growth) and $0.60 adjusted EPS versus $0.49 consensus. Despite announcing a 5% workforce reduction earlier in the month, the company provided robust FY2027 guidance with revenue forecasted at $3.18-$3.23B and free cash flow at $850-$950M, prompting multiple analyst price target increases.",
     "keywords": [
-      "bank earnings",
-      "consumer spending",
-      "credit metrics",
-      "K-shaped economy",
-      "labor market",
-      "charge-off rates",
-      "consumer resilience"
+      "earnings beat",
+      "hyperconverged infrastructure",
+      "workforce reduction",
+      "analyst upgrades",
+      "revenue growth",
+      "guidance",
+      "cloud infrastructure"
     ],
     "insights": [
       {
-        "ticker": "AMJB",
+        "ticker": "NTNX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Q2 net charge-off rate improved to 3.34% from 3.47% in Q1; full-year forecast lowered to 3.2%; debit and credit card sales volumes increased 10% year-over-year; CFO reported robust consumer spending across all income segments and credit scores."
+        "sentiment_reasoning": "Strong Q4 earnings significantly exceeded analyst expectations on both revenue and EPS, demonstrated 16% YoY revenue growth, added 3,000+ new customers, provided robust FY2027 guidance, and received multiple analyst price target increases from major financial institutions. Despite workforce reduction headwinds, the company's core business performance and market outlook are compelling."
       },
       {
         "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Credit card charge-off rate declined to 3.55% from 3.82% year-ago; deposit balances and spending showed linked quarter increases; debit and credit card volumes rose 9%; wealth management division saw client balances jump 12% year-over-year to record $4.9 trillion."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       },
       {
         "ticker": "MS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpF",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
       },
       {
         "ticker": "MSpQ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as host of U.S. Financials Conference where JPMorgan executive spoke; no direct earnings data or performance metrics provided in article."
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix; no direct business impact or news related to the firm itself."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as an analyst that raised price targets on Nutanix and as an advertising partner; no direct business impact or news related to the bank itself."
       }
     ]
   },
   {
-    "id": "5767cad5491e5a76618f1dda60e6512ff7030f41938f6835169fa2ca661fc260",
+    "id": "ac40caf97706a635e74a3e60c7e8fa3f9a0210944e11f55e57cfbd9d144e861f",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Dyne Therapeutics Announces Proposed Public Offering of Common Stock",
+    "title": "What's Powering Bank of America's Strong Capital Return Strategy?",
     "author": "Na",
-    "published_utc": "2026-07-21T20:46:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/21/3330993/0/en/Dyne-Therapeutics-Announces-Proposed-Public-Offering-of-Common-Stock.html",
+    "published_utc": "2026-09-07T15:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985984/what-s-powering-bank-of-america-s-strong-capital-return-strategy?cid=CS-ZC-FT-analyst_blog|quick_take-2985984",
     "tickers": [
-      "DYN",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
       "MS",
       "MSpA",
       "MSpE",
@@ -454,100 +444,210 @@
       "MSpL",
       "MSpO",
       "MSpP",
-      "MSpQ",
-      "JEF"
+      "MSpQ"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/2aa597a4-9b5c-4f0c-9ada-c5e06fa7d4de",
-    "description": "Dyne Therapeutics, a clinical-stage neuromuscular disease company, announced a $300 million underwritten public offering of common stock with a 30-day option for underwriters to purchase an additional $45 million. Morgan Stanley, Jefferies, Evercore ISI, LifeSci Capital, and Raymond James are serving as joint book-running managers. The offering is subject to market conditions and SEC approval.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0b/57.jpg",
+    "description": "Bank of America demonstrates strong capacity for shareholder returns through robust earnings generation, healthy CET1 capital ratios, and disciplined balance-sheet management. The bank raised its quarterly dividend 14.3% to 32 cents per share and maintains $17 billion in remaining buyback authorization. Strong Q2 2026 results with $9.1 billion net income and 15% revenue growth support continued capital distributions, though a higher G-SIB surcharge from January 2027 may modestly increase capital requirements.",
     "keywords": [
-      "public offering",
-      "capital raise",
-      "neuromuscular diseases",
-      "DMD",
-      "myotonic dystrophy",
-      "underwritten offering",
-      "common stock"
+      "capital returns",
+      "dividend increase",
+      "share buybacks",
+      "earnings growth",
+      "CET1 ratio",
+      "banking sector",
+      "shareholder returns"
     ],
     "insights": [
       {
-        "ticker": "DYN",
+        "ticker": "BAC",
         "sentiment": "positive",
-        "sentiment_reasoning": "The company is raising substantial capital ($300M+) to fund clinical programs, indicating investor confidence and providing resources to advance therapeutic development for serious neuromuscular diseases. The FDA acceptance of BLA for Z-Rostudirsen with priority review and January 2027 PDUFA target date represents significant clinical progress."
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings generation ($30.5B in 2025, $9.1B in Q2 2026), healthy CET1 capital ratio at 11.2% well above regulatory minimums, 14.3% dividend increase marking sixth consecutive annual hike, and $17B remaining in $40B buyback authorization demonstrate robust financial health and commitment to shareholder returns."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong earnings and regulatory capital position support 10% dividend increase to $1.65 per share, six dividend hikes over five years with 11.3% annualized growth rate, and $50B share repurchase program authorization effective July 2026."
       },
       {
         "ticker": "MS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       },
       {
         "ticker": "MSpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acting as joint book-running manager for the offering is a standard underwriting role that generates fees but represents routine business activity without material impact on the firm."
-      },
-      {
-        "ticker": "JEF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Serving as joint book-running manager is a standard underwriting engagement that generates fees but represents routine investment banking activity."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased quarterly dividend 15% to $1.15 per share in Q3 2026 following 8% hike in 2025, reauthorized $20B multi-year share repurchase program without expiration date, and emphasis on disciplined capital allocation."
       }
     ]
   },
   {
-    "id": "03fc62b9544e16e5d404189573c0388d9ee6ebefab69a89ae2eae54501a58c80",
+    "id": "2f9dbd7991fb08e5f497d0a26b7239b9057e1cfc06158f26f4543eefe8ed1d99",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "How Buying SpaceX Today Could More Than 10X Your Net Worth",
-    "author": "Steven Porrello",
-    "published_utc": "2026-07-18T22:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/18/how-spacex-today-could-10x-your-net-worth/?source=iedfolrf0000001",
+    "title": "Capital Markets Momentum Fades: What it Means for Big Banks in Q3",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986006/capital-markets-momentum-fades-what-it-means-for-big-banks-in-q3?cid=CS-ZC-FT-analyst_blog|industry_focus-2986006",
     "tickers": [
-      "SPCX",
-      "NVDA",
-      "AMZN",
-      "WMT",
       "GS",
       "GSpA",
       "GSpC",
@@ -561,110 +661,431 @@
       "MSpL",
       "MSpO",
       "MSpP",
-      "MSpQ"
+      "MSpQ",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "C",
+      "CpN",
+      "CpR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874403%2Fspacex.jpeg&w=1200&op=resize",
-    "description": "SpaceX could deliver a 10x return if annual revenue reaches $3.6 trillion by 2040, aligning with Morgan Stanley's $3.4 trillion projection. Currently trading at $1.8 trillion market cap with $18.7 billion in 2025 revenue, the company would need a 5x price-to-sales ratio to reach an $18 trillion valuation. However, this scenario depends on successful execution of Starlink, Starship, and AI segments, with significant downside risk if any underperforms.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2e/65031.jpg",
+    "description": "U.S. banks enter Q3 2026 with supportive lending conditions but face mixed capital markets trends. Investment banking volumes declined 6% YoY in July due to weak debt markets, though M&A and equity underwriting showed strength. Goldman Sachs and Morgan Stanley face greater sensitivity to capital markets weakness, while diversified banks like JPMorgan, Bank of America, and Citigroup benefit from broader revenue streams including loan and deposit growth.",
     "keywords": [
-      "SpaceX valuation",
-      "revenue growth projection",
-      "10x return potential",
-      "Starlink",
-      "Starship",
-      "AI segment",
-      "price-to-sales ratio",
-      "market cap"
+      "investment banking",
+      "capital markets",
+      "Q3 2026 earnings",
+      "debt capital markets",
+      "M&A activity",
+      "equity underwriting",
+      "trading revenues",
+      "loan growth",
+      "deposit growth"
     ],
     "insights": [
       {
-        "ticker": "SPCX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article presents bullish long-term growth potential with analyst projections showing 77% annual revenue growth to $300B+ by 2030 and $3.4T by 2040. However, sentiment is tempered by acknowledgment of high current valuation (100x sales) and execution risks."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a comparison point for valuation milestones (only company to trade above $5T), not as investment recommendation or subject of analysis."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced only as a benchmark for revenue scale comparison, not analyzed for investment merit."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used only as a comparative metric for revenue benchmarking, not subject to investment analysis."
-      },
-      {
         "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as analyst source projecting SpaceX revenue above $300B by 2030, but not analyzed as investment."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
       },
       {
         "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as analyst source projecting SpaceX revenue above $300B by 2030, but not analyzed as investment."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
       },
       {
         "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as analyst source projecting SpaceX revenue above $300B by 2030, but not analyzed as investment."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
       },
       {
         "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as analyst source projecting SpaceX revenue above $300B by 2030, but not analyzed as investment."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Most sensitive to weaker capital markets conditions. While benefits from M&A and equity underwriting strength, weakness in debt capital markets could offset gains and moderate investment banking revenue growth."
       },
       {
         "ticker": "MS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpF",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
       },
       {
         "ticker": "MSpQ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Analyst firm providing SpaceX revenue projections ($3.4T by 2040), used as supporting evidence but not analyzed as investment."
+        "sentiment_reasoning": "Similar capital markets exposure to Goldman Sachs, but Wealth Management franchise provides a more stable revenue base that could cushion softness in investment banking or trading."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highly diversified business model across consumer/commercial banking, payments, and asset management reduces dependence on capital markets. Strong buffer against underwriting/trading revenue shortfalls with loan and deposit growth support."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large consumer banking and wealth-management franchises provide cushion against weaker capital markets fees. Balanced impact from both investment banking and traditional banking with loan/deposit growth support."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broader earnings mix including Services, Wealth, and U.S. Personal Banking provides balance. Loan and deposit growth momentum could support net interest income and offset capital markets softness."
+      }
+    ]
+  },
+  {
+    "id": "5ecdeb0c6eb2536624500e1cf91c12cceb1d870eaf11a3b04297c96c7662a1b4",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's Why Investors Should Stay Neutral on MarketAxess Stock for Now",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-03T12:21:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2984209/here-s-why-investors-should-stay-neutral-on-marketaxess-stock-for-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2984209",
+    "tickers": [
+      "MKTX",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b6/2622.jpg",
+    "description": "MarketAxess (MKTX) is diversifying beyond U.S. credit with international expansion and new trading protocols, with non-U.S. credit revenues rising 9%. However, U.S. credit revenues declined 9%, and the stock carries an elevated forward P/E of 19.08X above industry average. The company maintains strong financials and consistent earnings beats, but faces risks from trading volume sensitivity and investment costs, warranting a neutral stance.",
+    "keywords": [
+      "MarketAxess",
+      "electronic trading platform",
+      "diversification",
+      "international expansion",
+      "U.S. credit decline",
+      "valuation risk",
+      "financial technology"
+    ],
+    "insights": [
+      {
+        "ticker": "MKTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "MKTX shows positive growth drivers including successful diversification (9% revenue growth outside U.S. credit), strong financial position ($245.8M cash, 22.5% ROE), and consistent earnings beats. However, this is offset by risks including 9% decline in core U.S. credit revenues, elevated forward P/E of 19.08X vs. 13.81X industry average, and sensitivity to trading volumes. The Zacks Rank #3 (Hold) rating reflects balanced upside and downside risks."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with eight upward earnings revisions in past 60 days, consistent earnings beats (19.4% average surprise), and strong 2026 revenue growth projection of 15.9% year-over-year."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with seven upward earnings revisions in past 60 days, strong earnings beat history (20.4% average surprise), and robust 2026 revenue growth projection of 21.1% year-over-year."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with seven upward earnings revisions in past 60 days, strong earnings beat history (20.4% average surprise), and robust 2026 revenue growth projection of 21.1% year-over-year."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with seven upward earnings revisions in past 60 days, strong earnings beat history (20.4% average surprise), and robust 2026 revenue growth projection of 21.1% year-over-year."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with seven upward earnings revisions in past 60 days, strong earnings beat history (20.4% average surprise), and robust 2026 revenue growth projection of 21.1% year-over-year."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with six upward earnings revisions in past 60 days, consistent earnings beats (7.3% average surprise), and solid 2026 revenue growth projection of 13.3% year-over-year."
       }
     ]
   }

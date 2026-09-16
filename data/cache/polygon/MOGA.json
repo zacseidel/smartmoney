@@ -1,0 +1,36 @@
+{
+  "ticker": "MOG.A",
+  "name": "Moog Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000067887",
+  "composite_figi": "BBG000BP7RH6",
+  "share_class_figi": "BBG001S5T922",
+  "market_cap": 11297105982.3,
+  "phone_number": "716 652 2000",
+  "address": {
+    "address1": "400 JAMISON ROAD",
+    "city": "EAST AURORA",
+    "state": "NY",
+    "postal_code": "14052"
+  },
+  "description": "Moog Inc. manufactures precision motion and fluid control systems for aerospace, defense, and industrial markets. Its four segments are Space and Defense, Military Aircraft, Commercial Aircraft, and Industrial, with the majority of revenue from Space and Defense. The company provides components for defense vehicle platforms, missile systems, naval ships, submarines, and space launch vehicles, and spacecraft. Its products include actuation systems, motion platforms, motors, servo and proportional valves, slip rings, propulsion systems, and weapon stores management systems. it serves industries such as aerospace and defense, industrial automation, energy, marine, motorsport, simulation, and medical devices. It operates in the United States, the United Kingdom, Germany, and other regions.",
+  "sic_code": "3590",
+  "sic_description": "MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT",
+  "ticker_root": "MOG",
+  "ticker_suffix": "A",
+  "homepage_url": "https://www.moog.com",
+  "total_employees": 13500,
+  "list_date": "1996-01-04",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bW9vZy5jb20/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/bW9vZy5jb20/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 28443048,
+  "weighted_shares_outstanding": 31671169,
+  "round_lot": 40
+}

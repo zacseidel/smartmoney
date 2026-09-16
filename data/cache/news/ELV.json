@@ -1,214 +1,229 @@
 [
   {
-    "id": "c3d2389fbc74a044efb2b74e0eb091fb880b4598bb5f2b3c603da2e9104f4683",
+    "id": "3a1fcf6a1f60e7f143ba69aa006c7c020b00282eae4c9893b59abfd3acaf334b",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ELV INVESTOR ALERT: Kirby McInerney LLP Investigates Potential Claims Involving Elevance Health, Inc.",
-    "author": "Kirby Mcinerney Llp",
-    "published_utc": "2026-04-23T00:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/04/23/3279500/937/en/ELV-INVESTOR-ALERT-Kirby-McInerney-LLP-Investigates-Potential-Claims-Involving-Elevance-Health-Inc.html",
+    "title": "ELV or DHR: Which Is the Better Value Stock Right Now?",
+    "author": "Na",
+    "published_utc": "2026-09-15T15:40:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2990039/elv-or-dhr-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2990039",
     "tickers": [
-      "ELV"
+      "ELV",
+      "DHR"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/192da1d1-643f-4eee-b850-dde5b9f2b00f",
-    "description": "Kirby McInerney LLP is investigating potential securities law violations by Elevance Health, Inc. after the Centers for Medicare & Medicaid Services notified the company of intent to impose intermediate sanctions, including suspension of Medicare Advantage enrollment and communication activities due to alleged noncompliance with risk adjustment data submission requirements. The announcement triggered an 8.1% stock price decline on March 2, 2026.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default235.jpg",
+    "description": "In a comparison of two Medical Services stocks, Elevance Health (ELV) emerges as the superior value option over Danaher (DHR). ELV holds a Zacks Rank of #2 (Buy) with a Value grade of A, featuring a forward P/E of 15.70 and PEG ratio of 2.22. DHR has a Zacks Rank of #3 (Hold) with a Value grade of D, with a forward P/E of 23.84 and PEG ratio of 2.53. Based on valuation metrics and earnings outlook, ELV is positioned as the better value investment.",
     "keywords": [
-      "securities investigation",
-      "Medicare Advantage",
-      "CMS sanctions",
-      "data submission noncompliance",
-      "stock price decline",
-      "class action"
-    ],
-    "insights": [
-      {
-        "ticker": "ELV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The company faces CMS sanctions for Medicare Advantage compliance violations, resulting in enrollment suspension and communication restrictions. The stock declined 8.1% following the disclosure, and a securities investigation has been initiated, indicating significant regulatory and legal risks."
-      }
-    ]
-  },
-  {
-    "id": "8cf59eb839364cf7422254cf8805b790d414b90b21921b716a68da0626557145",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Elevance Health Earnings And Guidance Hike Offset Cost Concerns",
-    "author": "Vandana Singh",
-    "published_utc": "2026-04-22T19:41:37Z",
-    "article_url": "https://www.benzinga.com/markets/earnings/26/04/51982484/elevance-health-earnings-and-guidance-hike-offset-cost-concerns?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "ELV"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/22/Elevance-Health-Photo-by-Jonathan-Weiss-.jpeg?width=1200&height=800&fit=crop",
-    "description": "Elevance Health reported Q1 2026 adjusted earnings of $12.58 per share, beating consensus of $10.79, with revenues of $49.49 billion up 1.5% YoY. The company raised its 2026 earnings guidance to at least $26.75 per share from $25.50, though margins were pressured by elevated medical costs in Medicaid and a $935 million CMS-related accrual. Stock was up 0.39% at $329.39.",
-    "keywords": [
-      "earnings beat",
-      "guidance raise",
-      "medical costs",
-      "CMS accrual",
-      "health insurance",
-      "Medicare Advantage",
-      "Medicaid"
+      "value investing",
+      "medical services stocks",
+      "valuation metrics",
+      "P/E ratio",
+      "PEG ratio",
+      "earnings outlook"
     ],
     "insights": [
       {
         "ticker": "ELV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company beat earnings expectations ($12.58 vs $10.79 consensus), raised full-year guidance significantly ($26.75 vs prior $25.50), and reported revenue growth above consensus. Despite cost pressures and CMS-related charges, management expressed increased confidence in business trajectory and improving claims experience."
+        "sentiment_reasoning": "ELV has a stronger Zacks Rank (#2 Buy vs #3 Hold), superior Value grade (A vs D), lower forward P/E ratio (15.70 vs 23.84), lower PEG ratio (2.22 vs 2.53), and lower P/B ratio (2.04 vs 2.72), indicating better valuation and stronger earnings improvement outlook."
+      },
+      {
+        "ticker": "DHR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "DHR is rated as a Hold with a D Value grade, indicating it is less attractive as a value investment compared to ELV. While not negatively positioned, it shows weaker valuation metrics and a less favorable earnings outlook."
       }
     ]
   },
   {
-    "id": "733c2c096437ec21e95c115763404e7a44213b0a486334dc153917668d281cd4",
+    "id": "1dc95d9134bb81d4b1e7cb1045e0edd5e8fa56dbe32309a03c2f967231b27172",
     "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "UnitedHealth, Humana, CVS Jump As CMS Boosts Medicare Payments",
-    "author": "Vandana Singh",
-    "published_utc": "2026-04-07T14:30:58Z",
-    "article_url": "https://www.benzinga.com/news/health-care/26/04/51681721/unitedhealth-humana-cvs-jump-as-cms-boosts-medicare-payments?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+    "title": "Here's How CVS' Health Services Arm Is Positioned for Long-Term Growth",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-15T14:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2989925/here-s-how-cvs-health-services-arm-is-positioned-for-long-term-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2989925",
     "tickers": [
-      "UNH",
-      "HUM",
       "CVS",
-      "ELV",
-      "ALHC",
-      "ASTH",
-      "OSCR",
-      "CNC",
-      "MOH"
+      "UNH",
+      "ELV"
     ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/04/07/Medicare-Word-Written-On-Cube-Shape-Wood_2.jpeg?width=1200&height=800&fit=crop",
-    "description": "The Centers for Medicare & Medicaid Services announced a 2.48% increase in 2027 Medicare Advantage capitation rates, exceeding initial expectations of 0.09%. The boost amounts to over $13 billion in additional payments and reflects a 4.98% increase when accounting for risk score trends. CMS retained the 2024 risk adjustment model, providing greater rate predictability for insurers. Major healthcare stocks surged on the positive announcement.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f5/284.jpg",
+    "description": "CVS Health's Health Services segment demonstrated strong Q2 2026 performance with revenues rising 11.5% to $51.8B and adjusted operating income climbing 10%. Health Care Delivery revenues jumped nearly 23% driven by Oak Street Health, while Pharmacy Services benefited from favorable drug mix and strong new sales of $6B. The company maintained its full-year 2026 outlook despite 340B program adjustments.",
+    "keywords": [
+      "CVS Health",
+      "Health Services",
+      "Q2 2026 earnings",
+      "Oak Street Health",
+      "Pharmacy Services",
+      "Caremark",
+      "Healthcare delivery",
+      "integrated care model"
+    ],
+    "insights": [
+      {
+        "ticker": "CVS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 2026 results with 11.5% revenue growth and 10% operating income growth. Health Care Delivery segment surged 23%, new pharmacy sales exceeded historical averages at $6B, and the company maintained full-year guidance. Stock has outperformed industry peers with 30.1% gains over the past year and trades at attractive valuation metrics."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Optum health services business continues as a key growth engine with 11.6% revenue growth in 2024 and 7% in 2025. OptumHealth's integrated value-based care model and AI-enabled technologies support longer-term growth and margin expansion prospects."
+      },
+      {
+        "ticker": "ELV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Carelon healthcare services brand showed 7.1% revenue growth to $37.2B in H1 2026. Strategic expansion of integrated capabilities across pharmacy, behavioral health, and value-based care solutions positions the company for revenue diversification and future growth."
+      }
+    ]
+  },
+  {
+    "id": "b3321bb55ce72738a4f6ff6540efe260a73b930c0244618a88a334ac6f587f08",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can Centene's Medicare Advantage Strategy Unlock Better Margins?",
+    "author": "Na",
+    "published_utc": "2026-09-11T16:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2988648/can-centene-s-medicare-advantage-strategy-unlock-better-margins?cid=CS-ZC-FT-analyst_blog|quick_take-2988648",
+    "tickers": [
+      "CNC",
+      "UNH",
+      "ELV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6e/2354.jpg",
+    "description": "Centene Corporation is simplifying its Medicare Advantage footprint and emphasizing dual-eligible members to improve portfolio quality and margins. The company's Medicare segment health benefits ratio improved to 89.5% in Q2 2026, with MA moving closer to breakeven. For 2027, Centene aims to achieve breakeven or better MA results through medical-cost control, Stars execution, and SG&A management.",
     "keywords": [
       "Medicare Advantage",
-      "CMS payment rates",
-      "2027 capitation rates",
-      "risk adjustment model",
-      "healthcare insurance"
+      "dual-eligible members",
+      "health benefits ratio",
+      "portfolio optimization",
+      "margin recovery",
+      "medical costs"
+    ],
+    "insights": [
+      {
+        "ticker": "CNC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Centene shows improving fundamentals with health benefits ratio improvement from 90.9% to 89.5%, MA approaching breakeven, strong YTD stock performance (+59%), attractive valuation (P/E 12.57 vs industry 15.80), and Zacks Rank #1 Strong Buy rating with consensus 2026 earnings growth of 135.1%."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "UnitedHealth Group demonstrated margin recovery progress with medical care ratio improving from 89.4% to 86.7% in Q2 2026, showing effective management of elevated medical costs through repricing and benefit redesign strategies."
+      },
+      {
+        "ticker": "ELV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Elevance Health is taking a selective approach to Medicare Advantage with membership declines, facing pressure from higher medical costs, but showing potential for future profitability through pricing discipline and Carelon-led cost management initiatives."
+      }
+    ]
+  },
+  {
+    "id": "e26e20326a2106a0f2a05176c7a22c1ab7aa6dcd7dbec78eed8a40a2ca6edd5d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "UnitedHealth Stock Rises 39% in 6 Months: Should Investors Still Buy?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-04T16:04:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985407/unitedhealth-stock-rises-39-in-6-months-should-investors-still-buy?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985407",
+    "tickers": [
+      "UNH",
+      "ELV",
+      "HUM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/16/2258.jpg",
+    "description": "UnitedHealth (UNH) has surged 38.8% over six months as medical-cost pressures ease and confidence improves. The company's medical care ratio fell to 85.3%, medical costs declined 2%, and 2026 EPS estimates rose 21.2% to $19.82. Despite the rally, UNH trades below its five-year median valuation and analyst price targets, suggesting further upside potential. The stock carries a Zacks Rank #2 (Buy) rating.",
+    "keywords": [
+      "medical-cost trends",
+      "Medicare Advantage",
+      "prior authorization",
+      "earnings growth",
+      "capital returns",
+      "valuation",
+      "Optum diversification"
     ],
     "insights": [
       {
         "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock jumped 7.52% following the announcement of higher-than-expected Medicare Advantage payment increases, improving revenue visibility and plan profitability"
+        "sentiment_reasoning": "Improving medical-cost trends with medical care ratio declining to 85.3%, strong EPS growth projections (21.2% for 2026, 13.7% for 2027), favorable Medicare Advantage reimbursement increases, consistent earnings beat history, and valuation still below historical median despite recent gains. Stock rated Zacks Rank #2 (Buy) with 20.5% upside to analyst targets."
+      },
+      {
+        "ticker": "ELV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with stronger 6-month performance (44.8% gain vs UNH's 38.8%), but no detailed analysis provided. Used primarily for comparative context rather than investment recommendation."
       },
       {
         "ticker": "HUM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer with exceptional 6-month performance (124.9% gain), but no detailed analysis provided. Used primarily for comparative context. Trading at significantly higher valuation multiple (30.63X forward earnings) compared to UNH."
+      }
+    ]
+  },
+  {
+    "id": "1374e0113ac231893b6034053aef63c9427c77dc352ede098a1b86b94706cec7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF (IHF)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-02T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2983510/should-you-invest-in-the-ishares-u-s-healthcare-providers-etf-ihf?cid=CS-ZC-FT-sector_etf-2983510",
+    "tickers": [
+      "IHF",
+      "UNH",
+      "CVS",
+      "ELV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default215.jpg",
+    "description": "The iShares U.S. Healthcare Providers ETF (IHF) is a passively managed fund launched in 2006 that tracks the Dow Jones U.S. Select HealthCare Providers Index. With $1.25 billion in assets, a competitive 0.37% expense ratio, and a Zacks ETF Rank of 2 (Buy), it offers diversified exposure to healthcare providers. Year-to-date performance is up 20.18%, with a medium risk profile (beta of 0.72). Top holdings include UnitedHealth Group (20.61%), CVS Health, and Elevance Health.",
+    "keywords": [
+      "healthcare ETF",
+      "passive management",
+      "healthcare providers",
+      "diversification",
+      "expense ratio",
+      "performance"
+    ],
+    "insights": [
+      {
+        "ticker": "IHF",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 4.45% as the company benefits from the 4.98% effective payment increase and improved rate predictability for 2027"
+        "sentiment_reasoning": "The ETF received a Zacks ETF Rank of 2 (Buy), has strong year-to-date performance of 20.18%, competitive expense ratio of 0.37%, and offers effective diversification with 63 holdings and medium risk profile suitable for long-term investors."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the largest holding in IHF at 20.61% of assets, but no specific performance or outlook commentary provided in the article."
       },
       {
         "ticker": "CVS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock rose 3.36% due to positive sentiment from higher Medicare Advantage payments and CMS's responsive stance toward industry concerns"
-      },
-      {
-        "ticker": "ELV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock advanced 3.07% as a major Medicare Advantage player benefiting from the payment increase announcement"
-      },
-      {
-        "ticker": "ALHC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 14.46%, the largest gain among peers, reflecting strong positive impact from the higher-than-expected Medicare Advantage rate increases"
-      },
-      {
-        "ticker": "ASTH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock rose 5.42% as a Medicare Advantage focused company benefiting from improved payment rates and market predictability"
-      },
-      {
-        "ticker": "OSCR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock added 1.25% on positive sector sentiment from the Medicare Advantage payment increase announcement"
-      },
-      {
-        "ticker": "CNC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Stock edged up only 0.48%, suggesting minimal market reaction despite the positive Medicare Advantage payment news"
+        "sentiment_reasoning": "Listed as a top holding in IHF, but no specific performance or outlook commentary provided in the article."
       },
       {
-        "ticker": "MOH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 2.50% despite positive sector news, suggesting company-specific concerns or market positioning issues"
-      }
-    ]
-  },
-  {
-    "id": "2fb2f2696ca8754c7f3d5cf92a7b59e5a8c87b0602d7d5603da6cba0c69faeff",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Elevance Health, Inc. Shareholders Are Encouraged to Reach Out to Johnson Fistel for More Information About Potentially Recovering Their Losses",
-    "author": "Johnson Fistel, Pllp",
-    "published_utc": "2026-03-03T00:41:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/03/03/3247948/0/en/Elevance-Health-Inc-Shareholders-Are-Encouraged-to-Reach-Out-to-Johnson-Fistel-for-More-Information-About-Potentially-Recovering-Their-Losses.html",
-    "tickers": [
-      "ELV"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/bb2e6cf6-9d53-4d2e-a5d2-759cdd3b516c",
-    "description": "Johnson Fistel is investigating Elevance Health, Inc. following the company's disclosure that the Centers for Medicare & Medicaid Services intends to impose intermediate sanctions, including suspension of enrollment into certain Medicare Advantage-Prescription Drug plans effective March 31, 2026. The law firm is examining whether Elevance and its executives complied with federal securities laws. Investors who suffered losses are encouraged to contact the firm.",
-    "keywords": [
-      "securities investigation",
-      "Medicare sanctions",
-      "CMS",
-      "enrollment suspension",
-      "investor losses",
-      "federal securities laws"
-    ],
-    "insights": [
-      {
         "ticker": "ELV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CMS announced intermediate sanctions including suspension of enrollment into Medicare Advantage-Prescription Drug plans and restrictions on communications to beneficiaries, effective March 31, 2026. This regulatory action indicates operational and compliance issues that will negatively impact the company's business and investor confidence, prompting a securities investigation."
-      }
-    ]
-  },
-  {
-    "id": "b0ffec139ec67c29e13b13237849c34caec89976198637e21dc909ac10f70b80",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Elevance Health Stock Sinks After CMS Freezes Medicare Advantage Enrollment",
-    "author": "Vandana Singh",
-    "published_utc": "2026-03-02T17:30:39Z",
-    "article_url": "https://www.benzinga.com/markets/large-cap/26/03/50975557/elevance-health-stock-sinks-after-cms-freezes-medicare-advantage-enrollment?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "ELV"
-    ],
-    "image_url": "https://cdn.benzinga.com/files/images/story/2026/03/02/Elevance-Health-Photo-by-Jonathan-Weiss-.jpeg?width=1200&height=800&fit=crop",
-    "description": "Elevance Health (ELV) stock declined 7.23% on Monday after the Centers for Medicare & Medicaid Services (CMS) froze the company's Medicare Advantage enrollment effective March 31, 2026. The freeze stems from alleged noncompliance with risk adjustment data submission requirements, including the company's repeated use of USB drives instead of CMS-mandated electronic systems since November 2018. This regulatory action compounds earlier concerns from the company's weak 2026 guidance and CMS's proposed minimal payment increases for Medicare Advantage plans.",
-    "keywords": [
-      "Medicare Advantage",
-      "CMS sanctions",
-      "enrollment freeze",
-      "risk adjustment data",
-      "regulatory compliance",
-      "health insurance"
-    ],
-    "insights": [
-      {
-        "ticker": "ELV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CMS imposed intermediate sanctions freezing Medicare Advantage enrollment effective March 31, 2026, due to noncompliance with data submission requirements. The company also faces weak 2026 guidance with expected adjusted earnings of $25.50 per share versus Wall Street estimate of $26.90, and forecasted mid-single digit sales decline. These regulatory and financial headwinds drove a 7.23% stock decline."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IHF, but no specific performance or outlook commentary provided in the article."
       }
     ]
   }

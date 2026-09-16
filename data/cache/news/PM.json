@@ -1,305 +1,232 @@
 [
   {
-    "id": "a20e498195dbaaa5ddc706fac8151e2516c9057436ef872351457f1d3c7c9c45",
+    "id": "43e1975827b87defb5223cbdc09745dcd1f5d806294b2ad31ad3a3d91e45a173",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "1 Brilliant Dividend ETF to Build Long-Term Passive Income",
-    "author": "Justin Pope",
-    "published_utc": "2026-07-23T12:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/23/1-brilliant-dividend-etf-to-build-passive-income/?source=iedfolrf0000001",
+    "title": "Altria Premium Drives 85% of Cigarette Profit: Can This Hold?",
+    "author": "Na",
+    "published_utc": "2026-09-08T13:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986252/altria-premium-drives-85-of-cigarette-profit-can-this-hold?cid=CS-ZC-FT-analyst_blog|quick_take-2986252",
     "tickers": [
-      "FDVV",
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "KO",
-      "PG",
-      "HD",
+      "MO",
       "PM",
-      "AVGO",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
+      "TPB"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879518%2Fdollar-bill-etf-graphic.jpg&w=1200&op=resize",
-    "description": "The Fidelity High Dividend ETF (FDVV) is highlighted as an excellent choice for building passive income, offering a 2.6% dividend yield and 13.3% annualized returns since 2016. The fund combines high-yield blue-chip stocks like Coca-Cola and Procter & Gamble with growth-oriented megacap tech holdings, while maintaining a low 0.15% expense ratio and affordable $62 share price.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0d/433.jpg",
+    "description": "Altria Group is focusing on its premium cigarette segment, which generates 85% of profitability, as consumers shift toward discount offerings. Marlboro maintained its 59.6% premium segment share but saw overall cigarette market share decline 1.5 points to 39.5%. The company is expanding its discount brand Basic to capture trade-down demand while protecting Marlboro pricing power, with smokeable adjusted OCI rising 2.4% to $3.02 billion.",
     "keywords": [
-      "dividend ETF",
-      "passive income",
-      "high dividend yield",
-      "technology sector",
-      "blue chip stocks",
-      "long-term investing"
-    ],
-    "insights": [
-      {
-        "ticker": "FDVV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised for strong 13.3% annualized returns, above-average 2.6% dividend yield, low expense ratio of 0.15%, and well-balanced portfolio mixing dividend stocks with growth tech holdings."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as the largest holding in FDVV, representing the growth component of the fund's strategy."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top 10 holding in FDVV, contributing to the fund's growth element."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in FDVV's top 10 holdings, supporting the fund's technology growth strategy."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as a blue-chip dividend-paying stock held in FDVV."
-      },
-      {
-        "ticker": "PG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as a blue-chip dividend-paying stock held in FDVV."
-      },
-      {
-        "ticker": "HD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a dividend-paying blue-chip stock in FDVV's portfolio."
-      },
-      {
-        "ticker": "PM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as a dividend-paying blue-chip stock held in FDVV."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top 10 holding in FDVV, contributing to the fund's growth component."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in FDVV's top 10 holdings, supporting the fund's technology growth strategy."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in FDVV's top 10 holdings, supporting the fund's technology growth strategy."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in FDVV's top 10 holdings, supporting the fund's technology growth strategy."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in FDVV's top 10 holdings, supporting the fund's technology growth strategy."
-      }
-    ]
-  },
-  {
-    "id": "57759db5c879c933e2b4724b84e18cd78829386dd888c897e051cb10472354f9",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 High-Yield Dividend Stocks Paying 5% or More That Are Worth Buying Now",
-    "author": "Thomas Niel",
-    "published_utc": "2026-07-12T07:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/12/3-high-yield-dividend-stocks-paying-5-or-more-wort/?source=iedfolrf0000001",
-    "tickers": [
-      "MO",
-      "O",
-      "PFE",
-      "PM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877844%2Fcopy-of-dividends-blackboard-sketch-doodle-1201x849-0ca0aea.jpg&w=1200&op=resize",
-    "description": "The article highlights three high-yield dividend stocks with strong track records: Altria Group (MO) with a 5.91% yield and 57 years of consecutive dividend increases, Realty Income (O) offering 5.12% monthly dividends with 32 years of growth since going public, and Pfizer (PFE) yielding 7.12% despite post-COVID challenges. Each stock is positioned as a reliable income generator with potential for steady long-term returns.",
-    "keywords": [
-      "high-yield dividend stocks",
-      "dividend growth",
-      "Dividend King",
-      "REIT",
-      "passive income",
-      "yield trap",
-      "total returns"
+      "cigarette market share",
+      "premium segment strategy",
+      "consumer trade-down",
+      "Marlboro",
+      "discount brands",
+      "pricing power",
+      "nicotine products"
     ],
     "insights": [
       {
         "ticker": "MO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Maintains Dividend King status with 57 consecutive years of dividend increases. Company is adapting to declining cigarette demand through price increases, cost reduction plans, and expansion into non-tobacco nicotine pouches. Forward yield of nearly 6% supports dividend sustainability."
-      },
-      {
-        "ticker": "O",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offers consistent monthly dividends with 5.1% forward yield and 32-year track record of annual dividend increases averaging 4.1%. Positioned as a reliable wealth-building vehicle with potential for modest price appreciation as interest rates normalize."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite post-COVID sales decline and patent expiration concerns, the company is bouncing back with 7% non-COVID sales growth and maintains 16 years of consecutive dividend increases. Adjusted earnings of $2.80-$3 per share comfortably cover $1.72 annual dividend, mitigating yield trap concerns."
-      },
-      {
-        "ticker": "PM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Altria in the non-tobacco nicotine pouch market with its Zyn product. No specific investment recommendation or analysis provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "1166ae948d063e168b5c28724b60487a11eb0958b416a5465801e811ea1aea89",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Altria vs. Turning Point Brands: Which Tobacco Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-09T17:07:05Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/09/altria-vs-turning-point-brands-which-tobacco-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "MO",
-      "TPB",
-      "PM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two tobacco stocks with contrasting profiles: Altria, a legacy giant generating $9.1B in free cash flow with a 5.82% dividend yield but facing declining smoking rates, and Turning Point Brands, a smaller player experiencing 28% revenue growth driven by nicotine pouches and accessories. Despite Turning Point's higher growth potential, Altria is recommended as the better buy due to its superior dividend yield and lower valuation metrics.",
-    "keywords": [
-      "tobacco stocks",
-      "dividend yield",
-      "nicotine products",
-      "revenue growth",
-      "valuation comparison",
-      "smoke-free alternatives",
-      "regulatory risks"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Mixed signals: strong profitability growth (OCI +2.4%) and pricing power support the company, but declining overall market share (-1.5 points) and increased consumer trade-down to discounts present headwinds. The company's defensive strategy shows resilience but faces structural market challenges."
+      },
       {
-        "ticker": "MO",
+        "ticker": "PM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better buy in 2026 due to excellent dividend payments (5.82% yield), lower forward P/E ratio (13.0x), strong free cash flow ($9.1B), and high profitability despite declining traditional cigarette volumes. Management is successfully boosting profits with net income expected to rise 25% in 2026."
+        "sentiment_reasoning": "Demonstrated premium-brand resilience with Marlboro reaching record 11% international cigarette share and strong international combustible pricing growth of 10%, indicating successful premium positioning and pricing power in international markets."
       },
       {
         "ticker": "TPB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Shows impressive 28% revenue growth and 45% profit growth driven by booming nicotine pouch sales (500% category growth), but carries higher valuation risk (P/E 62.9x), minimal dividend yield (0.35%), supply chain vulnerability, and regulatory uncertainty around oral tobacco products. Not selected as the better buy despite growth potential."
-      },
-      {
-        "ticker": "PM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparative alternative and parent company of Swedish Match (supplier to Turning Point Brands), but not the primary focus of the analysis."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong financial performance with Stoker's segment net sales up 54.5% and adjusted gross profit rising 40.7% year-over-year, demonstrating successful premium positioning in the value-oriented consumer segment."
       }
     ]
   },
   {
-    "id": "f5a621efa9f4aa2207e775c7df33c2d82df3f390bbdcd7d2593358419bed136c",
+    "id": "14cbdbc9e48dd23338291be7a25df765ab2a11fceba14d052b1141a10dc38e2a",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Altria vs. Philip Morris International: Tobacco Still Makes a Great Stock. Which Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-06T18:21:57Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/06/altria-vs-philip-morris-international-tobacco-still-makes-a-great-stock-which-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Meet the Dirt Cheap 6.4%-Yielding Dividend Stock That's Beating the Market in 2026",
+    "author": "Thomas Niel",
+    "published_utc": "2026-09-06T20:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/06/meet-the-dirt-cheap-6-yielding-dividend-stock-that/?source=iedfolrf0000001",
     "tickers": [
       "MO",
-      "PM",
-      "XLP"
+      "PM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1c43c7ea2a115de06def5b60d05cbbe789d96aa5-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Altria Group and Philip Morris International as investment options in 2026. Altria dominates the U.S. market with strong dividends (5.83% yield) and lower valuation (P/E 15.2x) but faces declining smoking rates and sluggish growth. Philip Morris International offers global diversification, higher growth (6.6% revenue growth expected), and a strong smoke-free product portfolio, but trades at a premium valuation (P/E 25.67x). The author recommends Altria for 2026 due to its strong dividend and moderate valuation despite slower growth prospects.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885990%2Fcigarettes-pack-smoker-tobacco-1200x1200-bd93c0f.jpg&w=1200&op=resize",
+    "description": "Altria Group has outperformed the S&P 500 in 2026 with 24% total returns, driven by better-than-expected earnings and renewed confidence in the tobacco industry's smokefree pivot. However, the stock has pulled back to the mid-$60s following Q2 earnings that showed slowing revenue growth and declining earnings. While trading at a cheap valuation with a 6.4% dividend yield, the company faces long-term risks if its smokeless product strategy fails to offset declining cigarette consumption.",
     "keywords": [
-      "tobacco stocks",
+      "dividend stock",
+      "tobacco",
+      "Altria Group",
+      "smokeless products",
+      "earnings",
       "dividend yield",
-      "smoke-free products",
-      "valuation comparison",
-      "domestic vs. international markets",
-      "revenue growth",
-      "IQOS",
-      "Marlboro",
-      "regulatory risks"
+      "value trap",
+      "market performance"
     ],
     "insights": [
       {
         "ticker": "MO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong domestic market dominance, excellent dividend yield (5.83%), lower valuation multiple (P/E 15.2x), and high profitability ($6.95B net income). However, sentiment is tempered by declining U.S. smoking rates, sluggish revenue growth expectations (5% over 5 years), and legal/regulatory headwinds including antitrust lawsuits and e-cigarette import bans."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Altria has delivered strong 2026 performance (24% returns) and maintains an attractive 6.4% dividend yield at a cheap valuation, the article highlights significant long-term risks. Slowing revenue growth (1.2%), declining earnings, and the company's struggle to compete in smokeless products compared to Philip Morris International suggest the stock could become a yield-and-value trap if earnings growth falters."
       },
       {
         "ticker": "PM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong global growth (7% revenue growth achieved, 6.6% expected), successful smoke-free product expansion (IQOS, ZYN), geographic diversification across 170 markets, and higher absolute profitability ($11.4B net income). However, premium valuation (P/E 25.67x), exposure to geopolitical risks (Russia/Ukraine), and reliance on combustibles (58% of sales) limit upside potential."
-      },
-      {
-        "ticker": "XLP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a sector benchmark for valuation comparison. No specific sentiment expressed in the article regarding the ETF itself."
+        "sentiment_reasoning": "Philip Morris International is presented as a successful model for smokefree transformation with its Zyn nicotine pouches significantly outperforming Altria's On! brand. The company is also benefiting from a new contract manufacturing agreement with Altria, positioning it favorably in the industry's pivot away from traditional cigarettes."
       }
     ]
   },
   {
-    "id": "c342cc189f37a1989825d523b8794428f858354d903733e17a44994796aad03c",
+    "id": "01d9c46fd1a4a2bfa4c40ab25c225bb93a4466a1317379dd042752056817a730",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Forget the SpaceX IPO: 3 Rock-Solid Dividend Stocks to Build Your Portfolio Around",
-    "author": "Leo Sun",
-    "published_utc": "2026-06-15T18:26:08Z",
-    "article_url": "https://www.fool.com/investing/2026/06/15/forget-the-spacex-ipo-3-rock-solid-dividend-stocks/?source=iedfolrf0000001",
+    "title": "I've Been Wrong About Philip Morris International Stock for 5 Years. Here's Why I'm Finally Changing My Mind.",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-09-01T16:35:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/01/ive-been-wrong-about-philip-morris-international/?source=iedfolrf0000001",
     "tickers": [
-      "SPCX",
-      "O",
-      "WMB",
       "PM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874493%2Finvestors-checking-a-chart.jpg&w=1200&op=resize",
-    "description": "The article advises against investing in SpaceX following its IPO at an expensive 113x revenue valuation while unprofitable. Instead, it recommends three dividend stocks: Realty Income (REIT with 5.2% yield and 135 consecutive dividend raises), Williams Companies (midstream pipeline operator with 3.5% yield and 10-year payout growth streak), and Philip Morris International (tobacco company with 3.2% yield and consistent annual dividend increases despite declining smoking rates).",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885090%2Fgettyimages-467090685.jpg&w=1200&op=resize",
+    "description": "The author reverses his 5-year bearish stance on Philip Morris International after the company successfully pivoted from declining cigarettes to higher-margin smoke-free products. Smoke-free products now represent 42% of revenue (up from 24% in 2020), with strong growth in IQOS heated tobacco and ZYN nicotine pouches. Q2 results beat expectations with 10.4% revenue growth and 15.2% EPS growth. However, at current valuations near $192, the stock is no longer considered cheap despite the improved business fundamentals.",
     "keywords": [
-      "dividend stocks",
-      "SpaceX IPO",
+      "Philip Morris International",
+      "smoke-free products",
+      "IQOS",
+      "ZYN",
+      "business transformation",
+      "earnings beat",
       "valuation",
-      "REIT",
-      "pipeline operator",
-      "tobacco company",
-      "dividend yield",
-      "income investing"
+      "tobacco industry pivot"
     ],
     "insights": [
       {
-        "ticker": "SPCX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Trading at 113x 2025 revenue with unprofitable operations due to losses in space and AI divisions offsetting Starlink profits. Author explicitly recommends avoiding until valuations cool to more reasonable levels."
-      },
-      {
-        "ticker": "O",
+        "ticker": "PM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as rock-solid dividend stock with 5.2% forward yield, 135 consecutive dividend raises since 1994, 96%+ occupancy rate, and trading at only 14x forward earnings estimate with expected 3-4% AFFO growth."
-      },
+        "sentiment_reasoning": "The company has successfully transformed its business model from declining traditional cigarettes to higher-margin smoke-free products (42% of revenue). Strong Q2 results with 10.4% revenue growth, 15.2% EPS growth, and five consecutive quarterly beats demonstrate the pivot is working. IQOS and ZYN show robust growth with expanding margins. However, sentiment is tempered by current valuation not being attractive, with only 6.6% annualized upside potential estimated by analysts."
+      }
+    ]
+  },
+  {
+    "id": "eb69500397f6d07b316975cc81d1ba903da0b3d6caab72da4a8ec7800f916600",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is Altria's on! PLUS Shaping Up as Its Next Major Growth Engine?",
+    "author": "Na",
+    "published_utc": "2026-09-01T15:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2983225/is-altria-s-on-plus-shaping-up-as-its-next-major-growth-engine?cid=CS-ZC-FT-analyst_blog|quick_take-2983225",
+    "tickers": [
+      "MO",
+      "PM",
+      "TPB"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/62/347.jpg",
+    "description": "Altria's on! PLUS nicotine pouch product is gaining early momentum with retail presence expanding to approximately 120,000 stores and encouraging repeat purchase rates. However, the company faces intensifying competition from Philip Morris's ZYN and Turning Point Brands's FRE and ALP products, which are also expanding aggressively in the U.S. nicotine pouch market. Altria's stock has underperformed the industry over the past three months, trading at a lower valuation multiple.",
+    "keywords": [
+      "nicotine pouches",
+      "on! PLUS",
+      "oral tobacco",
+      "market expansion",
+      "competitive pressure",
+      "retail distribution",
+      "product innovation"
+    ],
+    "insights": [
       {
-        "ticker": "WMB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended dividend stock with 3.5% yield, 10-year consecutive payout increases, handles 30% of U.S. natural gas production, well-positioned for AI/data center growth, and trading at reasonable 15x adjusted EBITDA with expected 13% EPS growth."
+        "ticker": "MO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While on! PLUS shows positive early traction with broad retail reach and encouraging repeat purchase rates, the company faces significant competitive headwinds from well-funded competitors. Stock underperformance and modest earnings growth forecasts (3-4.6% YoY) temper the positive product momentum."
       },
       {
         "ticker": "PM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended dividend stock with 3.2% forward yield, consistent annual dividend increases since 2008 spin-off, smoke-free products growing 14% organically and representing 43% of revenue, expected 12% EPS growth, and reasonable 22x forward earnings valuation."
+        "sentiment_reasoning": "ZYN is demonstrating strong market position with growing shipments and continued product innovation through new variants and increased U.S. investment, positioning the company favorably in the expanding nicotine pouch category."
+      },
+      {
+        "ticker": "TPB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Modern Oral segment shows exceptional growth with 128% net sales surge and 48% of total company revenue. Aggressive retail expansion (70% chain-store growth expected) and increased marketing investment indicate strong momentum in the nicotine pouch market."
+      }
+    ]
+  },
+  {
+    "id": "cb031be9f79315f1aafeabfffcc76146d814794b6f5989049fd03742e75a2449",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Better Consumer Staples ETF: the iShares IYK vs. First Trust's Food and Beverage-Focused FTXG",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-08-29T21:30:46Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/08/29/better-consumer-staples-etf-the-ishares-iyk-vs-first-trust-s-food-and-beverage-focused-ftxg/?source=iedfolrf0000001",
+    "tickers": [
+      "IYK",
+      "FTXG",
+      "KO",
+      "PG",
+      "PM",
+      "KHC"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7669db1dbfa6e097df450be5b22faf5d854bd54d-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The iShares U.S. Consumer Staples ETF (IYK) emerges as the superior choice compared to First Trust Nasdaq Food & Beverage ETF (FTXG) for most investors seeking defensive equity exposure. IYK offers broader sector diversification across consumer staples, healthcare, and basic materials with a lower 0.38% expense ratio, larger asset base ($1.4B), and stronger five-year returns ($1,364 vs $1,063 on $1,000 invested). FTXG provides a narrower food and beverage focus that may appeal only to investors seeking specialized sector exposure.",
+    "keywords": [
+      "consumer staples ETF",
+      "defensive investing",
+      "ETF comparison",
+      "dividend yield",
+      "expense ratio",
+      "portfolio diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "IYK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IYK is recommended as the better buy due to lower expense ratio (0.38%), significantly larger AUM ($1.4B) providing better liquidity, superior 5-year returns, lower maximum drawdown (15% vs 21.7%), and broader diversification across 53 holdings in consumer staples, healthcare, and basic materials."
+      },
+      {
+        "ticker": "FTXG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "FTXG is presented as a viable alternative only for investors specifically seeking targeted food and beverage exposure. While it has a higher expense ratio (0.6%), smaller AUM ($18.7M), and weaker performance, its factor-weighted methodology focusing on gross income and cash flow metrics may appeal to specialized investors."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Coca-Cola is mentioned as a major holding in both ETFs (13.39% in IYK, 8.98% in FTXG), indicating its significance in consumer staples portfolios, but no specific sentiment is expressed about the company itself."
+      },
+      {
+        "ticker": "PG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "P&G is noted as the second-largest holding in IYK at 12.70%, reflecting its importance in the consumer staples sector, but no specific company sentiment is provided."
+      },
+      {
+        "ticker": "PM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PM is mentioned as a significant IYK holding at 11.40% and is recommended by The Motley Fool, but the article focuses on ETF comparison rather than individual stock sentiment."
+      },
+      {
+        "ticker": "KHC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Kraft Heinz is noted as a top holding in FTXG at 8.40% and is recommended by The Motley Fool, but no specific sentiment is expressed in the article's analysis."
       }
     ]
   }

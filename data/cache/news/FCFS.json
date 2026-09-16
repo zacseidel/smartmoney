@@ -1,5 +1,97 @@
 [
   {
+    "id": "392bc11d7ea26397a817bebbfe79281b3a59d09504a54f97fc06674139e97a6d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Beat the Market the Zacks Way: FIGS, Microsoft, Amphenol in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-14T12:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2988917/beat-the-market-the-zacks-way-figs-microsoft-amphenol-in-focus?cid=CS-ZC-FT-analyst_blog|investment_ideas-2988917",
+    "tickers": [
+      "FIGS",
+      "CRL",
+      "APH",
+      "CIB",
+      "MSFT",
+      "CACI",
+      "ADP",
+      "ACN",
+      "PAYX",
+      "ICE",
+      "FCFS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+    "description": "Zacks Investment Research showcases the performance of its various stock rating systems and portfolios. The Zacks Rank #1 portfolio outperformed the S&P 500 by 2.3 percentage points year-to-date, while individual stocks like FIGS and CRL surged following rank upgrades. The Focus List, ECAP, ECDP, and Top 10 portfolios also demonstrated strong returns, with the Top 10 portfolio delivering a cumulative return of +2,881.3% since 2012 compared to the S&P 500's +648.5%.",
+    "keywords": [
+      "stock ratings",
+      "portfolio performance",
+      "Zacks Rank",
+      "market outperformance",
+      "investment recommendations"
+    ],
+    "insights": [
+      {
+        "ticker": "FIGS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 33.5% following upgrade to Zacks Rank #2 (Buy) on July 14, significantly outperforming S&P 500's 2% increase"
+      },
+      {
+        "ticker": "CRL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 21.1% following upgrade to Zacks Rank #2 on July 14"
+      },
+      {
+        "ticker": "APH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 9.6% following Zacks Recommendation upgrade to Outperform on July 17"
+      },
+      {
+        "ticker": "CIB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 28.4% following Zacks Recommendation upgrade to Outperform on June 26"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock soared 26.8% over 12 weeks, significantly outpacing S&P 500's 3.1% gain; part of Zacks Focus List"
+      },
+      {
+        "ticker": "CACI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 19.6% over 12 weeks, outperforming S&P 500; part of Zacks Focus List"
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 18.6% over 12 weeks; component of Zacks Earnings Certain Admiral Portfolio"
+      },
+      {
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 8% over 12 weeks; component of Zacks Earnings Certain Admiral Portfolio"
+      },
+      {
+        "ticker": "PAYX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 15.1% over 12 weeks; part of Zacks Earnings Certain Dividend Portfolio"
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 12% over 12 weeks; part of Zacks Earnings Certain Dividend Portfolio"
+      },
+      {
+        "ticker": "FCFS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 45.7% since January 5, 2026; part of Zacks Top 10 Stocks for 2025"
+      }
+    ]
+  },
+  {
     "id": "1caf0616bd48db8387c4b75ad0e013a34aa999a1e27cf10fb31b7e636ed6e403",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -125,38 +217,6 @@
         "ticker": "FCFS",
         "sentiment": "positive",
         "sentiment_reasoning": "The acquisition of H&T Group, the largest pawnbroker in the UK, is a strategic move that expands FirstCash's global presence and solidifies its position as the largest publicly traded pawn operator across multiple regions. This is expected to boost the company's earnings and EBITDA, supporting its broader international strategy."
-      }
-    ]
-  },
-  {
-    "id": "1076c9fcff5ad2db6b18da9c8db45d81d31470bef03e437765e137bff7ba4394",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "FirstCash to Acquire H&T Group, the Leading Operator of Pawnshops in the United Kingdom",
-    "author": "Globe Newswire",
-    "published_utc": "2025-05-14T06:15:20Z",
-    "article_url": "https://www.benzinga.com/pressreleases/25/05/g45398582/firstcash-to-acquire-h-t-group-the-leading-operator-of-pawnshops-in-the-united-kingdom",
-    "tickers": [
-      "FCFS"
-    ],
-    "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-    "description": "FirstCash, a leading international operator of pawn stores, announced that it has reached an agreement to acquire H&T Group, the largest pawnbroker in the United Kingdom. The acquisition will expand FirstCash's geographic footprint and create the largest publicly traded pawn platform in the U.S., Latin America, and the UK.",
-    "keywords": [
-      "FirstCash",
-      "H&T Group",
-      "pawnshops",
-      "acquisition",
-      "United Kingdom"
-    ],
-    "insights": [
-      {
-        "ticker": "FCFS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The acquisition of H&T Group is expected to be strategically and financially beneficial for FirstCash. It will expand the company's geographic reach, enhance its scale and operating leverage, and add experienced UK-based leadership, which is expected to drive strong execution and continued momentum in the UK market."
       }
     ]
   }

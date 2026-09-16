@@ -1,207 +1,234 @@
 [
   {
-    "id": "5e8ecb6019e21d38eecdf07f6abaa3eb7c1ed1879a9a6220b767dd71ebd7e533",
+    "id": "37017d976c5cda81aae063fec9a1f7bf51ddb62c36f62efdf4eeb93ea2a30710",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "American Express Just Reported Its Second Quarter. Here's What the Card-Fee Line Says About the Premium Consumer.",
-    "author": "Justin Pope",
-    "published_utc": "2026-07-27T12:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/27/american-express-just-reported-its-second-quarter/?source=iedfolrf0000001",
-    "tickers": [
-      "AXP",
-      "HOOD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880149%2Famerican-express-graphic.png&w=1200&op=resize",
-    "description": "American Express reported Q2 2026 earnings with EPS beating expectations but revenue slightly missing. Despite a 4% stock drop, the company's fee revenue grew 15% year-over-year, driven by strong customer acceptance of the Platinum Card's $200 annual fee increase to $895. The premium cardholder base remains resilient with low delinquency rates, and Millennials/Gen Z represent 65% of new accounts, supporting long-term growth.",
-    "keywords": [
-      "American Express Q2 earnings",
-      "premium credit cards",
-      "Platinum Card fee increase",
-      "fee revenue growth",
-      "affluent consumers",
-      "credit card competition",
-      "Millennials and Gen Z cardholders"
-    ],
-    "insights": [
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite initial stock decline, the company demonstrated strong pricing power with 15% fee revenue growth and customer acceptance of significant fee increases. Premium cardholder base shows resilience with low delinquency rates (2% write-off rate, 1.2% past due), and strong acquisition of younger demographics (65% of new accounts) positions the company well for long-term growth at an estimated 14% annual earnings growth."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a competitive threat in the premium credit card space. No specific performance data or analysis provided regarding Robinhood Markets itself."
-      }
-    ]
-  },
-  {
-    "id": "1382c5584db75fb51a4934157b1f256ab6bc803fd49e20943c4004bde70bf970",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's Why Hyperliquid Is Now a Threat to Robinhood, Kalshi, and Polymarket",
-    "author": "Alex Carchidi",
-    "published_utc": "2026-07-24T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/24/heres-why-hyperliquid-is-now-a-threat-to-robinhood/?source=iedfolrf0000001",
+    "title": "Will Sports Betting Hurdles Slow Robinhood's Prediction Markets Push?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-16T12:24:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2990364/will-sports-betting-hurdles-slow-robinhood-s-prediction-markets-push?cid=CS-ZC-FT-analyst_blog|quick_take-2990364",
     "tickers": [
       "HOOD",
-      "PURR"
+      "IBKR",
+      "COIN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879875%2Finvestors-ponders-crypto-chart-at-desk.jpg&w=1200&op=resize",
-    "description": "Hyperliquid's new HIP-4 upgrade allows anyone staking 500,000 HYPE tokens to create permissionless prediction markets, directly challenging established competitors Robinhood, Kalshi, and Polymarket. The decentralized exchange's lower fees and automated token buyback mechanism position it as a significant threat, though U.S. regulatory restrictions and high staking requirements limit its immediate impact.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/1c/7999.jpg",
+    "description": "Robinhood faces regulatory headwinds in its fast-growing prediction markets business as Connecticut and Michigan impose restrictions on sports event contracts. Despite event contracts generating $156 million in Q2 2026\u2014exceeding equities and crypto revenues\u2014regulatory uncertainty from state enforcement and federal court rulings on unlicensed gambling could limit market access and growth. Competitors Interactive Brokers and Coinbase are also scaling prediction market offerings.",
     "keywords": [
       "prediction markets",
-      "decentralized exchange",
-      "HIP-4 upgrade",
-      "outcome markets",
-      "permissionless markets",
-      "cryptocurrency",
-      "market competition"
+      "sports betting",
+      "regulatory restrictions",
+      "event contracts",
+      "Connecticut",
+      "Michigan",
+      "unlicensed gambling",
+      "compliance costs"
     ],
     "insights": [
       {
         "ticker": "HOOD",
         "sentiment": "negative",
-        "sentiment_reasoning": "Robinhood faces competitive pressure from Hyperliquid across multiple niches including derivatives trading and prediction markets. Hyperliquid offers lower fees and doesn't require regulatory approval like Robinhood's partners, making it a direct threat to Robinhood's market share."
+        "sentiment_reasoning": "Facing significant regulatory headwinds with state-level restrictions in Connecticut and Michigan limiting sports event contract offerings. While event contract revenues are surging ($156M in Q2), regulatory uncertainty and potential compliance costs pose risks to this fast-growing revenue stream. Stock trades at premium valuation (P/TB 11.47X vs industry 3.27X), making it vulnerable to growth disappointments."
       },
-      {
-        "ticker": "PURR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Hyperliquid is presented as an innovative disruptor with a new capability that competitors lack. The HIP-4 upgrade enables permissionless market creation, lower fees, and automated token buybacks that create upside pressure on HYPE price. The article positions it as a growing threat to incumbents."
-      }
-    ]
-  },
-  {
-    "id": "debf7bddf9d270efc7dda3f46114c1219855b8e000f380bada363d816f20247d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Interactive Brokers Grew Its Customer Accounts 34% in a Year. Here's the Bull Case Before Q2 Earnings.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-19T14:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/19/interactive-brokers-grew-its-customer-accounts-34/?source=iedfolrf0000001",
-    "tickers": [
-      "IBKR",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ",
-      "HOOD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878007%2F26_07_15-flags-that-say-buy-and-sell-on-them-_gettyimages-2264644356-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Interactive Brokers reported strong June 2026 metrics with 34% year-over-year growth in customer accounts to 5.185 million, 40% increase in client equity to $930.3 billion, and 53% surge in trading volume. The company also saw margin loan balances jump 67% to $108.5 billion. Q1 2026 revenues grew 17% to $1.67 billion with adjusted earnings up 28% to $0.60 per share. However, the stock trades at valuations roughly twice its five-year averages, suggesting high market expectations that could lead to disappointment if Q2 results don't exceed forecasts.",
-    "keywords": [
-      "discount brokerage",
-      "customer growth",
-      "trading volume",
-      "margin loans",
-      "earnings expectations",
-      "valuation concerns"
-    ],
-    "insights": [
       {
         "ticker": "IBKR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamental growth across all key metrics (34% account growth, 40% equity growth, 53% trading increase, 67% margin loan growth) and solid Q1 earnings performance (17% revenue growth, 28% earnings growth) indicate robust business momentum heading into Q2 earnings."
+        "sentiment_reasoning": "Positioned competitively in prediction markets with a unified interface spanning multiple platforms (ForecastEx, Kalshi, CME Group). Focused strategy on economically relevant events and expanding weather/insurance-risk contracts demonstrates diversification beyond sports betting, reducing regulatory exposure compared to competitors."
       },
       {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the discount brokerage space but no specific performance data or analysis provided in the article."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the discount brokerage space but no specific performance data or analysis provided in the article."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the discount brokerage space but no specific performance data or analysis provided in the article."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the discount brokerage space but no specific performance data or analysis provided in the article."
+        "ticker": "COIN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Scaling prediction markets rapidly with 106% sequential revenue growth in Q2 2026, reaching over $100M annualized revenues. New crypto-binary experience driving 3x daily traders and 4x daily revenue, with plans to add combination trades. Strong momentum and crypto-native positioning may provide regulatory advantages versus traditional brokers."
       }
     ]
   },
   {
-    "id": "78f747e22b4ac0780fd684dd0a5d6de92c5867482a1dd2de7a73588c4c721c09",
+    "id": "9ef096b10289f8dfaf628568684b395fa79219f881cb56d56f5304b915b67a8c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Down 62% From Its High, Is Ethereum a Value Play or a Classic Value Trap?",
-    "author": "Dominic Basulto",
-    "published_utc": "2026-07-19T05:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/19/down-62-from-its-high-is-ethereum-a-value-play-or/?source=iedfolrf0000001",
+    "title": "3 Lessons Learned From SpaceX for Anthropic IPO Investors This October",
+    "author": "John Bromels",
+    "published_utc": "2026-09-16T08:35:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/16/3-lessons-learned-from-spacex-for-anthropic-ipo-in/?source=iedfolrf0000001",
     "tickers": [
-      "HOOD"
+      "SPCX",
+      "HOOD",
+      "SOFI"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879381%2Fsurprised-person-using-phone-on-the-street-in-city.jpg&w=1200&op=resize",
-    "description": "Ethereum has fallen 62% from its all-time high of $4,954 and released a new 'Lean Ethereum' roadmap promising upgrades including quantum resistance, faster transactions, and improved privacy by 2029. However, the author remains bearish, arguing that value is flowing to Layer-2 blockchains rather than Ethereum itself, and competitors like Solana are outpacing it in transaction speeds. Despite institutional efforts and foundation changes, these improvements may be too little, too late.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887089%2Fgettyimages-1072475902-1201x801-d21b45d.jpg&w=1200&op=resize",
+    "description": "The article examines three key lessons from SpaceX's IPO that are relevant for potential Anthropic IPO investors: (1) IPO shares typically trade at a discount to opening-day market prices, with SpaceX IPO shares at $135 versus $150+ on debut; (2) retail investor access to IPO shares depends on brokerage type and account requirements, with SpaceX reserving 30% for retail through platforms like Robinhood and SoFi; (3) newly public companies experience significant volatility, with SpaceX ranging from $108 to $225 in its first three months.",
     "keywords": [
-      "Ethereum",
-      "cryptocurrency",
-      "blockchain upgrades",
-      "Layer-2 solutions",
-      "quantum cryptography",
-      "value trap",
-      "institutional adoption",
-      "transaction speeds"
+      "IPO",
+      "SpaceX",
+      "Anthropic",
+      "retail investors",
+      "institutional investors",
+      "stock volatility",
+      "brokerage access"
     ],
     "insights": [
       {
+        "ticker": "SPCX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a case study for IPO dynamics. Article presents factual information about price movements and volatility without making a buy/sell recommendation. Current price of $143.49 is noted objectively."
+      },
+      {
         "ticker": "HOOD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Robinhood's launch of Robinhood Chain, a Layer-2 solution on Ethereum, is described as 'bullish for Robinhood' as it allows the company to leverage Ethereum's security and scalability while offering advanced trading functionality without reinventing the wheel."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a brokerage that offered retail access to SpaceX IPO shares. Presented factually without sentiment."
+      },
+      {
+        "ticker": "SOFI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a brokerage that offered retail access to SpaceX IPO shares. Presented factually without sentiment."
       }
     ]
   },
   {
-    "id": "793d76b908ca9e6129554ec94c072c8ace0b16a030cbb915f7a76556a0405a63",
+    "id": "7279f6db83f2fcd89aeb7b635f7bb53286c7daedae7f310d6aa5e899087261aa",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Robinhood CFO Shiv Verma Sells 3,982 Shares for $457,000 -- Here's What it Signals for the Stock",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-07-18T20:10:47Z",
-    "article_url": "https://www.fool.com/coverage/filings/2026/07/18/robinhood-cfo-shiv-verma-sells-3-982-shares-for-usd457-000-here-s-what-it-signals-for-the-stock/?source=iedfolrf0000001",
+    "title": "Stock Market Midday, Sept. 15: Stocks Slide on AI and Bond Jitters",
+    "author": "Emma Newbery",
+    "published_utc": "2026-09-15T16:34:52Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/15/stock-market-midday-sept-15-stocks-slide-on-ai-and-bond-jitters/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "INTC",
+      "MU",
+      "COIN",
+      "HOOD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F124861b6623a636d61e4bcd840fca773d88882f5-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Major stock indexes declined on September 15, 2026, as concerns over AI scaling pressures and rising bond yields weighed on markets. The S&P 500 fell 0.45%, the Nasdaq dropped 0.73%, and the Dow declined 0.88%. The 10-year Treasury yield reached 4.99%, its highest level since 2007. While some semiconductor stocks like Nvidia, Intel, and Micron gained slightly as investors reassessed AI concerns, cryptocurrency stocks fell ahead of Senate legislation votes. High treasury yields and rising oil prices compounded market weakness.",
+    "keywords": [
+      "stock market decline",
+      "AI concerns",
+      "bond yields",
+      "treasury yield",
+      "semiconductor stocks",
+      "cryptocurrency stocks",
+      "interest rates",
+      "market correction"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained slightly (+0.51%) as investors reassessed doomsday AI scenarios; positioned well despite broader market weakness"
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Gained slightly this morning alongside other semiconductor stocks as AI concerns were reassessed"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Gained slightly this morning as part of semiconductor sector recovery from AI-related selloff"
+      },
+      {
+        "ticker": "COIN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Dropped 6.03% ahead of Senate vote on key cryptocurrency legislation"
+      },
+      {
+        "ticker": "HOOD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Cryptocurrency stocks declined ahead of Senate legislation vote"
+      }
+    ]
+  },
+  {
+    "id": "53fdae8aea19cfb7b209648feb1dd44b30e8eaa6b6f29d54efe08267cce6ca33",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Reasons I Think Cathie Wood Is Buying Robinhood Stock Again",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-09-12T20:12:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/12/3-reasons-i-think-cathie-wood-is-buying-robinhood-stock-again/?source=iedfolrf0000001",
     "tickers": [
       "HOOD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6b2b2fe4ef558fb532dbb69b4b7c6a7470069583-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Robinhood Markets CFO Shiv Verma sold 3,982 shares worth approximately $457,000 on July 15, 2026, under a pre-arranged Rule 10b5-1 trading plan. The sale reduced his direct stake by 7%, leaving him with 55,945 shares valued at $6.5 million. The analyst notes this modest disposal should not concern investors, as the company's operations remain strong with 39% growth in platform assets, 15% revenue increase, and expanding product offerings.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fee1b2693816a163aeb657bc46ef66bc599a718ba-1280x854.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Cathie Wood's ARK Invest resumed buying Robinhood stock in early September after selling throughout the summer. The purchases appear driven by strong growth in event contracts (prediction markets), which generated $156M in Q2 revenue and saw 4.7B contracts traded in August\u201415x year-ago volumes. Additionally, Robinhood's platform assets grew to $384B with $74B in net deposits over the trailing 12 months, and customer margin balances surged 72% year-over-year to $21.5B, indicating deepening customer engagement.",
     "keywords": [
-      "insider trading",
-      "stock sale",
-      "Rule 10b5-1 trading plan",
-      "retail investing platform",
-      "financial services",
-      "market capitalization",
-      "revenue growth"
+      "Robinhood",
+      "ARK Invest",
+      "event contracts",
+      "prediction markets",
+      "margin lending",
+      "platform assets",
+      "growth investing"
     ],
     "insights": [
       {
         "ticker": "HOOD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite the CFO's share sale, the article emphasizes strong operational performance including 39% platform asset growth, 15% revenue increase, 14% adjusted EBITDA jump, and successful expansion into banking and prediction markets. The analyst expresses confidence in long-term growth potential alongside the company's young customer base, though noting the stock trades at a premium valuation of 44x forward earnings."
+        "sentiment_reasoning": "Strong operational metrics including explosive growth in event contracts (15x YoY), substantial platform asset growth (26% YoY to $384B), significant net deposit inflows ($74B trailing 12 months), and robust margin balance expansion (72% YoY to $21.5B). These metrics indicate healthy business momentum and customer engagement, justifying renewed institutional investment despite valuation concerns."
+      }
+    ]
+  },
+  {
+    "id": "d662d29b1ddf3099c811740b56393a78f9b5e7aee1458cee2da90b670e03839c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can Robinhood's Crypto.com Deal Supercharge Prediction Markets' Growth?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-09T13:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986847/can-robinhood-s-crypto-com-deal-supercharge-prediction-markets-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2986847",
+    "tickers": [
+      "HOOD",
+      "IBKR",
+      "COIN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/1c/7999.jpg",
+    "description": "Robinhood Markets has partnered with Crypto.com to route select football event contracts to OG.com's CFTC-regulated exchange, beginning September 8, 2026. The deal comes as prediction markets have become Robinhood's fastest-growing business, generating $156 million in Q2 2026 revenues\u2014surpassing equities and crypto revenues. With football seasons and 2026 midterm elections ahead, the expanded exchange network is expected to enhance liquidity and drive further growth, though regulatory uncertainty and intensifying competition from Interactive Brokers and Coinbase remain headwinds.",
+    "keywords": [
+      "prediction markets",
+      "event contracts",
+      "CFTC-regulated exchange",
+      "liquidity",
+      "regulatory uncertainty",
+      "retail trading",
+      "football contracts",
+      "midterm elections"
+    ],
+    "insights": [
+      {
+        "ticker": "HOOD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Prediction markets revenue surged to $156 million in Q2 2026 (10x YoY growth), exceeding equities and crypto revenues. The Crypto.com partnership expands execution venues and liquidity. Stock has jumped 35.9% in three months. However, premium valuation (P/TB 12.19X vs industry 3.38X) and regulatory risks temper outlook."
+      },
+      {
+        "ticker": "IBKR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key competitor with a unified prediction-market interface spanning multiple platforms (ForecastEx, Kalshi, CME Group). While competitive, no specific negative or positive developments are highlighted in the article."
+      },
+      {
+        "ticker": "COIN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Coinbase is scaling faster than competitors with prediction-market contracts and revenues jumping 106% sequentially in Q2 2026, reaching over $100 million in annualized revenues. Its new crypto-binary experience drove 3x daily traders and 4x daily revenue versus May averages."
       }
     ]
   }

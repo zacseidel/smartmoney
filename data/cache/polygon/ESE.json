@@ -1,0 +1,34 @@
+{
+  "ticker": "ESE",
+  "name": "ESCO Technologies, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000866706",
+  "composite_figi": "BBG000C4S3P3",
+  "share_class_figi": "BBG001S6MFD1",
+  "market_cap": 6738299101.03,
+  "phone_number": "(314) 213-7200",
+  "address": {
+    "address1": "645 MARYVILLE CENTRE DR., SUITE 300",
+    "city": "ST. LOUIS",
+    "state": "MO",
+    "postal_code": "63141"
+  },
+  "description": "ESCO Technologies Inc sells engineered products and systems for utility, industrial, aerospace, and commercial applications. The firm operates in three segments: Aerospace & Defense (A&D), Utility Solutions Group (USG), and RF Test & Measurement (Test). The Aerospace and Defense segment designs and manufactures specialty filtration and naval products. The USG segment provides diagnostic testing solutions. The Test segment provides its customers with the ability to identify, measure, and contain magnetic, electromagnetic, and acoustic energy.",
+  "sic_code": "3669",
+  "sic_description": "COMMUNICATIONS EQUIPMENT, NEC",
+  "ticker_root": "ESE",
+  "homepage_url": "https://www.escotechnologies.com",
+  "total_employees": 3425,
+  "list_date": "1990-10-19",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/ZXNjb3RlY2hub2xvZ2llcy5jb20/images/2026-09-01_logo.png"
+  },
+  "share_class_shares_outstanding": 25907567,
+  "weighted_shares_outstanding": 25907567,
+  "round_lot": 40
+}

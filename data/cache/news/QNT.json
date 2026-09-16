@@ -1,5 +1,61 @@
 [
   {
+    "id": "526bf6baafffd046e0a4a29fada679fb9f8a7828d2ede634e627d09a239238cc",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why D-Wave Quantum Stock Popped Today",
+    "author": "Rich Smith",
+    "published_utc": "2026-09-08T15:09:23Z",
+    "article_url": "https://www.fool.com/investing/2026/09/08/why-d-wave-quantum-stock-popped-today/?source=iedfolrf0000001",
+    "tickers": [
+      "QBTS",
+      "QNT",
+      "RGTI",
+      "RGTIW",
+      "GFS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886634%2Fneon-quantum-computing-sign-floats-in-a-sea-of-qubits.jpg&w=1200&op=resize",
+    "description": "D-Wave Quantum received up to $100 million in funding from the U.S. Department of Commerce under the CHIPS and Science Act, causing its stock to rise 10.86%. However, the government also awarded similar $100 million grants to rival quantum companies Quantinuum and Rigetti Computing. GlobalFoundries received the largest award at $375 million, suggesting it may be the government's preferred champion rather than D-Wave.",
+    "keywords": [
+      "CHIPS and Science Act",
+      "quantum computing",
+      "government funding",
+      "semiconductor",
+      "equity stake"
+    ],
+    "insights": [
+      {
+        "ticker": "QBTS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock popped 10.86% on announcement of $100 million government funding to scale and commercialize quantum capabilities, though the positive impact is tempered by the fact that competitors received equal awards."
+      },
+      {
+        "ticker": "QNT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 7.20% after receiving $100 million CHIPS Act award, demonstrating investor confidence in the company's quantum computing prospects."
+      },
+      {
+        "ticker": "RGTI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 7.40% following announcement of $100 million CHIPS Act funding, similar to other quantum computing companies receiving government support."
+      },
+      {
+        "ticker": "RGTIW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 7.40% following announcement of $100 million CHIPS Act funding, similar to other quantum computing companies receiving government support."
+      },
+      {
+        "ticker": "GFS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock up only 2.86% despite receiving the largest CHIPS Act award of $375 million, suggesting the market views this as expected or that the company's larger size limits percentage gains."
+      }
+    ]
+  },
+  {
     "id": "92ff05e9898be3cad5ced147c63cb8499ba13f69a1cf290215216a71a7180a05",
     "publisher": {
       "name": "The Motley Fool",
@@ -264,58 +320,6 @@
         "ticker": "GOOGN",
         "sentiment": "neutral",
         "sentiment_reasoning": "Mentioned as providing cloud platform access (Google Cloud) for quantum computing applications, but no specific investment thesis or sentiment provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "10f5132aa7b89def78abb5c684789f27daef99dde38b6b9dde8abf2317f2af4d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Honeywell Stock a Buy After Its Latest Structural Shakeup?",
-    "author": "James Halley",
-    "published_utc": "2026-07-03T23:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/03/is-honeywell-stock-a-buy-after-its-latest-structur/?source=iedfolrf0000001",
-    "tickers": [
-      "HON",
-      "HONA",
-      "SOLS",
-      "QNT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F876816%2Frobot-robotics-machine-manufacture-technology-engineering-1.jpg&w=1200&op=resize",
-    "description": "Honeywell completed its spinoff of its aerospace division on June 29, 2026, transforming into a pure-play industrial automation company focused on building, process, and industrial automation. The restructuring allows the company to capitalize on secular megatrends like warehouse automation and AI-driven energy efficiency. With a 49.1% stake in quantum computing leader Quantinuum and management targeting 4-6% organic growth with double-digit earnings growth over three years, analysts set an average price target of $474.75, representing 114% upside from current levels.",
-    "keywords": [
-      "spinoff",
-      "industrial automation",
-      "aerospace division",
-      "quantum computing",
-      "conglomerate restructuring",
-      "organic growth",
-      "ESG funds"
-    ],
-    "insights": [
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company's focused strategy on high-growth automation segments, strong Q1 growth (11% in building/industrial automation), strategic stake in quantum computing leader Quantinuum, and analyst price targets suggesting 114% upside support a positive outlook. Management's guidance for 4-6% organic growth and double-digit earnings growth over three years is encouraging."
-      },
-      {
-        "ticker": "HONA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the aerospace division showed solid fundamentals with a $19 billion defense and commercial backlog, it was spun off as a separate entity. The article focuses on Honeywell Technologies post-spinoff, making the aerospace company a secondary consideration with neither clear bullish nor bearish indicators in this context."
-      },
-      {
-        "ticker": "SOLS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Solstice was spun off in October and is mentioned only briefly as part of the portfolio transformation. The article provides minimal analysis of this company's prospects, warranting a neutral stance."
-      },
-      {
-        "ticker": "QNT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as the world leader in full-stack quantum computing with the industry benchmark for quantum volume. Honeywell's 49.1% stake provides exposure to this high-growth technology, and the company's recent IPO (June 4) positions it as a strategic asset that could appreciate and lift Honeywell's equity value."
       }
     ]
   }
