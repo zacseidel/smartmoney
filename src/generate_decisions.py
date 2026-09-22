@@ -27,6 +27,10 @@ Input format:
     ## Archive
     - MSFT | 2024-03-05 | 2024-12-18 | Rotated to cash
 
+A bullet with no date is still an open position. It is graded from the first
+available close for that ticker — the far edge of the Polygon history — on the
+assumption the lot was held longer than that window.
+
 Legacy `## Open` / `## Closed` files still parse into a single Positions bucket.
 
 Prices reuse the repo's per-ticker aggregate cache; tickers not already cached
@@ -64,6 +68,10 @@ KELLY_MIN_CLOSED_TRADES = 20
 RISK_FREE_RATE_ANNUAL = 0.05
 SHARPE_MIN_12M = 200
 SHARPE_MIN_3M = 40
+# Undated lots are assumed held past the price window. A series that starts
+# within this many days of `today - lookback` has hit that window, so the
+# holding label is ">2y" rather than the measured span.
+LOOKBACK_BOUNDARY_GRACE_DAYS = 45
 
 _H2_RE = re.compile(r"^##\s+(.+?)\s*$")
 _H3_RE = re.compile(r"^###\s+(.+?)\s*$")
@@ -89,9 +97,18 @@ def _new_category(name: str, archived: bool) -> dict:
     return {"name": name, "archived": archived, "opens": [], "closed": []}
 
 
+def _open_row(ticker: str, open_d: date | None, notes: str) -> dict:
+    return {"ticker": ticker, "open_date": open_d, "close_date": None,
+            "notes": notes, "status": "open", "assumed_hold": open_d is None}
+
+
 def _parse_bullet(line: str, section: str | None) -> dict | None:
     """Parse a pipe-delimited position bullet. `section` forces arity; None auto-detects
-    closed vs open from whether the third field is a date (so Archive pastes just work)."""
+    closed vs open from whether the third field is a date (so Archive pastes just work).
+
+    An open bullet with no date is kept. It is graded later from the first available
+    close, on the assumption the lot was held longer than the price history.
+    """
     parts = [p.strip() for p in line[1:].split("|")]
     ticker = parts[0].upper()
     if not re.match(r"^[A-Z][A-Z0-9.\-]{0,9}$", ticker or ""):
@@ -100,30 +117,32 @@ def _parse_bullet(line: str, section: str | None) -> dict | None:
     close_d = parse_date(parts[2]) if len(parts) > 2 else None
 
     if section == "open":
-        if not open_d:
-            log.warning("Skipping open position (bad/missing open date): %s", line)
-            return None
-        notes = "|".join(parts[2:]).strip() if len(parts) > 2 else ""
-        return {"ticker": ticker, "open_date": open_d, "close_date": None,
-                "notes": notes, "status": "open"}
+        if open_d:
+            notes = "|".join(parts[2:]).strip() if len(parts) > 2 else ""
+            return _open_row(ticker, open_d, notes)
+        notes = "|".join(parts[1:]).strip() if len(parts) > 1 else ""
+        if len(parts) > 1 and any(ch.isdigit() for ch in parts[1]):
+            log.warning(
+                "Open position %s has no parseable date (%r) — grading from the "
+                "start of available prices.", ticker, parts[1])
+        return _open_row(ticker, None, notes)
     if section == "closed":
         if not (open_d and close_d):
             log.warning("Skipping closed position (need open + close dates): %s", line)
             return None
         notes = "|".join(parts[3:]).strip() if len(parts) > 3 else ""
         return {"ticker": ticker, "open_date": open_d, "close_date": close_d,
-                "notes": notes, "status": "closed"}
+                "notes": notes, "status": "closed", "assumed_hold": False}
 
     if open_d and close_d:
         notes = "|".join(parts[3:]).strip() if len(parts) > 3 else ""
         return {"ticker": ticker, "open_date": open_d, "close_date": close_d,
-                "notes": notes, "status": "closed"}
+                "notes": notes, "status": "closed", "assumed_hold": False}
     if open_d:
         notes = "|".join(parts[2:]).strip() if len(parts) > 2 else ""
-        return {"ticker": ticker, "open_date": open_d, "close_date": None,
-                "notes": notes, "status": "open"}
-    log.warning("Skipping position (bad/missing dates): %s", line)
-    return None
+        return _open_row(ticker, open_d, notes)
+    notes = "|".join(parts[1:]).strip() if len(parts) > 1 else ""
+    return _open_row(ticker, None, notes)
 
 
 def parse_positions(text: str) -> list[dict]:
@@ -132,7 +151,8 @@ def parse_positions(text: str) -> list[dict]:
     `## Name` starts a bucket. `### Open` / `### Closed` (or legacy `## Open` /
     `## Closed`) select which list a bullet joins. `## Archive` is a sentinel:
     every bucket after it is archived. Bullets pasted directly under Archive
-    auto-detect open vs closed from the date fields.
+    auto-detect open vs closed from the date fields. A bullet with no date is an
+    open position graded from the start of available prices.
     """
     categories: list[dict] = []
     current: dict | None = None
@@ -205,7 +225,12 @@ def _load_bars(poly, ticker: str, start_iso: str, today_iso: str) -> dict:
     bars: list = []
     if poly is not None:
         bars = poly.aggregates(ticker, start_iso, today_iso, use_cache=True) or []
-        if bars and _bar_date(bars[0]) > date.fromisoformat(start_iso):
+        # A series that starts within the lookback grace already is the price
+        # history we have. Don't re-pull every ticker because the first session
+        # falls a day or two after a calendar lookback (or an undated lot).
+        covered_through = (date.fromisoformat(start_iso)
+                           + timedelta(days=LOOKBACK_BOUNDARY_GRACE_DAYS))
+        if bars and _bar_date(bars[0]) > covered_through:
             bars = poly.aggregates(ticker, start_iso, today_iso, use_cache=False) or []
     if not bars:
         path = AGGS_CACHE / f"{ticker}.json.gz"
@@ -242,6 +267,36 @@ def _held(a: date, b: date) -> str:
     if days < 730:
         return f"{days // 30}mo"
     return f"{days // 365}y {(days % 365) // 30}mo"
+
+
+def _assumed_held(first: date, today: date, lookback_days: int) -> str:
+    """Holding label for a lot with no purchase date.
+
+    The grade uses the whole available series. When that series reaches the
+    lookback boundary, the real hold is longer than two years.
+    """
+    floor = today - timedelta(days=lookback_days)
+    if first <= floor + timedelta(days=LOOKBACK_BOUNDARY_GRACE_DAYS):
+        return ">2y"
+    span = _held(first, today)
+    return f">{span}" if span else ">2y"
+
+
+def _price_window_start(positions: list[dict], today: date, lookback_days: int) -> date:
+    """Earliest bar date the page needs.
+
+    Dated lots pull history back to their open. Undated lots are assumed held
+    past the price window, so the request also reaches `today - lookback_days`
+    and each name is then graded from whatever its own series actually covers.
+    """
+    if not positions:
+        return today
+    lookback_start = today - timedelta(days=lookback_days)
+    dated = [p["open_date"] for p in positions if p.get("open_date")]
+    start = min(dated) if dated else lookback_start
+    if any(p.get("open_date") is None for p in positions):
+        start = min(start, lookback_start)
+    return start
 
 
 def _slug(name: str) -> str:
@@ -564,15 +619,33 @@ def _latest_report_id():
     return stems[-1] if stems else None
 
 
-def _enrich_open(p, bars, spy, spy_now, today, pid):
+def _enrich_open(p, bars, spy, spy_now, today, pid, lookback_days: int = 730):
+    """Price an open lot. No open date → entry is that ticker's first close.
+
+    The lot is assumed held longer than the price history, so the measurable
+    grade is the full available series versus the benchmark over the same dates.
+    """
     b = bars.get(p["ticker"], {})
-    entry_date = _first_bar_on_or_after(b, p["open_date"])
-    entry, current = _price_on(b, p["open_date"]), _latest(b)
+    assumed = p.get("open_date") is None
+    open_day = p["open_date"] or (min(b) if b else None)
+    entry_date = _first_bar_on_or_after(b, open_day) if open_day else None
+    entry = _price_on(b, open_day) if open_day else None
+    current = _latest(b)
     ret = _safe_pct(current, entry)
-    spy_ret = _safe_pct(spy_now, _price_on(spy, p["open_date"]))
+    spy_ret = _safe_pct(spy_now, _price_on(spy, open_day)) if open_day else None
+    if assumed and open_day:
+        held = _assumed_held(open_day, today, lookback_days)
+        opened_label = f"≤ {open_day.isoformat()}"
+    elif assumed:
+        held = ""
+        opened_label = "—"
+    else:
+        held = _held(open_day, today) if open_day else ""
+        opened_label = open_day.isoformat() if open_day else "—"
     return {**p, "id": pid, "entry": entry, "current": current, "ret": ret,
             "spy_ret": spy_ret, "alpha": _delta(ret, spy_ret),
-            "held": _held(p["open_date"], today),
+            "held": held, "opened_label": opened_label,
+            "grade_date": open_day, "assumed_hold": assumed,
             "entry_date": entry_date, "exit_date": None}
 
 
@@ -592,11 +665,16 @@ def _enrich_closed(p, bars, spy, spy_now, today, pid):
             "ret_since": ret_s, "spy_since": spy_s, "alpha_since": _delta(ret_s, spy_s),
             "held": _held(p["open_date"], p["close_date"]),
             "since_held": _held(p["close_date"], today),
+            "opened_label": p["open_date"].isoformat() if p.get("open_date") else "—",
             "entry_date": entry_date, "exit_date": exit_date}
 
 
 def _assemble_category(cat, bars, spy, spy_now, spy_sharpe, today) -> dict:
-    open_rows = sorted(cat["open_rows"], key=lambda r: r["open_date"], reverse=True)
+    open_rows = sorted(
+        cat["open_rows"],
+        key=lambda r: r.get("grade_date") or r.get("open_date") or date.min,
+        reverse=True,
+    )
     closed_rows = sorted(cat["closed_rows"], key=lambda r: r["close_date"], reverse=True)
     live_book = [
         {"id": r["id"], "ticker": r["ticker"],
@@ -646,7 +724,13 @@ def run(today: date | None = None) -> None:
         log.warning("No categories parsed from %s — skipping decisions page.", POSITIONS_PATH)
         return
 
-    start_iso = (min(p["open_date"] for p in all_pos) if all_pos else today).isoformat()
+    lookback_days = cfg["polygon"].get("chart_lookback_days", 730)
+    start_iso = _price_window_start(all_pos, today, lookback_days).isoformat()
+    n_assumed = sum(1 for p in all_pos if p.get("open_date") is None)
+    if n_assumed:
+        log.info(
+            "%d position(s) have no date — grading each from the first available "
+            "close (assumed held longer than the price history).", n_assumed)
 
     key = os.environ.get("POLYGON_API_KEY", "")
     poly = PolygonClient(key, cfg["polygon"]) if key else None
@@ -666,7 +750,8 @@ def run(today: date | None = None) -> None:
         open_rows = []
         closed_rows = []
         for p in cat["opens"]:
-            open_rows.append(_enrich_open(p, bars, spy, spy_now, today, f"o{next_id}"))
+            open_rows.append(_enrich_open(
+                p, bars, spy, spy_now, today, f"o{next_id}", lookback_days))
             next_id += 1
         for p in cat["closed"]:
             closed_rows.append(_enrich_closed(p, bars, spy, spy_now, today, f"c{next_id}"))

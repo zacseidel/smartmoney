@@ -1,0 +1,34 @@
+{
+  "ticker": "SANM",
+  "name": "Sanmina  Corp",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000897723",
+  "composite_figi": "BBG000BHBTX7",
+  "share_class_figi": "BBG001S5SYJ0",
+  "market_cap": 11227038161.32,
+  "phone_number": "(408) 964-3500",
+  "address": {
+    "address1": "2700 N FIRST ST",
+    "city": "SAN JOSE",
+    "state": "CA",
+    "postal_code": "95134"
+  },
+  "description": "Sanmina Corp is a provider of integrated manufacturing solutions, components, and after-market services to original equipment manufacturers in the communications networks, storage, industrial, defense, and aerospace end markets. The operations are managed as two businesses: Integrated Manufacturing Solutions, which consists of printed circuit board assembly and represents a majority of the firm's revenue; and Components, Products, and Services, which includes interconnect systems and mechanical systems. The firm generates revenue mainly in the United States, China, and Mexico, but has a presence around the world.",
+  "sic_code": "3672",
+  "sic_description": "PRINTED CIRCUIT BOARDS",
+  "ticker_root": "SANM",
+  "homepage_url": "https://www.sanmina.com",
+  "total_employees": 39000,
+  "list_date": "1993-04-14",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2FubWluYS5jb20/images/2026-09-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 53597356,
+  "weighted_shares_outstanding": 53597356,
+  "round_lot": 100
+}

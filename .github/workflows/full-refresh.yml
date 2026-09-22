@@ -12,6 +12,10 @@ on:
         description: "Max NEW tickers to enrich this run (free-tier budget; default all)"
         default: "10000"
         required: false
+      financials_max:
+        description: "Max EDGAR financials fetches this run (default all; local update.py uses edgar.financials_refresh_max)"
+        default: "10000"
+        required: false
 
 jobs:
   full-refresh:
@@ -38,7 +42,7 @@ jobs:
         # --skip-ocr: OCR of scanned House PTRs runs locally only, never on CI. The
         # report surfaces the backlog (data/ocr_state.json); drain it with
         # `python src/ocr_scanned.py` on your machine.
-        run: python src/backfill.py --skip-ocr --enrich-max ${{ github.event.inputs.enrich_max || 10000 }}
+        run: python src/backfill.py --skip-ocr --enrich-max ${{ github.event.inputs.enrich_max || 10000 }} --financials-max ${{ github.event.inputs.financials_max || 10000 }}
         env:
           HTTP_USER_AGENT: ${{ secrets.HTTP_USER_AGENT }}
           POLYGON_API_KEY: ${{ secrets.POLYGON_API_KEY }}

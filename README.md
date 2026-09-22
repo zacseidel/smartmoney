@@ -49,7 +49,7 @@ Output lives in `docs/` and is served by GitHub Pages.
 
 1. **Secrets** (repo → Settings → Secrets and variables → Actions):
    - `POLYGON_API_KEY` — a Polygon.io key (free tier works; the pipeline paces to 5 calls/min).
-   - `HTTP_USER_AGENT` — a descriptive UA with contact info, e.g. `CongressTradesTracker/1.0 (you@example.com)`.
+   - `HTTP_USER_AGENT` — a descriptive UA with contact info, e.g. `CongressTradesTracker/1.0 (zachary.seidel@gmail.com)`.
 2. **GitHub Pages:** Settings → Pages → Deploy from branch → `main` / `/docs`.
 3. **GitHub Actions:** all workflows are manual-only (`workflow_dispatch`). Run one
    explicitly from the Actions tab only when an online run is desired.

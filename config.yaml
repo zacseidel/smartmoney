@@ -1,8 +1,8 @@
 # Congressional Trades Tracker configuration
 
 http:
-  # A descriptive User-Agent is required by the House Clerk and Senate eFD sites.
-  user_agent: "CongressTradesTracker/1.0 (contact: you@example.com)"
+  # A descriptive User-Agent is required by the House Clerk, Senate eFD, and SEC EDGAR.
+  user_agent: "CongressTradesTracker/1.0 (contact: zachary.seidel@gmail.com)"
   rate_limit_delay_ms: 400      # polite delay between House/Senate requests
   max_retries: 3
   timeout_seconds: 30
@@ -10,13 +10,21 @@ http:
 polygon:
   rate_limit_calls_per_min: 5   # free tier
   details_ttl_days: 180         # company description/profile — rarely changes, recheck ~every 6 months
-  financials_ttl_days: 90       # annual financial statements — refresh more often than the description
+  financials_ttl_days: 90       # PolygonClient.financials only. Stock pages read EDGAR.
   aggregates_ttl_days: 7        # retry interval for empty one-time history backfills
   news_limit: 5
   news_ttl_days: 14             # recent-news cache — headlines go stale after ~2 weeks
   news_refresh_max: 40          # max stale-news refreshes per run (relevant tickers only)
   chart_lookback_days: 730      # 2 years
   max_enrichment_tickers: 60    # safety cap per run (free-tier budget)
+
+edgar:
+  # Stock-page annuals (revenue, income, EPS, assets, equity) come from the SEC
+  # company-facts feed. 8/sec stays under the 10/sec fair-access ceiling.
+  facts_ttl_days: 30
+  tickers_ttl_days: 7
+  rate_limit_per_sec: 8
+  financials_refresh_max: 2000  # per run; a full book is a couple of minutes
 
 pipeline:
   lookback_days: 730            # trailing 2-year window for filings + returns

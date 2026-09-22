@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import sys
 import unittest
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 from unittest.mock import patch
 
@@ -83,13 +83,40 @@ class ParsePositionsTests(unittest.TestCase):
 
     def test_intro_prose_bullets_are_not_positions(self):
         text = Path(ROOT / "positions.md").read_text(encoding="utf-8")
-        names = [c["name"] for c in gd.parse_positions(text)]
+        cats = gd.parse_positions(text)
+        names = [c["name"] for c in cats]
         self.assertNotIn("Positions", names)
-        self.assertEqual(names[0], "Watchlist")
-        self.assertEqual(
-            [c["name"] for c in gd.parse_positions(text) if not c["archived"]],
-            ["Watchlist", "Healthcare", "New Tech"],
-        )
+        self.assertEqual(names[0], "Momentum Watchlist")
+        undated = [p for c in cats for p in c["opens"] if p["open_date"] is None]
+        self.assertTrue(any(p["ticker"] == "AMZN" and p["assumed_hold"] for p in undated))
+
+    def test_open_bullet_without_a_date_is_kept(self):
+        text = """
+## Schwab
+### Open
+- AMZN
+- META | founder-led
+- AAPL | 2026-06-01 | dated
+### Closed
+- TSLA | took profits
+- IBM | 2024-01-02 | 2024-06-01 | done
+## Archive
+- QQQ
+- MSFT | 2024-03-05 | 2024-12-18 | rotated
+"""
+        cats = {c["name"]: c for c in gd.parse_positions(text)}
+        opens = {p["ticker"]: p for p in cats["Schwab"]["opens"]}
+        self.assertIsNone(opens["AMZN"]["open_date"])
+        self.assertTrue(opens["AMZN"]["assumed_hold"])
+        self.assertEqual(opens["AMZN"]["notes"], "")
+        self.assertEqual(opens["META"]["notes"], "founder-led")
+        self.assertIsNone(opens["META"]["open_date"])
+        self.assertEqual(opens["AAPL"]["open_date"], date(2026, 6, 1))
+        self.assertFalse(opens["AAPL"]["assumed_hold"])
+        self.assertEqual([p["ticker"] for p in cats["Schwab"]["closed"]], ["IBM"])
+        self.assertIsNone(cats["Archive"]["opens"][0]["open_date"])
+        self.assertEqual(cats["Archive"]["opens"][0]["ticker"], "QQQ")
+        self.assertEqual(cats["Archive"]["closed"][0]["ticker"], "MSFT")
 
     def test_rejects_non_ticker_bullets(self):
         text = """
@@ -117,6 +144,86 @@ class ParsePositionsTests(unittest.TestCase):
 
 
 class DecisionPricingTests(unittest.TestCase):
+    def test_undated_open_is_graded_from_the_first_bar(self):
+        first, last = date(2024, 9, 23), date(2026, 9, 22)
+        bars = {"AMZN": {first: 100.0, last: 150.0}}
+        spy = {first: 200.0, last: 220.0}
+        row = gd._enrich_open(
+            {"ticker": "AMZN", "open_date": None, "close_date": None,
+             "notes": "", "status": "open"},
+            bars, spy, 220.0, last, "o0", lookback_days=730,
+        )
+        self.assertTrue(row["assumed_hold"])
+        self.assertEqual(row["grade_date"], first)
+        self.assertEqual(row["entry_date"], first)
+        self.assertEqual(row["entry"], 100.0)
+        self.assertEqual(row["current"], 150.0)
+        self.assertAlmostEqual(row["ret"], 50.0)
+        self.assertAlmostEqual(row["spy_ret"], 10.0)
+        self.assertAlmostEqual(row["alpha"], 40.0)
+        self.assertEqual(row["held"], ">2y")
+        self.assertEqual(row["opened_label"], "≤ 2024-09-23")
+
+    def test_undated_open_shorter_than_the_window_uses_that_series(self):
+        first, last = date(2026, 6, 1), date(2026, 9, 22)
+        bars = {"NEW": {first: 10.0, last: 12.0}}
+        spy = {first: 100.0, last: 105.0}
+        row = gd._enrich_open(
+            {"ticker": "NEW", "open_date": None, "close_date": None,
+             "notes": "", "status": "open"},
+            bars, spy, 105.0, last, "o1", lookback_days=730,
+        )
+        self.assertEqual(row["grade_date"], first)
+        self.assertAlmostEqual(row["ret"], 20.0)
+        self.assertTrue(row["held"].startswith(">"))
+        self.assertNotEqual(row["held"], ">2y")
+
+    def test_undated_open_without_bars_stays_blank(self):
+        row = gd._enrich_open(
+            {"ticker": "ZZZZ", "open_date": None, "close_date": None,
+             "notes": "", "status": "open"},
+            {}, {}, None, date(2026, 9, 22), "o2",
+        )
+        self.assertTrue(row["assumed_hold"])
+        self.assertIsNone(row["grade_date"])
+        self.assertIsNone(row["entry_date"])
+        self.assertIsNone(row["ret"])
+        self.assertEqual(row["opened_label"], "—")
+
+    def test_price_window_reaches_lookback_when_any_lot_is_undated(self):
+        today = date(2026, 9, 22)
+        positions = [
+            {"open_date": date(2026, 5, 1)},
+            {"open_date": None},
+        ]
+        self.assertEqual(
+            gd._price_window_start(positions, today, 730),
+            date(2024, 9, 22),
+        )
+        dated_only = [{"open_date": date(2026, 5, 1)}]
+        self.assertEqual(gd._price_window_start(dated_only, today, 730), date(2026, 5, 1))
+        older = [{"open_date": date(2023, 11, 7)}, {"open_date": None}]
+        self.assertEqual(gd._price_window_start(older, today, 730), date(2023, 11, 7))
+
+    def test_load_bars_does_not_refetch_when_cache_starts_inside_the_grace(self):
+        start = date(2024, 9, 22)
+        first = date(2024, 9, 23)
+        stamp = int(datetime(first.year, first.month, first.day, tzinfo=timezone.utc).timestamp() * 1000)
+
+        class FakePoly:
+            def __init__(self):
+                self.uncached = 0
+
+            def aggregates(self, ticker, start_iso, today_iso, use_cache=True):
+                if not use_cache:
+                    self.uncached += 1
+                return [{"t": stamp, "c": 10.0}]
+
+        poly = FakePoly()
+        bars = gd._load_bars(poly, "AMZN", start.isoformat(), "2026-09-22")
+        self.assertEqual(poly.uncached, 0)
+        self.assertEqual(bars[first], 10.0)
+
     def test_price_on_uses_first_trading_day_on_or_after_date(self):
         bars = {
             date(2026, 7, 24): 101.0,

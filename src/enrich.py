@@ -6,11 +6,9 @@ description, sector, market cap, recent news, key financials, and a price summar
 
 The price summary (current price, 52-week high/low) is derived for free from the
 close bars fetch_prices already built from grouped-daily snapshots — no per-ticker
-price call is ever made here. API budget is spent only on:
-  * new/stale company profiles — description recheck cadence is details_ttl_days
-    (~6 months); the profile call also pulls financials + news.
-  * financials-only refreshes — annual statements on their own financials_ttl_days
-    (~90 days) cadence, without re-pulling the slow-changing description.
+price call is ever made here. Polygon budget is spent only on new/stale company
+profiles (description + news; details_ttl_days, ~6 months). Annual financials come
+from EDGAR company facts (see fetch_financials.py), not from Polygon.
 
 --focus outperformers restricts this API-spending work to the outperformer companies
 in rankings.json (the standard, frequently-run pipeline); the default (all) is the
@@ -19,7 +17,7 @@ default so every rendered stock page can receive the same company context. Price
 fields are refreshed for every page ticker either way, since that costs no API calls.
 
 Usage:
-  python src/enrich.py [--max N] [--focus all|outperformers] [--ticker TICKER]
+  python src/enrich.py [--max N] [--financials-max N] [--focus all|outperformers] [--ticker TICKER]
 """
 
 import argparse
@@ -29,7 +27,8 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from utils import (AGGS_CACHE, DATA_DIR, FINANCIALS_CACHE, POLYGON_CACHE, Progress, PolygonClient,
+import fetch_financials
+from utils import (AGGS_CACHE, DATA_DIR, POLYGON_CACHE, Progress, PolygonClient,
                    fmt_duration, load_config, load_json, load_json_gz, save_json, setup_logging)
 from stock_universe import hedge_featured_tickers, stock_page_tickers
 
@@ -49,35 +48,11 @@ def outperformer_tickers() -> set[str]:
     return {t for t, s in stocks.items() if (s or {}).get("n_outperformer_buyers", 0) > 0}
 
 
-def _financials_summary(fin: dict | None) -> dict:
-    if not fin:
-        return {}
-    f = fin.get("financials", {}) or {}
-    inc = f.get("income_statement", {}) or {}
-    bal = f.get("balance_sheet", {}) or {}
-
-    def val(d, k):
-        return (d.get(k) or {}).get("value")
-
-    return {
-        "fiscal_period": fin.get("fiscal_period"),
-        "fiscal_year": fin.get("fiscal_year"),
-        "revenues": val(inc, "revenues"),
-        "net_income": val(inc, "net_income_loss"),
-        "operating_income": val(inc, "operating_income_loss"),
-        "diluted_eps": val(inc, "diluted_earnings_per_share"),
-        "assets": val(bal, "assets"),
-        "liabilities": val(bal, "liabilities"),
-        "equity": val(bal, "equity"),
-    }
-
-
 def _has_profile(ticker: str, company_info: dict, details_ttl: int) -> bool:
     """A ticker is 'profiled' once its company_info record exists and its *details*
     cache is still fresh (details_ttl_days). Price and financials freshness are
-    deliberately NOT part of this check — both are refreshed on their own cadence
-    (prices for free from the close bars; financials via a separate cheap pass) so
-    neither triggers a full re-enrichment of an existing profile."""
+    deliberately NOT part of this check — prices come from the close bars and
+    annual figures from EDGAR — so neither triggers a full re-enrichment."""
     return (ticker in company_info
             and PolygonClient._cache_fresh(POLYGON_CACHE / f"{ticker}.json", details_ttl))
 
@@ -98,12 +73,16 @@ def _price_summary(ticker: str) -> dict:
 
 
 def run(max_override: int | None = None, focus: str | None = None,
-        ticker_overrides: set[str] | None = None) -> None:
+        ticker_overrides: set[str] | None = None,
+        financials_max: int | None = None) -> None:
     cfg = load_config()
     pcfg = cfg["polygon"]
     max_new = max_override if max_override is not None else pcfg["max_enrichment_tickers"]
     details_ttl = pcfg.get("details_ttl_days", 180)
-    financials_ttl = pcfg.get("financials_ttl_days", 90)
+    fin_cap = financials_max
+    if fin_cap is None:
+        fin_cap = (cfg.get("edgar") or {}).get("financials_refresh_max", 2000)
+    call_interval = 60.0 / pcfg["rate_limit_calls_per_min"]
 
     if not LEDGER_PATH.exists():
         log.error("No ledger at %s — run fetch_house/fetch_senate first", LEDGER_PATH)
@@ -134,13 +113,6 @@ def run(max_override: int | None = None, focus: str | None = None,
         if ticker in company_info:
             company_info[ticker].update(_price_summary(ticker))
 
-    if not api_key:
-        log.warning("POLYGON_API_KEY not set — keeping existing company_info (%d)", len(company_info))
-        save_json(COMPANY_INFO_PATH, company_info)
-        return
-
-    poly = PolygonClient(api_key, pcfg)
-
     # Scope the API-spending work. The standard pipeline focuses on the out-performer
     # companies (deep dives that matter); the full refresh (default) covers everything.
     scope = tickers
@@ -154,72 +126,70 @@ def run(max_override: int | None = None, focus: str | None = None,
             return
 
     # 1) Build profiles for scoped tickers whose record is missing or whose description
-    #    (details) cache has gone stale. ~3 calls each (details + financials + news).
-    needs_profile = [t for t in scope if not _has_profile(t, company_info, details_ttl)]
-    planned = min(len(needs_profile), max_new)
-    log.info("%d in scope | %d profiled & fresh | up to %d new/stale profiles via API (~%s)",
-             len(scope), len(scope) - len(needs_profile), planned, fmt_duration(planned * 3 * 12))
-    prog = Progress(planned, "profiles (API)", log)
-
+    #    (details) cache has gone stale. 2 Polygon calls each (details + news).
     new_enriched = 0
-    for ticker in needs_profile:
-        if new_enriched >= max_new:
-            break  # API budget spent this run; pick up the rest next run
-        new_enriched += 1
-        prog.step(ticker)
+    if not api_key:
+        log.warning("POLYGON_API_KEY not set — keeping existing profiles (%d)", len(company_info))
+    else:
+        poly = PolygonClient(api_key, pcfg)
+        needs_profile = [t for t in scope if not _has_profile(t, company_info, details_ttl)]
+        planned = min(len(needs_profile), max_new)
+        log.info("%d in scope | %d profiled & fresh | up to %d new/stale profiles via API (~%s)",
+                 len(scope), len(scope) - len(needs_profile), planned,
+                 fmt_duration(planned * 2 * call_interval))
+        prog = Progress(planned, "profiles (API)", log)
+        for ticker in needs_profile:
+            if new_enriched >= max_new:
+                break  # API budget spent this run; pick up the rest next run
+            new_enriched += 1
+            prog.step(ticker)
 
-        details = poly.ticker_details(ticker) or {}
-        fin = poly.financials(ticker)
-        news = poly.ticker_news(ticker)
+            details = poly.ticker_details(ticker) or {}
+            news = poly.ticker_news(ticker)
+            prior = company_info.get(ticker) or {}
 
-        company_info[ticker] = {
-            "ticker": ticker,
-            "name": details.get("name"),
-            "description": (details.get("description") or "")[:cfg["report"]["description_max_chars"]],
-            "sic_code": details.get("sic_code"),
-            "sic_description": details.get("sic_description"),
-            "market_cap": details.get("market_cap"),
-            "total_employees": details.get("total_employees"),
-            "homepage_url": details.get("homepage_url"),
-            "icon_url": (details.get("branding") or {}).get("icon_url"),
-            **_price_summary(ticker),
-            "recent_news": [
-                {"title": n.get("title"), "article_url": n.get("article_url"),
-                 "publisher": (n.get("publisher") or {}).get("name"),
-                 "published_utc": n.get("published_utc")}
-                for n in news
-            ],
-            "financials": _financials_summary(fin),
-        }
+            company_info[ticker] = {
+                "ticker": ticker,
+                "name": details.get("name"),
+                "description": (details.get("description") or "")[:cfg["report"]["description_max_chars"]],
+                "sic_code": details.get("sic_code"),
+                "sic_description": details.get("sic_description"),
+                "market_cap": details.get("market_cap"),
+                "total_employees": details.get("total_employees"),
+                "homepage_url": details.get("homepage_url"),
+                "icon_url": (details.get("branding") or {}).get("icon_url"),
+                **_price_summary(ticker),
+                "recent_news": [
+                    {"title": n.get("title"), "article_url": n.get("article_url"),
+                     "publisher": (n.get("publisher") or {}).get("name"),
+                     "published_utc": n.get("published_utc")}
+                    for n in news
+                ],
+                "financials": prior.get("financials") or {},
+            }
 
-    # 2) Financials-only refresh: for already-profiled scoped tickers whose annual
-    #    statements are older than financials_ttl_days, refresh just the financials
-    #    (1 call) without re-pulling the slow-changing description.
-    fin_refreshed = 0
-    for ticker in scope:
-        if fin_refreshed >= max_new:
-            break  # keep the free-tier budget bounded; the rest refresh next run
-        if not (ticker in company_info and _has_profile(ticker, company_info, details_ttl)):
-            continue  # missing or just (re)built above — financials already current
-        if PolygonClient._cache_fresh(FINANCIALS_CACHE / f"{ticker}.json", financials_ttl):
-            continue  # financials still fresh
-        company_info[ticker]["financials"] = _financials_summary(poly.financials(ticker))
-        fin_refreshed += 1
+    # 2) Annual figures from EDGAR. Keeps an existing row when the filing has no
+    #    headline number (ETFs, odd filers). Largest disclosed names first.
+    fetch_financials.refresh(scope, company_info, fin_cap)
 
     save_json(COMPANY_INFO_PATH, company_info)
-    log.info("Enriched %d new/stale profiles, refreshed financials for %d; company_info has %d tickers",
-             new_enriched, fin_refreshed, len(company_info))
+    log.info("Enriched %d new/stale profiles; company_info has %d tickers",
+             new_enriched, len(company_info))
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--max", type=int, default=None, help="override max new tickers this run")
+    ap.add_argument("--financials-max", type=int, default=None,
+                    help="override max EDGAR financials fetches this run "
+                         "(default: edgar.financials_refresh_max)")
     ap.add_argument("--focus", choices=["all", "outperformers"], default="all",
                     help="'outperformers' restricts API work to out-performer companies (standard pipeline)")
     ap.add_argument("--ticker", action="append", default=[],
                     help="enrich only this stock-page ticker; may be repeated")
     args = ap.parse_args()
-    run(args.max, focus=args.focus, ticker_overrides=set(args.ticker))
+    run(args.max, focus=args.focus, ticker_overrides=set(args.ticker),
+        financials_max=args.financials_max)
 
 
 if __name__ == "__main__":

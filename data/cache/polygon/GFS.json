@@ -1,0 +1,24 @@
+{
+  "ticker": "GFS",
+  "name": "GlobalFoundries Inc. Ordinary Shares",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001709048",
+  "market_cap": 27073821547.71,
+  "description": "GlobalFoundries is a top-five contract semiconductor manufacturer globally. It was originally the manufacturing arm of Advanced Micro Devices before it was spun out in 2009. The foundry sells chips into a range of end markets including smartphones, PCs, Internet of Things, data centers, automotive, industrial, and so on, but primarily focuses on more mature process technologies. Until 2021, the firm was privately held by Mubadala Investment, the sovereign wealth fund of the United Arab Emirates, which remains its controlling shareholder today. GlobalFoundries merged with Chartered Semiconductor Manufacturing in 2009 and acquired IBM's chipmaking business in 2015. GF is headquartered in Malta, New York, and has about 13,000 staff.",
+  "ticker_root": "GFS",
+  "homepage_url": "https://www.gf.com",
+  "total_employees": 14000,
+  "list_date": "2021-10-28",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Z2YuY29t/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Z2YuY29t/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 548700833,
+  "weighted_shares_outstanding": 557418603,
+  "round_lot": 100
+}

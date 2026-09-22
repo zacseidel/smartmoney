@@ -76,8 +76,8 @@
   {% for r in rows %}
     <tr>
       <td>{{ r.ticker }}</td>
-      <td>{{ r.open_date }}</td>
-      <td class="small muted">{{ r.held }}</td>
+      <td{% if r.assumed_hold %} title="No purchase date. Graded from the first available close; the holding is longer than this price history."{% endif %}>{{ r.opened_label }}</td>
+      <td class="small muted"{% if r.assumed_hold %} title="Assumed held longer than the available price history."{% endif %}>{{ r.held }}</td>
       <td class="num">{{ usd(r.entry) }}</td>
       <td class="num">{{ usd(r.current) }}</td>
       <td class="num {{ cls(r.ret) }}" data-v="{{ r.ret if r.ret is not none else -9999 }}">{{ pct(r.ret) }}</td>
@@ -233,8 +233,11 @@
 <p class="small disclaimer" style="margin-top:24px">
   Personal positions and reasoning, shown for tracking / education only — not investment advice.
   Returns use adjusted closing prices on/after each date and reflect price only (no position
-  sizing, taxes, or fees). Category cards are equal-weight paper books rebalanced on open/close
-  dates. "Current" is the latest available close and may lag by a day. Half-Kelly is a
-  historical capital-at-risk heuristic from closed trades, not a recommendation.
+  sizing, taxes, or fees). A name with no purchase date is graded from its first available
+  close (marked ≤) and labeled &gt;2y when that series reaches the history window — the lot
+  is assumed held longer than the prices on file. Category cards are equal-weight paper books
+  rebalanced on open/close dates, with undated names entering on that first close. "Current"
+  is the latest available close and may lag by a day. Half-Kelly is a historical
+  capital-at-risk heuristic from closed trades, not a recommendation.
 </p>
 {% endblock %}

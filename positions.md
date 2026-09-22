@@ -12,9 +12,11 @@ Personal position log, rendered to `docs/decisions.html`.
 **Archive** is the same heading level as the buckets. To file something away, cut
 the bullet (or a whole `## Bucket` block) and paste it below `## Archive`. The
 page collapses Archive by default. Bullets pasted directly under Archive still
-parse: two dates means closed, one date means open.
+parse: two dates means closed, one date means open, and no date means open.
 
-Dates accept `YYYY-MM-DD` or `MM/DD/YYYY`. Notes are free text (may contain `|`).
+Dates accept `YYYY-MM-DD` or `MM/DD/YYYY`. A ticker with no date is graded from the
+first available close for that name (assumed held longer than the price history).
+Notes are free text (may contain `|`).
 
 ## Momentum Watchlist
 ### Open

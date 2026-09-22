@@ -36,7 +36,8 @@ from utils import load_config, setup_logging
 log = setup_logging("backfill")
 
 
-def run(lookback_days: int, enrich_max: int, skip_ocr: bool = False) -> None:
+def run(lookback_days: int, enrich_max: int, skip_ocr: bool = False,
+        financials_max: int | None = None) -> None:
     # Phase 1 — produce the leaderboard fast. Returns come from grouped-daily
     # pricing and need no Polygon enrichment, so render a complete report first.
     log.info("[1/10] fetch House ===========================================")
@@ -68,11 +69,11 @@ def run(lookback_days: int, enrich_max: int, skip_ocr: bool = False) -> None:
     generate_decisions.run()
     log.info(">>> Leaderboard, skill map and network are live in docs/ — open them while enrichment runs.")
 
-    # Phase 2 — slow on the free tier (~4 Polygon calls/ticker at 5/min). This
-    # adds company descriptions, news, financials, and price charts to the stock
-    # detail pages. Resumable: re-run backfill to continue where caching left off.
+    # Phase 2 — Polygon profiles are slow on the free tier (~2 calls/ticker at 5/min).
+    # Annual financials come from EDGAR and do not follow --enrich-max.
+    # Resumable: re-run backfill to continue where caching left off.
     log.info("[8/10] enrich (max %d new tickers) ==========================", enrich_max)
-    enrich.run(enrich_max)
+    enrich.run(enrich_max, financials_max=financials_max)
     log.info("[8/10] refresh news (relevant tickers) ======================")
     refresh_news.run()
     log.info("[9/10] charts ===============================================")
@@ -92,10 +93,13 @@ def main() -> None:
     ap.add_argument("--lookback-days", type=int, default=cfg["pipeline"]["lookback_days"])
     ap.add_argument("--enrich-max", type=int, default=10_000,
                     help="max new tickers to enrich this pass (default: effectively all)")
+    ap.add_argument("--financials-max", type=int, default=None,
+                    help="max EDGAR financials fetches this pass "
+                         "(default: edgar.financials_refresh_max; does not follow --enrich-max)")
     ap.add_argument("--skip-ocr", action="store_true",
                     help="skip OCR of scanned House PTRs (CI uses this; OCR runs locally only)")
     args = ap.parse_args()
-    run(args.lookback_days, args.enrich_max, args.skip_ocr)
+    run(args.lookback_days, args.enrich_max, args.skip_ocr, args.financials_max)
 
 
 if __name__ == "__main__":
