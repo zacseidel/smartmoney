@@ -1,179 +1,384 @@
 [
   {
-    "id": "66759d1d462737d3700a7ee6680babfff8d6d733dd22dd21023d5dc274bba319",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Top AI Expert: Elon Musk Buried His Most Important Filing Under the Biggest Headline of the Year, On Purpose",
-    "author": "James Altucher",
-    "published_utc": "2026-09-07T22:15:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357272/0/en/top-ai-expert-elon-musk-buried-his-most-important-filing-under-the-biggest-headline-of-the-year-on-purpose.html",
-    "tickers": [
-      "TSLA"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/07/3357272/0/en/top-ai-expert-elon-musk-buried-his-most-important-filing-under-the-biggest-headline-of-the-year-on-purpose.html",
-    "description": "AI expert James Altucher claims Elon Musk deliberately timed an FCC filing about AI satellite expansion to coincide with his record IPO announcement to avoid public scrutiny. The filing allegedly reveals Musk's plan to deploy up to one million AI-powered satellites in orbit and establish control over artificial intelligence infrastructure, positioning him similarly to how Rockefeller dominated the oil industry.",
-    "keywords": [
-      "Elon Musk",
-      "FCC filing",
-      "AI satellites",
-      "IPO",
-      "artificial intelligence",
-      "orbital territory",
-      "supply chain control",
-      "misdirection"
-    ],
-    "insights": [
-      {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The article portrays Musk as deliberately obscuring information about an ambitious AI satellite expansion plan through strategic timing of announcements. The framing suggests deceptive practices and monopolistic ambitions to control AI infrastructure, which raises concerns about transparency and competitive practices."
-      }
-    ]
-  },
-  {
-    "id": "bc1b8a067a0589d7d0260b45ce7319bbb750e100299736c88b6cd4bbe17ec81f",
+    "id": "7b2dd4a9402949a991ed0ecb17b6ded29dfd06d5460b66095da0ec40c33c699d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is Tesla Stock Under $360 a Share an Obvious Buy in September?",
-    "author": "Catie Hogan",
-    "published_utc": "2026-09-07T17:34:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/is-tesla-stock-under-360-a-share-an-obvious-buy-in/?source=iedfolrf0000001",
+    "title": "Firefly Aerospace vs. SpaceX: Which Space Stock Can Put Your Portfolio Into Orbit in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-09-22T22:15:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/firefly-aerospace-vs-spacex-which-space-stock-can-put-your-portfolio-into-orbit-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "TSLA"
+      "FLY",
+      "SPCX",
+      "TSLA",
+      "LMT",
+      "NOC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886131%2Ftesla-logo-the-motley-fool.png&w=1200&op=resize",
-    "description": "Tesla stock has fallen over 20% this year and trades around $360, below analyst price targets. While the company achieved record Q2 EV deliveries with 26% revenue growth, profitability declined due to heavy capital spending on robotaxis, AI, and robotics projects. The analyst suggests the stock is not an obvious buy due to execution risks and lofty valuations (P/E ratios of 150-330), but could be reasonable for risk-tolerant investors with a 5+ year horizon.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Firefly Aerospace and SpaceX as investment opportunities in 2026. Firefly offers a cheaper valuation with a $1.4B backlog and government contracts, while SpaceX dominates with its Starlink constellation and reusable rockets. Despite SpaceX's massive scale and IPO success, the author favors Firefly's more focused business model and lower price-to-sales ratio for long-term investors.",
     "keywords": [
-      "Tesla stock valuation",
-      "EV deliveries",
-      "capital spending",
-      "robotaxi",
-      "profitability pressure",
-      "long-term investment",
-      "execution risk"
+      "space stocks",
+      "aerospace investment",
+      "Firefly Aerospace",
+      "SpaceX",
+      "lunar missions",
+      "satellite internet",
+      "government contracts",
+      "IPO",
+      "valuation comparison",
+      "reusable rockets"
     ],
     "insights": [
+      {
+        "ticker": "FLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company achieved successful lunar landing in March 2025, maintains $1.4B backlog with NASA and U.S. Space Force contracts, trades at lower P/S ratio (13.2x vs 70x), and shows strong revenue growth (163% YoY). However, faces legal risks and significant operational losses."
+      },
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Dominates global launch market with reusable rockets, operates successful Starlink with 10.3M subscribers, raised world's largest IPO ($85.7B), and projects profitability by 2027. However, faces massive negative free cash flow (-$14B in 2025, projected -$67B in 2027) and recent net loss of $4.9B."
+      },
       {
         "ticker": "TSLA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed outlook with positive near-term fundamentals (record deliveries, revenue growth) offset by profitability concerns and high valuation multiples. The analyst acknowledges potential long-term upside from energy storage and AI initiatives but emphasizes significant execution risks and recommends only for risk-tolerant, long-term investors."
+        "sentiment_reasoning": "Mentioned only as context for Elon Musk's track record of success, not as a direct investment recommendation in this article."
+      },
+      {
+        "ticker": "LMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor and partner to Firefly Aerospace, but not evaluated as an investment option in this article."
+      },
+      {
+        "ticker": "NOC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor and partner to Firefly Aerospace, but not evaluated as an investment option in this article."
       }
     ]
   },
   {
-    "id": "f60b61bd156aa65bec9fcb8117f972e7147fde0f529ee2cc26abbb3a2cab2f61",
+    "id": "45033e639526879a3f618b7cf6c96058a2143e72683f50ed9427c7677da7ef77",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-09-22T20:20:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-eos-energy-enterprises-which-energy-storage-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BE",
+      "EOSE",
+      "EOSEW",
+      "AEP",
+      "BN",
+      "BNH",
+      "BNJ",
+      "TSLA",
+      "FLNC",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two energy storage companies: Bloom Energy, a mature fuel cell provider with strong partnerships and profitability, and Eos Energy Enterprises, an emerging zinc-based battery manufacturer with explosive revenue growth but significant losses. Despite Bloom's higher valuation multiples, Eos is recommended for its attractive P/S ratio, recent business advances, and strong 2026 pipeline, while Bloom benefits from the AI datacenter boom with expected 85% revenue growth.",
+    "keywords": [
+      "energy storage",
+      "fuel cells",
+      "zinc-based batteries",
+      "grid reliability",
+      "AI datacenter demand",
+      "valuation comparison",
+      "cash flow analysis"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Profitable on free cash flow basis ($57M), strong revenue growth (37% YoY to $2B), major partnerships with AEP and Brookfield, expected 85% revenue growth in 2026 with projected swing to $658M net income, and positioned to benefit from AI datacenter boom."
+      },
+      {
+        "ticker": "EOSE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy despite significant losses due to attractive P/S ratio (7.8x vs 25.1x for Bloom), explosive 630% revenue growth in 2025, strong $25B business pipeline, $807M backlog, 2026 revenue expected to more than double, and recent high-profile deal with Alphabet for solar energy storage project."
+      },
+      {
+        "ticker": "EOSEW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy despite significant losses due to attractive P/S ratio (7.8x vs 25.1x for Bloom), explosive 630% revenue growth in 2025, strong $25B business pipeline, $807M backlog, 2026 revenue expected to more than double, and recent high-profile deal with Alphabet for solar energy storage project."
+      },
+      {
+        "ticker": "AEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major customer of Bloom Energy with a significant 1 GW fuel cell agreement, but no specific performance or sentiment indicators provided in the article."
+      },
+      {
+        "ticker": "BN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "BNH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "BNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Eos Energy Enterprises in the energy storage market, but no specific performance analysis provided."
+      },
+      {
+        "ticker": "FLNC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in the energy storage space, but no specific analysis or sentiment indicators provided."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+      }
+    ]
+  },
+  {
+    "id": "4069d5a4dbc4629a0db6e4f1f5a36c1e0eeeaf145574544132798e3bd6bb8765",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Wall Street Loves This EV Stock. Here's Why I'm Not Buying.",
+    "author": "Ryan Vanzo",
+    "published_utc": "2026-09-22T16:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/wall-street-loves-this-ev-stock-heres-why-im-not-b/?source=iedfolrf0000001",
+    "tickers": [
+      "LCID",
+      "TSLA",
+      "RIVN",
+      "UBER"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888128%2Flucid_sign_with_logo_lcid-1.jpg&w=1200&op=resize",
+    "description": "As the EV industry shifts toward robotaxi operations expected to reach scale by 2030, Lucid Group faces significant competitive disadvantages. Unlike Tesla and Rivian, Lucid lacks affordable vehicle models and sufficient production capacity to achieve economies of scale needed to supply robotaxi operators. This structural weakness makes it an unattractive investment despite Wall Street analyst support.",
+    "keywords": [
+      "robotaxi",
+      "autonomous vehicles",
+      "EV manufacturing",
+      "economies of scale",
+      "production capacity",
+      "affordable vehicles"
+    ],
+    "insights": [
+      {
+        "ticker": "LCID",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lacks affordable models, has insufficient production capacity compared to competitors, and is structurally disadvantaged in supplying the emerging robotaxi market despite existing partnerships."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Can manufacture vehicles cheaply for its own robotaxi operations, already has established production scale, and is well-positioned to dominate the robotaxi market."
+      },
+      {
+        "ticker": "RIVN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recently launched affordable models under $50,000 and has better production capacity than Lucid, positioning it ahead in supplying the robotaxi industry."
+      },
+      {
+        "ticker": "UBER",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Lacks internal manufacturing but is pursuing robotaxi operations and has signed deals with EV suppliers like Lucid; dependent on third-party vehicle sourcing."
+      }
+    ]
+  },
+  {
+    "id": "4716eba24094f1a72db9357b629f59d41a7aaf820c1a979467e673f04b50cd82",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "James Altucher: Elon Musk Is Quietly Running the Oldest Play in American Business, and Almost No One Has Noticed",
-    "author": "James Altucher",
-    "published_utc": "2026-09-07T12:45:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357106/0/en/james-altucher-elon-musk-is-quietly-running-the-oldest-play-in-american-business-and-almost-no-one-has-noticed.html",
+    "title": "Nickel Manganese Cobalt (NMC) Battery Market Outlook 2026-2035 - Featuring Profiles of LG Energy Solution, Panasonic, and Samsung SDI",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-22T08:52:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/22/3366064/28124/en/nickel-manganese-cobalt-nmc-battery-market-outlook-2026-2035-featuring-profiles-of-lg-energy-solution-panasonic-and-samsung-sdi.html",
     "tickers": [
+      "SSDIY",
+      "PCRHY",
       "TSLA"
     ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/07/3357106/0/en/james-altucher-elon-musk-is-quietly-running-the-oldest-play-in-american-business-and-almost-no-one-has-noticed.html",
-    "description": "Tech investor James Altucher argues that Elon Musk is employing John D. Rockefeller's vertical integration strategy in artificial intelligence, controlling the entire AI supply chain from rockets to chips through SpaceX. Altucher contends that Musk's space company provides an insurmountable competitive advantage, citing the failures of rivals like Virgin Orbit, Fisker, Astra, and Nikola that attempted to challenge him.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global NMC battery market is projected to grow from USD 35.6 billion in 2025 to USD 138.1 billion by 2035, with a CAGR of 14.2%. Growth is driven by increasing electric vehicle adoption, energy storage demand, and clean energy investments. The automotive segment is expected to grow at 12.4% CAGR, while the U.S. market alone is projected to reach USD 38.5 billion by 2035.",
     "keywords": [
-      "vertical integration",
-      "artificial intelligence",
-      "SpaceX",
-      "competitive advantage",
-      "supply chain control",
-      "satellite launches"
+      "NMC batteries",
+      "electric vehicles",
+      "energy storage",
+      "battery market growth",
+      "automotive electrification",
+      "renewable energy",
+      "battery manufacturing"
     ],
     "insights": [
+      {
+        "ticker": "SSDIY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a leading company in the NMC battery market positioned to benefit from the projected 14.2% CAGR growth through 2035"
+      },
+      {
+        "ticker": "PCRHY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the report title as a major player in the NMC battery industry with opportunities in the expanding automotive and energy storage segments"
+      },
       {
         "ticker": "TSLA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as part of Musk's integrated strategy; competitors like Fisker that challenged Tesla lost 99.93% of their value, implying Tesla's dominant market position."
+        "sentiment_reasoning": "Listed as a key participant in the NMC battery market, benefiting from accelerating EV adoption and increased battery demand"
       }
     ]
   },
   {
-    "id": "fc67ff2d7f161bfc6ee6dcd2a25789ffe1263086024b3983d015daa5d28a220d",
+    "id": "658feb876cc3607d766d1a1ea683e9bd9c2e2725528cec7dbe48378cad1ec8d2",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Where Will Tesla Be in 5 Years?",
-    "author": "Neil Patel",
-    "published_utc": "2026-09-07T09:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/where-will-tesla-be-in-5-years/?source=iedfolrf0000001",
+    "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-21T13:30:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992824/u-s-china-talks-seem-successful-etf-areas-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-2992824",
     "tickers": [
-      "TSLA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885527%2Ftesla-logo-on-red-filter-with-cybercab-in-background_the-motley-fool.png&w=1200&op=resize",
-    "description": "Tesla's Cybercab launch disappointed investors, with stock falling 6% on September 3. While the company has a $1.1 trillion market cap, it has underperformed the S&P 500 over the past five years (up 54% vs. 71%). The article argues Tesla's valuation is priced for perfection, with future profits from robotaxi and robotics ventures highly uncertain. Even assuming a 400% earnings increase by 2031, the stock would still trade at a steep 40x forward multiple, suggesting limited upside potential for investors.",
-    "keywords": [
-      "Tesla",
-      "Cybercab",
-      "robotaxi",
-      "humanoid robotics",
-      "stock valuation",
-      "earnings forecast",
-      "market performance",
-      "investor sentiment"
-    ],
-    "insights": [
-      {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The article presents a bearish outlook on Tesla's near-term prospects. Key concerns include: (1) recent Cybercab launch disappointed investors causing a 6% stock decline, (2) underperformance vs. S&P 500 over past 5 years, (3) current valuation of 40x forward earnings (2031 forecast) is unsustainably high, (4) robotaxi and robotics revenue remain negligible with uncertain timing for meaningful financial impact, and (5) the stock is 'priced for perfection' with limited margin for error, suggesting disappointing returns through 2031."
-      }
-    ]
-  },
-  {
-    "id": "813e613fd5cd7eb166dd98bff3a88c61ae6c7f07e3e611a9fa86fbcf463acfac",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Cathie Wood's 2 Biggest Positions Are Both Elon Musk Companies. Together They Are 16% of the Fund.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-09-07T01:04:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/06/cathie-wood-s-2-biggest-positions-are-both-elon-musk-companies-together-they-are-16-of-the-fund/?source=iedfolrf0000001",
-    "tickers": [
+      "QCOM",
+      "INTC",
+      "MU",
+      "AMAT",
+      "NVDA",
+      "AAPL",
+      "WMT",
+      "TGT",
+      "BBY",
+      "COST",
       "TSLA",
-      "ARKK"
+      "SMH",
+      "XRT",
+      "RTH",
+      "CARZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fee1b2693816a163aeb657bc46ef66bc599a718ba-1280x854.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "ARK Innovation ETF has significant concentration risk with Tesla and SpaceX\u2014both Elon Musk companies\u2014comprising 16% of the fund's assets. Tesla fell 5.92% on Friday following a disappointing Cybercab launch event and a federal safety audit, accounting for over half of the fund's 1.06% decline. Both companies trade at expensive valuations despite SpaceX's impressive revenue growth and Tesla's unproven robotaxi timeline.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg",
+    "description": "Ahead of an expected Trump-Xi meeting in Washington, U.S.-China trade negotiations focusing on tariff reductions and AI could benefit semiconductor, technology, retail, and auto sectors. Companies with significant China exposure including Qualcomm, Intel, Micron, Applied Materials, NVIDIA, Apple, Walmart, Target, Best Buy, Costco, and Tesla may see positive sentiment if trade tensions ease.",
     "keywords": [
-      "concentration risk",
-      "Elon Musk",
-      "Cybercab launch",
-      "robotaxi",
-      "valuation concerns",
-      "federal safety audit",
-      "satellite internet",
-      "IPO"
+      "U.S.-China trade talks",
+      "tariffs",
+      "semiconductors",
+      "AI chips",
+      "retail",
+      "automobiles",
+      "Trump-Xi meeting",
+      "trade negotiations"
     ],
     "insights": [
       {
-        "ticker": "TSLA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 5.92% after disappointing Cybercab launch with no pricing/production details and federal safety regulators opening an audit. Trades at 155x forward earnings with unproven product ramp assumptions."
+        "ticker": "QCOM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China revenue exposure; semiconductor tariff reductions could improve margins and sales"
       },
       {
-        "ticker": "ARKK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Fund declined 1.06% on Friday with over half the decline from single position (Tesla). Concentration in two expensive Musk companies (16% of assets) creates correlated risk. Underperformed S&P 500 over past year (15% vs 19%)."
+        "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major China exposure in semiconductor sales; potential tariff relief could boost revenue"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor company with substantial China business; trade deal could ease restrictions"
+      },
+      {
+        "ticker": "AMAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor equipment supplier with China exposure; tariff reductions could increase sales"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AI chip exports to China are central to trade discussions; broader agreement could unlock significant sales potential"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Extensive China manufacturing and supply chain exposure; easing tensions could reduce costs and improve margins"
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large sourcing from China; reciprocal tariff reductions could lower consumer goods costs"
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China sourcing; tariff relief could reduce imported goods costs"
+      },
+      {
+        "ticker": "BBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Consumer electronics retailer vulnerable to tariffs; trade deal could lower import costs"
+      },
+      {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major retailer with China sourcing; tariff reductions could improve pricing and margins"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China sales and manufacturing through Shanghai Gigafactory; trade normalization could boost operations"
+      },
+      {
+        "ticker": "SMH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor ETF; tariff reductions on chips would benefit holdings"
+      },
+      {
+        "ticker": "XRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Retail ETF; tariff reductions on imported consumer goods would benefit retailers"
+      },
+      {
+        "ticker": "RTH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Retail ETF; lower tariffs on China-sourced goods would improve margins"
+      },
+      {
+        "ticker": "CARZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Auto ETF; U.S. automakers have substantial China exposure; trade normalization would benefit sector"
       }
     ]
   }

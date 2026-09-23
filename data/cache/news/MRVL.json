@@ -1,295 +1,239 @@
 [
   {
-    "id": "995a321e72bb3be41811122fd6276997c3f410d7710bfb7688286fb6da080ef6",
+    "id": "c59011f11c9981ff5327c0642cd015a6703f6c3ff3b894de189472792ae1b0e8",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Bull of the Day: Semtech (SMTC)",
+    "title": "Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead?",
     "author": "Na",
-    "published_utc": "2026-09-03T09:20:00Z",
-    "article_url": "https://www.zacks.com/commentary/2984091/bull-of-the-day-semtech-smtc?cid=CS-ZC-FT-bull_of_the_day-2984091",
+    "published_utc": "2026-09-22T15:37:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993847/lumentum-to-demonstrate-dwdm-elsfp-at-ecoc-2026-what-s-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2993847",
     "tickers": [
-      "SMTC",
-      "NVDA",
-      "COHR",
       "LITE",
-      "MRVL"
+      "MRVL",
+      "AAOI"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6e/815.jpg",
-    "description": "Semtech (SMTC), a $12 billion semiconductor supplier, is positioned as a pivotal player in AI infrastructure and optical interconnects. Following a strong earnings beat in August with EPS estimates raised over 30% for the current year and 50% for next year, the company benefits from demand for high-speed optical transceivers and data center solutions. Operating through three segments\u2014Signal Integrity, Analog Mixed Signal, and IoT Systems\u2014Semtech serves hyperscalers and industrial markets, with Greater China representing 47% of sales.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/183568.webp",
+    "description": "Lumentum Holdings is expanding its optical connectivity solutions for AI data centers, planning to demonstrate an eight-wavelength DWDM ELSFP module at ECOC 2026 for co-packaged optics (CPO) and near-packaged optics (NPO) architectures. The company expects ultra-high-power laser chip demand to ramp in 2H 2027 and is expanding manufacturing capacity across Japan and the U.S. However, it faces intensifying competition from Marvell Technology and Applied Optoelectronics in the CPO/NPO market.",
     "keywords": [
-      "semiconductor",
-      "AI infrastructure",
-      "optical interconnects",
-      "data center",
-      "earnings beat",
-      "LoRa technology",
-      "hyperscalers"
+      "optical connectivity",
+      "AI data centers",
+      "DWDM ELSFP module",
+      "co-packaged optics",
+      "near-packaged optics",
+      "laser chips",
+      "1.6T transceivers",
+      "manufacturing expansion"
     ],
     "insights": [
       {
-        "ticker": "SMTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong earnings beat with EPS estimates raised 30% for current year and 50% for next year; positioned as key supplier for AI cluster buildouts and optical interconnects; growing LoRa ecosystem; improved gross margins; strategic acquisitions to expand optical module content."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Invested $2 billion each into optical-connectivity peers, validating the importance of optical interconnect technology and creating tailwinds for companies like Semtech in the AI infrastructure space."
-      },
-      {
-        "ticker": "COHR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $2 billion investment from NVIDIA; operates in optical-connectivity space benefiting from AI cluster buildouts; partners with Semtech in optical interconnect ecosystem."
-      },
-      {
         "ticker": "LITE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Received $2 billion investment from NVIDIA; optical-connectivity peer benefiting from AI infrastructure demand and data center expansion."
+        "sentiment_reasoning": "Strong momentum in AI data center optical connectivity with 130%+ YoY growth in narrow-linewidth laser shipments, successful 1.6T transceiver launches, planned capacity expansion, and strategic positioning in emerging CPO/NPO markets. Stock up 159% YTD with Zacks Rank #2 (Buy)."
       },
       {
         "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Received $2 billion investment from NVIDIA; operates in AI connectivity space alongside other optical-connectivity peers."
+        "sentiment_reasoning": "Strengthening competitive position across CPO, NPO, and silicon photonics with internally developed NPO light engine and integrated connectivity platform. Management increased scale-up optics revenue expectations for fiscal 2028."
+      },
+      {
+        "ticker": "AAOI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Aggressive expansion in CPO with plans to ramp ELSFP production targeting 400,000 units/month by 2028. Vertically integrated laser manufacturing in Texas and multiple customer qualifications support competitive advantage in high-power laser demand."
       }
     ]
   },
   {
-    "id": "99b6bad0c086ea03d7d240f8e51d3de6d959d74a4242520e2566803660ca0f0d",
+    "id": "11f0849e2b22379c21deda07d8fe3b25dad5bcbccdd368c77c169e3ed162d058",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Credo's New 1.6T Optics Matter to Its $600 Million Optical Push",
+    "author": "Na",
+    "published_utc": "2026-09-21T16:21:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993144/why-credo-s-new-1-6t-optics-matter-to-its-600-million-optical-push?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993144",
+    "tickers": [
+      "CRDO",
+      "MRVL",
+      "AVGO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default334.jpg",
+    "description": "Credo Technology launched new 224G-based ZeroFlap optical transceivers supporting 1.6T port speeds for AI scale-out interconnects. The company targets over $600 million in optical revenues by fiscal 2027 across multiple product lines including silicon photonics and optical DSPs. Success depends on customer ramps with hyperscalers and execution amid rising R&D spending.",
+    "keywords": [
+      "optical transceivers",
+      "1.6T port speeds",
+      "AI scale-out",
+      "silicon photonics",
+      "optical DSP",
+      "fiscal 2027 guidance",
+      "customer ramps"
+    ],
+    "insights": [
+      {
+        "ticker": "CRDO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company launched advanced 1.6T optical transceivers and acquired silicon photonics capabilities, positioning itself for significant optical revenue growth ($600M+ target in FY2027). However, sentiment is moderated by execution risks, rising R&D costs, and dependence on customer ramps. Stock rated Hold (Rank #3) with valuation concerns at 11.1X forward sales."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that expanded its 1.6T optical DSP portfolio in March, indicating competitive activity in the same market segment. No specific performance or strategic implications provided."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as a competitor that made a 3-nanometer 400G-per-lane optical DSP available in March for 1.6T solutions. Competitive presence in the optical interconnect market but no specific impact analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "d97e2a044a83ce3d07131c4bc1526d6cbcbf442c2d3f010feedbd90ee7979e37",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is CRDO Stock Worth Buying as Growth Outruns Its Premium Valuation?",
+    "author": "Na",
+    "published_utc": "2026-09-21T15:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993047/is-crdo-stock-worth-buying-as-growth-outruns-its-premium-valuation?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993047",
+    "tickers": [
+      "CRDO",
+      "AVGO",
+      "MRVL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/75/2558.jpg",
+    "description": "Credo Technology (CRDO) expects fiscal 2027 revenue growth exceeding 85% with expanding optical business becoming a second growth engine alongside its core Active Electrical Cables. However, the stock trades at a significant premium (11.1X forward sales vs. 5.0X sub-industry average) and faces execution risks due to high customer concentration, with the top two customers accounting for 61% of Q1 revenues. The company carries a Zacks Rank #3 (Hold) rating despite strong growth and margin profiles.",
+    "keywords": [
+      "revenue growth",
+      "optical business",
+      "customer concentration",
+      "valuation premium",
+      "Active Electrical Cables",
+      "silicon photonics",
+      "execution risk"
+    ],
+    "insights": [
+      {
+        "ticker": "CRDO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company demonstrates strong fundamentals with 85%+ expected revenue growth, high non-GAAP margins (48.2% operating margin), and expanding optical portfolio, these positives are offset by premium valuation (11.1X forward sales), high customer concentration (top 2 customers = 61% of revenue), and elevated execution risk. The Hold rating reflects balanced growth potential against valuation and concentration concerns."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor expanding AI infrastructure portfolio with similar product offerings (optics, SerDes, digital signal processors). Neutral mention as context for competitive landscape without specific performance data or sentiment indicators."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor that has expanded its 1.6T optical digital signal processor portfolio for AI data-center connectivity. Neutral mention providing competitive context without performance implications or sentiment indicators."
+      }
+    ]
+  },
+  {
+    "id": "8b88fb071d53fe385a82d4e1521872dfa8bbfc5a8252c91d7fa3f23b9cb91a6c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "CRDO Down 20.3% in a Month: Is the Weakness an Opportunity?",
+    "author": "Na",
+    "published_utc": "2026-09-21T15:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993035/crdo-down-20-3-in-a-month-is-the-weakness-an-opportunity?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993035",
+    "tickers": [
+      "CRDO",
+      "ALAB",
+      "MRVL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default327.jpg",
+    "description": "Credo Technology (CRDO) has declined 20.3% over the past month despite posting 114.7% year-over-year revenue growth to $479 million in fiscal Q1 2027. The company expects fiscal 2027 revenue growth above 85%, driven by active electrical cables (AECs) and optical products. However, concerns remain regarding high customer concentration (top 2 customers = 61% of revenues), premium valuation at 11.1X forward sales, and rising operating expenses. The stock carries a Zacks Rank #3 (Hold) rating.",
+    "keywords": [
+      "AI infrastructure connectivity",
+      "active electrical cables (AECs)",
+      "optical products",
+      "hyperscale customers",
+      "customer concentration risk",
+      "valuation premium",
+      "silicon photonics",
+      "1.6T connectivity"
+    ],
+    "insights": [
+      {
+        "ticker": "CRDO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong operational momentum with 114.7% revenue growth and expanding product portfolio (AECs and optics) are offset by significant risks including high customer concentration (61% from top 2 customers), premium valuation (11.1X forward sales vs. 5.0X sub-industry average), rising R&D expenses (118% YoY), and execution risks. The mixed signals and Hold rating reflect balanced upside and downside risks."
+      },
+      {
+        "ticker": "ALAB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a comparable company with strong 104% year-over-year revenue growth in Q2 2026, demonstrating robust demand in AI fabrics and signal conditioning markets, indicating healthy sector dynamics."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported 46% year-over-year data-center revenue growth in fiscal Q2 2027 with strong connectivity demand, indicating positive momentum in the broader AI infrastructure and connectivity sector."
+      }
+    ]
+  },
+  {
+    "id": "93113505e8c01260787259b2dd67ad4a9f8060c486c132b4052be3ab266bb088",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Broadcom Earnings: AI Chip Sales Tripled. Here\u2019s the $34.8 Billion Number Investors Need to Watch.",
-    "author": "Johnny Rice",
-    "published_utc": "2026-09-02T23:01:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/broadcom-earnings-ai-chip-sales-tripled-here-s-the-usd34-8-billion-number-investors-need-to-watch/?source=iedfolrf0000001",
+    "title": "Semiconductor Stocks to Buy and Hold Through 2030",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-09-19T09:17:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/19/semiconductor-stocks-to-buy-and-hold-through-2030/?source=iedfolrf0000001",
     "tickers": [
+      "NVDA",
       "AVGO",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
       "MRVL",
-      "NVDA"
+      "MU"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fcf1508b8bebae3e2cb84e3db6f440d03fd7812fb-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Broadcom reported Q3 2026 revenue of $29.6 billion and adjusted EPS of $3.32, both beating Wall Street expectations, with AI chip sales more than tripling to $16.7 billion (up 221% YoY). However, the company's Q4 guidance of $34.8 billion fell slightly short of the $35.03 billion analyst consensus, causing investor concern despite the exceptional growth. The stock trades at a steep valuation with little room for error if AI-driven growth decelerates.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8e6e29e041798fd7fa76a4475444f682d4028d9d-1199x675.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article analyzes four semiconductor companies for long-term holding through 2030 amid AI infrastructure buildout. Nvidia and Broadcom are recommended as anchors due to durable profit positions, Marvell is a buy but should be kept smallest, and Micron is rated a hold. The author cautions that AI spending will eventually cool, making valuation and supply chain positioning critical factors for four-year returns.",
     "keywords": [
-      "AI chip sales",
-      "earnings beat",
-      "guidance miss",
-      "semiconductor",
-      "AI accelerators",
-      "data center",
-      "valuation risk"
+      "semiconductor stocks",
+      "AI infrastructure",
+      "chip companies",
+      "long-term investing",
+      "valuation multiples",
+      "custom accelerators",
+      "memory chips"
     ],
     "insights": [
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Q3 results were exceptional with 86% revenue growth and AI chip sales tripling, the stock fell on a sub-1% guidance miss ($34.8B vs $35.03B expected). The company's high P/E ratio (>60) and market expectations for perfection create vulnerability if growth decelerates, offsetting the strong operational performance."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a long-term custom AI processor supply agreement with Broadcom through 2031, but recently signed a competing deal with Marvell Technology, indicating customers are diversifying suppliers and potentially developing in-house solutions."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a long-term custom AI processor supply agreement with Broadcom through 2031, but recently signed a competing deal with Marvell Technology, indicating customers are diversifying suppliers and potentially developing in-house solutions."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a long-term custom AI processor supply agreement with Broadcom through 2031, but recently signed a competing deal with Marvell Technology, indicating customers are diversifying suppliers and potentially developing in-house solutions."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a long-term custom AI processor supply agreement with Broadcom through 2031, but recently signed a competing deal with Marvell Technology, indicating customers are diversifying suppliers and potentially developing in-house solutions."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Marvell recently secured a custom-chip deal with Google, demonstrating it is gaining market share in the competitive AI chip space and benefiting from large customers' desire to diversify suppliers beyond Broadcom."
-      },
       {
         "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as another major beneficiary of the AI data-center boom alongside Broadcom, but no specific news or sentiment drivers are discussed in the article."
-      }
-    ]
-  },
-  {
-    "id": "51e2419ee29453976c14ac0e8c0c12675a84460b5dc4031e0b04fc65c6ff813d",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Credo's Optical Bet: Is a $600M+ Revenue Opportunity Taking Shape?",
-    "author": "Na",
-    "published_utc": "2026-09-02T12:40:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983576/credo-s-optical-bet-is-a-600m-revenue-opportunity-taking-shape?cid=CS-ZC-FT-analyst_blog|quick_take-2983576",
-    "tickers": [
-      "CRDO",
-      "MRVL",
-      "ALAB"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/168846.webp",
-    "description": "Credo Technology reported $479 million in Q1 FY2027 revenue, up 114.7% year-over-year, driven by strong demand for optical connectivity solutions in AI infrastructure. The company expects optical revenue to exceed $600 million in FY2027 with three product lines each contributing over $100 million. Competitors Marvell Technology and Astera Labs are also benefiting from the shift toward higher-speed connectivity and near-package optics in AI networks.",
-    "keywords": [
-      "AI infrastructure",
-      "optical connectivity",
-      "silicon photonics",
-      "near-package optics",
-      "semiconductor",
-      "data center",
-      "high-speed interconnects"
-    ],
-    "insights": [
-      {
-        "ticker": "CRDO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth of 114.7% YoY with record optical DSP revenue and successful silicon photonics PIC integration. Expected inflection in H2 FY2027 with optical revenue exceeding $600 million and over 85% full-year growth. However, trading at premium valuation (14.24x forward P/S vs. industry 4.96x) and rated Hold."
+        "sentiment_reasoning": "Strong 106% YoY revenue growth, dominant platform position in AI computing, management guidance of 70% growth in fiscal 2028, and reasonable 14x P/E multiple. Recommended as an anchor holding through 2030."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional 221% YoY AI semiconductor revenue growth with 73% from custom accelerators, secured supply to double AI revenue to $115B next year, and positioned as a key custom-chip franchise. Recommended as an anchor holding."
       },
       {
         "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong demand across optical DSPs, broadband analog, and switching businesses with 1.6T ramping rapidly. Multiple business segments tracking toward $1 billion annualized revenue run rates, with significant scale-up opportunity ahead."
-      },
-      {
-        "ticker": "ALAB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefiting from rising demand for high-speed connectivity in AI infrastructure with diverse product portfolio (Taurus, CXL, UALink, optical). Expected Q3 revenue of $540-$560 million implies ~40% sequential growth with strong product shipments."
-      }
-    ]
-  },
-  {
-    "id": "d35222946854f6384a37f719885e227e9502186e40488895f352d773d05e31f3",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should You Invest in the State Street SPDR NYSE Technology ETF (XNTK)?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-02T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2983508/should-you-invest-in-the-state-street-spdr-nyse-technology-etf-xntk?cid=CS-ZC-FT-sector_etf-2983508",
-    "tickers": [
-      "XNTK",
-      "MU",
-      "INTC",
-      "MRVL",
-      "XLK",
-      "VGT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default11.jpg",
-    "description": "The State Street SPDR NYSE Technology ETF (XNTK) is a passively managed fund tracking 35 U.S. technology companies with a low 0.35% expense ratio and $1.85 billion in assets. The ETF has gained 26.7% year-to-date and 45.7% over the past year, earning a Zacks ETF Rank of 1 (Strong Buy). However, it carries higher volatility with a beta of 1.45 and concentrated exposure with only 37 holdings.",
-    "keywords": [
-      "technology ETF",
-      "passive investing",
-      "low expense ratio",
-      "sector exposure",
-      "volatility",
-      "diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "XNTK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Buy rating from Zacks, low expense ratio of 0.35%, significant year-to-date gains of 26.7%, and strong one-year performance of 45.7% support a positive outlook."
+        "sentiment_reasoning": "Strong 46% data center revenue growth with custom business expected to more than double, but trading at highest valuation (33x P/E). Recommended as a buy but with smallest position size due to execution risk."
       },
       {
         "ticker": "MU",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in XNTK at 7.93% of assets, but mentioned only as a portfolio component without independent performance analysis or recommendation."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in XNTK, mentioned only as a portfolio component without independent performance analysis or recommendation."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in XNTK, mentioned only as a portfolio component without independent performance analysis or recommendation."
-      },
-      {
-        "ticker": "XLK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as an alternative option with lower expense ratio (0.08%) but significantly larger asset base ($119.66 billion), offering different risk/return profile."
-      },
-      {
-        "ticker": "VGT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as an alternative option with comparable low expense ratio (0.09%) and larger asset base ($145.74 billion), offering different risk/return profile."
-      }
-    ]
-  },
-  {
-    "id": "cd6eda97bb9e17c0627efcd8355ec088f7dc0ab6311ca9672f0383d35aa91646",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Broadcom Set to Report Q3 Earnings: Buy, Sell or Hold the Stock?",
-    "author": "Na",
-    "published_utc": "2026-09-01T15:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983214/broadcom-set-to-report-q3-earnings-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983214",
-    "tickers": [
-      "AVGO",
-      "CSCO",
-      "HPE",
-      "HPEpC",
-      "MRVL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/30/172914.webp",
-    "description": "Broadcom is expected to report Q3 fiscal 2026 results on September 2 with revenues of ~$29.4 billion (84% YoY growth) and AI semiconductor revenues accelerating to ~$16 billion (200%+ YoY growth). However, gross margin pressure from lower-margin AI semiconductors and stretched valuation present headwinds. The stock has underperformed peers despite strong AI momentum with major customers including Google, Anthropic, OpenAI, and Meta.",
-    "keywords": [
-      "AI semiconductors",
-      "Q3 earnings",
-      "gross margin pressure",
-      "TPU demand",
-      "valuation concerns",
-      "infrastructure software"
-    ],
-    "insights": [
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong revenue growth and AI momentum are offset by gross margin pressure, stretched valuation (P/E of 10.75X vs sector 6.18X), and underperformance relative to peers. Zacks Rank #3 (Hold) suggests waiting for better entry point."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as outperforming peer with 43.5% YTD gains, expanding AI infrastructure footprint with better valuation metrics (P/E 6.06X)."
-      },
-      {
-        "ticker": "HPE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong YTD performance with 117.5% gains, expanding AI infrastructure presence with attractive valuation (P/E 1.39X)."
-      },
-      {
-        "ticker": "HPEpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong YTD performance with 117.5% gains, expanding AI infrastructure presence with attractive valuation (P/E 1.39X)."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Best performing peer with 149.1% YTD gains, though trading at higher valuation (P/E 12.64X), indicating strong market confidence in AI positioning."
+        "sentiment_reasoning": "Trading at lowest valuation (6x P/E) with record 84.9% gross margins, but author views this as market pricing in margin compression due to historical memory price cycles. Rated as a hold rather than buy, with caution against adding at current prices."
       }
     ]
   }

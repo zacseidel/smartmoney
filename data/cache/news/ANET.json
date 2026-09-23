@@ -1,285 +1,267 @@
 [
   {
-    "id": "9643ebf5862ef64da48b2f2b08e67c3076dea8018a2d05cc45220055572a9712",
+    "id": "855a4365722e2bbe271d3572ab20b2a23a04a738d84e543a72f78d7380fba858",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Set a Fair Starting Line, as Favorites Can Falter",
-    "author": "The Rule Breakers Team",
-    "published_utc": "2026-09-07T19:19:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/set-a-fair-starting-line-as-favorites-can-falter/?source=iedfolrf0000001",
+    "title": "Prediction: Networking Will Be the Next Bottleneck Within the AI Supercycle. 1 Growth Stock to Own.",
+    "author": "Harsh Chauhan",
+    "published_utc": "2026-09-22T20:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/prediction-networking-will-be-the-next-bottleneck/?source=iedfolrf0000001",
     "tickers": [
-      "TTD",
       "ANET",
-      "AMD",
-      "AVGO",
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "META",
-      "CSCO"
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffe6403e73394ab81b43cbf27ad87b5c54f1ce964-3453x2302.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Motley Fool illustrates the importance of equal portfolio weighting by comparing The Trade Desk, which fell from 40-fold returns to under 4-fold after Amazon undercut its pricing, with Arista Networks, which surpassed it with 40-fold returns. The article emphasizes giving every stock a fair starting position and then backing winners while retiring underperformers, rather than loading up on perceived favorites.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888257%2Fcables-plugged-into-servers.jpg&w=1200&op=resize",
+    "description": "As AI infrastructure demand surges, networking components are becoming the next supply bottleneck. Goldman Sachs expects optical networking revenue to grow over 10x between 2026-2028. Arista Networks is positioned as a major beneficiary, with its AI networking fabric customer base growing from 4-5 in 2024 to over 100 customers, and revenue expected to reach $3.5 billion from AI deployments in 2026.",
     "keywords": [
-      "portfolio diversification",
-      "equal weighting",
-      "stock selection",
-      "competitive disruption",
-      "position management",
-      "programmatic advertising"
+      "AI infrastructure supercycle",
+      "networking bottleneck",
+      "optical networking",
+      "AI data centers",
+      "Ethernet switches",
+      "supply shortage",
+      "AI accelerators"
     ],
     "insights": [
       {
-        "ticker": "TTD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined from 40-fold to under 4-fold returns after Amazon entered the market with aggressive 1-2% pricing versus The Trade Desk's 12-15%, causing growth to collapse from 22% to 3% and resulting in 15% workforce cuts with no clear restructuring plan."
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong growth trajectory with 38% YoY revenue increase in Q2, expanding customer base (4-5 to 100+ customers), $9.7B in purchase commitments, and expected $3.5B revenue from AI deployments. Stock up 57% in 2026. Forward P/E of 38 suggests significant earnings growth potential ahead."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "259732e05ffedd4a90b03dd9b27ac00514064817333ced477c1a157e3c89ec5d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
+    "author": "Na",
+    "published_utc": "2026-09-22T15:42:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993853/hpe-s-networking-orders-signal-continued-growth-what-s-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2993853",
+    "tickers": [
+      "HPE",
+      "HPEpC",
+      "CSCO",
+      "ANET"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/65/84542.jpg",
+    "description": "Hewlett Packard Enterprise's networking revenues jumped 74.9% year-over-year to $2.89 billion, driven by strong AI infrastructure demand and the Juniper acquisition. The company secured a gigawatt-scale Oracle deal and reported Networks for AI orders of $700 million in Q3. HPE trades at a valuation discount despite 159.4% YTD stock appreciation and holds a Zacks Rank #1 (Strong Buy) rating.",
+    "keywords": [
+      "AI networking",
+      "HPE networking revenues",
+      "Juniper acquisition",
+      "Oracle deal",
+      "AI infrastructure",
+      "hyperscaler demand",
+      "networking growth"
+    ],
+    "insights": [
+      {
+        "ticker": "HPE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 74.9% YTD networking revenue growth, successful Juniper acquisition integration ahead of schedule, major Oracle gigawatt-scale deal, elevated AI orders ($2.2B cumulative), raised fiscal 2026 guidance to $2.5-$3B, and Zacks Rank #1 Strong Buy rating with upward estimate revisions."
+      },
+      {
+        "ticker": "HPEpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 74.9% YTD networking revenue growth, successful Juniper acquisition integration ahead of schedule, major Oracle gigawatt-scale deal, elevated AI orders ($2.2B cumulative), raised fiscal 2026 guidance to $2.5-$3B, and Zacks Rank #1 Strong Buy rating with upward estimate revisions."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Closed fiscal 2026 with $9.3B in hyperscaler AI infrastructure orders (4.5x prior year), expects $7.5B in hyperscaler AI revenues for fiscal 2027, achieved 40% YoY networking product order growth with eight consecutive quarters of double-digit growth, and identified $100B+ in upgrade opportunities."
       },
       {
         "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceeded The Trade Desk with 40-fold returns, demonstrating strong performance as a dark horse pick that disrupted Cisco's switch market dominance and continued to outperform even after becoming obvious to the broader market."
+        "sentiment_reasoning": "Positioned to benefit from sustained AI, cloud, and enterprise networking investments with leadership in software-driven switching, growing AI fabric adoption, broader campus and routing reach, and continued product innovation supporting durable growth outlook."
+      }
+    ]
+  },
+  {
+    "id": "21fe85bda95096fdef29b489379613d27afa3f21aea66c27aeb328b92b90b985",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "The Zacks Analyst Blog Highlights NVIDIA, Vertiv, Arista Networks, Broadcom and Hewlett Packard",
+    "author": "Zacks Equity Research",
+    "published_utc": "2026-09-22T12:21:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993559/the-zacks-analyst-blog-highlights-nvidia-vertiv-arista-networks-broadcom-and-hewlett-packard?cid=CS-ZC-FT-press_releases-2993559",
+    "tickers": [
+      "NVDA",
+      "VRT",
+      "ANET",
+      "AVGO",
+      "HPE",
+      "HPEpC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
+    "description": "As AI data centers expand, investment opportunities extend beyond GPU chips to infrastructure providers. Vertiv and Arista Networks are highlighted as beneficiaries of rising demand for power, cooling, and high-speed networking solutions supporting AI workloads. Vertiv has seen recent stock pullback despite strong fundamentals, while Arista continues gaining momentum with robust AI networking demand.",
+    "keywords": [
+      "AI data centers",
+      "infrastructure",
+      "power and cooling",
+      "networking",
+      "GPU demand",
+      "hyperscalers",
+      "AI accelerators"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Remains dominant AI accelerator supplier with strong fiscal 2027 Q2 Data Center revenues up 117% YoY, though article positions it as starting point for broader ecosystem investment"
       },
       {
-        "ticker": "AMD",
+        "ticker": "VRT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Achieved nearly 7-fold returns through acquisition of Xilinx, benefiting from AI buildout and semiconductor demand, representing a successful dark horse investment."
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with 24% YoY sales growth, expanding AI infrastructure exposure through UtilityInnovation acquisition, projected 59.3% earnings growth in 2026; recent 30.4% stock decline presents attractive entry point"
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with 37.7% YoY revenue growth and first quarter above $3B; strong AI networking demand with projected 35.6% earnings growth and 39.1% revenue growth in 2026"
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Delivered roughly 30-fold returns, significantly outperforming initial thesis expectations by benefiting from AI infrastructure buildout beyond the originally identified LTE, IoT, and broadband catalysts."
+        "sentiment_reasoning": "Fiscal Q3 AI semiconductor revenues jumped 221% YoY, demonstrating strong demand for custom AI accelerators and networking solutions"
       },
       {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Entered programmatic advertising market with aggressive pricing (1-2% vs competitors' 12-15%), capturing market share rapidly and disrupting The Trade Desk's business model, though not directly recommended in the article."
+        "ticker": "HPE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fiscal Q3 Data Center Networking revenues surged 112.2% to $382M with AI Systems orders reaching $2.4B, showing strong AI infrastructure demand"
       },
       {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
+        "ticker": "HPEpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fiscal Q3 Data Center Networking revenues surged 112.2% to $382M with AI Systems orders reaching $2.4B, showing strong AI infrastructure demand"
+      }
+    ]
+  },
+  {
+    "id": "a624fd59fdf19b18773e772fe2d53544c8135305f867bdb0a46551de0a7a638d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI Data Center Interconnect Market Expands as Distributed AI Workloads Drive Demand for High-Speed Optical Connectivity",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-22T06:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/22/3365977/0/en/ai-data-center-interconnect-market-expands-as-distributed-ai-workloads-drive-demand-for-high-speed-optical-connectivity.html",
+    "tickers": [
+      "CIEN",
+      "CSCO",
+      "NVDA",
+      "AVGO",
+      "ANET"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI Data Center Interconnect Market is projected to grow from USD 12.85 billion in 2025 to USD 53.35 billion by 2035 at a 15.32% CAGR, driven by increasing demand for high-speed, low-latency optical connectivity to support distributed AI workloads. Software-defined networking and coherent optical technology are the fastest-growing segments, while North America leads with 38.47% market share and Asia Pacific shows the highest growth potential at 17.30% CAGR.",
+    "keywords": [
+      "AI data center interconnect",
+      "optical connectivity",
+      "distributed AI workloads",
+      "coherent optical technology",
+      "software-defined networking",
+      "GPU clusters",
+      "high-speed Ethernet",
+      "data center networking"
+    ],
+    "insights": [
       {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform alongside Alphabet, but no specific performance commentary provided."
+        "ticker": "CIEN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as expanding high-capacity optical networking and data center interconnect solutions to support growing AI bandwidth requirements in 2026."
       },
       {
         "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the incumbent switch vendor that Arista disrupted, but no direct investment recommendation or performance analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "5e0f05f2fbf0f8fb98cc0121250e4b724ad0ae090ad9904618a155624702fcb3",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Arista Networks vs. IBM: Comparing Quarterly Revenue Trends Between These Artificial Intelligence Giants",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-06T19:12:16Z",
-    "article_url": "https://www.fool.com/coverage/charts/2026/09/06/arista-networks-vs-ibm-comparing-quarterly-revenue-trends-between-these-artificial-intelligence-giants/?source=iedfolrf0000001",
-    "tickers": [
-      "ANET",
-      "IBM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Fanet-ibm%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Fanet-ibm_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
-    "description": "Arista Networks demonstrates consistent quarter-over-quarter revenue growth driven by AI data center infrastructure demand, while IBM exhibits volatile and cyclical revenue patterns due to its diverse business model spanning software, hardware, and consulting. Arista has posted eight consecutive quarters of revenue gains, whereas IBM faces headwinds from completed mainframe upgrade cycles and flat consulting division performance, leading the company to cut its 2026 full-year sales forecast.",
-    "keywords": [
-      "artificial intelligence",
-      "data center infrastructure",
-      "revenue trends",
-      "quarterly performance",
-      "cloud networking",
-      "hybrid cloud software",
-      "quantum computing",
-      "business cyclicality"
-    ],
-    "insights": [
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as advancing AI-ready networking infrastructure, including high-speed Ethernet and data center networking solutions for large-scale AI computing clusters."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key company in the market benefiting from GPU cluster demand and high-performance computing requirements driving interconnect market growth."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a key market player positioned to benefit from growing demand for high-speed interconnect solutions and optical transceiver technologies."
+      },
       {
         "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Arista demonstrates consistent upward revenue trajectory with eight consecutive quarters of growth, strong 45% operating margin, and positioned to benefit from AI data center buildout tailwinds. The company forecasts continued growth with Q3 2026 revenue expected to reach $3.3 billion."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "IBM exhibits volatile and cyclical revenue patterns with declining mainframe sales (7% YoY decline in Q2), flat consulting division performance, and reduced 2026 full-year sales forecast. While quantum computing investments show promise, current business segments face headwinds as customers shift spending toward AI infrastructure providers like Arista."
+        "sentiment_reasoning": "Listed as a key company in the expanding AI data center interconnect market with relevance to high-speed Ethernet and networking solutions."
       }
     ]
   },
   {
-    "id": "6869f0cedab7085df196800ebca204dcfd9507c286a5da4a53994fae88db68b7",
+    "id": "b677ea73e368d21561edec6a5c23be4ff5cbad8128c33be727dd1b0a3471c856",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "4 Cloud Computing Stocks to Profit Amid Intense Market Volatility",
-    "author": "Na",
-    "published_utc": "2026-08-28T14:03:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2981747/4-cloud-computing-stocks-to-profit-amid-intense-market-volatility?cid=CS-ZC-FT-cloud_computing-2981747",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "MSFT",
-      "AMZN",
-      "ANET"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/22/2081.jpg",
-    "description": "Cloud computing is identified as a major secular growth trend in technology, with the global market expected to reach $3.35 trillion by 2033 from $943.7 billion in 2025 at a 16% CAGR. Leading companies like Alphabet, Microsoft, Amazon, and Arista are well-positioned to benefit from increased enterprise cloud adoption driven by cost efficiency, scalability, and AI capabilities.",
-    "keywords": [
-      "cloud computing",
-      "digital transformation",
-      "IaaS",
-      "PaaS",
-      "SaaS",
-      "artificial intelligence",
-      "cloud infrastructure",
-      "enterprise technology spending"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is the third-largest cloud provider with 43 regions and 130 availability zones. Strong investments in AI infrastructure and custom silicon are translating into financial returns, with GenAI capabilities serving as future catalysts."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is the third-largest cloud provider with 43 regions and 130 availability zones. Strong investments in AI infrastructure and custom silicon are translating into financial returns, with GenAI capabilities serving as future catalysts."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is the third-largest cloud provider with 43 regions and 130 availability zones. Strong investments in AI infrastructure and custom silicon are translating into financial returns, with GenAI capabilities serving as future catalysts."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is the third-largest cloud provider with 43 regions and 130 availability zones. Strong investments in AI infrastructure and custom silicon are translating into financial returns, with GenAI capabilities serving as future catalysts."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Azure is a prominent IaaS/PaaS platform with availability in 60+ regions globally. Heavy investments in AI-powered cloud services and integration of Azure OpenAI Service position the company well for continued growth."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS holds a leading position in the IaaS space with 200+ services and millions of customers. Expansion of AI/ML capabilities and global infrastructure improvements support continued dominance in the cloud market."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Provides differentiated cloud networking solutions with unified EOS and CloudVision stack. Recent product additions including CloudEOS Edge and cognitive Wi-Fi software address growing demand for cloud-native solutions."
-      }
-    ]
-  },
-  {
-    "id": "4324ce929cf321918ea7d9acc12dd62731b30d281b6d106041f91f0c18a17779",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in Arista Networks (ANET) Based on Wall Street's Bullish Views?",
+    "title": "Arista Networks (ANET) Surpasses Market Returns: Some Facts Worth Knowing",
     "author": "Zacks.Com",
-    "published_utc": "2026-08-28T13:30:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2981645/is-it-worth-investing-in-arista-networks-anet-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2981645",
+    "published_utc": "2026-09-21T21:45:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2993251/arista-networks-anet-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993251",
     "tickers": [
       "ANET"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default200.jpg",
-    "description": "Arista Networks (ANET) has received overwhelmingly bullish analyst recommendations with an average brokerage recommendation of 1.10 (Strong Buy), with 22 of 25 firms rating it Strong Buy. The company's Zacks Rank #1 (Strong Buy) rating is supported by a 12.7% increase in consensus earnings estimates over the past month to $4.04 per share, suggesting strong analyst optimism about near-term stock performance.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default22.jpg",
+    "description": "Arista Networks (ANET) outperformed the market, closing at $205.00 with a 2.81% gain, surpassing the S&P 500's 1.49% gain. The cloud networking company has gained 5.69% over the last month. Analysts project strong growth with EPS expected to increase 41.33% and revenue up 43.57% year-over-year. ANET holds a Zacks Rank #1 (Strong Buy) rating, though it trades at a premium valuation with a Forward P/E of 49.35 compared to the industry average of 20.21.",
     "keywords": [
-      "Arista Networks",
-      "analyst recommendations",
-      "earnings estimate revisions",
-      "Zacks Rank",
-      "stock rating",
-      "bullish outlook"
-    ],
-    "insights": [
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company received a Zacks Rank #1 (Strong Buy) rating based on 12.7% increase in consensus earnings estimates over the past month. Additionally, 88% of analyst recommendations are Strong Buy with only 12% Buy ratings, indicating strong consensus bullish sentiment. Growing analyst optimism about earnings prospects supports near-term stock appreciation potential."
-      }
-    ]
-  },
-  {
-    "id": "8faca086723f5906d78ec006e536da3de9b85dbd310b29d451f594e632d92037",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Growth Stocks That Could Skyrocket in the Second Half of 2026",
-    "author": "Rick Orford",
-    "published_utc": "2026-08-24T00:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/3-growth-stocks-that-could-skyrocket-in-the-second/?source=iedfolrf0000001",
-    "tickers": [
-      "ANET",
-      "MU",
-      "LLY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883476%2Fgettyimages-2209260070-1200x801-d21b45d.jpg&w=1200&op=resize",
-    "description": "The article highlights three growth stocks positioned for strong performance in the second half of 2026: Arista Networks benefits from accelerating data center spending with record $3B quarterly revenue and 45% operating margins; Micron is capitalizing on AI-driven demand for high bandwidth memory with 346% YoY revenue growth and strong guidance; and Eli Lilly is experiencing explosive growth from its GLP-1 drugs Mounjaro and Zepbound, raising full-year revenue guidance to $85-87B.",
-    "keywords": [
-      "growth stocks",
-      "data center",
-      "AI",
-      "memory chips",
-      "GLP-1 drugs",
+      "cloud networking",
       "earnings growth",
-      "secular tailwinds"
+      "stock performance",
+      "valuation premium",
+      "analyst ratings",
+      "market outperformance"
     ],
     "insights": [
       {
         "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company delivered first $3B quarterly revenue with 45% GAAP operating margin and strong EPS growth. CEO highlighted compelling Arista 2.0 platform strategy. Wall Street consensus is strong buy with up to 57% potential upside. Benefits from accelerating data center spending."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Achieved 346% YoY revenue growth to $41.5B driven by high-margin HBM production. Diluted EPS surged to $25.11 from $1.91. Current-quarter guidance projects $51B revenue and $32 EPS. Analysts rate strong buy with potential to more than double. Market leadership in memory chips."
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 48% revenue growth to $23B driven by blockbuster GLP-1 drugs Mounjaro (91% YoY growth to $9.9B) and Zepbound ($4.9B, up 46%). Raised full-year 2026 revenue guidance to $85-87B. Analysts indicate 28% potential upside. Riding strong secular tailwind in diabetes and obesity treatment market."
+        "sentiment_reasoning": "Strong recent performance outpacing major indices, robust earnings growth projections (41.33% EPS increase, 43.57% revenue increase), Zacks Rank #1 (Strong Buy) rating, and positive analyst estimate revisions indicate strong investor confidence and favorable business momentum, despite premium valuation."
       }
     ]
   }

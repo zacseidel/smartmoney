@@ -1,5 +1,229 @@
 [
   {
+    "id": "6c42d883689587dd23fe34e9ac479ce87e5fe198de71014fc784688ac266c8ec",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "IonQ's New Research Shows Up to 14.6% Gains in Engineering Workloads",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-22T12:31:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993459/ionq-s-new-research-shows-up-to-14-6-gains-in-engineering-workloads?cid=CS-ZC-FT-analyst_blog|quick_take-2993459",
+    "tickers": [
+      "IONQ",
+      "IONQ.WS",
+      "SNPS",
+      "RGTI",
+      "RGTIW",
+      "MU"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/212.jpg",
+    "description": "IonQ and Synopsys demonstrated that quantum algorithms integrated into engineering simulation software can accelerate complex industrial design by up to 14.6%. The hybrid quantum-classical approach improved runtime efficiency in large-scale simulations, with physical execution validated on IonQ's 36-qubit Forte system. The research won the Best Paper Award at IEEE Quantum Week 2026.",
+    "keywords": [
+      "quantum computing",
+      "hybrid quantum algorithms",
+      "engineering simulation",
+      "performance optimization",
+      "quantum acceleration"
+    ],
+    "insights": [
+      {
+        "ticker": "IONQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrated significant performance improvements (5.9-14.6%) in quantum-accelerated engineering workloads with practical validation on their Forte system. Won Best Paper Award at IEEE Quantum Week 2026, indicating strong research credibility and progress toward practical quantum computing applications."
+      },
+      {
+        "ticker": "IONQ.WS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrated significant performance improvements (5.9-14.6%) in quantum-accelerated engineering workloads with practical validation on their Forte system. Won Best Paper Award at IEEE Quantum Week 2026, indicating strong research credibility and progress toward practical quantum computing applications."
+      },
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Successfully integrated quantum algorithms into their Ansys LS-DYNA simulation software, demonstrating practical applications of quantum computing in mainstream engineering tools and expanding their software capabilities."
+      },
+      {
+        "ticker": "RGTI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured $100 million funding award from U.S. Department of Commerce under the CHIPS Act to advance superconducting quantum computing R&D, indicating strong government support and resources for scaling quantum technology."
+      },
+      {
+        "ticker": "RGTIW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured $100 million funding award from U.S. Department of Commerce under the CHIPS Act to advance superconducting quantum computing R&D, indicating strong government support and resources for scaling quantum technology."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Demonstrated 512GB DDR5 memory module milestone, which is a memory innovation achievement but unrelated to the main quantum computing focus of the article and lacks specific performance or market impact details."
+      }
+    ]
+  },
+  {
+    "id": "e37c96c97e36b51492ad120195bd48f8987d6fe5237042614ce923c999e45b8c",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Arteris \u52a0\u901f\u884c\u4e1a\u5411 Multi-Die \u82af\u7c92\u67b6\u6784\u8f6c\u578b",
+    "author": "Arteris",
+    "published_utc": "2026-09-15T23:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362786/0/zh-hans/arteris-%E5%8A%A0%E9%80%9F%E8%A1%8C%E4%B8%9A%E5%90%91-multi-die-%E8%8A%AF%E7%B2%92%E6%9E%B6%E6%9E%84%E8%BD%AC%E5%9E%8B.html",
+    "tickers": [
+      "AIP",
+      "AMD",
+      "CDNS",
+      "SNPS"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f8be4404-a9d1-42a3-95a3-56b29bf790b8",
+    "description": "Arteris announced an expansion of its Multi-Die product portfolio to help semiconductor companies transition from monolithic SoCs to chiplet architectures for AI, HPC, and consumer electronics. The new FlexGen Multi-Die NoC IP extends on-chip network connectivity across chip boundaries, reducing PHY area, power, and I/O requirements by up to 50%. The expanded solution includes FlexGen Multi-Die, Ncore Multi-Die, Magillem integration automation, and Cycuity hardware security verification, with support from major partners including AMD, Socionext, Cadence, Synopsys, and others.",
+    "keywords": [
+      "Multi-Die architecture",
+      "chiplet design",
+      "NoC interconnect",
+      "AI computing",
+      "HPC",
+      "UCIe",
+      "system integration",
+      "semiconductor design"
+    ],
+    "insights": [
+      {
+        "ticker": "AIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company announced significant product expansion addressing major industry trend toward Multi-Die architectures. New solutions reduce design complexity and accelerate time-to-market, positioning Arteris as a key enabler of chiplet-based systems. Strong customer and partner endorsements from AMD, Socionext, Cadence, Synopsys, and others validate market demand."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AMD is highlighted as an early adopter and strategic customer using Arteris technology for Multi-Die products across data center, client, gaming, and embedded computing. The partnership demonstrates AMD's commitment to advanced chiplet architectures and validates the technology's effectiveness."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cadence is partnering with Arteris to integrate comprehensive Physical AI platform, IP, and security solutions with Arteris NoC IP, enabling accelerated chip implementation and supporting trusted system deployment from cloud to edge."
+      },
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Synopsys' verified UCIe IP has completed interoperability verification with Arteris Ncore Multi-Die, providing customers with high-bandwidth, low-latency chiplet connectivity and reducing integration risk."
+      }
+    ]
+  },
+  {
+    "id": "5b0de183acb2466938a31c004020693d16bd57e2ad1f8709a045684834e1a421",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Arteris, \uc5c5\uacc4\uc758 Multi-Die \uce69\ub81b \uae30\ubc18 \uc544\ud0a4\ud14d\ucc98 \uc804\ud658 \uac00\uc18d\ud654",
+    "author": "Arteris, Inc.",
+    "published_utc": "2026-09-15T23:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362786/0/ko/arteris-%EC%97%85%EA%B3%84%EC%9D%98-multi-die-%EC%B9%A9%EB%A0%9B-%EA%B8%B0%EB%B0%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%A0%84%ED%99%98-%EA%B0%80%EC%86%8D%ED%99%94.html",
+    "tickers": [
+      "AIP",
+      "AMD",
+      "CDNS",
+      "SNPS"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f8be4404-a9d1-42a3-95a3-56b29bf790b8",
+    "description": "Arteris announced an expanded Multi-Die portfolio including the new FlexGen Multi-Die product to help semiconductor companies transition from monolithic SoC designs to chiplet-based architectures. The solution extends Network-on-Chip (NoC) connectivity across die boundaries while maintaining QoS and architectural flexibility, addressing data movement challenges in AI and high-performance computing systems.",
+    "keywords": [
+      "Multi-Die architecture",
+      "chiplet",
+      "Network-on-Chip (NoC)",
+      "FlexGen Multi-Die",
+      "die-to-die connectivity",
+      "AI computing",
+      "semiconductor design",
+      "UCIe PHY",
+      "data movement"
+    ],
+    "insights": [
+      {
+        "ticker": "AIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Arteris announced significant product expansion with FlexGen Multi-Die, addressing critical industry challenges in multi-die architecture adoption. The company is positioned as a technology leader with strong customer adoption from major semiconductor firms (AMD, Socionext) and ecosystem partnerships."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AMD is actively adopting Arteris technology for multi-die architecture in next-generation datacenter, client, gaming, and embedded computing products, indicating confidence in the solution and commitment to chiplet-based design strategy."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cadence's Physical AI platform is being integrated with Arteris NoC IP, positioning the company to accelerate silicon implementation and support customers in building reliable multi-die systems."
+      },
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Synopsys' UCIe IP has been successfully validated for interoperability with Arteris Ncore Cache Coherent NoC, reducing integration risk and supporting customer adoption of multi-die chiplet designs."
+      }
+    ]
+  },
+  {
+    "id": "59bccc8df64611e986860ec2b491fb06f4af512e44a69c6c60247e875be16273",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Arteris\u3001\u30de\u30eb\u30c1\u30c0\u30a4\uff0f\u30c1\u30c3\u30d7\u30ec\u30c3\u30c8\u30d9\u30fc\u30b9 \u30a2\u30fc\u30ad\u30c6\u30af\u30c1\u30e3\u3078\u306e\u696d\u754c\u79fb\u884c\u3092\u52a0\u901f",
+    "author": "Arteris, Inc.",
+    "published_utc": "2026-09-15T23:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362786/0/ja/arteris-%E3%83%9E%E3%83%AB%E3%83%81%E3%83%80%E3%82%A4-%E3%83%81%E3%83%83%E3%83%97%E3%83%AC%E3%83%83%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9-%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3%E3%81%B8%E3%81%AE%E6%A5%AD%E7%95%8C%E7%A7%BB%E8%A1%8C%E3%82%92%E5%8A%A0%E9%80%9F.html",
+    "tickers": [
+      "AIP",
+      "AMD",
+      "CDNS",
+      "SNPS"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f8be4404-a9d1-42a3-95a3-56b29bf790b8",
+    "description": "Arteris announced an expanded multi-die product portfolio including the new FlexGen Multi-Die solution, enabling semiconductor manufacturers to transition from monolithic SoC designs to chiplet-based architectures while maintaining QoS and design flexibility. The solution addresses challenges in AI, HPC, and consumer electronics by seamlessly extending NoC connectivity across chip boundaries, reducing PHY area and power consumption by up to 50%.",
+    "keywords": [
+      "multi-die architecture",
+      "chiplets",
+      "NoC (Network-on-Chip)",
+      "FlexGen Multi-Die",
+      "QoS",
+      "AI computing",
+      "HPC",
+      "UCIe",
+      "system integration",
+      "semiconductor design"
+    ],
+    "insights": [
+      {
+        "ticker": "AIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Arteris announced significant product expansion with FlexGen Multi-Die addressing critical industry needs in multi-die architecture. The solution offers substantial technical improvements (50% reduction in PHY area/power), strong customer adoption from major semiconductor companies (AMD, Socionext), and strategic partnerships with industry leaders (Cadence, Synopsys, Silitronics, UniVista), positioning the company favorably in the growing chiplet ecosystem."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AMD is actively leveraging Arteris's multi-die technology for next-generation data center, client, gaming, and embedded computing products. The partnership enables AMD to simplify chiplet integration while maintaining bandwidth and performance, supporting faster innovation and differentiated product time-to-market."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cadence is partnering with Arteris to integrate Physical AI platform, IP, and security solutions with Arteris NoC IP. This collaboration accelerates silicon realization and enables customers to efficiently scale Physical AI systems while reducing development risk and time-to-market."
+      },
+      {
+        "ticker": "SNPS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Synopsys's silicon-proven UCIe IP has been validated for interoperability with Arteris Ncore Cache Coherent NoC IP. This successful verification reduces integration risk for customers and strengthens Synopsys's position in the multi-die chiplet ecosystem."
+      }
+    ]
+  },
+  {
     "id": "fd41f6d3c30a3f63dfa5b81a81809479e1fee514052b2f8ab95c6aaa4de36bfa",
     "publisher": {
       "name": "Zacks Investment Research",
@@ -43,201 +267,6 @@
         "ticker": "CDNS",
         "sentiment": "neutral",
         "sentiment_reasoning": "Cadence shares inched up marginally over the past month, showing modest performance that slightly outpaced the sector but significantly underperformed Synopsys, indicating neutral momentum."
-      }
-    ]
-  },
-  {
-    "id": "5e6468f13a9b4d02807f2539b31fc5e6c05b4d9abbdf753a8d5b047706b15387",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in Synopsys (SNPS) Based on Wall Street's Bullish Views?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-01T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2983046/is-it-worth-investing-in-synopsys-snps-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2983046",
-    "tickers": [
-      "SNPS"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default63.jpg",
-    "description": "Synopsys (SNPS) has a strong average brokerage recommendation of 1.59 (Strong Buy/Buy) from 22 firms, with 16 Strong Buy ratings. However, the article cautions that brokerage recommendations often carry positive bias due to institutional vested interests. The company's Zacks Rank #2 (Buy) rating is supported by a 3.3% increase in consensus earnings estimates over the past month to $15.06, suggesting legitimate near-term upside potential.",
-    "keywords": [
-      "Synopsys",
-      "SNPS",
-      "brokerage recommendations",
-      "earnings estimate revisions",
-      "Zacks Rank",
-      "stock rating",
-      "analyst bias",
-      "investment decision"
-    ],
-    "insights": [
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong brokerage consensus (72.7% Strong Buy ratings) combined with a Zacks Rank #2 (Buy) rating. Recent earnings estimate revisions increased 3.3% over the past month, indicating growing analyst optimism about the company's earnings prospects and supporting near-term price appreciation potential."
-      }
-    ]
-  },
-  {
-    "id": "ca2ba618648221330b600b5f4bafda9eb0d96b8b5b11e3feb893fe020f3c8b6b",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Here's How Much You'd Have If You Invested $1000 in Synopsys a Decade Ago",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-01T12:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2982970/here-s-how-much-you-d-have-if-you-invested-1000-in-synopsys-a-decade-ago?cid=CS-ZC-FT-fundamental_analysis|investing_$1000-2982970",
-    "tickers": [
-      "SNPS",
-      "CDNS"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default296.jpg",
-    "description": "A $1,000 investment in Synopsys (SNPS) made in September 2016 would have grown to $7,414.24 by September 2026, representing a 641.42% gain\u2014significantly outperforming the S&P 500's 254.05% return. The company benefits from recurring revenue, strong demand for chip design and AI-related tools, and the Ansys acquisition expansion, though elevated debt and execution risks remain concerns.",
-    "keywords": [
-      "Synopsys",
-      "stock performance",
-      "electronic design automation",
-      "semiconductor",
-      "AI demand",
-      "long-term investment",
-      "Ansys acquisition"
-    ],
-    "insights": [
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional 10-year returns (641.42% gain), strong business fundamentals with recurring revenue and growing demand for EDA tools driven by AI complexity, successful Ansys integration expanding multiphysics capabilities, and positive analyst outlook with rising earnings estimates. Stock momentum is strong with 12.12% gain over past four weeks."
-      },
-      {
-        "ticker": "CDNS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a key competitor to Synopsys without specific performance data or analysis provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "689ca11ecf068977a058272043a8b88ff533a3f9650104fa6635eba2bd2aaa0d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This AI Energy Stock Is Up Nearly 2,000% in the Last Two Years. Could It Be Nvidia's Next Big Investment?",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-08-28T22:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/28/this-ai-energy-stock-is-up-nearly-2000-in-the-last/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "BE",
-      "SPCX",
-      "INTC",
-      "CRWV",
-      "SNPS",
-      "COHR",
-      "NOK",
-      "BAM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885617%2Fai-energy-power-lines-glowing-in-the-dark.jpg&w=1200&op=resize",
-    "description": "Nvidia has built a $63.4 billion portfolio of AI infrastructure partners including Intel, SpaceX, CoreWeave, and Synopsys. As energy becomes a critical bottleneck for AI data center growth, Bloom Energy\u2014a hydrogen fuel-cell company that recently crossed $1 billion in quarterly revenue and signed a $25 billion partnership with Brookfield Asset Management\u2014emerges as a potential candidate for Nvidia investment.",
-    "keywords": [
-      "AI infrastructure",
-      "energy bottleneck",
-      "Nvidia investments",
-      "hydrogen fuel cells",
-      "data center power",
-      "AI computing"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is positioned as a strategic investor and kingmaker in AI infrastructure with a diversified $63.4 billion portfolio across complementary technologies. The company is actively building partnerships to address AI growth bottlenecks."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock up nearly 2,000% in two years with 166% revenue growth in recent quarter. Gained broad adoption across major U.S. hyperscalers and neoclouds. Recently secured $25 billion partnership with Brookfield Asset Management, positioning it as a key solution to AI energy demands."
-      },
-      {
-        "ticker": "SPCX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Close Nvidia partner with $20 billion stake held by Nvidia. Committed to building exclusively on Nvidia architecture and ramping AI compute capacity to 10GW by end of 2027, demonstrating strong alignment with Nvidia's growth strategy."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia invested when stock was near bottom as part of strategic partnership for data center and personal computing products. Positioned as largest U.S.-based foundry amid national semiconductor manufacturing priorities."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading neocloud company and close Nvidia partner that purchases Nvidia chips to rent out AI compute capacity, directly benefiting from AI infrastructure expansion."
-      },
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $2 billion Nvidia investment to accelerate chip design and engineering simulations, indicating strategic importance to Nvidia's product development roadmap."
-      },
-      {
-        "ticker": "COHR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key supplier providing optical connectivity for AI infrastructure power and heat management. Nvidia investment secures this critical relationship for AI data center operations."
-      },
-      {
-        "ticker": "NOK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $1 billion Nvidia investment to lead 5G to 6G transition and develop AI-RAN technology, positioning it as partner in building AI-native wireless infrastructure."
-      },
-      {
-        "ticker": "BAM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed $25 billion AI infrastructure power partnership with Bloom Energy, demonstrating major real estate developer's commitment to powering AI data center growth."
-      }
-    ]
-  },
-  {
-    "id": "4e3d34bce43bde058989e57eb2ade430a78b434eab8da562bbc310099178b3b5",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Synopsys Stock Popped Today",
-    "author": "Rich Smith",
-    "published_utc": "2026-08-27T15:35:13Z",
-    "article_url": "https://www.fool.com/investing/2026/08/27/why-synopsys-stock-popped-today/?source=iedfolrf0000001",
-    "tickers": [
-      "SNPS",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885230%2Fgreen-arrow-going-up-superimposed-on-chart-of-stock-prices.jpg&w=1200&op=resize",
-    "description": "Synopsys stock surged over 11% after beating analyst expectations for fiscal Q3 earnings and sales. The company reported $3.91 EPS on $2.5B in sales versus forecasts of $3.67 EPS on $2.4B. Strong growth was driven by increased demand for AI chip design software, with sales up 42.5% year-over-year. The company also generated $2.1B in free cash flow year-to-date, more than 3x its reported GAAP profits, and provided optimistic full-year guidance.",
-    "keywords": [
-      "earnings beat",
-      "AI chip design",
-      "semiconductor software",
-      "free cash flow",
-      "guidance",
-      "revenue growth"
-    ],
-    "insights": [
-      {
-        "ticker": "SNPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company significantly beat analyst expectations on both earnings ($3.91 vs $3.67 forecast) and sales ($2.5B vs $2.4B forecast). Strong 42.5% YoY sales growth driven by AI demand, robust free cash flow generation ($2.1B YTD), and positive forward guidance all support positive sentiment. Stock gained 11.45% on the news."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in 'Read Next' section as a related stock story but not part of the main article content. Included for context only as it relates to the semiconductor/AI industry."
       }
     ]
   }

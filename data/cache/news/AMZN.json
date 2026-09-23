@@ -1,326 +1,300 @@
 [
   {
-    "id": "cc7d5654be73d08fe5ce37883763ec316d39e5aec0a0f8227a1d26d0ba054934",
+    "id": "d2e74e5418a48df3f9a6bfbf73d5cfe81c88a7e99de5c99f33afdd8bb2ff07d8",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Here Are My Top 5 Stocks for September",
-    "author": "Keithen Drury",
-    "published_utc": "2026-09-03T15:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/here-are-my-top-5-stocks-for-september/?source=iedfolrf0000001",
+    "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-22T20:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/got-5000-2-growth-stocks-building-the-software-bac/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "TSM",
-      "MU",
       "AMZN",
+      "PLTR",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888259%2Fai-digital-brain.jpg&w=1200&op=resize",
+    "description": "The article highlights Amazon and Palantir as two AI software companies positioned to benefit from the AI market's rapid expansion. Amazon's AWS provides cloud infrastructure and AI services like Bedrock and SageMaker, with additional upside from its Anthropic stake. Palantir offers data aggregation platforms (Gotham and Foundry) that enable AI application development. Both companies are expected to deliver strong revenue and earnings growth through 2028, though Palantir trades at a premium valuation.",
+    "keywords": [
+      "AI market expansion",
+      "cloud infrastructure",
+      "software backbone",
+      "data aggregation",
+      "generative AI",
+      "growth stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS is positioned as a linchpin of the AI market with strong growth prospects. The company benefits from Anthropic stake, expected 15% revenue CAGR and 24% EPS CAGR through 2028, and reasonable valuation at 25x forward earnings."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Palantir's data aggregation and AI integration capabilities position it as a key player in the AI revolution. Expected 58% revenue CAGR and 70% EPS CAGR through 2028 demonstrate strong growth, though premium valuation at 87x forward earnings is noted as a consideration."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a popular AI chipmaker focus, but the article positions software companies as underappreciated alternatives rather than endorsing or criticizing Nvidia."
+      }
+    ]
+  },
+  {
+    "id": "d66977bedbea5427fd97255dd9587514f515144c2a8ff1a8b07e2789b3344f4d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-09-22T19:24:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BE",
+      "PLUG",
+      "ORCL",
+      "ORCLpD",
+      "AEP",
+      "WMT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4b2de7e266a680c7ccd01859284f0eff5e796708-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Bloom Energy and Plug Power represent different approaches to the hydrogen and fuel cell market. Bloom Energy focuses on solid-oxide fuel cells for data centers with strong near-term profitability prospects, while Plug Power is building a comprehensive green hydrogen ecosystem with significant long-term potential. Despite Bloom's superior current financials and expected profitability in 2026, the article recommends Plug Power as the better long-term buy due to its dramatically lower P/S ratio and positioning in the growing renewable hydrogen market.",
+    "keywords": [
+      "fuel cells",
+      "hydrogen energy",
+      "clean energy transition",
+      "data center power",
+      "green hydrogen",
+      "renewable energy",
+      "profitability",
+      "cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth (37% YoY), expected to reach $4.1B in FY2026 with 85% growth, projected swing to $658M net income, positive free cash flow of $57.2M, and benefiting from AI datacenter boom. However, carries high debt-to-equity ratio of 3.9x and currently unprofitable."
+      },
+      {
+        "ticker": "PLUG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better long-term buy despite current losses due to dramatically lower P/S ratio (3.7x vs 25.1x), strong positioning in renewable hydrogen market with EU mandates, major customers (Amazon, Walmart) entering replacement cycles, and expected net loss narrowing to $580M in FY2026. However, faces significant cash burn ($662M negative FCF) and customer concentration risk."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "AEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key partner/customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Plug Power's most prominent customer (24% of revenues) and entering replacement phase, but no independent sentiment analysis provided."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Plug Power customer entering replacement phase, but no independent sentiment analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "39eaa5277655243ebe7b31f2d3ba2612c73e3b43170a9b1a4be93005c0361544",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Uber Technologies vs. DoorDash: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-22T16:28:33Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/uber-technologies-vs-doordash-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "UBER",
+      "DASH",
+      "LYFT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Uber Technologies and DoorDash as investment options for 2026. Uber operates across mobility, delivery, and freight globally with $52B in revenue, a 19.3% net margin, and a P/E of 15.57x. DoorDash focuses on North American food and grocery delivery with $13.7B in revenue, a 6.8% net margin, and a P/E of 101.78x. The author recommends Uber due to its diversified business model, stronger profitability, and more attractive valuation, while acknowledging DoorDash as a credible long-term bet in the delivery space.",
+    "keywords": [
+      "gig economy",
+      "ridesharing",
+      "food delivery",
+      "freight logistics",
+      "profitability",
+      "valuation comparison",
+      "autonomous vehicles",
+      "market competition"
+    ],
+    "insights": [
+      {
+        "ticker": "UBER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong financial performance with $52B revenue (18.3% YoY growth), 19.3% net margin, substantial free cash flow of $9.8B, attractive P/E of 15.57x, diversified business model across mobility/delivery/freight, and strategic partnerships with autonomous vehicle leaders position it as the recommended buy."
+      },
+      {
+        "ticker": "DASH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid growth with $13.7B revenue (27.9% YoY growth) and record membership sign-ups, but faces challenges including high P/E of 101.78x, lower net margin of 6.8%, heavy reliance on consumer incentives, and single-category focus. Acknowledged as credible but less diversified than Uber."
+      },
+      {
+        "ticker": "LYFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Uber in the ridesharing space, representing competitive pressure but not analyzed in detail as a standalone investment option."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to DoorDash in the delivery space, representing competitive pressure but not analyzed as a primary investment focus."
+      }
+    ]
+  },
+  {
+    "id": "01ce1f7c698ab3d9b9caeb421f4725384638771d604297541193dcbea0ac945d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "3 Reasons to Hold Alibaba Stock Despite Its High Premium P/S",
+    "author": "Na",
+    "published_utc": "2026-09-22T15:38:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993846/3-reasons-to-hold-alibaba-stock-despite-its-high-premium-p-s?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2993846",
+    "tickers": [
+      "BABA",
+      "AMZN",
+      "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885737%2Fperson-sitting-in-a-cafe-on-their-laptop.jpg&w=1200&op=resize",
-    "description": "As investors prepare for 2027, artificial intelligence remains the dominant market theme. The article recommends five stocks positioned to benefit from AI growth: semiconductor hardware suppliers (Nvidia, Taiwan Semiconductor Manufacturing, and Micron Technology) are expected to see strong demand, while cloud computing providers (Amazon and Alphabet) are capitalizing on massive data center investments to monetize AI infrastructure.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
+    "description": "Alibaba trades at a premium valuation but offers fundamental support for existing shareholders to hold. The company's cloud and AI businesses are accelerating with AI revenues exceeding one-third of cloud sales, core e-commerce remains resilient to fund AI ambitions, and management has outlined a disciplined multi-year AI infrastructure payback plan. While near-term margin pressure from capex and quick commerce losses persists, consensus earnings growth of 76.61% for fiscal 2027 supports patience through the current investment cycle.",
     "keywords": [
-      "artificial intelligence",
-      "semiconductors",
-      "cloud computing",
-      "data centers",
-      "hardware suppliers",
-      "computing capacity"
+      "Alibaba cloud",
+      "AI infrastructure",
+      "e-commerce",
+      "capital expenditure",
+      "quick commerce",
+      "Qwen model",
+      "valuation",
+      "cash flow"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "BABA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Expected to grow at 70% pace in 2027, closing in on $100 billion quarterly revenue from GPU computing units. Described as a 'no-brainer stock to buy.'"
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wall Street analysts expect 34% sales growth in 2027 driven by massive AI hyperscaler demand. Positioned as a great buy for September and 2027."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected to achieve 85% revenue growth in fiscal 2027 due to increased demand for AI computing equipment. Described as a great investment with strong returns potential."
+        "sentiment_reasoning": "Accelerating cloud and AI monetization with triple-digit AI revenue growth for 12 consecutive quarters, resilient core commerce generating cash to self-fund transformation, and disciplined capital allocation framework with defined payback horizon. Consensus fiscal 2027 earnings expected to grow 76.61% YoY, supporting long-term holding thesis despite near-term headwinds."
       },
       {
         "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS growth accelerated to 37% year-over-year in Q2 with $200 billion data center capital expenditures. Expected to see further growth as more computing capacity comes online."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as primary competitive threat in cloud/AI space with AWS commanding greater global hyperscale share than Alibaba Cloud, contributing to elevated pricing pressure in the market."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as key competitor in enterprise AI workloads with Azure maintaining greater global hyperscale share than Alibaba, creating competitive pricing pressure."
       },
       {
         "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
       },
       {
         "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
       },
       {
         "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
       },
       {
         "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
       }
     ]
   },
   {
-    "id": "3ded6b225f96b937a9989daacf8b6ca4f95b118fc8932c2a260b65bdadb20860",
+    "id": "54a1c1be00ab62fde81252e3001d0584fbad3eafa3213a211b51b37243c8e8f1",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Airbnb vs. Spotify Technology: Which Consumer Stock Is a Better Buy in 2026?",
+    "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
     "author": "Pamela Kock",
-    "published_utc": "2026-09-03T15:15:21Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/03/airbnb-vs-spotify-technology-sa-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "published_utc": "2026-09-22T15:15:56Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/crowdstrike-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "ABNB",
-      "SPOT",
-      "BKNG",
-      "PCLN",
+      "CRWD",
+      "PLTR",
       "AMZN",
-      "AAPL"
+      "MSFT",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Airbnb and Spotify Technology as investment options for 2026. Both companies have achieved profitability with similar leverage ratios (0.3x debt-to-equity), but differ significantly in margins and valuations. Airbnb generated $12.2B in revenue with a 20.5% net margin and $4.6B in free cash flow, while Spotify achieved $20.1B in revenue with a 12.9% net margin and $3.4B in free cash flow. The author recommends Airbnb due to its asset-light marketplace model, stronger profitability, capital efficiency, and more resilient growth potential, despite both facing competitive and regulatory challenges.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares CrowdStrike and Palantir Technologies as investment options for 2026. CrowdStrike offers a leading cybersecurity platform with 22% revenue growth but remains unprofitable and faces reputational damage from a 2024 outage. Palantir demonstrates stronger financial performance with 56% revenue growth, profitability, and no debt, but carries higher valuation and customer concentration risks. The author recommends CrowdStrike for its better balance between growth and valuation, despite ongoing challenges.",
     "keywords": [
-      "marketplace comparison",
+      "cybersecurity",
+      "cloud computing",
+      "AI",
+      "data protection",
       "profitability",
-      "free cash flow",
-      "valuation multiples",
-      "regulatory risk",
-      "competitive pressure",
-      "net margins",
-      "consumer discretionary stocks"
+      "valuation",
+      "growth stocks",
+      "risk assessment"
     ],
     "insights": [
       {
-        "ticker": "ABNB",
+        "ticker": "CRWD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong market position and resilient stock recovery post-outage, but offset by ongoing unprofitability (-3.4% net margin), reputational damage from July 2024 incident, and slower growth (21.7% YoY). Recommended by author as better value despite challenges."
+      },
+      {
+        "ticker": "PLTR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong net margin of 20.5%, robust free cash flow of $4.6B, asset-light scalable model, healthy balance sheet (1.4x current ratio), and recommended as the better buy despite regulatory risks and competition from Booking Holdings."
-      },
-      {
-        "ticker": "SPOT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Recently achieved profitability with $2.6B net income and improving margins, but faces intense competition from Amazon and Apple, rising content licensing costs, and lower net margin of 12.9% compared to Airbnb. Recent improvements are encouraging but less resilient long-term."
-      },
-      {
-        "ticker": "BKNG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Airbnb in the online travel agency space, potentially impacting market share and booking volume."
-      },
-      {
-        "ticker": "PCLN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Airbnb in the online travel agency space, potentially impacting market share and booking volume."
+        "sentiment_reasoning": "Exceptional financial performance with 56.2% revenue growth, strong profitability (36.3% net margin), zero debt, high liquidity, and expanding commercial customer base. However, positive sentiment is tempered by high valuation multiples and customer concentration risk."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a major competitor to Spotify in the audio streaming market with competing services."
+        "sentiment_reasoning": "Mentioned as a third-party cloud infrastructure provider that CrowdStrike depends on, creating operational dependency risk. No direct investment recommendation provided."
       },
       {
-        "ticker": "AAPL",
+        "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a major competitor to Spotify in the audio streaming market with competing services."
-      }
-    ]
-  },
-  {
-    "id": "68d000234124ceeff93850d569ddb6b796bf62ab818090c7bc34c4cb7670bc42",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "3 Alger Mutual Funds Offering Exposure to Growth Stocks",
-    "author": "Na",
-    "published_utc": "2026-09-03T12:15:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984206/3-alger-mutual-funds-offering-exposure-to-growth-stocks?cid=CS-ZC-FT-mutual_fund_commentary-2984206",
-    "tickers": [
-      "NVDA",
-      "MSFT",
-      "AMZN",
-      "AAPL",
-      "AVGO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/79/7332.jpg",
-    "description": "Zacks highlights three Alger mutual funds with strong ratings and positive long-term returns. Alger Focus Equity (ALGRX) holds concentrated positions in tech leaders with 35.6% 3-year returns, Alger Growth & Income (ALBAX) targets dividend-paying large-cap stocks with 20.2% 3-year returns, and Alger Responsible Investing (AGIFX) focuses on ESG-rated companies with growth potential. All three funds maintain low expense ratios and minimum investments under $5,000, positioning them to benefit from AI, business investment, and structural growth trends.",
-    "keywords": [
-      "mutual funds",
-      "growth investing",
-      "artificial intelligence",
-      "ESG investing",
-      "dividend stocks",
-      "technology stocks",
-      "active management"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Mentioned as a third-party cloud provider that Palantir relies on. No direct investment recommendation provided."
+      },
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as top holding in two of three recommended funds (ALGRX at 12.9% and AGIFX at 11.4%), indicating strong positioning in AI and technological innovation themes"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Appears as top-3 holding across all three funds (6.8% in ALGRX, 6.4% in ALBAX, 7.6% in AGIFX), demonstrating consistent exposure to growth and innovation"
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding in two funds (7.5% in ALGRX and 6.4% in AGIFX), reflecting exposure to technological innovation and structural growth"
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top-3 holding in ALBAX at 6.6%, indicating inclusion in dividend-paying growth strategy"
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top holding in ALBAX at 7.4%, representing exposure to semiconductor and technology infrastructure growth"
-      }
-    ]
-  },
-  {
-    "id": "cad11864b36d63f55f588ff3aaf057ca34db0f77546e59e1b6cc733771f1e680",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should Invesco S&P 500 Revenue ETF (RWL) Be on Your Investing Radar?",
-    "author": "Na",
-    "published_utc": "2026-09-03T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2984147/should-invesco-s-p-500-revenue-etf-rwl-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2984147",
-    "tickers": [
-      "RWL",
-      "AMZN",
-      "WMT",
-      "AAPL",
-      "SCHD",
-      "VTV"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default0.jpg",
-    "description": "The Invesco S&P 500 Revenue ETF (RWL) is reviewed as a passively managed large cap value fund with $10.05 billion in assets and a 0.39% expense ratio. The ETF has gained 18.23% year-to-date and 26.32% over the past year, with a beta of 0.85 indicating medium risk. Top holdings include Amazon, Walmart, and Apple, with healthcare as the largest sector allocation at 19.7%. The fund receives a Zacks ETF Rank of 3 (Hold), with alternatives like SCHD and VTV offering lower expense ratios.",
-    "keywords": [
-      "large cap value",
-      "ETF",
-      "passive management",
-      "expense ratio",
-      "dividend yield",
-      "sector allocation",
-      "performance"
-    ],
-    "insights": [
-      {
-        "ticker": "RWL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The ETF is presented as a sufficient option with solid performance (18.23% YTD, 26.32% 1-year) and reasonable expense ratio (0.39%), but receives a Hold rating (Rank 3) rather than a strong recommendation. The article notes competitive alternatives with lower fees."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the largest individual holding at 4.06% of RWL's portfolio, but no specific sentiment is expressed about the company itself."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as the second-largest holding in RWL, but presented without specific positive or negative commentary."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a top-3 holding in RWL, but no distinct sentiment is provided."
-      },
-      {
-        "ticker": "SCHD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a competitive alternative with a significantly lower expense ratio (0.06% vs RWL's 0.39%) and substantially larger assets ($112.87 billion)."
-      },
-      {
-        "ticker": "VTV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as an alternative with the lowest expense ratio (0.03%) and the largest asset base ($192.68 billion) among the compared funds."
-      }
-    ]
-  },
-  {
-    "id": "b8365854e52ebe0eb274c6f26d577520a5038bc9772781ca99d0dbbc8e71a824",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should Vanguard Russell 1000 Value Index Fund ETF Shares (VONV) Be on Your Investing Radar?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-03T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2984149/should-vanguard-russell-1000-value-index-fund-etf-shares-vonv-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2984149",
-    "tickers": [
-      "VONV",
-      "SCHD",
-      "VTV",
-      "AMZN",
-      "AAPL",
-      "MSFT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default283.jpg",
-    "description": "VONV, a passively managed ETF tracking large-cap value stocks, has amassed $21.92 billion in assets with a low expense ratio of 0.06% and strong year-to-date performance of 23.04%. The fund holds approximately 875 stocks with heavy exposure to Information Technology (19.2%), Financials, and Healthcare sectors. With a Zacks ETF Rank of 1 (Strong Buy), it offers diversified exposure to the large-cap value segment, though alternatives like VTV and SCHD are also available.",
-    "keywords": [
-      "ETF",
-      "large-cap value",
-      "passive management",
-      "low expense ratio",
-      "diversification",
-      "Russell 1000 Value Index"
-    ],
-    "insights": [
-      {
-        "ticker": "VONV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Buy rating from Zacks, low expense ratio of 0.06%, substantial assets under management ($21.92 billion), solid year-to-date performance (23.04%), and effective diversification with 875 holdings make it an attractive option for value-focused investors."
-      },
-      {
-        "ticker": "SCHD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a comparable alternative with similar expense ratio (0.06%) and substantial assets ($112.87 billion), but no specific performance metrics or ratings provided to differentiate it positively or negatively."
-      },
-      {
-        "ticker": "VTV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an alternative option with the lowest expense ratio (0.03%) and largest assets ($192.68 billion) among alternatives, but presented neutrally without performance endorsement or rating comparison."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (6.51% of portfolio) but mentioned factually without sentiment; serves as a component of the ETF rather than being independently evaluated."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding but mentioned factually without sentiment; serves as a component of the ETF rather than being independently evaluated."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding but mentioned factually without sentiment; serves as a component of the ETF rather than being independently evaluated."
+        "sentiment_reasoning": "Mentioned as a partner in Palantir's sovereign AI initiatives. No direct investment recommendation provided."
       }
     ]
   }

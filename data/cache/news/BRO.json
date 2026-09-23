@@ -1,5 +1,58 @@
 [
   {
+    "id": "7b33129bf550328d240f5d298afa56e382224ad0c5c2f6050c483d19574019dd",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "BRO Stock Declines 27.1% in a Year: What Should Investors Do Now?",
+    "author": "Na",
+    "published_utc": "2026-09-16T15:43:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2990857/bro-stock-declines-27-1-in-a-year-what-should-investors-do-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2990857",
+    "tickers": [
+      "BRO",
+      "AON",
+      "AJG",
+      "WTW"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8e/1155.jpg",
+    "description": "Brown & Brown (BRO) has seen its stock plunge 27.1% over the past year despite strong commission growth of 32.4% and strategic acquisitions. While the company benefits from strong client retention, new business generation, and AI investments, rising expenses, elevated debt levels ($7.76B), and surging interest costs (up 96.1%) are pressuring margins. Analysts suggest a 12.2% upside potential, but the stock carries a Hold rating due to headwinds offsetting growth catalysts.",
+    "keywords": [
+      "insurance broker",
+      "commission growth",
+      "acquisitions",
+      "debt burden",
+      "margin pressure",
+      "AI investments",
+      "stock valuation",
+      "cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "BRO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook with positive fundamentals (32.4% commission growth, strong retention, strategic acquisitions, AI partnerships) offset by significant headwinds (27.1% stock decline, rising expenses, 96.1% interest expense surge, $7.76B debt). Zacks Rank #3 Hold rating reflects balanced risk-reward with 12.2% upside potential but requiring improved earnings growth and market conditions."
+      },
+      {
+        "ticker": "AON",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as peer comparison with 14.9% stock decline over past year, trading at discount valuation similar to BRO. No specific performance data provided, neutral positioning relative to industry."
+      },
+      {
+        "ticker": "AJG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Peer insurance broker with 15.2% stock decline over past year, trading at discount valuation. No specific operational details provided, neutral positioning within industry."
+      },
+      {
+        "ticker": "WTW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Peer insurance broker with smallest decline at 3.1% over past year, trading at discount valuation. Limited information provided, neutral positioning relative to peers."
+      }
+    ]
+  },
+  {
     "id": "2908b4d3108aea5616c395f972cce1c267f69773efda22a54826a1aee5d90770",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -181,39 +234,6 @@
         "ticker": "BRO",
         "sentiment": "negative",
         "sentiment_reasoning": "The company faces a securities fraud investigation following significant employee departures (275 employees) and loss of $23 million in annual revenue, resulting in a 6.91% stock price decline. The organic revenue decrease and undisclosed employee exodus suggest potential mismanagement and lack of transparency with investors."
-      }
-    ]
-  },
-  {
-    "id": "77939b4dae9c28aed264cef0a00a6c6e305bc5e19ff29eb293524eae287a4d92",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Brown & Brown, Inc. acquires the assets of The Protectorate Group Insurance Agency, Inc., doing business as American Adventure Insurance",
-    "author": "Globe Newswire",
-    "published_utc": "2026-02-17T11:45:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/26/02/g50644316/brown-brown-inc-acquires-the-assets-of-the-protectorate-group-insurance-agency-inc-doing-business-?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "BRO"
-    ],
-    "image_url": "https://www.benzinga.com/next-assets/images/benzinga-schema-image-default.png",
-    "description": "Brown & Brown, Inc. (NYSE:BRO) has acquired the assets of The Protectorate Group Insurance Agency, Inc., operating as American Adventure Insurance. The acquisition expands Brown & Brown Dealer Services' capabilities in providing insurance solutions for dealerships across vehicle types including motor homes, boats, and motorcycles. Paul Bender, the owner of American Adventure with 30+ years of experience, will lead the integration with his team of over 1,500 dealership partners.",
-    "keywords": [
-      "acquisition",
-      "insurance brokerage",
-      "dealer services",
-      "asset purchase",
-      "insurance solutions",
-      "dealership partnerships"
-    ],
-    "insights": [
-      {
-        "ticker": "BRO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The acquisition strengthens Brown & Brown's market position by expanding its dealer services division with an established network of 1,500+ dealerships and experienced leadership. The deal adds complementary insurance products and F&I solutions, enhancing the company's capabilities and growth prospects in the automotive insurance sector."
       }
     ]
   }

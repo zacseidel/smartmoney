@@ -1,284 +1,201 @@
 [
   {
-    "id": "a5babae3355501a210179432d440f0ab24f4eab8482c360c319ada6b437c225c",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "McDonald's (MCD) Down 4.8% Since Last Earnings Report: Can It Rebound?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-03T15:30:18Z",
-    "article_url": "https://www.zacks.com/stock/news/2984571/mcdonald-s-mcd-down-4-8-since-last-earnings-report-can-it-rebound?cid=CS-ZC-FT-realtime_blog-2984571",
-    "tickers": [
-      "MCD",
-      "CAKE"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default258.jpg",
-    "description": "McDonald's stock has declined 4.8% since its Q2 2026 earnings report, underperforming the S&P 500. While the company beat EPS expectations ($3.38 vs. $3.32 consensus) driven by strong franchised margins, revenues missed estimates ($7.10B vs. $7.14B consensus). Global comparable sales grew 1.3%, with positive results across segments, though U.S. margins faced inflationary pressures. Analysts have revised estimates downward, and the stock holds a Zacks Rank #3 (Hold) with a D VGM Score, suggesting in-line returns ahead.",
-    "keywords": [
-      "earnings report",
-      "stock performance",
-      "comparable sales",
-      "franchised margins",
-      "revenue miss",
-      "estimate revisions",
-      "loyalty program",
-      "inflationary pressures"
-    ],
-    "insights": [
-      {
-        "ticker": "MCD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 4.8% since earnings, revenues missed consensus estimates, downward estimate revisions trend, weak Momentum Score (F), and Hold rating suggest near-term weakness despite beating EPS expectations and maintaining positive comparable sales growth."
-      },
-      {
-        "ticker": "CAKE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 3.1% over the past month, reported strong revenue growth (+7.7% YoY), significant EPS improvement (+23.8% YoY), positive estimate revisions (+5.3% over 30 days), and holds a Zacks Rank #2 (Buy) with VGM Score of A, indicating outperformance relative to McDonald's."
-      }
-    ]
-  },
-  {
-    "id": "25b8b2dcc69ccc79af0744ad77dedba97e774f56f45d212c14e0192ab87f79a2",
+    "id": "73c2e88347bf9bb1a34e0e0750180623250213f87bc8410b7f71ff35a8fce754",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Loan Delinquencies Edge Lower in Q2, but Some Remain at Very High Levels. Here's What It Means for Investors.",
-    "author": "James Brumley",
-    "published_utc": "2026-09-02T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/loan-delinquencies-edge-lower-in-q2-but-some-remai/?source=iedfolrf0000001",
+    "title": "Is McDonald's an Undervalued Dividend Stock to Buy Right Now?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-09-22T23:35:13Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/is-mcdonalds-an-undervalued-dividend-stock-to-buy/?source=iedfolrf0000001",
     "tickers": [
-      "AXP",
-      "MCD",
-      "WMT",
-      "CVNA",
-      "KMX",
-      "ALLY"
+      "MCD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885047%2Fgetty-person-feeling-worried-looking-at-a-laptop.jpg&w=1200&op=resize",
-    "description": "While overall U.S. loan delinquencies declined in Q2 2026, subprime loans remain at multiyear highs, revealing a K-shaped economic recovery where affluent consumers thrive while lower-income households struggle. Mortgage and auto loan delinquencies are rising, with particular pressure on subprime borrowers facing affordability challenges, inflation, and a weakening job market.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888611%2Fmqdefault_custom_2-2.jpg&w=1200&op=resize",
+    "description": "McDonald's stock is trading at historically cheap valuations with a 3% dividend yield, the highest in over 6 years. The article suggests underlying business prospects are improving despite a challenging macroeconomic environment, presenting a potential buying opportunity for dividend investors.",
     "keywords": [
-      "loan delinquencies",
-      "K-shaped recovery",
-      "subprime loans",
-      "mortgage delinquencies",
-      "auto loan delinquencies",
-      "consumer credit",
-      "economic divergence",
-      "affordability crisis"
+      "dividend stock",
+      "undervalued",
+      "McDonald's",
+      "valuation",
+      "yield",
+      "macroeconomic",
+      "franchise stocks"
     ],
     "insights": [
       {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 results with 9% year-over-year revenue growth (highest in 3 years), matching profit growth. Serves affluent customer base showing resilience with growing spending in retail, restaurants, and travel. Loan delinquencies remain below COVID-19 pandemic levels."
-      },
-      {
         "ticker": "MCD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Q2 sales growth fell short of expectations due to inconsistent execution across locations. CEO acknowledged challenges with value-conscious customer base, indicating economic sensitivity to lower-income consumer struggles."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "U.S. same-store sales growth of 2.6% significantly underperformed analyst expectations of 3.8%, suggesting weakness in discount retail segment serving price-sensitive consumers."
-      },
-      {
-        "ticker": "CVNA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While not showing immediate trouble, faces brewing headwinds from declining subprime auto lending and reduced loan sales to third-party investors. Vulnerable to further deterioration in subprime borrower ability to repay."
-      },
-      {
-        "ticker": "KMX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Currently showing no serious signs of trouble despite dependence on consumer credit, but faces potential future challenges from tightening subprime auto lending market."
-      },
-      {
-        "ticker": "ALLY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Manages sizable subprime car loan portfolio vulnerable to deterioration. Fitch expects auto loan asset-backed securities to underperform in second half of 2026 due to subprime borrower economic hardship."
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article presents McDonald's as potentially undervalued with an attractive 3% dividend yield (highest in 6+ years) and improving underlying business prospects despite macroeconomic headwinds. The framing suggests it may be a buying opportunity rather than a value trap."
       }
     ]
   },
   {
-    "id": "021f403bb96852d8661bdc66682de9d1077dbfde313ee69790fd387fa1cba68e",
+    "id": "44f374402b66ec6aba088fa94d66ab73da46f7cf3b8cc3d23433d79b51c2ea46",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Brinker International Stock Jumped Today",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-22T16:10:27Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/why-brinker-international-stock-jumped-today/?source=iedfolrf0000001",
+    "tickers": [
+      "EAT",
+      "MCD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888550%2Fwoman-eating-casual-dining-restaurant.jpg&w=1200&op=resize",
+    "description": "Brinker International (Chili's parent company) stock rose 3.49% after Northcoast upgraded the stock from neutral to buy with a $275 price target, implying 37% upside. The upgrade was driven by strong growth at Chili's, menu improvements, better marketing, and management confidence in achieving in-store margins exceeding 20%. While hypergrowth may be slowing, the company targets 4%-6% annual revenue growth through fiscal 2029 with double-digit adjusted EPS growth.",
+    "keywords": [
+      "Brinker International",
+      "Chili's",
+      "analyst upgrade",
+      "casual dining",
+      "comparable sales growth",
+      "share buybacks",
+      "restaurant stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "EAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Analyst upgrade from neutral to buy with a $275 price target representing 37% upside. Strong execution at Chili's with solid comparable sales growth (9.2%), effective marketing campaigns gaining market share, menu improvements, and management confidence in achieving higher margins. Company has clear growth targets through fiscal 2029."
+      },
+      {
+        "ticker": "MCD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that Chili's is positioning itself against by offering better value, but no direct news or sentiment about McDonald's itself is provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "d7dd5aa63647d805ac611897be3fe8489831faa20a962c21d7995db9a6fc6aea",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Relentless Dividend Stocks to Buy in September",
+    "author": "John Ballard",
+    "published_utc": "2026-09-20T08:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/20/3-relentless-dividend-stocks-to-buy-in-september/?source=iedfolrf0000001",
+    "tickers": [
+      "EBAY",
+      "MCD",
+      "STZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887251%2Fgrowth-stocks-to-buy.jpg&w=1200&op=resize",
+    "description": "The article recommends three dividend growth stocks for September 2026: eBay, McDonald's, and Constellation Brands. eBay has grown its dividend at 12% annually with solid revenue growth and AI-powered tools driving momentum. McDonald's offers a 3% yield with a strong franchise model despite recent comparable-store sales weakness. Constellation Brands, trading down 55% from 2024 highs, offers a compelling 3.38% yield with room for dividend growth despite soft beer demand.",
+    "keywords": [
+      "dividend stocks",
+      "dividend growth",
+      "income investing",
+      "e-commerce",
+      "fast food",
+      "beer distribution",
+      "free cash flow",
+      "yield"
+    ],
+    "insights": [
+      {
+        "ticker": "EBAY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 15% revenue growth, 26% growth in consumer-to-consumer sales, successful Depop acquisition expanding Gen Z reach, AI-powered tools improving user experience, 12% annual dividend growth rate, and low 20% payout ratio providing room for future increases."
+      },
+      {
+        "ticker": "MCD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite recent comparable-store sales weakness, the company maintains strong free cash flow generation, 7% annual dividend growth, manageable 67% payout ratio, attractive 3% forward yield, high operating margins of 47%, and expansion plans targeting 50,000 locations by 2028."
+      },
+      {
+        "ticker": "STZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock down 55% from 2024 highs creates compelling valuation with 3.38% forward yield, low 38% payout ratio allowing dividend growth even in weak demand environment, 6% annual dividend growth rate, strong brand portfolio (Corona, Modelo), and expected 6% annual U.S. beer market growth through 2030."
+      }
+    ]
+  },
+  {
+    "id": "ff85fae49628923aa14a590258af8a72b21374d3aed190dbf5d8aa6f0ca768bc",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can MCD's International Markets Drive Growth Amid Consumer Pressure?",
+    "title": "McDonald's (MCD) Gains As Market Dips: What You Should Know",
     "author": "Na",
-    "published_utc": "2026-09-01T13:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983004/can-mcd-s-international-markets-drive-growth-amid-consumer-pressure?cid=CS-ZC-FT-analyst_blog|quick_take-2983004",
+    "published_utc": "2026-09-14T21:50:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2989477/mcdonald-s-mcd-gains-as-market-dips-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v1-2989477",
     "tickers": [
-      "MCD",
-      "SBUX",
-      "WEN"
+      "MCD"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f6/355.jpg",
-    "description": "McDonald's reported 1.5% comparable sales growth in International Operated Markets and 1.9% in International Developmental Licensed Markets during Q2 2026, led by strong performance in Germany, Australia, UK, and Japan. The company expects growth to accelerate in Q3 despite challenging consumer conditions in some regions like China and France. Management attributes success to value offerings, menu innovation, and loyalty programs.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default336.jpg",
+    "description": "McDonald's (MCD) rose 1.96% to $257.49 in the latest session, outperforming the S&P 500 which fell 0.48%. However, the stock has declined 7.44% over the past month. The company is expected to report Q3 EPS of $3.39 (up 5.28% YoY) and revenue of $7.28 billion (up 2.88% YoY). McDonald's holds a Zacks Rank #3 (Hold) rating with a Forward P/E of 19.61, trading at a discount to its industry average of 21.53.",
     "keywords": [
-      "McDonald's",
-      "international markets",
-      "comparable sales growth",
-      "Q2 2026",
-      "consumer demand",
-      "Japan loyalty program",
-      "value offerings"
+      "McDonald's earnings",
+      "stock performance",
+      "analyst estimates",
+      "Zacks Rank",
+      "valuation metrics",
+      "restaurant industry"
     ],
     "insights": [
       {
         "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "McDonald's demonstrated solid international growth with 1.5% IOM and 1.9% IDL comparable sales growth. Japan achieved its 10th consecutive quarter of positive guest-count growth with a successful loyalty program. Management expects sequential acceleration in Q3. However, stock has underperformed (-21.3% in 6 months) and carries a Hold rating, tempering overall optimism."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While McDonald's showed positive daily performance (+1.96%) and beat broader market indices, the stock has underperformed over the past month (-7.44%). Earnings growth expectations are modest (5.28% EPS growth), and the Zacks Rank #3 (Hold) rating indicates neither strong buy nor sell signals. The valuation appears reasonable relative to industry peers, supporting a neutral outlook."
+      }
+    ]
+  },
+  {
+    "id": "e28037d044b93f69a88e3c2527cde3bd93359237493a96c945b69aa4e30418f6",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can MCD Build More Growth From Its $20B Delivery Platform?",
+    "author": "Na",
+    "published_utc": "2026-09-14T14:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2989188/can-mcd-build-more-growth-from-its-20b-delivery-platform?cid=CS-ZC-FT-analyst_blog|quick_take-2989188",
+    "tickers": [
+      "MCD",
+      "SBUX",
+      "CAVA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/9f/16064.jpg",
+    "description": "McDonald's has built a substantial delivery platform generating over $20 billion in annual systemwide sales across 100 markets. The company targets 30% of delivery sales through its app by 2027 and is consolidating digital infrastructure with one app, loyalty program, and pricing engine serving 220 million users. However, MCD stock has underperformed the industry over the past year and trades at a premium valuation multiple.",
+    "keywords": [
+      "delivery platform",
+      "digital strategy",
+      "mobile app",
+      "loyalty program",
+      "systemwide sales",
+      "valuation",
+      "stock performance"
+    ],
+    "insights": [
+      {
+        "ticker": "MCD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "McDonald's demonstrates strong operational execution with a $20B+ delivery business and clear digital growth targets. However, the stock has declined 16.4% over the past year, trades at a premium 6.13 P/S ratio versus industry average of 3.12, and EPS estimates have declined in the past 30 days. The company receives a Zacks Rank #3 (Hold) rating, reflecting mixed near-term prospects despite solid business fundamentals."
       },
       {
         "ticker": "SBUX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Starbucks delivered stronger international performance with 5.7% international comparable sales growth and its sixth consecutive quarter of positive system-wide comparable sales across 90 markets. The company is expanding internationally with new prototypes and expects continued international growth through fiscal 2027."
+        "sentiment_reasoning": "Starbucks is successfully expanding delivery with strong Q3 2026 U.S. comparable sales growth of 7.9%, driven by transaction and ticket growth. The company reports no meaningful cannibalization of in-store visits and plans to integrate delivery into its app with loyalty rewards, demonstrating effective execution of its digital and convenience strategy."
       },
       {
-        "ticker": "WEN",
+        "ticker": "CAVA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Wendy's international business shows mixed results with 3.4% systemwide sales growth but a 2.3% decline in same-restaurant sales, primarily due to challenging conditions in Canada. Excluding Canada, international sales grew 8.6%, indicating uneven performance across markets."
-      }
-    ]
-  },
-  {
-    "id": "aec5ec0ee11dadbd77901b7dcd6342c559e1bdc846e804b07d5898e86fe492dd",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Dow Jones Stocks Down Over 20% I'd Buy on the Dip",
-    "author": "John Ballard",
-    "published_utc": "2026-08-30T23:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/30/2-dow-jones-stocks-down-20-id-buy-on-the-dip/?source=iedfolrf0000001",
-    "tickers": [
-      "HD",
-      "MCD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885353%2Fhome-depot-store-source-company.jpg&w=1200&op=resize",
-    "description": "Home Depot and McDonald's, both Dow Jones components, have declined over 20% from their highs but present attractive buying opportunities. Home Depot faces cyclical housing market weakness but maintains strong competitive positioning with only 15% market share of a $1.1 trillion addressable market and offers a 2.84% dividend yield. McDonald's has experienced execution challenges and softer consumer demand, but its highly profitable franchise model generates substantial free cash flow and supports a 2.82% dividend yield with a 50-year dividend growth streak.",
-    "keywords": [
-      "Dow Jones stocks",
-      "dividend yield",
-      "Home Depot",
-      "McDonald's",
-      "market dip",
-      "housing market",
-      "franchise model",
-      "comparable sales",
-      "free cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "HD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock is down 25% from highs due to cyclical housing weakness, not fundamental business deterioration. Strong competitive moat with 2,300+ stores, only 15% market share of $1.1T addressable market, attractive 2.84% dividend yield, and consistent dividend growth (6.6% annualized over 3 years) make it a compelling value opportunity."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock declined 24% from highs due to execution issues and cautious consumer spending, but the highly profitable franchise model (95% franchised) generates strong free cash flow ($7B annually). 2.82% dividend yield, 50-year dividend growth streak, 8% annualized dividend growth over 3 years, and 220M loyalty users provide downside support and long-term value."
-      }
-    ]
-  },
-  {
-    "id": "92bcde83c5491be534f3937a1d0f9b06e1539d06c819d5993183f40c6e399b06",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Bill Gates' Foundation Holds Berkshire Hathaway as Its Top Stock, a Signal of Its Preference for Steady Compounders Over Flashy Tech",
-    "author": "Lawrence Rothman, Cfa",
-    "published_utc": "2026-08-24T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/bill-gates-foundation-holds-berkshire-hathaway-as/?source=iedfolrf0000001",
-    "tickers": [
-      "BRK.A",
-      "BRK.B",
-      "CAT",
-      "CNI",
-      "WM",
-      "DE",
-      "WMT",
-      "HD",
-      "MCD",
-      "MSFT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880796%2Fgettyimages-1485100311-1200x800-5b2df792.jpg&w=1200&op=resize",
-    "description": "The Gates Foundation Trust's $34.4 billion equity portfolio reveals a preference for industrial and consumer stocks over technology companies. With Berkshire Hathaway as its largest holding at $7.4 billion, the foundation also maintains significant positions in Caterpillar, Canadian National Railway, Waste Management, and Deere. This strategy demonstrates that solid long-term returns can be achieved through steady compounders rather than volatile tech stocks, while still benefiting from trends like AI-driven data center construction.",
-    "keywords": [
-      "Gates Foundation",
-      "Berkshire Hathaway",
-      "industrial stocks",
-      "consumer stocks",
-      "dividend growth",
-      "long-term investing",
-      "AI data centers",
-      "portfolio diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Largest holding in Gates Foundation portfolio at $7.4 billion, demonstrating confidence in its long-term value as a steady compounder with proven staying power."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Largest holding in Gates Foundation portfolio at $7.4 billion, demonstrating confidence in its long-term value as a steady compounder with proven staying power."
-      },
-      {
-        "ticker": "CAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding, praised for proven resilience over 100 years, 44% YTD gains, 24% revenue growth, and 32-year dividend increase streak. Benefits from AI data center construction boom."
-      },
-      {
-        "ticker": "CNI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Among the foundation's four largest holdings in the industrials sector, valued between $2.3-$6.8 billion, indicating confidence in its stable business model."
-      },
-      {
-        "ticker": "WM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Among the foundation's four largest industrial holdings, valued between $2.3-$6.8 billion, representing a stable, essential service business."
-      },
-      {
-        "ticker": "DE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Among the foundation's four largest industrial holdings, valued between $2.3-$6.8 billion, demonstrating confidence in its long-term business stability."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Consumer goods holding in the foundation's portfolio, representing a stable, dividend-paying company with proven long-term performance."
-      },
-      {
-        "ticker": "HD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "New position initiated in Q2 with 1 million shares valued over $350 million, indicating foundation's confidence in the company's growth prospects."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Consumer goods company holding in the foundation's portfolio, representing a stable, dividend-paying business model."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While mentioned as one of few tech stocks that performed well long-term, it is notably absent from the Gates Foundation's portfolio despite Bill Gates' co-founding role, suggesting preference for non-tech investments."
+        "sentiment_reasoning": "CAVA is improving delivery execution through technology investments and operational enhancements, with kitchen display systems boosting service speed and accuracy. However, the higher mix of third-party delivery drove a 40-basis-point increase in operating expenses, illustrating the cost trade-offs associated with delivery growth that the company must manage."
       }
     ]
   }

@@ -1,286 +1,337 @@
 [
   {
-    "id": "cad11864b36d63f55f588ff3aaf057ca34db0f77546e59e1b6cc733771f1e680",
+    "id": "d66977bedbea5427fd97255dd9587514f515144c2a8ff1a8b07e2789b3344f4d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-09-22T19:24:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BE",
+      "PLUG",
+      "ORCL",
+      "ORCLpD",
+      "AEP",
+      "WMT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4b2de7e266a680c7ccd01859284f0eff5e796708-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Bloom Energy and Plug Power represent different approaches to the hydrogen and fuel cell market. Bloom Energy focuses on solid-oxide fuel cells for data centers with strong near-term profitability prospects, while Plug Power is building a comprehensive green hydrogen ecosystem with significant long-term potential. Despite Bloom's superior current financials and expected profitability in 2026, the article recommends Plug Power as the better long-term buy due to its dramatically lower P/S ratio and positioning in the growing renewable hydrogen market.",
+    "keywords": [
+      "fuel cells",
+      "hydrogen energy",
+      "clean energy transition",
+      "data center power",
+      "green hydrogen",
+      "renewable energy",
+      "profitability",
+      "cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth (37% YoY), expected to reach $4.1B in FY2026 with 85% growth, projected swing to $658M net income, positive free cash flow of $57.2M, and benefiting from AI datacenter boom. However, carries high debt-to-equity ratio of 3.9x and currently unprofitable."
+      },
+      {
+        "ticker": "PLUG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better long-term buy despite current losses due to dramatically lower P/S ratio (3.7x vs 25.1x), strong positioning in renewable hydrogen market with EU mandates, major customers (Amazon, Walmart) entering replacement cycles, and expected net loss narrowing to $580M in FY2026. However, faces significant cash burn ($662M negative FCF) and customer concentration risk."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "AEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key partner/customer of Bloom Energy but no specific sentiment analysis provided in the article."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Plug Power's most prominent customer (24% of revenues) and entering replacement phase, but no independent sentiment analysis provided."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Plug Power customer entering replacement phase, but no independent sentiment analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "77317e3f3138471ecfef7257ad0b90d9d12860c62035a403f7525ecb7440cf86",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Here's What the Fed's Interest Rate Hike Means for Costco, Walmart, and Target (and My Top Pick to Buy Now)",
+    "author": "Adria Cimino",
+    "published_utc": "2026-09-22T09:10:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/heres-what-the-feds-interest-rate-hike-means-for-c/?source=iedfolrf0000001",
+    "tickers": [
+      "COST",
+      "WMT",
+      "TGT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887919%2Fgrocery-shopping-car-auto-transportation.jpg&w=1200&op=resize",
+    "description": "The Federal Reserve raised interest rates by a quarter-point to combat inflation, which may reduce consumer spending power through higher credit card APRs, loan rates, and mortgage costs. However, value-focused retailers like Costco, Walmart, Target, and Amazon may benefit as cost-conscious consumers shift spending toward these companies known for competitive pricing and strong supply chains. The analyst views any weakness in these quality retailers as a buying opportunity.",
+    "keywords": [
+      "Federal Reserve",
+      "interest rate hike",
+      "inflation",
+      "consumer spending",
+      "retail stocks",
+      "value retailers",
+      "credit card APR",
+      "borrowing costs"
+    ],
+    "insights": [
+      {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong value-focused business model with bulk buying strategy enables rock-bottom pricing, positioning it to attract cost-conscious consumers during periods of higher interest rates and reduced spending power."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Well-structured supply chain and sourcing methods support low prices, making it an attractive destination for consumers seeking value during economic headwinds from rising rates."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Vast selection of owned brands helps maintain low costs and competitive pricing, positioning the retailer to benefit from consumers prioritizing value during periods of higher borrowing costs."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as the analyst's top pick due to strong e-commerce value proposition combined with a booming cloud computing business benefiting from AI boom, offering both stability and growth potential despite near-term consumer spending pressures."
+      }
+    ]
+  },
+  {
+    "id": "2dbaaaddb7ee5571013779ac6e43590bc823f9a9452c3ed0143a48392e181f00",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Should Invesco S&P 500 Revenue ETF (RWL) Be on Your Investing Radar?",
+    "title": "Target Uses AI Personalization to Deepen Digital Guest Engagement",
     "author": "Na",
-    "published_utc": "2026-09-03T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2984147/should-invesco-s-p-500-revenue-etf-rwl-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2984147",
+    "published_utc": "2026-09-21T16:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993141/target-uses-ai-personalization-to-deepen-digital-guest-engagement?cid=CS-ZC-FT-analyst_blog|quick_take-2993141",
     "tickers": [
-      "RWL",
-      "AMZN",
+      "TGT",
       "WMT",
-      "AAPL",
-      "SCHD",
-      "VTV"
+      "BJ"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default0.jpg",
-    "description": "The Invesco S&P 500 Revenue ETF (RWL) is reviewed as a passively managed large cap value fund with $10.05 billion in assets and a 0.39% expense ratio. The ETF has gained 18.23% year-to-date and 26.32% over the past year, with a beta of 0.85 indicating medium risk. Top holdings include Amazon, Walmart, and Apple, with healthcare as the largest sector allocation at 19.7%. The fund receives a Zacks ETF Rank of 3 (Hold), with alternatives like SCHD and VTV offering lower expense ratios.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
+    "description": "Target is increasingly using AI-powered tools to personalize digital shopping experiences, including AI-powered wish lists that boosted creations over 50% and key-page conversion nearly 20%. The retailer is also partnering with OpenAI and Google Gemini for agentic commerce development. Traffic from external AI platforms is growing at 3.5 times the industry pace. Target's stock has outperformed its industry significantly, rising 21.7% in three months versus a 7.3% industry decline.",
     "keywords": [
-      "large cap value",
-      "ETF",
-      "passive management",
-      "expense ratio",
-      "dividend yield",
-      "sector allocation",
-      "performance"
+      "artificial intelligence",
+      "personalization",
+      "digital shopping",
+      "e-commerce",
+      "AI-powered tools",
+      "wish lists",
+      "agentic commerce",
+      "customer engagement"
     ],
     "insights": [
       {
-        "ticker": "RWL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The ETF is presented as a sufficient option with solid performance (18.23% YTD, 26.32% 1-year) and reasonable expense ratio (0.39%), but receives a Hold rating (Rank 3) rather than a strong recommendation. The article notes competitive alternatives with lower fees."
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Target is successfully implementing AI technologies to enhance customer engagement with measurable results (50%+ wish list creation increase, 20% conversion lift). Stock performance significantly outpaced industry decline (21.7% vs -7.3%), and earnings estimates have been raised. Company carries Zacks Rank #2 (Buy)."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Walmart's AI assistant Sparky shows strong adoption with 70% year-over-year usage increase and customers spending 40% more per order. The company is effectively using AI for personalization and product discovery."
+      },
+      {
+        "ticker": "BJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "BJ's Wholesale is successfully deploying AI assistant Bev with over 100,000 member conversations handled. Digitally enabled comparable sales rose 30% in Q2 fiscal 2026, indicating strong digital engagement and customer loyalty improvements."
+      }
+    ]
+  },
+  {
+    "id": "658feb876cc3607d766d1a1ea683e9bd9c2e2725528cec7dbe48378cad1ec8d2",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-21T13:30:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992824/u-s-china-talks-seem-successful-etf-areas-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-2992824",
+    "tickers": [
+      "QCOM",
+      "INTC",
+      "MU",
+      "AMAT",
+      "NVDA",
+      "AAPL",
+      "WMT",
+      "TGT",
+      "BBY",
+      "COST",
+      "TSLA",
+      "SMH",
+      "XRT",
+      "RTH",
+      "CARZ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg",
+    "description": "Ahead of an expected Trump-Xi meeting in Washington, U.S.-China trade negotiations focusing on tariff reductions and AI could benefit semiconductor, technology, retail, and auto sectors. Companies with significant China exposure including Qualcomm, Intel, Micron, Applied Materials, NVIDIA, Apple, Walmart, Target, Best Buy, Costco, and Tesla may see positive sentiment if trade tensions ease.",
+    "keywords": [
+      "U.S.-China trade talks",
+      "tariffs",
+      "semiconductors",
+      "AI chips",
+      "retail",
+      "automobiles",
+      "Trump-Xi meeting",
+      "trade negotiations"
+    ],
+    "insights": [
+      {
+        "ticker": "QCOM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China revenue exposure; semiconductor tariff reductions could improve margins and sales"
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major China exposure in semiconductor sales; potential tariff relief could boost revenue"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor company with substantial China business; trade deal could ease restrictions"
+      },
+      {
+        "ticker": "AMAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor equipment supplier with China exposure; tariff reductions could increase sales"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AI chip exports to China are central to trade discussions; broader agreement could unlock significant sales potential"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Extensive China manufacturing and supply chain exposure; easing tensions could reduce costs and improve margins"
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Large sourcing from China; reciprocal tariff reductions could lower consumer goods costs"
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China sourcing; tariff relief could reduce imported goods costs"
+      },
+      {
+        "ticker": "BBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Consumer electronics retailer vulnerable to tariffs; trade deal could lower import costs"
+      },
+      {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major retailer with China sourcing; tariff reductions could improve pricing and margins"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant China sales and manufacturing through Shanghai Gigafactory; trade normalization could boost operations"
+      },
+      {
+        "ticker": "SMH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor ETF; tariff reductions on chips would benefit holdings"
+      },
+      {
+        "ticker": "XRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Retail ETF; tariff reductions on imported consumer goods would benefit retailers"
+      },
+      {
+        "ticker": "RTH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Retail ETF; lower tariffs on China-sourced goods would improve margins"
+      },
+      {
+        "ticker": "CARZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Auto ETF; U.S. automakers have substantial China exposure; trade normalization would benefit sector"
+      }
+    ]
+  },
+  {
+    "id": "d26790fb6606d89c8f4ba21c632aa3ea3b7d07d536e9c7f14e77d56b625712ae",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon",
+    "author": "Marc Guberti",
+    "published_utc": "2026-09-19T11:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/19/heres-why-walmart-wont-reclaim-a-1-trillion-market/?source=iedfolrf0000001",
+    "tickers": [
+      "WMT",
+      "AMZN",
+      "TGT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887638%2Fstore-aisle-5-below-dollar-general-dollar-tree-1201x775-6ad09b4.jpg&w=1200&op=resize",
+    "description": "Walmart, currently trading below its $1 trillion market cap peak, faces headwinds that make a near-term recovery unlikely. The retail giant's slow 4% revenue CAGR over the past decade, combined with a premium 39 P/E valuation relative to competitors, limits upside potential. While online advertising showed promise with 46% growth in fiscal 2026, it's already decelerating at 38% in Q2 FY27. With low profit margins typical of retail and recent Fed rate hikes threatening further growth slowdown, Walmart's path to $1 trillion appears distant.",
+    "keywords": [
+      "market valuation",
+      "revenue growth",
+      "profit margins",
+      "online advertising",
+      "P/E ratio",
+      "retail sector",
+      "interest rates"
+    ],
+    "insights": [
+      {
+        "ticker": "WMT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Slow revenue growth (4% CAGR), declining earnings per share (-9.1% YoY), premium valuation (39 P/E) relative to peers, decelerating advertising growth, and low profit margins (3%) make near-term $1 trillion market cap recovery unlikely. Fed rate hikes pose additional headwinds."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the largest individual holding at 4.06% of RWL's portfolio, but no specific sentiment is expressed about the company itself."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as the second-largest holding in RWL, but presented without specific positive or negative commentary."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a top-3 holding in RWL, but no distinct sentiment is provided."
-      },
-      {
-        "ticker": "SCHD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a competitive alternative with a significantly lower expense ratio (0.06% vs RWL's 0.39%) and substantially larger assets ($112.87 billion)."
-      },
-      {
-        "ticker": "VTV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as an alternative with the lowest expense ratio (0.03%) and the largest asset base ($192.68 billion) among the compared funds."
-      }
-    ]
-  },
-  {
-    "id": "25b8b2dcc69ccc79af0744ad77dedba97e774f56f45d212c14e0192ab87f79a2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Loan Delinquencies Edge Lower in Q2, but Some Remain at Very High Levels. Here's What It Means for Investors.",
-    "author": "James Brumley",
-    "published_utc": "2026-09-02T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/loan-delinquencies-edge-lower-in-q2-but-some-remai/?source=iedfolrf0000001",
-    "tickers": [
-      "AXP",
-      "MCD",
-      "WMT",
-      "CVNA",
-      "KMX",
-      "ALLY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885047%2Fgetty-person-feeling-worried-looking-at-a-laptop.jpg&w=1200&op=resize",
-    "description": "While overall U.S. loan delinquencies declined in Q2 2026, subprime loans remain at multiyear highs, revealing a K-shaped economic recovery where affluent consumers thrive while lower-income households struggle. Mortgage and auto loan delinquencies are rising, with particular pressure on subprime borrowers facing affordability challenges, inflation, and a weakening job market.",
-    "keywords": [
-      "loan delinquencies",
-      "K-shaped recovery",
-      "subprime loans",
-      "mortgage delinquencies",
-      "auto loan delinquencies",
-      "consumer credit",
-      "economic divergence",
-      "affordability crisis"
-    ],
-    "insights": [
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 results with 9% year-over-year revenue growth (highest in 3 years), matching profit growth. Serves affluent customer base showing resilience with growing spending in retail, restaurants, and travel. Loan delinquencies remain below COVID-19 pandemic levels."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Q2 sales growth fell short of expectations due to inconsistent execution across locations. CEO acknowledged challenges with value-conscious customer base, indicating economic sensitivity to lower-income consumer struggles."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "U.S. same-store sales growth of 2.6% significantly underperformed analyst expectations of 3.8%, suggesting weakness in discount retail segment serving price-sensitive consumers."
-      },
-      {
-        "ticker": "CVNA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While not showing immediate trouble, faces brewing headwinds from declining subprime auto lending and reduced loan sales to third-party investors. Vulnerable to further deterioration in subprime borrower ability to repay."
-      },
-      {
-        "ticker": "KMX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Currently showing no serious signs of trouble despite dependence on consumer credit, but faces potential future challenges from tightening subprime auto lending market."
-      },
-      {
-        "ticker": "ALLY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Manages sizable subprime car loan portfolio vulnerable to deterioration. Fitch expects auto loan asset-backed securities to underperform in second half of 2026 due to subprime borrower economic hardship."
-      }
-    ]
-  },
-  {
-    "id": "c85f65dbe7c770e8ba4df931e3f2a98c7989bfe24b92c3e1dfe60a158664361a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Symbotic's Backlog Sits at $22.5 Billion. Here's The Customer Concentration Risk Nobody Talks About",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-01T19:17:03Z",
-    "article_url": "https://www.fool.com/investing/2026/09/01/symbotics-backlog-sits-at-x-billion-heres-the-cust/?source=iedfolrf0000001",
-    "tickers": [
-      "SYM",
-      "WMT",
-      "TGT",
-      "SFTBY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885860%2Fwarehouseobots.jpg&w=1200&op=resize",
-    "description": "Symbotic, a warehouse automation company, has a $22.5 billion backlog and is valued reasonably at less than 7x next year's sales. However, the company faces significant customer concentration risk with Walmart accounting for 85% of its fiscal 2025 revenue. While Symbotic is attempting to diversify through partnerships with Target, Albertsons, and SoftBank's Greenbox venture, its long-term contract with Walmart extends through 2037, providing stability but also dependency.",
-    "keywords": [
-      "warehouse automation",
-      "customer concentration risk",
-      "backlog",
-      "diversification strategy",
-      "supply chain automation",
-      "robotics"
-    ],
-    "insights": [
-      {
-        "ticker": "SYM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong backlog and revenue growth prospects, but heavily dependent on Walmart for 85% of revenue. While diversification efforts are underway and the company appears reasonably valued, the concentration risk remains a significant concern that limits upside potential."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Walmart's long-term automation contract with Symbotic through 2037 and its investment in the company position it well for supply chain efficiency improvements. The relationship provides stability and ongoing service revenue for Symbotic."
+        "sentiment_reasoning": "Mentioned as a favorable comparison point with lower P/E ratio (20) and higher profit margins due to cloud platform, but no specific analysis of Amazon's fundamentals or outlook provided in the article."
       },
       {
         "ticker": "TGT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Target is mentioned as one of Symbotic's newer customers, representing a diversification effort. However, the impact is minimal given Walmart still dominates Symbotic's revenue."
-      },
-      {
-        "ticker": "SFTBY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "SoftBank is a major investor in Symbotic and co-developed the Greenbox warehouse-as-a-service venture, which is part of the diversification strategy. However, limited information on direct impact."
-      }
-    ]
-  },
-  {
-    "id": "36836fd127f5b3fc0deca0afc32e17d302f562711b3782d5cd523e87600d8cf7",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Google Gemini Optimisation: What Brands Should Do to Get Recommended as AI Mode Passes 1 Billion Users",
-    "author": "Azoma",
-    "published_utc": "2026-09-01T16:45:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3354484/0/en/google-gemini-optimisation-what-brands-should-do-to-get-recommended-as-ai-mode-passes-1-billion-users.html",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "WMT",
-      "AMZN"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/01/3354484/0/en/google-gemini-optimisation-what-brands-should-do-to-get-recommended-as-ai-mode-passes-1-billion-users.html",
-    "description": "Google's AI Mode has surpassed 1 billion monthly users with queries doubling quarterly. Azoma outlines how brands can improve product visibility in Gemini recommendations, which draws 41% from retailers, 37% from earned media, 15% from brand websites, and 7% from user-generated content. Unlike paid search, Gemini recommendations depend on presence across cited sources rather than paid placement.",
-    "keywords": [
-      "Google Gemini",
-      "AI Mode",
-      "AI shopping agents",
-      "product recommendations",
-      "agentic commerce",
-      "brand visibility",
-      "holiday season optimization",
-      "citation sources",
-      "AI Overviews"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google's AI Mode has achieved significant milestone of 1 billion monthly users with queries doubling quarterly, indicating strong adoption and growth of AI-powered shopping features across multiple platforms (Search, Gemini app, YouTube, Gmail)."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google's AI Mode has achieved significant milestone of 1 billion monthly users with queries doubling quarterly, indicating strong adoption and growth of AI-powered shopping features across multiple platforms (Search, Gemini app, YouTube, Gmail)."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google's AI Mode has achieved significant milestone of 1 billion monthly users with queries doubling quarterly, indicating strong adoption and growth of AI-powered shopping features across multiple platforms (Search, Gemini app, YouTube, Gmail)."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google's AI Mode has achieved significant milestone of 1 billion monthly users with queries doubling quarterly, indicating strong adoption and growth of AI-powered shopping features across multiple platforms (Search, Gemini app, YouTube, Gmail)."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Walmart is mentioned as having an AI shopping agent (Sparky) but receives minimal coverage in the main article. The reference is promotional content at the end rather than substantive news about Walmart's performance or strategy."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Amazon is mentioned only as having an AI shopping agent (Rufus) in the opening context. No specific performance data or strategic information about Amazon is provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "320e8bdaa7438262bd0cd35bb649271cd59e96848a08e205e7e8346a199a8916",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "JSAIY vs. WMT: Which Stock Is the Better Value Option?",
-    "author": "Na",
-    "published_utc": "2026-09-01T15:40:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2983274/jsaiy-vs-wmt-which-stock-is-the-better-value-option?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2983274",
-    "tickers": [
-      "JSAIY",
-      "WMT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default36.jpg",
-    "description": "A comparison of J. Sainsbury PLC (JSAIY) and Walmart (WMT) as value investment options reveals that JSAIY is the superior choice. JSAIY has a Zacks Rank of #2 (Buy) with a forward P/E of 14.50 and Value grade of A, while WMT has a Zacks Rank of #3 (Hold) with a forward P/E of 36.51 and Value grade of D. JSAIY's lower valuation metrics and improving earnings outlook make it more attractive for value investors.",
-    "keywords": [
-      "value stocks",
-      "P/E ratio",
-      "Zacks Rank",
-      "valuation metrics",
-      "earnings estimates",
-      "retail supermarkets"
-    ],
-    "insights": [
-      {
-        "ticker": "JSAIY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JSAIY has a superior Zacks Rank of #2 (Buy) vs WMT's #3, lower forward P/E ratio of 14.50, better PEG ratio of 2.13, lower P/B ratio of 1.24, and a Value grade of A. The article explicitly identifies it as the better value option with improving earnings outlook."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "WMT has a lower Zacks Rank of #3 (Hold), significantly higher forward P/E of 36.51, higher PEG ratio of 4.00, higher P/B ratio of 7.96, and a Value grade of D. The article concludes WMT is not the superior value option compared to JSAIY."
+        "sentiment_reasoning": "Referenced as a peer comparison with a lower P/E ratio (16) than Walmart, but no detailed analysis of Target's business or prospects is provided."
       }
     ]
   }

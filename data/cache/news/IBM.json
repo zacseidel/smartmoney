@@ -1,341 +1,319 @@
 [
   {
-    "id": "f30821afd6fca3d036f74a96072f808f6ab609e7c3f5ede7d72db362dc01deae",
+    "id": "17ca3e8c9176d784a878d3053fd14af1d349224fba225c758af7eef0bf1d7dc4",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Warren Buffett's $35 Billion Bet on Tim Cook's Apple Grew to $185 Billion Pretax. Here's What That Stake Says About Long-Term Investing.",
+    "author": "Dave Kovaleski",
+    "published_utc": "2026-09-21T18:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/21/warren-buffetts-35-billion-bet-on-tim-cooks-apple/?source=iedfolrf0000001",
+    "tickers": [
+      "AAPL",
+      "IBM",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887057%2Fbuffett2-tmf.jpg&w=1200&op=resize",
+    "description": "Berkshire Hathaway's $35 billion investment in Apple made in 2016 has grown to $185 billion pretax over 10 years, becoming the company's largest holding. The investment exemplifies Buffett's investing philosophy of buying great businesses at fair prices, backing strong leadership, and maintaining long-term positions. Apple peaked at 50% of Berkshire's portfolio in 2023 but has since been reduced to 22% as Buffett took profits and diversified.",
+    "keywords": [
+      "long-term investing",
+      "Apple investment",
+      "Warren Buffett",
+      "Berkshire Hathaway",
+      "Tim Cook",
+      "portfolio management",
+      "competitive moat",
+      "profit-taking"
+    ],
+    "insights": [
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Apple is portrayed as Buffett's best investment, with a $35 billion initial stake growing to $185 billion pretax. Described as having strong leadership, industry dominance, and a competitive moat, making it the perfect Buffett investment exemplifying long-term value creation."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "IBM is mentioned only as a historical reference point (2011 investment) marking Buffett's initial foray into technology stocks. No performance data or current sentiment is provided about this position."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire's strategic Apple investment demonstrates successful capital allocation and long-term investing discipline. The company's ability to generate $185 billion in pretax gains from a $35 billion investment showcases effective portfolio management and shareholder value creation."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire's strategic Apple investment demonstrates successful capital allocation and long-term investing discipline. The company's ability to generate $185 billion in pretax gains from a $35 billion investment showcases effective portfolio management and shareholder value creation."
+      }
+    ]
+  },
+  {
+    "id": "38f88c8c51d9c38abffd12b2d3b78b015154346ebed7919181fc247c691b613f",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Data Center Solutions Market Surges to $1,336.55 billion at a CAGR 20.1% by 2031 | Report by MarketsandMarkets\u2122",
-    "author": "Marketsandmarkets\u2122",
-    "published_utc": "2026-09-03T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356047/0/en/data-center-solutions-market-surges-to-1-336-55-billion-at-a-cagr-20-1-by-2031-report-by-marketsandmarkets.html",
+    "title": "API Marketplace Market Gains Momentum as AI Agents and Cloud-Native Development Expand API Discovery and Monetization",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-18T18:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/18/3364916/0/en/api-marketplace-market-gains-momentum-as-ai-agents-and-cloud-native-development-expand-api-discovery-and-monetization.html",
     "tickers": [
-      "DELL",
-      "HPE",
-      "HPEpC",
-      "AVGO",
-      "NVDA",
-      "SMCI",
-      "SMCIP",
-      "IBM",
-      "LNVGY",
-      "SBGSY",
-      "CSCO"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-    "description": "The global Data Center Solutions Market is projected to grow from USD 535.45 billion in 2026 to USD 1,336.55 billion by 2031, with a CAGR of 20.1%. Growth is driven by increasing demand for AI infrastructure, high-density computing, intelligent power systems, advanced cooling, and software-defined infrastructure. The software segment is the fastest-growing component at 24.7% CAGR, while Asia Pacific is the fastest-growing region.",
-    "keywords": [
-      "data center solutions",
-      "AI infrastructure",
-      "GPU-accelerated servers",
-      "software-defined infrastructure",
-      "cloud computing",
-      "high-performance computing",
-      "liquid cooling",
-      "DCIM",
-      "hyperscale data centers",
-      "edge computing"
-    ],
-    "insights": [
-      {
-        "ticker": "DELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player in the rapidly growing data center solutions market with strong demand for IT infrastructure and AI-ready systems."
-      },
-      {
-        "ticker": "HPE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
-      },
-      {
-        "ticker": "HPEpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in the market benefiting from growing demand for high-speed networking and advanced infrastructure technologies."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major beneficiary of rising deployment of GPU-accelerated servers and AI training/inference infrastructure across data centers."
-      },
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player positioned to benefit from enterprise data center modernization and AI infrastructure investments."
-      },
-      {
-        "ticker": "LNVGY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player in the growing data center solutions market with strong demand for IT infrastructure."
-      },
-      {
-        "ticker": "SBGSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player benefiting from increased investment in intelligent power systems and energy-efficient data center operations."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player positioned to benefit from growing demand for advanced networking technologies and software-defined infrastructure."
-      }
-    ]
-  },
-  {
-    "id": "780bf56d5376d8e591716a4a45d74d1a901f11946681b6a2dd3f1e1200d2c4ce",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "3 Reasons to Hold Datadog Stock Despite a 64.6% Year-to-Date Surge",
-    "author": "Na",
-    "published_utc": "2026-09-02T15:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983845/3-reasons-to-hold-datadog-stock-despite-a-64-6-year-to-date-surge?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983845",
-    "tickers": [
-      "DDOG",
-      "IBM",
-      "CSCO",
-      "DT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/55/148598.webp",
-    "description": "Datadog (DDOG) has surged 64.6% year-to-date, driven by expanding AI product capabilities, 23% growth in $100K+ ARR customers, and raised 2026 revenue guidance to $4.45-$4.47 billion. However, analysts recommend a hold for existing shareholders rather than new buys, citing stretched valuation (P/S of 15.73 vs. industry average of 3.98) and customer concentration risks. The company's fundamentals remain solid with broadening platform adoption and resilient large-customer growth.",
-    "keywords": [
-      "AI observability",
-      "enterprise software",
-      "customer growth",
-      "valuation",
-      "platform expansion",
-      "large-customer relationships"
-    ],
-    "insights": [
-      {
-        "ticker": "DDOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While fundamentals are strong with accelerating large-customer growth (23% YoY), raised guidance, and broadening AI product adoption, the stock's 64.6% YTD surge has resulted in stretched valuation (P/S 15.73 vs. industry 3.98) and an F Value Score. Analysts recommend holding for existing shareholders but waiting for better entry points for new investors, indicating the positive news is already priced in."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a legacy competitor with scale and deep enterprise relationships, but no specific performance data or sentiment drivers provided in the article."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitor leveraging its networking footprint in observability and AI-driven monitoring, but no specific performance metrics or sentiment indicators provided."
-      },
-      {
-        "ticker": "DT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a direct competitor in AI-driven automation and observability, but no specific performance data or comparative advantage/disadvantage mentioned."
-      }
-    ]
-  },
-  {
-    "id": "fa46a2380fbf80ca756b0f16c039a79e1b8dbbf76fb476b563bb8288dc83b978",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "IBM Slumps 21% YTD: Time to Reassess the Stock in Your Portfolio?",
-    "author": "Na",
-    "published_utc": "2026-09-01T14:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983148/ibm-slumps-21-ytd-time-to-reassess-the-stock-in-your-portfolio?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2983148",
-    "tickers": [
-      "IBM",
-      "MSFT",
-      "AMZN"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/521.jpg",
-    "description": "IBM has declined 21% year-to-date as AI-powered coding tools threaten its legacy modernization business, while competition from AWS and Azure intensifies pricing pressure. However, the company's hybrid cloud portfolio, Red Hat OpenShift, HashiCorp acquisition, and watsonx AI platform could support long-term growth if execution improves.",
-    "keywords": [
-      "AI disruption",
-      "legacy modernization",
-      "hybrid cloud",
-      "COBOL",
-      "pricing pressure",
-      "earnings decline",
-      "enterprise AI",
-      "cloud competition"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "IBM has fallen 21% YTD due to AI-driven disruption of its legacy modernization services, increased competition from AWS and Azure causing pricing pressure, declining profitability, and negative earnings estimate revisions for 2026-2027. While hybrid cloud and watsonx present growth opportunities, near-term headwinds and execution risks outweigh positive catalysts."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft has gained 4.9% YTD and is outperforming IBM, benefiting from strong cloud and AI capabilities that position it favorably against legacy competitors."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Amazon has rallied 12.6% YTD and is outperforming IBM through its AWS cloud services, which are intensifying competitive pressure on IBM's traditional business."
-      }
-    ]
-  },
-  {
-    "id": "ba2e07ff23c7a80c1e285fc7e8f273ea4f3c23cd847d2ff8a482ae3d70465760",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "New Anaqua Report Reveals Surge in AI Semiconductor Patent Filings",
-    "author": "Anaqua",
-    "published_utc": "2026-09-01T13:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3354190/0/en/new-anaqua-report-reveals-surge-in-ai-semiconductor-patent-filings.html",
-    "tickers": [
-      "NVDA",
-      "IBM",
-      "QCOM",
-      "INTC",
+      "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "MSFT"
+      "MSFT",
+      "CRM",
+      "IBM",
+      "ORCL",
+      "ORCLpD"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/93bf2cd3-dfb8-4753-8719-3d389eed2845",
-    "description": "A new Anaqua report analyzing 713,755 semiconductor patents reveals AI-related semiconductor patents grew 114% over five years, nearly double the 78% growth of overall semiconductor patents. The analysis shows AI is now the primary driver of semiconductor innovation across chip architecture, GPUs, and inference processors, with major players like Samsung, IBM, Intel, and Chinese entities leading in different AI-chip categories, while hyperscalers like Google and Microsoft increasingly design custom chips.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global API Marketplace Market is projected to reach USD 112.61 billion by 2035, growing at 18.13% CAGR, driven by AI-powered services, cloud-native development, and microservices architecture. The U.S. market is expected to reach USD 28.57 billion by 2035 at 17.69% CAGR. Key growth drivers include AI/ML API adoption, hybrid cloud deployments, and open banking initiatives, with North America leading at 34.45% market share and Asia Pacific showing the fastest regional growth at 18.91% CAGR.",
     "keywords": [
-      "AI patents",
-      "semiconductor innovation",
-      "patent filings",
-      "GPU",
-      "inference processors",
-      "chip design",
-      "R&D investment"
+      "API Marketplace",
+      "AI-powered services",
+      "cloud-native development",
+      "microservices architecture",
+      "API monetization",
+      "hybrid deployment",
+      "API security",
+      "digital transformation",
+      "fintech",
+      "e-commerce"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While NVIDIA dominates the AI chip market, the report notes its competitive advantage lies in software (CUDA) rather than hardware patents, with only 49 GPU-titled patents ranking #7. This suggests its market dominance is not primarily driven by patent leadership."
-      },
-      {
-        "ticker": "IBM",
+        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "IBM leads in AI-semiconductor crossover filings (794) and analog AI (389), with strong positions in frontier technologies like quantum computing, neuromorphic chips, and phase-change memory, demonstrating leadership in cutting-edge semiconductor innovation."
-      },
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Qualcomm shows steep growth with 186% increase in AI architecture patents and is rapidly pivoting from mobile to data center inference, ranking #9 in inference with 655 filings and #4 in GPU position."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Intel leads in GPU semiconductor filings (188) and ranks second in AI-in-IC architecture (967 filings), positioning itself strategically across multiple AI-semiconductor categories."
+        "sentiment_reasoning": "Amazon API Gateway added fully managed Developer Portal capabilities in November 2025, enhancing API discovery and management, demonstrating strong market presence and innovation in the growing API marketplace."
       },
       {
         "ticker": "GOOG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google's TPU patenting appears across nearly every AI-and-semiconductor intersection, reflecting its strategic shift toward custom silicon design and vertical integration for AI workloads."
+        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google's TPU patenting appears across nearly every AI-and-semiconductor intersection, reflecting its strategic shift toward custom silicon design and vertical integration for AI workloads."
+        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google's TPU patenting appears across nearly every AI-and-semiconductor intersection, reflecting its strategic shift toward custom silicon design and vertical integration for AI workloads."
+        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google's TPU patenting appears across nearly every AI-and-semiconductor intersection, reflecting its strategic shift toward custom silicon design and vertical integration for AI workloads."
+        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
       },
       {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft's Maia accelerator-related patenting spans multiple AI-semiconductor categories, demonstrating its commitment to custom chip design and reducing dependence on third-party hardware."
+        "sentiment_reasoning": "Key player in the API marketplace with cloud infrastructure and integration services, well-positioned to capitalize on cloud-native architecture adoption and hybrid deployment growth."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Leading integration and API management platform provider, positioned to benefit from enterprise API governance, security, and monetization requirements driving market growth."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Established player in API management and enterprise integration, well-positioned to serve large enterprises requiring secure API governance and lifecycle management."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market participant with comprehensive API and integration solutions, benefiting from enterprise digital transformation and cloud migration trends."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market participant with comprehensive API and integration solutions, benefiting from enterprise digital transformation and cloud migration trends."
       }
     ]
   },
   {
-    "id": "944400b342d9ea00c7ca174e55da77cf2882badf9dee82abcc39ade4ed144c3d",
+    "id": "3226fc64dd80fb6780e214cb1573d464ec4dda89a5b2623ea6fc92658eadc465",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can IBM's HRL Acquisition Boost Its Quantum Computing Capabilities?",
+    "title": "IBM Software Growth Slows: Will Recurring Revenue Support Recovery?",
     "author": "Na",
-    "published_utc": "2026-08-31T14:15:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2982555/can-ibm-s-hrl-acquisition-boost-its-quantum-computing-capabilities?cid=CS-ZC-FT-analyst_blog|quick_take-2982555",
+    "published_utc": "2026-09-18T13:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2991906/ibm-software-growth-slows-will-recurring-revenue-support-recovery?cid=CS-ZC-FT-analyst_blog|quick_take-2991906",
     "tickers": [
       "IBM",
       "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
+      "ORCL",
+      "ORCLpD"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/521.jpg",
-    "description": "IBM has completed its acquisition of HRL Laboratories to expand its quantum computing capabilities by integrating silicon-spin qubits with its superconducting approach. The deal adds expertise in quantum sensing, materials science, and manufacturing. IBM expects its Quantum Starling system to perform 100 million quantum operations by 2029, with a next-generation Blue Jay system targeted for the mid-2030s.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8b/706.jpg",
+    "description": "IBM's Software segment revenues grew 5% to $7.8 billion in Q2 2026, but organic growth was flat due to customers shifting spending toward infrastructure. However, Hybrid Cloud revenues grew 11% with OpenShift ARR reaching $2.2 billion, and the Data business surged 19%. Despite revenue headwinds, IBM expanded Software segment profit by 9% to $2.5 billion with margin expansion of 110 basis points.",
     "keywords": [
-      "quantum computing",
-      "acquisition",
-      "silicon-spin qubits",
-      "fault-tolerant quantum",
-      "quantum hardware",
-      "quantum manufacturing"
+      "IBM Software",
+      "Hybrid Cloud",
+      "Transaction Processing",
+      "OpenShift",
+      "Q2 2026 earnings",
+      "cloud growth",
+      "software margins"
     ],
     "insights": [
       {
         "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Completed strategic acquisition strengthening quantum computing position, advancing fault-tolerant quantum roadmap with clear milestones (Quantum Starling by 2029, Blue Jay by mid-2030s), and gaining complementary silicon-spin qubit technology to enhance existing superconducting approach."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with flat organic growth in Software offset by strong margin expansion (110 bps), Hybrid Cloud growth (11%), and Data business surge (19%). However, Transaction Processing declined 8% and overall Software organic growth was flat, indicating near-term headwinds despite profitability improvements."
       },
       {
         "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Productivity & Business Processes segment grew 14% YoY to $37.8 billion, with Microsoft 365 Commercial cloud revenues up 14-16%, demonstrating strong competitive positioning against IBM in cloud and productivity software."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cloud revenues (SaaS + IaaS) surged 47% in USD to $9.9 billion, showing cloud as the primary growth driver. However, overall Software revenues declined 2% as customers migrate from on-premises to cloud."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cloud revenues (SaaS + IaaS) surged 47% in USD to $9.9 billion, showing cloud as the primary growth driver. However, overall Software revenues declined 2% as customers migrate from on-premises to cloud."
+      }
+    ]
+  },
+  {
+    "id": "7b9504fca66ed9e360dfa5dd6b41478df58e1b66871a4705b32b02925214d05f",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "IBM (IBM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-16T21:45:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2990937/ibm-ibm-sees-a-more-significant-dip-than-broader-market-some-facts-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2990937",
+    "tickers": [
+      "IBM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default19.jpg",
+    "description": "IBM stock fell 4.38% on September 16, 2026, underperforming the broader market. The company is expected to report earnings on October 21, 2026, with projected EPS growth of 9.06% and revenue growth of 3.34% year-over-year. IBM currently holds a Zacks Rank of #3 (Hold) with a Forward P/E ratio of 20.15, trading at a discount to its industry average.",
+    "keywords": [
+      "IBM stock decline",
+      "earnings forecast",
+      "technology sector",
+      "valuation metrics",
+      "Zacks Rank"
+    ],
+    "insights": [
+      {
+        "ticker": "IBM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor advancing quantum computing through Azure Quantum and exploring quantum-AI integration, but no new developments or competitive advantages highlighted relative to IBM's acquisition."
+        "sentiment_reasoning": "While IBM experienced a significant single-day decline of 4.38%, the company shows positive fundamentals with projected earnings growth of 9.06% and revenue growth of 3.34% for the upcoming quarter. The stock has gained 6.75% over the past month and trades at a discount to industry peers. However, the Zacks Rank of #3 (Hold) and minimal change in consensus EPS estimates (-0.01%) suggest a neutral outlook in the near term."
+      }
+    ]
+  },
+  {
+    "id": "7a7b5410a458db3f2cdabc97e76d7141b4a099aebba9118538d12e00ec303721",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI Productivity Tools Market Expected to Hit $69.22 Billion by 2035 at a 19.50% CAGR | SNS Insider",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-16T06:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3362844/0/en/ai-productivity-tools-market-expected-to-hit-69-22-billion-by-2035-at-a-19-50-cagr-sns-insider.html",
+    "tickers": [
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "ADBE",
+      "CRM",
+      "IBM",
+      "ASAN",
+      "TEAM"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI Productivity Tools Market is valued at $11.72 billion in 2025 and expected to reach $69.22 billion by 2035, growing at a 19.50% CAGR. North America leads with 36% market share, while Asia Pacific shows the fastest growth at 21.21% CAGR. Cloud-based deployment dominates at 65% share, with subscription models accounting for 55% of revenue. Key growth drivers include enterprise automation, data analytics, code generation tools, and RPA adoption across industries.",
+    "keywords": [
+      "AI productivity tools",
+      "enterprise automation",
+      "cloud-based deployment",
+      "data analytics",
+      "code generation",
+      "RPA",
+      "market growth",
+      "subscription model",
+      "digital transformation"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Microsoft is highlighted as a key player with recent 2025 developments showing expanded AI productivity capabilities through enhanced Copilot functionality, including Agent Mode and Office Agent, demonstrating active innovation in the growing market."
       },
       {
         "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a competitor pursuing quantum computing through Google Quantum AI with superconducting and neutral-atom technologies, but no specific recent developments or competitive advantages mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
       },
       {
         "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a competitor pursuing quantum computing through Google Quantum AI with superconducting and neutral-atom technologies, but no specific recent developments or competitive advantages mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
       },
       {
         "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a competitor pursuing quantum computing through Google Quantum AI with superconducting and neutral-atom technologies, but no specific recent developments or competitive advantages mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
       },
       {
         "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a competitor pursuing quantum computing through Google Quantum AI with superconducting and neutral-atom technologies, but no specific recent developments or competitive advantages mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Adobe is listed among key market players in the AI productivity tools sector, which is experiencing strong growth driven by enterprise automation and AI-powered analytics adoption."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Salesforce appears twice as a key player (including ownership of Slack Technologies), benefiting from the market's growth drivers including CRM system integration with AI productivity tools and enterprise automation trends."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IBM is listed as a key player in the expanding AI productivity tools market, which is projected to grow substantially, driven by enterprise adoption of AI-powered automation and analytics."
+      },
+      {
+        "ticker": "ASAN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Asana is listed as a key player in the AI productivity tools market, which is projected to grow significantly, driven by integration with project management systems and enterprise automation trends."
+      },
+      {
+        "ticker": "TEAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Atlassian is identified as a key player in the growing AI productivity tools market, benefiting from increasing enterprise adoption of AI-powered workflow and collaboration solutions."
       }
     ]
   }

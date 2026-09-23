@@ -1,279 +1,367 @@
 [
   {
-    "id": "0fb17cb549f6eaa3d496e68bf5eb5a6fb96baad9b1f9cef4292ef3d13e84cf47",
+    "id": "3fb2598fcd6079fe3f9379763158b2077e83adab10003f34f9ac18530004d8c8",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Midday, Sept. 22: Means Markets Muted Despite Tech Gains as Geopolitics Dominates",
+    "author": "Emma Newbery",
+    "published_utc": "2026-09-22T16:38:00Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/22/stock-market-midday-sept-22-means-markets-muted-despite-tech-gains-as-geopolitics-dominates/?source=iedfolrf0000001",
+    "tickers": [
+      "LEN",
+      "LEN.B",
+      "MU",
+      "SHOP",
+      "META",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Markets showed mixed performance on Sept. 22, 2026, with the Nasdaq hitting a new intraday record while the S&P 500 and Dow declined. Tech stocks gained on AI optimism, but geopolitical concerns and interest rate fears limited broader market gains. Investors await developments from the UN General Assembly and the Trump-Xi meeting.",
+    "keywords": [
+      "stock market",
+      "geopolitics",
+      "tech stocks",
+      "AI optimism",
+      "interest rates",
+      "Middle East",
+      "semiconductor stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "LEN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Shares surging after Berkshire Hathaway purchased over $200 million of stock, despite earnings miss and housing market caution"
+      },
+      {
+        "ticker": "LEN.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Shares surging after Berkshire Hathaway purchased over $200 million of stock, despite earnings miss and housing market caution"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Semiconductor stocks extended gains on returning AI optimism"
+      },
+      {
+        "ticker": "SHOP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Surged after Meta's AI agent Muse integrated its checkout functionality"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AI agent development driving positive sentiment in ecosystem partners"
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant investment activity in Lennar demonstrates confidence in selective opportunities"
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant investment activity in Lennar demonstrates confidence in selective opportunities"
+      }
+    ]
+  },
+  {
+    "id": "8d050df336b7d9bc17d45cd57ca47ac8005ca50b8b558fa03b725a6a443192c5",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+    "author": "Rick Munarriz",
+    "published_utc": "2026-09-22T13:06:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
+    "tickers": [
+      "META",
+      "ABNB",
+      "BEAM"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888506%2Fgettyimages-1214893276.jpg&w=1200&op=resize",
+    "description": "Cathie Wood's Ark Invest added to positions in Meta Platforms, Airbnb, and Beam Therapeutics on Monday. Meta surged 11% on momentum from its new Muse AI app and an upgraded price target from Wells Fargo. Airbnb continues strong revenue growth despite headwinds from rising travel costs and regulatory scrutiny. Beam Therapeutics is recovering after recent clinical trial data showed efficacy in its gene-editing treatment for alpha-1 antitrypsin deficiency.",
+    "keywords": [
+      "Cathie Wood",
+      "Ark Invest",
+      "bargain hunting",
+      "growth investing",
+      "AI technology",
+      "gene editing",
+      "clinical trials"
+    ],
+    "insights": [
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 11% on Monday with strong momentum from Muse AI app success (4.9/5 rating, top productivity app). Wells Fargo raised price target from $640 to $796. Meta Connect event upcoming with expected strong usage stats. Despite 5% lower than a year ago, new AI chapter presents growth opportunity."
+      },
+      {
+        "ticker": "ABNB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "On track for sixth consecutive year of double-digit revenue growth with accelerating bottom-line growth. Up 31% over the past year and demonstrating platform scalability. Trading higher than a year ago despite headwinds from rising travel costs and regulatory concerns."
+      },
+      {
+        "ticker": "BEAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "BEAM-302 clinical trial showed encouraging efficacy results with FDA feedback supporting accelerated approval pathway. Stock down 9% year-to-date despite biotech sector strength, presenting a buying opportunity. Clinical success and faster market pathway justify Wood's investment."
+      }
+    ]
+  },
+  {
+    "id": "06fc362a90932cc0abf959a0181ebf71bfdb4f1e7b019050b3094282e5e6bf98",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
+    "author": "Keithen Drury",
+    "published_utc": "2026-09-22T06:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/history-says-a-1000-investment-in-broadcom-will-be/?source=iedfolrf0000001",
+    "tickers": [
+      "AVGO",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888377%2Fperson-throwing-money-up-in-the-air.jpg&w=1200&op=resize",
+    "description": "Broadcom is positioned for significant growth through its custom AI chips (ASICs) business, which is expected to grow from $16.7B in Q3 FY2026 to $230B by FY2028. With major clients including Alphabet, Meta, OpenAI, and Anthropic, analysts project the stock could reach $842 per share by 2028, representing 134% upside and turning a $1,000 investment into approximately $2,340.",
+    "keywords": [
+      "AI semiconductors",
+      "custom AI chips",
+      "ASICs",
+      "Broadcom growth",
+      "stock valuation",
+      "semiconductor industry"
+    ],
+    "insights": [
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong growth trajectory in AI chip business with 221% YoY revenue growth, major enterprise clients, and analyst projections showing 134% upside potential by 2028. Custom ASIC strategy positions company to capture significant market share from GPU-dominated landscape."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a key Broadcom customer for custom AI chips, demonstrating commitment to optimizing AI workloads and infrastructure development."
+      }
+    ]
+  },
+  {
+    "id": "9039fb0787fe335c0e4f0064e53b35489087d38804f59ce84bac591f675d6c02",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
+    "author": "Emma Newbery",
+    "published_utc": "2026-09-21T21:02:22Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/21/stock-market-today-sept-21-tech-strength-powers-nasdaq-to-record-close/?source=iedfolrf0000001",
+    "tickers": [
+      "AMD",
+      "META",
+      "COIN",
+      "HOOD",
+      "QQQ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F77da40e1441423dea3c02d00c83ecbebd96a733e-1401x1250.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Nasdaq hit a record close on September 21, 2026, gaining 2.26% to 27,122, driven by semiconductor strength and AI optimism. The S&P 500 rose 1.49% to 7,765 while the Dow gained 0.71% to 52,049. Advanced Micro Devices jumped nearly 10% and Meta Platforms soared over 11% following strong AI developments. Bitcoin surged above $87,000 for the first time since January. However, Morgan Stanley warned that further market turbulence could occur if energy prices rise and Treasury yields remain elevated.",
+    "keywords": [
+      "semiconductor rally",
+      "AI demand",
+      "tech stocks",
+      "record close",
+      "Bitcoin surge",
+      "market volatility"
+    ],
+    "insights": [
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped almost 10% on accelerated semiconductor demand and reached $1 trillion market capitalization milestone, driven by AI hardware optimism."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock soared over 11% as its Muse AI agent became the top download on Apple's app store, and Wells Fargo raised its price target."
+      },
+      {
+        "ticker": "COIN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Crypto stock advanced as Bitcoin traded above $87,000 for the first time since January, indicating strong cryptocurrency market momentum."
+      },
+      {
+        "ticker": "HOOD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock advanced alongside broader crypto market strength as Bitcoin surged above $87,000."
+      },
+      {
+        "ticker": "QQQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ETF gained 2.88%, benefiting from strong tech and semiconductor sector performance that drove the Nasdaq to record highs."
+      }
+    ]
+  },
+  {
+    "id": "9328f337df46e3e194b075d21cefb5004236df97da8e25d2c56bc8b1581becab",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Why Is Pinterest (PINS) Down 9.2% Since Last Earnings Report?",
+    "title": "Tech Stocks Break Out: The Next Leg of the Bull Market",
     "author": "Na",
-    "published_utc": "2026-09-03T15:30:21Z",
-    "article_url": "https://www.zacks.com/stock/news/2984557/why-is-pinterest-pins-down-9-2-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2984557",
+    "published_utc": "2026-09-21T18:03:00Z",
+    "article_url": "https://www.zacks.com/commentary/2993193/tech-stocks-break-out-the-next-leg-of-the-bull-market?cid=CS-ZC-FT-investment_ideas-2993193",
     "tickers": [
-      "PINS",
-      "META"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default270.jpg",
-    "description": "Pinterest reported Q2 2026 earnings of 43 cents per share, beating estimates by 19.44%, with revenues up 18% year-over-year to $1.18 billion. The company achieved record user growth of 640 million monthly active users and expanded AI-powered advertising capabilities. Despite a 9.2% share decline over the past month, Pinterest raised its full-year adjusted EBITDA margin outlook to 30% and generated strong free cash flow of $270 million.",
-    "keywords": [
-      "Pinterest earnings",
-      "AI-powered advertising",
-      "user growth",
-      "monetization",
-      "EBITDA margin expansion",
-      "free cash flow",
-      "earnings beat"
-    ],
-    "insights": [
-      {
-        "ticker": "PINS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pinterest exceeded earnings expectations by 19.44%, achieved record user growth for the 12th consecutive quarter (640M MAUs, +11% YoY), expanded EBITDA margins to 26%, and raised full-year guidance. Strong AI-driven advertising momentum and improved monetization across geographies support positive outlook, though recent stock performance has lagged the S&P 500."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Meta reported strong revenue growth of 28% YoY to $60.8 billion, but EPS declined from $7.14 to $6.18. Current quarter earnings expected to decline 12.7% YoY. Stock gained only 0.7% over the past month and holds a Zacks Rank #3 (Hold) with a C VGM Score, indicating in-line performance expectations."
-      }
-    ]
-  },
-  {
-    "id": "b0a9f4e9189337353303b911e3cd718128e786f2f564895ce5d5357a1271147f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Opinion: Google's Latest Antitrust Ruling Is a Big Win for Alphabet Investors",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-09-03T09:05:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/opinion-googles-latest-antitrust-ruling-is-a-big-win-for-alphabet-investors/?source=iedfolrf0000001",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
+      "ARM",
+      "INTC",
       "META",
-      "AMZN",
-      "AAPL",
-      "NVDA"
+      "ALAB"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1f32dfa6b67c37dc5237a82d35f2323901a7274f-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "A federal judge rejected the DOJ's request to force Google to sell parts of its ad-tech business, allowing Alphabet to keep its powerful advertising engine intact. This decision mirrors a similar ruling one year ago that preceded a 16% stock jump. The ruling is significant as Alphabet's $81.63 billion advertising revenue is critical for funding its massive AI infrastructure investments.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/176046.webp",
+    "description": "After four and a half months of consolidation, technology stocks are breaking out to the upside, led by semiconductor and AI-related companies. Despite concerns about AI safety and higher interest rates, the underlying economics of AI infrastructure investment remain strong, with demand for computing power continuing to expand beyond GPUs to CPUs, memory, and networking equipment. Bitcoin's rally signals returning risk appetite among investors.",
     "keywords": [
-      "antitrust ruling",
-      "Google ad-tech monopoly",
-      "DOJ lawsuit",
-      "Alphabet advertising revenue",
-      "AI infrastructure spending",
-      "digital advertising"
+      "technology stocks",
+      "AI infrastructure",
+      "semiconductor industry",
+      "consolidation breakout",
+      "risk appetite",
+      "earnings growth",
+      "interest rates"
     ],
     "insights": [
       {
-        "ticker": "GOOG",
+        "ticker": "ARM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Judge rejected DOJ's forced divestiture request, preserving Alphabet's lucrative $81.63B advertising business which funds critical AI capex spending. Historical precedent shows similar ruling led to 16% stock jump, suggesting positive investor sentiment and removal of significant business risk."
+        "sentiment_reasoning": "Surging by double digits as part of strong AI-related stock rally; expanding opportunity in AI inference requiring CPUs and supporting infrastructure"
       },
       {
-        "ticker": "GOOGL",
+        "ticker": "INTC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Judge rejected DOJ's forced divestiture request, preserving Alphabet's lucrative $81.63B advertising business which funds critical AI capex spending. Historical precedent shows similar ruling led to 16% stock jump, suggesting positive investor sentiment and removal of significant business risk."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Judge rejected DOJ's forced divestiture request, preserving Alphabet's lucrative $81.63B advertising business which funds critical AI capex spending. Historical precedent shows similar ruling led to 16% stock jump, suggesting positive investor sentiment and removal of significant business risk."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Judge rejected DOJ's forced divestiture request, preserving Alphabet's lucrative $81.63B advertising business which funds critical AI capex spending. Historical precedent shows similar ruling led to 16% stock jump, suggesting positive investor sentiment and removal of significant business risk."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in 'Read Next' section as promotional content; no direct connection to the main article content about Google's antitrust ruling."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in 'Read Next' section as promotional content; no direct connection to the main article content about Google's antitrust ruling."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in 'Read Next' section as promotional content; no direct connection to the main article content about Google's antitrust ruling."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in 'Read Next' section as promotional content; no direct connection to the main article content about Google's antitrust ruling."
-      }
-    ]
-  },
-  {
-    "id": "4494cba71527310a669404a48586eb7f0f78a7ba21abcd2aea533231959270fc",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Hims & Hers Health (NYSE: HIMS) Faces Securities Class Action After FTC Lawsuit Reveal Drives Stock Sharply Lower -- HBSS",
-    "author": "Hagens Berman",
-    "published_utc": "2026-09-02T21:34:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355562/32716/en/hims-hers-health-nyse-hims-faces-securities-class-action-after-ftc-lawsuit-reveal-drives-stock-sharply-lower-hbss.html",
-    "tickers": [
-      "HIMS",
-      "META",
-      "SNAP"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/a0281d29-2bd1-453d-a168-edbd85aa63cf",
-    "description": "Hims & Hers Health (NYSE: HIMS) faces a securities class action lawsuit following an FTC complaint alleging the company engaged in deceptive health data sharing with advertising platforms like Meta and Snap, and violated billing regulations by charging consumers for prescriptions before medical consultations. The lawsuit, filed by the FTC alongside Utah and Los Angeles County, also accuses Hims of using dark patterns to prevent subscription cancellations. The stock dropped 14.7% ($4.32) on July 29, 2026, erasing over $970 million in market value.",
-    "keywords": [
-      "securities class action",
-      "FTC lawsuit",
-      "health data privacy",
-      "deceptive practices",
-      "ROSCA violations",
-      "subscription billing",
-      "telehealth",
-      "stock decline"
-    ],
-    "insights": [
-      {
-        "ticker": "HIMS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company faces serious regulatory allegations including deceptive data sharing with third-party advertisers, unauthorized subscription billing, and dark pattern cancellation practices. Stock declined 14.7% on lawsuit announcement, and company faces potential significant financial penalties and reputational damage."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Meta is mentioned as a recipient of shared health data through tracking pixels but is not the subject of the lawsuit. No direct allegations or impact on Meta's operations are stated."
-      },
-      {
-        "ticker": "SNAP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Snap is mentioned as a recipient of shared health data through customer list matching but is not the subject of the lawsuit. No direct allegations or impact on Snap's operations are stated."
-      }
-    ]
-  },
-  {
-    "id": "d172fb3f255757fa1391202f319d4db0d539651a0aead109b3800619e7ce7c57",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Nvidia Did the Heavy Lifting for the Major Market Indexes Today",
-    "author": "Anders Bylund",
-    "published_utc": "2026-09-02T18:19:26Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/nvidia-did-the-heavy-lifting-for-the-major-indexes/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "META",
-      "IBIT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886055%2Fconfused-excited-calm-investors-getty-images-1262327358.jpg&w=1200&op=resize",
-    "description": "Major market indexes rose modestly by 0.4% on Wednesday, with Nvidia and Meta Platforms driving nearly all gains. Nvidia jumped 3.8% to $225.67, single-handedly contributing 0.38% to the Nasdaq Composite's gain. Without these two stocks, the Nasdaq would be down and the S&P 500 would be nearly flat. Market moves were driven by macroeconomic factors, including New York Fed President John Williams' comments on Treasury yields reflecting a strong economy driven by AI and data center investment.",
-    "keywords": [
-      "market indexes",
-      "Nvidia",
-      "Meta Platforms",
-      "Treasury yields",
-      "AI investment",
-      "Fed rate decision",
-      "jobs report"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 3.8% to $225.67, creating $206 billion in market value and single-handedly driving 0.38% of the Nasdaq Composite's gains. Strong performance reflects investor confidence in AI and data center investments."
+        "sentiment_reasoning": "Surging by double digits; highlighted as benefiting from expanding AI opportunity beyond GPUs into CPU and infrastructure demand"
       },
       {
         "ticker": "META",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock jumped 2.9%, contributing significantly to index gains alongside Nvidia. Positive price movement indicates investor confidence, though no specific company news drove the gain."
+        "sentiment_reasoning": "Participating in strong AI-related stock rally; benefits from capital spending on AI infrastructure"
       },
       {
-        "ticker": "IBIT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Slipped 0.1%, showing minimal movement. Notable for breaking its recent correlation with gold prices, which climbed 1%, suggesting a shift in safe-harbor asset dynamics."
-      }
-    ]
-  },
-  {
-    "id": "06e30ff5ca5e33ebcb7f0e2d149a419fefb1a80ec6b6b819bd7d18dd7a954e55",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why The Trade Desk Stock Rallied Today",
-    "author": "Danny Vena, Cpa",
-    "published_utc": "2026-09-02T16:40:43Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/why-the-trade-desk-stock-rallied-today/?source=iedfolrf0000001",
-    "tickers": [
-      "TTD",
-      "AMZN",
-      "META",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886049%2Fthe-trade-desk-logo-over-a-blue-background-supimposed-over-an-image-of-a-modern-hi-rise-office-building.png&w=1200&op=resize",
-    "description": "The Trade Desk stock surged 4.9% after the FTC and 22 states filed suit against Amazon for allegedly using deceptive ad pricing practices, including undisclosed surcharges. This legal action highlights The Trade Desk's competitive advantage through transparent pricing and could help the company recapture market share from competitors with closed ecosystems.",
-    "keywords": [
-      "programmatic advertising",
-      "FTC lawsuit",
-      "deceptive ad practices",
-      "transparent pricing",
-      "walled gardens",
-      "digital advertising",
-      "AI integration"
-    ],
-    "insights": [
-      {
-        "ticker": "TTD",
+        "ticker": "ALAB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock rallied 4.9% on news of competitor's legal troubles. The lawsuit against Amazon highlights The Trade Desk's transparent pricing advantage and could help it recapture advertising dollars from closed ecosystems, though the company still faces structural headwinds from six consecutive quarters of decelerating growth."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing FTC lawsuit from 22 states alleging deceptive ad practices including undisclosed surcharges and concealed auction costs. Amazon denies the charges but the legal action creates reputational risk and potential regulatory consequences."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the large competitors with 'walled gardens' that have integrated AI into closed ecosystems, creating competitive pressure on The Trade Desk. No direct negative news, but represents structural competitive challenge."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the large competitors with 'walled gardens' that have integrated AI into closed ecosystems, creating competitive pressure on The Trade Desk. No direct negative news, but represents structural competitive challenge."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the large competitors with 'walled gardens' that have integrated AI into closed ecosystems, creating competitive pressure on The Trade Desk. No direct negative news, but represents structural competitive challenge."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the large competitors with 'walled gardens' that have integrated AI into closed ecosystems, creating competitive pressure on The Trade Desk. No direct negative news, but represents structural competitive challenge."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the large competitors with 'walled gardens' that have integrated AI into closed ecosystems, creating competitive pressure on The Trade Desk. No direct negative news, but represents structural competitive challenge."
+        "sentiment_reasoning": "Among strongest technology names leading market higher; benefits from AI infrastructure buildout"
       }
     ]
   }

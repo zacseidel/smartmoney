@@ -1,197 +1,229 @@
 [
   {
-    "id": "6ef53f9a49ba2cedb315c056a64d58d0698c42c8044f97bd2dd2e93a73d4ebab",
+    "id": "b59ff322b5e77758a9e81d5355ebb254ef829f35d029f68a5dc4d11e792839ff",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is Netflix Stock More Likely to Hit $100 or $60 by the End of 2026?",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-09-07T16:32:31Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/is-netflix-stock-more-likely-to-hit-100-or-60-by-the-end-of-2026/?source=iedfolrf0000001",
+    "title": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-22T01:23:20Z",
+    "article_url": "https://www.fool.com/investing/2026/09/21/paramount-could-acquire-warner-bros-discovery-sooner-than-expected-heres-what-that-means-for-netflix-investors/?source=iedfolrf0000001",
     "tickers": [
-      "NFLX"
+      "NFLX",
+      "PSKY",
+      "WBD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf2c04c72d4443f72b53209e7360fdbb004d4547-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Netflix stock has declined 17% in 2026 and 38% over the past 12 months, trading near $80 with a P/E ratio around 25x, in line with S&P 500 averages. The analyst predicts the stock is more likely to fall to $60 in the near term due to slowing growth, potential rate increases, and concerns about Reed Hastings stepping away and acquisition rumors. However, at lower prices, Netflix could represent a strong long-term buying opportunity given its strong business fundamentals and content production capabilities.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F295ad00e3230175efddf90d098ff5057f682b0db-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Paramount's acquisition of Warner Bros. Discovery will close sooner than expected after settling antitrust lawsuits with state attorneys general. The settlement requires Paramount to increase domestic film production by $300 million annually and guarantee theatrical releases. Netflix benefits from having one fewer competitor, while Paramount faces an $80 billion debt burden that could limit its competitive ability.",
     "keywords": [
-      "Netflix stock decline",
-      "valuation analysis",
-      "streaming industry",
-      "growth concerns",
-      "acquisition rumors",
-      "price targets",
-      "P/E ratio"
+      "merger",
+      "antitrust settlement",
+      "streaming competition",
+      "debt burden",
+      "theatrical releases",
+      "content production"
     ],
     "insights": [
       {
         "ticker": "NFLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Netflix avoided taking on significant debt from a questionable acquisition and now faces one fewer competitor. The combined Paramount-WBD entity will be financially strapped with $80 billion in debt, limiting its competitive threat. Netflix stock rose 2% on the settlement news."
+      },
+      {
+        "ticker": "PSKY",
         "sentiment": "negative",
-        "sentiment_reasoning": "The analyst expects Netflix stock to decline to $60 in the near term due to slowing growth, market headwinds, potential rate increases, and leadership/acquisition concerns. While the long-term business fundamentals remain strong, near-term headwinds and investor hesitation to pay premium multiples support a bearish near-term outlook."
+        "sentiment_reasoning": "While winning the bidding war, Paramount will assume approximately $80 billion in debt and face settlement restrictions on content strategy, including mandatory theatrical releases and increased domestic production costs. These constraints will limit profitability and strategic flexibility."
+      },
+      {
+        "ticker": "WBD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "WBD is being acquired and will cease to exist as an independent entity. While the settlement accelerates deal closure, the company's struggling financial position and characterization as an 'albatross' suggest limited independent prospects, making acquisition the practical outcome."
       }
     ]
   },
   {
-    "id": "e98614259a87b079b0c45de217386f1ab8a2aec50115c3b37943ead54c079ba7",
+    "id": "5f32971940c6f31d534fb40ee9124cb396ccd925ac21b49af60149c9770266d7",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Netflix Stock Is Down 40%. Is It a Buy?",
-    "author": "Rick Orford",
-    "published_utc": "2026-09-06T14:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/06/netflix-stock-is-down-40-is-it-a-buy/?source=iedfolrf0000001",
+    "title": "Netflix (NFLX) Laps the Stock Market: Here's Why",
+    "author": "Na",
+    "published_utc": "2026-09-21T21:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2993261/netflix-nflx-laps-the-stock-market-here-s-why?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993261",
     "tickers": [
       "NFLX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886512%2F1257-netflix.png&w=1200&op=resize",
-    "description": "Netflix stock has declined 40% due to slowing growth, but the company's expanding margins, stronger cash flow, advertising growth, and share buybacks suggest earnings could continue compounding. The article argues that Netflix may represent a rare discount opportunity despite the valuation reset from its previous highs.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default153.jpg",
+    "description": "Netflix closed at $73.36, up 2.19% on the day but down 9.8% over the past month. The company holds a Zacks Rank #4 (Sell) rating with a Forward P/E of 19.98, significantly above its industry average of 10.85. While earnings are expected to grow 38.98% next quarter and 41.9% annually, the stock's premium valuation and recent analyst estimate stagnation suggest caution.",
     "keywords": [
-      "Netflix",
-      "stock decline",
-      "slowing growth",
-      "profit margins",
-      "cash flow",
-      "advertising revenue",
-      "share buybacks",
-      "valuation",
+      "Netflix earnings",
+      "stock valuation",
+      "Zacks Rank",
+      "Forward P/E ratio",
+      "analyst estimates",
+      "consumer discretionary",
       "earnings growth"
     ],
     "insights": [
       {
         "ticker": "NFLX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite the 40% stock decline, the article highlights improving fundamentals including expanding margins, stronger cash flow, advertising growth, and buybacks that could support continued earnings growth. The author suggests the stock may be undervalued at current levels, presenting a buying opportunity for long-term investors."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Netflix received a Zacks Rank #4 (Sell) rating due to its premium Forward P/E ratio of 19.98 versus industry average of 10.85, despite strong expected earnings growth. The stock has underperformed over the past month (-9.8%), and analyst EPS estimates have remained stagnant, indicating limited near-term upside despite solid fundamentals."
       }
     ]
   },
   {
-    "id": "401a3847f3280cced2b326c6544da3ac4d356018c14ccc9793b721d7d3e12de8",
+    "id": "fa211fb84f546ff8a2c89e805655b56c8f073a178fb98112c373d870a410b61d",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Walt Disney vs. Netflix: Which Media Stock Is a Better Buy in 2026?",
-    "author": "John Ballard",
-    "published_utc": "2026-09-04T17:20:02Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/04/walt-disney-vs-netflix-which-media-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Should You Invest in the iShares U.S. Consumer Discretionary ETF (IYC)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-21T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2992578/should-you-invest-in-the-ishares-u-s-consumer-discretionary-etf-iyc?cid=CS-ZC-FT-sector_etf-2992578",
     "tickers": [
-      "DIS",
-      "NFLX"
+      "IYC",
+      "AMZN",
+      "TSLA",
+      "NFLX",
+      "VCR",
+      "XLY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Walt Disney and Netflix as investment options for 2026. Disney is a diversified entertainment giant with theme parks and streaming, while Netflix is a pure-play streaming service with 300+ million subscribers. Netflix demonstrates stronger growth (16% revenue increase), higher profitability margins (24% net margin vs Disney's 13%), and better operational efficiency. However, Netflix trades at a higher valuation premium (P/S of 7.6x vs Disney's 2.0x). The author recommends Netflix as the better buy, citing its double-digit revenue growth, superior streaming profitability, and expected 20%+ annual earnings growth compared to Disney's low-single-digit growth.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default358.jpg",
+    "description": "The iShares U.S. Consumer Discretionary ETF (IYC) has received a Zacks ETF Rank of 4 (Sell) and is not recommended as the best option for consumer discretionary exposure. The ETF has declined 6.39% year-to-date and 8.37% over the past year, with a medium risk profile. Better alternatives include Vanguard Consumer Discretionary Index Fund ETF Shares (VCR) and State Street Consumer Discretionary Select Sector SPDR ETF (XLY), which offer lower expense ratios.",
     "keywords": [
-      "streaming services",
-      "media stocks",
-      "investment comparison",
-      "revenue growth",
-      "profitability margins",
-      "valuation multiples",
-      "subscriber base"
+      "consumer discretionary",
+      "ETF",
+      "investment",
+      "sector exposure",
+      "expense ratio",
+      "performance"
     ],
     "insights": [
       {
-        "ticker": "DIS",
+        "ticker": "IYC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Assigned a Zacks ETF Rank of 4 (Sell), down 6.39% YTD and 8.37% over one year, and explicitly stated as not the best option for investors seeking consumer discretionary exposure."
+      },
+      {
+        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Disney is presented as a stable, diversified company with strong intellectual property and moderate leverage (0.3x debt-to-equity), but faces slower growth prospects with low-single-digit earnings growth expectations and lower streaming profitability margins. The company generates solid free cash flow ($10B) but is considered less attractive than Netflix for 2026 investors."
+        "sentiment_reasoning": "Largest holding in IYC at 15.26% of assets; mentioned factually without performance assessment."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IYC; mentioned factually without performance assessment."
       },
       {
         "ticker": "NFLX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IYC; mentioned factually without performance assessment."
+      },
+      {
+        "ticker": "VCR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Netflix is recommended as the stronger investment choice, demonstrating superior fundamentals including 16% revenue growth, 24% net margins, 33% streaming operating margins, and expected 20%+ annual earnings growth. Despite trading at a higher valuation premium, the company's scale, profitability, and growth trajectory are viewed as offering superior return potential for investors in 2026."
+        "sentiment_reasoning": "Recommended as a better alternative to IYC with lower expense ratio (0.09%) and significantly larger assets ($5.74 billion)."
+      },
+      {
+        "ticker": "XLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a better alternative to IYC with the lowest expense ratio (0.08%) and largest assets ($21.68 billion) among alternatives."
       }
     ]
   },
   {
-    "id": "2543ebea44918e3ba046f27047196e885ab08e1156dfa9fd256d16638e912771",
+    "id": "96331a13c2b5658b60895ef17a8ac802e9486424e6ccbe5d3771fbacba91a40c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why Netflix Stock Gained 13% in August",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-09-03T10:27:06Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/why-netflix-stock-gained-13-in-august/?source=iedfolrf0000001",
+    "title": "Why Netflix Stock Dropped Today",
+    "author": "Joe Tenebruso",
+    "published_utc": "2026-09-19T02:10:18Z",
+    "article_url": "https://www.fool.com/investing/2026/09/18/why-netflix-stock-dropped-today/?source=iedfolrf0000001",
     "tickers": [
       "NFLX",
-      "ROKU",
       "WBD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886032%2Fbuilding-with-netflix-logo-on-top_netflix.jpg&w=1200&op=resize",
-    "description": "Netflix stock jumped 13% in August after hitting a 52-week low following disappointing July earnings. Despite concerns about slowing growth (revenue up 13% YoY but decelerating to guided 11% in Q3) and declining viewing hours per member, investors saw the stock as oversold. Management highlighted Netflix's massive growth runway with only 45% global household penetration and 7% addressable revenue market share, positioning it as a compelling buying opportunity.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888331%2Fnflx-stock.png&w=1200&op=resize",
+    "description": "Netflix stock fell 4.67% after Wells Fargo analyst Steven Cahall downgraded the company to underweight, predicting a potential 20% price decline to $57. Cahall cited concerns about a lack of hit original series, estimating views for Netflix's top 100 shows could drop over 20%. He warned that engagement trends are worrying and that boosting viewership through increased content spending, sports rights, or acquisitions would pressure profit margins.",
     "keywords": [
-      "Netflix stock surge",
-      "earnings disappointment",
+      "Netflix downgrade",
+      "analyst rating",
       "viewer engagement",
-      "growth deceleration",
+      "content strategy",
       "streaming competition",
-      "market penetration",
-      "ad-supported tier"
+      "profit margins"
     ],
     "insights": [
       {
         "ticker": "NFLX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed signals: stock gained 13% in August suggesting investor optimism about valuation, but this follows disappointing July earnings with slowing revenue growth (13% YoY decelerating to 11% guidance), declining viewing hours per member, and failed acquisition attempts. The recovery appears driven by oversold conditions and potential growth runway rather than fundamental improvements."
-      },
-      {
-        "ticker": "ROKU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a failed acquisition target for Netflix, indicating potential strategic interest but no direct impact on Roku's business or sentiment from this article."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Wells Fargo downgraded Netflix to underweight with a $57 price target (20% downside from current $71.79). Analyst cited declining engagement trends, lack of hit shows, and predicted 20%+ decline in views for top 100 original series. Potential solutions to boost engagement would come at significant cost to profit margins."
       },
       {
         "ticker": "WBD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a failed acquisition target for Netflix, indicating potential strategic interest but no direct impact on Warner Bros. Discovery's business or sentiment from this article."
+        "sentiment_reasoning": "Mentioned as a company whose HBO Max streaming service and studio assets were recently acquired by Paramount Skydance, outbidding Netflix. This demonstrates competitive pressure in the streaming market but does not directly impact the company negatively in this context."
       }
     ]
   },
   {
-    "id": "5194c7833c5f07f1dd2801252828f2beddbe6371552e65caa8578ad1050018f5",
+    "id": "ded3a5953755e42fec27d41b3131c28a3eedc6c262344b9cb23112ae1035e179",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "A Video Game Trailer Was Netflix's Most-Watched English Film Late Last Month. Here's Why This Matters for Investors.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-09-03T03:07:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/a-video-game-trailer-was-netflix-s-most-watched-english-film-late-last-month-here-s-why-this-matters-for-investors/?source=iedfolrf0000001",
+    "title": "Apple TV's Emmy Sweep Adds Momentum to AAPL's Services Business",
+    "author": "Na",
+    "published_utc": "2026-09-18T16:20:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992242/apple-tv-s-emmy-sweep-adds-momentum-to-aapl-s-services-business?cid=CS-ZC-FT-analyst_blog|quick_take-2992242",
     "tickers": [
+      "AAPL",
       "NFLX",
-      "TTWO"
+      "DIS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8bdb294ef8c7563d93a545939158e7b00fa42631-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Netflix's most-watched English-language film during late August was actually a 27-minute Grand Theft Auto VI trailer that garnered 31.1 million views. However, measured in hours watched, it accumulated only 14 million\u2014far less than traditional films. The deal reflects Netflix's strategic shift toward prioritizing 'moments' and cultural events over total watch hours, as the company focuses on revenue growth through advertising and subscriber acquisition rather than content consumption volume.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/11/933.jpg",
+    "description": "Apple TV won 29 Emmys at the 78th Primetime Emmy Awards, with Apple Originals accumulating 917 total wins and 3,827 nominations. Apple's Services revenue grew 12% to a record $30.74 billion in the June quarter with a 75.6% gross margin. The company surpassed 1.5 billion paid subscriptions supported by over 2.5 billion active devices. However, Apple faces intense competition from Netflix and Disney in the streaming space.",
     "keywords": [
-      "Netflix streaming strategy",
-      "video game marketing",
-      "view metrics vs. watch hours",
-      "advertising revenue growth",
-      "content strategy shift",
-      "Grand Theft Auto VI",
-      "streaming exclusivity"
+      "Apple TV",
+      "Emmy Awards",
+      "streaming",
+      "Services revenue",
+      "subscriptions",
+      "competition",
+      "Netflix",
+      "Disney"
     ],
     "insights": [
       {
-        "ticker": "NFLX",
+        "ticker": "AAPL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Netflix is executing a strategic pivot toward high-impact cultural moments and live events that drive subscriber acquisition and advertising revenue growth (150%+ in 2025), even if they don't maximize watch hours. The GTA VI deal exemplifies this approach and positions the platform as a destination for major entertainment events."
+        "sentiment_reasoning": "Apple TV achieved record Emmy wins (29 awards), Services revenue grew 12% to $30.74B with strong 75.6% gross margin, surpassed 1.5B paid subscriptions, and reached all-time high viewership. However, positive sentiment is tempered by premium valuation (P/E 35.44X vs sector 20.38X) and Hold rating."
       },
       {
-        "ticker": "TTWO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Take-Two (Rockstar Games' parent) successfully leveraged Netflix as a premium marketing and distribution platform for the Grand Theft Auto VI announcement, gaining massive reach (31.1 million views) with a six-hour exclusivity window, demonstrating effective partnership strategy for game launches."
+        "ticker": "NFLX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Netflix is presented as a strong competitor with ~330M subscription households, global scale, and expanding content formats including live programming and cloud games. Competitive threat to Apple but no specific performance data provided."
+      },
+      {
+        "ticker": "DIS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Disney is identified as a significant competitor leveraging its extensive franchise portfolio (Pixar, Marvel, Star Wars), bundling strategy, and sports content through Disney+ and ESPN. Competitive threat to Apple but no specific performance metrics provided."
       }
     ]
   }

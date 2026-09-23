@@ -1,218 +1,238 @@
 [
   {
-    "id": "724f816c5d6b6a97f163fc6cfe531484c87e20dd4f9642c7c57a850830325d70",
+    "id": "ad69b9f0a08e1ba6caf4679c7ed5535e81267f1fd3a7ed2fcebbc7cfff6bbe2b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Should Investors Buy Nike Stock Instead of Lululemon?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-09-22T23:36:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/should-investors-buy-nike-stock-instead-of-lululem/?source=iedfolrf0000001",
+    "tickers": [
+      "NKE",
+      "LULU"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888612%2Fmqdefault.webp&w=1200&op=resize",
+    "description": "Nike and Lululemon are among the worst-performing stocks in the market currently, with both trading near their cheapest valuations ever. The article compares these two apparel companies as potential investment opportunities despite their recent poor price action.",
+    "keywords": [
+      "Nike",
+      "Lululemon",
+      "stock valuation",
+      "apparel stocks",
+      "investment comparison",
+      "market performance"
+    ],
+    "insights": [
+      {
+        "ticker": "NKE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock is described as one of the worst-liked stocks in the market with poor price action and trading near cheapest valuations ever."
+      },
+      {
+        "ticker": "LULU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock is described as one of the worst-liked stocks in the market, has crashed significantly (mentioned sinking to $96 per share), and is trading near cheapest valuations ever."
+      }
+    ]
+  },
+  {
+    "id": "8959debc3e0b8fe3c4d84de7fdc052ea356d108319885eea6302e09e75a73c13",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "NIKE's China Business: Recovery Story or Ongoing Challenge?",
+    "title": "NIKE's Marketplace Strategy: Balancing Reach and Profitability?",
     "author": "Na",
-    "published_utc": "2026-09-07T15:28:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985911/nike-s-china-business-recovery-story-or-ongoing-challenge?cid=CS-ZC-FT-analyst_blog|quick_take-2985911",
+    "published_utc": "2026-09-21T14:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993031/nike-s-marketplace-strategy-balancing-reach-and-profitability?cid=CS-ZC-FT-analyst_blog|quick_take-2993031",
     "tickers": [
       "NKE",
       "ADDYY",
       "LULU"
     ],
     "image_url": "https://staticx-tuner.zacks.com/images/articles/main/03/94.jpg",
-    "description": "NIKE's Greater China revenues fell 17% in fiscal Q4 2026, though management noted sequential improvements in sell-through and full-price realization. Running and premium categories showed growth, but overall recovery remains early. Meanwhile, adidas is outperforming with 15% Greater China growth, while lululemon faces a slowdown with only 4% China Mainland growth.",
+    "description": "NIKE is restructuring its marketplace strategy by refreshing 15,000 wholesale spaces and elevating 150 company-owned stores while reducing promotional intensity to support full-price sales and margin expansion. Wholesale revenues grew 4% in fiscal 2026 with double-digit North America growth, though the company is deliberately trading near-term volume for healthier inventory and stronger pricing. Competitors adidas and lululemon are pursuing similar balanced approaches to marketplace growth while maintaining premium positioning.",
     "keywords": [
-      "Greater China",
-      "revenue decline",
-      "inventory reduction",
-      "marketplace reset",
-      "competitive comparison",
-      "recovery trajectory"
+      "wholesale strategy",
+      "direct-to-consumer",
+      "inventory management",
+      "promotional reduction",
+      "full-price sales",
+      "margin expansion",
+      "premium positioning",
+      "marketplace strategy"
     ],
     "insights": [
       {
         "ticker": "NKE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "17% revenue decline in Greater China, 25% digital revenue drop, and 20% EBIT decline indicate significant challenges. While management highlighted early positive signs in select categories and improved metrics, the overall performance remains weak and recovery is described as 'early stage' rather than established."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NIKE is executing a strategic pivot with positive long-term margin potential through reduced promotions and tighter inventory, but faces near-term revenue headwinds as it deliberately trades volume for profitability. Stock has declined 32.6% in three months and carries a Zacks Rank #4 (Sell) rating, though fiscal 2027 earnings growth is expected at 28.6%."
       },
       {
         "ticker": "ADDYY",
         "sentiment": "positive",
-        "sentiment_reasoning": "15% currency-neutral Greater China revenue growth in Q2 2026 following 17% growth in Q1, with 16% first-half sales growth. Strong market-share gains, improved product sell-through, and successful localized strategy position adidas as a healthier growth story compared to competitors."
+        "sentiment_reasoning": "adidas is successfully balancing strong DTC momentum (23% revenue growth) with disciplined wholesale distribution (7% growth), maintaining full-price realization and healthy margins in a promotional environment without sacrificing consumer reach."
       },
       {
         "ticker": "LULU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "China Mainland revenues increased only 4% year-over-year with a 2% constant-dollar decline. Comparable sales fell 2% reported and 8% in constant dollars, marking a sharp slowdown from prior quarter's 13% growth, indicating weakening demand momentum in an important market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "lululemon is taking a measured approach to marketplace growth with focus on full-price sales and premium positioning, but faces headwinds from softer demand in the Americas and weaker comparable sales, making the balance between broader reach and profitability an ongoing challenge."
       }
     ]
   },
   {
-    "id": "929caf093669cf2e96e469cb53101ef5bc2ea3e4731f5c99b4109d0ba47f8c1e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The 'Big Short's' Michael Burry Has Seen His Largest Position Fall Over 50% This Year. Should Investors Sell the Stock?",
-    "author": "Bram Berkowitz",
-    "published_utc": "2026-09-04T17:28:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/04/the-big-short-s-michael-burry-has-seen-his-largest-position-fall-over-50-this-year-should-investors-sell-the-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "LULU"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd43c381333bba8ef2b8ffca825b173a12670006e-1024x639.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Michael Burry's largest hedge fund position, Lululemon (LULU), has plummeted over 52% this year following weak earnings and a second consecutive full-year guidance cut. The luxury apparel maker reported a 9% comparable sales decline, citing negative brand sentiment, weak North American sales, and stale product lines. Despite the struggles, Burry remains invested and would buy more below $100, though analysts are divided with some slashing price targets significantly lower.",
-    "keywords": [
-      "Michael Burry",
-      "Lululemon",
-      "stock decline",
-      "earnings miss",
-      "guidance cut",
-      "brand sentiment",
-      "comparable sales decline",
-      "hedge fund position"
-    ],
-    "insights": [
-      {
-        "ticker": "LULU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 52% year-to-date with second consecutive guidance cut, 9% comparable sales decline, weak North American performance, negative brand sentiment, product staleness concerns, and significant analyst downgrades including a 50% price target cut from BNP Paribas. However, strong gross margins (60.5%) and new CEO transition provide some bullish counterpoints."
-      }
-    ]
-  },
-  {
-    "id": "416b8931ad46359775a6b9c071a1d9fc057642f601ef933669d8eeba685ba0ce",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Stock Market Midday, Sept. 4: Stocks Edge Lower on Strong Jobs Report as Lululemon Plummets",
-    "author": "Emma Newbery",
-    "published_utc": "2026-09-04T16:15:37Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/04/stock-market-midday-sept-4-stocks-edge-lower-on-strong-jobs-report-as-lululemon-plummets/?source=iedfolrf0000001",
-    "tickers": [
-      "LULU",
-      "MU",
-      "FICO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Major stock indices declined on September 4, 2026, as a stronger-than-expected August jobs report (162,000 jobs added) sparked renewed concerns about potential Federal Reserve rate hikes. The S&P 500, Dow Jones, and Nasdaq all fell, with Lululemon experiencing a significant 18% drop due to declining revenue and lowered guidance. Memory stocks like Micron Technology gained despite broader market losses, while Fair Isaac plummeted following pricing criticism from the Federal Housing Finance Agency.",
-    "keywords": [
-      "stock market decline",
-      "jobs report",
-      "Federal Reserve",
-      "interest rates",
-      "Lululemon earnings miss",
-      "market sentiment",
-      "defensive sectors"
-    ],
-    "insights": [
-      {
-        "ticker": "LULU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock plummeted 18% due to declining revenue and cut to company outlook, indicating poor financial performance and reduced future expectations."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Memory stock gained despite broader market losses, showing relative strength and investor confidence in the company."
-      },
-      {
-        "ticker": "FICO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock plummeted 15.98% following pricing criticism from the Federal Housing Finance Agency on social media."
-      }
-    ]
-  },
-  {
-    "id": "8c19bf2799ecbb9b76516bf1fc1982168d3d4544007d4e930f5a9ac54f97bdca",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Lululemon's Comparable Sales Fell 9%. Can New CEO Heidi O'Neill Turn Things Around or Is the Brand Broken?",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-09-04T00:03:52Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/lululemons-comparable-sales-fell-9-can-new-ceo-heidi-oneill-turn-things-around-or-is-the-brand-broken/?source=iedfolrf0000001",
-    "tickers": [
-      "LULU",
-      "NKE",
-      "DECK",
-      "ONON"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd43c381333bba8ef2b8ffca825b173a12670006e-1024x639.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Lululemon reported its worst comparable sales result in modern history with a 9% decline in Q2, missing revenue expectations and slashing full-year guidance. New CEO Heidi O'Neill, a Nike veteran, takes over amid investor skepticism and founder criticism. The broader athletic apparel industry is also struggling, complicating the turnaround challenge ahead.",
-    "keywords": [
-      "comparable sales decline",
-      "CEO transition",
-      "earnings miss",
-      "guidance cut",
-      "athletic apparel industry",
-      "gross margin compression",
-      "founder criticism"
-    ],
-    "insights": [
-      {
-        "ticker": "LULU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company reported worst comparable sales result in modern history (down 9%), missed revenue consensus, slashed full-year guidance, and adjusted operating margin collapsed from 20.7% to 13.2%. Stock fell 18% after-hours on disappointing results and weak forward guidance."
-      },
-      {
-        "ticker": "NKE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned as part of the broader struggling athletic apparel industry. New Lululemon CEO was pushed out from Nike when CEO Elliott Hill took over, suggesting Nike's own operational challenges post-pandemic."
-      },
-      {
-        "ticker": "DECK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Grouped with Nike, Lululemon, and On Holdings as companies that have all struggled lately, indicating challenges across the broader footwear and athletic apparel industry."
-      },
-      {
-        "ticker": "ONON",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned alongside Nike and Deckers as part of the struggling athletic apparel and footwear industry facing broader headwinds."
-      }
-    ]
-  },
-  {
-    "id": "eadf16681873f9a2fd2cb4649619174bcaba28fdf14573aa4fba94b3502f93dd",
+    "id": "cdb5ebfb9c08181ad3d77c2eab785a270ecf81fb2fa2d4f3f8856eae5207c250",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Lululemon (LULU) Q2 Earnings Top Estimates",
+    "title": "lululemon Refreshes Product Strategy: Will New Styles Click?",
     "author": "Na",
-    "published_utc": "2026-09-03T21:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2984785/lululemon-lulu-q2-earnings-top-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-2984785",
+    "published_utc": "2026-09-18T15:05:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992130/lululemon-refreshes-product-strategy-will-new-styles-click?cid=CS-ZC-FT-analyst_blog|rank_focused-2992130",
     "tickers": [
       "LULU",
-      "CTAS"
+      "KTB",
+      "SVV",
+      "SGC"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default145.jpg",
-    "description": "Lululemon reported Q2 2026 earnings of $2.06 per share, beating consensus estimates of $1.79 by 15.08%, but revenues of $2.42 billion missed expectations by 2.07%. The stock has declined 42.2% year-to-date, significantly underperforming the S&P 500's 12% gain. With a Zacks Rank #3 (Hold) rating, the stock is expected to perform in line with the market. Management commentary will be crucial for determining future price movement.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/9f/412.jpg",
+    "description": "lululemon is restructuring its growth strategy to restore full-price sales growth by updating core product franchises, reducing SKUs, and improving inventory discipline. The company is increasing chase volume by 20% to react faster to consumer demand. While some products like Scuba and Groove Wide-Leg bottoms show promise, traditional leggings sales declined 20% as consumers shift toward looser silhouettes. The stock has underperformed significantly, down 39.9% in six months, and earnings estimates have been revised downward.",
     "keywords": [
-      "earnings surprise",
-      "revenue miss",
-      "athletic apparel",
+      "lululemon",
+      "product strategy",
+      "inventory management",
+      "consumer preferences",
+      "leggings decline",
       "stock performance",
-      "earnings estimates",
-      "Zacks Rank"
+      "earnings revision"
     ],
     "insights": [
       {
         "ticker": "LULU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed results with a positive EPS surprise (+15.08%) offset by a revenue miss (-2.07%). Year-to-date stock performance is significantly negative (-42.2%), but the Zacks Rank #3 (Hold) suggests market-in-line performance ahead. The company has beaten EPS estimates in all four recent quarters, showing earnings consistency despite revenue challenges."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Company faces inconsistent product performance, declining leggings sales (down 20%), weak traffic and conversion trends, and significant stock underperformance (down 39.9% in 6 months). Zacks Rank #5 (Strong Sell) with downward earnings revisions for fiscal 2026 (-28.1%) and 2027 (-5.5%). Recovery depends on unproven new product execution."
       },
       {
-        "ticker": "CTAS",
+        "ticker": "KTB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with expected sales and earnings declines of 14.3% and 6.1% respectively, but delivered strong trailing four-quarter earnings surprise of 21.4%, suggesting operational resilience despite headwinds."
+      },
+      {
+        "ticker": "SVV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Expected to report strong quarterly earnings growth of +12.5% year-over-year with revenues up 9.2%. Consensus EPS estimate has remained stable over the last 30 days, indicating steady analyst confidence in the company's performance."
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with expected sales and earnings growth of 6.1% and 6.7% respectively, indicating positive momentum in the thrift retail sector."
+      },
+      {
+        "ticker": "SGC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) with strong expected earnings growth of 39.1% and exceptional trailing four-quarter earnings surprise of 90.2%, demonstrating excellent operational execution."
+      }
+    ]
+  },
+  {
+    "id": "a69ee618809d0b8c1c8449ac063cfd971833ac083a76bc028186a48157e15606",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "LULU Falls 14.1% in a Month: Can New Growth Levers Help Investors?",
+    "author": "Na",
+    "published_utc": "2026-09-18T14:15:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992079/lulu-falls-14-1-in-a-month-can-new-growth-levers-help-investors?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2992079",
+    "tickers": [
+      "LULU",
+      "NKE",
+      "ADDYY"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4d/1032.jpg",
+    "description": "lululemon athletica (LULU) shares fell 14.1% over the past month as the company grapples with weakening demand, margin pressures, and lowered fiscal 2026 guidance. Revenue declined 4% YoY to $2.4 billion with comparable sales down 9%, particularly in the Americas. The company is pivoting its product strategy toward newer away-from-body bottoms while core leggings sales dropped 20%. Despite improved valuation metrics, the stock carries a Zacks Rank #5 (Strong Sell) due to weaker earnings trends and limited visibility on sales recovery.",
+    "keywords": [
+      "demand weakness",
+      "margin pressure",
+      "product reset",
+      "comparable sales decline",
+      "guidance reduction",
+      "competitive pressure",
+      "inventory management"
+    ],
+    "insights": [
+      {
+        "ticker": "LULU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "14.1% share decline over one month, 4% YoY revenue decline, 9% comparable sales drop, lowered fiscal 2026 guidance (5-7% revenue decline), 20% decline in core leggings sales, Zacks Rank #5 (Strong Sell), and limited visibility on near-term sales recovery despite some positive product innovation efforts."
+      },
+      {
+        "ticker": "NKE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major competitor with strong global brand presence, product innovation, and extensive distribution network, but no specific performance data or direct impact assessment provided in the article."
+      },
+      {
+        "ticker": "ADDYY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a significant competitor with focus on athletic footwear, apparel, and lifestyle products supported by global brand recognition, but no specific performance metrics or direct competitive impact details provided."
+      }
+    ]
+  },
+  {
+    "id": "366ea6e0ade1f35abccfa71eda7bfeba886660fe61aa4abcebd23501a47029e8",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nike and Lululemon Both Hit Multi-Year Lows in September. Which Stock Is Best Positioned to Make a Comeback?",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-17T20:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/17/nike-lululemon-and-on-holding-all-hit-52-week-lows/?source=iedfolrf0000001",
+    "tickers": [
+      "NKE",
+      "LULU",
+      "DECK",
+      "ONON"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887259%2Fgettyimages-1194087257.jpg&w=1200&op=resize",
+    "description": "Nike and Lululemon have both collapsed to multi-year lows due to weak North American sales, slowing revenue growth, and increased competition. Nike faces challenges from its wholesale retailer exit strategy and reliance on markdowns, while Lululemon struggles with soft women's apparel sales and tariff pressures. Though both face near-term headwinds, Lululemon appears better positioned for a comeback due to its cheaper valuation (10x earnings vs. Nike's 21x), despite analyst expectations for continued declines in fiscal 2027.",
+    "keywords": [
+      "athletic apparel",
+      "revenue decline",
+      "gross margin compression",
+      "wholesale retailers",
+      "direct-to-consumer",
+      "North America weakness",
+      "valuation",
+      "competitive pressure"
+    ],
+    "insights": [
+      {
+        "ticker": "NKE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has fallen 79% from 2021 highs to $36. Flat revenue growth, 10% decline in fiscal 2025, weak North American sales, loss of wholesale retail shelf space to competitors, over-reliance on markdowns reducing gross margins, and declining EPS. CEO expects fiscal 2027 to be a 'reset' year with expected 2% revenue decline and 19% EPS decline."
+      },
+      {
+        "ticker": "LULU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has fallen 81% from December 2023 highs to $99. Revenue growth has decelerated from 19% to 5%, gross margins compressed from 58.3% to 56.6%, soft women's apparel sales in North America, increased markdown reliance, and tariff pressures. Analysts expect 6% revenue decline and 27% EPS decline in fiscal 2027. However, relatively cheaper valuation (10x earnings) offers better downside protection than Nike."
+      },
+      {
+        "ticker": "DECK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as beneficiary of Nike's wholesale retailer exit, with its Hoka brand gaining market share in the running and lifestyle sneaker markets as competitors eagerly grabbed shelf space vacated by Nike."
+      },
+      {
+        "ticker": "ONON",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as competitor that expanded market share in running and lifestyle sneaker markets by capturing shelf space Nike vacated through its wholesale retailer exit."
       }
     ]
   }
