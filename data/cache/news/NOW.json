@@ -1,206 +1,290 @@
 [
   {
-    "id": "601008f5b04f8f0446b7b9dbb3b40ccce9b4d1160b77254b891481f0726f5712",
+    "id": "b28f0b32ecf266ccd5a4cd9ae7586b502dc7b24724220cdc64b003775d356bcf",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "NOW Broadens Aramco AI Footprint as CRM & MSFT Expand AI Ambitions",
-    "author": "Na",
-    "published_utc": "2026-09-02T16:05:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983988/now-broadens-aramco-ai-footprint-as-crm-msft-expand-ai-ambitions?cid=CS-ZC-FT-analyst_blog|quick_take-2983988",
+    "title": "Is ServiceNow the Ultimate Enterprise Software Stock?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-09-26T00:25:27Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/is-servicenow-the-ultimate-enterprise-software-sto/?source=iedfolrf0000001",
     "tickers": [
       "NOW",
       "CRM",
-      "MSFT"
+      "FIG"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/25/169734.webp",
-    "description": "ServiceNow announced a collaboration with Aramco Digital to deploy its AI Platform across 50+ countries, with AI annual contract value exceeding $1 billion in Q2 2026. However, the company faces intensifying competition from Salesforce's Agentforce and Microsoft's enterprise AI ecosystem, while its stock trades at a premium valuation with a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889287%2F6-servicenow.jpg&w=1200&op=resize",
+    "description": "ServiceNow is effectively incorporating AI into its enterprise software services, with management successfully addressing investor concerns about AI integration. The company is positioned as a strong contender in the enterprise software sector.",
     "keywords": [
-      "AI workflow automation",
-      "enterprise transformation",
-      "AI platform competition",
-      "subscription revenue growth",
-      "agentic AI adoption"
+      "ServiceNow",
+      "AI integration",
+      "enterprise software",
+      "cloud computing",
+      "technology stocks"
     ],
     "insights": [
       {
         "ticker": "NOW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong AI adoption metrics with $1B+ AI ACV, 40%+ sequential net new AI ACV growth, and significant enterprise partnership with Aramco expanding across 50+ countries. However, positive sentiment is tempered by premium valuation and competitive pressures."
+        "sentiment_reasoning": "The article highlights ServiceNow's effective incorporation of AI into its services and management's success in addressing investor concerns. The title frames it as 'the ultimate enterprise software stock,' and related articles mention predictions of AI business tripling before 2029, indicating strong growth potential and positive market positioning."
       },
       {
         "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Agentforce showing strong momentum with $1.5B ARR, 70% sequential growth in agents in production, and successful conversions from ServiceNow, indicating competitive gains in enterprise AI workflows."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Salesforce is mentioned only in a comparative article title ('Salesforce vs. ServiceNow') with no substantive analysis or sentiment indicators provided in the main article content."
       },
+      {
+        "ticker": "FIG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Figma is mentioned only in a comparative article title ('Figma vs. ServiceNow') with no substantive analysis or sentiment indicators provided in the main article content."
+      }
+    ]
+  },
+  {
+    "id": "5dc750709aaac9bb68a2fc8f97126f140a677d8f5f384ad959cc68e9baa8e9b4",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, Expanding at 31.62% CAGR as Enterprises Accelerate Intelligent Automation",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-25T06:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368860/0/en/ai-automation-market-to-reach-usd-2-041-82-billion-by-2035-expanding-at-31-62-cagr-as-enterprises-accelerate-intelligent-automation.html",
+    "tickers": [
+      "MSFT",
+      "PATH",
+      "IBM",
+      "NOW",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMZN",
+      "ACN",
+      "APPN",
+      "PEGA",
+      "ORCL",
+      "ORCLpD",
+      "CRM"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI Automation Market is projected to grow from USD 131.19 billion in 2025 to USD 2,041.82 billion by 2035, with a CAGR of 31.62%. North America leads with 32.70% market share, while Asia Pacific shows the fastest growth at 33.07% CAGR. Cloud deployment dominates with 71% share, and intelligent process automation leads automation types. Large enterprises currently control 67% of the market, though SMEs are growing fastest. Key drivers include enterprise AI adoption, generative AI integration, and cloud-based solutions.",
+    "keywords": [
+      "AI Automation",
+      "Market Growth",
+      "Cloud Deployment",
+      "Intelligent Process Automation",
+      "Enterprise Adoption",
+      "Generative AI",
+      "Agentic AI",
+      "Digital Transformation"
+    ],
+    "insights": [
       {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Extensive enterprise AI ecosystem with 40M agents registered via Agent 365, 30M+ paid seats for Microsoft 365 Copilot, and 650K+ MCP actions in Dynamics 365, positioning it as a significant competitive threat to ServiceNow."
-      }
-    ]
-  },
-  {
-    "id": "ed71fc17ca9620c19106587ee8485c61ebf6d21a679a80c57d3e3963b7c4edab",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "FJTSY or NOW: Which Is the Better Value Stock Right Now?",
-    "author": "Na",
-    "published_utc": "2026-09-01T15:40:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2983269/fjtsy-or-now-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2983269",
-    "tickers": [
-      "FJTSY",
-      "NOW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default105.jpg",
-    "description": "In a comparison of two IT services stocks, Fujitsu Ltd. (FJTSY) emerges as the better value investment option compared to ServiceNow (NOW). Fujitsu holds a Zacks Rank of #2 (Buy) versus ServiceNow's #4 (Sell), and demonstrates more attractive valuation metrics including a lower forward P/E ratio (21.13 vs 36.33), better PEG ratio (1.12 vs 1.43), and lower P/B ratio (3.25 vs 12.23). Fujitsu also received a Value grade of B compared to ServiceNow's D grade.",
-    "keywords": [
-      "value investing",
-      "valuation metrics",
-      "P/E ratio",
-      "PEG ratio",
-      "Zacks Rank",
-      "IT services",
-      "stock comparison"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Listed as a key market player in AI automation; recent developments highlight ServiceNow's integration with Microsoft Agent 365, positioning Microsoft as a central player in enterprise AI orchestration and autonomous workflows."
+      },
       {
-        "ticker": "FJTSY",
+        "ticker": "PATH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Fujitsu has a stronger Zacks Rank (#2 Buy), better Value grade (B), lower forward P/E ratio (21.13), lower PEG ratio (1.12), and lower P/B ratio (3.25), indicating it is undervalued and has stronger earnings estimate revisions compared to its competitor."
+        "sentiment_reasoning": "Key market player with recent 2026 developments showing enterprise AI adoption survey and business orchestration capabilities for scaling agentic AI, demonstrating active innovation and market leadership."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player in the rapidly growing AI automation sector with strong positioning in enterprise software and AI solutions."
       },
       {
         "ticker": "NOW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "ServiceNow has a weaker Zacks Rank (#4 Sell), lower Value grade (D), higher forward P/E ratio (36.33), higher PEG ratio (1.43), and significantly higher P/B ratio (12.23), suggesting it is overvalued relative to Fujitsu and has weaker earnings outlook improvements."
-      }
-    ]
-  },
-  {
-    "id": "60a3e83aa6e562fa70d925aa07e55deae33278a7164459450f04a9d29a73773c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is it Too Late to Buy ServiceNow Stock?",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-09-01T00:19:58Z",
-    "article_url": "https://www.fool.com/investing/2026/08/31/is-it-too-late-to-buy-servicenow-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "NOW",
-      "PLTR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885823%2Fmqdefault-2.webp&w=1200&op=resize",
-    "description": "ServiceNow stock has rallied recently as the management team has addressed investor concerns. The article examines whether it's still a good time to invest in ServiceNow, which is positioning itself to defend against AI-related threats in the enterprise software market.",
-    "keywords": [
-      "ServiceNow",
-      "AI",
-      "enterprise software",
-      "stock investment",
-      "management",
-      "investor concerns"
-    ],
-    "insights": [
-      {
-        "ticker": "NOW",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article indicates recent stock rallies and notes that management has 'relieved some investor concerns in recent weeks.' The company is actively defending itself against AI-related threats, suggesting proactive business positioning. The stock price showed a +2.27% gain at the time of writing."
+        "sentiment_reasoning": "Key market player with recent 2026 developments expanding AI agent governance and integration capabilities, demonstrating active participation in the high-growth AI automation market."
       },
       {
-        "ticker": "PLTR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Palantir is mentioned only as a comparison point in a related article about AI SaaS platforms for governments and enterprises, with no specific sentiment indicators provided in the main article content."
-      }
-    ]
-  },
-  {
-    "id": "501cb05f8847bb65097ce65c5de88f5322360c12a8a9d66941d17ae5b9d56dcd",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in ServiceNow (NOW) Based on Wall Street's Bullish Views?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-08-28T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2981652/is-it-worth-investing-in-servicenow-now-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2981652",
-    "tickers": [
-      "NOW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default352.jpg",
-    "description": "While Wall Street analysts show strong bullish sentiment on ServiceNow with an average brokerage recommendation of 1.35 (Strong Buy), the article cautions that brokerage recommendations often have a positive bias and may not reliably predict stock performance. The Zacks Rank system, which relies on earnings estimate revisions, rates ServiceNow as a Hold (Rank #3) with unchanged consensus earnings estimates, suggesting the stock may perform in line with the broader market in the near term.",
-    "keywords": [
-      "ServiceNow",
-      "analyst recommendations",
-      "brokerage bias",
-      "Zacks Rank",
-      "earnings estimates",
-      "stock rating",
-      "investment decision"
-    ],
-    "insights": [
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
+      },
       {
-        "ticker": "NOW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Despite Wall Street's bullish average brokerage recommendation of 1.35 (Strong Buy with 82.6% Strong Buy ratings), the article advises caution. The Zacks Rank assigns a Hold rating (#3) based on unchanged earnings estimates, suggesting the stock should perform in line with the market. The article emphasizes that brokerage recommendations often have positive bias and are unreliable predictors of price movement, making the neutral Zacks Rank assessment more trustworthy than the bullish Wall Street consensus."
-      }
-    ]
-  },
-  {
-    "id": "3addbb00ee882a87c4f46ca35c37de20e148628370529f759e7768df311f982c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Stock Market Today, Aug. 27: Salesforce Surges 23% on Anthropic Partnership and Q2 Earnings Beat",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-08-27T21:27:47Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-salesforce-surges-23-on-anthropic-partnership-and-q2-earnings-beat/?source=iedfolrf0000001",
-    "tickers": [
-      "CRM",
-      "NOW",
-      "WDAY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F23fc1b822f8eafa9d627ca7fbac8d5b39aebf467-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Salesforce stock surged 22.6% on August 27, 2026, following a strong Q2 earnings beat, raised full-year guidance, and announcement of a new AI partnership with Anthropic to develop Claudeforce. The company reported 11% sales growth and 14% growth in remaining performance obligations, while agentic workforce units grew 97%. Peers ServiceNow and Workday also gained on broad enterprise software enthusiasm.",
-    "keywords": [
-      "Salesforce",
-      "Q2 earnings",
-      "Anthropic partnership",
-      "Claudeforce",
-      "AI agents",
-      "enterprise software",
-      "cloud CRM",
-      "guidance raise",
-      "agentic workforce"
-    ],
-    "insights": [
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market player with cloud infrastructure dominance (71% market share in cloud deployment) providing scalable AI automation solutions."
+      },
+      {
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player positioned to benefit from enterprise AI automation adoption and digital transformation services."
+      },
+      {
+        "ticker": "APPN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market player with recent 2026 developments introducing enhancements to agentic automation and AI-assisted development capabilities."
+      },
+      {
+        "ticker": "PEGA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key market player in business process automation and intelligent automation solutions in the high-growth AI automation market."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with enterprise software and cloud capabilities to support AI automation adoption across organizations."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key market player with enterprise software and cloud capabilities to support AI automation adoption across organizations."
+      },
       {
         "ticker": "CRM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings beat with 11% sales growth and 14% remaining performance obligations growth, raised full-year guidance to 11-12% sales growth, strategic AI partnership with Anthropic to develop Claudeforce, 97% growth in agentic workforce units, and stock surged 22.6%. Trading at reasonable 16x free cash flow valuation."
+        "sentiment_reasoning": "Key market player positioned to benefit from AI automation adoption in customer service, marketing, and enterprise workflows."
+      }
+    ]
+  },
+  {
+    "id": "e3b7ff02f257401bb86c0d1cc787d9c088bcfbc55c006e433a933d60c83e8d88",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-09-24T21:33:48Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-oracle-stock-dips-as-it-issues-force-majeure-notice-on-project-jupiter-data-center/?source=iedfolrf0000001",
+    "tickers": [
+      "ORCL",
+      "ORCLpD",
+      "CRM",
+      "NOW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Oracle stock fell 3.47% after issuing a force majeure notice for its Project Jupiter data center in New Mexico, citing construction delays and regulatory hurdles. The move signals challenges in data center development but is primarily a legal protection measure. Oracle's heavy debt load for AI infrastructure investments has raised concerns, with credit default swaps hitting record highs.",
+    "keywords": [
+      "Oracle",
+      "Project Jupiter",
+      "data center",
+      "force majeure",
+      "AI infrastructure",
+      "debt concerns",
+      "stock decline"
+    ],
+    "insights": [
+      {
+        "ticker": "ORCL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 3.47% following force majeure notice on Project Jupiter data center. Concerns about high debt levels funding AI ambitions, regulatory delays, and market scrutiny on AI capex ROI weigh on investor confidence."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 3.47% following force majeure notice on Project Jupiter data center. Concerns about high debt levels funding AI ambitions, regulatory delays, and market scrutiny on AI capex ROI weigh on investor confidence."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Closed up 0.35% with minimal movement. Mentioned as a peer in enterprise software sector showing mixed trading patterns alongside Oracle's decline."
       },
       {
         "ticker": "NOW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 10.05% on the same day, benefiting from broad enthusiasm across enterprise software and CRM applications sector following Salesforce's strong results and AI partnership announcement."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Declined 2.11%, showing weakness but less severe than Oracle. Mentioned as a peer in the enterprise software/cloud infrastructure sector with mixed sector performance."
+      }
+    ]
+  },
+  {
+    "id": "a6e907d2105daf104ac2a7962e75170358298fa2302672eabc57d5782e44ce83",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "ServiceNow (NOW) Stock Falls Amid Market Uptick: What Investors Need to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-18T21:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2992331/servicenow-now-stock-falls-amid-market-uptick-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2992331",
+    "tickers": [
+      "NOW"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default143.jpg",
+    "description": "ServiceNow stock declined 2.17% to $135.47 while the broader market gained, underperforming the S&P 500. Despite strong expected earnings growth (EPS up 7.29%, revenue up 20.27% year-over-year), the stock carries a Zacks Rank #4 (Sell) rating due to its premium valuation at a Forward P/E of 34.1 versus the industry average of 13.72.",
+    "keywords": [
+      "ServiceNow",
+      "stock decline",
+      "valuation premium",
+      "earnings growth",
+      "Zacks Rank",
+      "market underperformance"
+    ],
+    "insights": [
+      {
+        "ticker": "NOW",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 2.17% while the market rose, underperforming the S&P 500. Despite positive earnings growth expectations, the company received a Zacks Rank #4 (Sell) rating due to significantly elevated valuation metrics (Forward P/E of 34.1 vs. industry average of 13.72), suggesting the stock is overpriced relative to growth prospects."
+      }
+    ]
+  },
+  {
+    "id": "430e3428cc0c18aef7a50c4a1dd79a90e7ce6b64372bcefda3a466605791527e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "PagerDuty's 2026 Outlook: Operational Discipline and New AI Opportunities Sustains Profitable Growth Model",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-15T18:19:40Z",
+    "article_url": "https://www.fool.com/coverage/moneyball/2026/09/15/pagerduty-s-2026-outlook-operational-discipline-and-new-ai-opportunities-sustains-profitable-growth-model/?source=iedfolrf0000001",
+    "tickers": [
+      "PD",
+      "NOW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fee2536293fe6e64aadb617f68d8a7b9448ba5dda-1200x675.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "PagerDuty has achieved five consecutive quarters of GAAP profitability and generated $33 million in free cash flow, earning a Superscore of 72. However, revenue growth has stalled at less than 1% year-over-year, and the company faces competitive pressure from platform giants bundling incident response tools. The company is transitioning to consumption-based pricing and positioning AI as a growth driver to reignite expansion.",
+    "keywords": [
+      "PagerDuty",
+      "profitability",
+      "revenue stagnation",
+      "AI opportunities",
+      "SaaS",
+      "operational discipline",
+      "consumption-based pricing",
+      "competitive pressure"
+    ],
+    "insights": [
+      {
+        "ticker": "PD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: positive on achieving profitability, strong free cash flow, and capital efficiency; negative on revenue growth stagnation (less than 1% YoY), declining net retention rate (98%), and competitive threats from larger platforms. The company shows promise in AI-driven growth but faces near-term headwinds."
       },
       {
-        "ticker": "WDAY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 1.48% as part of broader positive sentiment in the enterprise software and CRM applications sector following Salesforce's earnings beat and AI partnership news."
+        "ticker": "NOW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat bundling incident response tools into its platform suite, potentially commoditizing PagerDuty's core offering. No direct performance data provided, but positioned as a platform giant creating headwinds for PagerDuty."
       }
     ]
   }

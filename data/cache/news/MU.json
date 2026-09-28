@@ -1,238 +1,338 @@
 [
   {
-    "id": "cc7d5654be73d08fe5ce37883763ec316d39e5aec0a0f8227a1d26d0ba054934",
+    "id": "5c303f3042c21b214fc4052b8f56f650866981efd451cea0693b55d2dc3ff0e8",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Here Are My Top 5 Stocks for September",
-    "author": "Keithen Drury",
-    "published_utc": "2026-09-03T15:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/here-are-my-top-5-stocks-for-september/?source=iedfolrf0000001",
+    "title": "Nvidia's Record Buyback Couldn't Keep the Nasdaq Out of the Red on Monday Morning",
+    "author": "Anders Bylund",
+    "published_utc": "2026-09-28T16:23:13Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/nvidias-record-buyback-couldnt-lift-the-nasdaq/?source=iedfolrf0000001",
     "tickers": [
       "NVDA",
-      "TSM",
+      "AMD",
+      "QCOM",
       "MU",
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
+      "SKHY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885737%2Fperson-sitting-in-a-cafe-on-their-laptop.jpg&w=1200&op=resize",
-    "description": "As investors prepare for 2027, artificial intelligence remains the dominant market theme. The article recommends five stocks positioned to benefit from AI growth: semiconductor hardware suppliers (Nvidia, Taiwan Semiconductor Manufacturing, and Micron Technology) are expected to see strong demand, while cloud computing providers (Amazon and Alphabet) are capitalizing on massive data center investments to monetize AI infrastructure.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889396%2Fnvidia-headquarters-with-nvidia-sign-in-front.png&w=1200&op=resize",
+    "description": "The Nasdaq fell 1% on Monday despite Nvidia announcing a record $150 billion buyback expansion. Market weakness was driven by Trump rejecting Iran's peace proposal, causing oil prices to spike and Treasury yields to rise to their highest level since 2002. Most semiconductor stocks declined sharply, with only Nvidia gaining ground as energy was the only sector posting real gains.",
     "keywords": [
-      "artificial intelligence",
-      "semiconductors",
-      "cloud computing",
-      "data centers",
-      "hardware suppliers",
-      "computing capacity"
+      "stock market decline",
+      "Nvidia buyback",
+      "Iran geopolitical tensions",
+      "oil prices",
+      "semiconductor sector",
+      "Treasury yields",
+      "chip stocks"
     ],
     "insights": [
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Expected to grow at 70% pace in 2027, closing in on $100 billion quarterly revenue from GPU computing units. Described as a 'no-brainer stock to buy.'"
+        "sentiment_reasoning": "Stock rose 2.1% following announcement of $150 billion buyback expansion, the largest in US history, bringing total authorization to $235 billion. Also launched OpenShell safety platform."
       },
       {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wall Street analysts expect 34% sales growth in 2027 driven by massive AI hyperscaler demand. Positioned as a great buy for September and 2027."
+        "ticker": "AMD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 5.2% amid broad semiconductor sector downturn driven by rising Treasury yields and concerns about Federal rate increases."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 5.7% as part of widespread chip sector weakness due to geopolitical tensions and rising bond yields."
       },
       {
         "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected to achieve 85% revenue growth in fiscal 2027 due to increased demand for AI computing equipment. Described as a great investment with strong returns potential."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 3.7% amid memory stock selloff; facing additional pressure with earnings report scheduled for Wednesday evening."
       },
       {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS growth accelerated to 37% year-over-year in Q2 with $200 billion data center capital expenditures. Expected to see further growth as more computing capacity comes online."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud showed extreme growth acceleration from 63% in Q1 to 82% in Q2. Spending $200 billion on data center infrastructure with more growth expected in 2027."
+        "ticker": "SKHY",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 5.9%, experiencing the worst of Monday's semiconductor sector selling."
       }
     ]
   },
   {
-    "id": "c9edb026c12a1998be203634a5b409108c836e2c28c22526378e4ec59d742ff7",
+    "id": "d6f4a24710b8ce065211fd5308b7f51219806f122fad38a0c13ed68fc5adf0cb",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "The Fed's September Decision Could Hit Micron Harder Than Its Own Earnings",
-    "author": "Manali Pradhan, Cfa",
-    "published_utc": "2026-09-03T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/the-feds-september-decision-could-hit-micron-harde/?source=iedfolrf0000001",
+    "title": "United Kingdom NOR Flash Market (2026-2031) - ADAS and EV Platform Adoption Drives Growth",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-28T12:57:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3369885/28124/en/united-kingdom-nor-flash-market-2026-2031-adas-and-ev-platform-adoption-drives-growth.html",
     "tickers": [
       "MU",
-      "NVDA"
+      "MCHP",
+      "MCHPP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885155%2Fprofessionals_smiling_in_a_conference_room.jpg&w=1200&op=resize",
-    "description": "Micron Technology is expected to report strong Q4 earnings on September 30, but the Federal Reserve's interest rate decision on September 16 could have a greater impact on the stock. While Micron's financial results are exceptional with projected Q4 revenue of $49-51 billion and EPS of $30-32, a hawkish Fed decision could pressure the stock by reducing investor confidence in the sustainability of current memory pricing power, even if earnings estimates rise. The company's low valuation multiple suggests investors remain skeptical about whether extraordinary memory profits will persist.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The UK NOR Flash market is projected to grow from USD 106.64 million in 2026 to USD 134.82 million by 2031 at a 4.8% CAGR, driven by rising demand from automotive electronics, EV platforms, 5G infrastructure, and IoT deployments. However, limited domestic manufacturing capacity and supply chain vulnerabilities pose structural risks, with lead times reaching 24 weeks for automotive-grade components in 2026.",
     "keywords": [
-      "Federal Reserve interest rate decision",
-      "memory chip pricing",
-      "DRAM and NAND supply shortage",
-      "AI data center demand",
-      "earnings valuation multiple",
-      "customer contracts",
-      "monetary policy impact"
+      "NOR Flash memory",
+      "automotive electronics",
+      "EV platforms",
+      "5G infrastructure",
+      "ADAS",
+      "supply chain",
+      "octal/xSPI interfaces",
+      "smart meters",
+      "IoT",
+      "edge AI"
     ],
     "insights": [
       {
         "ticker": "MU",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Micron's fundamentals are strong with exceptional Q3 results and robust Q4 guidance, the article emphasizes downside risk from Fed policy rather than company performance. The low 6.2x earnings multiple reflects investor skepticism about profit sustainability. A hawkish Fed decision could pressure the stock despite strong earnings, making the near-term outlook uncertain despite solid operational metrics."
+        "sentiment_reasoning": "Listed among key competitors in the NOR Flash market but no specific product mentions or market positioning details provided in the article."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is mentioned as expecting roughly 70% revenue growth in fiscal 2028, indicating strong AI spending momentum. The article references Nvidia's growth expectations as evidence that an interest rate hike is unlikely to stop AI spending immediately, supporting continued demand for memory chips that benefit Micron."
+        "ticker": "MCHP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in vendor list but no specific market positioning, products, or competitive advantages detailed in the article."
+      },
+      {
+        "ticker": "MCHPP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in vendor list but no specific market positioning, products, or competitive advantages detailed in the article."
       }
     ]
   },
   {
-    "id": "467502690654126d6edc1cd09d922fc3de11c88bc148a8f9e6202687b3589c95",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Upbeat AI Data Centers Demand Propels SK Hynix: More Growth Ahead?",
-    "author": "Na",
-    "published_utc": "2026-09-03T14:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984434/upbeat-ai-data-centers-demand-propels-sk-hynix-more-growth-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2984434",
-    "tickers": [
-      "SKHY",
-      "NVDA",
-      "MU"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
-    "description": "SK Hynix, South Korea's second-largest company, is benefiting from surging demand for high-bandwidth memory (HBM) and advanced storage chips used in AI infrastructure. The company has secured a long-term partnership with NVIDIA and is building its first U.S. AI memory production facility in Indiana, expected to supply next-generation HBM starting in late 2029. Wall Street analysts project approximately 54% upside potential for the stock.",
-    "keywords": [
-      "SK Hynix",
-      "HBM",
-      "AI infrastructure",
-      "semiconductor",
-      "NVIDIA partnership",
-      "memory chips",
-      "data centers",
-      "Indiana fab"
-    ],
-    "insights": [
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong positioning in growing HBM market with NVIDIA partnership, expanding U.S. manufacturing capacity, early leadership advantage in AI memory, and Wall Street consensus showing 54% upside potential. Company benefits from exploding AI data center demand and global memory chip shortage."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured long-term AI memory partnership with SK Hynix ensuring stable supply of next-generation AI memory chips, supporting NVIDIA's AI infrastructure expansion and data center growth."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major HBM market player benefiting from rapid AI growth. Strong demand for HBM products with 2026 production sold out and significant 2027 capacity reserved through long-term agreements. Latest HBM solutions well-suited for AI accelerators."
-      }
-    ]
-  },
-  {
-    "id": "1fdc0d6c73eb30dd7b35bd88959e22e65be76bd5dccc4887241aa41f7ebfc705",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "If You Invested $1000 in Micron 10 Years Ago, This Is How Much You'd Have Now",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-03T12:30:04Z",
-    "article_url": "https://www.zacks.com/stock/news/2984222/if-you-invested-1000-in-micron-10-years-ago-this-is-how-much-you-d-have-now?cid=CS-ZC-FT-fundamental_analysis|investing_$1000-2984222",
-    "tickers": [
-      "MU"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default215.jpg",
-    "description": "A $1,000 investment in Micron Technology made in September 2016 would be worth $57,250.30 as of September 3, 2026, representing a 5,625% gain. This significantly outperformed the S&P 500 (251.68% gain) and gold (221.48% gain) over the same period. Micron is benefiting from AI-driven demand for memory and storage, with strong fiscal 2026 results and positive analyst forecasts, though risks include rising operating expenses and competition.",
-    "keywords": [
-      "Micron Technology",
-      "semiconductor memory",
-      "DRAM",
-      "NAND flash",
-      "AI data centers",
-      "stock performance",
-      "10-year returns",
-      "memory and storage"
-    ],
-    "insights": [
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional 10-year investment returns (5,625% gain), strong AI-driven demand for memory products, record Q3 fiscal 2026 results, improved analyst estimates with no downward revisions in two months, and positive outlook supported by strategic customer agreements and expanding opportunities in data centers, automotive, and edge AI."
-      }
-    ]
-  },
-  {
-    "id": "2d988c35d767031bbcfea75b5630832825b0454f254e8e94102f301ca088440b",
+    "id": "a816cebde30f55f2b43da5600ab3ff487cfb27b70d4816a8ece0f747343ad71f",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is Silicon Motion Technology Stock a Buy Now?",
-    "author": "Marc Guberti",
-    "published_utc": "2026-09-03T11:26:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/is-silicon-motion-technology-stock-a-buy-now/?source=iedfolrf0000001",
+    "title": "This S&P 500 ETF Could Help Protect You Against One of the Stock Market's Biggest Risks Right Now",
+    "author": "Stefon Walters",
+    "published_utc": "2026-09-27T11:19:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/this-sp-500-etf-could-help-protect-you-against-one/?source=iedfolrf0000001",
     "tickers": [
-      "SIMO",
+      "RSP",
+      "VOO",
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "TSLA",
+      "AVGO",
       "MU"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885435%2Fgettyimages-1417216728-1200x716-caa0466.jpg&w=1200&op=resize",
-    "description": "Silicon Motion Technology, a NAND flash controller manufacturer for solid-state drives, is positioned as an attractive investment opportunity. The company has delivered 127% year-over-year revenue growth with improving profit margins, while trading at a P/E ratio similar to the S&P 500 despite significantly higher growth. With major memory chip customers signing multiyear deals and long-term contracts locking in capacity through 2031, Silicon Motion is well-positioned to benefit from sustained AI infrastructure demand.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888872%2Fgettyimages-1166581794.jpg&w=1200&op=resize",
+    "description": "The S&P 500 has become heavily concentrated in large-cap tech stocks, with the top 10 holdings accounting for nearly 38% of the index. This concentration poses downside risk if tech stocks decline. The Invesco S&P 500 Equal Weight ETF (RSP) offers an alternative by weighting all S&P 500 companies equally, reducing tech sector exposure from 37.9% to 14.7% and providing better downside protection, though with lower upside potential.",
     "keywords": [
-      "NAND flash controllers",
-      "memory chips",
-      "AI infrastructure",
-      "solid-state drives",
-      "revenue growth",
-      "multiyear contracts",
-      "valuation"
+      "S&P 500 concentration risk",
+      "equal weight ETF",
+      "tech sector exposure",
+      "Magnificent Seven stocks",
+      "portfolio diversification",
+      "downside protection"
     ],
     "insights": [
       {
-        "ticker": "SIMO",
+        "ticker": "RSP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamentals with 127% YoY revenue growth, 30.2% net profit margins, and reasonable P/E valuation relative to growth rate. CEO guidance indicates continued momentum, and long-term customer contracts through 2031 provide visibility into sustained demand from AI infrastructure buildout."
+        "sentiment_reasoning": "Presented as a solution to mitigate concentration risk in the S&P 500; offers better downside protection with comparable long-term returns and more balanced sector exposure"
+      },
+      {
+        "ticker": "VOO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acknowledged as a solid investment but criticized for becoming overly concentrated in large-cap tech stocks, creating vulnerability to sector-specific downturns"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Highlighted as an example of extreme concentration risk; while successful, its dominance in the index creates vulnerability"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks that dominate the S&P 500; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the top 10 holdings contributing to S&P 500 concentration; mentioned as a concentration risk factor"
       },
       {
         "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the top 10 holdings contributing to S&P 500 concentration; mentioned as a concentration risk factor"
+      }
+    ]
+  },
+  {
+    "id": "87a9e3f40554de64acec7c8043da332d686c20e70850871c52d60419767e0f9d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: Micron Will Crush Earnings And...",
+    "author": "Geoffrey Seiler",
+    "published_utc": "2026-09-26T14:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/prediction-micron-will-crush-earnings-and-it-wont/?source=iedfolrf0000001",
+    "tickers": [
+      "MU",
+      "SKHY",
+      "ASML"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888821%2Fmicron.png&w=1200&op=resize",
+    "description": "Micron Technology is expected to report strong fiscal Q4 earnings driven by the AI-driven memory supercycle, with surging demand for DRAM and NAND. However, despite blowout results, the stock may not rally significantly as investors are increasingly concerned about when the memory supercycle will end. Micron's lower HBM market share (18% vs competitors' 50%+ shares) makes it more exposed to potential pullbacks in conventional DRAM and NAND prices.",
+    "keywords": [
+      "memory supercycle",
+      "DRAM",
+      "NAND",
+      "HBM (high-bandwidth memory)",
+      "AI chips",
+      "supply constraints",
+      "earnings report",
+      "market cycle"
+    ],
+    "insights": [
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Micron is positioned for strong earnings due to favorable supply-demand dynamics in the memory market, the article suggests the stock may not benefit from the earnings beat. Investors are increasingly wary of the supercycle's duration, and Micron's lower HBM market share (18%) compared to competitors makes it more vulnerable to price pullbacks in conventional DRAM and NAND."
+      },
+      {
+        "ticker": "SKHY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a key customer of Silicon Motion that has been beating guidance and signing multiyear deals. Recent earnings showed significant revenue beats ($41.46B vs $33.5B guidance), indicating strong demand for memory chips."
+        "sentiment_reasoning": "SK Hynix has a 50% market share in HBM production, significantly higher than Micron's 18%, positioning it better to benefit from the high-margin HBM demand driven by AI chip companies seeking long-term supply agreements."
+      },
+      {
+        "ticker": "ASML",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ASML is the sole manufacturer of extreme ultraviolet (EUV) lithography machines critical for HBM production, creating a significant bottleneck that benefits the company as demand for these machines surges with the memory supercycle."
+      }
+    ]
+  },
+  {
+    "id": "f18fa6f3eb603d94411ab0aa97b9f1e574deb2501aa35fbac8b87906fdb37de5",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Warren Buffett's Time-Tested Advice.",
+    "author": "Anthony Di Pizio",
+    "published_utc": "2026-09-25T15:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/prediction-stock-market-crash-warren-buffetts-advi/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "MU",
+      "AXP",
+      "KO",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888742%2Fwarren-buffett-smiling-while-giving-a-talk-on-stage.jpeg&w=1200&op=resize",
+    "description": "The article warns that the S&P 500 is vulnerable to a crash due to mounting risks including surging oil prices from Middle East geopolitical conflict, rising inflation, Federal Reserve interest rate hikes, and potential slowdown in AI development. The author cites the S&P 500's elevated valuation (second-highest in history) and recommends following Warren Buffett's time-tested advice: view downturns as buying opportunities, focus on long-term fundamentals, and avoid panic selling.",
+    "keywords": [
+      "stock market crash",
+      "S&P 500 valuation",
+      "oil prices",
+      "inflation",
+      "interest rate hikes",
+      "artificial intelligence",
+      "Warren Buffett",
+      "geopolitical conflict",
+      "semiconductor stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as a leading chip stock vulnerable to rising interest rates and potential slowdown in AI infrastructure spending, which could impact its growth trajectory."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Listed as a semiconductor stock that has propped up the broader market and is at risk from reduced AI development pace and higher borrowing costs."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a chip stock vulnerable to the same headwinds affecting the semiconductor sector, including AI slowdown and rising interest rates."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as an example of a long-term holding that has thrived despite market downturns, illustrating Buffett's buy-and-hold philosophy."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as an example of a decades-long holding that has performed well despite numerous market sell-offs, supporting the long-term investment thesis."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a model for long-term investing success under Warren Buffett's leadership, demonstrating superior returns and resilience through market cycles."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a model for long-term investing success under Warren Buffett's leadership, demonstrating superior returns and resilience through market cycles."
       }
     ]
   }

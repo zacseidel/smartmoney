@@ -1,285 +1,368 @@
 [
   {
-    "id": "b01f28feeb87afb1b1269383f903a4e2284c2e24121b1eb70a61fa9daf023143",
+    "id": "6761185a86baaa64117ad2e93f72a6505f4fcbfeccb058c262b4c519e150c8d6",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "I'm Calling It: Bloom Energy's Revenue Guidance Will Keep Surprising Wall Street Through Year-End",
-    "author": "James Brumley",
-    "published_utc": "2026-09-03T17:14:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/im-calling-it-bloom-energys-revenue-guidance-keeps/?source=iedfolrf0000001",
+    "title": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run?",
+    "author": "Chris Neiger",
+    "published_utc": "2026-09-28T09:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/oracle-vs-salesforce-which-enterprise-ai-stock-has/?source=iedfolrf0000001",
     "tickers": [
-      "BE",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884853%2Fai-data-center.jpg&w=1200&op=resize",
-    "description": "Bloom Energy, a fuel cell manufacturer, has raised its full-year revenue guidance to $3.9-$4.2 billion (up from $3.4-$3.8 billion) driven by surging demand for AI data center power solutions. With Q2 revenue reaching $1.0 billion and expanding partnerships with Oracle and MiTAC, the company is well-positioned to continue delivering positive surprises through year-end as AI infrastructure investments remain robust.",
-    "keywords": [
-      "AI data centers",
-      "fuel cells",
-      "revenue guidance",
-      "power infrastructure",
-      "solid-oxide fuel cells",
-      "natural gas power generation"
-    ],
-    "insights": [
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrated exceptional Q2 revenue growth of 165.5% YoY, raised full-year guidance significantly, and is expanding strategic partnerships with major clients (Oracle, MiTAC) amid strong AI data center demand. The article projects continued positive surprises through year-end."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle's expanding partnership with Bloom Energy (from 1.2 to 2.8 gigawatts) indicates strong capital investment in AI data center infrastructure and growing power needs, reflecting robust AI infrastructure expansion."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle's expanding partnership with Bloom Energy (from 1.2 to 2.8 gigawatts) indicates strong capital investment in AI data center infrastructure and growing power needs, reflecting robust AI infrastructure expansion."
-      }
-    ]
-  },
-  {
-    "id": "25838d4bbbdb3110b65c088f995ffd3fb8aa72ead223585575aac416c202cb04",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Zoom Appoints Former Oracle CFO Jeff Epstein to Board of Directors; Jonathan Chadwick to Retire",
-    "author": "Not Specified",
-    "published_utc": "2026-09-02T20:44:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355535/0/en/zoom-appoints-former-oracle-cfo-jeff-epstein-to-board-of-directors-jonathan-chadwick-to-retire.html",
-    "tickers": [
-      "ZM",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/1a5e6f52-9a8e-432b-84cc-7dfb0e6623e2",
-    "description": "Zoom announced the appointment of Jeff Epstein, former EVP and CFO of Oracle and current Operating Partner at Bessemer Venture Partners, to its Board of Directors effective immediately. Epstein brings extensive financial and strategic leadership experience in B2B software and AI. Jonathan Chadwick will retire from Zoom's board after nearly ten years of service, effective November 19, 2026.",
-    "keywords": [
-      "board appointment",
-      "Jeff Epstein",
-      "CFO",
-      "Oracle",
-      "Bessemer Venture Partners",
-      "Jonathan Chadwick",
-      "board retirement",
-      "B2B software",
-      "AI"
-    ],
-    "insights": [
-      {
-        "ticker": "ZM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Appointment of an experienced executive with strong credentials (former Oracle CFO, board member at multiple successful tech companies) strengthens board governance and strategic direction, particularly in AI and B2B software areas."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as Epstein's former employer; no direct business impact or news related to Oracle itself."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as Epstein's former employer; no direct business impact or news related to Oracle itself."
-      }
-    ]
-  },
-  {
-    "id": "5d139890550872caf8a016bfb95877c13c0a37f99c21f4b13f5520e8f41d940c",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Smart Grid Market to Reach $161.15 Billion, at a 16.9% CAGR by 2029 | MarketsandMarkets\u2122",
-    "author": "Marketsandmarkets",
-    "published_utc": "2026-09-02T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355291/0/en/smart-grid-market-to-reach-161-15-billion-at-a-16-9-cagr-by-2029-marketsandmarkets.html",
-    "tickers": [
-      "CSCO",
       "ORCL",
       "ORCLpD",
-      "ABBNY",
-      "SBGSY",
-      "MIELY"
+      "CRM",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-    "description": "The global smart grid market is expected to grow from USD 73.85 billion in 2024 to USD 161.15 billion by 2029, at a CAGR of 16.9%. Growth is driven by renewable energy integration, grid modernization initiatives, increasing electrification, and rising energy demand. North America leads the market, while Asia Pacific is the fastest-growing region.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887828%2Fgettyimages-1267191201-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "Oracle and Salesforce are both investing heavily in AI, but with different approaches. Oracle is building expensive cloud infrastructure for AI computing with strong revenue growth (121% YoY), but faces concerns about massive capex spending ($28.5B in Q1) and delays on its $165B Project Jupiter data center. Salesforce is integrating AI agents into its CRM software through partnerships with Alphabet and Anthropic, showing strong quarterly results (11% sales growth) with lower capital intensity. The analyst favors Salesforce as the better enterprise AI stock due to lower risk and more proven product-market fit, though both companies could be long-term winners.",
     "keywords": [
-      "smart grid",
-      "market growth",
-      "renewable energy",
-      "grid modernization",
-      "electrification",
-      "North America",
-      "Asia Pacific"
+      "enterprise AI",
+      "cloud infrastructure",
+      "AI agents",
+      "capital expenditure",
+      "software integration",
+      "AI partnerships"
     ],
     "insights": [
       {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major companies in smart grid market, benefiting from increased demand for communication networks and connectivity infrastructure in modernized grids."
-      },
-      {
         "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a major player in smart grid market, positioned to benefit from analytics and data management requirements in intelligent grid infrastructure."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle shows strong cloud infrastructure growth (121% YoY) and secured major AI contracts, but faces significant headwinds from massive capex spending ($28.5B), Project Jupiter delays, and investor skepticism about ROI on expensive data center investments. Stock down 55% over 12 months."
       },
       {
         "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a major player in smart grid market, positioned to benefit from analytics and data management requirements in intelligent grid infrastructure."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle shows strong cloud infrastructure growth (121% YoY) and secured major AI contracts, but faces significant headwinds from massive capex spending ($28.5B), Project Jupiter delays, and investor skepticism about ROI on expensive data center investments. Stock down 55% over 12 months."
       },
       {
-        "ticker": "ABBNY",
+        "ticker": "CRM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player in the expanding smart grid market, positioned to benefit from increased adoption driven by renewable energy integration and grid modernization."
+        "sentiment_reasoning": "Salesforce demonstrates successful AI integration through partnerships with Alphabet and Anthropic, strong quarterly results (11% sales growth, earnings more than doubled), and lower capital intensity compared to Oracle. Stock up 55% over past 3 months despite some product concerns. Analyst recommends it as the better choice with lower risk."
       },
       {
-        "ticker": "SBGSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in smart grid market positioned to capitalize on grid modernization initiatives and increasing demand for energy management solutions globally."
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
       },
       {
-        "ticker": "MIELY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major company in growing smart grid market with exposure to automation and advanced metering technologies driving market expansion."
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
       }
     ]
   },
   {
-    "id": "c4680b73afff878d7237d6b9e6a178ae1a3b7e19b1de9cb9fd4de086d7b736aa",
+    "id": "f90619e4d8a5bbef1b9ea8dafc80ca8b1244a7f8fcae0aaea1c1e9807a582177",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "What Is a Small Modular Reactor, and Why Is Big Tech Signing Multi-Decade Deals for Them?",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-01T17:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/01/what-is-a-small-modular-reactor-and-why-is-big-tec/?source=iedfolrf0000001",
+    "title": "Intuit vs. Oracle: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-26T15:12:54Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/26/intuit-vs-oracle-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
+      "INTU",
+      "ORCL",
+      "ORCLpD",
+      "AMZN",
+      "AAPL",
+      "MSFT",
+      "CRM",
+      "SAP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Intuit and Oracle as investment options in 2026. Intuit dominates personal tax and small business accounting with $21.4B in revenue and strong profitability (21.3% net margin), but faces AI disruption risks and seasonal business challenges. Oracle is pivoting to cloud infrastructure with faster growth (17.4% revenue increase) and a $600B+ backlog, but carries higher debt (3.7x debt-to-equity) and negative free cash flow due to aggressive data center spending. The author recommends Oracle for patient long-term investors despite higher risks, citing stronger AI infrastructure upside potential.",
+    "keywords": [
+      "cloud infrastructure",
+      "AI disruption",
+      "fintech",
+      "enterprise software",
+      "data centers",
+      "valuation comparison",
+      "free cash flow",
+      "debt-to-equity ratio"
+    ],
+    "insights": [
+      {
+        "ticker": "INTU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong market position and profitability with 21.3% net margin and lower valuation metrics (P/E 16.72), but facing headwinds from slower growth guidance, seasonal business concentration, and AI disruption risks to core tax and accounting businesses."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy despite higher risks; cloud infrastructure revenue more than doubled, fastest revenue growth in years (17.4%), and $600B+ backlog signals strong AI infrastructure demand. However, negative free cash flow, high debt (3.7x), and OpenAI customer concentration present material risks."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy despite higher risks; cloud infrastructure revenue more than doubled, fastest revenue growth in years (17.4%), and $600B+ backlog signals strong AI infrastructure demand. However, negative free cash flow, high debt (3.7x), and OpenAI customer concentration present material risks."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a cloud services partner for Intuit; no direct investment thesis provided in the article."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a platform through which Intuit distributes apps; no direct investment thesis provided in the article."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a multicloud partnership competitor for Oracle; no direct investment thesis provided in the article."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Oracle in enterprise software market; no direct investment thesis provided in the article."
+      },
+      {
+        "ticker": "SAP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Oracle in enterprise software market; no direct investment thesis provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "708f37ad1720c076a2de482b7b9acd9ba695e4ed2e7b10d5a1e8310d330d68a8",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Today, Sept. 25: Microsoft Stock Jumps 4% After Revamping Copilot With Code Generation and Agentic AI Tools",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-09-25T21:25:49Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/25/stock-market-today-sept-25-microsoft-stock-jumps-4-after-revamping-copilot-with-code-generation-and-agentic-ai-tools/?source=iedfolrf0000001",
+    "tickers": [
+      "MSFT",
+      "ORCL",
+      "ORCLpD",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F23fc1b822f8eafa9d627ca7fbac8d5b39aebf467-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Microsoft stock rose 3.66% to $516.17 after announcing new Copilot capabilities including code generation and agentic AI tools. The company is spending over $115 billion on capex for data centers and AI infrastructure in 2026. While the market reacted positively, investors should monitor AI adoption rates and ROI on these massive investments in the coming quarters.",
+    "keywords": [
+      "Microsoft Copilot",
+      "AI tools",
+      "code generation",
+      "agentic AI",
+      "capital expenditure",
+      "cloud infrastructure",
+      "AI adoption",
+      "stock market"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 3.66% following announcement of enhanced Copilot capabilities with code generation and agentic AI features. Trading volume exceeded average by 15%. Valuation at 21x cash from operations is below 5-year average, suggesting upside potential if AI investments deliver ROI."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 1.75% to $137.10. Market focus on Microsoft's AI cloud capabilities and spending plans appears to have shifted investor attention away from Oracle as a competing enterprise software provider."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 1.75% to $137.10. Market focus on Microsoft's AI cloud capabilities and spending plans appears to have shifted investor attention away from Oracle as a competing enterprise software provider."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose 0.46% to $343.92. Modest gain reflects broader market movement and continued investor focus on AI cloud demand, though no specific company-related news drove the movement."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose 0.46% to $343.92. Modest gain reflects broader market movement and continued investor focus on AI cloud demand, though no specific company-related news drove the movement."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose 0.46% to $343.92. Modest gain reflects broader market movement and continued investor focus on AI cloud demand, though no specific company-related news drove the movement."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose 0.46% to $343.92. Modest gain reflects broader market movement and continued investor focus on AI cloud demand, though no specific company-related news drove the movement."
+      }
+    ]
+  },
+  {
+    "id": "517ef2f43afb45ebef5dc0886103ecaa8a976d33a293daad7c58bf030aef571b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "AMD Just Joined Nvidia in the $1 Trillion Club. At $614, Wall Street Is Paying Too Much for a Distant No. 2.",
+    "author": "Adam Spatacco",
+    "published_utc": "2026-09-25T11:03:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/amd-just-joined-nvidia-in-the-1-trillion-club-at-6/?source=iedfolrf0000001",
+    "tickers": [
+      "AMD",
+      "NVDA",
+      "META",
+      "MSFT",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888744%2Famd-and-nvda-logos.png&w=1200&op=resize",
+    "description": "AMD reached a $1 trillion market cap, joining Nvidia in an exclusive club. However, the article argues AMD is overvalued as a distant second in the AI accelerator market. While AMD has secured major deals with OpenAI, Meta, Anthropic, Oracle, and Microsoft, its data center revenue ($6.7B quarterly) significantly lags Nvidia's ($89B quarterly). AMD trades at a P/E of 158 (forward: 81) versus Nvidia's 28 (forward: 24), suggesting investors are paying a premium for inferior market position and thinner margins.",
+    "keywords": [
+      "AMD",
+      "Nvidia",
+      "AI accelerators",
+      "semiconductor stocks",
+      "market valuation",
+      "data center revenue",
+      "GPU market share",
+      "valuation multiples"
+    ],
+    "insights": [
+      {
+        "ticker": "AMD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Article argues AMD is overvalued at $1 trillion with a P/E of 158. Despite strong growth and major AI deals, AMD holds only 5% GPU market share versus Nvidia's dominance. The author recommends trimming exposure and warns against chasing momentum at current prices."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nvidia is positioned as the clear market leader with $89B quarterly data center revenue, superior software stack (CUDA), networking advantages, and first-mover GPU design benefits. Trading at reasonable multiples (P/E 28 trailing, 24 forward) compared to AMD."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer committing 6 gigawatts of AMD GPUs. Represents AMD's customer base but no direct sentiment on Meta's business is expressed."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as integrating AMD's Helios into Azure for AI inference. Mentioned as a customer but no specific sentiment on Microsoft's business performance is provided."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as ordering 50,000 MI450 Instinct GPUs from AMD. Included as a hyperscaler customer without sentiment commentary."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as ordering 50,000 MI450 Instinct GPUs from AMD. Included as a hyperscaler customer without sentiment commentary."
+      }
+    ]
+  },
+  {
+    "id": "8a1a92af8cbb53a6f01f29fdd0bdb302094da102273a7e1cb3934ada28c17ca6",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Microservices in Healthcare Market Set for Strong Growth Through 2035 as Cloud Adoption, Modular Applications and Digital Transformation Unlock New Opportunities",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-25T09:32:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368981/28124/en/microservices-in-healthcare-market-set-for-strong-growth-through-2035-as-cloud-adoption-modular-applications-and-digital-transformation-unlock-new-opportunities.html",
+    "tickers": [
+      "AMZN",
+      "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "AMZN",
       "ORCL",
       "ORCLpD",
-      "SMR",
-      "OKLO",
-      "GEV"
+      "IBM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885851%2Fnuclear-power.jpg&w=1200&op=resize",
-    "description": "Small modular reactors (SMRs) are compact nuclear reactors producing up to 300 MWe per unit, much smaller than conventional plants. Major tech companies including Google, Amazon, and Oracle are signing multi-decade deals for SMR capacity, driven by rising power demands from cloud infrastructure and AI markets. Key SMR producers NuScale, Oklo, and GE Vernova are positioned to benefit from this growing demand.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global Microservices in Healthcare Market is projected to grow from $1.95 billion in 2025 to $11.11 billion by 2035, expanding at a 19.1% CAGR. Growth is driven by healthcare digital transformation, cloud adoption, interoperability demands, and AI/IoT integration. North America leads with 42% market share, while cloud-based deployment accounts for 68% of revenue. Major players include AWS, Microsoft Azure, Google Cloud, Epic Systems, Oracle Health, and IBM.",
     "keywords": [
-      "small modular reactors",
-      "SMR",
-      "nuclear energy",
-      "cloud infrastructure",
-      "AI power demands",
-      "decarbonization",
-      "tech companies"
+      "microservices",
+      "healthcare",
+      "cloud adoption",
+      "digital transformation",
+      "interoperability",
+      "AI",
+      "IoT",
+      "telehealth",
+      "electronic health records",
+      "market growth"
     ],
     "insights": [
       {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS is identified as one of three hyperscalers supporting 71% of foundational cloud computing for healthcare microservices globally, with AWS for Health being a key offering driving market growth."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Microsoft Azure is highlighted as a major infrastructure provider with Microsoft Cloud for Healthcare, supporting significant portion of the 71% hyperscaler market share in healthcare microservices."
+      },
+      {
         "ticker": "GOOG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity expansion, positioning itself to secure reliable power for AI and cloud operations over the next two decades."
+        "sentiment_reasoning": "Google Cloud is recognized as one of three dominant hyperscalers with healthcare data capabilities, contributing to the 71% collective market share supporting healthcare microservices infrastructure."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity expansion, positioning itself to secure reliable power for AI and cloud operations over the next two decades."
+        "sentiment_reasoning": "Google Cloud is recognized as one of three dominant hyperscalers with healthcare data capabilities, contributing to the 71% collective market share supporting healthcare microservices infrastructure."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity expansion, positioning itself to secure reliable power for AI and cloud operations over the next two decades."
+        "sentiment_reasoning": "Google Cloud is recognized as one of three dominant hyperscalers with healthcare data capabilities, contributing to the 71% collective market share supporting healthcare microservices infrastructure."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity expansion, positioning itself to secure reliable power for AI and cloud operations over the next two decades."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed multi-decade SMR deals to support expanding cloud infrastructure and AI market demands, securing long-term clean energy supply."
+        "sentiment_reasoning": "Google Cloud is recognized as one of three dominant hyperscalers with healthcare data capabilities, contributing to the 71% collective market share supporting healthcare microservices infrastructure."
       },
       {
         "ticker": "ORCL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity, addressing growing power needs for cloud and AI services."
+        "sentiment_reasoning": "Oracle Health is mentioned as an established healthcare technology company modernizing legacy platforms with modular and cloud-compatible architectures to capture growing microservices demand."
       },
       {
         "ticker": "ORCLpD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Signed framework and deployment deals for SMR capacity, addressing growing power needs for cloud and AI services."
+        "sentiment_reasoning": "Oracle Health is mentioned as an established healthcare technology company modernizing legacy platforms with modular and cloud-compatible architectures to capture growing microservices demand."
       },
       {
-        "ticker": "SMR",
+        "ticker": "IBM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Key SMR producer positioned to benefit from surging power demands from cloud infrastructure and AI markets over the next few decades."
-      },
-      {
-        "ticker": "OKLO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Produces different types of SMRs and microreactors, well-positioned to capitalize on growing demand from tech companies and data centers."
-      },
-      {
-        "ticker": "GEV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SMR producer expected to benefit from surging power demands driven by cloud infrastructure and AI market expansion."
-      }
-    ]
-  },
-  {
-    "id": "6733b815a33aa568862559ce5100afb0cbfeb65e5b98c5933cab4ecb1bdc279b",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Oracle (ORCL) is Poised to Beat Earnings Estimates Again",
-    "author": "Na",
-    "published_utc": "2026-09-01T16:10:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2983317/why-oracle-orcl-is-poised-to-beat-earnings-estimates-again?cid=CS-ZC-FT-fundamental_analysis|yseop_template_7-2983317",
-    "tickers": [
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default302.jpg",
-    "description": "Oracle (ORCL) is highlighted as a stock likely to beat upcoming earnings estimates, with a positive Earnings ESP of +2.08% and a Zacks Rank #2 (Buy) rating. The company has demonstrated a strong track record of beating consensus estimates, with an average surprise of 6.47% over the past two quarters.",
-    "keywords": [
-      "earnings beat",
-      "Earnings ESP",
-      "Oracle",
-      "consensus estimate",
-      "Zacks Rank",
-      "earnings surprise"
-    ],
-    "insights": [
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle demonstrates a strong earnings-beat streak with an average surprise of 6.47% over the past two quarters. The company has a positive Earnings ESP of +2.08% combined with a Zacks Rank #2 (Buy), indicating high probability of another earnings beat. Historical performance shows consistent outperformance against consensus estimates."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle demonstrates a strong earnings-beat streak with an average surprise of 6.47% over the past two quarters. The company has a positive Earnings ESP of +2.08% combined with a Zacks Rank #2 (Buy), indicating high probability of another earnings beat. Historical performance shows consistent outperformance against consensus estimates."
+        "sentiment_reasoning": "IBM is identified as an established healthcare technology company modernizing platforms through microservices architectures, benefiting from the market's 19.1% projected CAGR growth."
       }
     ]
   }

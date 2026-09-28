@@ -1,214 +1,263 @@
 [
   {
-    "id": "64bbc6bbd650ac24a8719f26464255418fe3debbd721578d271f988793b11000",
+    "id": "d07a7834b753f56ec0ad85e07cdf06a4c884d30e83817d4282095155bb79821f",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Intuit or PayPal: Which Fintech Is Built for Future Growth?",
-    "author": "Na",
-    "published_utc": "2026-08-31T18:21:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2982797/intuit-or-paypal-which-fintech-is-built-for-future-growth?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2982797",
+    "title": "FreeFunder Eliminates Payment Processing Fees with Launch of \"Really, Truly Free Personal Crowdfunding\"",
+    "author": "Not Specified",
+    "published_utc": "2026-09-28T14:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3369970/0/en/freefunder-eliminates-payment-processing-fees-with-launch-of-really-truly-free-personal-crowdfunding.html",
     "tickers": [
-      "INTU",
       "PYPL"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d0/2097.jpg",
-    "description": "Intuit and PayPal are both investing heavily in AI and expanding their financial services ecosystems. However, Intuit appears better positioned for long-term growth with stronger revenue growth (14% YoY), broader cross-selling opportunities, and more established growth engines across QuickBooks, payments, and mid-market solutions. PayPal is undergoing a multiyear transformation focused on Venmo, BNPL, and financial services, but faces slower growth (5% YoY) and execution challenges. Both stocks carry a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/bd5b55f9-bd53-43b5-a1e4-ee6b760d6727",
+    "description": "FreeFunder announced the launch of 'Really, Truly Free Personal Crowdfunding,' featuring Off-Platform Donations that allow campaign organizers to receive 100% of donations without payment processing fees. The feature enables direct payments through PayPal, Venmo, and Cash App while maintaining full crowdfunding platform functionality and transparency.",
     "keywords": [
-      "fintech",
-      "artificial intelligence",
-      "financial services",
-      "digital payments",
-      "growth strategy",
-      "ecosystem expansion",
-      "BNPL",
-      "monetization"
+      "crowdfunding",
+      "payment processing fees",
+      "off-platform donations",
+      "PayPal",
+      "Venmo",
+      "Cash App",
+      "fee-free fundraising",
+      "personal campaigns"
     ],
     "insights": [
       {
-        "ticker": "INTU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fiscal 2026 performance with 14% revenue growth, 20% EPS growth, and solid momentum across QuickBooks, payments, and mid-market solutions. AI adoption is meaningful with 75%+ of Enterprise Suite customers using AI agents monthly. Multiple growth levers and diversified ecosystem provide sustained growth paths."
-      },
-      {
         "ticker": "PYPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Undergoing multiyear transformation with modest 5% revenue growth and only 1.3% EPS growth. While Venmo shows promise (50%+ YoY growth in debit card accounts) and financial services expansion is strategic, execution remains uncertain. Operating income declined 8% in Q2, and active accounts are nearly flat, indicating engagement challenges."
+        "sentiment_reasoning": "PayPal is mentioned as one of several payment options available through the new feature. While this expands PayPal's utility in the crowdfunding space, the article does not indicate any direct business impact or partnership details."
       }
     ]
   },
   {
-    "id": "51d314a1ff422e5259fb23cca957cd734a665ed76b623973ce3eeaac359c2556",
+    "id": "526d0e00348621f2b5c856465dc2b7864c956e974abd4b193cd3611f6d04dff8",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why PayPal Stock Just Crashed",
-    "author": "Rich Smith",
-    "published_utc": "2026-08-28T17:14:40Z",
-    "article_url": "https://www.fool.com/investing/2026/08/28/why-paypal-stock-just-crashed/?source=iedfolrf0000001",
-    "tickers": [
-      "PYPL",
-      "XYZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885610%2Fred-down-arrow-on-a-black-backdrop-of-tickertape-prices.jpg&w=1200&op=resize",
-    "description": "PayPal rejected a $60.50 per share acquisition offer from Stripe, Advent, and Block worth $53 billion, seeking higher compensation. After the bidders withdrew their offer, PayPal stock plummeted 12% to $54. However, the stock remains fairly valued at under 12x earnings with potential for future acquisition interest.",
-    "keywords": [
-      "PayPal acquisition",
-      "stock crash",
-      "Stripe",
-      "Advent",
-      "rejected offer",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "PYPL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock crashed 12.24% after rejecting a $60.50/share buyout offer. However, the article notes the stock remains fairly valued at current levels (~$54) with potential upside if alternative buyers emerge."
-      },
-      {
-        "ticker": "XYZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Block was part of the acquisition consortium but the failed deal has minimal direct impact on the company. Mentioned only as a participant in the withdrawn offer."
-      }
-    ]
-  },
-  {
-    "id": "2ac56a2dae31a7fa9b0dfebac88d66eb704f796c9c972e8afa6b0826de329d67",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Block Pushes Square Further Into Restaurants: Can Growth Accelerate?",
-    "author": "Na",
-    "published_utc": "2026-08-27T17:04:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2981398/block-pushes-square-further-into-restaurants-can-growth-accelerate?cid=CS-ZC-FT-analyst_blog|quick_take-2981398",
-    "tickers": [
-      "XYZ",
-      "PYPL",
-      "ADYEY"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/18/2156.jpg",
-    "description": "Block's Square division is expanding its restaurant business with partnerships like Cascadia Pizza Co., OpenTable, and The Baked Bear. In Q2 2026, Square's food-and-beverage GPV grew 20% and overall gross profit increased 13% to $1.16 billion. Block reported strong profitability with $3.17 billion gross profit and expects $12.51 billion in full-year 2026 gross profit. Competitors PayPal and Adyen are also expanding their payment partnerships in the restaurant and software sectors.",
-    "keywords": [
-      "payment processing",
-      "restaurant technology",
-      "Square expansion",
-      "GPV growth",
-      "fintech partnerships",
-      "merchant services"
-    ],
-    "insights": [
-      {
-        "ticker": "XYZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 2026 results with 13% GPV growth, 20% food-and-beverage GPV growth, 25% gross profit increase, and positive EPS revisions. Stock outperformed S&P 500 with 15.6% gain over three months. Strategic restaurant partnerships and expanded field sales support growth momentum."
-      },
-      {
-        "ticker": "PYPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanded partnership with Rainforest in February 2026 to embed payments into vertical software platforms, demonstrating competitive positioning and growth in embedded payments integration."
-      },
-      {
-        "ticker": "ADYEY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanded partnership with Toast into the U.S. market in August 2026, supporting faster settlement and international scaling. Toast's significant GPV volume ($215 billion) indicates strong market opportunity."
-      }
-    ]
-  },
-  {
-    "id": "27c012bddbb561bb84bb3ddd6765ad73436c3fc6ecd471bb755ed4f51327bc34",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Is Paypal (PYPL) Up 5.9% Since Last Earnings Report?",
-    "author": "Na",
-    "published_utc": "2026-08-27T15:30:20Z",
-    "article_url": "https://www.zacks.com/stock/news/2981186/why-is-paypal-pypl-up-5-9-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2981186",
-    "tickers": [
-      "PYPL",
-      "WEX"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default247.jpg",
-    "description": "PayPal reported Q2 2026 earnings of $1.38 EPS (beating estimates by 7.81%) and revenues of $8.68 billion (up 5% YoY), driven by strong TPV growth of 10% and momentum in Venmo and Braintree. However, operating margins contracted 248 basis points due to continued investment spending. Despite raising full-year guidance, estimate revisions have trended downward over the past month, resulting in a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "earnings beat",
-      "revenue growth",
-      "TPV growth",
-      "margin compression",
-      "estimate revisions",
-      "guidance raise",
-      "Venmo momentum",
-      "Braintree"
-    ],
-    "insights": [
-      {
-        "ticker": "PYPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While PayPal beat Q2 earnings estimates and raised full-year guidance with strong TPV and transaction growth, the stock received a Hold rating due to downward estimate revisions over the past month and margin compression from increased investment spending. The mixed signals of operational strength offset by analyst pessimism warrant a neutral stance."
-      },
-      {
-        "ticker": "WEX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wex showed strong revenue growth of 14.2% YoY and significant EPS improvement, with positive earnings expectations for the current quarter. However, it also carries a Zacks Rank #3 (Hold) rating and a poor VGM Score of D, suggesting limited upside potential despite solid fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "6dc8c99829187324e9f03c4d470a3f626172e4c14fbda679370761663b5c3c15",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "PayPal Grows Its Volume Every Year. Here's Why the Stock Doesn't Always Follow.",
-    "author": "Neil Patel",
-    "published_utc": "2026-08-14T17:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/14/paypal-grows-volume-every-year-why-the-stock-down/?source=iedfolrf0000001",
+    "title": "Is PayPal a Deep Value Play Right Now?",
+    "author": "Rick Orford",
+    "published_utc": "2026-09-28T10:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/is-paypal-a-deep-value-play-right-now/?source=iedfolrf0000001",
     "tickers": [
       "PYPL",
       "AAPL",
-      "EBAY"
+      "SHOP",
+      "META"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881576%2Fperson-holding-phone-with-paypal-app-2_paypal.jpg&w=1200&op=resize",
-    "description": "PayPal's total payment volume grew 10% year-over-year to $486 billion in Q2, but the stock remains down 81% from its 2021 peak. The company's most profitable segment, online branded checkout, has significantly underperformed with only 2% TPV growth in Q2, compared to 26% annualized growth during 2018-2021. Intense competition from Apple Pay and weak branded checkout performance are pressuring the stock despite overall business growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888215%2Fgettyimages-2074435669-1200x800-5b2df79-1-1.jpg&w=1200&op=resize",
+    "description": "PayPal's stock has fallen dramatically from pandemic highs and now trades at a steep discount (forward P/E of ~10x vs. 15x for financial industry). New CEO Enrique Lores is driving a turnaround focused on Venmo, Buy Now Pay Later, cost reduction, and AI-powered commerce. While the company faces real competition in checkout and slower growth, improving cash flow and new growth initiatives suggest the valuation could represent a bargain if management can stabilize the core business.",
     "keywords": [
-      "PayPal",
-      "total payment volume",
-      "digital payments",
-      "branded checkout",
-      "fintech",
-      "Apple Pay",
-      "stock performance",
-      "competition"
+      "PayPal valuation",
+      "deep value stock",
+      "CEO turnaround",
+      "AI commerce",
+      "cash flow generation",
+      "checkout competition",
+      "Venmo monetization",
+      "BNPL expansion"
     ],
     "insights": [
       {
         "ticker": "PYPL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite growing TPV by 10% YoY and strong overall metrics, PayPal's stock is down 81% from its 2021 peak. The critical weakness in its most profitable segment (online branded checkout) with only 2% TPV growth, combined with intense competition from Apple Pay and management's muted growth guidance, indicates deteriorating financial performance and limited near-term recovery prospects."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite significant headwinds, PayPal shows improving fundamentals with 5% revenue growth, 10% payment volume growth, strong cash flow generation, and new CEO driving strategic initiatives in AI commerce and Venmo monetization. The steep valuation discount suggests potential upside if the turnaround executes successfully."
       },
       {
         "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Apple Pay is highlighted as a major competitive threat to PayPal with an estimated 900 million global users, positioning Apple as a dominant force in the digital payments landscape and gaining market share from traditional payment processors."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat in digital payments through Apple Pay, but no specific analysis or sentiment provided in the article."
       },
       {
-        "ticker": "EBAY",
+        "ticker": "SHOP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "eBay is mentioned as part of PayPal's online branded checkout segment but receives no specific performance commentary, warranting a neutral stance with no clear positive or negative implications."
+        "sentiment_reasoning": "Mentioned as a competitor with Shop Pay gaining ground in online checkout against PayPal, but no detailed analysis provided."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as PayPal integrated Meta's Muse AI shopping assistant for agentic commerce, representing a partnership opportunity rather than competitive threat."
+      }
+    ]
+  },
+  {
+    "id": "bf097890b4d4b39959d2b2450b98b8bfa2cca8d91269fabe8d5ebd3ac356be1d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Meta's Muse AI Agent Sees Fastest Adoption Since ChatGPT. Time to Buy Meta Stock?",
+    "author": "Danny Vena, Cpa",
+    "published_utc": "2026-09-23T19:18:34Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/meta-s-muse-ai-agent-sees-fastest-adoption-since-chatgpt-time-to-buy-meta-stock/?source=iedfolrf0000001",
+    "tickers": [
+      "META",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL",
+      "SHOP",
+      "PYPL",
+      "EXPE"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3255aafcbd13925370a8646af43e20c479482f36-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Meta's Muse AI agent has achieved record-breaking adoption, surpassing ChatGPT's early growth with 2.8 million downloads in its first 12 days and 642,000 daily active users. Major partnerships with Shopify, PayPal, Expedia, Stripe, and Instacart are driving enterprise integration. With paid tiers at $20 and $100 monthly, analysts project significant revenue potential, with even 1% of Meta's 3.6 billion users subscribing to the $20 tier generating over $8.6 billion annually.",
+    "keywords": [
+      "AI agents",
+      "Muse AI",
+      "app adoption",
+      "monetization",
+      "enterprise partnerships",
+      "consumer AI",
+      "generative AI"
+    ],
+    "insights": [
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Muse demonstrates record-breaking adoption exceeding ChatGPT's early trajectory, strong user engagement metrics, high app store ratings (4.9/5), major enterprise partnerships, clear monetization pathways through paid tiers, and attractive valuation at 28x earnings. The AI agent addresses investor concerns about ROI on AI spending."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as owner of Android App Store where Muse achieved top ranking. No direct competitive threat or partnership mentioned, but represents indirect competition in the AI agent space through its own AI initiatives."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as owner of Android App Store where Muse achieved top ranking. No direct competitive threat or partnership mentioned, but represents indirect competition in the AI agent space through its own AI initiatives."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as owner of Android App Store where Muse achieved top ranking. No direct competitive threat or partnership mentioned, but represents indirect competition in the AI agent space through its own AI initiatives."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as owner of Android App Store where Muse achieved top ranking. No direct competitive threat or partnership mentioned, but represents indirect competition in the AI agent space through its own AI initiatives."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as provider of iOS App Store where Muse achieved No. 1 ranking. Neutral role as platform provider without direct competitive or partnership implications."
+      },
+      {
+        "ticker": "SHOP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced integration of Muse into its e-commerce platform to facilitate product browsing and purchases, positioning the company to benefit from AI-driven commerce automation and improved customer experience."
+      },
+      {
+        "ticker": "PYPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Partnering with Meta to integrate Muse into its merchant network, enabling secure checkout for agentic purchases and expanding payment processing opportunities through AI-driven transactions."
+      },
+      {
+        "ticker": "EXPE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joined Muse partnership to help users plan trips and make travel arrangements, potentially increasing booking volume through AI-assisted travel planning and seamless transaction integration."
+      }
+    ]
+  },
+  {
+    "id": "b8a724d8d47f863cea7c0d51bd42fd91fea7269e951cd611b1a2a953dc8fea05",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Nu's Global Strategy Takes Shape: Can Cross-Border Banking Add Growth?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T15:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994606/nu-s-global-strategy-takes-shape-can-cross-border-banking-add-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2994606",
+    "tickers": [
+      "NU",
+      "SOFI",
+      "PYPL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default30.jpg",
+    "description": "Nu Holdings is expanding its cross-border banking services through Nu Global, which reaches 35+ countries and targets the $800 billion international money transfer market. With 139 million customers and $1 billion in quarterly net income achieved for the first time in Q2 2026, Nu is positioning itself to deepen relationships across Brazil, Colombia, Mexico, and the U.S. However, execution risks remain as the company invests heavily in international expansion with expected gradual growth timelines.",
+    "keywords": [
+      "cross-border banking",
+      "international expansion",
+      "digital payments",
+      "fintech",
+      "money transfers",
+      "customer growth"
+    ],
+    "insights": [
+      {
+        "ticker": "NU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong financial metrics including 139 million customers, $1 billion quarterly net income milestone, $45.3 billion in deposits, and efficient 20% efficiency ratio. Nu Global expansion into 35+ countries addresses a large market opportunity with 300+ million cross-border users. Stock gained 13.6% in three months and earnings estimates increased for 2026-2027."
+      },
+      {
+        "ticker": "SOFI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer broadening global payments through stablecoin settlement on Mastercard's network. While this represents strategic expansion, the article provides limited detail on impact and positions it as competitive context rather than a primary focus."
+      },
+      {
+        "ticker": "PYPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor expanding cross-border reach through PayPal World and PYUSD availability in 70 markets. Shows 10% payment volume growth, but mentioned primarily as industry context for Nu's competitive landscape rather than as a focal point."
+      }
+    ]
+  },
+  {
+    "id": "873fbe2cca47596604cf919132094c4244aeb91733b8c2d82f6af4dcfefc0253",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "SoFi Brings SoFiUSD to Mastercard: Can It Unlock a New Growth Engine?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T15:34:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994588/sofi-brings-sofiusd-to-mastercard-can-it-unlock-a-new-growth-engine?cid=CS-ZC-FT-analyst_blog|quick_take-2994588",
+    "tickers": [
+      "SOFI",
+      "PYPL",
+      "XYZ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default315.jpg",
+    "description": "SoFi Technologies is integrating its SoFiUSD stablecoin into its debit and credit card program through Mastercard, expected to process over $25 billion in annualized volume. The move capitalizes on accelerating card activity, with Q2 2026 showing $28 billion in annualized card spend and 67% year-over-year growth in interchange fee revenues. SoFiUSD settlement could enhance fee-based revenues and support merchant payments, positioning SoFi beyond its traditional lending business.",
+    "keywords": [
+      "stablecoin",
+      "SoFiUSD",
+      "Mastercard",
+      "blockchain payments",
+      "interchange fees",
+      "digital currency",
+      "fintech",
+      "merchant payments"
+    ],
+    "insights": [
+      {
+        "ticker": "SOFI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "SoFi is expanding its revenue streams through stablecoin integration with strong card activity growth (67% YoY interchange fee growth, $28B annualized spend). The company is diversifying beyond lending with fee-based revenues reaching 39% of total revenues. However, stock underperformance and elevated valuation (P/E 22.68 vs industry 15.63) temper enthusiasm."
+      },
+      {
+        "ticker": "PYPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PayPal is expanding blockchain payments through PYUSD and crypto services, showing competitive positioning in digital payments. However, Q2 2026 revenue growth was modest at 5%, indicating slower momentum compared to peers like SoFi and Block."
+      },
+      {
+        "ticker": "XYZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Block demonstrates strong growth with 25% YoY gross profit increase in Q2 2026 and aggressive Bitcoin-focused strategy through Square. The 0% processing fee through 2026 shows competitive positioning in blockchain payments adoption."
       }
     ]
   }

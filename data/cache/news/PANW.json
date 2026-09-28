@@ -1,228 +1,279 @@
 [
   {
-    "id": "9011276b84ea6600a12b50d0c5d317b4b802e0a4e8dfb9e45c908d71325647fd",
+    "id": "eac40857bd6f2d3f29d07be0addb4c08096167802c44f6e556f2e11a20955202",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why Palo Alto Networks Stock Jumped 15% In August Before Falling This Week",
-    "author": "Brett Schafer",
-    "published_utc": "2026-09-03T18:08:51Z",
-    "article_url": "https://www.fool.com/investing/2026/09/03/why-palo-alto-networks-stock-jumped-15-in-august-b/?source=iedfolrf0000001",
+    "title": "Stock Market Today, Sept. 24: BlackBerry Lifts Fiscal 2027 Guidance on Record QNX Revenue",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-09-24T21:07:12Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-blackberry-lifts-fiscal-2027-guidance-on-record-qnx-revenue/?source=iedfolrf0000001",
     "tickers": [
-      "PANW"
+      "BB",
+      "PANW",
+      "CRWD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886206%2Fai-cyber.jpg&w=1200&op=resize",
-    "description": "Palo Alto Networks stock surged 15% in August driven by strong demand for cybersecurity solutions amid AI threats, but fell over 10% this week after reporting Q4 earnings with disappointing fiscal 2027 guidance of 23-24% revenue growth. The stock trades at a premium P/S ratio of 22x, requiring investors to believe in sustained 20%+ growth and significant margin expansion to justify current valuations.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F77da40e1441423dea3c02d00c83ecbebd96a733e-1401x1250.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "BlackBerry (BB) surged 4.18% after beating Q2 earnings expectations with 26% revenue growth and 81% adjusted EBITDA growth, while lifting full-year fiscal 2027 guidance. The company's QNX unit achieved 27% sales growth and is expanding beyond automotive into autonomous vehicles, robotics, and AI applications. However, the analyst notes caution at the current 46x forward earnings valuation.",
     "keywords": [
+      "BlackBerry",
+      "QNX",
+      "Q2 earnings",
+      "guidance raise",
+      "automotive software",
       "cybersecurity",
-      "artificial intelligence",
-      "earnings",
-      "stock valuation",
-      "revenue growth",
-      "guidance",
-      "next-generation solutions"
+      "embedded systems",
+      "autonomous vehicles",
+      "robotics"
     ],
     "insights": [
+      {
+        "ticker": "BB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 earnings beat with 26% revenue and 81% EBITDA growth, raised full-year guidance, record QNX revenue with 27% growth, and expansion into high-growth markets like autonomous vehicles and robotics. However, valuation at 46x forward earnings is noted as a concern."
+      },
       {
         "ticker": "PANW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While the company benefits from strong AI-driven cybersecurity demand with ARR up 63% YoY, the stock's recent 10% decline and disappointing forward guidance of 23-24% growth disappointed investors. The premium 22x P/S valuation requires aggressive future growth assumptions to justify current prices, making the outlook uncertain despite strong fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "85104164ffa06498da3407ee62777197143d16de0e69e74b1874766eecf8c716",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "The Zacks Analyst Blog Highlights Palo Alto Networks, CrowdStrike and Fortinet",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-09-03T12:46:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984364/the-zacks-analyst-blog-highlights-palo-alto-networks-crowdstrike-and-fortinet?cid=CS-ZC-FT-press_releases-2984364",
-    "tickers": [
-      "PANW",
-      "CRWD",
-      "FTNT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/1138.jpg",
-    "description": "Palo Alto Networks delivered strong quarterly results with $9.1B in Next-Generation Security ARR, up 63% year-over-year, and added nearly $1B in net new ARR in Q4 FY2026. The company projects continued robust growth with NGS ARR expected to reach $11.075-$11.175B in FY2027 (22-23% YoY growth). With strong profitability, improving cash flow, and attractive valuation relative to peers, Palo Alto Networks receives a Zacks Rank #2 (Buy) rating.",
-    "keywords": [
-      "cybersecurity",
-      "AI security",
-      "ARR growth",
-      "next-generation security",
-      "profitability",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "PANW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 63% YoY NGS ARR growth, $1B net new ARR in Q4, robust FY2027 guidance (22-23% growth), improving profitability with $1B non-GAAP operating income, healthy free cash flow of $1.3B, and attractive forward P/E ratio of 88 vs. industry average of 147.47. Assigned Zacks Rank #2 (Buy)."
+        "sentiment_reasoning": "Closed down 0.86% as a sector rival in cybersecurity and embedded software. Mentioned as a comparable company but no specific news or performance drivers discussed."
       },
       {
         "ticker": "CRWD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer competitor to Palo Alto Networks in the cybersecurity space, but no specific financial data or analysis provided in the article."
-      },
-      {
-        "ticker": "FTNT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer competitor to Palo Alto Networks in the cybersecurity space, but no specific financial data or analysis provided in the article."
+        "sentiment_reasoning": "Closed down 1.07% as a sector rival in cybersecurity. Recent AI-security updates and guidance kept the group in focus, but no specific positive or negative catalysts mentioned for this company."
       }
     ]
   },
   {
-    "id": "018768b0a334f74a8961544150d6bd7e604673e2410b41a019d808a09fab2596",
+    "id": "0cd74aee6af10ee3a29c80ab0079a489701a8947be50fdcfcd0001345f4c202d",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Company News for Sep 3, 2026",
-    "author": "Na",
-    "published_utc": "2026-09-03T10:04:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984144/company-news-for-sep-3-2026?cid=CS-ZC-FT-corporate_summary-2984144",
+    "title": "Mplify Announces Winners of the 2026 NaaS Excellence Awards",
+    "author": "Not Specified",
+    "published_utc": "2026-09-24T17:49:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368671/0/en/mplify-announces-winners-of-the-2026-naas-excellence-awards.html",
     "tickers": [
-      "OLLI",
-      "GIII",
+      "LUMN",
+      "EQIX",
+      "CCZ",
+      "CMCSA",
       "PANW",
-      "UBER"
+      "NOK"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a7/116033.jpg",
-    "description": "Several companies reported earnings with mixed results. Ollie's Bargain Outlet surpassed expectations with adjusted earnings of $1.42 per share, driving shares up 2.1%. G-III Apparel Group missed revenue estimates, causing shares to plunge 11.5%. Palo Alto Networks fell 9.3% after reporting subscription revenues below consensus. Uber's shares rose 1.6% despite announcing a 10% workforce reduction.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/5bf6eb4c-aba7-46fa-9bc5-8fb5c0378797",
+    "description": "Mplify announced the winners of its 2026 NaaS Excellence Awards, recognizing organizations advancing Network-as-a-Service, automation, and AI-ready digital infrastructure. Major winners include PCCW Global (NaaS Service Provider of the Year), Lumen Technologies (North America), Equinix (Interconnection Infrastructure Leadership), and Tata Communications (Secure NaaS Leadership). Professional awards honored Ron Insler (RAD), Jeremy Villalobos (Orchest Technologies), Dan Pitt (Palo Alto), and Pascal Menezes (Mplify).",
     "keywords": [
-      "earnings",
-      "stock performance",
-      "revenue",
-      "workforce reduction",
-      "consensus estimates"
+      "Network-as-a-Service",
+      "NaaS",
+      "AI infrastructure",
+      "automation",
+      "interoperability",
+      "Carrier Ethernet",
+      "digital infrastructure",
+      "LSO",
+      "secure connectivity"
     ],
     "insights": [
       {
-        "ticker": "OLLI",
+        "ticker": "LUMN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company exceeded Zacks Consensus Estimate for adjusted earnings ($1.42 vs $1.14 expected), resulting in a 2.1% share price increase."
+        "sentiment_reasoning": "Won NaaS for AI Vision (North America), NaaS Ecosystem Collaboration, and NaaS Service Provider of the Year (North America), indicating leadership across multiple categories"
       },
       {
-        "ticker": "GIII",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company missed revenue expectations ($554.09M vs $570.40M estimated), leading to an 11.5% decline in share price."
+        "ticker": "EQIX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Interconnection Infrastructure Leadership and NaaS Service Innovation (Global), recognizing its critical role in AI-ready infrastructure"
+      },
+      {
+        "ticker": "CCZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Carrier Ethernet Service Innovation (North America) and NaaS for Enterprise Implementation (Hospitality), demonstrating practical implementation success"
+      },
+      {
+        "ticker": "CMCSA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Carrier Ethernet Service Innovation (North America) and NaaS for Enterprise Implementation (Hospitality), demonstrating practical implementation success"
       },
       {
         "ticker": "PANW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Subscription and Support revenues and adjusted gross profits fell below Zacks Consensus Estimate, causing a 9.3% share price drop."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Secure NaaS Solution award, recognizing its cybersecurity solutions in the NaaS ecosystem"
       },
       {
-        "ticker": "UBER",
+        "ticker": "NOK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite announcing a 10% workforce reduction (3,300 employees), shares rose 1.6%, suggesting market viewed the cost-cutting measure favorably."
+        "sentiment_reasoning": "Won AI Network Infrastructure Innovation award, validating its technology contributions to AI-driven networking"
       }
     ]
   },
   {
-    "id": "b080d569c3ede2a7b23b2c657fa5d83de30aa44e9ce9de2defca010893a6f9cc",
+    "id": "df63e93d1b1a77adc31721da681bef9a3a783509dc08aadaf8b8910d6d13d674",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Zscaler's Next Earnings Report on September 3 Could Send the Stock Soaring. Here's Why.",
-    "author": "Matt Frankel, Cfp\u00ae",
-    "published_utc": "2026-09-02T16:26:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/zscaler-s-next-earnings-report-on-september-3-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
+    "title": "CrowdStrike vs. Figma: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Jake Lerch",
+    "published_utc": "2026-09-24T14:30:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/crowdstrike-vs-figma-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "ZS",
       "CRWD",
+      "FIG",
+      "AMZN",
+      "ADBE",
       "PANW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc0329de7c3d51ae39d0e0b0faff8857d603c1cc9-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Zscaler reports fiscal Q4 earnings on September 3 with low expectations set by conservative management guidance. The key catalyst for stock movement will be forward guidance, particularly ARR growth rates. With peers CrowdStrike and Palo Alto Networks recently reporting strong results driven by AI-boosted cybersecurity demand, Zscaler could benefit from similar tailwinds if it demonstrates traction in agentic AI security.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two high-growth tech stocks: CrowdStrike, a cloud-native cybersecurity leader with $4.8B revenue and strong free cash flow but trading at a 50.3x P/S ratio, versus Figma, a collaborative design platform with 41% revenue growth but significant losses and a 10.5x P/S ratio. CrowdStrike is recommended for growth-oriented investors due to solid fundamentals, while Figma faces risks from frontier AI models disrupting its core design workflow.",
     "keywords": [
-      "earnings report",
       "cybersecurity",
-      "guidance",
-      "ARR growth",
-      "agentic AI",
-      "zero-trust architecture",
-      "RPO"
+      "cloud-native platform",
+      "collaborative design",
+      "valuation comparison",
+      "AI integration",
+      "enterprise software",
+      "free cash flow",
+      "net losses"
     ],
     "insights": [
       {
-        "ticker": "ZS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article suggests significant upside potential if the company raises forward guidance and demonstrates traction in agentic AI cybersecurity. Low expectations create a favorable setup for positive surprise, and the company has a history of beating its own guidance."
-      },
-      {
         "ticker": "CRWD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recently reported strong results with highest net new ARR growth rate ever and issued robust fiscal 2027 guidance, demonstrating AI-driven demand acceleration in cybersecurity sector."
+        "sentiment_reasoning": "Strong revenue growth (21.7%), substantial free cash flow ($1.3B), low debt-to-equity ratio (0.2x), market leadership as second-largest cybersecurity stock, and positioning in AI security infrastructure. Despite July 2024 incident and premium valuation, fundamentals support growth investor appeal."
+      },
+      {
+        "ticker": "FIG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Impressive 41% revenue growth and strong current ratio (2.6x), but offset by massive net losses ($1.3B) and negative net margin (-118.4%). Faces existential threat from frontier AI models disrupting core design workflow. Lower valuation (10.5x P/S) reflects uncertainty about monetization model sustainability."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as critical infrastructure dependency for CrowdStrike's Falcon platform delivery. No direct analysis provided; neutral mention of operational reliance."
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor to Figma in the design software space. No detailed analysis; mentioned as competitive threat."
       },
       {
         "ticker": "PANW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Recently reported strong earnings results but stock fell despite beating estimates, indicating that forward guidance and management commentary matter more than top-line beats in this sector."
+        "sentiment_reasoning": "Referenced as the largest cybersecurity stock by market cap ($320B). Mentioned for context only without sentiment analysis."
       }
     ]
   },
   {
-    "id": "a72694ba61b771619951a3a5b5cca02ff6a62ffb30ca34ce5c87e0268e9c9567",
+    "id": "c83bde13f59c0dd29a6156a1ad9446e8b13f1a282d19c3e33c4e74d4bb626e1b",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "PANW Q4 Earnings Beat Estimates on Platformization Strength",
-    "author": "Na",
-    "published_utc": "2026-09-02T14:12:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983770/panw-q4-earnings-beat-estimates-on-platformization-strength?cid=CS-ZC-FT-analyst_blog|earnings_article-2983770",
+    "title": "This Dividend King Was Removed From the S&P 100. Here's Why It's a Great Buy for Long-Term Investors Anyway.",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-23T19:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/this-dividend-king-is-getting-removed-from-the-sp/?source=iedfolrf0000001",
     "tickers": [
+      "CL",
       "PANW",
-      "AMAT",
-      "LRCX",
-      "APH"
+      "ANET",
+      "SNDK",
+      "SPGI"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/1138.jpg",
-    "description": "Palo Alto Networks (PANW) reported Q4 fiscal 2026 revenues of $3.41B, up 34% YoY, beating consensus estimates. The company achieved record platformization with 220 net new platform additions (up 44%) and net new NGS ARR of $970M (up 98%). For fiscal 2027, PANW guides revenues of $14.10-$14.20B (23-24% growth) and NGS ARR of $11.075-$11.175B. Strong momentum across Network & AI Security, Cortex, and Idira platforms drove results.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887263%2Fgettyimages-1403045742.jpg&w=1200&op=resize",
+    "description": "Colgate-Palmolive was removed from the S&P 100 index due to its $69 billion market cap being eclipsed by faster-growing AI-driven stocks, but the company remains a solid long-term investment. With 63 consecutive years of dividend increases, a 347% total return over 20 years, and expected 17% EPS CAGR through 2028, the stock offers stability and growth potential despite being a slower-growth consumer staples company.",
     "keywords": [
-      "cybersecurity",
-      "cloud security",
-      "platformization",
-      "ARR growth",
-      "AI security",
-      "SaaS",
-      "earnings beat"
+      "Dividend King",
+      "S&P 100 removal",
+      "dividend growth",
+      "consumer staples",
+      "long-term investing",
+      "recession-resistant",
+      "pet nutrition",
+      "premiumization"
     ],
     "insights": [
       {
+        "ticker": "CL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite S&P 100 removal, the company demonstrates strong fundamentals with 63 years of consecutive dividend increases, healthy earnings growth projections (17% CAGR through 2028), stable recession-resistant business model, and reasonable valuation at 22x forward earnings. Removal was due to relative underperformance versus AI stocks, not business deterioration."
+      },
+      {
+        "ticker": "PANW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
+      },
+      {
+        "ticker": "SNDK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
+      },
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the entity that conducted the S&P 100 rebalancing, but no investment analysis or sentiment provided."
+      }
+    ]
+  },
+  {
+    "id": "ab2031a93290665b4816ec6f6fab3106b8ac4a0ab584161b200b08d1b2dd40e6",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Where Will SentinelOne (S) Stock Be in 3 Years?",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-22T16:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/where-will-ai-cybersecurity-stock-be-in-3-years/?source=iedfolrf0000001",
+    "tickers": [
+      "S",
+      "PANW",
+      "CRWD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888243%2Fa-digital-padlock-cybersecurity.jpg&w=1200&op=resize",
+    "description": "SentinelOne, an AI-powered cybersecurity company, has seen its stock decline from a 2021 high of $76.30 to around $24, trading below its $35 IPO price. While revenue grew from $93M to $1B over five years, growth has decelerated to an expected 20-21% for fiscal 2027, signaling the end of hypergrowth days. The company faces intense competition from larger players like Palo Alto Networks and CrowdStrike, macro headwinds affecting enterprise spending, and declining net revenue retention among enterprise customers. Analysts project modest 18% revenue CAGR through 2029, with the stock potentially reaching $15.4B market cap (86% gain) within three years if current trends hold, but remaining well below its all-time high.",
+    "keywords": [
+      "cybersecurity",
+      "AI-powered security",
+      "endpoint detection and response",
+      "enterprise customers",
+      "revenue growth deceleration",
+      "competitive pressure",
+      "net revenue retention"
+    ],
+    "insights": [
+      {
+        "ticker": "S",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock trades significantly below IPO price and all-time high; hypergrowth phase has ended with decelerating revenue growth (20-21% expected); facing intense competition from larger cybersecurity firms; declining net revenue retention among enterprise customers (115% to 109%); not expected to achieve profitability within three years; valuation at 6.9x sales is not compelling."
+      },
+      {
         "ticker": "PANW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company exceeded earnings expectations (beat by 4.1%), delivered 34% revenue growth, achieved record platformization metrics with 44% YoY increase in net new platforms, and net new NGS ARR surged 98% YoY. Strong guidance for fiscal 2027 with 23-24% revenue growth and expanding product portfolio momentum across all segments."
+        "sentiment_reasoning": "Identified as a larger competitor successfully integrating AI-powered tools into endpoint security platforms, gaining market share from smaller competitors like SentinelOne."
       },
       {
-        "ticker": "AMAT",
+        "ticker": "CRWD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Zacks Rank #2 (Buy) rating with consensus earnings estimate up 3 cents over past 7 days, implying 35.5% YoY earnings growth. Stock has surged 72.5% YTD, indicating strong market performance."
-      },
-      {
-        "ticker": "LRCX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Zacks Rank #2 (Buy) rating with consensus earnings estimate increased by 1 cent to $9.33 per share, projecting 60.6% YoY earnings growth. Stock has soared 69.8% YTD."
-      },
-      {
-        "ticker": "APH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Zacks Rank #2 (Buy) rating with consensus earnings estimate of $5.25 per share implying 57.2% YoY earnings growth. Stock has rallied 20.8% YTD."
+        "sentiment_reasoning": "Identified as a larger competitor successfully integrating AI-powered tools into endpoint security platforms, gaining market share from smaller competitors like SentinelOne."
       }
     ]
   }

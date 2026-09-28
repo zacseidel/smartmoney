@@ -1,5 +1,190 @@
 [
   {
+    "id": "c14c8a64c87931ee76ff8e49ea345562d5c92151c64f7b91139e4b4b66bb95db",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-21T12:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992678/beat-the-market-like-zacks-pbf-palantir-adobe-in-focus?cid=CS-ZC-FT-analyst_blog|investment_ideas-2992678",
+    "tickers": [
+      "PBF",
+      "DK",
+      "PLTR",
+      "ADBE",
+      "TMO",
+      "MPWR",
+      "AVBC",
+      "CHMG",
+      "DGX",
+      "ADP",
+      "ICE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5d/931.jpg",
+    "description": "Zacks Investment Research showcased strong performance across its various stock rating systems and portfolios. PBF Energy and Delek US surged following Zacks Rank #1 upgrades, while the Zacks #1 Rank portfolio outperformed the S&P 500 by 2.3 percentage points year-to-date. Notable performers included Palantir (up 38.3% over 12 weeks), Adobe (up 27.6%), Thermo Fisher (up 40.2%), and Monolithic Power Systems (up 30.1% since January 5, 2026). The article emphasizes Zacks' track record of outperforming the market since 1988.",
+    "keywords": [
+      "stock ratings",
+      "portfolio performance",
+      "market outperformance",
+      "earnings estimates",
+      "dividend stocks",
+      "semiconductor stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "PBF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 20% following upgrade to Zacks Rank #1 on July 23, significantly outperforming S&P 500's 1.9% gain in the same period"
+      },
+      {
+        "ticker": "DK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 18.1% following upgrade to Zacks Rank #1 on July 23, demonstrating strong performance post-upgrade"
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 38.3% over 12 weeks as part of Zacks Focus List, significantly outperforming S&P 500's 2% gain in the same period"
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 27.6% over 12 weeks as a Focus List holding, substantially outperforming the broader market"
+      },
+      {
+        "ticker": "TMO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 40.2% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
+      },
+      {
+        "ticker": "MPWR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 30.1% since January 5, 2026, significantly outperforming S&P 500's 11.5% gain in the same period"
+      },
+      {
+        "ticker": "AVBC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 11.6% following upgrade to Zacks Recommendation Outperform on July 24"
+      },
+      {
+        "ticker": "CHMG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 11.3% following upgrade to Zacks Recommendation Outperform on July 24"
+      },
+      {
+        "ticker": "DGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 26.4% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 24.2% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 16.1% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
+      }
+    ]
+  },
+  {
+    "id": "392bc11d7ea26397a817bebbfe79281b3a59d09504a54f97fc06674139e97a6d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Beat the Market the Zacks Way: FIGS, Microsoft, Amphenol in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-14T12:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2988917/beat-the-market-the-zacks-way-figs-microsoft-amphenol-in-focus?cid=CS-ZC-FT-analyst_blog|investment_ideas-2988917",
+    "tickers": [
+      "FIGS",
+      "CRL",
+      "APH",
+      "CIB",
+      "MSFT",
+      "CACI",
+      "ADP",
+      "ACN",
+      "PAYX",
+      "ICE",
+      "FCFS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
+    "description": "Zacks Investment Research showcases the performance of its various stock rating systems and portfolios. The Zacks Rank #1 portfolio outperformed the S&P 500 by 2.3 percentage points year-to-date, while individual stocks like FIGS and CRL surged following rank upgrades. The Focus List, ECAP, ECDP, and Top 10 portfolios also demonstrated strong returns, with the Top 10 portfolio delivering a cumulative return of +2,881.3% since 2012 compared to the S&P 500's +648.5%.",
+    "keywords": [
+      "stock ratings",
+      "portfolio performance",
+      "Zacks Rank",
+      "market outperformance",
+      "investment recommendations"
+    ],
+    "insights": [
+      {
+        "ticker": "FIGS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 33.5% following upgrade to Zacks Rank #2 (Buy) on July 14, significantly outperforming S&P 500's 2% increase"
+      },
+      {
+        "ticker": "CRL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 21.1% following upgrade to Zacks Rank #2 on July 14"
+      },
+      {
+        "ticker": "APH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 9.6% following Zacks Recommendation upgrade to Outperform on July 17"
+      },
+      {
+        "ticker": "CIB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 28.4% following Zacks Recommendation upgrade to Outperform on June 26"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock soared 26.8% over 12 weeks, significantly outpacing S&P 500's 3.1% gain; part of Zacks Focus List"
+      },
+      {
+        "ticker": "CACI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 19.6% over 12 weeks, outperforming S&P 500; part of Zacks Focus List"
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 18.6% over 12 weeks; component of Zacks Earnings Certain Admiral Portfolio"
+      },
+      {
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 8% over 12 weeks; component of Zacks Earnings Certain Admiral Portfolio"
+      },
+      {
+        "ticker": "PAYX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 15.1% over 12 weeks; part of Zacks Earnings Certain Dividend Portfolio"
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 12% over 12 weeks; part of Zacks Earnings Certain Dividend Portfolio"
+      },
+      {
+        "ticker": "FCFS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 45.7% since January 5, 2026; part of Zacks Top 10 Stocks for 2025"
+      }
+    ]
+  },
+  {
     "id": "ad2dd142b88c97fde368899f1121cee1b78fa6f34df938a02652f56d2da3aa90",
     "publisher": {
       "name": "Zacks Investment Research",
@@ -123,87 +308,6 @@
         "ticker": "ADP",
         "sentiment": "neutral",
         "sentiment_reasoning": "ADP released the jobs report that triggered the market movement, but the company itself is not the focus of investment analysis in this article. It serves as a catalyst for market sentiment rather than being evaluated as an investment."
-      }
-    ]
-  },
-  {
-    "id": "b73ddd6985bb250a926f636b467f207792b127f35e9a4528bdbf08d3680ca42b",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Is Palantir Technologies (PLTR) Up 10.6% Since Last Earnings Report?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-02T15:30:09Z",
-    "article_url": "https://www.zacks.com/stock/news/2983870/why-is-palantir-technologies-pltr-up-10-6-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-2983870",
-    "tickers": [
-      "PLTR",
-      "ADP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default78.jpg",
-    "description": "Palantir Technologies delivered exceptional Q2 2026 results, beating earnings estimates with $1.94B in revenue (92.8% YoY growth) and $0.41 EPS (156.3% YoY growth). The company's commercial business surged 109.7% YoY, driven by strong AI platform adoption. Management raised full-year guidance significantly, projecting $8.15-8.158B in revenue and $4.5-4.7B in adjusted free cash flow. The stock has gained 10.6% since the earnings report and received a Zacks Rank #1 (Strong Buy) rating.",
-    "keywords": [
-      "earnings report",
-      "revenue growth",
-      "AI platform",
-      "guidance raise",
-      "commercial business",
-      "enterprise software",
-      "cash flow",
-      "customer expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 earnings beat with 92.8% YoY revenue growth and 156.3% YoY EPS growth. Commercial revenue surged 109.7% YoY. Management raised full-year guidance by ~$500M. Exceptional margins (86% gross, 62% operating), strong cash generation ($1.22B free cash flow), record bookings of $3.4B, and 157% net dollar retention demonstrate robust business momentum and customer expansion. Zacks Rank #1 (Strong Buy) rating reflects analyst confidence."
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Modest 6.8% YoY revenue growth and 17.1% YoY EPS growth in last reported quarter. Stock gained only 4.8% over the past month, significantly underperforming PLTR. Zacks Rank #3 (Hold) indicates neutral outlook with no estimate revisions in the last 30 days. VGM Score of D suggests limited appeal across investment strategies."
-      }
-    ]
-  },
-  {
-    "id": "735d8f2a8b67f9938e882a394850a79f81a2d3a3d9a4cdfda5cf3c2fcd2eb709",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Oil, Yields Higher Ahead of \"Jobs Week\"",
-    "author": "Na",
-    "published_utc": "2026-08-31T14:15:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2982553/oil-yields-higher-ahead-of-jobs-week?cid=CS-ZC-FT-ahead_of_wall_street-2982553",
-    "tickers": [
-      "NVDA",
-      "ADP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c5/123172.webp",
-    "description": "U.S.-Iran military escalation overnight pushed spot oil prices up over 3%, with WTI at $86/bbl and Brent at $91/bbl. Bond yields reached their highest levels of the Trump presidency (10-year at 4.75%, 30-year at 5.25%), complicating the Fed's rate-cutting outlook. Pre-market futures opened lower on Monday as investors await a week of critical labor market data including JOLTS, ADP employment, jobless claims, and Friday's BLS non-farm payrolls report.",
-    "keywords": [
-      "geopolitical tension",
-      "oil prices",
-      "bond yields",
-      "labor market",
-      "Fed policy",
-      "employment data",
-      "Iran-U.S. conflict"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having strong earnings results that supported market gains last week, but no direct impact from current week's geopolitical or economic developments."
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "ADP employment report expected to show +45K new jobs in August, essentially flat month-over-month, indicating stable but unspectacular labor market conditions."
       }
     ]
   }

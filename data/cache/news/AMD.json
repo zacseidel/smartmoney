@@ -1,312 +1,302 @@
 [
   {
-    "id": "02446143bbc2222368967b817f8d92581ad9e4a8de3a02a69fc331f26ac66bf8",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Today's AI Boom Differs From the Internet Bubble",
-    "author": "Na",
-    "published_utc": "2026-09-08T19:10:00Z",
-    "article_url": "https://www.zacks.com/commentary/2986639/why-today-s-ai-boom-differs-from-the-internet-bubble?cid=CS-ZC-FT-investment_ideas-2986639",
-    "tickers": [
-      "NVDA",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMD",
-      "MU",
-      "DELL",
-      "CSCO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/da/181877.webp",
-    "description": "The article argues that the current AI buildout, representing the largest industrial expansion since 19th-century railroads, is fundamentally different from the 1990s internet bubble. Unlike the dot-com era where 90% of fiber infrastructure sat unused and 75% of IPOs operated at losses, today's AI companies are profitable, have reasonable valuations, and their hardware is in high demand with premium pricing. This suggests the AI boom has a stronger economic foundation than the internet bubble.",
-    "keywords": [
-      "AI buildout",
-      "internet bubble comparison",
-      "GPU demand",
-      "profitability",
-      "valuations",
-      "hardware utilization"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "GPU chips remain in high demand with prices increasing 22% month-over-month, contradicting bear arguments about overinvestment and unused capacity."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a highly profitable top AI company with reasonable valuations compared to internet bubble era companies."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as highly profitable AI company; generated $28.86 billion in net income last quarter, demonstrating strong financial performance."
-      },
-      {
-        "ticker": "DELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI-related company with reasonable P/E ratio of 28.52x, significantly lower than internet bubble peak valuations."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a historical comparison point from the internet bubble era that peaked at 200x P/E, illustrating how current AI valuations are more reasonable."
-      }
-    ]
-  },
-  {
-    "id": "6e8f280ced383ccd38503eac138b4f0092fede0d95129267db86d5f52b565756",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Advanced Micro Devices (AMD) is a Top Stock for the Long-Term",
-    "author": "Na",
-    "published_utc": "2026-09-08T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2986294/why-advanced-micro-devices-amd-is-a-top-stock-for-the-long-term?cid=CS-ZC-FT-fundamental_analysis|zacks_education_focus_list-2986294",
-    "tickers": [
-      "AMD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default47.jpg",
-    "description": "Zacks presents its Focus List investment strategy, a curated portfolio of 50 stocks selected based on earnings estimate revisions. The article highlights the methodology behind the Zacks Rank system and features Advanced Micro Devices (AMD) as a spotlight example, which has gained 307.59% since being added to the list in May 2025. The Focus List has historically outperformed the S&P 500, with cumulative returns of 2,519.23% versus 854.95% for the index since February 1996.",
-    "keywords": [
-      "earnings estimate revisions",
-      "Zacks Rank",
-      "Focus List",
-      "stock selection",
-      "investment strategy",
-      "semiconductor market"
-    ],
-    "insights": [
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AMD is highlighted as a Focus List spotlight with strong performance (307.59% gain since May 2025), strengthened market position in semiconductors, 16 analysts revising earnings estimates higher in the last 60 days, and forecasted earnings growth of 79.6% for the current fiscal year. However, current Zacks Rank is #3 (Hold), which tempers the bullish outlook."
-      }
-    ]
-  },
-  {
-    "id": "885343645292468818937a44c29eb3677c7b20e4a90334780e7b30c546f41b08",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Buy Super Micro Computer for Handsome Returns & Attractive Valuations",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-08T12:23:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986259/buy-super-micro-computer-for-handsome-returns-attractive-valuations?cid=CS-ZC-FT-analyst_blog|investment_ideas-2986259",
-    "tickers": [
-      "SMCI",
-      "SMCIP",
-      "NVDA",
-      "AMD",
-      "INTC"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/989.jpg",
-    "description": "Super Micro Computer (SMCI) reported fiscal 2026 revenues nearly doubled to $39.1 billion with record backlog levels. The company projects fiscal 2027 sales of $65-$72 billion driven by AI infrastructure demand. SMCI is expanding its Data Center Building Block Solutions strategy, strengthening liquid-cooling capabilities, and benefits from partnerships with major chip manufacturers. The stock trades at attractive valuations with a forward P/E of 8.94X versus industry average of 10.36X, earning a Zacks Rank #1 (Strong Buy) rating.",
-    "keywords": [
-      "AI infrastructure",
-      "data center",
-      "server systems",
-      "liquid cooling",
-      "GPU platforms",
-      "backlog",
-      "valuation",
-      "revenue growth"
-    ],
-    "insights": [
-      {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fiscal 2026 results with nearly doubled revenues to $39.1B, record backlog, robust guidance for fiscal 2027 ($65-$72B), Zacks Rank #1 rating, attractive valuation metrics, and strategic positioning in high-growth AI infrastructure market with expanding product portfolio and customer partnerships."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fiscal 2026 results with nearly doubled revenues to $39.1B, record backlog, robust guidance for fiscal 2027 ($65-$72B), Zacks Rank #1 rating, attractive valuation metrics, and strategic positioning in high-growth AI infrastructure market with expanding product portfolio and customer partnerships."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SMCI is shipping volume products across multiple NVIDIA GPU platforms (GB300, HGX B300, B200, RTX 6000 Pro) and preparing systems for upcoming Vera platforms, indicating strong demand and partnership benefits from AI infrastructure expansion."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SMCI launched AMD's Helios product line and MI450 Total Solution while supporting MI350 and MI355X systems, demonstrating active partnership and volume shipments benefiting from AI infrastructure demand."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "SMCI is shipping Intel Xeon 6+ platforms in volume and developing systems for Arm-based AGI processors, showing continued partnership but with less emphasis compared to NVIDIA and AMD in the article's discussion."
-      }
-    ]
-  },
-  {
-    "id": "9643ebf5862ef64da48b2f2b08e67c3076dea8018a2d05cc45220055572a9712",
+    "id": "5c303f3042c21b214fc4052b8f56f650866981efd451cea0693b55d2dc3ff0e8",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Set a Fair Starting Line, as Favorites Can Falter",
-    "author": "The Rule Breakers Team",
-    "published_utc": "2026-09-07T19:19:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/set-a-fair-starting-line-as-favorites-can-falter/?source=iedfolrf0000001",
-    "tickers": [
-      "TTD",
-      "ANET",
-      "AMD",
-      "AVGO",
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "META",
-      "CSCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffe6403e73394ab81b43cbf27ad87b5c54f1ce964-3453x2302.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Motley Fool illustrates the importance of equal portfolio weighting by comparing The Trade Desk, which fell from 40-fold returns to under 4-fold after Amazon undercut its pricing, with Arista Networks, which surpassed it with 40-fold returns. The article emphasizes giving every stock a fair starting position and then backing winners while retiring underperformers, rather than loading up on perceived favorites.",
-    "keywords": [
-      "portfolio diversification",
-      "equal weighting",
-      "stock selection",
-      "competitive disruption",
-      "position management",
-      "programmatic advertising"
-    ],
-    "insights": [
-      {
-        "ticker": "TTD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined from 40-fold to under 4-fold returns after Amazon entered the market with aggressive 1-2% pricing versus The Trade Desk's 12-15%, causing growth to collapse from 22% to 3% and resulting in 15% workforce cuts with no clear restructuring plan."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceeded The Trade Desk with 40-fold returns, demonstrating strong performance as a dark horse pick that disrupted Cisco's switch market dominance and continued to outperform even after becoming obvious to the broader market."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Achieved nearly 7-fold returns through acquisition of Xilinx, benefiting from AI buildout and semiconductor demand, representing a successful dark horse investment."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Delivered roughly 30-fold returns, significantly outperforming initial thesis expectations by benefiting from AI infrastructure buildout beyond the originally identified LTE, IoT, and broadband catalysts."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Entered programmatic advertising market with aggressive pricing (1-2% vs competitors' 12-15%), capturing market share rapidly and disrupting The Trade Desk's business model, though not directly recommended in the article."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform alongside Alphabet, but no specific performance commentary provided."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the incumbent switch vendor that Arista disrupted, but no direct investment recommendation or performance analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "4da31e5a9d3f4efe56a1aea669b2f8afb74736e6275d93333f519f590d131172",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-07T13:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985672/nvidia-s-hugging-face-buyout-can-it-further-strengthen-ai-dominance?cid=CS-ZC-FT-analyst_blog|quick_take-2985672",
+    "title": "Nvidia's Record Buyback Couldn't Keep the Nasdaq Out of the Red on Monday Morning",
+    "author": "Anders Bylund",
+    "published_utc": "2026-09-28T16:23:13Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/nvidias-record-buyback-couldnt-lift-the-nasdaq/?source=iedfolrf0000001",
     "tickers": [
       "NVDA",
       "AMD",
-      "INTC"
+      "QCOM",
+      "MU",
+      "SKHY"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
-    "description": "NVIDIA's proposed $12.93 billion acquisition of Hugging Face would expand its AI leadership beyond chips into the open-model ecosystem, giving it access to 18 million users, 3 million models, and 500,000 datasets. The deal strengthens NVIDIA's software and developer ecosystem while AMD and Intel challenge its dominance with their own AI platforms. NVIDIA trades at a forward P/E of 18.07 with strong earnings growth estimates.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889396%2Fnvidia-headquarters-with-nvidia-sign-in-front.png&w=1200&op=resize",
+    "description": "The Nasdaq fell 1% on Monday despite Nvidia announcing a record $150 billion buyback expansion. Market weakness was driven by Trump rejecting Iran's peace proposal, causing oil prices to spike and Treasury yields to rise to their highest level since 2002. Most semiconductor stocks declined sharply, with only Nvidia gaining ground as energy was the only sector posting real gains.",
     "keywords": [
-      "AI acquisition",
-      "open-source models",
-      "data center",
-      "AI accelerators",
-      "developer ecosystem",
-      "competitive advantage"
+      "stock market decline",
+      "Nvidia buyback",
+      "Iran geopolitical tensions",
+      "oil prices",
+      "semiconductor sector",
+      "Treasury yields",
+      "chip stocks"
     ],
     "insights": [
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "The acquisition of Hugging Face is strategically sound and expands NVIDIA's reach into the open-model ecosystem. Strong Q2 fiscal 2027 results with 106% revenue growth and 117% Data Center revenue surge support continued dominance. Forward P/E of 18.07 is below sector average, and earnings estimates show 93.3% and 64% growth for fiscal 2027 and 2028 respectively. Rated Zacks Rank #1 (Strong Buy)."
+        "sentiment_reasoning": "Stock rose 2.1% following announcement of $150 billion buyback expansion, the largest in US history, bringing total authorization to $235 billion. Also launched OpenShell safety platform."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 5.2% amid broad semiconductor sector downturn driven by rising Treasury yields and concerns about Federal rate increases."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 5.7% as part of widespread chip sector weakness due to geopolitical tensions and rising bond yields."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 3.7% amid memory stock selloff; facing additional pressure with earnings report scheduled for Wednesday evening."
+      },
+      {
+        "ticker": "SKHY",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 5.9%, experiencing the worst of Monday's semiconductor sector selling."
+      }
+    ]
+  },
+  {
+    "id": "03f4efc7ff4ba03976eac5480beb16946da71d55116de452990957fc25315677",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Intel Stock Surged Over 40% in September. History Shows What's Next.",
+    "author": "Keithen Drury",
+    "published_utc": "2026-09-27T16:32:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/intel-stock-surged-over-40-in-september-history-sh/?source=iedfolrf0000001",
+    "tickers": [
+      "INTC",
+      "TSM",
+      "NVDA",
+      "AMD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888983%2Fperson-in-front-of-multiple-computer-screens-looking-at-stock-graphs.jpg&w=1200&op=resize",
+    "description": "Intel's stock has surged over 40% in September and is up 250% in 2026, but the rally appears disconnected from business fundamentals. The stock now trades at 84x current earnings and 62x 2027 estimates\u2014far above industry peers\u2014suggesting a significant valuation correction may be coming. Analysts recommend more reasonably priced alternatives like Taiwan Semiconductor or Nvidia.",
+    "keywords": [
+      "Intel valuation",
+      "semiconductor stocks",
+      "stock rally",
+      "price-to-earnings ratio",
+      "foundry business",
+      "chip stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has rallied sharply on minimal news with valuations (84x current earnings, 62x 2027 estimates) far exceeding industry norms. Historical precedent suggests such valuations are unsustainable and likely to face significant correction unless earnings growth dramatically accelerates."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a more reasonably valued alternative to Intel, trading at historical average of ~23x earnings. Recommended as a better investment opportunity compared to Intel's inflated valuation."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Trading at 28x earnings, which is significantly more reasonable than Intel's valuation. Recommended as a more fairly priced semiconductor investment alternative."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable competitor to Intel in computing products, but noted to have had profitability challenges historically. Not explicitly recommended or discouraged."
+      }
+    ]
+  },
+  {
+    "id": "a0e06a9500682905b1f29c01946e5f4c88068eebca169443b3d3bae2129e897f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors",
+    "author": "Harsh Chauhan",
+    "published_utc": "2026-09-27T15:03:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/intel-ceo-lip-bu-tan-has-incredible-news-for-amd-stock-investors/?source=iedfolrf0000001",
+    "tickers": [
+      "INTC",
+      "AMD",
+      "TSM"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F76fb7739adc807a67ad30fb8053b62161f459f6e-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Intel CEO Lip-Bu Tan revealed that the company can only meet 50% of customer demand for server CPUs, indicating a significant supply shortage. While this benefits both Intel and AMD through potential price increases, AMD is positioned as the bigger beneficiary due to its superior technology, growing market share (34.5% vs Intel's declining share), and ability to ramp production with TSMC. AMD's data center revenue grew 107% year-over-year in Q2, and the company expects 80%+ growth in server revenue for H2 2026, compared to Intel's slowing growth trajectory.",
+    "keywords": [
+      "server CPU shortage",
+      "agentic AI",
+      "inference workloads",
+      "market share",
+      "data center segment",
+      "price hikes",
+      "supply constraints"
+    ],
+    "insights": [
+      {
+        "ticker": "INTC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Supply shortage should drive higher CPU prices and margins; Q2 revenue up 25% YoY with DCAI segment up 59%; company implementing price hikes in 2027. However, sentiment is tempered by losing market share to AMD and inability to meet demand despite increased production."
       },
       {
         "ticker": "AMD",
         "sentiment": "positive",
-        "sentiment_reasoning": "AMD is strengthening its AI offerings with the Helios rack-scale platform and Instinct accelerators. Q2 2026 Data Center revenues rose 107% year-over-year to $6.7 billion with Instinct sales more than doubling. Major deals from Anthropic and Microsoft deployment on Azure demonstrate competitive traction. Expected Data Center revenue more than doubling in 2027."
+        "sentiment_reasoning": "Strong beneficiary of server CPU demand surge with superior technology and multithreading capabilities for agentic AI; market share increased to 34.5% from 27.3% YoY; Q2 data center revenue up 107% YoY; expects 80%+ growth in H2 2026 and 70%+ in 2027; trading at more attractive valuation (36x forward earnings vs Intel's 56x); analysts project 82% earnings growth this year and 105% in 2027."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as AMD's foundry partner for ramping production capacity, indicating increased business opportunity. However, no direct commentary on TSMC's performance or outlook provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "02fcb1805f40d6537023287177085d1a85d17dbc7cecd010c40ef8260edff0d0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia Trades Near Its 52-Week High at Its Cheapest Valuation in a Decade. History Says This Is What $1,000 Invested Could Be Worth by 2030.",
+    "author": "Adam Spatacco",
+    "published_utc": "2026-09-26T12:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/nvidia-trades-near-its-52-week-high-at-its-cheapes/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "AVGO",
+      "AMZN",
+      "MRVL",
+      "COHR",
+      "NOK"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889032%2Finvesting-stocks-calculations-tracking-market-2.jpg&w=1200&op=resize",
+    "description": "Nvidia is trading at its lowest forward P/E ratio in a decade (14.3x) despite being near 52-week highs. The article argues this presents a buying opportunity, with analyst forecasts suggesting EPS could reach $26 by fiscal 2030. If the P/E multiple expands from 15x to 22x, the stock could reach $572, representing a 154% gain. Beyond its core data center business (growing 117% YoY), Nvidia is expanding into AI agents, space exploration, physical AI, and autonomous vehicles.",
+    "keywords": [
+      "Nvidia valuation",
+      "AI infrastructure",
+      "GPU market",
+      "data center growth",
+      "forward P/E ratio",
+      "AI agents",
+      "autonomous vehicles",
+      "space exploration"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Trading at historically low valuation (14.3x forward P/E) despite strong fundamentals; core data center business growing 117% YoY; multiple new growth catalysts in AI agents, space, physical AI, and autonomous vehicles; analyst projects significant upside potential with $1,000 investment potentially worth $2,540 by 2030"
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as emerging competition in semiconductor/GPU space but not analyzed in detail; represents a competitive threat to Nvidia's market position"
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as emerging competition and strategic partner through Nvidia's partnerships; competitive threat but also potential beneficiary of AI infrastructure buildout"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as major hyperscaler adopting Nvidia's AI platforms; deploying Nvidia's full stack for warehouse robots and physical AI applications"
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Nvidia for next-wave AI infrastructure and custom silicon; benefits from AI infrastructure expansion but role is supporting rather than primary"
+      },
+      {
+        "ticker": "COHR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Nvidia for AI infrastructure technology; supporting role in next-generation AI systems"
+      },
+      {
+        "ticker": "NOK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Nvidia for AI-RAN and 6G technology; supporting role in emerging AI infrastructure"
+      }
+    ]
+  },
+  {
+    "id": "12958e0132b3e0bfb3275ae4305f12c9bb564adaa09552e895f1aba9537a7108",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-26T01:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/if-i-could-only-add-1-etf-to-my-portfolio-this-yea/?source=iedfolrf0000001",
+    "tickers": [
+      "SMH",
+      "NVDA",
+      "TSM",
+      "AMD",
+      "AVGO",
+      "INTC",
+      "QQQ",
+      "SOXX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889113%2Fetf-with-digital-design.jpg&w=1200&op=resize",
+    "description": "The author recommends the VanEck Semiconductor ETF (SMH) as the single best ETF to add to a portfolio, citing the continued runway of the AI boom and strong growth prospects of its top holdings. Despite a high P/E ratio of 41, the ETF's major components like Nvidia and TSMC are expected to deliver substantial revenue growth, making it an attractive high-growth investment opportunity.",
+    "keywords": [
+      "semiconductor ETF",
+      "AI boom",
+      "chip stocks",
+      "high-growth investing",
+      "Nvidia",
+      "TSMC"
+    ],
+    "insights": [
+      {
+        "ticker": "SMH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the top ETF choice with strong historical performance and significant upside potential driven by AI demand and robust growth rates of holdings"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Top holding with 19% of fund allocation; expected to grow revenue by 91% current quarter and 65% in 2027, demonstrating exceptional growth prospects"
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding at 9% of fund; targeting 47% growth this quarter and 35% next year, showing strong momentum"
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Top-5 holding expected to benefit from AI demand cycles and new product deployments"
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Top-5 holding positioned to benefit from continued AI infrastructure buildout"
       },
       {
         "ticker": "INTC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Intel is gaining momentum in data center AI with Q2 revenues up 25% and Data Center/AI revenues surging 59% to $6.26 billion. Launched Xeon 6+ and expanded OpenVINO framework. Purpose-built silicon revenues nearly tripled year-over-year and approaching $2 billion run rate with $4 billion target, demonstrating strong growth trajectory."
+        "sentiment_reasoning": "Top-5 holding expected to see profit growth from new 14A process deployment and foundry business expansion"
+      },
+      {
+        "ticker": "QQQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as popular index fund alternative but not recommended over SMH for AI exposure"
+      },
+      {
+        "ticker": "SOXX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as alternative chip ETF but noted as underperforming SMH due to less concentration in top performers"
       }
     ]
   }

@@ -1,327 +1,287 @@
 [
   {
-    "id": "8075353bc8051e75ca37c825e7e6cdcf6fc1076cbb76c869d9b178ba8c247a59",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Equinix & CPP Investments Complete $4 Billion atNorth Acquisition",
-    "author": "Na",
-    "published_utc": "2026-09-03T16:31:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984726/equinix-cpp-investments-complete-4-billion-atnorth-acquisition?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2984726",
-    "tickers": [
-      "EQIX",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL",
-      "WELL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/95/2599.jpg",
-    "description": "Equinix and Canada Pension Plan Investment Board have completed their $4 billion acquisition of Nordic data center operator atNorth. CPP Investments owns 51% while Equinix holds 34% of the company. The deal is immediately accretive to Equinix's AFFO per share and expands their exposure to AI-ready Nordic infrastructure with eight operational data centers across the Nordic region.",
-    "keywords": [
-      "data center acquisition",
-      "Nordic infrastructure",
-      "artificial intelligence",
-      "cloud computing",
-      "renewable energy",
-      "AFFO per share",
-      "hyperscale customers"
-    ],
-    "insights": [
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The acquisition is immediately accretive to AFFO per share, provides meaningful geographic diversification, supports AI and hyperscale growth strategy, and aligns with long-term growth outlook of 9-12% annual AFFO-per-share growth through 2029."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but no direct connection to the atNorth acquisition."
-      },
-      {
-        "ticker": "WELL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT stock with Zacks Rank #2 (Buy) rating and projected 20.98% FFO per share growth for 2026, but operates in a different sector (healthcare) with no connection to the atNorth acquisition."
-      }
-    ]
-  },
-  {
-    "id": "1376c69d609a3119682d1328c1c1223efccab387545a41bcbc4c9d5f51c647bc",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Equinix, NVIDIA & Together AI Accelerate Enterprise AI Inference",
-    "author": "Na",
-    "published_utc": "2026-09-03T16:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984722/equinix-nvidia-together-ai-accelerate-enterprise-ai-inference?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2984722",
-    "tickers": [
-      "EQIX",
-      "NVDA",
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL",
-      "WELL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/9855.jpg",
-    "description": "Equinix has partnered with NVIDIA and Together AI to launch Equinix Inference Exchange, a distributed AI inference platform for enterprises. The solution combines NVIDIA's Enterprise Reference Architectures, Together AI's inference capabilities, and Equinix's global infrastructure to enable faster, more cost-efficient AI deployment across multiple geographies. The platform will support metro-edge inference, open-source models, and sovereign AI requirements, with availability expected in Q1 2027.",
-    "keywords": [
-      "AI inference",
-      "distributed computing",
-      "enterprise AI",
-      "data centers",
-      "edge computing",
-      "sovereign AI",
-      "open-source models"
-    ],
-    "insights": [
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Equinix is strengthening its positioning in enterprise AI through a strategic partnership that leverages its global infrastructure of 280+ data centers. The initiative aligns with rising AI demand and provides a new growth opportunity as enterprises move AI workloads to production, with the company gaining 4.8% in the past six months."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA is expanding its collaboration with Equinix by providing Enterprise Reference Architectures and AI infrastructure designed to optimize AI factory throughput and minimize token costs, reinforcing its role in the enterprise AI ecosystem."
-      },
-      {
-        "ticker": "DLR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 13.67% FFO per share growth for 2026, but not directly involved in the announced initiative."
-      },
-      {
-        "ticker": "WELL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable REIT with a Zacks Rank #2 (Buy) rating and projected 20.98% FFO per share growth for 2026, but not directly involved in the announced initiative."
-      }
-    ]
-  },
-  {
-    "id": "6a4c68022b3e208f1255e7e3ec724a9e6007b95d7c263b66ee35a3852cd0b7e5",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "EQIX Strengthens Advanced Computing With Diraq Quantum Deployment",
-    "author": "Na",
-    "published_utc": "2026-09-01T17:12:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983395/eqix-strengthens-advanced-computing-with-diraq-quantum-deployment?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2983395",
-    "tickers": [
-      "EQIX"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/95/2599.jpg",
-    "description": "Equinix is partnering with Australian quantum-computing company Diraq to install a silicon spin quantum computer at its Sydney data center by October 2026. The eight-qubit system will operate alongside conventional servers with self-contained cooling and under 20 kW power consumption, allowing Equinix to test quantum integration with cloud, AI, and high-performance computing infrastructure in a commercial setting.",
-    "keywords": [
-      "quantum computing",
-      "data center",
-      "infrastructure",
-      "silicon spin",
-      "hybrid computing",
-      "AI integration",
-      "high-performance computing"
-    ],
-    "insights": [
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The partnership strengthens Equinix's strategic positioning in advanced computing infrastructure and demonstrates its capability to host and integrate emerging quantum technologies with existing cloud and AI infrastructure, supporting long-term customer demand as enterprises explore hybrid quantum-classical architectures."
-      }
-    ]
-  },
-  {
-    "id": "2e5d9f13e5d30ff96a9e2cc9c1cc39f409bcc7171c2c77ff1c0cd7b408bc4436",
+    "id": "9fed0aa9705dd929cf2ece4a1b7c68a3fce2d3b7a5d3cf3e4ccf923b490920ef",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "United States Data Center Colocation Market Outlook & Forecast 2026-2031 | Renewable Energy Gains Ground Across U.S. Colocation Facilities",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-01T10:58:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/01/3353928/28124/en/united-states-data-center-colocation-market-outlook-forecast-2026-2031-renewable-energy-gains-ground-across-u-s-colocation-facilities.html",
+    "title": "Schneider Electric unveils the world\u2019s first fully Software-Defined Medium Voltage switchgear to accelerate the speed and scalability of AI factories",
+    "author": "Schneider Electric",
+    "published_utc": "2026-09-28T14:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3369973/0/en/schneider-electric-unveils-the-world-s-first-fully-software-defined-medium-voltage-switchgear-to-accelerate-the-speed-and-scalability-of-ai-factories.html",
     "tickers": [
-      "DLR",
-      "DLRpJ",
-      "DLRpK",
-      "DLRpL",
       "EQIX",
-      "SLNH",
-      "SLNHP",
-      "APLD"
+      "SBGSY"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/3aa870a2-0fb1-4b40-8420-bc92cd625d06",
-    "description": "The U.S. data center colocation market is projected to grow from $43.71 billion in 2025 to $85.18 billion by 2031 at an 11.76% CAGR, driven by AI adoption, cloud computing, hyperscale expansion, and renewable energy initiatives. The Southeastern U.S. leads investment with over $15 billion in 2025, followed by the Southwest. Major operators are deploying liquid-cooling technologies and high-density infrastructure to support GPU-intensive AI workloads.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/97c4cdc5-2007-40dc-af7a-41397685d823",
+    "description": "Schneider Electric announced the world's first fully Software-Defined Medium Voltage (MV) switchgear at YOTTA 2026, enabling up to 3\u00d7 faster ordering and manufacturing, up to 2\u00d7 faster commissioning, and zero-downtime upgrades. The technology has been piloted with Equinix in a live data center environment, with broader availability expected in 2028.",
     "keywords": [
-      "data center colocation",
-      "artificial intelligence",
-      "GPU adoption",
-      "liquid cooling",
-      "renewable energy",
-      "hyperscale expansion",
-      "cloud computing",
-      "high-density infrastructure"
+      "Software-Defined Medium Voltage",
+      "switchgear",
+      "AI factories",
+      "data centers",
+      "electrical distribution",
+      "zero-downtime upgrades",
+      "predictive maintenance",
+      "energy infrastructure"
     ],
     "insights": [
       {
-        "ticker": "DLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
-      },
-      {
-        "ticker": "DLRpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
-      },
-      {
-        "ticker": "DLRpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
-      },
-      {
-        "ticker": "DLRpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported that renewable sources supplied 75% of global electricity requirements with 1.5 GW of contracted renewable capacity, matched 185 data centers with 100% renewable energy, and achieved ENERGY STAR certification across 69% of U.S. portfolio."
-      },
-      {
         "ticker": "EQIX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Announced carbon-neutrality targets for 2030, positioning the company as a sustainability leader in the growing data center market."
+        "sentiment_reasoning": "Equinix is highlighted as an early adopter and pilot partner for this innovative technology in their live colocation data center environment. The partnership demonstrates their commitment to innovation and positions them to benefit from faster deployment and operational efficiency improvements."
       },
       {
-        "ticker": "SLNH",
+        "ticker": "SBGSY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceeded 1 GW of clean computing capacity following launch of wind- and solar-powered facilities in Texas, aligning with the market's renewable energy trend."
-      },
-      {
-        "ticker": "SLNHP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceeded 1 GW of clean computing capacity following launch of wind- and solar-powered facilities in Texas, aligning with the market's renewable energy trend."
-      },
-      {
-        "ticker": "APLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a prominent U.S. data center colocation operator positioned to benefit from the 11.76% CAGR market growth driven by AI and high-performance computing demand."
+        "sentiment_reasoning": "Company announced a significant technological innovation that addresses key market pain points (faster deployment, reduced complexity, zero-downtime upgrades), positions them as a leader in software-defined energy infrastructure, and has already secured a pilot with a major customer (Equinix). The innovation directly supports growing AI and data center demand."
       }
     ]
   },
   {
-    "id": "3d12b4509edefbeeb78dfec164db781071af42d385874ac5272893bf57b21019",
+    "id": "e5557d0c90724be57312f118ad42c73634201ec9b4bf94ad741a621f479e4809",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "I'd Rather Own Bloom Energy Than Nvidia Right Now. Here's My Case.",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-26T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/26/id-rather-own-bloom-energy-than-nvidia-right-now-h/?source=iedfolrf0000001",
+    "title": "Schwab REIT ETF vs. Vanguard Real Estate ETF: Which Wins for the Long Term?",
+    "author": "Sarah Sidlow",
+    "published_utc": "2026-09-26T11:28:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/26/schwab-reit-etf-vs-vanguard-real-estate-etf-which-wins-for-the-long-term/?source=iedfolrf0000001",
     "tickers": [
-      "BE",
-      "NVDA",
-      "AMD",
-      "AVGO",
-      "BAM",
-      "ORCL",
-      "ORCLpD",
-      "EQIX",
-      "CBRS"
+      "SCHH",
+      "VNQ",
+      "WELL",
+      "PLD",
+      "EQIX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884223%2Fandroid-head-shattering.jpg&w=1200&op=resize",
-    "description": "While both Bloom Energy and Nvidia are strong AI plays, analyst Leo Sun argues Bloom Energy offers better upside potential. Bloom develops solid oxide fuel cells for data center power, with a $20 billion backlog and backing from Brookfield Asset Management. Despite trading at 36x forward EBITDA versus Nvidia's 12x, Bloom's projected 70% revenue CAGR and 120% EBITDA CAGR (2025-2028) exceed Nvidia's 48% and 52% growth rates, while Nvidia faces increasing competition from AMD, Broadcom, and others.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Schwab U.S. REIT ETF (SCHH) offers a lower expense ratio of 0.07% versus Vanguard Real Estate ETF's (VNQ) 0.13%, but VNQ provides higher dividend yield (3.7% vs 2.9%) and broader diversification with 139 holdings. Over 5 years, SCHH delivered stronger returns ($1,101 vs $1,059 on $1,000 invested) with lower volatility. The article recommends VNQ for long-term income investors despite higher fees, citing superior dividend payouts and diversification.",
     "keywords": [
-      "AI infrastructure",
-      "solid oxide fuel cells",
-      "data center power",
-      "GPU competition",
-      "valuation comparison",
-      "growth projections"
+      "REIT ETF comparison",
+      "dividend yield",
+      "expense ratio",
+      "real estate investment",
+      "portfolio diversification",
+      "long-term investing"
     ],
     "insights": [
       {
-        "ticker": "BE",
+        "ticker": "SCHH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as superior investment choice with higher growth projections (70% revenue CAGR, 120% EBITDA CAGR), strong $20 billion backlog, major customer base, strategic $25 billion partnership with Brookfield, and wider competitive moat with fewer direct competitors."
+        "sentiment_reasoning": "SCHH is praised for its cost efficiency (0.07% expense ratio), superior 1-year returns (9.0%), lower volatility (beta 0.93), and better 5-year growth trajectory. However, it is noted as having a lower dividend yield."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While acknowledged as dominant AI chipmaker with strong market position, faces headwinds from intense competition (AMD, Broadcom, Cerebras), slowing growth projections (48% revenue CAGR, 52% EBITDA CAGR), and potential difficulty meeting Wall Street estimates despite attractive 12x forward EBITDA valuation."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitive threat to Nvidia with lower-cost GPU offerings that could reduce Nvidia's data center market share."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as competitor developing custom AI chips that pose competitive threat to Nvidia's market dominance."
-      },
-      {
-        "ticker": "BAM",
+        "ticker": "VNQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strategic partner backing Bloom Energy's AI infrastructure projects with expanded $25 billion partnership commitment, demonstrating confidence in Bloom's business model."
+        "sentiment_reasoning": "VNQ is recommended as the better long-term choice despite higher fees, due to its higher dividend yield (3.7%), broader diversification (139 holdings), and inclusion of non-REIT real estate companies. The article's author explicitly favors VNQ for income-focused investors."
       },
       {
-        "ticker": "ORCL",
+        "ticker": "WELL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as major customer of Bloom Energy's SOFC systems for AI infrastructure expansion."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (10.2% in SCHH, 8.7% in VNQ) but no specific sentiment is expressed about the company itself."
       },
       {
-        "ticker": "ORCLpD",
+        "ticker": "PLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as major customer of Bloom Energy's SOFC systems for AI infrastructure expansion."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (8.9% in SCHH, 6.8% in VNQ) but no specific sentiment is expressed about the company itself."
       },
       {
         "ticker": "EQIX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as major customer of Bloom Energy's SOFC systems for AI infrastructure expansion."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (4.7% in SCHH, 5.5% in VNQ) but no specific sentiment is expressed about the company itself."
+      }
+    ]
+  },
+  {
+    "id": "0cd74aee6af10ee3a29c80ab0079a489701a8947be50fdcfcd0001345f4c202d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Mplify Announces Winners of the 2026 NaaS Excellence Awards",
+    "author": "Not Specified",
+    "published_utc": "2026-09-24T17:49:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368671/0/en/mplify-announces-winners-of-the-2026-naas-excellence-awards.html",
+    "tickers": [
+      "LUMN",
+      "EQIX",
+      "CCZ",
+      "CMCSA",
+      "PANW",
+      "NOK"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/5bf6eb4c-aba7-46fa-9bc5-8fb5c0378797",
+    "description": "Mplify announced the winners of its 2026 NaaS Excellence Awards, recognizing organizations advancing Network-as-a-Service, automation, and AI-ready digital infrastructure. Major winners include PCCW Global (NaaS Service Provider of the Year), Lumen Technologies (North America), Equinix (Interconnection Infrastructure Leadership), and Tata Communications (Secure NaaS Leadership). Professional awards honored Ron Insler (RAD), Jeremy Villalobos (Orchest Technologies), Dan Pitt (Palo Alto), and Pascal Menezes (Mplify).",
+    "keywords": [
+      "Network-as-a-Service",
+      "NaaS",
+      "AI infrastructure",
+      "automation",
+      "interoperability",
+      "Carrier Ethernet",
+      "digital infrastructure",
+      "LSO",
+      "secure connectivity"
+    ],
+    "insights": [
+      {
+        "ticker": "LUMN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won NaaS for AI Vision (North America), NaaS Ecosystem Collaboration, and NaaS Service Provider of the Year (North America), indicating leadership across multiple categories"
       },
       {
-        "ticker": "CBRS",
+        "ticker": "EQIX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Interconnection Infrastructure Leadership and NaaS Service Innovation (Global), recognizing its critical role in AI-ready infrastructure"
+      },
+      {
+        "ticker": "CCZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Carrier Ethernet Service Innovation (North America) and NaaS for Enterprise Implementation (Hospitality), demonstrating practical implementation success"
+      },
+      {
+        "ticker": "CMCSA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Carrier Ethernet Service Innovation (North America) and NaaS for Enterprise Implementation (Hospitality), demonstrating practical implementation success"
+      },
+      {
+        "ticker": "PANW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won Secure NaaS Solution award, recognizing its cybersecurity solutions in the NaaS ecosystem"
+      },
+      {
+        "ticker": "NOK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won AI Network Infrastructure Innovation award, validating its technology contributions to AI-driven networking"
+      }
+    ]
+  },
+  {
+    "id": "7560a69704ab34faaf924be017f93f289502f2f62f98fecbf7c1b14a81f4e244",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Vanguard Real Estate ETF vs State Street SPDR: Diversification or Cost",
+    "author": "John Ballard",
+    "published_utc": "2026-09-24T03:26:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/23/vanguard-real-estate-etf-vs-state-street-spdr-diversification-or-cost/?source=iedfolrf0000001",
+    "tickers": [
+      "VNQ",
+      "XLRE",
+      "WELL",
+      "PLD",
+      "EQIX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Vanguard Real Estate ETF (VNQ) and State Street Real Estate Select Sector SPDR ETF (XLRE) offer different approaches to real estate investing. VNQ provides broader diversification with 139 holdings and a higher 3.7% dividend yield but charges 0.13% in expenses. XLRE focuses on 30 large-cap stocks with a lower 0.08% expense ratio. Both delivered similar 5-year returns, but Vanguard's larger $70.8B asset base and higher yield make it the more solid long-term choice despite its slightly higher fees.",
+    "keywords": [
+      "real estate ETF",
+      "REIT",
+      "diversification",
+      "expense ratio",
+      "dividend yield",
+      "large-cap stocks",
+      "asset allocation"
+    ],
+    "insights": [
+      {
+        "ticker": "VNQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better choice due to superior diversification (139 holdings vs 30), higher dividend yield (3.7%), larger asset base ($70.8B providing greater liquidity), and similar performance to competitor despite marginally higher expense ratio."
+      },
+      {
+        "ticker": "XLRE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as innovative challenger in AI accelerator market competing against Nvidia."
+        "sentiment_reasoning": "Presented as a viable but less optimal alternative; offers the advantage of lower expense ratio (0.08%) and concentrated large-cap focus, but lacks the diversification, yield, and liquidity advantages of VNQ."
+      },
+      {
+        "ticker": "WELL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (10.23% in VNQ, 11.19% in XLRE), indicating it is a significant component of real estate sector exposure but no independent analysis provided."
+      },
+      {
+        "ticker": "PLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a major holding in both funds (8.08% in VNQ, 8.70% in XLRE), representing core real estate portfolio exposure without specific sentiment commentary."
+      },
+      {
+        "ticker": "EQIX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a significant holding in both ETFs (6.39% in VNQ, 6.84% in XLRE), indicating relevance to real estate sector but no independent evaluation provided."
+      }
+    ]
+  },
+  {
+    "id": "edde0b2624601ddd52cdec968ed2e26c322eb5d9f948b319f704d7597cdcf28d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Central & Eastern Europe (CEE) Existing & Upcoming Data Center Report 2026: Portfolio Expands as New Developments Unlock Growth Opportunities",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-21T08:59:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/21/3365226/28124/en/central-eastern-europe-cee-existing-upcoming-data-center-report-2026-portfolio-expands-as-new-developments-unlock-growth-opportunities.html",
+    "tickers": [
+      "DLR",
+      "DLRpJ",
+      "DLRpK",
+      "DLRpL",
+      "EQIX",
+      "ROSYY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "A comprehensive analysis of the CEE data center market reveals 290 existing facilities and 51 upcoming projects across Austria, Czech Republic, Poland, and Russia. Russia leads with over 970 MW of capacity, while Poland and Russia together account for 40% of upcoming IT power capacity. Major operators include Rostelecom, IXcellerate, ATOMDATA, and DataPro, with significant growth opportunities in colocation, construction, power, and cooling infrastructure through 2031.",
+    "keywords": [
+      "data center",
+      "Central Eastern Europe",
+      "capacity expansion",
+      "colocation",
+      "infrastructure investment",
+      "IT power capacity",
+      "market analysis"
+    ],
+    "insights": [
+      {
+        "ticker": "DLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a company in the CEE market but no specific operational details or market position highlighted in the report"
+      },
+      {
+        "ticker": "DLRpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a company in the CEE market but no specific operational details or market position highlighted in the report"
+      },
+      {
+        "ticker": "DLRpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a company in the CEE market but no specific operational details or market position highlighted in the report"
+      },
+      {
+        "ticker": "DLRpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a company in the CEE market but no specific operational details or market position highlighted in the report"
+      },
+      {
+        "ticker": "EQIX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among companies in the report but no specific CEE market presence or capacity details provided"
+      },
+      {
+        "ticker": "ROSYY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a leading CEE data center operator by capacity, supporting Russia's strong market position with significant existing infrastructure"
       }
     ]
   }

@@ -1,242 +1,256 @@
 [
   {
-    "id": "79f5c314da2a7c991a38a771e67382f12024d08f97d0e09b008be281855e1322",
+    "id": "ad40210123cc061b7942747252a666398886c42cffb8483df444e8ab8f7aab66",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "1 No-Brainer ETF I'm Loading Up on in 2026 and Beyond",
-    "author": "Stefon Walters",
-    "published_utc": "2026-09-08T18:37:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/1-no-brainer-etf-im-loading-up-on-in-2026-and-beyo/?source=iedfolrf0000001",
+    "title": "Reuters Momentum AI Austin Day 1: A New Way to Measure Whether AI Is Actually Paying Off",
+    "author": "Reuters Events",
+    "published_utc": "2026-09-25T00:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
     "tickers": [
-      "SCHD",
-      "MRK",
-      "AMGN",
-      "ABT",
-      "KO",
-      "CVX",
+      "FDX",
+      "ABBV",
+      "WBD",
       "UNH",
-      "PG"
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886467%2Fbusinesswoman-reading-financial-newspaper-stocks-invest-money-getty.jpg&w=1200&op=resize",
-    "description": "The Schwab U.S. Dividend Equity ETF (SCHD) is recommended as a core holding for long-term investors seeking diversified dividend income. With a 3% dividend yield (three times higher than S&P 500 ETFs), low 0.06% expense ratio, and exposure to stable sectors like healthcare and consumer staples, SCHD offers attractive passive income potential. The ETF has delivered 29% total returns year-to-date and is particularly suitable for tax-advantaged accounts like Roth IRAs.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
+    "description": "Enterprise AI is shifting from experimentation to demonstrating measurable ROI. Companies like FedEx ($3B in cost reductions), Mars (20% top-line growth), and Indeed (70% of matches from AI) are scaling AI beyond pilots, but success requires organizational redesign, clear ownership, and human oversight. Leaders warn that AI can amplify existing organizational weaknesses and autonomous agents need defined spending limits and accountability measures.",
     "keywords": [
-      "dividend ETF",
-      "passive income",
-      "SCHD",
-      "dividend yield",
-      "long-term investing",
-      "tax-free compounding",
-      "diversification"
+      "enterprise AI",
+      "ROI",
+      "business value",
+      "AI scaling",
+      "autonomous agents",
+      "organizational transformation",
+      "AI governance",
+      "workforce impact"
     ],
     "insights": [
       {
-        "ticker": "SCHD",
+        "ticker": "FDX",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article strongly endorses SCHD as a 'no-brainer' investment, highlighting its attractive 3% dividend yield (3x S&P 500), low expense ratio (0.06%), diversified holdings across stable sectors, and strong year-to-date performance (29% returns). The author explicitly states they are 'loading up' on it and recommends it for long-term holding."
+        "sentiment_reasoning": "Company demonstrated significant measurable success with 200+ AI use cases contributing to $3 billion in cost reductions over six years, exemplifying successful AI scaling and ROI delivery."
       },
       {
-        "ticker": "MRK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding (4.88%) of SCHD, indicating it meets the ETF's rigorous dividend criteria and represents a solid, cash-flow-heavy company with a proven track record."
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of moving beyond pilots in clinical trials, but no specific metrics or outcomes provided to assess success level."
       },
       {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in SCHD (4.81%), representing a high-quality healthcare company meeting the ETF's dividend vetting standards."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in SCHD (4.63%), indicating strong fundamentals and dividend reliability as part of the diversified portfolio."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a top SCHD holding, representing a mature, cash-flow-heavy consumer staples company with proven dividend track record."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top SCHD holding in the energy sector, representing a stable, dividend-paying company within the diversified portfolio."
+        "ticker": "WBD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as example of AI implementation in advertising, but without specific performance data or outcomes mentioned."
       },
       {
         "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a top SCHD holding in the healthcare sector, representing a quality company meeting the ETF's dividend criteria."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as example of AI scaling in healthcare support, but no quantified results or specific outcomes provided."
       },
       {
-        "ticker": "PG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top SCHD holding in consumer staples, representing a mature, cash-flow-heavy company with strong dividend history."
+        "ticker": "SCHW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
       }
     ]
   },
   {
-    "id": "1938837e45f62b578f947022ffeea1a9f186bf5c55b437ccd816e1724cee9463",
+    "id": "a29907dbd5adfb5a7ed92ccbc92dcd3f8ac5c94f3a1e409423d53281d0c912fb",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "UnitedHealth Group Stock Is Up 39.4% in the Last 6 Months. How High Can It Go?",
-    "author": "Thomas Niel",
-    "published_utc": "2026-09-08T13:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/unitedhealth-group-stock-is-up-39-in-the-last-6-mo/?source=iedfolrf0000001",
+    "title": "Europe Clinical Data Analytics Market Outlook 2026-2033 | AI, Cloud Deployment and Data-Driven Healthcare Adoption Accelerate Across the Region",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-24T08:57:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368067/28124/en/europe-clinical-data-analytics-market-outlook-2026-2033-ai-cloud-deployment-and-data-driven-healthcare-adoption-accelerate-across-the-region.html",
     "tickers": [
-      "UNH"
+      "UNH",
+      "ORCL",
+      "ORCLpD",
+      "IQV",
+      "DASTY",
+      "CTSH",
+      "HCAT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885993%2Ffinancial-health-stethoscope-money-cash-hundred-bills-medical-healthcare-1200x803-37403b6.jpg&w=1200&op=resize",
-    "description": "UnitedHealth Group (UNH) surged 39.4% over six months, driven by strong Q1 earnings and investor confidence in the company's turnaround efforts, including a $3 billion AI investment. However, the stock has pulled back since July due to concerns about rising healthcare costs from GLP-1 drugs and independent dispute resolutions. Trading at 18x estimated 2027 earnings, analysts remain bullish, viewing recent volatility as a potential buying opportunity if management's AI-driven strategy delivers expected mid-to-high teens earnings growth.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "Europe's clinical data analytics market is projected to reach USD 105.6 billion by 2031, growing at a 27% CAGR through 2033. Growth is driven by healthcare digitalization, AI adoption, cloud deployment, and regulatory initiatives like the European Health Data Space. Software and cloud-based solutions lead the market, with healthcare providers and payers increasingly investing in analytics for improved patient outcomes and operational efficiency.",
     "keywords": [
-      "UnitedHealth Group",
-      "healthcare stocks",
-      "earnings turnaround",
-      "artificial intelligence investment",
-      "stock volatility",
-      "healthcare costs",
-      "GLP-1 drugs",
-      "valuation"
+      "clinical data analytics",
+      "healthcare digitalization",
+      "artificial intelligence",
+      "cloud computing",
+      "Europe healthcare market",
+      "predictive analytics",
+      "precision medicine",
+      "data-driven decision making"
     ],
     "insights": [
       {
         "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent pullback from July highs, the article maintains a bullish long-term outlook. Strong Q1 earnings, major analyst upgrades from Goldman Sachs/BofA/Morgan Stanley, successful AI investment returns (2-to-1), reasonable valuation at 18x 2027 earnings, and expected mid-to-high teens earnings growth over three years support a 'solid long-term buy' recommendation. Recent weakness is characterized as a potential 'buy the dip' opportunity rather than a fundamental deterioration."
+        "sentiment_reasoning": "Listed as a key company in the growing European clinical data analytics market, positioned to benefit from the 27% CAGR expansion and increasing healthcare provider adoption of analytics solutions."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a key player in the market with strong positioning in cloud-based clinical data analytics solutions, which is the dominant deployment model expected to reach USD 65.7 billion by 2031."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a key player in the market with strong positioning in cloud-based clinical data analytics solutions, which is the dominant deployment model expected to reach USD 65.7 billion by 2031."
+      },
+      {
+        "ticker": "IQV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key company profiled in a rapidly expanding market driven by demand for clinical research analytics, real-world evidence, and data-driven healthcare solutions across Europe."
+      },
+      {
+        "ticker": "DASTY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key player in clinical data analytics with Medidata platform positioned to capture growth in clinical research analytics and comparative effectiveness studies across Europe."
+      },
+      {
+        "ticker": "CTSH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key company providing services and implementation support for clinical data analytics solutions, benefiting from the services segment growing at 27.5% CAGR."
+      },
+      {
+        "ticker": "HCAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Specialized healthcare analytics provider positioned to benefit from strong market growth driven by demand for quality improvement, clinical benchmarking, and population health management solutions."
       }
     ]
   },
   {
-    "id": "e26e20326a2106a0f2a05176c7a22c1ab7aa6dcd7dbec78eed8a40a2ca6edd5d",
+    "id": "2d8060ce1a74acd411408441868591ef7055d1ae1126c502a3ab78c855be6346",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "UnitedHealth Stock Rises 39% in 6 Months: Should Investors Still Buy?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-04T16:04:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985407/unitedhealth-stock-rises-39-in-6-months-should-investors-still-buy?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985407",
+    "title": "UNH vs. MOH: Which Managed Care Stock Looks More Attractive?",
+    "author": "Na",
+    "published_utc": "2026-09-23T15:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994669/unh-vs-moh-which-managed-care-stock-looks-more-attractive?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2994669",
     "tickers": [
       "UNH",
-      "ELV",
-      "HUM"
+      "MOH"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/16/2258.jpg",
-    "description": "UnitedHealth (UNH) has surged 38.8% over six months as medical-cost pressures ease and confidence improves. The company's medical care ratio fell to 85.3%, medical costs declined 2%, and 2026 EPS estimates rose 21.2% to $19.82. Despite the rally, UNH trades below its five-year median valuation and analyst price targets, suggesting further upside potential. The stock carries a Zacks Rank #2 (Buy) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e7/288.jpg",
+    "description": "UnitedHealth Group (UNH) and Molina Healthcare (MOH) are compared as investment options in the managed care sector. UNH benefits from diversification through its Optum platform, improving profitability, and a stronger balance sheet, but faces membership pressure. MOH offers a focused recovery story with stabilizing Medicaid economics and growth in Medicare dual-eligible plans, commanding a higher valuation. Despite UNH's operational strengths, MOH is rated as the more attractive investment due to stronger projected earnings rebound, earning a Zacks Rank #1 (Strong Buy) versus UNH's Rank #2 (Buy).",
     "keywords": [
-      "medical-cost trends",
-      "Medicare Advantage",
-      "prior authorization",
-      "earnings growth",
-      "capital returns",
-      "valuation",
-      "Optum diversification"
+      "managed care",
+      "healthcare insurance",
+      "Medicaid",
+      "Medicare",
+      "medical care ratio",
+      "earnings recovery",
+      "valuation comparison",
+      "dual-eligible plans"
     ],
     "insights": [
       {
         "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Improving medical-cost trends with medical care ratio declining to 85.3%, strong EPS growth projections (21.2% for 2026, 13.7% for 2027), favorable Medicare Advantage reimbursement increases, consistent earnings beat history, and valuation still below historical median despite recent gains. Stock rated Zacks Rank #2 (Buy) with 20.5% upside to analyst targets."
+        "sentiment_reasoning": "UNH demonstrates improving profitability with medical care ratio improving to 86.7%, strong operating income growth, diversified business model through Optum platform, solid balance sheet with $31.5B in cash, and consistent earnings beat (12.1% average surprise). However, faces membership pressure in Medicare Advantage and Medicaid."
       },
       {
-        "ticker": "ELV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer with stronger 6-month performance (44.8% gain vs UNH's 38.8%), but no detailed analysis provided. Used primarily for comparative context rather than investment recommendation."
-      },
-      {
-        "ticker": "HUM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer with exceptional 6-month performance (124.9% gain), but no detailed analysis provided. Used primarily for comparative context. Trading at significantly higher valuation multiple (30.63X forward earnings) compared to UNH."
+        "ticker": "MOH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "MOH shows stronger projected earnings rebound (84.6% growth expected for 2027), stabilizing Medicaid economics with 2026 viewed as profit trough, strategic shift toward higher-margin Medicare dual-eligible plans, improved cash position ($5B), and contract wins. Rated Zacks Rank #1 (Strong Buy) despite higher valuation and mixed earnings surprise history."
       }
     ]
   },
   {
-    "id": "37f506ab002d8e62f857de6324f5b64615cc3c816c7f5b8d8af0d91d74ab8bfb",
+    "id": "8f5a9aacc512c435bb82038df4b806b2851c6ca79ca8e7e0f731b64783dae518",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "NASP Announces 2026 Industry Award Winners at Record-Breaking inSPire2026 Conference",
+    "author": "National Association Of Specialty Pharmacy (Nasp)",
+    "published_utc": "2026-09-23T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/23/3367640/0/en/nasp-announces-2026-industry-award-winners-at-record-breaking-inspire2026-conference.html",
+    "tickers": [
+      "UNH",
+      "PFE"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f996c598-b5cd-4a05-aeed-ff1caf458986",
+    "description": "The National Association of Specialty Pharmacy (NASP) recognized industry leaders and organizations at its annual conference in National Harbor, Maryland. Award recipients included Optum Specialty Pharmacy (Specialty Pharmacy of the Year), Van Chau from UC Davis Health (Pharmacist of the Year), and Pfizer (Manufacturer of the Year), among others. The record-breaking conference attracted over 2,400 specialty pharmacy professionals.",
+    "keywords": [
+      "specialty pharmacy",
+      "industry awards",
+      "patient care",
+      "healthcare",
+      "pharmacy professionals",
+      "inSPire2026 conference"
+    ],
+    "insights": [
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recognized as Specialty Pharmacy of the Year, indicating strong performance, leadership, and commitment to advancing specialty pharmacy practice and patient care."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Awarded Manufacturer of the Year, recognizing excellence and leadership in supporting the specialty pharmacy industry and patient access to complex therapies."
+      }
+    ]
+  },
+  {
+    "id": "1b8670aacd91ca37c4d7722c854e07fd5ec5f2b9dfef508b34983b16f2a92044",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Brokers Suggest Investing in UnitedHealth (UNH): Read This Before Placing a Bet",
+    "title": "Is UnitedHealth (UNH) a Buy as Wall Street Analysts Look Optimistic?",
     "author": "Zacks.Com",
-    "published_utc": "2026-09-02T13:30:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2983645/brokers-suggest-investing-in-unitedhealth-unh-read-this-before-placing-a-bet?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2983645",
+    "published_utc": "2026-09-18T13:30:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2991947/is-unitedhealth-unh-a-buy-as-wall-street-analysts-look-optimistic?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2991947",
     "tickers": [
       "UNH"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default186.jpg",
-    "description": "UnitedHealth Group (UNH) has an average brokerage recommendation of 1.46 (Strong Buy/Buy) from 27 firms, with 70.4% Strong Buy ratings. However, the article cautions that brokerage recommendations often carry positive bias due to vested interests. UNH received a Zacks Rank #2 (Buy) rating based on earnings estimate revisions, with consensus estimates increasing 0.6% over the past month to $19.82, suggesting analyst optimism about the company's earnings prospects.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default151.jpg",
+    "description": "UnitedHealth Group (UNH) has an average brokerage recommendation of 1.54 (Strong Buy/Buy) from 27 firms, with 66.7% Strong Buy ratings. However, the article cautions that brokerage recommendations often carry positive bias due to vested interests. The company's Zacks Rank #2 (Buy) rating is based on earnings estimate revisions, with consensus estimates increasing 0.7% over the past month to $19.85, suggesting analyst optimism about the company's earnings prospects.",
     "keywords": [
       "UnitedHealth",
-      "stock recommendation",
-      "brokerage ratings",
+      "analyst recommendations",
       "earnings estimates",
       "Zacks Rank",
-      "healthcare investment"
+      "stock rating",
+      "brokerage bias"
     ],
     "insights": [
       {
         "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong consensus among brokers (70.4% Strong Buy ratings) and Zacks Rank #2 (Buy) rating. Earnings estimate revisions trending upward (0.6% increase over past month), indicating analyst optimism about near-term earnings prospects and potential stock price appreciation."
-      }
-    ]
-  },
-  {
-    "id": "1374e0113ac231893b6034053aef63c9427c77dc352ede098a1b86b94706cec7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF (IHF)?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-02T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2983510/should-you-invest-in-the-ishares-u-s-healthcare-providers-etf-ihf?cid=CS-ZC-FT-sector_etf-2983510",
-    "tickers": [
-      "IHF",
-      "UNH",
-      "CVS",
-      "ELV"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default215.jpg",
-    "description": "The iShares U.S. Healthcare Providers ETF (IHF) is a passively managed fund launched in 2006 that tracks the Dow Jones U.S. Select HealthCare Providers Index. With $1.25 billion in assets, a competitive 0.37% expense ratio, and a Zacks ETF Rank of 2 (Buy), it offers diversified exposure to healthcare providers. Year-to-date performance is up 20.18%, with a medium risk profile (beta of 0.72). Top holdings include UnitedHealth Group (20.61%), CVS Health, and Elevance Health.",
-    "keywords": [
-      "healthcare ETF",
-      "passive management",
-      "healthcare providers",
-      "diversification",
-      "expense ratio",
-      "performance"
-    ],
-    "insights": [
-      {
-        "ticker": "IHF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The ETF received a Zacks ETF Rank of 2 (Buy), has strong year-to-date performance of 20.18%, competitive expense ratio of 0.37%, and offers effective diversification with 63 holdings and medium risk profile suitable for long-term investors."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the largest holding in IHF at 20.61% of assets, but no specific performance or outlook commentary provided in the article."
-      },
-      {
-        "ticker": "CVS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in IHF, but no specific performance or outlook commentary provided in the article."
-      },
-      {
-        "ticker": "ELV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in IHF, but no specific performance or outlook commentary provided in the article."
+        "sentiment_reasoning": "Strong analyst consensus with 18 Strong Buy and 3 Buy recommendations (77.8% combined). Earnings estimate revisions trending upward with 0.7% increase in consensus estimate over the past month. Zacks Rank #2 (Buy) rating based on earnings estimate revision trends, which historically correlate with near-term stock price movements."
       }
     ]
   }

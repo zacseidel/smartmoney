@@ -1,258 +1,222 @@
 [
   {
-    "id": "339bd55583da4191d2b3c7b6ba4ecdc4d1bafc7e44029838b680bd17e9f50b7b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "SpaceX Built AI Data Centers So Fast, Some Ran Without Backup Power for Months. Now It Faces a $920 Million Deadline.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-09-09T18:30:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/09/spacex-built-ai-data-centers-so-fast-some-ran-without-backup-power-for-months-now-it-faces-a-usd920-million-deadline/?source=iedfolrf0000001",
-    "tickers": [
-      "SPCX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "BE",
-      "NVDA",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc9bdd288af1f6e4edf499325370759e54a071554-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "SpaceX has encountered reliability issues while rapidly expanding its AI data center infrastructure, with some facilities operating without backup power and cooling systems for months. The company faces a September 30 deadline to deliver 110,000 Nvidia GPUs to Google under a $920 million/month contract. To address these challenges, SpaceX is reshuffling its data center leadership team with executives from its rocket and Starlink divisions, delaying new projects, and building an in-house turbine blade manufacturing facility to accelerate deployment timelines.",
-    "keywords": [
-      "AI data centers",
-      "infrastructure reliability",
-      "GPU capacity",
-      "supply chain constraints",
-      "leadership restructuring",
-      "manufacturing",
-      "contract deadline"
-    ],
-    "insights": [
-      {
-        "ticker": "SPCX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "SpaceX faces significant operational challenges with unreliable data center infrastructure, missed engineering targets, and a critical deadline risk. While the company is taking corrective actions, the execution risks and potential contract jeopardy present near-term concerns for investors."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Bloom Energy is positioned as a beneficiary of the AI data center boom, with the article highlighting its rapid fuel cell deployment capabilities as a competitive advantage in the accelerating data center buildout market."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia benefits from the massive GPU demand in AI infrastructure expansion, with SpaceX's contract alone involving 110,000 Nvidia GPUs, demonstrating strong secular demand for its products."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
-      }
-    ]
-  },
-  {
-    "id": "862f5b72b579716a095ab63fd69af3b51b45170e1dca5feece758905d9e6607d",
+    "id": "b9668ad3ffb4488164a57235722cbfcf0da8695cf2a2d792a3c768a11cd2a79c",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "INVESTOR ALERT: Pomerantz Law Firm Reminds Investors with Losses on their Investment in Bloom Energy Corporation of Class Action Lawsuit and Upcoming Deadlines \u2013 BE",
-    "author": "Pomerantz Llp",
-    "published_utc": "2026-09-08T20:51:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/08/3358154/1087/en/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-bloom-energy-corporation-of-class-action-lawsuit-and-upcoming-deadlines-be.html",
+    "title": "Bronstein, Gewirtz & Grossman LLC Urges Bloom Energy Corporation Investors to Act: Class Action Filed Alleging Investor Harm",
+    "author": "Bronstein, Gewirtz & Grossman Llc",
+    "published_utc": "2026-09-28T16:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3370114/9788/en/bronstein-gewirtz-grossman-llc-urges-bloom-energy-corporation-investors-to-act-class-action-filed-alleging-investor-harm.html",
     "tickers": [
-      "BE",
-      "PRIM",
-      "REGN"
+      "BE"
     ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/08/3358154/1087/en/investor-alert-pomerantz-law-firm-reminds-investors-with-losses-on-their-investment-in-bloom-energy-corporation-of-class-action-lawsuit-and-upcoming-deadlines-be.html",
-    "description": "Pomerantz Law Firm has filed class action lawsuits against Bloom Energy Corporation, Primoris Services Corporation, and Regeneron Pharmaceuticals, Inc., alleging securities fraud and unlawful business practices. The Bloom Energy lawsuit was triggered by a Hunterbrook Media report alleging the company relies on Chinese scandium in its supply chain, causing the stock to fall 5.67% on July 8, 2026. Investors have until September 28, 2026, to request Lead Plaintiff status.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
+    "description": "A class action lawsuit has been filed against Bloom Energy Corporation alleging that the company made false and misleading statements regarding its reliance on scandium sourced from China through intermediaries. The lawsuit covers investors who purchased Bloom Energy securities between February 27, 2026 and July 8, 2026. Investors have until September 28, 2026 to request appointment as lead plaintiff.",
     "keywords": [
       "class action lawsuit",
       "securities fraud",
+      "Bloom Energy",
+      "scandium",
+      "China sourcing",
+      "investor harm",
+      "misleading statements"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The company is accused of making false and misleading statements about its business operations, specifically regarding undisclosed reliance on scandium sourced from China through intermediaries. This represents alleged securities fraud and investor harm."
+      }
+    ]
+  },
+  {
+    "id": "0d8b8c7a4d09012e75d628e1feace2065cafadf2309ee2231db6416bef47f62a",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "BE INVESTOR DEADLINE APPROACHING: Faruqi & Faruqi, LLP Reminds Bloom Energy (BE) Investors of Securities Class Action Lawsuit Deadline on September 28, 2026",
+    "author": "Faruqi & Faruqi, Llp",
+    "published_utc": "2026-09-26T12:44:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/26/3369410/683/en/be-investor-deadline-approaching-faruqi-faruqi-llp-reminds-bloom-energy-be-investors-of-securities-class-action-lawsuit-deadline-on-september-28-2026.html",
+    "tickers": [
+      "BE"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/7f60c456-51b6-4096-a862-d5d3beda6cc5",
+    "description": "Faruqi & Faruqi, LLP is investigating securities fraud claims against Bloom Energy Corporation, alleging the company made false statements about its supply chain by understating reliance on Chinese scandium sourced through intermediaries. Following a July 8, 2026 report by Hunterbrook Media exposing the company's China-linked supply routes, Bloom Energy's stock fell 5.7%. Investors who purchased securities between February 27, 2025 and July 8, 2026 have until September 28, 2026 to seek lead plaintiff status in the class action lawsuit.",
+    "keywords": [
+      "securities fraud",
+      "class action lawsuit",
       "supply chain",
-      "Chinese scandium",
+      "China",
+      "scandium",
+      "lead plaintiff",
       "stock price decline",
-      "investor losses"
+      "disclosure violation"
     ],
     "insights": [
       {
         "ticker": "BE",
         "sentiment": "negative",
-        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud and undisclosed reliance on Chinese scandium in supply chain. Stock price fell 5.67% following negative media report on July 8, 2026."
-      },
-      {
-        "ticker": "PRIM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud or unlawful business practices, though specific allegations are not detailed in the provided excerpt."
-      },
-      {
-        "ticker": "REGN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company is subject to class action lawsuit alleging securities fraud or unlawful business practices, though specific allegations are not detailed in the provided excerpt."
+        "sentiment_reasoning": "The company faces securities fraud allegations for making false or misleading statements about its supply chain and understating reliance on Chinese scandium. The exposure of these practices resulted in a 5.7% stock price decline, and investors are being encouraged to join a class action lawsuit with a September 28, 2026 deadline."
       }
     ]
   },
   {
-    "id": "be2512a55bfb6185fbdfcd03da6169e4aa461724517a1fa65276566fe2a835df",
+    "id": "b0ea8655689ce12410b6ee6bd1d544cb615009dc71bacabe75c7429d8212ce70",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Top Stock Picks for Week of September 7, 2026",
-    "author": "Na",
-    "published_utc": "2026-09-08T20:17:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986641/top-stock-picks-for-week-of-september-7-2026?cid=CS-ZC-FT-video_blog-2986641",
+    "title": "Bloom Energy's Backlog Is 5 Times This Year's Expected Revenue. Here's How Fast It Can Actually Build.",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-09-25T00:27:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/24/bloom-energy-s-backlog-is-5-times-this-year-s-expected-revenue-here-s-how-fast-it-can-actually-build/?source=iedfolrf0000001",
     "tickers": [
       "BE",
-      "ANF"
+      "ORCL",
+      "ORCLpD"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default335.jpg",
-    "description": "Zacks highlights two Strong Buy stocks: Bloom Energy (BE), a renewable energy company with improved earnings outlook and strong technical momentum, and Abercrombie & Fitch (ANF), a specialty retailer benefiting from sales growth, inventory management, and raised fiscal 2026 guidance.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe00f995d5d49f82af0a806231353cf100ee5319c-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Bloom Energy disclosed a $20 billion backlog in February, with $6 billion in product orders and $14 billion in long-term service contracts. While the company plans to double its Fremont factory capacity to 2 gigawatts by end of 2026 and has raised revenue guidance twice this year, the analyst cautions that the stock's valuation at 56x forward P/E assumes full-speed conversion for years, which may be overly optimistic.",
     "keywords": [
-      "renewable energy",
-      "specialty retail",
-      "Strong Buy",
-      "earnings growth",
-      "stock performance"
-    ],
-    "insights": [
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company has Zacks Rank #1 (Strong Buy), consensus earnings estimate moved 43% higher in past quarter, broke multi-month downtrend with heavy volume, and returned 145.9% year-to-date."
-      },
-      {
-        "ticker": "ANF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company has Zacks Rank #1 (Strong Buy) with VGM Score of A, benefiting from broad-based sales growth, improved product acceptance, disciplined inventory management, and raised fiscal 2026 sales, margin and earnings outlook."
-      }
-    ]
-  },
-  {
-    "id": "e6e1df8afd8cdd183928752c54c2f1c182e11d23dd6724267ea8414c2179c785",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Plug Power Surges 10.1% YTD: Should Investors Ride the Rally?",
-    "author": "Na",
-    "published_utc": "2026-09-08T15:19:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986518/plug-power-surges-10-1-ytd-should-investors-ride-the-rally?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986518",
-    "tickers": [
-      "PLUG",
-      "BE",
-      "FCEL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/74/780.jpg",
-    "description": "Plug Power reported 11.1% revenue growth in H1 2026 driven by strong services and power purchase agreement revenues, along with major electrolyzer orders in Australia and the UK. However, the company posted a $433.5 million net loss, primarily due to convertible debt and warrant liability losses. While the stock underperforms peers and the broader market, its growing presence in green hydrogen and strong electrolyzer demand position it for long-term growth, though analysts recommend current shareholders hold and new investors wait for better entry points.",
-    "keywords": [
-      "green hydrogen",
-      "electrolyzer",
       "fuel cell",
-      "renewable energy",
-      "net loss",
-      "revenue growth",
-      "H1 2026 earnings"
+      "data center infrastructure",
+      "production capacity",
+      "backlog conversion",
+      "revenue guidance",
+      "valuation concerns",
+      "AI infrastructure"
     ],
     "insights": [
       {
-        "ticker": "PLUG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed fundamentals with positive revenue growth (11.1%) and strong electrolyzer demand, but offset by significant net losses ($433.5M) and underperformance versus industry peers and S&P 500. Zacks Rank #3 (Hold) rating reflects cautious outlook with long-term potential but near-term concerns."
-      },
-      {
         "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significantly outperformed PLUG with 191% year-to-date gains, demonstrating stronger market performance in the fuel cell and green hydrogen sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows strong operational momentum with 130-166% YoY revenue growth, doubled guidance raises, and a substantial $20B backlog, the analyst expresses caution about the stock's valuation at 56x forward P/E, suggesting the market may be pricing in overly optimistic conversion assumptions. The backlog is real but conversion timelines are uncertain."
       },
       {
-        "ticker": "FCEL",
+        "ticker": "ORCL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong performer with 104.5% year-to-date gains, outpacing PLUG's 10.1% return and indicating better investor confidence in the company's execution within the green hydrogen market."
+        "sentiment_reasoning": "Oracle's expanded partnership with Bloom Energy for up to 2.8 gigawatts of fuel cell systems demonstrates strong commitment to AI infrastructure buildout, indicating confidence in on-site power generation solutions for its data center expansion."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Oracle's expanded partnership with Bloom Energy for up to 2.8 gigawatts of fuel cell systems demonstrates strong commitment to AI infrastructure buildout, indicating confidence in on-site power generation solutions for its data center expansion."
       }
     ]
   },
   {
-    "id": "d64e9206a961cf61cdec4bd471e6500f0a40715051c67c366bb518ec1559380a",
+    "id": "c8f5490a8591f297cccbdf751dd95d8d2916ffe7baf969033cf4b116239d58c7",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-23T19:22:50Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/23/better-energy-sector-etf-vanguard-s-vde-focused-on-oil-and-gas-vs-the-ishares-icln-targeting-clean-energy/?source=iedfolrf0000001",
+    "tickers": [
+      "VDE",
+      "ICLN",
+      "CVX",
+      "COP",
+      "BE",
+      "FSLR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Vanguard Energy ETF (VDE) and iShares Global Clean Energy ETF (ICLN) represent opposite ends of the energy spectrum. VDE focuses on traditional U.S. oil and gas giants with a 46.8% one-year return, lower expense ratio (0.09%), higher dividend yield (2.3%), and greater stability. ICLN targets international renewable energy with higher growth potential but experienced a 57.2% maximum drawdown and declining performance in 2026 due to unfavorable Trump Administration policies toward renewables.",
+    "keywords": [
+      "energy ETF",
+      "oil and gas",
+      "clean energy",
+      "renewable energy",
+      "dividend yield",
+      "expense ratio",
+      "volatility",
+      "AI electricity demand"
+    ],
+    "insights": [
+      {
+        "ticker": "VDE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong one-year return of 46.8%, lowest expense ratio at 0.09%, highest dividend yield at 2.3%, larger AUM ($13.2B) providing better liquidity, and lower volatility (beta 0.50) make it attractive for income and stability-focused investors."
+      },
+      {
+        "ticker": "ICLN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offers high growth potential in renewable energy sector with exposure to AI-driven green energy demand, but faces headwinds from Trump Administration policies, declining 2026 performance, higher volatility (beta 1.10), deeper maximum drawdown (57.2%), and higher expense ratio (0.38%)."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding in VDE at 14.08%, supporting the fund's solid returns and dividend income from traditional energy operations."
+      },
+      {
+        "ticker": "COP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest holding in VDE at 6.01%, contributing to the fund's diversified exposure to U.S. oil and gas majors."
+      },
+      {
+        "ticker": "BE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Top holding in ICLN at 9.06%, representing renewable energy technology exposure but subject to policy and market volatility affecting clean energy sector."
+      },
+      {
+        "ticker": "FSLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in ICLN at 7.58%, providing solar technology exposure but facing headwinds from unfavorable renewable energy policies."
+      }
+    ]
+  },
+  {
+    "id": "b79091182cb070dcc87d808445ad70e9a8071b5040ef3e414a9414069565a8f3",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Bloom Energy Outpaces Its Industry in a Month: Time to Buy the Stock?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-08T13:29:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986266/bloom-energy-outpaces-its-industry-in-a-month-time-to-buy-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986266",
+    "title": "FLNC or BE: Which Alternative Energy Stock Is Worth Buying Now?",
+    "author": "Na",
+    "published_utc": "2026-09-23T15:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994573/flnc-or-be-which-alternative-energy-stock-is-worth-buying-now?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2994573",
     "tickers": [
       "BE",
-      "TLN",
-      "PLUG"
+      "FLNC"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5b/2422.jpg",
-    "description": "Bloom Energy (BE) gained 20% in the past month, outperforming its industry and the S&P 500, driven by rising AI data-center demand and a $5B-to-$25B expansion of its Brookfield partnership for AI power infrastructure. The company raised 2026 revenue guidance to $3.9-$4.2 billion with expected 34% gross margins, though it trades at a premium valuation of 12.94X forward P/S versus the industry average of 4.89X. Despite expensive valuation, Zacks rates it a Strong Buy based on strong earnings performance and superior ROE.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ca/171.jpg",
+    "description": "In a comparison of two alternate energy stocks, Bloom Energy (BE) emerges as the more attractive investment despite Fluence Energy's (FLNC) lower valuation. BE benefits from stronger price performance, consistent earnings beats, and growing demand from AI data centers, while FLNC faces manufacturing delays, guidance cuts, and battery oversupply concerns.",
     "keywords": [
+      "alternate energy",
+      "battery storage",
+      "fuel cells",
       "AI data centers",
-      "distributed energy solutions",
-      "clean energy",
-      "solid oxide technology",
-      "S&P 500 inclusion",
-      "valuation premium",
-      "earnings growth"
+      "renewable energy",
+      "earnings surprise",
+      "valuation",
+      "price performance"
     ],
     "insights": [
       {
         "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong 20% monthly gain, raised revenue guidance, expanding AI power partnership from $5B to $25B, consistent earnings beats, superior ROE of 35.45% vs industry 7.14%, and Zacks Rank #1 Strong Buy rating support positive outlook despite premium valuation."
+        "sentiment_reasoning": "Strong year-to-date price performance, consistent earnings beats (164.1% average), doubled revenues to $1.8B in H1 2026, raised 2026 guidance to $3.9-$4.2B, expanded $25B partnership with Brookfield for AI power infrastructure, and positioned to benefit from rising demand for reliable on-site power and AI data center expansion. Rated Zacks Rank #1 (Strong Buy)."
       },
       {
-        "ticker": "TLN",
+        "ticker": "FLNC",
         "sentiment": "negative",
-        "sentiment_reasoning": "Lost 7.6% in the past month, underperforming its industry, sector, and S&P 500. Declining EPS estimates (-5.2% for 2026) indicate weakening financial performance."
-      },
-      {
-        "ticker": "PLUG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable clean energy company with consistent earnings beats (17.83% average surprise) and lower valuation (3.26X P/S vs industry 4.89X), but no specific performance data or recommendation provided in the article."
+        "sentiment_reasoning": "Reported wider-than-expected Q3 loss and revenue miss, cut fiscal 2026 guidance significantly (revenues down from $3B to $2.4B, EBITDA loss widened from -$10M to -$200M), facing manufacturing delays and supply-chain challenges, weak earnings surprise history (114.5% average miss), and concerns about battery oversupply. Rated Zacks Rank #5 (Strong Sell). However, strong international demand and restructuring efforts provide some mitigation."
       }
     ]
   }

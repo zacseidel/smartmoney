@@ -1,276 +1,314 @@
 [
   {
-    "id": "af6d82907995ac6df318d4e35c5a0b5f1c87e10750aa886396c263f2cb7a087f",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Adobe Before Q3 Earnings: Should You Hold or Fold the ADBE Stock?",
-    "author": "Na",
-    "published_utc": "2026-09-08T18:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986634/adobe-before-q3-earnings-should-you-hold-or-fold-the-adbe-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986634",
-    "tickers": [
-      "ADBE",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "CRM"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5d/931.jpg",
-    "description": "Adobe is set to report Q3 FY2026 results on September 10 with expected revenues of $6.67-$6.72 billion and non-GAAP EPS of $6.05-$6.10. The company's AI initiatives including Firefly, Acrobat AI Assistant, and GenStudio are driving growth with AI-first ARR exceeding $500 million. However, intensifying GenAI competition, rising investments, and near-term ARR pressure from freemium strategy expansion present concerns. Adobe shares have underperformed the sector by 23.8% year-to-date but trade at a valuation discount.",
-    "keywords": [
-      "Q3 earnings",
-      "generative AI",
-      "freemium strategy",
-      "ARR growth",
-      "enterprise adoption",
-      "GenAI competition",
-      "Firefly",
-      "Acrobat AI Assistant",
-      "GenStudio"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Adobe demonstrates strong AI monetization momentum with Firefly ARR approaching $300 million and AI-first ARR exceeding $500 million, plus robust enterprise adoption. However, this is offset by intensifying GenAI competition, rising investments pressuring profitability, and near-term ARR headwinds from aggressive freemium expansion. The stock's 23.8% YTD underperformance and Zacks Rank #4 (Sell) rating reflect these offsetting factors."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned as a key competitor in the GenAI space posing a threat to Adobe's market position. Microsoft's superior YTD performance (+3.3%) and higher valuation multiple (9.22X P/S) suggest it is better positioned in the competitive AI landscape."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Identified as a significant GenAI competitor to Adobe. Alphabet's strong YTD performance (+8.2%) and higher valuation multiple (8.16X P/S) indicate competitive strength in the AI market."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Listed as a competitor in the GenAI space. While Salesforce has underperformed YTD (-2%), it remains a competitive threat in enterprise AI solutions."
-      }
-    ]
-  },
-  {
-    "id": "379006d9a3be80e7411f6f1ff35e16fd4da3e2e8e6cbc5ffd45404e30f6341f7",
+    "id": "df63e93d1b1a77adc31721da681bef9a3a783509dc08aadaf8b8910d6d13d674",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Adobe's Next Earnings Report on Sept. 10 Could Send the Stock Plunging. Here's Why.",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-09-08T18:07:23Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/adobes-next-earnings-report-on-sept-10-could-send-the-stock-plunging-heres-why/?source=iedfolrf0000001",
+    "title": "CrowdStrike vs. Figma: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Jake Lerch",
+    "published_utc": "2026-09-24T14:30:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/crowdstrike-vs-figma-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
+      "CRWD",
+      "FIG",
+      "AMZN",
       "ADBE",
-      "FIG"
+      "PANW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F150114b14adb45743511b2fbe48eb425dda8f72e-1024x683.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Adobe faces a critical earnings report on Sept. 10 as it navigates AI disruption to its core creative software business. The company has tripled AI-first revenue to $500 million annualized recurring revenue but must balance aggressive user acquisition through freemium offerings with meaningful monetization. Adobe stock is down 26% year-to-date amid competition from AI tools and rivals like Figma and Canva, while the company undergoes leadership transitions with a new CEO taking over in December.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two high-growth tech stocks: CrowdStrike, a cloud-native cybersecurity leader with $4.8B revenue and strong free cash flow but trading at a 50.3x P/S ratio, versus Figma, a collaborative design platform with 41% revenue growth but significant losses and a 10.5x P/S ratio. CrowdStrike is recommended for growth-oriented investors due to solid fundamentals, while Figma faces risks from frontier AI models disrupting its core design workflow.",
     "keywords": [
-      "Adobe earnings",
-      "generative AI",
-      "Firefly",
-      "creative software",
-      "AI disruption",
-      "freemium strategy",
-      "leadership transition",
-      "monetization"
+      "cybersecurity",
+      "cloud-native platform",
+      "collaborative design",
+      "valuation comparison",
+      "AI integration",
+      "enterprise software",
+      "free cash flow",
+      "net losses"
     ],
     "insights": [
       {
-        "ticker": "ADBE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 26% year-to-date heading into earnings. Author expects stock to slip after Sept. 10 report due to market's 'show-me' mentality. Company faces pressure to monetize AI products while managing user acquisition, and is undergoing major C-suite transitions. Competitors like Figma and Canva are gaining market share."
+        "ticker": "CRWD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth (21.7%), substantial free cash flow ($1.3B), low debt-to-equity ratio (0.2x), market leadership as second-largest cybersecurity stock, and positioning in AI security infrastructure. Despite July 2024 incident and premium valuation, fundamentals support growth investor appeal."
       },
       {
         "ticker": "FIG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Adobe with estimated 13 million users, particularly outside the U.S., potentially capturing market share from Adobe's traditional customer base."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Impressive 41% revenue growth and strong current ratio (2.6x), but offset by massive net losses ($1.3B) and negative net margin (-118.4%). Faces existential threat from frontier AI models disrupting core design workflow. Lower valuation (10.5x P/S) reflects uncertainty about monetization model sustainability."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as critical infrastructure dependency for CrowdStrike's Falcon platform delivery. No direct analysis provided; neutral mention of operational reliance."
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor to Figma in the design software space. No detailed analysis; mentioned as competitive threat."
+      },
+      {
+        "ticker": "PANW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as the largest cybersecurity stock by market cap ($320B). Mentioned for context only without sentiment analysis."
       }
     ]
   },
   {
-    "id": "2bdb1a71ab8bb73c64e64f597a9cee09caffc64cf1c2fa36dea346b4a2d3458e",
+    "id": "5f5fe6024b2c1987546a13ffe4888cf2f2bcdc12e41f3e3d853ac25cae623a07",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Oracle, Adobe, Micron, Alphabet and Nvidia are part of Zacks Earnings Preview",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-09-08T13:28:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986268/oracle-adobe-micron-alphabet-and-nvidia-are-part-of-zacks-earnings-preview?cid=CS-ZC-FT-press_releases-2986268",
+    "title": "ADBE Expands AI Customer Experience Push With Jet2: What's Ahead?",
+    "author": "Na",
+    "published_utc": "2026-09-23T16:14:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994668/adbe-expands-ai-customer-experience-push-with-jet2-what-s-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2994668",
     "tickers": [
-      "ORCL",
-      "ORCLpD",
       "ADBE",
-      "MU",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "NVDA"
+      "MSFT",
+      "CRM"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/79/525.jpg",
-    "description": "Zacks releases its earnings preview for the week of September 8, 2026, highlighting five companies expected to report earnings surprises: Oracle and Adobe kick off Q3 earnings season on September 10th. The S&P 500 is expected to see Q3 earnings grow +23% year-over-year with +11.2% revenue growth. Q2 results showed strong performance with 84.2% of companies beating EPS estimates. Positive revision trends have broadened across 8 of 16 sectors beyond just Technology and Energy.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/183568.webp",
+    "description": "Adobe announced a multi-year strategic partnership with travel company Jet2 to deploy its AI-powered customer experience solutions, including CX Enterprise, Firefly Foundry, and Brand Intelligence. Adobe's AI-first ARR exceeded $650M in Q3 fiscal 2026, growing over 150% year-over-year. However, Adobe faces intensifying competition from Microsoft and Salesforce in AI-powered customer engagement, with both rivals expanding their agentic AI capabilities and gaining significant enterprise adoption.",
     "keywords": [
-      "Q3 earnings season",
-      "earnings surprises",
-      "S&P 500",
-      "earnings growth",
-      "revenue growth",
-      "earnings revisions",
-      "technology sector"
+      "artificial intelligence",
+      "customer experience",
+      "agentic AI",
+      "enterprise software",
+      "AI-powered personalization",
+      "competitive landscape"
     ],
     "insights": [
       {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Oracle is highlighted as part of the earnings preview and will kick off Q3 earnings season on September 10th. However, the article notes it has been a 'major stock laggard lately' relative to the Tech sector and S&P 500, suggesting recent underperformance despite being included in the earnings preview."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Oracle is highlighted as part of the earnings preview and will kick off Q3 earnings season on September 10th. However, the article notes it has been a 'major stock laggard lately' relative to the Tech sector and S&P 500, suggesting recent underperformance despite being included in the earnings preview."
-      },
-      {
         "ticker": "ADBE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Adobe is featured as a key earnings reporter for Q3 season alongside Oracle. Like Oracle, it is noted as a 'major stock laggard lately,' indicating recent underperformance despite being part of the earnings preview."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Adobe secured a major enterprise partnership with Jet2, demonstrated strong AI-first ARR growth exceeding 150% YoY with $650M+ in revenue, and expanded its customer experience portfolio with over 1,700 CX Enterprise customers. However, stock has declined 31.9% YTD and faces intense competition."
       },
       {
-        "ticker": "MU",
+        "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Micron is specifically highlighted as delivering 'blockbuster results' in Q2, contributing significantly to the unusually strong S&P 500 earnings growth rate of +45.6%. This exceptional performance is explicitly called out as a major positive driver."
+        "sentiment_reasoning": "Microsoft is aggressively competing in AI customer engagement through Copilot, Dynamics 365, Microsoft Foundry (100K customers with revenues doubling YoY), and Agent 365 (40M agents registered). Nearly 90% of Fortune 500 are using Foundry for enterprise context."
       },
       {
-        "ticker": "GOOG",
+        "ticker": "CRM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet is noted as delivering 'blockbuster results' in Q2 and its contributions are described as 'significant' to the overall earnings picture. The company is highlighted as a major positive contributor to strong market performance."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is included in the earnings preview and its contributions are flagged as 'significant' to the annual earnings picture. The company is part of the Tech sector which is expected to see +52.3% earnings growth, with Nvidia being a key driver of this performance."
+        "sentiment_reasoning": "Salesforce's Agentforce ARR exceeded $1.5B with combined Agentforce and Data 360 ARR reaching $3.9B. Accounts with agents in production increased 70% sequentially, and Agentic Work Units grew 97% sequentially, demonstrating strong enterprise adoption momentum."
       }
     ]
   },
   {
-    "id": "d92b7f540b6594490164ad9bf865df16cfb2153651ddad5787bce0442d8add25",
+    "id": "af61f316be39dc817007a0cc66148015bff6983dc75c641224c6f7aa3230c53c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Adobe Has Handed Over the CEO Job Once in 19 Years. Here's What the Stock Did After the Last Time.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-09-08T08:31:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/adobe-has-handed-over-the-ceo-job-once-in-19-years-here-s-what-the-stock-did-after-the-last-time/?source=iedfolrf0000001",
+    "title": "Losing to Win: A VC Lens Will Find the Next Nvidia",
+    "author": "The Rule Breakers Team",
+    "published_utc": "2026-09-23T15:07:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/losing-to-win-a-vc-lens-will-find-the-next-nvidia/?source=iedfolrf0000001",
     "tickers": [
-      "ADBE"
+      "ADBE",
+      "DASTY",
+      "HAS",
+      "IBKR",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F150114b14adb45743511b2fbe48eb425dda8f72e-1024x683.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Adobe announced that Anil Chakravarthy will become CEO on December 1, 2026, replacing Shantanu Narayen who will move to executive chair. This marks only the second CEO transition in 19 years. While the stock fell 6.7% on the announcement, the article argues that current conditions favor the new CEO more than the 2007 transition did, when the Great Recession caused a 50% stock decline within 12 months. The company now has stronger recurring revenue and a more stable business model than it did in 2007.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F975e51a3a1b0483c74f0ae91f354f85ffb09f320-7680x4050.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Motley Fool advocates adopting a venture capital investment approach where most picks underperform but a few massive winners drive portfolio returns. Using a five-stock example from 2009, the article shows how Nvidia's extraordinary 58,000% outperformance offset three significant underperformers, demonstrating that investors don't need to be right often\u2014just right enormously when it counts. The strategy recommends holding 50+ diversified stocks to capture breakout winners.",
     "keywords": [
-      "CEO transition",
-      "leadership change",
-      "stock performance",
-      "recurring revenue",
-      "business model",
-      "market conditions",
-      "valuation"
+      "venture capital investing",
+      "Rule Breaker investing",
+      "portfolio diversification",
+      "outsize winners",
+      "emerging industries",
+      "first movers"
     ],
     "insights": [
       {
         "ticker": "ADBE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the stock declined 6.7% on the CEO transition announcement, the article presents a balanced view. The author notes that current conditions are more favorable than the 2007 transition (stronger recurring revenue model, better valuation at 9.5x forward earnings vs 26x in 2007), and concludes 'I wouldn't sell Adobe over this transition. If anything, at this price, I'd rather buy than sell.' However, concerns remain about AI disruption and executive departures, preventing a positive rating."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lags S&P 500 by approximately 280% since August 2009 recommendation, significantly underperforming the market"
+      },
+      {
+        "ticker": "DASTY",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trails the market by more than 500% since September 2009 recommendation, one of the poorest performers in the example basket"
+      },
+      {
+        "ticker": "HAS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lags the market by roughly 460% since October 2009 recommendation, significantly underperforming"
+      },
+      {
+        "ticker": "IBKR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beats the market by more than 2,300 percentage points since June 2009 recommendation, strong outperformer"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Extraordinary outperformance of 58,000+ percentage points since December 2009 recommendation at $0.38, now trading at $228.87; exemplifies the 'big winner' that justifies the VC investment approach"
       }
     ]
   },
   {
-    "id": "6b8b11836a92751e7364a010dce3a2c1c55a4cfa025d86636006a6823b9f3bd4",
+    "id": "c14c8a64c87931ee76ff8e49ea345562d5c92151c64f7b91139e4b4b66bb95db",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
+    "author": "Na",
+    "published_utc": "2026-09-21T12:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2992678/beat-the-market-like-zacks-pbf-palantir-adobe-in-focus?cid=CS-ZC-FT-analyst_blog|investment_ideas-2992678",
+    "tickers": [
+      "PBF",
+      "DK",
+      "PLTR",
+      "ADBE",
+      "TMO",
+      "MPWR",
+      "AVBC",
+      "CHMG",
+      "DGX",
+      "ADP",
+      "ICE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5d/931.jpg",
+    "description": "Zacks Investment Research showcased strong performance across its various stock rating systems and portfolios. PBF Energy and Delek US surged following Zacks Rank #1 upgrades, while the Zacks #1 Rank portfolio outperformed the S&P 500 by 2.3 percentage points year-to-date. Notable performers included Palantir (up 38.3% over 12 weeks), Adobe (up 27.6%), Thermo Fisher (up 40.2%), and Monolithic Power Systems (up 30.1% since January 5, 2026). The article emphasizes Zacks' track record of outperforming the market since 1988.",
+    "keywords": [
+      "stock ratings",
+      "portfolio performance",
+      "market outperformance",
+      "earnings estimates",
+      "dividend stocks",
+      "semiconductor stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "PBF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 20% following upgrade to Zacks Rank #1 on July 23, significantly outperforming S&P 500's 1.9% gain in the same period"
+      },
+      {
+        "ticker": "DK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 18.1% following upgrade to Zacks Rank #1 on July 23, demonstrating strong performance post-upgrade"
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 38.3% over 12 weeks as part of Zacks Focus List, significantly outperforming S&P 500's 2% gain in the same period"
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 27.6% over 12 weeks as a Focus List holding, substantially outperforming the broader market"
+      },
+      {
+        "ticker": "TMO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped 40.2% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
+      },
+      {
+        "ticker": "MPWR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 30.1% since January 5, 2026, significantly outperforming S&P 500's 11.5% gain in the same period"
+      },
+      {
+        "ticker": "AVBC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 11.6% following upgrade to Zacks Recommendation Outperform on July 24"
+      },
+      {
+        "ticker": "CHMG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 11.3% following upgrade to Zacks Recommendation Outperform on July 24"
+      },
+      {
+        "ticker": "DGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 26.4% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
+      },
+      {
+        "ticker": "ADP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 24.2% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock returned 16.1% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
+      }
+    ]
+  },
+  {
+    "id": "2dd77f1e6137ef949b39e6b55405a10b8a709d814dfd6b83d4c05eb8dfaf07a1",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is Adobe's Stock Heading for $300?",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-09-07T16:02:29Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/is-adobe-s-stock-heading-for-300/?source=iedfolrf0000001",
+    "title": "Salesforce vs. Figma: Evaluating the Better High-Growth Software Stock to Buy in 2026",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-16T19:36:17Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/16/salesforce-vs-figma-evaluating-the-better-high-growth-software-stock-to-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
+      "CRM",
+      "FIG",
       "ADBE",
-      "AAPL",
-      "NVDA"
+      "MSFT",
+      "AMZN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6acb60eadf30fcaa13192897bd2c1c41552f7973-2000x1125.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Adobe's stock has fallen 24% year-to-date due to AI-related concerns, as AI chatbots threaten its core image creation software business. However, the stock has been rallying recently and trades at a discount (15x trailing earnings vs. S&P 500 average of 24x). Despite valid risks from potential demand erosion, the author believes Adobe's continued solid growth (11% revenue increase) and attractive valuation provide sufficient margin of safety for the stock to potentially finish the year above $300.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Salesforce and Figma as investment options in 2026. Salesforce, the dominant CRM leader, offers proven profitability with $41.5B revenue, 18% net margins, and $14.4B free cash flow, trading at a reasonable 23.3x P/E ratio. Figma, a rapidly growing design platform, shows 41% revenue growth but remains unprofitable with a negative 118.4% net margin and trades at a premium 66.2x forward P/E. The author recommends Salesforce as the better investment due to its financial stability, competitive moat through AI capabilities, and reasonable valuation, despite acknowledging Figma's impressive growth trajectory.",
     "keywords": [
-      "artificial intelligence threat",
-      "software stocks",
-      "valuation discount",
-      "AI chatbots",
-      "subscription services",
-      "tech stock rally",
-      "margin of safety"
+      "CRM software",
+      "cloud-based applications",
+      "design platform",
+      "AI integration",
+      "SaaS stocks",
+      "enterprise software",
+      "profitability vs growth",
+      "valuation comparison"
     ],
     "insights": [
       {
-        "ticker": "ADBE",
+        "ticker": "CRM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Despite significant AI-related headwinds and a 24% year-to-date decline, Adobe trades at an attractive valuation discount (15x trailing earnings) compared to the broader market. The company continues to show solid revenue growth (11%) and is incorporating AI into its products. The author believes the stock has more upside than downside at current levels and could reach $300 by year-end."
+        "sentiment_reasoning": "Strong financial fundamentals with $41.5B revenue, 18% net margins, $14.4B free cash flow, conservative debt levels, and reasonable 23.3x P/E valuation. Leadership position in CRM with competitive AI advantages through Koa platform and 27 years of data depth. Stock has rebounded strongly and is positioned well for AI-driven workplace automation."
       },
       {
-        "ticker": "AAPL",
+        "ticker": "FIG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Apple is mentioned as a high-flying tech stock that has hit record levels and is receiving significant investor focus, but it is not the subject of analysis in this article and no specific sentiment is expressed about its investment merits."
+        "sentiment_reasoning": "Impressive 41% revenue growth and strong gross margins (79.14%) demonstrate market traction and transition to enterprise platform. However, company remains unprofitable with $1.3B net loss, negative 118.4% net margin, and extremely high 66.2x forward P/E valuation. Faces competition from Adobe and risks from automated design tools. Growth is compelling but valuation and profitability concerns warrant caution."
       },
       {
-        "ticker": "NVDA",
+        "ticker": "ADBE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Nvidia is mentioned as a high-flying tech stock that has hit record levels, but it is not the subject of analysis in this article and no specific sentiment is expressed about its investment merits."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Figma with bundled software solutions that may be more cost-effective for enterprise customers. Also noted as a competitive rival to Salesforce in the broader software market. No specific financial analysis provided."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat to Salesforce in cloud platform services that could potentially displace market share. No specific analysis or recommendation provided."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Figma's platform hosting provider, representing a dependency risk. No specific investment analysis provided."
       }
     ]
   }

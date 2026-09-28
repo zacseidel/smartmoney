@@ -1,5 +1,147 @@
 [
   {
+    "id": "0938c72859d87623edc00452dcc1610fd7e4f0a25bc5a01db50a8f2921951502",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Midday, Sept. 24: Stocks Slide as Treasury Yields Climb, Oracle Declares Force Majeure",
+    "author": "Emma Newbery",
+    "published_utc": "2026-09-24T16:24:23Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-midday-sept-24-stocks-slide-as-treasury-yields-climb-oracle-declares-force-majeure/?source=iedfolrf0000001",
+    "tickers": [
+      "ORCL",
+      "ORCLpD",
+      "META",
+      "UPS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7183ea2ded75083c2c682d1736d8aab77877bb3c-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Major stock indices declined on September 24, 2026, as rising Treasury yields extended the previous day's sell-off. The S&P 500 fell 0.48%, Nasdaq dropped 0.77%, and the Dow declined 0.71%. Oracle tumbled nearly 5% after invoking force majeure on a New Mexico data center project, while Meta gained following the launch of new VR glasses and a handheld device. Rising bond yields, driven by inflation concerns and geopolitical uncertainty, pressured equities across sectors.",
+    "keywords": [
+      "Treasury yields",
+      "bond sell-off",
+      "stock market decline",
+      "force majeure",
+      "data center",
+      "VR glasses",
+      "inflation concerns",
+      "geopolitical uncertainty"
+    ],
+    "insights": [
+      {
+        "ticker": "ORCL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell almost 5% following news that the company invoked force majeure on a New Mexico data center project, raising investor concerns about project delays and potential financial impacts."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell almost 5% following news that the company invoked force majeure on a New Mexico data center project, raising investor concerns about project delays and potential financial impacts."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained following the debut of new Meta VR glasses and a handheld device that works with the recently-launched Muse AI agent, demonstrating positive product momentum."
+      },
+      {
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped on an analyst downgrade, indicating reduced confidence in the company's near-term performance."
+      }
+    ]
+  },
+  {
+    "id": "7b74bcac120e99a51cf4e4c81654518b11cbce80f0ebdcce58bb43923762c8b0",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "DSCP Smart Fulfillment Reports Peak Fees Ignore 3PL Warehouse Zones",
+    "author": "Dscp Smart Fulfillment",
+    "published_utc": "2026-09-16T22:47:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3363619/0/en/dscp-smart-fulfillment-reports-peak-fees-ignore-3pl-warehouse-zones.html",
+    "tickers": [
+      "UPS",
+      "FDX"
+    ],
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/16/3363619/0/en/dscp-smart-fulfillment-reports-peak-fees-ignore-3pl-warehouse-zones.html",
+    "description": "UPS and FedEx have published 2026 holiday demand surcharge schedules that apply flat fees per package regardless of shipping distance, contradicting the assumption that closer inventory placement reduces peak season costs. Surcharges are instead triggered by package characteristics like size and weight rather than destination, with additional volume-based penalties for high-volume shippers.",
+    "keywords": [
+      "holiday demand surcharges",
+      "UPS",
+      "FedEx",
+      "e-commerce fulfillment",
+      "peak season logistics",
+      "package surcharges",
+      "third-party logistics",
+      "inventory placement",
+      "shipping costs"
+    ],
+    "insights": [
+      {
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "UPS's flat-rate demand surcharges that ignore shipping distance and escalate based on package characteristics create unexpected cost burdens for e-commerce brands, particularly during peak season when packaging configurations change."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "FedEx's similar surcharge structure with volume-based penalties and flat fees regardless of distance creates financial challenges for shippers and contradicts common cost-reduction strategies based on inventory placement."
+      }
+    ]
+  },
+  {
+    "id": "c20ef9c872158f76285b95f408df37dc099c5849e4bfe15a677f3123c7bf2188",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Arculus Introduces New Home Package Protection Ecosystem Though Kickstarter",
+    "author": "Unknown",
+    "published_utc": "2026-09-15T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362432/0/en/arculus-introduces-new-home-package-protection-ecosystem-though-kickstarter.html",
+    "tickers": [
+      "AQLS",
+      "FDX",
+      "UPS"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/0bd47781-2da0-40c6-9272-f10f7b2f867c",
+    "description": "Arculus launches the Arculus Boxx, a smart home delivery protection system designed to prevent package theft. The company is running a Kickstarter campaign with introductory pricing starting at $399, with manufacturing already funded and production underway. First units are expected to ship in early October 2026.",
+    "keywords": [
+      "package theft prevention",
+      "smart home delivery",
+      "Arculus Boxx",
+      "Kickstarter campaign",
+      "home security",
+      "e-commerce",
+      "delivery management",
+      "porch piracy"
+    ],
+    "insights": [
+      {
+        "ticker": "AQLS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The company is launching an innovative product addressing a significant market problem ($37 billion annual package theft losses). Manufacturing is already funded with production underway, demonstrating strong execution capability. The flexible pricing tiers and multiple protection plans show a well-thought-out go-to-market strategy. Early October shipping timeline before peak holiday season is strategically advantageous."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "FedEx is mentioned only as a delivery partner whose packages the Arculus app automatically recognizes and routes. No specific business impact or sentiment drivers are discussed."
+      },
+      {
+        "ticker": "UPS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "UPS is mentioned only as a delivery partner whose packages the Arculus app automatically recognizes and routes. No specific business impact or sentiment drivers are discussed."
+      }
+    ]
+  },
+  {
     "id": "1ac07e86f4b62cd0c661890ee7875841bc5ebec3e32418eca7c8698f678cb003",
     "publisher": {
       "name": "The Motley Fool",
@@ -77,137 +219,6 @@
         "ticker": "UPS",
         "sentiment": "neutral",
         "sentiment_reasoning": "While UPS delivered strong Q2 results with earnings and revenue beats, raised full-year guidance, and improved operational efficiency, the post-earnings period has seen analyst estimates decline by 6.4% and the stock underperform the S&P 500 by 1%. The Zacks Rank #3 (Hold) rating with poor momentum (F score) suggests limited upside potential despite operational improvements."
-      }
-    ]
-  },
-  {
-    "id": "d754b2eeb7e44149cfcbd008831ad7139c721c43a815d5e6b4ac73c6cb3744b1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-24T00:14:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/ups-stopped-carrying-2-million-amazon-packages-a-day-amazon-still-has-to-move-them/?source=iedfolrf0000001",
-    "tickers": [
-      "UPS",
-      "AMZN",
-      "FDX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F251423ff48196125cf66a18810d2f1c2ca99e710-6720x4480.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "UPS completed its 18-month reduction of Amazon volume, eliminating 2 million packages daily and $4.5 billion in expenses. Amazon absorbed most of this volume into its own delivery network, which now handles 6.7 billion U.S. parcels annually\u2014making it the country's largest parcel carrier. However, Amazon's shipping costs surged 19% to $27.9 billion in Q2, outpacing its 15% online sales growth, reflecting the significant investment required to maintain its delivery infrastructure and fast shipping promises.",
-    "keywords": [
-      "package delivery",
-      "logistics",
-      "supply chain",
-      "e-commerce shipping",
-      "parcel carriers",
-      "delivery network",
-      "shipping costs"
-    ],
-    "insights": [
-      {
-        "ticker": "UPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "UPS successfully completed its strategic shift away from lower-margin Amazon volume. The company achieved 6% revenue growth with 9.3% increase in revenue per piece, expanded operating margins to 8% (up 1 percentage point), and raised full-year revenue outlook to $91.2 billion. The elimination of unprofitable volume improved overall profitability."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Amazon absorbed 2 million daily packages from UPS, resulting in worldwide shipping costs of $27.9 billion in Q2 (up 19% YoY), which is growing faster than its 15% online sales growth. The company is investing heavily in delivery infrastructure, but shipping costs are outpacing revenue growth, creating a profitability headwind."
-      },
-      {
-        "ticker": "FDX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "FedEx was the only traditional carrier whose volume grew in 2025, suggesting it may have benefited from UPS's Amazon volume reduction. However, the article provides limited specific information about FedEx's performance or strategic position relative to these changes."
-      }
-    ]
-  },
-  {
-    "id": "c840e921664d3f5a640f956ea3145a4e201f0e4457db68423085061e30c0d379",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "UPS Fired Amazon. Was It The Smart Move?",
-    "author": "Lee Samaha",
-    "published_utc": "2026-08-22T06:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/22/ups-fired-amazon-was-it-the-smart-move/?source=iedfolrf0000001",
-    "tickers": [
-      "UPS",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883873%2Fgettyimages-1468209977-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "UPS's decision to reduce Amazon delivery volume by 50% aligns with its 'better, not bigger' strategy to focus on higher-margin business segments. However, the stock has declined 10.5% since the announcement due to margin concerns. While management raised earnings guidance, operating margins actually decreased, and fuel surcharges appear to be the primary driver of revenue growth rather than operational improvements.",
-    "keywords": [
-      "delivery volume reduction",
-      "margin expansion",
-      "fuel surcharges",
-      "strategic pivot",
-      "higher-margin business",
-      "earnings guidance",
-      "network optimization"
-    ],
-    "insights": [
-      {
-        "ticker": "UPS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 10.5% since Amazon announcement. Despite raising earnings guidance, operating margins declined from 9.6% to 9.5%. Fuel surcharges account for most of the revenue increase, which is unsustainable. Market skepticism about margin expansion and earnings quality in 2026 despite the strategic rationale for the Amazon reduction."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Amazon is losing 50% of UPS delivery volume, but the article focuses on UPS's strategic decision rather than Amazon's implications. No direct commentary on Amazon's business impact or alternative logistics solutions is provided."
-      }
-    ]
-  },
-  {
-    "id": "e841c9f0dfd43c843a00ae0711d42129e56bbd58ffca3d3ff974bcd58eb94dad",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "UPS Is Walking Away From Amazon. Is That a Smart Move?",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-20T17:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/20/ups-fired-amazon-was-it-the-smart-move/?source=iedfolrf0000001",
-    "tickers": [
-      "UPS",
-      "AMZN",
-      "FDX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883888%2Fups-truck.jpg&w=1200&op=resize",
-    "description": "UPS is reducing its Amazon-related shipping volume by over 50% through 2026, phasing out standard last-mile delivery services. While Amazon was UPS's largest customer, these shipments generated lower profits and clogged sorting facilities. UPS is pivoting toward higher-margin orders from small-to-medium businesses and healthcare customers. The company expects 3% revenue growth and 1% adjusted EPS growth in 2026, marking the first synchronized growth since 2022.",
-    "keywords": [
-      "shipping logistics",
-      "last-mile delivery",
-      "business restructuring",
-      "profit margins",
-      "customer diversification",
-      "supply chain"
-    ],
-    "insights": [
-      {
-        "ticker": "UPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "UPS is strategically improving profitability by eliminating low-margin Amazon business, focusing on higher-margin customers, and achieving synchronized revenue and EPS growth for the first time since 2022. The stock trades at an attractive 14x earnings with a 6.4% dividend yield and 16 consecutive years of dividend increases, positioning it as a solid income play."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Amazon is losing its largest shipping partner's last-mile delivery services, reducing its shipping volume by millions of pieces per day. This represents a significant loss of logistics capacity and may increase Amazon's costs as it seeks alternative delivery solutions."
-      },
-      {
-        "ticker": "FDX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "FedEx is mentioned as a competitor that completely cut ties with Amazon in 2019. No new developments or implications for FedEx are discussed in the article."
       }
     ]
   }

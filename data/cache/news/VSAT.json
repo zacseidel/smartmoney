@@ -1,228 +1,177 @@
 [
   {
-    "id": "eae0eb303583a2988ede7834094c935d94d9d91943444b0a39246f4fe9b66b63",
+    "id": "9dd9e9859b497f1748f5519f571f31c8814235e0e60994d5a924e3dcae202d54",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Can Redwire's Phased-Array Investment Drive Defense Growth?",
+    "title": "Viasat Wins First Task Order Award as part of $307 Million Ceiling U.S. Marine Corps Enterprise Services Contract for Multi-Orbit Connectivity",
     "author": "Na",
-    "published_utc": "2026-09-08T13:01:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986213/can-redwire-s-phased-array-investment-drive-defense-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2986213",
+    "published_utc": "2026-09-23T12:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/23/3367410/0/en/viasat-wins-first-task-order-award-as-part-of-307-million-ceiling-u-s-marine-corps-enterprise-services-contract-for-multi-orbit-connectivity.html",
     "tickers": [
-      "RDW",
-      "VSAT",
-      "NOC"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/13/203.jpg",
-    "description": "Redwire Corporation announced a strategic investment in August 2026 to accelerate development of phased-array antenna systems for military satellite communications across LEO, MEO, and GEO orbits. The technology will support dynamic beam steering and enhanced data throughput for warfighter communications. RDW builds on existing RF capabilities and has already delivered over 200 flight antennas, positioning itself to expand its role in distributed military satellite networks.",
-    "keywords": [
-      "phased-array antenna",
-      "military communications",
-      "satellite technology",
-      "RF capabilities",
-      "space-based communications",
-      "defense contractors"
-    ],
-    "insights": [
-      {
-        "ticker": "RDW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strategic investment in next-generation phased-array antenna technology positions RDW to expand military communications capabilities. Company has strong existing RF foundation with 200+ delivered flight antennas and facility upgrades. Expected earnings growth of 57.32% (2026) and 40% (2027) supports positive outlook, though stock trades at premium valuation (4.96X P/S vs 2.36X industry average)."
-      },
-      {
-        "ticker": "VSAT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor developing active electronically scanned array technologies for multi-band and multi-orbit satellite communications. No specific company developments or performance metrics provided."
-      },
-      {
-        "ticker": "NOC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor working on SATCOM ground systems and phased-array antenna technologies for military communications. No specific company developments or performance metrics provided."
-      }
-    ]
-  },
-  {
-    "id": "12e9cac9cc6ffe4abbd0d4090cd2e67c4cac6830acb552cc83bb7cd5b9116f7d",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can Rocket Lab's SDN Contracts Boost Growth Opportunities?",
-    "author": "Na",
-    "published_utc": "2026-09-07T13:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985688/can-rocket-lab-s-sdn-contracts-boost-growth-opportunities?cid=CS-ZC-FT-analyst_blog|quick_take-2985688",
-    "tickers": [
-      "RKLB",
-      "VSAT",
-      "IRDM"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/43/204.jpg",
-    "description": "Rocket Lab has been selected for the U.S. Space Force's Space Data Network Consortium and secured two delivery orders worth $12 million to develop secure optical communications for military satellite operations. The company will demonstrate satellite-to-ground interoperability using its Photon spacecraft, with operational demonstrations expected in 2027. This strategic opportunity could lead to additional military satellite communications work.",
-    "keywords": [
-      "satellite communications",
-      "Space Data Network",
-      "military contracts",
-      "optical communications",
-      "space technology",
-      "U.S. Space Force"
-    ],
-    "insights": [
-      {
-        "ticker": "RKLB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured $12 million in military contracts with strategic growth potential; demonstrates technological capability in secure communications; positioned for additional defense work; trading at premium valuation with strong year-over-year stock performance (+34.6%); Zacks Rank #2 (Buy) with projected earnings growth of 81.48% (2026) and 240% (2027)"
-      },
-      {
-        "ticker": "VSAT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the growing satellite communications market; no specific news or developments provided in the article"
-      },
-      {
-        "ticker": "IRDM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the growing satellite communications market; no specific news or developments provided in the article"
-      }
-    ]
-  },
-  {
-    "id": "49397cfb709f70d36042abcd72adbfb5f4dba8e0a168d14b65f0b249ac8fcaaa",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "ViaSat (VSAT) Down 13.7% Since Last Earnings Report: Can It Rebound?",
-    "author": "Na",
-    "published_utc": "2026-09-03T15:30:27Z",
-    "article_url": "https://www.zacks.com/stock/news/2984525/viasat-vsat-down-13-7-since-last-earnings-report-can-it-rebound?cid=CS-ZC-FT-realtime_blog-2984525",
-    "tickers": [
-      "VSAT",
-      "NOK"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default45.jpg",
-    "description": "ViaSat reported mixed Q1 fiscal 2027 results with earnings beating consensus estimates but revenues missing expectations. The company posted a narrower net loss of $51.7 million due to reduced interest expense from debt repayment, though revenues declined to $1.16 billion from $1.17 billion. Management expects mid-single-digit revenue growth for fiscal 2027, with DAT segment growth anticipated in the mid-teens. Shares have underperformed the S&P 500 by 13.7% since the earnings report, and analyst estimates have trended downward by 13.33%.",
-    "keywords": [
-      "earnings report",
-      "revenue decline",
-      "net loss narrowing",
-      "debt repayment",
-      "guidance",
-      "estimate revisions",
-      "stock underperformance"
-    ],
-    "insights": [
-      {
-        "ticker": "VSAT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite beating EPS estimates, the company missed revenue expectations, reported year-over-year revenue decline, and shares have underperformed the S&P 500 by 13.7%. Analyst estimates have trended downward 13.33%, and the stock carries a Zacks Rank #3 (Hold) with an F Momentum Score, suggesting weak near-term performance."
-      },
-      {
-        "ticker": "NOK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nokia reported strong results with 8.5% year-over-year revenue growth and improved EPS from $0.05 to $0.08. The stock gained 2.7% over the past month and is expected to post 14.3% year-over-year earnings growth, though it carries a Zacks Rank #3 (Hold) rating."
-      }
-    ]
-  },
-  {
-    "id": "a5a8f92006b844bc589b4c8ef9672cf3732a2e1d3433409fdad03c8574b0b7a5",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can Viasat's Deal With Addvalue Boost Its Government Business?",
-    "author": "Na",
-    "published_utc": "2026-08-27T16:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2981298/can-viasat-s-deal-with-addvalue-boost-its-government-business?cid=CS-ZC-FT-analyst_blog|quick_take-2981298",
-    "tickers": [
-      "VSAT",
-      "NOK",
-      "CMTL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/09/119962.jpg",
-    "description": "Viasat has partnered with Addvalue Solutions to integrate its Inter-satellite Data Relay Service (IDRS) into Viasat's HaloNet portfolio, expanding government-focused space communications capabilities. The integration leverages Viasat's GEO L-band network to maintain persistent links with LEO spacecraft, enabling faster response times for government missions. The unified offering combines terminals, connectivity, and mission support to simplify procurement for U.S. government agencies.",
-    "keywords": [
-      "satellite communications",
-      "government contracts",
-      "LEO spacecraft",
-      "space connectivity",
-      "IDRS integration",
-      "HaloNet",
-      "responsive space"
-    ],
-    "insights": [
-      {
-        "ticker": "VSAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Viasat is expanding its government space communications market presence through a strategic partnership that enhances its LEO connectivity capabilities. The company's stock has surged 120.9% over the past year, and it trades at a favorable valuation (P/S of 1.98 vs. industry 4.98). The integration positions Viasat to benefit from growing U.S. government demand for responsive space-based connectivity."
-      },
-      {
-        "ticker": "NOK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Nokia is mentioned as a competitor advancing in government communications with secure 4G/5G networks and AI-based technologies, but no specific competitive advantage or disadvantage relative to Viasat's announcement is indicated."
-      },
-      {
-        "ticker": "CMTL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Comtech is noted as a competitor developing secure SATCOM technologies and multi-orbit tactical modems, but the article provides no indication of competitive advantage or disadvantage in relation to Viasat's partnership."
-      }
-    ]
-  },
-  {
-    "id": "d06fe12b74a4f378a829a220413b8eb01765c8fd976eb9000578a2d86d7bc4ab",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Rocket Lab Stock a Buy After Its Big Contract Win?",
-    "author": "Rich Smith",
-    "published_utc": "2026-08-20T19:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/20/is-hot-ticker-stock-a-buy-after-its-big-contract-w/?source=iedfolrf0000001",
-    "tickers": [
-      "RKLB",
-      "LMT",
-      "NOC",
       "VSAT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883548%2F11252024-electron-rocket-launch-from-lc-1-in-new-zealand-is-rocket-lab.jpg&w=1200&op=resize",
-    "description": "Rocket Lab announced participation in the U.S. Space Force's $981 million NITE-STAR program, but the actual value to the company is significantly less impressive. With 15 companies competing for task orders over a 10-year period, Rocket Lab can expect approximately $6.5 million annually\u2014less than 1% of its current $770 million revenue. The analyst concludes this is insufficient to justify the stock's current valuation of 60x sales while unprofitable.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f19815f1-333c-4b47-89e0-78d33b1d873d",
+    "description": "Viasat Inc. has been awarded an initial $42 million task order under a seven-year, up to $307 million IDIQ contract to provide fully managed, end-to-end global satellite services for the United States Marine Corps. The contract covers multi-orbit connectivity across L-, Ku, and Ka-bands, including access to Viasat's next-generation ViaSat-3 satellites, with 24x7x365 network and security operations support.",
     "keywords": [
-      "NITE-STAR program",
-      "Space Force contract",
-      "defense spending",
-      "space industry",
-      "contract valuation",
-      "revenue impact"
+      "satellite communications",
+      "U.S. Marine Corps",
+      "multi-orbit connectivity",
+      "SATCOM services",
+      "ViaSat-3 satellites",
+      "government contract",
+      "IDIQ contract",
+      "Ka-band network"
     ],
     "insights": [
       {
-        "ticker": "RKLB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the NITE-STAR contract win appears significant on the surface, the article demonstrates the actual financial benefit is minimal (~$6.5M annually vs. $981M headline figure). Combined with the company's current unprofitable status and high valuation multiple (60x sales), the analyst concludes the stock is not a buy despite the contract win."
-      },
-      {
-        "ticker": "LMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of 15 companies participating in NITE-STAR, but no specific analysis or sentiment is provided regarding its involvement or financial impact."
-      },
-      {
-        "ticker": "NOC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of 15 companies participating in NITE-STAR, but no specific analysis or sentiment is provided regarding its involvement or financial impact."
-      },
+        "ticker": "VSAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Viasat secured a significant $307 million ceiling contract with the U.S. Marine Corps, demonstrating strong government sector demand, contract expansion opportunities, and validation of its multi-orbit satellite capabilities. The initial $42 million task order and seven-year duration indicate substantial revenue potential and long-term business stability."
+      }
+    ]
+  },
+  {
+    "id": "f096d3069975b8aac94d29a1a52a7aea3af720f42876b4459a3619b14756950d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Space42 \u4e0e Viasat \u7b7e\u7f72\u7ea6\u675f\u6027\u534f\u8bae\uff0c\u5171\u540c\u521b\u7acb Equatys\uff0c\u6253\u9020\u5168\u7403\u9996\u4e2a\u9762\u5411\u76f4\u8fde\u8bbe\u5907\u4e0e\u5148\u8fdb MSS \u8fde\u63a5\u7684\u5171\u4eab\u592a\u7a7a\u53ca\u5730\u9762\u57fa\u7840\u8bbe\u65bd\u5e73\u53f0",
+    "author": "Na",
+    "published_utc": "2026-09-14T23:33:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/14/3361605/0/zh-hans/space42-%E4%B8%8E-viasat-%E7%AD%BE%E7%BD%B2%E7%BA%A6%E6%9D%9F%E6%80%A7%E5%8D%8F%E8%AE%AE-%E5%85%B1%E5%90%8C%E5%88%9B%E7%AB%8B-equatys-%E6%89%93%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E9%9D%A2%E5%90%91%E7%9B%B4%E8%BF%9E%E8%AE%BE%E5%A4%87%E4%B8%8E%E5%85%88%E8%BF%9B-mss-%E8%BF%9E%E6%8E%A5%E7%9A%84%E5%85%B1%E4%BA%AB%E5%A4%AA%E7%A9%BA%E5%8F%8A%E5%9C%B0%E9%9D%A2%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%B9%B3%E5%8F%B0.html",
+    "tickers": [
+      "VSAT"
+    ],
+    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/d01b8ada-bf97-4404-89d9-8fd27224c128",
+    "description": "Space42 and Viasat have signed a binding agreement to establish Equatys, a shared satellite and ground infrastructure platform for direct-to-device (D2D) and advanced mobile satellite services. The two companies will commit up to $1 billion in combined equity, with each contributing $400 million initially and Space42 adding $200 million in a future third-party funding round. The platform will operate on a 'tower company' model, allowing multiple operators to share standardized infrastructure while maintaining independent customer relationships. Viasat will serve as the chief technology contractor.",
+    "keywords": [
+      "satellite infrastructure",
+      "direct-to-device connectivity",
+      "mobile satellite services",
+      "shared platform",
+      "3GPP NTN standard",
+      "spectrum coordination",
+      "non-terrestrial networks"
+    ],
+    "insights": [
       {
         "ticker": "VSAT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of 15 companies participating in NITE-STAR, but no specific analysis or sentiment is provided regarding its involvement or financial impact."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Viasat secures a strategic role as chief technology contractor with $400 million equity commitment and access to a massive addressable market (projected $300-700 billion by 2040). The partnership leverages its MSS spectrum assets and technical expertise while reducing individual capital burden through shared infrastructure model."
+      }
+    ]
+  },
+  {
+    "id": "e5b7240ebf7bcf4414b87dddeec426f3228c4d798134003e81a3285c3a8ac9a9",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Space42\u00b7Viasat, Equatys \uacf5\ub3d9 \uc124\ub9bd \uc704\ud55c \uad6c\uc18d\ub825 \uc788\ub294 \uacc4\uc57d \uccb4\uacb0\u2026\uae00\ub85c\ubc8c D2D\u00b7\ucca8\ub2e8 MSS \uc704\ud55c \ucd5c\ucd08\uc758 \uacf5\ub3d9 \uc6b0\uc8fc\u00b7\uc9c0\uc0c1 \uc778\ud504\ub77c \ud50c\ub7ab\ud3fc \uad6c\ucd95",
+    "author": "Na",
+    "published_utc": "2026-09-14T23:33:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/14/3361605/0/ko/space42-viasat-equatys-%EA%B3%B5%EB%8F%99-%EC%84%A4%EB%A6%BD-%EC%9C%84%ED%95%9C-%EA%B5%AC%EC%86%8D%EB%A0%A5-%EC%9E%88%EB%8A%94-%EA%B3%84%EC%95%BD-%EC%B2%B4%EA%B2%B0-%EA%B8%80%EB%A1%9C%EB%B2%8C-d2d-%EC%B2%A8%EB%8B%A8-mss-%EC%9C%84%ED%95%9C-%EC%B5%9C%EC%B4%88%EC%9D%98-%EA%B3%B5%EB%8F%99-%EC%9A%B0%EC%A3%BC-%EC%A7%80%EC%83%81-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B5%AC%EC%B6%95.html",
+    "tickers": [
+      "VSAT"
+    ],
+    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/d01b8ada-bf97-4404-89d9-8fd27224c128",
+    "description": "Space42 and Viasat have signed a binding agreement to establish Equatys, a neutral shared space and ground infrastructure platform for Direct-to-Device (D2D) and advanced Mobile Satellite Service (MSS) connectivity. The companies commit up to $1 billion in combined equity investments, with Space42 and Viasat each investing $400 million initially, and Space42 committing an additional $200 million in future funding rounds. Equatys will operate on a tower company model, enabling multiple satellite operators to share infrastructure while maintaining independent frequency rights and customer relationships. The platform is designed to scale to 2,800 satellites across 60 orbital planes and 3 altitude layers.",
+    "keywords": [
+      "satellite connectivity",
+      "Direct-to-Device (D2D)",
+      "Mobile Satellite Service (MSS)",
+      "shared infrastructure",
+      "non-terrestrial networks (NTN)",
+      "3GPP standards",
+      "tower company model",
+      "L-band frequency",
+      "joint venture"
+    ],
+    "insights": [
+      {
+        "ticker": "VSAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Viasat is a co-founder with $400 million initial equity commitment and designated as the prime technology contractor for Equatys. The company brings internationally coordinated L-band MSS frequency rights globally and S-band MSS rights in Europe, plus relationships with 400+ mobile operators. This positions Viasat to benefit from infrastructure-level returns and long-term growth in the emerging D2D NTN market."
+      }
+    ]
+  },
+  {
+    "id": "c0ab92f75bf2d22cd2dca1f0dc499ee08147ccdd300f23394bbfd515d5ddaf85",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "\u30b9\u30da\u30fc\u30b942\u3068\u30d0\u30a4\u30a2\u30b5\u30c3\u30c8\u3001\u30a8\u30af\u30a2\u30c6\u30a3\u30b9\u3092\u5171\u540c\u8a2d\u7acb\u3059\u308b\u305f\u3081\u306e\u62d8\u675f\u529b\u306e\u3042\u308b\u5951\u7d04\u3092\u7de0\u7d50\u3057\u3001\u30b0\u30ed\u30fc\u30d0\u30eb\u306a\u30c0\u30a4\u30ec\u30af\u30c8\u30fb\u30c4\u30fc\u30fb\u30c7\u30d0\u30a4\u30b9\u63a5\u7d9a\u304a\u3088\u3073\u9ad8\u5ea6\u306aMSS\u63a5\u7d9a\u306b\u5411\u3051\u305f\u521d\u306e\u5171\u6709\u5b87\u5b99\u30fb\u5730\u4e0a\u30a4\u30f3\u30d5\u30e9\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3092\u69cb\u7bc9\u3059\u308b",
+    "author": "Na",
+    "published_utc": "2026-09-14T23:33:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/14/3361605/0/ja/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B942%E3%81%A8%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B5%E3%83%83%E3%83%88-%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%86%E3%82%A3%E3%82%B9%E3%82%92%E5%85%B1%E5%90%8C%E8%A8%AD%E7%AB%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%8B%98%E6%9D%9F%E5%8A%9B%E3%81%AE%E3%81%82%E3%82%8B%E5%A5%91%E7%B4%84%E3%82%92%E7%B7%A0%E7%B5%90%E3%81%97-%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%81%AA%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88-%E3%83%84%E3%83%BC-%E3%83%87%E3%83%90%E3%82%A4%E3%82%B9%E6%8E%A5%E7%B6%9A%E3%81%8A%E3%82%88%E3%81%B3%E9%AB%98%E5%BA%A6%E3%81%AAmss%E6%8E%A5%E7%B6%9A%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E5%88%9D%E3%81%AE%E5%85%B1%E6%9C%89%E5%AE%87%E5%AE%99-%E5%9C%B0%E4%B8%8A%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%92%E6%A7%8B%E7%AF%89%E3%81%99%E3%82%8B.html",
+    "tickers": [
+      "VSAT"
+    ],
+    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/d01b8ada-bf97-4404-89d9-8fd27224c128",
+    "description": "Space42 and Viasat have signed a binding agreement to jointly establish Equatys, a shared space and ground infrastructure platform designed to provide direct-to-device (D2D) and advanced mobile satellite services (MSS) connectivity globally. The two companies commit up to $1 billion in combined equity funding. Equatys will operate on a tower company model, allowing multiple licensed operators to share satellite and ground infrastructure while maintaining their own frequency licenses and commercial relationships. The initial constellation is designed to expand to 2,800 satellites across 60 orbital planes and three altitude layers.",
+    "keywords": [
+      "satellite connectivity",
+      "direct-to-device",
+      "mobile satellite services",
+      "non-terrestrial networks",
+      "3GPP NTN standard",
+      "shared infrastructure",
+      "space technology",
+      "joint venture"
+    ],
+    "insights": [
+      {
+        "ticker": "VSAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Viasat is the other co-founder and primary technology contractor for Equatys, committing $400 million initially with potential for additional funding. The company brings critical MSS frequency rights globally and in Europe, plus relationships with 400+ mobile operators. As the main technical contractor, Viasat gains significant revenue opportunities and strategic positioning in the emerging D2D satellite market with attractive long-term financial returns."
+      }
+    ]
+  },
+  {
+    "id": "7010d17508a57216238672496cfabf8734710ac8d112b98685a1d885e163eb66",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Space42 et Viasat signent un accord contraignant en vue de cofonder Equatys, aboutissant \u00e0 la cr\u00e9ation de la premi\u00e8re plateforme partag\u00e9e d\u2019espaces et d\u2019infrastructures au sol d\u00e9di\u00e9e \u00e0 la connectivit\u00e9 mondiale direct-to-device (D2D) et aux services MSS avanc\u00e9s",
+    "author": "Na",
+    "published_utc": "2026-09-14T23:33:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/14/3361605/0/fr/space42-et-viasat-signent-un-accord-contraignant-en-vue-de-cofonder-equatys-aboutissant-%C3%A0-la-cr%C3%A9ation-de-la-premi%C3%A8re-plateforme-partag%C3%A9e-d-espaces-et-d-infrastructures-au-sol-d%C3%A9di%C3%A9.html",
+    "tickers": [
+      "VSAT"
+    ],
+    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/d01b8ada-bf97-4404-89d9-8fd27224c128",
+    "description": "Space42 and Viasat have signed a binding agreement to create Equatys, a shared satellite and ground infrastructure platform for global direct-to-device (D2D) connectivity and advanced mobile satellite services (MSS). The two companies will commit up to $1 billion in combined equity capital, with Viasat serving as the primary technology provider. The platform will follow a Tower Company model, enabling multiple operators to share infrastructure while maintaining their spectrum rights and commercial independence. The initial constellation will eventually scale to 2,800 satellites across 60 orbital planes.",
+    "keywords": [
+      "satellite connectivity",
+      "direct-to-device (D2D)",
+      "mobile satellite services (MSS)",
+      "shared infrastructure",
+      "3GPP NTN standards",
+      "spectrum coordination",
+      "non-terrestrial networks",
+      "tower company model",
+      "satellite constellation"
+    ],
+    "insights": [
+      {
+        "ticker": "VSAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Viasat is designated as the primary technology provider for Equatys and co-commits $1 billion in equity. The company brings critical global MSS spectrum rights and technical expertise. The partnership positions Viasat as a key infrastructure provider in the emerging D2D satellite market, with potential for significant long-term returns and market expansion."
       }
     ]
   }

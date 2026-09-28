@@ -1,289 +1,232 @@
 [
   {
-    "id": "85104164ffa06498da3407ee62777197143d16de0e69e74b1874766eecf8c716",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "The Zacks Analyst Blog Highlights Palo Alto Networks, CrowdStrike and Fortinet",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-09-03T12:46:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984364/the-zacks-analyst-blog-highlights-palo-alto-networks-crowdstrike-and-fortinet?cid=CS-ZC-FT-press_releases-2984364",
-    "tickers": [
-      "PANW",
-      "CRWD",
-      "FTNT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/1138.jpg",
-    "description": "Palo Alto Networks delivered strong quarterly results with $9.1B in Next-Generation Security ARR, up 63% year-over-year, and added nearly $1B in net new ARR in Q4 FY2026. The company projects continued robust growth with NGS ARR expected to reach $11.075-$11.175B in FY2027 (22-23% YoY growth). With strong profitability, improving cash flow, and attractive valuation relative to peers, Palo Alto Networks receives a Zacks Rank #2 (Buy) rating.",
-    "keywords": [
-      "cybersecurity",
-      "AI security",
-      "ARR growth",
-      "next-generation security",
-      "profitability",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "PANW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 63% YoY NGS ARR growth, $1B net new ARR in Q4, robust FY2027 guidance (22-23% growth), improving profitability with $1B non-GAAP operating income, healthy free cash flow of $1.3B, and attractive forward P/E ratio of 88 vs. industry average of 147.47. Assigned Zacks Rank #2 (Buy)."
-      },
-      {
-        "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer competitor to Palo Alto Networks in the cybersecurity space, but no specific financial data or analysis provided in the article."
-      },
-      {
-        "ticker": "FTNT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer competitor to Palo Alto Networks in the cybersecurity space, but no specific financial data or analysis provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "b080d569c3ede2a7b23b2c657fa5d83de30aa44e9ce9de2defca010893a6f9cc",
+    "id": "eac40857bd6f2d3f29d07be0addb4c08096167802c44f6e556f2e11a20955202",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Zscaler's Next Earnings Report on September 3 Could Send the Stock Soaring. Here's Why.",
-    "author": "Matt Frankel, Cfp\u00ae",
-    "published_utc": "2026-09-02T16:26:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/zscaler-s-next-earnings-report-on-september-3-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
+    "title": "Stock Market Today, Sept. 24: BlackBerry Lifts Fiscal 2027 Guidance on Record QNX Revenue",
+    "author": "Josh Kohn-Lindquist",
+    "published_utc": "2026-09-24T21:07:12Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-blackberry-lifts-fiscal-2027-guidance-on-record-qnx-revenue/?source=iedfolrf0000001",
     "tickers": [
-      "ZS",
+      "BB",
+      "PANW",
+      "CRWD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F77da40e1441423dea3c02d00c83ecbebd96a733e-1401x1250.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "BlackBerry (BB) surged 4.18% after beating Q2 earnings expectations with 26% revenue growth and 81% adjusted EBITDA growth, while lifting full-year fiscal 2027 guidance. The company's QNX unit achieved 27% sales growth and is expanding beyond automotive into autonomous vehicles, robotics, and AI applications. However, the analyst notes caution at the current 46x forward earnings valuation.",
+    "keywords": [
+      "BlackBerry",
+      "QNX",
+      "Q2 earnings",
+      "guidance raise",
+      "automotive software",
+      "cybersecurity",
+      "embedded systems",
+      "autonomous vehicles",
+      "robotics"
+    ],
+    "insights": [
+      {
+        "ticker": "BB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 earnings beat with 26% revenue and 81% EBITDA growth, raised full-year guidance, record QNX revenue with 27% growth, and expansion into high-growth markets like autonomous vehicles and robotics. However, valuation at 46x forward earnings is noted as a concern."
+      },
+      {
+        "ticker": "PANW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Closed down 0.86% as a sector rival in cybersecurity and embedded software. Mentioned as a comparable company but no specific news or performance drivers discussed."
+      },
+      {
+        "ticker": "CRWD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Closed down 1.07% as a sector rival in cybersecurity. Recent AI-security updates and guidance kept the group in focus, but no specific positive or negative catalysts mentioned for this company."
+      }
+    ]
+  },
+  {
+    "id": "df63e93d1b1a77adc31721da681bef9a3a783509dc08aadaf8b8910d6d13d674",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "CrowdStrike vs. Figma: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Jake Lerch",
+    "published_utc": "2026-09-24T14:30:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/crowdstrike-vs-figma-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
       "CRWD",
+      "FIG",
+      "AMZN",
+      "ADBE",
       "PANW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc0329de7c3d51ae39d0e0b0faff8857d603c1cc9-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Zscaler reports fiscal Q4 earnings on September 3 with low expectations set by conservative management guidance. The key catalyst for stock movement will be forward guidance, particularly ARR growth rates. With peers CrowdStrike and Palo Alto Networks recently reporting strong results driven by AI-boosted cybersecurity demand, Zscaler could benefit from similar tailwinds if it demonstrates traction in agentic AI security.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two high-growth tech stocks: CrowdStrike, a cloud-native cybersecurity leader with $4.8B revenue and strong free cash flow but trading at a 50.3x P/S ratio, versus Figma, a collaborative design platform with 41% revenue growth but significant losses and a 10.5x P/S ratio. CrowdStrike is recommended for growth-oriented investors due to solid fundamentals, while Figma faces risks from frontier AI models disrupting its core design workflow.",
     "keywords": [
-      "earnings report",
       "cybersecurity",
-      "guidance",
-      "ARR growth",
-      "agentic AI",
-      "zero-trust architecture",
-      "RPO"
+      "cloud-native platform",
+      "collaborative design",
+      "valuation comparison",
+      "AI integration",
+      "enterprise software",
+      "free cash flow",
+      "net losses"
     ],
     "insights": [
       {
-        "ticker": "ZS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Article suggests significant upside potential if the company raises forward guidance and demonstrates traction in agentic AI cybersecurity. Low expectations create a favorable setup for positive surprise, and the company has a history of beating its own guidance."
-      },
-      {
         "ticker": "CRWD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recently reported strong results with highest net new ARR growth rate ever and issued robust fiscal 2027 guidance, demonstrating AI-driven demand acceleration in cybersecurity sector."
+        "sentiment_reasoning": "Strong revenue growth (21.7%), substantial free cash flow ($1.3B), low debt-to-equity ratio (0.2x), market leadership as second-largest cybersecurity stock, and positioning in AI security infrastructure. Despite July 2024 incident and premium valuation, fundamentals support growth investor appeal."
+      },
+      {
+        "ticker": "FIG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Impressive 41% revenue growth and strong current ratio (2.6x), but offset by massive net losses ($1.3B) and negative net margin (-118.4%). Faces existential threat from frontier AI models disrupting core design workflow. Lower valuation (10.5x P/S) reflects uncertainty about monetization model sustainability."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as critical infrastructure dependency for CrowdStrike's Falcon platform delivery. No direct analysis provided; neutral mention of operational reliance."
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor to Figma in the design software space. No detailed analysis; mentioned as competitive threat."
       },
       {
         "ticker": "PANW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Recently reported strong earnings results but stock fell despite beating estimates, indicating that forward guidance and management commentary matter more than top-line beats in this sector."
+        "sentiment_reasoning": "Referenced as the largest cybersecurity stock by market cap ($320B). Mentioned for context only without sentiment analysis."
       }
     ]
   },
   {
-    "id": "978d0a8b56eb010091056bff049144b423ab3b8b3380e68e712017422bd5be05",
+    "id": "0c653f8a6d90b6088b2bcecec2104a5bcc5a9ae72a9ce425f6a2b8c8caf4248d",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "The Zacks Analyst Blog Highlights Toyota, CrowdStrike, Welltower, Blue Ridge Bankshares and Franklin Financial Services",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-09-02T12:37:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983631/the-zacks-analyst-blog-highlights-toyota-crowdstrike-welltower-blue-ridge-bankshares-and-franklin-financial-services?cid=CS-ZC-FT-press_releases-2983631",
+    "title": "Is CrowdStrike (CRWD) a Buy as Wall Street Analysts Look Optimistic?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T13:30:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2994326/is-crowdstrike-crwd-a-buy-as-wall-street-analysts-look-optimistic?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2994326",
     "tickers": [
-      "TM",
-      "CRWD",
-      "WELL",
-      "BRBS",
-      "FRAF"
+      "CRWD"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/42/1917.jpg",
-    "description": "Zacks equity research analysts featured five stocks in their analyst blog on September 2, 2026. Toyota benefits from hybrid adoption but faces headwinds from labor costs and China weakness. CrowdStrike shows strong cybersecurity demand with record ARR but faces competitive pricing pressures. Welltower's senior housing focus offers growth but carries transaction and concentration risks. Blue Ridge Bankshares and Franklin Financial Services, both microcaps, show improved fundamentals but carry execution and credit quality risks respectively.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default71.jpg",
+    "description": "While Wall Street analysts maintain a bullish stance on CrowdStrike with an average brokerage recommendation of 1.69 (Strong Buy), the article cautions investors against relying solely on these recommendations. The Zacks Rank system assigns CrowdStrike a #4 (Sell) rating due to a 67% decline in consensus earnings estimates over the past month, suggesting analysts' growing pessimism about the company's earnings prospects despite positive brokerage recommendations.",
     "keywords": [
-      "equity research",
-      "stock analysis",
-      "automotive",
-      "cybersecurity",
-      "REIT",
-      "banking",
-      "hybrid vehicles",
-      "senior housing"
+      "CrowdStrike",
+      "analyst recommendations",
+      "earnings estimates",
+      "Zacks Rank",
+      "stock rating",
+      "brokerage bias"
     ],
     "insights": [
       {
-        "ticker": "TM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company benefits from rising hybrid adoption and expanding electrified vehicle sales, but investment case is tempered by expectations for lower fiscal 2027 operating income due to higher labor, depreciation and R&D costs, plus weakness in China and elevated leverage."
-      },
-      {
         "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong cybersecurity demand, record net new ARR, and expanding platform opportunities are offset by revenue growth below hypergrowth years, elevated operating costs, and competitive pricing pressures that could constrain margins."
-      },
-      {
-        "ticker": "WELL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Favorable senior housing demographics and occupancy gains support growth, but competition, partner concentration, elevated interest expense, and execution risks from acquisitions and dispositions create a balanced investment case."
-      },
-      {
-        "ticker": "BRBS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap showing improved loan growth and cost rationalization, but earnings constrained by smaller asset base, rising nonperforming loans, and significant execution risk from proposed HomeTrust merger combination."
-      },
-      {
-        "ticker": "FRAF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microcap with strong commercial real estate franchise, growing core deposits, improving funding mix, and disciplined credit management. Improving margins and profitability supported by expense discipline and strong capital generation, though commercial real estate credit quality requires monitoring."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite 34 Strong Buy and 3 Buy recommendations from 51 brokerage firms, CrowdStrike received a Zacks Rank #4 (Sell) rating. The consensus earnings estimate declined 67% over the past month, indicating significant analyst pessimism about near-term earnings prospects. This divergence between bullish brokerage recommendations and negative earnings estimate revisions suggests the stock may underperform in the near term."
       }
     ]
   },
   {
-    "id": "35c8eeff21b4f8bc2f8a35af3ccd8001fc3b310a9e177962d9515951e726e981",
+    "id": "d032dd805464b517b913cc6844d6e91a0113f7d91f17198bffa34ef393ff5525",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "BlackBerry Expands SDV Reach With Alloy Kore Design Win",
+    "author": "Na",
+    "published_utc": "2026-09-23T13:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994234/blackberry-expands-sdv-reach-with-alloy-kore-design-win?cid=CS-ZC-FT-analyst_blog|quick_take-2994234",
+    "tickers": [
+      "BB",
+      "CRWD",
+      "APTV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7f/211.jpg",
+    "description": "BlackBerry's QNX division announced that Coretura, an SDV platform company founded by Daimler Truck and Volvo Group, has selected Alloy Kore as the foundational software layer for its next-generation software-defined commercial vehicles. This marks the first design win for Alloy Kore and is expected to increase software content per vehicle and support backlog growth. BlackBerry projects Q2 QNX revenue of $70-75 million with adjusted EBITDA of $16-21 million.",
+    "keywords": [
+      "software-defined vehicles",
+      "Alloy Kore",
+      "QNX",
+      "commercial vehicles",
+      "design win",
+      "high-performance computing"
+    ],
+    "insights": [
+      {
+        "ticker": "BB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "First design win for Alloy Kore with major OEM partnership (Coretura), expected to increase software content per vehicle and support backlog growth. Stock has surged 166.9% in past six months. Strong positioning in SDV market with expanding platform strategy."
+      },
+      {
+        "ticker": "CRWD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with sustained cybersecurity demand and record net new ARR, but fiscal 2027 revenue growth expected to be below hypergrowth years with elevated operating expenses."
+      },
+      {
+        "ticker": "APTV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong performance with 3% adjusted revenue growth, 22.4% adjusted EBITDA margin, and non-automotive revenue growth of 12%. Secured first commercial robotics award and drone program with $500M+ lifetime revenue potential."
+      }
+    ]
+  },
+  {
+    "id": "ab2031a93290665b4816ec6f6fab3106b8ac4a0ab584161b200b08d1b2dd40e6",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Stock Market Today, Sept. 1: Stocks Slide and Oil Surges Amid U.S.-Iran Tension",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-09-01T21:02:57Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/01/stock-market-today-sept-1-stocks-slide-and-oil-surges-amid-u-s-iran-tension/?source=iedfolrf0000001",
+    "title": "Where Will SentinelOne (S) Stock Be in 3 Years?",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-22T16:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/where-will-ai-cybersecurity-stock-be-in-3-years/?source=iedfolrf0000001",
     "tickers": [
+      "S",
       "PANW",
-      "CRWD",
-      "AXON",
-      "MRNA",
-      "AAPL",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "SPLV",
-      "SPHB"
+      "CRWD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "U.S. stock markets declined on September 1, 2026, as rising crude oil prices and Treasury yields pressured equities following escalating U.S.-Iran tensions. The S&P 500 fell 0.71%, the Dow dropped 0.79%, and the Nasdaq declined 1.03%, with technology stocks leading the selloff. Growth stocks underperformed value stocks, while oil surged 5%.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888243%2Fa-digital-padlock-cybersecurity.jpg&w=1200&op=resize",
+    "description": "SentinelOne, an AI-powered cybersecurity company, has seen its stock decline from a 2021 high of $76.30 to around $24, trading below its $35 IPO price. While revenue grew from $93M to $1B over five years, growth has decelerated to an expected 20-21% for fiscal 2027, signaling the end of hypergrowth days. The company faces intense competition from larger players like Palo Alto Networks and CrowdStrike, macro headwinds affecting enterprise spending, and declining net revenue retention among enterprise customers. Analysts project modest 18% revenue CAGR through 2029, with the stock potentially reaching $15.4B market cap (86% gain) within three years if current trends hold, but remaining well below its all-time high.",
     "keywords": [
-      "stock market decline",
-      "U.S.-Iran tension",
-      "crude oil surge",
-      "Treasury yields",
-      "tech stocks",
-      "risk-off sentiment"
-    ],
-    "insights": [
-      {
-        "ticker": "PANW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 5.24% following recent financial results; cybersecurity sector weakness pressured by broader tech selloff"
-      },
-      {
-        "ticker": "CRWD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 6.90% after recent financial results; cybersecurity firms weighed on software sector"
-      },
-      {
-        "ticker": "AXON",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Largest S&P 500 loser, declining 8.52%; growth stock hit hard by rising yields and market volatility"
-      },
-      {
-        "ticker": "MRNA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 9.93% on analyst upgrades following historic cancer vaccine announcement; outperforming broader market"
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock rose 2.61% despite market decline; leadership transition from Tim Cook to John Ternus as CEO is neutral corporate event"
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock fell 1.80%; mentioned for noting increased investor nervousness, not for company-specific negative news"
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock fell 1.80%; mentioned for noting increased investor nervousness, not for company-specific negative news"
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock fell 1.80%; mentioned for noting increased investor nervousness, not for company-specific negative news"
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock fell 1.80%; mentioned for noting increased investor nervousness, not for company-specific negative news"
-      },
-      {
-        "ticker": "SPLV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Declined only 0.20%, significantly outperforming high beta ETF; value stocks held up better during market selloff"
-      },
-      {
-        "ticker": "SPHB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Fell 2.12%, underperforming low volatility ETF; growth and high beta stocks hit hardest by rising yields"
-      }
-    ]
-  },
-  {
-    "id": "8c7441cd19886f4b3d790cb71c7e8efc4df86bd7b2c674a7070f6c4e5d559461",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is AIDR Emerging as CrowdStrike's Next Major Growth Engine?",
-    "author": "Na",
-    "published_utc": "2026-09-01T13:31:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983031/is-aidr-emerging-as-crowdstrike-s-next-major-growth-engine?cid=CS-ZC-FT-analyst_blog|quick_take-2983031",
-    "tickers": [
-      "CRWD",
-      "PANW",
-      "S"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/1b/3458.jpg",
-    "description": "CrowdStrike's AI Detection and Response (AIDR) business nearly tripled its annual recurring revenue sequentially in Q2 fiscal 2027, driven by strong enterprise demand for AI security solutions. AIDR operates as a separate, incremental product using existing Falcon agents, with token-based pricing creating additional recurring and usage-based revenue opportunities. However, CrowdStrike trades at a premium valuation of 32.97x forward P/S versus the industry average of 18.51x, and carries a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "AI security",
-      "annual recurring revenue",
+      "cybersecurity",
+      "AI-powered security",
       "endpoint detection and response",
-      "token-based pricing",
-      "cybersecurity platform expansion",
-      "enterprise AI adoption"
+      "enterprise customers",
+      "revenue growth deceleration",
+      "competitive pressure",
+      "net revenue retention"
     ],
     "insights": [
-      {
-        "ticker": "CRWD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AIDR business showing exceptional sequential growth (nearly tripled ARR), strong enterprise adoption, incremental revenue opportunity, and innovative token-based pricing model. Stock up 95.9% YTD. However, positive sentiment is tempered by premium valuation and Hold rating."
-      },
-      {
-        "ticker": "PANW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Competitor showing robust growth with Next-Gen Security ARR up 60% YoY in Q3 FY2026, driven by AI-driven XSIAM platform and platform expansion initiatives."
-      },
       {
         "ticker": "S",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock trades significantly below IPO price and all-time high; hypergrowth phase has ended with decelerating revenue growth (20-21% expected); facing intense competition from larger cybersecurity firms; declining net revenue retention among enterprise customers (115% to 109%); not expected to achieve profitability within three years; valuation at 6.9x sales is not compelling."
+      },
+      {
+        "ticker": "PANW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Competitor posting solid 22% YoY ARR growth in Q2 FY2027, fueled by adoption of AI-first Singularity platform and Purple AI offerings."
+        "sentiment_reasoning": "Identified as a larger competitor successfully integrating AI-powered tools into endpoint security platforms, gaining market share from smaller competitors like SentinelOne."
+      },
+      {
+        "ticker": "CRWD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as a larger competitor successfully integrating AI-powered tools into endpoint security platforms, gaining market share from smaller competitors like SentinelOne."
       }
     ]
   }

@@ -1,377 +1,372 @@
 [
   {
-    "id": "02446143bbc2222368967b817f8d92581ad9e4a8de3a02a69fc331f26ac66bf8",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Today's AI Boom Differs From the Internet Bubble",
-    "author": "Na",
-    "published_utc": "2026-09-08T19:10:00Z",
-    "article_url": "https://www.zacks.com/commentary/2986639/why-today-s-ai-boom-differs-from-the-internet-bubble?cid=CS-ZC-FT-investment_ideas-2986639",
-    "tickers": [
-      "NVDA",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMD",
-      "MU",
-      "DELL",
-      "CSCO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/da/181877.webp",
-    "description": "The article argues that the current AI buildout, representing the largest industrial expansion since 19th-century railroads, is fundamentally different from the 1990s internet bubble. Unlike the dot-com era where 90% of fiber infrastructure sat unused and 75% of IPOs operated at losses, today's AI companies are profitable, have reasonable valuations, and their hardware is in high demand with premium pricing. This suggests the AI boom has a stronger economic foundation than the internet bubble.",
-    "keywords": [
-      "AI buildout",
-      "internet bubble comparison",
-      "GPU demand",
-      "profitability",
-      "valuations",
-      "hardware utilization"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "GPU chips remain in high demand with prices increasing 22% month-over-month, contradicting bear arguments about overinvestment and unused capacity."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a highly profitable top AI company with reasonable valuations, demonstrating strong economic fundamentals."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a highly profitable top AI company with reasonable valuations compared to internet bubble era companies."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as highly profitable AI company; generated $28.86 billion in net income last quarter, demonstrating strong financial performance."
-      },
-      {
-        "ticker": "DELL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an AI-related company with reasonable P/E ratio of 28.52x, significantly lower than internet bubble peak valuations."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as a historical comparison point from the internet bubble era that peaked at 200x P/E, illustrating how current AI valuations are more reasonable."
-      }
-    ]
-  },
-  {
-    "id": "d824bb619b3072d35e771f6e9e4f87ca35834d22c81c706ea9e87a31df9a5005",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Ciena Stock Down 14% in the Past Month: Time to Buy, Hold or Sell?",
-    "author": "Na",
-    "published_utc": "2026-09-08T15:27:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986527/ciena-stock-down-14-in-the-past-month-time-to-buy-hold-or-sell?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2986527",
-    "tickers": [
-      "CIEN",
-      "GLW",
-      "ANET",
-      "CSCO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/32/128049.webp",
-    "description": "Ciena Corporation's shares have declined 14.1% in the past month due to supply constraints limiting its ability to meet strong demand, despite benefiting from AI-driven demand for optical connectivity. The company raised fiscal 2026 revenue guidance to $6.42 billion (35% YoY growth) and projects at least 30% growth in fiscal 2027, with backlog expected to exceed $10 billion. However, near-term cash flow pressures and tariff risks remain concerns. Analysts recommend existing investors hold while new investors wait for a better entry point.",
-    "keywords": [
-      "supply constraints",
-      "AI demand",
-      "optical connectivity",
-      "revenue guidance",
-      "backlog",
-      "cash flow",
-      "tariffs"
-    ],
-    "insights": [
-      {
-        "ticker": "CIEN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed outlook: Strong AI-driven demand, robust order flow, and raised guidance are positive, but supply constraints, capacity limitations, near-term cash flow pressures, and tariff risks are significant headwinds. Stock has underperformed peers despite strong fundamentals."
-      },
-      {
-        "ticker": "GLW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with a 2% loss over the same period, indicating relatively stable performance compared to Ciena's steeper decline."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with a 1.1% gain over the same period, showing slight outperformance relative to Ciena."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with a 10.9% loss over the same period, indicating underperformance but less severe than Ciena's decline."
-      }
-    ]
-  },
-  {
-    "id": "9643ebf5862ef64da48b2f2b08e67c3076dea8018a2d05cc45220055572a9712",
+    "id": "d977953bf4eb0ab14dcdc8813bf9d153fcfaf6cba3b9607cb069257f1f4271c6",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Set a Fair Starting Line, as Favorites Can Falter",
-    "author": "The Rule Breakers Team",
-    "published_utc": "2026-09-07T19:19:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/set-a-fair-starting-line-as-favorites-can-falter/?source=iedfolrf0000001",
+    "title": "Could Palantir Be the Next Stock Added to the Dow Jones?",
+    "author": "Will Healy",
+    "published_utc": "2026-09-23T09:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/could-palantir-be-the-next-stock-added-to-the-dow/?source=iedfolrf0000001",
     "tickers": [
-      "TTD",
-      "ANET",
-      "AMD",
-      "AVGO",
-      "AMZN",
+      "PLTR",
+      "MSFT",
+      "CSCO",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
       "META",
-      "CSCO"
+      "TSLA",
+      "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ffe6403e73394ab81b43cbf27ad87b5c54f1ce964-3453x2302.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Motley Fool illustrates the importance of equal portfolio weighting by comparing The Trade Desk, which fell from 40-fold returns to under 4-fold after Amazon undercut its pricing, with Arista Networks, which surpassed it with 40-fold returns. The article emphasizes giving every stock a fair starting position and then backing winners while retiring underperformers, rather than loading up on perceived favorites.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887835%2Fpltr.png&w=1200&op=resize",
+    "description": "While Palantir Technologies meets all stated criteria for Dow Jones inclusion\u2014including S&P 500 membership, U.S. headquarters, and appropriate stock price\u2014the article argues inclusion is unlikely in the near term. The company faces stiff competition from better-established Magnificent Seven stocks and former Dow components, and its relative youth (only 6 years post-IPO) may require a longer track record before serious consideration.",
     "keywords": [
-      "portfolio diversification",
-      "equal weighting",
-      "stock selection",
-      "competitive disruption",
-      "position management",
-      "programmatic advertising"
+      "Dow Jones Industrial Average",
+      "index inclusion",
+      "Palantir Technologies",
+      "AI stocks",
+      "Magnificent Seven",
+      "market competition"
     ],
     "insights": [
       {
-        "ticker": "TTD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined from 40-fold to under 4-fold returns after Amazon entered the market with aggressive 1-2% pricing versus The Trade Desk's 12-15%, causing growth to collapse from 22% to 3% and resulting in 15% workforce cuts with no clear restructuring plan."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceeded The Trade Desk with 40-fold returns, demonstrating strong performance as a dark horse pick that disrupted Cisco's switch market dominance and continued to outperform even after becoming obvious to the broader market."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Achieved nearly 7-fold returns through acquisition of Xilinx, benefiting from AI buildout and semiconductor demand, representing a successful dark horse investment."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Delivered roughly 30-fold returns, significantly outperforming initial thesis expectations by benefiting from AI infrastructure buildout beyond the originally identified LTE, IoT, and broadband catalysts."
-      },
-      {
-        "ticker": "AMZN",
+        "ticker": "PLTR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Entered programmatic advertising market with aggressive pricing (1-2% vs competitors' 12-15%), capturing market share rapidly and disrupting The Trade Desk's business model, though not directly recommended in the article."
+        "sentiment_reasoning": "While praised for strong AI performance and meeting technical criteria for Dow inclusion, the article concludes inclusion is 'highly unlikely anytime soon' due to competitive pressures and relative youth as a public company."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive comparison example, having established itself as a top industry company before Dow inclusion and maintaining that position."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Referenced as another example of a company with strong industry leadership before achieving Dow inclusion."
       },
       {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform that The Trade Desk positioned itself against, but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
       },
       {
         "ticker": "META",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a walled garden advertising platform alongside Alphabet, but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
       },
       {
-        "ticker": "CSCO",
+        "ticker": "TSLA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as the incumbent switch vendor that Arista disrupted, but no direct investment recommendation or performance analysis provided."
+        "sentiment_reasoning": "Mentioned as one of three Magnificent Seven stocks not yet in the Dow, representing competition for potential inclusion slots."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a potential competitor for Dow inclusion despite its former foreign domicile."
       }
     ]
   },
   {
-    "id": "f30821afd6fca3d036f74a96072f808f6ab609e7c3f5ede7d72db362dc01deae",
+    "id": "466179472d6d25835f3ee0f0dfc61bcdce3ffee1b164e9cc17b92333c305027d",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Data Center Solutions Market Surges to $1,336.55 billion at a CAGR 20.1% by 2031 | Report by MarketsandMarkets\u2122",
-    "author": "Marketsandmarkets\u2122",
-    "published_utc": "2026-09-03T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356047/0/en/data-center-solutions-market-surges-to-1-336-55-billion-at-a-cagr-20-1-by-2031-report-by-marketsandmarkets.html",
+    "title": "Edge Cloud Orchestration Market Accelerates as AI, 5G and Distributed Computing Increase Demand for Automated Infrastructure Management",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-23T06:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/23/3367105/0/en/edge-cloud-orchestration-market-accelerates-as-ai-5g-and-distributed-computing-increase-demand-for-automated-infrastructure-management.html",
     "tickers": [
+      "AMZN",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "CSCO",
       "DELL",
       "HPE",
       "HPEpC",
-      "AVGO",
-      "NVDA",
-      "SMCI",
-      "SMCIP",
       "IBM",
-      "LNVGY",
-      "SBGSY",
-      "CSCO"
+      "ORCL",
+      "ORCLpD",
+      "INTC",
+      "AVGO"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
-    "description": "The global Data Center Solutions Market is projected to grow from USD 535.45 billion in 2026 to USD 1,336.55 billion by 2031, with a CAGR of 20.1%. Growth is driven by increasing demand for AI infrastructure, high-density computing, intelligent power systems, advanced cooling, and software-defined infrastructure. The software segment is the fastest-growing component at 24.7% CAGR, while Asia Pacific is the fastest-growing region.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global Edge Cloud Orchestration Market is projected to grow from USD 0.52 billion in 2025 to USD 4.80 billion by 2035 at a 24.92% CAGR, driven by AI, 5G, IoT, and cloud-native architectures. The U.S. market is expected to reach USD 1.20 billion by 2035 at 22.73% CAGR. Cloud deployment and services are the fastest-growing segments, while North America leads with 38.60% market share and Asia Pacific shows the highest growth potential at 28.47% CAGR.",
     "keywords": [
-      "data center solutions",
-      "AI infrastructure",
-      "GPU-accelerated servers",
-      "software-defined infrastructure",
-      "cloud computing",
-      "high-performance computing",
-      "liquid cooling",
-      "DCIM",
-      "hyperscale data centers",
-      "edge computing"
+      "edge cloud orchestration",
+      "AI inference",
+      "5G networks",
+      "IoT devices",
+      "cloud-native architecture",
+      "distributed computing",
+      "workload orchestration",
+      "hybrid cloud",
+      "Kubernetes",
+      "automated infrastructure management"
     ],
     "insights": [
       {
-        "ticker": "DELL",
+        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player in the rapidly growing data center solutions market with strong demand for IT infrastructure and AI-ready systems."
+        "sentiment_reasoning": "AWS is actively expanding edge computing and orchestration capabilities to support distributed workload deployment and low-latency applications, positioning itself well in the high-growth market."
       },
       {
-        "ticker": "HPE",
+        "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
+        "sentiment_reasoning": "Microsoft is strengthening its edge orchestration portfolio through Azure Arc and workload orchestration capabilities, demonstrating strategic investment in the rapidly growing edge cloud market."
       },
       {
-        "ticker": "HPEpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player positioned to benefit from accelerating investments in high-performance servers and scalable data center infrastructure."
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google is mentioned as a key market player but no specific strategic initiatives or developments are detailed in the article."
       },
       {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in the market benefiting from growing demand for high-speed networking and advanced infrastructure technologies."
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google is mentioned as a key market player but no specific strategic initiatives or developments are detailed in the article."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major beneficiary of rising deployment of GPU-accelerated servers and AI training/inference infrastructure across data centers."
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google is mentioned as a key market player but no specific strategic initiatives or developments are detailed in the article."
       },
       {
-        "ticker": "SMCI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
-      },
-      {
-        "ticker": "SMCIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player well-positioned to capitalize on demand for high-density computing and AI infrastructure solutions."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player positioned to benefit from enterprise data center modernization and AI infrastructure investments."
-      },
-      {
-        "ticker": "LNVGY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading player in the growing data center solutions market with strong demand for IT infrastructure."
-      },
-      {
-        "ticker": "SBGSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player benefiting from increased investment in intelligent power systems and energy-efficient data center operations."
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google is mentioned as a key market player but no specific strategic initiatives or developments are detailed in the article."
       },
       {
         "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player positioned to benefit from growing demand for advanced networking technologies and software-defined infrastructure."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cisco is listed as a key company but no specific developments or strategic positioning in edge orchestration are mentioned."
+      },
+      {
+        "ticker": "DELL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Dell is identified as a market participant but lacks specific details about its edge orchestration initiatives."
+      },
+      {
+        "ticker": "HPE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "HPE is listed among key companies but no specific strategic actions or market positioning details are provided."
+      },
+      {
+        "ticker": "HPEpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "HPE is listed among key companies but no specific strategic actions or market positioning details are provided."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "IBM is mentioned as a key player in the market but without specific details about its edge orchestration strategy."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle is listed as a market participant but no specific initiatives or developments are detailed."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle is listed as a market participant but no specific initiatives or developments are detailed."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Intel is identified as a key company but lacks specific information about its edge orchestration offerings."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "VMware is listed as a key player but no specific strategic developments in edge orchestration are mentioned."
       }
     ]
   },
   {
-    "id": "c2aa095060fce3dc81b2bb5ceaf300e7dc3df9a4076d4990e380e20f30d59028",
+    "id": "259732e05ffedd4a90b03dd9b27ac00514064817333ced477c1a157e3c89ec5d",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
+    "title": "HPE's Networking Orders Signal Continued Growth: What's Ahead?",
     "author": "Na",
-    "published_utc": "2026-09-02T18:47:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984036/can-amd-s-saudi-ai-buildout-challenge-nvidia-and-broadcom?cid=CS-ZC-FT-analyst_blog|quick_take-2984036",
+    "published_utc": "2026-09-22T15:42:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993853/hpe-s-networking-orders-signal-continued-growth-what-s-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2993853",
     "tickers": [
-      "AMD",
+      "HPE",
+      "HPEpC",
       "CSCO",
-      "NVDA",
-      "AVGO"
+      "ANET"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/08/1020.jpg",
-    "description": "AMD, Cisco, and HUMAIN have launched MI355X-based AI systems in Saudi Arabia and plan to deploy up to 250 MW of new AI infrastructure starting in 2027, targeting 1 GW by 2030. AMD expects server revenues to grow over 70% in 2027, but faces intense competition from NVIDIA's dominant market position and Broadcom's growing custom AI accelerator business. AMD stock is trading at a premium valuation with a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/65/84542.jpg",
+    "description": "Hewlett Packard Enterprise's networking revenues jumped 74.9% year-over-year to $2.89 billion, driven by strong AI infrastructure demand and the Juniper acquisition. The company secured a gigawatt-scale Oracle deal and reported Networks for AI orders of $700 million in Q3. HPE trades at a valuation discount despite 159.4% YTD stock appreciation and holds a Zacks Rank #1 (Strong Buy) rating.",
     "keywords": [
+      "AI networking",
+      "HPE networking revenues",
+      "Juniper acquisition",
+      "Oracle deal",
       "AI infrastructure",
-      "sovereign AI",
-      "GPU deployment",
-      "data center",
-      "MI355X",
-      "MI450",
-      "EPYC processors",
-      "competitive pressure"
+      "hyperscaler demand",
+      "networking growth"
     ],
     "insights": [
       {
-        "ticker": "AMD",
+        "ticker": "HPE",
         "sentiment": "positive",
-        "sentiment_reasoning": "AMD is securing major infrastructure deals in the sovereign AI market with 250 MW deployment planned for 2027 and expected 1 GW by 2030. Data Center revenues surged 107% YoY and server revenues expected to grow over 70% in 2027, demonstrating strong business momentum and market expansion."
+        "sentiment_reasoning": "Strong 74.9% YTD networking revenue growth, successful Juniper acquisition integration ahead of schedule, major Oracle gigawatt-scale deal, elevated AI orders ($2.2B cumulative), raised fiscal 2026 guidance to $2.5-$3B, and Zacks Rank #1 Strong Buy rating with upward estimate revisions."
+      },
+      {
+        "ticker": "HPEpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 74.9% YTD networking revenue growth, successful Juniper acquisition integration ahead of schedule, major Oracle gigawatt-scale deal, elevated AI orders ($2.2B cumulative), raised fiscal 2026 guidance to $2.5-$3B, and Zacks Rank #1 Strong Buy rating with upward estimate revisions."
       },
       {
         "ticker": "CSCO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Cisco is a key partner in the large-scale AI infrastructure deployment, providing networking and 800G optics technology. The partnership positions Cisco to benefit from the growing demand for AI infrastructure buildout through 2030."
+        "sentiment_reasoning": "Closed fiscal 2026 with $9.3B in hyperscaler AI infrastructure orders (4.5x prior year), expects $7.5B in hyperscaler AI revenues for fiscal 2027, achieved 40% YoY networking product order growth with eight consecutive quarters of double-digit growth, and identified $100B+ in upgrade opportunities."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned to benefit from sustained AI, cloud, and enterprise networking investments with leadership in software-driven switching, growing AI fabric adoption, broader campus and routing reach, and continued product innovation supporting durable growth outlook."
+      }
+    ]
+  },
+  {
+    "id": "a624fd59fdf19b18773e772fe2d53544c8135305f867bdb0a46551de0a7a638d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "AI Data Center Interconnect Market Expands as Distributed AI Workloads Drive Demand for High-Speed Optical Connectivity",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-22T06:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/22/3365977/0/en/ai-data-center-interconnect-market-expands-as-distributed-ai-workloads-drive-demand-for-high-speed-optical-connectivity.html",
+    "tickers": [
+      "CIEN",
+      "CSCO",
+      "NVDA",
+      "AVGO",
+      "ANET"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global AI Data Center Interconnect Market is projected to grow from USD 12.85 billion in 2025 to USD 53.35 billion by 2035 at a 15.32% CAGR, driven by increasing demand for high-speed, low-latency optical connectivity to support distributed AI workloads. Software-defined networking and coherent optical technology are the fastest-growing segments, while North America leads with 38.47% market share and Asia Pacific shows the highest growth potential at 17.30% CAGR.",
+    "keywords": [
+      "AI data center interconnect",
+      "optical connectivity",
+      "distributed AI workloads",
+      "coherent optical technology",
+      "software-defined networking",
+      "GPU clusters",
+      "high-speed Ethernet",
+      "data center networking"
+    ],
+    "insights": [
+      {
+        "ticker": "CIEN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as expanding high-capacity optical networking and data center interconnect solutions to support growing AI bandwidth requirements in 2026."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as advancing AI-ready networking infrastructure, including high-speed Ethernet and data center networking solutions for large-scale AI computing clusters."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While NVIDIA maintains dominant market position with $89B in Data Center revenues and 70% expected growth, the article frames it as a competitive threat to AMD. NVIDIA's entrenched position is acknowledged but not directly impacted by this announcement."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key company in the market benefiting from GPU cluster demand and high-performance computing requirements driving interconnect market growth."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Broadcom is positioned as an increasingly important competitor with strong momentum: AI semiconductor revenues surged 143% YoY to $10.8B, with expectations of $100B+ in fiscal 2027. The company has major commitments with Google, Anthropic, OpenAI, and Meta."
+        "sentiment_reasoning": "Identified as a key market player positioned to benefit from growing demand for high-speed interconnect solutions and optical transceiver technologies."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as a key company in the expanding AI data center interconnect market with relevance to high-speed Ethernet and networking solutions."
+      }
+    ]
+  },
+  {
+    "id": "eab2d84a85b5948283b9f7eca7628a17796479464cc4a2c4c109d28b95e9eff4",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-21T15:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993043/dell-rides-on-growing-ai-clientele-can-the-stock-outpace-smci-csco?cid=CS-ZC-FT-analyst_blog|quick_take-2993043",
+    "tickers": [
+      "DELL",
+      "SMCI",
+      "SMCIP",
+      "CSCO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3e/1190.jpg",
+    "description": "Dell Technologies is capitalizing on surging AI infrastructure demand with over 6,500 AI Factory customers and a $95B backlog. The company expects fiscal 2027 AI-server revenues of $74B, roughly triple prior-year levels. However, Dell faces intensifying competition from Super Micro Computer and Cisco Systems, both expanding their AI customer bases and capabilities.",
+    "keywords": [
+      "AI infrastructure",
+      "server orders",
+      "customer expansion",
+      "data center demand",
+      "competitive landscape",
+      "backlog growth",
+      "enterprise AI"
+    ],
+    "insights": [
+      {
+        "ticker": "DELL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong AI customer growth (6,500+ customers), record $60.9B in AI-server orders, $95B backlog, and expected $74B in fiscal 2027 AI revenues (3x growth). Stock up 351.2% YTD with Zacks Rank #1 Strong Buy rating."
+      },
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding AI customer base with nine customers generating $1B+ each (up from four), 172% YoY enterprise revenue growth, and targeting 6,000+ racks per month manufacturing capacity."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanding AI customer base with nine customers generating $1B+ each (up from four), 172% YoY enterprise revenue growth, and targeting 6,000+ racks per month manufacturing capacity."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Widening AI customer reach with 21% YoY enterprise product order growth, 30% public-sector growth, 95% service-provider/cloud growth, and $9.3B in hyperscaler AI infrastructure orders in fiscal 2026."
       }
     ]
   }

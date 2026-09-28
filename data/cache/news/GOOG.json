@@ -1,329 +1,373 @@
 [
   {
-    "id": "7ca6160e2a8942fe0fbaaf8b1c7ddd521325b955b2ceee7cced04ed52caae1bb",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Stock Market Today, Sept. 9: Meta Surges Over 6.5% on Muse AI Agent Launch",
-    "author": "Emma Newbery",
-    "published_utc": "2026-09-09T21:15:29Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/09/stock-market-today-sept-9-meta-surges-over-6-5-on-muse-ai-agent-launch/?source=iedfolrf0000001",
-    "tickers": [
-      "META",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "SNAP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fdbf4812d84ab78c74b512c7cb2e4d70bee11215c-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Meta Platforms surged 6.55% to $653.69 on September 9, 2026, following the launch of Muse, its new personal AI agent capable of shopping, booking flights, and organizing calendars. The autonomous product could unlock new revenue streams and validate Meta's substantial AI investments. Morgan Stanley estimates the AI agent market could be worth around $30 trillion. However, analysts recommend waiting for concrete adoption and revenue data before reassessing the stock.",
-    "keywords": [
-      "AI agent",
-      "Muse",
-      "Meta Platforms",
-      "stock surge",
-      "monetization",
-      "AI investment",
-      "autonomous product"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 6.55% on the launch of Muse AI agent, which addresses investor concerns about AI spending ROI. Settlement of major lawsuit and potential access to a $30 trillion AI agent market provide positive catalysts, though early-stage execution risk remains."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 2.28%, reflecting softer sentiment across digital advertising names despite Meta's outperformance, suggesting broader sector concerns."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 2.28%, reflecting softer sentiment across digital advertising names despite Meta's outperformance, suggesting broader sector concerns."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 2.28%, reflecting softer sentiment across digital advertising names despite Meta's outperformance, suggesting broader sector concerns."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 2.28%, reflecting softer sentiment across digital advertising names despite Meta's outperformance, suggesting broader sector concerns."
-      },
-      {
-        "ticker": "SNAP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 2.21%, indicating weakness in the social media and digital advertising sector alongside Alphabet, contrasting with Meta's gains."
-      }
-    ]
-  },
-  {
-    "id": "339bd55583da4191d2b3c7b6ba4ecdc4d1bafc7e44029838b680bd17e9f50b7b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "SpaceX Built AI Data Centers So Fast, Some Ran Without Backup Power for Months. Now It Faces a $920 Million Deadline.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-09-09T18:30:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/09/spacex-built-ai-data-centers-so-fast-some-ran-without-backup-power-for-months-now-it-faces-a-usd920-million-deadline/?source=iedfolrf0000001",
-    "tickers": [
-      "SPCX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "BE",
-      "NVDA",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc9bdd288af1f6e4edf499325370759e54a071554-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "SpaceX has encountered reliability issues while rapidly expanding its AI data center infrastructure, with some facilities operating without backup power and cooling systems for months. The company faces a September 30 deadline to deliver 110,000 Nvidia GPUs to Google under a $920 million/month contract. To address these challenges, SpaceX is reshuffling its data center leadership team with executives from its rocket and Starlink divisions, delaying new projects, and building an in-house turbine blade manufacturing facility to accelerate deployment timelines.",
-    "keywords": [
-      "AI data centers",
-      "infrastructure reliability",
-      "GPU capacity",
-      "supply chain constraints",
-      "leadership restructuring",
-      "manufacturing",
-      "contract deadline"
-    ],
-    "insights": [
-      {
-        "ticker": "SPCX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "SpaceX faces significant operational challenges with unreliable data center infrastructure, missed engineering targets, and a critical deadline risk. While the company is taking corrective actions, the execution risks and potential contract jeopardy present near-term concerns for investors."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google has a $920 million/month contract at stake, but maintains leverage through termination and renegotiation options if SpaceX fails to meet the September 30 deadline. The company's position is protected by contractual safeguards."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Bloom Energy is positioned as a beneficiary of the AI data center boom, with the article highlighting its rapid fuel cell deployment capabilities as a competitive advantage in the accelerating data center buildout market."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia benefits from the massive GPU demand in AI infrastructure expansion, with SpaceX's contract alone involving 110,000 Nvidia GPUs, demonstrating strong secular demand for its products."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Oracle is expanding its AI infrastructure partnership with Bloom Energy to deploy up to 2.8 GW, indicating strong positioning in the growing AI data center market."
-      }
-    ]
-  },
-  {
-    "id": "6844fa2429fa88c66546fa2054088d1185a92c4f01ae85b877e3b0777da4d81f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Jack Henry's 2026 Outlook: Cloud-Native Platform Drives Record Core Banking Wins",
-    "author": "Isac Simon",
-    "published_utc": "2026-09-09T17:24:29Z",
-    "article_url": "https://www.fool.com/coverage/moneyball/2026/09/09/jack-henry-2026-outlook-cloud-native-platform-drives-record-core-banking-wins/?source=iedfolrf0000001",
-    "tickers": [
-      "JKHY",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F413cf1bdd5316d8e80cefb7c09b400edf62e7ef2-580x387.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Jack Henry & Associates (JKHY) receives a Superscore of 78/100, driven by record 58 core banking wins in fiscal 2026, $8.44 billion in remaining performance obligations, and 50% growth in faster-payments revenue. However, the stock trades at a stretched P/E of 22.7x, faces margin pressure from rising costs, and has limited AI differentiation. Despite current valuation concerns, analysts project 70% upside potential if the company maintains 7-8% earnings growth.",
-    "keywords": [
-      "core banking platform",
-      "cloud-native technology",
-      "fintech competition",
-      "recurring revenue",
-      "competitive market share gains",
-      "valuation risk",
-      "margin pressure",
-      "AI integration"
-    ],
-    "insights": [
-      {
-        "ticker": "JKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong operational performance with record 58 competitive core wins, robust $8.44B revenue backlog, 50% faster-payments growth, and disciplined capital returns. Cloud-native platform transition successfully attracting new business. Despite valuation concerns, current P/E of 22.7x is significantly lower than 5-year average of 31.8x, offering attractive entry point with 70% upside potential."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner through Google Cloud for Jack Henry's platform modernization. Partnership supports JKHY's cloud infrastructure but represents a minor supporting role with no direct business impact analysis provided."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner through Google Cloud for Jack Henry's platform modernization. Partnership supports JKHY's cloud infrastructure but represents a minor supporting role with no direct business impact analysis provided."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner through Google Cloud for Jack Henry's platform modernization. Partnership supports JKHY's cloud infrastructure but represents a minor supporting role with no direct business impact analysis provided."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner through Google Cloud for Jack Henry's platform modernization. Partnership supports JKHY's cloud infrastructure but represents a minor supporting role with no direct business impact analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "e7af4cae12c2e549e8bdee8ce5044cfa59adb4de1f70cf6107e003940b5d39c9",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Amazon Plans to Spend More Than $200 Billion on AI. Is That a Smart Move?",
-    "author": "Lawrence Nga",
-    "published_utc": "2026-09-09T13:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/09/amazon-plans-to-spend-more-than-200-billion-on-ai/?source=iedfolrf0000001",
-    "tickers": [
-      "AMZN",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "META"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886540%2Fconfused-3.jpg&w=1200&op=resize",
-    "description": "Amazon plans to spend $220 billion on capital expenditures in 2026, with a significant portion directed toward AI infrastructure. While this represents a massive bet on AI's future, AWS's strong 37% revenue growth and 63% operating income increase suggest customer demand justifies the investment. However, risks remain around return on investment and potential industry overcapacity, as major tech companies collectively spend $760 billion on AI capex in 2026.",
-    "keywords": [
-      "AI infrastructure",
-      "capital expenditure",
-      "cloud computing",
-      "AWS",
-      "return on investment",
-      "data centers",
-      "competitive advantage"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS demonstrates strong growth (37% revenue, 63% operating income), customer demand is evident, and the company has a track record of successful aggressive investments. However, the positive sentiment is tempered by concerns about free cash flow deterioration and uncertain ROI on massive AI spending."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments alongside Amazon, but no specific performance data or analysis provided in the article."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the major tech companies making extraordinary AI infrastructure investments, but no specific performance data or analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "bfd0633f2afbe75a01393127609285430d6f79f294b873a88f99fa7c259669ee",
+    "id": "b9948ce76e68d9a60178a81b07472916fcca5345c22ce16807049e7643f1cf2e",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "SEOOnly Launches to Help Businesses Navigate the Biggest Shift in Search Since Google's Founding",
+    "title": "Black Unicorn Digital Solutions Crosses 450 D2C Brands Scaled, Moves to Founder-Led Model as Ad Platforms Automate Media Buying",
     "author": "Not Specified",
-    "published_utc": "2026-09-09T06:47:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/09/3358320/0/en/seoonly-launches-to-help-businesses-navigate-the-biggest-shift-in-search-since-google-s-founding.html",
+    "published_utc": "2026-09-28T16:45:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3370170/0/en/black-unicorn-digital-solutions-crosses-450-d2c-brands-scaled-moves-to-founder-led-model-as-ad-platforms-automate-media-buying.html",
     "tickers": [
+      "META",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/594731be-366d-455f-bc28-dfd16a897357",
-    "description": "SEOOnly, founded by marketing entrepreneur Preeti Kennedy, has launched as a specialist search visibility firm focused on helping businesses adapt to AI-driven search and changing customer discovery patterns. The company operates exclusively on search optimization across traditional search engines and AI platforms like ChatGPT and Gemini, rather than offering SEO as one service among many.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/79ccc6cb-1958-4e50-9ec9-570a713223f5",
+    "description": "Black Unicorn Digital Solutions, a performance marketing firm, has scaled over 450 D2C and ecommerce brands in 12 years and is transitioning to a founder-led model where the founder works directly on every client account. The shift reflects industry changes as Meta and Google's automated ad platforms now handle traditional media buying tasks, making strategic creativity and profit-focused analytics the key differentiators agencies must provide.",
     "keywords": [
-      "AI search",
-      "search visibility",
-      "SEO",
-      "customer discovery",
-      "conversational search",
-      "AI assistants",
-      "digital discoverability",
-      "search behavior"
+      "D2C brands",
+      "performance marketing",
+      "founder-led model",
+      "ad automation",
+      "ROAS",
+      "creative strategy",
+      "ecommerce growth"
     ],
     "insights": [
       {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Meta's Advantage+ platform is mentioned as automating targeting and bidding functions that agencies previously performed manually. This is presented as a factual industry development rather than positive or negative for Meta."
+      },
+      {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as continuing to play an enormous role in customer discovery, with traditional SEO remaining fundamental. However, the article frames Google as one of multiple discovery platforms rather than the dominant force, reflecting a shift in the search landscape rather than a threat or opportunity specific to Google."
+        "sentiment_reasoning": "Google's Performance Max is referenced similarly to Meta's platform as automating media buying tasks. The mention is neutral and factual regarding technological capability."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as continuing to play an enormous role in customer discovery, with traditional SEO remaining fundamental. However, the article frames Google as one of multiple discovery platforms rather than the dominant force, reflecting a shift in the search landscape rather than a threat or opportunity specific to Google."
+        "sentiment_reasoning": "Google's Performance Max is referenced similarly to Meta's platform as automating media buying tasks. The mention is neutral and factual regarding technological capability."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as continuing to play an enormous role in customer discovery, with traditional SEO remaining fundamental. However, the article frames Google as one of multiple discovery platforms rather than the dominant force, reflecting a shift in the search landscape rather than a threat or opportunity specific to Google."
+        "sentiment_reasoning": "Google's Performance Max is referenced similarly to Meta's platform as automating media buying tasks. The mention is neutral and factual regarding technological capability."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as continuing to play an enormous role in customer discovery, with traditional SEO remaining fundamental. However, the article frames Google as one of multiple discovery platforms rather than the dominant force, reflecting a shift in the search landscape rather than a threat or opportunity specific to Google."
+        "sentiment_reasoning": "Google's Performance Max is referenced similarly to Meta's platform as automating media buying tasks. The mention is neutral and factual regarding technological capability."
+      }
+    ]
+  },
+  {
+    "id": "036e5e40ba375f8f36c1b6ba657212180eb3949ee75ea8665c6a45508ae07e37",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: Tesla Stock Will Plunge to $100 if the S&P 500 Enters a Bear Market",
+    "author": "Anthony Di Pizio",
+    "published_utc": "2026-09-28T11:03:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/prediction-tesla-stock-plunge-100-if-sp-500-bear/?source=iedfolrf0000001",
+    "tickers": [
+      "TSLA",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BYDDY"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889000%2Fa-tesla-dealership-with-two-tesla-electric-vehicles-parked-out-front.png&w=1200&op=resize",
+    "description": "An analyst predicts Tesla stock could crash to $100 (a 91% decline) if the S&P 500 enters bear market territory, citing the company's sky-high P/E ratio of 351, shrinking earnings, and intense EV competition. While future products like the Cybercab robotaxi and Optimus robot offer long-term potential, they remain years away from commercialization, leaving Tesla vulnerable to a market downturn.",
+    "keywords": [
+      "bear market",
+      "Tesla valuation",
+      "EV competition",
+      "earnings decline",
+      "Cybercab",
+      "Optimus robot",
+      "stock prediction"
+    ],
+    "insights": [
+      {
+        "ticker": "TSLA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Extremely overvalued with P/E ratio of 351 (10x higher than Nasdaq-100), trailing earnings plummeted 75% over two years, facing intense competition from Chinese EV makers, and future revenue-generating products are years away from commercialization. Vulnerable to significant correction in a bear market."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Tesla in autonomous vehicles through its Waymo division, which is ahead of Tesla in robotaxi development with 500,000+ paid autonomous trips weekly across 15 cities. No direct investment thesis provided."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Tesla in autonomous vehicles through its Waymo division, which is ahead of Tesla in robotaxi development with 500,000+ paid autonomous trips weekly across 15 cities. No direct investment thesis provided."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Tesla in autonomous vehicles through its Waymo division, which is ahead of Tesla in robotaxi development with 500,000+ paid autonomous trips weekly across 15 cities. No direct investment thesis provided."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Tesla in autonomous vehicles through its Waymo division, which is ahead of Tesla in robotaxi development with 500,000+ paid autonomous trips weekly across 15 cities. No direct investment thesis provided."
+      },
+      {
+        "ticker": "BYDDY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a successful Chinese EV competitor gaining market share globally against Tesla by offering comparable features at lower prices, demonstrating competitive strength in the growing EV market."
+      }
+    ]
+  },
+  {
+    "id": "6761185a86baaa64117ad2e93f72a6505f4fcbfeccb058c262b4c519e150c8d6",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Oracle vs. Salesforce: Which Enterprise AI Stock Has More Room to Run?",
+    "author": "Chris Neiger",
+    "published_utc": "2026-09-28T09:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/oracle-vs-salesforce-which-enterprise-ai-stock-has/?source=iedfolrf0000001",
+    "tickers": [
+      "ORCL",
+      "ORCLpD",
+      "CRM",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887828%2Fgettyimages-1267191201-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "Oracle and Salesforce are both investing heavily in AI, but with different approaches. Oracle is building expensive cloud infrastructure for AI computing with strong revenue growth (121% YoY), but faces concerns about massive capex spending ($28.5B in Q1) and delays on its $165B Project Jupiter data center. Salesforce is integrating AI agents into its CRM software through partnerships with Alphabet and Anthropic, showing strong quarterly results (11% sales growth) with lower capital intensity. The analyst favors Salesforce as the better enterprise AI stock due to lower risk and more proven product-market fit, though both companies could be long-term winners.",
+    "keywords": [
+      "enterprise AI",
+      "cloud infrastructure",
+      "AI agents",
+      "capital expenditure",
+      "software integration",
+      "AI partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle shows strong cloud infrastructure growth (121% YoY) and secured major AI contracts, but faces significant headwinds from massive capex spending ($28.5B), Project Jupiter delays, and investor skepticism about ROI on expensive data center investments. Stock down 55% over 12 months."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Oracle shows strong cloud infrastructure growth (121% YoY) and secured major AI contracts, but faces significant headwinds from massive capex spending ($28.5B), Project Jupiter delays, and investor skepticism about ROI on expensive data center investments. Stock down 55% over 12 months."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Salesforce demonstrates successful AI integration through partnerships with Alphabet and Anthropic, strong quarterly results (11% sales growth, earnings more than doubled), and lower capital intensity compared to Oracle. Stock up 55% over past 3 months despite some product concerns. Analyst recommends it as the better choice with lower risk."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing Gemini AI integration to Salesforce, indicating positive business development but no direct impact analysis provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "a816cebde30f55f2b43da5600ab3ff487cfb27b70d4816a8ece0f747343ad71f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "This S&P 500 ETF Could Help Protect You Against One of the Stock Market's Biggest Risks Right Now",
+    "author": "Stefon Walters",
+    "published_utc": "2026-09-27T11:19:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/this-sp-500-etf-could-help-protect-you-against-one/?source=iedfolrf0000001",
+    "tickers": [
+      "RSP",
+      "VOO",
+      "NVDA",
+      "AAPL",
+      "MSFT",
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "TSLA",
+      "AVGO",
+      "MU"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888872%2Fgettyimages-1166581794.jpg&w=1200&op=resize",
+    "description": "The S&P 500 has become heavily concentrated in large-cap tech stocks, with the top 10 holdings accounting for nearly 38% of the index. This concentration poses downside risk if tech stocks decline. The Invesco S&P 500 Equal Weight ETF (RSP) offers an alternative by weighting all S&P 500 companies equally, reducing tech sector exposure from 37.9% to 14.7% and providing better downside protection, though with lower upside potential.",
+    "keywords": [
+      "S&P 500 concentration risk",
+      "equal weight ETF",
+      "tech sector exposure",
+      "Magnificent Seven stocks",
+      "portfolio diversification",
+      "downside protection"
+    ],
+    "insights": [
+      {
+        "ticker": "RSP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a solution to mitigate concentration risk in the S&P 500; offers better downside protection with comparable long-term returns and more balanced sector exposure"
+      },
+      {
+        "ticker": "VOO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acknowledged as a solid investment but criticized for becoming overly concentrated in large-cap tech stocks, creating vulnerability to sector-specific downturns"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Highlighted as an example of extreme concentration risk; while successful, its dominance in the index creates vulnerability"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks that dominate the S&P 500; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the concentrated 'Magnificent Seven' stocks; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the top 10 holdings contributing to S&P 500 concentration; mentioned as a concentration risk factor"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of the top 10 holdings contributing to S&P 500 concentration; mentioned as a concentration risk factor"
+      }
+    ]
+  },
+  {
+    "id": "770b24f5005caec9ee4c02dc9b1b67e857d9d14d4ee0b8c87e868d94073e1b69",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "A $1,000 Investment Split Between Alphabet and Nvidia Will Be Worth This Much by 2030",
+    "author": "Keithen Drury",
+    "published_utc": "2026-09-27T02:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/a-1000-investment-split-between-alphabet-and-nvidi/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888632%2Ftwo-people-analyizing-a-graph.jpg&w=1200&op=resize",
+    "description": "The article projects that a $1,000 investment split between Alphabet and Nvidia could grow to over $3,000 by 2030. Nvidia is expected to quadruple revenue as global data center capital expenditures reach $3-4 trillion, while Alphabet is projected to achieve 25% compound annual growth through its AI investments in Google Search, cloud computing, and language models.",
+    "keywords": [
+      "AI race",
+      "GPU",
+      "data center",
+      "cloud computing",
+      "tensor processing unit",
+      "hyperscaler",
+      "capital expenditures"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to quadruple revenue by 2030 as global data center spending increases fourfold; trades at reasonable 28x earnings multiple; 70% expected revenue growth next year demonstrates strong momentum in GPU demand for AI workloads."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Projected to achieve 25% CAGR through 2030, resulting in 158% total growth; Google Cloud growing at 82% pace; $200 billion data center investment supports long-term AI growth; diversified AI revenue streams across Search, cloud, and language models."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Projected to achieve 25% CAGR through 2030, resulting in 158% total growth; Google Cloud growing at 82% pace; $200 billion data center investment supports long-term AI growth; diversified AI revenue streams across Search, cloud, and language models."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Projected to achieve 25% CAGR through 2030, resulting in 158% total growth; Google Cloud growing at 82% pace; $200 billion data center investment supports long-term AI growth; diversified AI revenue streams across Search, cloud, and language models."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Projected to achieve 25% CAGR through 2030, resulting in 158% total growth; Google Cloud growing at 82% pace; $200 billion data center investment supports long-term AI growth; diversified AI revenue streams across Search, cloud, and language models."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as third-largest company but noted as not pursuing AI technology as aggressively as Alphabet; no specific projections or analysis provided."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the fabrication partner for Alphabet's TPU chips; no specific growth projections or detailed analysis provided."
       }
     ]
   }

@@ -1,200 +1,244 @@
 [
   {
-    "id": "e255740f54c8b1458bbc38f6c30121d3724f349e53c86efb4e5bc04ad814754a",
+    "id": "20e023ff8f93c62ae8304deaac04af0c6df288cc3d05ea772c8dd02d88ae29ab",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Walmart Has Gone Practically Nowhere, While Target Is Up 68%. But Only 1 of These Dividend Kings Is a Buy in September.",
+    "title": "Apple Is the Best-Performing \"Magnificent Seven\" Stock This Year. But It Has Still Lagged This Unassuming Dividend Stock (That Remains a Top Buy Now).",
     "author": "Rick Munarriz",
-    "published_utc": "2026-09-08T10:17:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/walmart-has-gone-practically-nowhere-while-target/?source=iedfolrf0000001",
+    "published_utc": "2026-09-28T12:07:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/28/apple-is-the-best-performing-magnificent-seven-sto/?source=iedfolrf0000001",
     "tickers": [
-      "TGT",
-      "WMT"
+      "AAPL",
+      "TGT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885425%2Fgettyimages-758286251.jpg&w=1200&op=resize",
-    "description": "Target has surged 68% year-to-date while Walmart declined 4%, but the article argues Target is the better buy in September. Despite Target's recent momentum under new CEO Michael Fiddleke and positive comparable sales growth, Walmart remains a recession-resilient juggernaut with superior long-term performance. Target trades at a lower P/E ratio (17x vs 39x) and offers a higher dividend yield (2.8% vs 0.9%), while Walmart has demonstrated more consistent revenue growth and operational excellence over decades.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888852%2Fgettyimages-182727012-1500x1000-6b42342.jpg&w=1200&op=resize",
+    "description": "While Apple has been the top performer among the Magnificent Seven stocks with a 25% year-to-date gain, Target has significantly outperformed with a 61% increase in 2026. Under new CEO Michael Fiddelke's turnaround plan, Target has reversed years of decline with positive sales growth and earnings revisions. Despite its strong performance, Target remains attractively valued at 15x forward earnings with a 2.95% dividend yield and a 55-year streak of consecutive dividend increases.",
     "keywords": [
-      "retail stocks",
-      "dividend kings",
-      "stock valuation",
-      "market momentum",
-      "turnaround story",
-      "comparable sales",
+      "Target turnaround",
+      "dividend stock",
+      "retail recovery",
+      "Magnificent Seven",
+      "CEO leadership",
+      "stock performance",
       "dividend yield"
     ],
     "insights": [
       {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Apple is performing well with 25% year-to-date gains, new iPhone products generating momentum, and expected back-to-back years of double-digit revenue growth for the first time in 15 years. However, it is being outperformed by Target."
+      },
+      {
         "ticker": "TGT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Target is positioned as the recommended buy despite lower absolute growth metrics. The article highlights strong momentum under new leadership, positive comparable sales growth, market share gains, and attractive valuation metrics (lower P/E ratio and higher dividend yield). The turnaround narrative and CEO's doubled sales targets support a positive outlook."
+        "sentiment_reasoning": "Target has delivered exceptional 61% year-to-date returns, reversed years of decline under new CEO Michael Fiddelke, achieved positive sales growth and earnings revisions, maintains a robust 2.95% dividend yield with 55 consecutive years of dividend increases, and trades at a reasonable 15x forward earnings valuation. Explicitly recommended as a 'top buy.'"
+      }
+    ]
+  },
+  {
+    "id": "b5a840cae873e949f94eedb808eab046ba3a4dc1ec48867b71bddadc5a0fdf86",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "1 Overlooked Dividend King With a 55-Year Winning Streak Worth Buying Now",
+    "author": "John Ballard",
+    "published_utc": "2026-09-27T08:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/overlooked-dividend-king-55-year-streak-buying-now/?source=iedfolrf0000001",
+    "tickers": [
+      "TGT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888027%2Fanalyst-stocks.jpg&w=1200&op=resize",
+    "description": "Target has raised its dividend for 55 consecutive years, qualifying as a Dividend King. The retailer's stock is up 61% year-to-date, driven by improving sales momentum with comparable sales rising 3.8% in the recent quarter. With a 2.9% yield, 47% payout ratio, and management expecting 5% full-year sales growth, the stock remains attractive for dividend investors despite its recent gains.",
+    "keywords": [
+      "dividend king",
+      "Target",
+      "comparable sales growth",
+      "dividend yield",
+      "payout ratio",
+      "retail",
+      "shareholder returns"
+    ],
+    "insights": [
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Target demonstrates strong fundamentals with 55 years of consecutive dividend increases, improving comparable sales (+3.8%), 20% EPS growth, and a sustainable payout ratio of 47%. The stock has appreciated 61% year-to-date with management projecting continued 5% sales growth, indicating a turnaround from prior soft years and supporting the buy recommendation."
+      }
+    ]
+  },
+  {
+    "id": "3224e1471fdaafa310d26f1b8e0f8e9d59a8fac410119138380ff5f816300302",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "e.l.f. Beauty vs. Monster Beverage: Which Consumer Goods Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-24T19:35:19Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/elf-beauty-vs-monster-beverage-which-consumer-goods-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "ELF",
+      "MNST",
+      "TGT",
+      "WMT",
+      "AMZN",
+      "KO",
+      "CELH",
+      "PEP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares e.l.f. Beauty and Monster Beverage as investment options for 2026. e.l.f. Beauty demonstrates faster growth (24.6% revenue growth, 36% in recent quarter) with a lower valuation but faces competitive pressures and heavy acquisition integration costs. Monster Beverage offers stable profitability (23% net margin), global scale, and no debt, with consistent double-digit growth across all regions. The author recommends Monster Beverage for investors seeking reliable execution and broad market resilience, while acknowledging e.l.f. Beauty's impressive growth trajectory.",
+    "keywords": [
+      "cosmetics",
+      "energy drinks",
+      "valuation comparison",
+      "revenue growth",
+      "profitability",
+      "global expansion",
+      "competitive risk",
+      "supply chain",
+      "distribution networks"
+    ],
+    "insights": [
+      {
+        "ticker": "ELF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company demonstrates strong fundamentals with 24.6% YoY revenue growth, 30 consecutive quarters of sales growth, and recent quarter showing 36% growth. However, sentiment is moderated by high P/E ratio (102.45), low net margins (1.6%), heavy reliance on third-party manufacturers, and customer concentration risk with major retailers."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company exhibits strong execution with 10.7% revenue growth, exceptional 23% net margins, zero debt, robust free cash flow ($2.0B), and expanding international presence (nearly 50% of revenue). The author's recommendation favors Monster for its consistent profitability, global scale, and broad geographic growth across all regions simultaneously."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major retail partner for e.l.f. Beauty, indicating distribution importance but no independent analysis provided."
       },
       {
         "ticker": "WMT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Walmart is characterized as a solid, recession-resilient investment but not the preferred choice for September. While praised for superior long-term performance (doubled over 5 years), consistent revenue growth, and operational excellence, it currently faces headwinds with a 4% year-to-date decline and higher valuation multiple. The article suggests it's a good long-term hold but lacks the near-term momentum of Target."
+        "sentiment_reasoning": "Mentioned as a major retail partner for e.l.f. Beauty, indicating distribution importance but no independent analysis provided."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major retail partner for e.l.f. Beauty's omni-channel strategy but no independent analysis provided."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Monster Beverage's critical distribution partner, representing both an advantage and concentration risk, but no independent analysis provided."
+      },
+      {
+        "ticker": "CELH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Monster Beverage in the energy drink market but no detailed analysis provided."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in the energy drink category but no detailed analysis provided."
       }
     ]
   },
   {
-    "id": "54a23a6f811de9308694730b21e90099154fa1bc06c0080d452b9b4fc45f8365",
+    "id": "2072d11eca51ae0bfb991b2d663f559ea5e3a1dc3a66aae146b0523de6e8073f",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Target's Non-Merchandise Sales Jump 20% as New Revenue Streams Scale",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-07T12:38:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985616/target-s-non-merchandise-sales-jump-20-as-new-revenue-streams-scale?cid=CS-ZC-FT-analyst_blog|quick_take-2985616",
+    "title": "Is Dollar General's DG Media Network the Next Growth Engine?",
+    "author": "Na",
+    "published_utc": "2026-09-23T14:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994484/is-dollar-general-s-dg-media-network-the-next-growth-engine?cid=CS-ZC-FT-analyst_blog|rank_focused-2994484",
+    "tickers": [
+      "DG",
+      "WMT",
+      "TGT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/35/1287.jpg",
+    "description": "Dollar General is scaling its DG Media Network, which reached $170M in annual volume, by expanding advertising opportunities across stores, apps, and websites. The company plans loyalty and subscription pilots in late 2024 with broader rollout in 2027. Retail media is becoming increasingly important to gross margin improvement, with competitors Walmart and Target also aggressively scaling their advertising platforms.",
+    "keywords": [
+      "retail media network",
+      "advertising growth",
+      "digital ecosystem",
+      "loyalty programs",
+      "gross margin expansion",
+      "e-commerce"
+    ],
+    "insights": [
+      {
+        "ticker": "DG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "DG Media Network reached $170M in annual volume with expected meaningful growth. The company is expanding ad opportunities and planning loyalty/subscription initiatives. Management views retail media as a key driver for gross margin improvement, indicating strategic importance and growth potential."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Walmart is scaling retail media rapidly with 38% global advertising growth and 43% growth in Walmart Connect. The Vibe acquisition strengthens the platform's capabilities, and advertising is improving business mix and e-commerce economics."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Target's Roundel advertising platform is a higher-margin growth contributor with non-merchandise sales rising over 20%. Continued advertising growth supports gross margin expansion, and technology investments aim to deepen digital engagement."
+      }
+    ]
+  },
+  {
+    "id": "40f0c7a917d831a895a1cfaefebee4e96d02df1168871a28f16ac775db919a81",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Target's Retail Media Growth Highlights an Expanding Profit Lever",
+    "author": "Na",
+    "published_utc": "2026-09-23T13:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994296/target-s-retail-media-growth-highlights-an-expanding-profit-lever?cid=CS-ZC-FT-analyst_blog|quick_take-2994296",
     "tickers": [
       "TGT",
-      "DG",
-      "COST"
+      "WMT",
+      "DG"
     ],
     "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
-    "description": "Target's Q2 fiscal 2026 results show a significant shift in revenue mix, with non-merchandise sales surging 20.1% compared to 5% growth in merchandise sales. The company's advertising platform Roundel, Target+ marketplace, and Circle 360 membership all grew over 40%, with advertising revenues jumping to $279M from $217M. This diversification into higher-margin business initiatives is helping Target outperform competitors and demonstrates successful monetization of its digital footprint and guest engagement.",
+    "description": "Target's retail media business Roundel achieved nearly 20% year-over-year gross billings growth in Q2 fiscal 2026, with advertising revenues reaching $279 million, up from $217 million. The higher-margin advertising and non-merchandise sales are strengthening Target's overall profit mix and margin performance. Walmart and Dollar General are similarly scaling their retail media platforms as key profit drivers.",
     "keywords": [
-      "non-merchandise sales",
-      "revenue diversification",
-      "advertising platform",
-      "marketplace growth",
-      "membership revenue",
       "retail media",
-      "digital commerce"
+      "advertising revenue",
+      "margin expansion",
+      "Roundel",
+      "DG Media Network",
+      "Walmart Connect",
+      "non-merchandise sales"
     ],
     "insights": [
       {
         "ticker": "TGT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Target demonstrated strong non-merchandise sales growth of 20.1%, significant expansion across Roundel (20%), Target+ (40%+), and Circle 360 (40%+), with advertising revenues jumping 29%. The company is successfully diversifying revenue streams into higher-margin businesses and outperforming industry peers with a 32.7% three-month share rally. Zacks Rank #2 (Buy) rating and increased earnings estimates support positive outlook."
+        "sentiment_reasoning": "Roundel achieved strong 20% YoY gross billings growth with advertising revenues up 29% to $279M. The higher-margin advertising business is improving overall gross margins and supporting outsized top and bottom-line growth. Stock has rallied 12.6% in three months and carries a Zacks Rank #2 (Buy)."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Walmart's retail media business is scaling rapidly with global advertising growing 38% in Q2 fiscal 2027. Walmart Connect (excluding VIZIO) advanced 43%, improving business mix and e-commerce economics. The Vibe acquisition strengthens the platform's capabilities."
       },
       {
         "ticker": "DG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Dollar General is mentioned as a competitor to Target with a 24.7% three-month share gain and forward P/E of 17.53. While performing reasonably well, the article provides no specific operational or financial details about the company, and it is underperforming Target's 32.7% gain."
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Costco is mentioned as a competitor with a -6% three-month share decline and forward P/E of 40.71. The article provides no specific details about Costco's operations, and its recent stock performance and valuation suggest underperformance relative to Target."
-      }
-    ]
-  },
-  {
-    "id": "6c50a2e4901fdfa93d8208a80ea39c5d5c1d907ee6576e654a5a2dd1e5cecc76",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Costco's Q4 Sales Rise 11.3% as Digital Momentum Remains Strong",
-    "author": "Na",
-    "published_utc": "2026-09-07T12:36:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985614/costco-s-q4-sales-rise-11-3-as-digital-momentum-remains-strong?cid=CS-ZC-FT-analyst_blog|quick_take-2985614",
-    "tickers": [
-      "COST",
-      "TGT",
-      "BJ"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/810.jpg",
-    "description": "Costco Wholesale reported Q4 fiscal 2026 net sales of $93.9 billion, up 11.3% year-over-year, with comparable sales rising 9.4%. Digital comparable sales significantly outpaced overall growth at 19.5%, demonstrating the strength of the company's online channels. For the full fiscal year, digitally enabled comparable sales grew 20.9%. The company carries a Zacks Rank #3 (Hold) with a forward P/E ratio of 40.71, trading below its 12-month median.",
-    "keywords": [
-      "Q4 earnings",
-      "net sales growth",
-      "comparable sales",
-      "digital commerce",
-      "e-commerce momentum",
-      "wholesale retail"
-    ],
-    "insights": [
-      {
-        "ticker": "COST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong double-digit net sales growth (11.3%), solid comparable sales increase (9.4%), and exceptional digital comparable sales growth (19.5%) demonstrate robust business momentum and successful digital transformation. Full-year digital growth of 20.9% significantly outpaces overall company growth, indicating successful omnichannel strategy execution."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net sales rose 5.3% with comparable sales up 3.8%. Digital comparable sales of 8.7% outpaced store sales growth of 2.7%, with same-day delivery rising over 25%, showing positive digital momentum and successful omnichannel integration."
-      },
-      {
-        "ticker": "BJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net sales climbed 15.9% year-over-year with comparable club sales up 3.1%. Digitally enabled comparable sales surged 30% (64% on two-year stacked basis), demonstrating exceptional digital growth driven by pickup, same-day delivery, and customer engagement initiatives."
-      }
-    ]
-  },
-  {
-    "id": "ebca9bed121774078e4f28b26a37bcae8af2d5c9c879c0cff798ef323016a23c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Target Has Raised Its Dividend Through Every Market Crash Since 1971. Should Income Investors Still Buy It?",
-    "author": "John Ballard",
-    "published_utc": "2026-09-07T11:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/07/target-raised-dividend-since-1971-buy-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "TGT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885419%2Folder-store-with-target-logo-on-front-of-building-target-source-company.jpg&w=1200&op=resize",
-    "description": "Target has maintained its dividend through 55 consecutive years and seven bear markets, demonstrating strong resilience. The retailer is experiencing a turnaround with 5% sales growth and 20% earnings growth in Q2, supported by higher-margin revenue streams like advertising. At a forward P/E of 16 and 2.8% dividend yield, the stock appears fairly valued for income investors, with a safe payout ratio of 46% of free cash flow.",
-    "keywords": [
-      "dividend growth",
-      "retail turnaround",
-      "earnings growth",
-      "free cash flow",
-      "consumer spending",
-      "comparable sales",
-      "margin expansion",
-      "advertising revenue"
-    ],
-    "insights": [
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Target demonstrates strong operational momentum with 5% sales growth, 20% adjusted earnings growth, and improving free cash flow (up 51% YoY). The company has proven dividend resilience through 55 years and seven bear markets. While the stock has appreciated 69% YTD and is fairly valued at forward P/E of 16, the underlying business fundamentals support continued dividend increases and long-term value creation for income investors."
-      }
-    ]
-  },
-  {
-    "id": "2b9fe99ff1fe3cb6520740430eb634f2c3b3110cd0dcd52804fac6affdbdcf44",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Target Stock at $165: Here's Why Investors Should Pause.",
-    "author": "Neil Patel",
-    "published_utc": "2026-09-06T09:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/06/target-stock-165-heres-why-investors-should-pause/?source=iedfolrf0000001",
-    "tickers": [
-      "TGT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886133%2Ftarget-name-and-logo-on-red-filter-with-store-in-background_-the-motley-fool.png&w=1200&op=resize",
-    "description": "Target stock has surged 79% over the past 12 months to $165 per share, driven by CEO Michael Fidelke's successful turnaround efforts including improved merchandising and digital initiatives. However, the analyst warns that most gains have come from valuation expansion rather than earnings growth, with the P/E ratio rising 59% in the past year. At current levels, the stock lacks a margin of safety for new investors, suggesting the easy gains have already occurred.",
-    "keywords": [
-      "retail turnaround",
-      "valuation expansion",
-      "P/E ratio",
-      "margin of safety",
-      "earnings growth",
-      "stock price momentum"
-    ],
-    "insights": [
-      {
-        "ticker": "TGT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company's operational turnaround under new CEO is acknowledged as genuine progress, the analyst cautions against buying at current $165 price due to lack of margin of safety. The 79% gain is attributed primarily to valuation expansion (59% P/E increase) rather than fundamental earnings growth, suggesting limited upside and elevated downside risk for new investors."
+        "sentiment_reasoning": "DG Media Network reached $170 million in annual volume and is expected to grow meaningfully. The company is expanding advertiser opportunities and identifies the network as a key initiative to support gross margin expansion."
       }
     ]
   }

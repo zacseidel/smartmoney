@@ -1,5 +1,87 @@
 [
   {
+    "id": "93182c4a684dcbe2e081b3d0827f4115d09a38145d1d309e6e0fa16f1839fe59",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "CEO of Iconic Railroad Stock Unloads More Than 1,000 Shares",
+    "author": "Jake Lerch",
+    "published_utc": "2026-09-16T14:35:01Z",
+    "article_url": "https://www.fool.com/coverage/filings/2026/09/16/ceo-of-iconic-railroad-stock-unloads-more-than-1-000-shares/?source=iedfolrf0000001",
+    "tickers": [
+      "NSC"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F34d887ed4212e8f7cd62f3cec35549f0cf9a39c0-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Norfolk Southern CEO Mark R. George sold 1,035 shares worth ~$335,000 on September 13, 2026, to cover tax liabilities from vesting restricted stock units. Despite the sale, his direct holdings increased to 22,783 shares. The article notes NSC has underperformed the S&P 500 since 2021, with declining operating margins and net income, though revenue has grown modestly.",
+    "keywords": [
+      "insider selling",
+      "restricted stock units",
+      "tax withholding",
+      "railroad industry",
+      "underperformance",
+      "operating margins",
+      "freight transportation"
+    ],
+    "insights": [
+      {
+        "ticker": "NSC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The article highlights mixed-to-negative fundamentals: NSC has underperformed the S&P 500 (7.4% CAGR vs 12.6%), operating margins declined from 39.2% to 32.1%, net income fell from $3.3B to $2.6B, and net debt increased from $12.0B to $15.6B. The author suggests investors may want to look elsewhere for industrial stocks. The insider sale, while non-discretionary, occurs in the context of deteriorating company metrics."
+      }
+    ]
+  },
+  {
+    "id": "cc371c6024e8fa5d8a54df02b5f42a49b69e29fb06f38e41282323d038129a3b",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Le CN d\u00e9pose une description des conditions demand\u00e9es pour pr\u00e9server la concurrence ferroviaire et \u00e9largir les options offertes aux clients dans le Midwest",
+    "author": "Na",
+    "published_utc": "2026-09-10T21:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/10/3360029/0/fr/le-cn-d%C3%A9pose-une-description-des-conditions-demand%C3%A9es-pour-pr%C3%A9server-la-concurrence-ferroviaire-et-%C3%A9largir-les-options-offertes-aux-clients-dans-le-midwest.html",
+    "tickers": [
+      "UNP",
+      "NSC",
+      "CNI"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d8f3f116-ccaf-4c51-af12-154863973974",
+    "description": "CN has filed proposed conditions with the Surface Transportation Board to preserve rail competition in the Midwest following the proposed Union Pacific-Norfolk Southern merger. The conditions would grant CN access to key markets in St. Louis, Kansas City, and Illinois, ensuring shippers maintain competitive transportation options and preventing the reduction of Class I railroad choices in affected regions.",
+    "keywords": [
+      "rail competition",
+      "merger conditions",
+      "Surface Transportation Board",
+      "Midwest markets",
+      "Class I railroads",
+      "competitive access",
+      "Kansas City",
+      "St. Louis",
+      "Illinois"
+    ],
+    "insights": [
+      {
+        "ticker": "UNP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "UP is mentioned as a party to the proposed merger and would be subject to the conditions proposed by CN. The sentiment is neutral as this represents regulatory oversight rather than negative or positive developments for UP specifically."
+      },
+      {
+        "ticker": "NSC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NS is mentioned as the other party to the proposed merger. The sentiment is neutral as this represents standard regulatory conditions rather than specific negative or positive impacts on NS."
+      },
+      {
+        "ticker": "CNI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CN is positioning itself as a preferred alternative carrier to remedy competitive harm from the UP-NS merger, gaining access to key Midwest markets and new growth opportunities. The company demonstrates confidence in its operational capabilities and network expansion potential."
+      }
+    ]
+  },
+  {
     "id": "317c917c85e5285557f8690a563f9b606c411d3ae5d1c54067752a1be8b4d07c",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -115,92 +197,6 @@
         "ticker": "NSC",
         "sentiment": "neutral",
         "sentiment_reasoning": "Norfolk Southern is mentioned as the merger target but the agreement primarily involves CN and Union Pacific. The settlement is contingent on merger approval but doesn't directly impact Norfolk Southern's operations or competitive position."
-      }
-    ]
-  },
-  {
-    "id": "39e3ce4cbf3809f469bfc24d579cf98729155369a49d6fd53044f0515d61bb2e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Industrial Stocks to Load Up On When the Market Inevitably Crashes",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-07-21T10:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/21/industrial-stocks-load-up-on-market-crash/?source=iedfolrf0000001",
-    "tickers": [
-      "WM",
-      "UNP",
-      "NSC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879538%2Fgettyimages-1146653323.jpg&w=1200&op=resize",
-    "description": "The article recommends two industrial stocks as ideal crash-buying opportunities: Waste Management, a recession-resistant business with essential services and strong cash flow, and Union Pacific, which benefits from an irreplaceable rail network and a proposed merger with Norfolk Southern that could unlock significant long-term value despite cyclical economic pressures.",
-    "keywords": [
-      "market crash",
-      "industrial stocks",
-      "recession-resistant",
-      "competitive moat",
-      "cash flow",
-      "merger catalyst",
-      "cyclical stocks",
-      "buying opportunity"
-    ],
-    "insights": [
-      {
-        "ticker": "WM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised for its non-discretionary, recession-resistant business model, 23-year dividend growth streak, strong free cash flow projections ($3.8B in 2026), and nearly impossible-to-replicate landfill network moat. Recommended as a stable compounder for crash buying."
-      },
-      {
-        "ticker": "UNP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Valued for its irreplaceable transcontinental rail network, strong pricing power, and transformational merger catalyst with Norfolk Southern that could save shippers $3.5B annually. Recommended as a cyclical play offering upside potential when recession-driven sell-offs occur, though merger approval remains uncertain."
-      },
-      {
-        "ticker": "NSC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the merger partner in the proposed Union Pacific combination. While the merger could create efficiency gains, the article focuses primarily on Union Pacific's perspective and notes regulatory approval and integration risks remain."
-      }
-    ]
-  },
-  {
-    "id": "2894bec861984d107131bb7518ebb7dbe9ceedb58c9a0981f55a48db603628bf",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Le CN affirme que le STB a eu raison de suspendre l\u2019examen de la fusion de UP-NS et d\u2019exiger de plus amples renseignements",
-    "author": "Na",
-    "published_utc": "2026-05-28T22:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/28/3303337/0/fr/Le-CN-affirme-que-le-STB-a-eu-raison-de-suspendre-l-examen-de-la-fusion-de-UP-NS-et-d-exiger-de-plus-amples-renseignements.html",
-    "tickers": [
-      "UNP",
-      "NSC"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d8f3f116-ccaf-4c51-af12-154863973974",
-    "description": "CN supports the Surface Transportation Board's (STB) decision to suspend examination of Union Pacific and Norfolk Southern's proposed merger, requiring them to submit additional information by July. The STB found the merger application lacks credible evidence of competitive improvements and public benefits, with significant gaps in market share analysis and insufficient remedial measures. CN argues the merger would reduce competitive rail transport options and increase concentration in key freight corridors.",
-    "keywords": [
-      "merger suspension",
-      "competitive concerns",
-      "rail industry",
-      "regulatory review",
-      "freight transportation",
-      "market concentration"
-    ],
-    "insights": [
-      {
-        "ticker": "UNP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The STB suspension and demand for additional information represents a setback for Union Pacific's merger plans. The regulatory body found significant deficiencies in UP and NS's application, including inadequate competitive analysis and insufficient remedial measures, requiring them to substantially revise their submission."
-      },
-      {
-        "ticker": "NSC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Norfolk Southern faces the same regulatory challenges as Union Pacific. The STB's decision to suspend the merger examination and demand more comprehensive information indicates the current application fails to meet enhanced merger standards, delaying or potentially jeopardizing the proposed merger."
       }
     ]
   }

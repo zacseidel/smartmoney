@@ -1,369 +1,237 @@
 [
   {
-    "id": "0a4a870cbf903f13d9a7e8eb49966bcf52543f1fbec43e33be0cee2f7bc214ab",
+    "id": "233d13abce8d1fab682b211e01b77177568902b218f576219e1f60bde677f771",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "If the AI Boom Slows Down, History Says This Is the Smartest Way to Protect Your Long-Term Portfolio",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-02T18:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/if-the-ai-boom-slows-down-history-says-this-is-the/?source=iedfolrf0000001",
+    "title": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
+    "author": "Neil Patel",
+    "published_utc": "2026-09-27T22:04:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/27/how-many-coca-cola-shares-10000-yearly-dividends/?source=iedfolrf0000001",
+    "tickers": [
+      "KO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889033%2Fcoca-cola-logo-on-red-filter-with-bottles-in-background_-the-motley-fool.png&w=1200&op=resize",
+    "description": "Coca-Cola investors would need to own 4,717 shares (requiring over $414,000 in capital) to generate $10,000 in annual dividend income, based on the company's current $2.12 annualized dividend per share. The beverage giant is highlighted as an attractive passive income investment due to its 64-year streak of consecutive dividend increases, strong brand recognition, durable demand, and robust free cash flow generation.",
+    "keywords": [
+      "dividend income",
+      "Coca-Cola",
+      "Dividend King",
+      "passive income",
+      "dividend yield",
+      "consumer staples"
+    ],
+    "insights": [
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article presents Coca-Cola as a compelling investment for passive income investors, emphasizing its 64-year dividend increase streak (Dividend King status), strong competitive moat, recognizable brand, durable demand, and substantial free cash flow generation of $12.4 billion expected in 2026. These factors are presented as strengths that make it an attractive dividend stock."
+      }
+    ]
+  },
+  {
+    "id": "e07419edce4e2ebede0eb3c2ea842d764ecc61e6f88bc0f04b84043904a1942b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-09-26T18:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/why-is-pepsicos-stock-down-10-while-the-sp-500-is/?source=iedfolrf0000001",
+    "tickers": [
+      "PEP",
+      "KO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887272%2F22_10_05-two-people-drinking-with-straws-from-bottles-on-a-boat-_md-dload.jpg&w=1200&op=resize",
+    "description": "PepsiCo's stock has underperformed the S&P 500 by 23 percentage points in 2026, declining 10% while the broader market gained 13%. The company faces headwinds from rising inflation, consumer belt-tightening, and shifting preferences away from snacks and packaged foods. More critically, PepsiCo is being outpaced by competitor Coca-Cola, which posted 6% organic sales growth in Q2 2026 compared to PepsiCo's 2.4%. Despite its status as a Dividend King with a 4.5% yield and strong fundamentals, investors remain cautious about the consumer staples sector.",
+    "keywords": [
+      "PepsiCo underperformance",
+      "consumer staples headwinds",
+      "Coca-Cola outperformance",
+      "organic sales growth",
+      "dividend yield",
+      "inflation pressure",
+      "consumer spending"
+    ],
+    "insights": [
+      {
+        "ticker": "PEP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock down 10% YTD 2026 and 33% from 2023 highs. Organic sales growth slowing (2.4% in Q2 vs 2.6% in Q1). Significantly underperforming S&P 500 and direct competitor Coca-Cola. Facing sector-wide headwinds from inflation, consumer spending pressure, and shifting consumer preferences away from snacks and packaged foods."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up nearly 25% YTD 2026, significantly outperforming both PepsiCo and the S&P 500. Posted 6% organic sales growth in Q2 2026, substantially beating PepsiCo's 2.4%. Demonstrating stronger business performance and gaining market share relative to its main competitor."
+      }
+    ]
+  },
+  {
+    "id": "9709c7185953cd4f44098bf73bb19cc38790b4b6f687c0a70ee18b815e0d92bf",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Monster Beverage vs. PepsiCo: Which Consumer Goods Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-26T14:33:47Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/26/monster-beverage-vs-pepsico-which-consumer-goods-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "MNST",
+      "PEP",
+      "KO",
+      "WMT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares Monster Beverage and PepsiCo as investment options for 2026. Monster Beverage demonstrates stronger growth with 10.7% revenue increase, zero debt, and record quarterly performance across all geographic regions, though it faces concentration risk with Coca-Cola as its primary distributor. PepsiCo offers diversified snack and beverage brands with a 4.51% dividend yield but faces headwinds from reduced North American consumer spending and cautious earnings guidance. The author recommends Monster Beverage for growth-focused investors despite its premium valuation.",
+    "keywords": [
+      "energy drinks",
+      "consumer goods",
+      "stock comparison",
+      "growth vs. dividend",
+      "valuation",
+      "distribution risk",
+      "international expansion"
+    ],
+    "insights": [
+      {
+        "ticker": "MNST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong double-digit revenue growth (10.7%), record quarterly performance across all regions, zero debt, excellent free cash flow ($2.0B), expanding international presence (50% of business), and improving net margins (23%). Author explicitly recommends it as the better buy for 2026."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid fundamentals with diversified portfolio, strong free cash flow ($7.7B), and reliable 4.51% dividend yield. However, faces headwinds from weak North American consumer spending, cautious earnings guidance, higher leverage (2.4x debt-to-equity), and slower growth (2.3%). Suitable for conservative investors but not recommended over Monster for 2026."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Monster Beverage's primary distribution partner holding 20.9% stake. Represents both an opportunity and concentration risk for Monster's business model."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as PepsiCo's largest customer accounting for 14% of revenue, representing customer concentration risk."
+      }
+    ]
+  },
+  {
+    "id": "9cf3ccc761a9f15b302a4a2c5008597f23b1eebc019b1534a2266ffea24fc63d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "SCHD Is Brilliant. Here's Why I Think This Dividend ETF Is Even Better.",
+    "author": "Matt Dilallo",
+    "published_utc": "2026-09-26T09:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/schd-is-brilliant-heres-why-i-think-this-dividend/?source=iedfolrf0000001",
     "tickers": [
       "SCHD",
-      "NVDA",
-      "AVGO",
-      "AMZN",
-      "MRK",
-      "AMGN",
-      "ABT",
+      "RDVY",
       "KO",
-      "CVX"
+      "PEP",
+      "META",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885265%2Fandroid-head-shattering.jpg&w=1200&op=resize",
-    "description": "As concerns grow about a potential AI market slowdown due to inflation, rate hikes, and geopolitical tensions, investors should consider diversifying into dividend-focused ETFs like SCHD. The Schwab U.S. Dividend Equity ETF offers exposure to 100 stable, dividend-paying stocks across multiple sectors, providing a defensive hedge against AI stock volatility while delivering steady income and historical returns of 243% over the past decade.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886459%2Fhand-and-etf-spelled-out-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "The article compares two dividend-focused ETFs: SCHD (Schwab U.S. Dividend Equity ETF) and RDVY (First Trust Rising Dividend Achievers ETF). While SCHD offers high current dividend yield (3%) with slower-growing, established companies, RDVY has delivered superior 10-year average annual returns (15.8% vs 13.2%) by focusing on faster-growing Nasdaq-listed companies with rising dividends. The choice between them depends on investment goals: SCHD for income, RDVY for wealth growth.",
     "keywords": [
-      "AI slowdown",
       "dividend ETF",
-      "portfolio protection",
-      "diversification",
+      "dividend growth stocks",
       "SCHD",
-      "market volatility"
+      "RDVY",
+      "total returns",
+      "dividend yield",
+      "income investing"
     ],
     "insights": [
       {
         "ticker": "SCHD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a smart defensive investment with low expense ratio (0.06%), strong historical returns (243% over 10 years), diversified holdings across 100 stocks and multiple sectors, and reliable dividend yield (2.99-3.1%), making it resilient against AI market slowdowns."
+        "sentiment_reasoning": "Praised as 'brilliant' with strong fundamentals including 3% dividend yield, 0.06% low expense ratio, and $111B AUM. Holdings include quality dividend aristocrats like Coca-Cola and PepsiCo with consistent dividend growth."
+      },
+      {
+        "ticker": "RDVY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as superior for wealth growth with 10-year average annual returns of 15.8% outpacing SCHD's 13.2%. Positioned as better for investors seeking faster capital appreciation through growth-focused dividend payers."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as a top SCHD holding and Dividend King with over 50 years of consecutive dividend increases, demonstrating strong dividend reliability."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a top SCHD holding and Dividend King with 4.6% yield and over 50 years of consecutive dividend increases."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a notable RDVY holding representing the growth-focused, lower-yielding tech companies (0.3% yield) that characterize the fund's strategy."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top AI stock that has driven S&P 500 gains but is vulnerable to slowdown risks from inflation, rate hikes, and geopolitical conflicts."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top AI infrastructure stock that could be negatively impacted by potential AI spending slowdown."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top AI stock benefiting from the boom but exposed to slowdown risks; author has a position in the company."
-      },
-      {
-        "ticker": "MRK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top holding in SCHD (4.9%), representing a stable dividend-paying stock with strong fundamentals and long dividend history."
-      },
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in SCHD (4.8%), a reliable dividend stock with consistent dividend growth history."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in SCHD (4.7%), representing a stable healthcare dividend stock with strong dividend track record."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top 5 holding in SCHD (4.2%), a defensive consumer staples stock with reliable dividends; author has a position in the company."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top 5 holding in SCHD (4.1%), representing energy sector diversification with stable dividend payments."
+        "sentiment_reasoning": "Mentioned as a notable RDVY holding exemplifying low-yielding tech giants (0.4% yield) included in the growth-focused dividend achievers strategy."
       }
     ]
   },
   {
-    "id": "adf07c424e0164f8976dc26142bf26f0325863da1812e2060c49cac53c41f51a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "For Students Like Jariel: Stop & Shop Launches Annual School Food Pantry Campaign",
-    "author": "Stop & Shop",
-    "published_utc": "2026-09-02T12:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3355059/0/en/for-students-like-jariel-stop-shop-launches-annual-school-food-pantry-campaign.html",
-    "tickers": [
-      "CPB",
-      "GIS",
-      "KO"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/5a85ca06-dabb-48ad-8396-879b6c314c59",
-    "description": "Stop & Shop announced its annual School Food Pantry Campaign running from September 4 through October 30, 2026, allowing customers to donate at checkout to support school food pantries across five states. The program, established in 2019, now supports over 290 schools serving more than 50,000 students and families monthly, with plans to reach 300 partner schools. The campaign features five student and family ambassadors whose stories highlight the program's impact on food-insecure communities.",
-    "keywords": [
-      "school food pantry",
-      "food insecurity",
-      "fundraiser campaign",
-      "student support",
-      "community program",
-      "food security",
-      "charitable giving"
-    ],
-    "insights": [
-      {
-        "ticker": "CPB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Campbell's is recognized as a premier program partner supporting Stop & Shop's school food pantry initiative, contributing to nutritious food access for students and families in need."
-      },
-      {
-        "ticker": "GIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "General Mills, through its Cheerios brand, is acknowledged as a key vendor partner helping stock school pantries with nutritious options, demonstrating corporate commitment to food security."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Coca-Cola, through its smartwater brand, is listed as a premier partner supporting the school food pantry program, contributing to the initiative's success."
-      }
-    ]
-  },
-  {
-    "id": "00acf5765da93239195c5a6e5d117f080166a1b14d46c15a6c5c214b96d64400",
+    "id": "9c0ef367e36beb2433c0879ad9ed58d77bd4bec9d5b679fbcadaf143b3f43ed2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Here's What $1,000 Invested in Berkshire Hathaway the Day Greg Abel Became CEO Is Worth Now",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-09-02T10:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/what-invest-berkshire-hathaway-greg-abel-ceo/?source=iedfolrf0000001",
+    "title": "2 Dividend Kings to Buy Now and 1 to Avoid Despite the Yield",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-25T15:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/2-dividend-kings-to-buy-now-and-1-to-avoid-despite/?source=iedfolrf0000001",
     "tickers": [
       "KO",
-      "AXP",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "BRK.A",
-      "BRK.B"
+      "MO",
+      "PEP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885043%2Fgettyimages-2204004477.jpg&w=1200&op=resize",
-    "description": "Since Greg Abel took over as CEO of Berkshire Hathaway at the end of 2025, the stock has been essentially flat, with a $1,000 investment worth only $1,005 today. This marks a stark contrast to Warren Buffett's legacy of 19.7% average annual returns. Despite solid Q2 earnings and a strong cash position of $365.5 billion, Berkshire is on track for its worst performance in over a decade.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888831%2Fman-cash-king.jpg&w=1200&op=resize",
+    "description": "Among three Dividend Kings\u2014Coca-Cola, PepsiCo, and Altria\u2014analyst recommends buying Coca-Cola and Altria while avoiding PepsiCo. Coca-Cola's asset-light model and diversification provide reliable income, while Altria's expansion into smoke-free products offers growth potential. PepsiCo's asset-heavy beverage business and struggling packaged foods segment face more significant near-term challenges despite attractive valuation.",
     "keywords": [
-      "CEO transition",
-      "stock performance",
-      "Berkshire Hathaway",
-      "Greg Abel",
-      "Warren Buffett",
-      "investment returns",
-      "portfolio management"
-    ],
-    "insights": [
-      {
-        "ticker": "KO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings. No specific performance data or commentary provided about the company itself."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings. No specific performance data or commentary provided about the company itself."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as part of Berkshire's dividend-paying stock portfolio holdings and as an advertising partner. No specific performance data provided, though article notes Berkshire sold bank stocks recently."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has been essentially flat since Abel became CEO, with minimal gains ($1,000 \u2192 $1,005). The company is on track for its worst performance in over a decade, representing a significant underperformance relative to historical standards and investor expectations during the leadership transition."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has been essentially flat since Abel became CEO, with minimal gains ($1,000 \u2192 $1,005). The company is on track for its worst performance in over a decade, representing a significant underperformance relative to historical standards and investor expectations during the leadership transition."
-      }
-    ]
-  },
-  {
-    "id": "e4619d5dd48d9265fce4b363fdb15b490a2ad215158613635e05dfb85e1127f2",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Vibe Marketing Tech Fest 2026 Focuses on Building Customer Confidence",
-    "author": "Not Specified",
-    "published_utc": "2026-09-02T06:04:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/02/3354835/0/en/vibe-marketing-tech-fest-2026-focuses-on-building-customer-confidence.html",
-    "tickers": [
-      "ADBE",
-      "SAP",
-      "KO",
-      "MDLZ"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/02/3354835/0/en/vibe-marketing-tech-fest-2026-focuses-on-building-customer-confidence.html",
-    "description": "The Middle East's digital advertising market is experiencing rapid growth at 17.8% year-on-year, reaching $8.185 billion in 2025. Vibe Marketing Tech Fest 2026, now in its 19th edition, will convene senior marketing and technology leaders in Dubai on September 9-10 to discuss AI adoption, customer expectations, and marketing ROI challenges. The event will feature keynotes from industry experts and executives from major regional and global brands, culminating in the Marquee Awards recognizing marketing and technology excellence.",
-    "keywords": [
-      "digital advertising",
-      "marketing transformation",
-      "AI adoption",
-      "customer experience",
-      "marketing ROI",
-      "MENA region",
-      "martech",
-      "brand strategy"
-    ],
-    "insights": [
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adobe is featured as a sponsor and speaker at a major regional marketing conference, indicating strong market presence and thought leadership in the MENA marketing technology space."
-      },
-      {
-        "ticker": "SAP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SAP is listed as a sponsor with a senior executive (VP & Head of SAP CX) speaking at the event, demonstrating active engagement in regional CX and marketing technology initiatives."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Coca-Cola's participation as a major brand with a Brand Strategy Director speaking indicates strong investment in marketing innovation and customer engagement strategies in the MENA region."
-      },
-      {
-        "ticker": "MDLZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mondelez's participation with a CMO speaker demonstrates active engagement in regional marketing transformation and technology adoption initiatives."
-      }
-    ]
-  },
-  {
-    "id": "544ad3e425b2ec99b3e79a13c1ff0d83d13cd42a0b9ecb09a269db12a9283b70",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "PepsiCo Is Struggling While Coca-Cola Hits All-Time Highs. Here's Whether the Discount Makes PEP Worth Buying.",
-    "author": "John Ballard",
-    "published_utc": "2026-09-01T10:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/01/pepsico-struggle-coca-cola-highs-buy-pep-ko/?source=iedfolrf0000001",
-    "tickers": [
-      "PEP",
-      "KO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885113%2Fanalyst-stocks.jpg&w=1200&op=resize",
-    "description": "While Coca-Cola has surged 28% year-to-date with stronger earnings growth and higher margins, PepsiCo has fallen 29% from its highs despite still growing revenue and earnings. PepsiCo's lower valuation (16x forward P/E vs. Coca-Cola's 27x) and higher dividend yield (4.2% vs. 2.35%) may present a buying opportunity for dividend investors, though Coca-Cola's superior execution in a challenging economy has justified its outperformance.",
-    "keywords": [
-      "beverage industry",
+      "Dividend Kings",
       "dividend stocks",
-      "valuation comparison",
-      "consumer staples",
-      "earnings growth",
-      "operating margins",
-      "macroeconomic headwinds"
+      "beverage companies",
+      "tobacco stocks",
+      "packaged foods",
+      "business models",
+      "dividend yield",
+      "EPS growth"
     ],
     "insights": [
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Asset-light business model with high margins, diversified product portfolio beyond soda, reasonable valuation at 25x forward earnings, low payout ratio (62%) allowing room for dividend growth, and strong cash generation capability."
+      },
+      {
+        "ticker": "MO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Attractive valuation at 12x forward earnings, high dividend yield (6.5%), strong EPS growth expected at 13% CAGR through 2028, strategic diversification into smoke-free products targeting $5 billion revenue by 2028, and effective cost management with share buybacks."
+      },
       {
         "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock has underperformed significantly (-29% from highs), but fundamentals remain solid with growing volumes, revenue, and earnings. Lower valuation (16x forward P/E) and higher dividend yield (4.2%) suggest potential value opportunity, though near-term execution challenges and slower growth than competitors warrant caution."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong execution with 6% organic revenue growth, 5% volume growth, and 11% earnings-per-share growth. Higher operating margins (35% vs. PepsiCo's 16.5%) and premium valuation (27x forward P/E) reflect justified market confidence, though stock is at all-time highs with limited upside at current prices."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Asset-heavy beverage business with higher capital expenses, struggling packaged foods segment facing competition from healthier and private label brands, margin pressure from inflation, negative impact from GLP-1 weight loss drugs, major product recalls, and throttled North American business growth despite attractive 15x forward earnings valuation."
       }
     ]
   }

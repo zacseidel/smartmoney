@@ -1,241 +1,384 @@
 [
   {
-    "id": "7f838b44ffc96052f1142de6a17e2e9d888826f80e519ed59a1d24f3b8f493e1",
+    "id": "9d7a540c12b61d3b9bbc34386bd6c0144acd29a7418273ecbb56e8288beb3de4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "I've Covered Many IPOs for The Motley Fool. Here's What Most Investors Get Wrong.",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-09-08T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/08/ive-covered-many-ipos-for-the-motley-fool-heres-wh/?source=iedfolrf0000001",
+    "title": "Should Investors Buy Visa Instead of Mastercard?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-09-26T00:27:06Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/should-investors-buy-visa-instead-of-mastercard/?source=iedfolrf0000001",
     "tickers": [
-      "SPCX",
-      "HOOD",
-      "SOFI",
-      "AMZN",
-      "NVDA",
-      "SBUX",
-      "V"
+      "V",
+      "MA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885941%2Fperson-cheering-in-a-stock-exchange-with-stock-charts.jpg&w=1200&op=resize",
-    "description": "IPO stocks are often overpriced at launch due to hype, making them risky investments. Retail investors have limited access to IPO shares, which mostly go to institutional investors. The article recommends waiting for better entry points, particularly after the 180-day lockup period expires when insiders can sell, rather than buying immediately at IPO prices.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889289%2F5-visa_mastercard.jpg&w=1200&op=resize",
+    "description": "An analysis comparing Visa and Mastercard, two of the world's most profitable payment processing companies. The article examines which stock might be the better investment choice, with the author noting that the conclusion may be surprising to investors.",
     "keywords": [
-      "IPO",
-      "initial public offering",
-      "lockup period",
-      "retail investors",
-      "institutional investors",
-      "stock valuation",
-      "market entry timing"
+      "payment processing",
+      "stock comparison",
+      "investment analysis",
+      "financial services",
+      "wide-moat stocks"
     ],
     "insights": [
       {
-        "ticker": "SPCX",
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The article presents Visa as one of two highly profitable payment companies worthy of comparison, but does not provide specific performance analysis or clear recommendation favoring it over Mastercard. The title suggests the comparison outcome may be surprising, indicating no obvious preference."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mastercard is presented as equally profitable and competitive with Visa. The author holds positions in both companies and the article frames them as comparable investment options without a definitive recommendation for one over the other."
+      }
+    ]
+  },
+  {
+    "id": "dd09434f1828d3157ff65b0bd10ce5de2177af79edf1855da2445f49c1ff2511",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "An S&P 500 Index Fund Already Owns These Financial Stocks. Here's Whether to Own More.",
+    "author": "Dave Kovaleski",
+    "published_utc": "2026-09-24T17:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/24/an-sp-500-index-fund-already-owns-these-financial/?source=iedfolrf0000001",
+    "tickers": [
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ",
+      "V",
+      "AXP",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "HOOD",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888069%2Fgettyimages-2228764569.jpg&w=1200&op=resize",
+    "description": "Financial stocks in the S&P 500 have underperformed over the past year, remaining flat year-to-date and up only 1% over 12 months. While S&P 500 ETFs already provide exposure to major financial stocks like Berkshire Hathaway, JPMorgan Chase, and Visa, investors don't need additional financial sector exposure. Instead, experts recommend diversifying beyond large-caps into small-cap, mid-cap, value, and international stocks, which are projected to outperform large-cap growth stocks over the next 10 years.",
+    "keywords": [
+      "financial stocks",
+      "S&P 500",
+      "diversification",
+      "small-cap stocks",
+      "value stocks",
+      "international stocks",
+      "large-cap underperformance"
+    ],
+    "insights": [
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+      },
+      {
+        "ticker": "SCHW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a large-cap financial stock in S&P 500 ETFs; no specific outlook provided beyond sector-wide challenges."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major financial stock in S&P 500 ETFs; subject to financial sector headwinds with no differentiation noted."
+      },
+      {
+        "ticker": "GS",
         "sentiment": "negative",
-        "sentiment_reasoning": "Used as a cautionary example of IPO overpricing. Stock was priced at $130 but jumped to $150+ on first day (100x trailing sales valuation), then fell significantly below IPO price before recovering slightly. Demonstrates the risks of buying at IPO."
+        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
       },
       {
         "ticker": "HOOD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "As a brokerage, vulnerable to the same sector challenges: potential market correction and downturn would hurt brokerages' performance."
+      },
+      {
+        "ticker": "BRK.A",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a platform offering IPO access to retail investors, but no performance analysis or investment recommendation provided."
+        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
+      }
+    ]
+  },
+  {
+    "id": "5fdfd0edf8533d6a936b88044ada5c5e9a001ee390111a8d59881e906fc56e6b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's How Mastercard's SoFi Deal Expands Its Stablecoin Opportunity",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T15:23:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994571/here-s-how-mastercard-s-sofi-deal-expands-its-stablecoin-opportunity?cid=CS-ZC-FT-analyst_blog|quick_take-2994571",
+    "tickers": [
+      "MA",
+      "SOFI",
+      "V",
+      "PYPL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/78/189.jpg",
+    "description": "Mastercard is expanding its stablecoin capabilities by partnering with SoFi to settle debit and credit card transactions using SoFiUSD on its network. SoFi's card program is expected to process over $25 billion in annualized volume, with transactions already live on the blockchain. The partnership positions Mastercard to strengthen its role in connecting traditional finance with digital assets, while also exploring cross-border payments and remittances. Competitors Visa and PayPal are similarly expanding their stablecoin platforms.",
+    "keywords": [
+      "stablecoin settlement",
+      "blockchain payments",
+      "SoFiUSD",
+      "digital assets",
+      "payment infrastructure",
+      "cross-border payments",
+      "fintech partnership"
+    ],
+    "insights": [
+      {
+        "ticker": "MA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mastercard is demonstrating real-world stablecoin settlement at scale ($25B+ annualized volume), positioning itself as a bridge between traditional finance and digital assets. The partnership validates blockchain-based payment infrastructure without replacing existing systems, opening new revenue opportunities in settlement activity and cross-border payments."
       },
       {
         "ticker": "SOFI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a trading platform offering IPO access to retail investors, but no performance analysis or investment recommendation provided."
-      },
-      {
-        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
-      },
-      {
-        "ticker": "SBUX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
+        "sentiment_reasoning": "SoFi is launching its proprietary stablecoin (SoFiUSD) at significant scale with instant settlement capabilities and zero-cost withdrawals. The partnership with Mastercard provides merchant adoption pathways and positions SoFi as an innovator in blockchain-based payments."
       },
       {
         "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Implied positive example in the article's statement that great stocks provide value to shareholders who hold for long periods, regardless of entry timing."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Visa is actively competing in the stablecoin space with its Stablecoin Platform and 160+ stablecoin-linked card programs generating $20B+ annualized volume. While competitive, the article presents this as a parallel development rather than indicating market share loss."
+      },
+      {
+        "ticker": "PYPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PayPal is expanding PYUSD merchant settlement and crypto payment capabilities with attractive rewards (4%). The company is competing in the stablecoin space but no specific competitive disadvantage versus Mastercard is indicated."
       }
     ]
   },
   {
-    "id": "06fb10911bc4d3c65a30ddcf805e2d12c946a99239449dd3b023af97fbc67226",
+    "id": "c7fa4b7d18a9da6592bc845287d0f61ad6381114fe1da6a09f147bdf4b985ff1",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Visa (V) Exceeds Market Returns: Some Facts to Consider",
+    "title": "Should You Invest in the State Street Financial Select Sector SPDR ETF (XLF)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2994144/should-you-invest-in-the-state-street-financial-select-sector-spdr-etf-xlf?cid=CS-ZC-FT-sector_etf-2994144",
+    "tickers": [
+      "XLF",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BRK.A",
+      "BRK.B",
+      "V"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default38.jpg",
+    "description": "XLF, the State Street Financial Select Sector SPDR ETF, is recommended as a Buy with a Zacks ETF Rank of 2. The fund offers broad exposure to the financial sector with a low 0.08% expense ratio, $51.91 billion in assets, and a 1.51% dividend yield. Year-to-date performance is 1.21%, with a medium risk profile (beta of 0.85). Top holdings include JPMorgan Chase (11.72%), Berkshire Hathaway, and Visa.",
+    "keywords": [
+      "ETF",
+      "financial sector",
+      "XLF",
+      "expense ratio",
+      "dividend yield",
+      "sector exposure",
+      "passive management"
+    ],
+    "insights": [
+      {
+        "ticker": "XLF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Rated as a Buy (Zacks ETF Rank 2), features the lowest expense ratio in its category (0.08%), substantial assets ($51.91 billion), and provides diversified exposure to the financial sector with medium risk profile."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XLF at 11.72% of assets; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in XLF; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in XLF; mentioned factually as a component of the fund without independent performance assessment."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in XLF; mentioned factually as a component of the fund without independent performance assessment."
+      }
+    ]
+  },
+  {
+    "id": "98bbb7ce27487395d331d7cb620e918ca8db73cf8069884504209efb51a57e27",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Visa (V) Stock Moves -2.14%: What You Should Know",
     "author": "Na",
-    "published_utc": "2026-09-02T21:45:04Z",
-    "article_url": "https://www.zacks.com/stock/news/2984079/visa-v-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2984079",
+    "published_utc": "2026-09-22T21:45:08Z",
+    "article_url": "https://www.zacks.com/stock/news/2994015/visa-v-stock-moves-2-14-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2994015",
     "tickers": [
       "V"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default57.jpg",
-    "description": "Visa (V) closed at $378.40, up 1.54%, outperforming the S&P 500's 0.46% gain. The stock is expected to report EPS of $3.43 (15.1% growth) and revenue of $12.07 billion (12.56% growth). However, Visa trades at a Forward P/E of 28.32, significantly above its industry average of 13.42, and carries a PEG ratio of 2 compared to the Financial Transaction Services industry average of 0.85. The company holds a Zacks Rank of #3 (Hold).",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default186.jpg",
+    "description": "Visa (V) closed at $362.04, down 2.14% in the most recent trading session. The company is forecasted to report Q3 EPS of $3.43 (up 15.1% YoY) and revenue of $12.07 billion (up 12.56% YoY). For the full year, analysts expect EPS of $13.16 and revenue of $45.83 billion, both up approximately 14.7% from the prior year. However, Visa trades at a Forward P/E of 28.11, significantly above its industry average of 12.74, and carries a Zacks Rank of #3 (Hold).",
     "keywords": [
       "Visa",
-      "stock performance",
       "earnings forecast",
+      "stock performance",
       "valuation",
-      "Forward P/E ratio",
-      "PEG ratio",
-      "Zacks Rank"
+      "Zacks Rank",
+      "financial transaction services"
     ],
     "insights": [
       {
         "ticker": "V",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Visa demonstrates solid earnings growth expectations (15.1% EPS growth, 12.56% revenue growth) and outperformed market indices on the trading day, the stock is trading at a significant premium valuation with a Forward P/E of 28.32 versus industry average of 13.42, and a PEG ratio of 2 versus industry average of 0.85. The Zacks Rank of #3 (Hold) reflects this balanced view of growth potential offset by elevated valuation concerns."
-      }
-    ]
-  },
-  {
-    "id": "25e3e389343e444afcdedea83f1e99397ea32119db801326e55cc87477993904",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can Mastercard's VAS Business Sustain Its Double-Digit Growth?",
-    "author": "Na",
-    "published_utc": "2026-09-02T16:15:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983990/can-mastercard-s-vas-business-sustain-its-double-digit-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2983990",
-    "tickers": [
-      "MA",
-      "V",
-      "AXP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/09/344.jpg",
-    "description": "Mastercard's Value-Added Services (VAS) revenues grew 20% year-over-year in Q2 2026, now representing 41.2% of net revenues. The company is expanding capabilities in cybersecurity, AI, fraud prevention, and merchant analytics through initiatives like its Merchant Trust Services and Advantage Partner program. Competitors Visa and American Express are also investing heavily in similar VAS offerings, with Visa reporting 34% YoY VAS growth. Mastercard trades at a forward P/E of 26.54, above industry average, with a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "Value-Added Services",
-      "VAS growth",
-      "cybersecurity",
-      "AI and fraud prevention",
-      "payment networks",
-      "merchant analytics"
-    ],
-    "insights": [
-      {
-        "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong double-digit VAS revenue growth (20% YoY), expanding market share in high-margin services, strategic investments in AI and cybersecurity, and growing contribution to overall revenues (41.2%) demonstrate solid business momentum and future growth potential."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Aggressive VAS expansion with 34% YoY growth in Q3 FY2026, significant investments in AI and cybersecurity, and VAS now representing roughly one-third of total revenues indicate strong competitive positioning and growth trajectory."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Steadily strengthening VAS portfolio through fraud protection, merchant analytics, and AI-enabled tools. Closed-loop network advantage provides differentiated data capabilities for customer engagement and ecosystem reinforcement."
-      }
-    ]
-  },
-  {
-    "id": "a1f7a6ca24c70dfd5e9e20fccee340320b91711deb4ebf0b64e3ad2100f4d683",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Visa Turns A2A Fraud Risk Into a New Growth Opportunity",
-    "author": "Na",
-    "published_utc": "2026-09-02T13:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2983613/visa-turns-a2a-fraud-risk-into-a-new-growth-opportunity?cid=CS-ZC-FT-analyst_blog|quick_take-2983613",
-    "tickers": [
-      "V",
-      "MA",
-      "FIS"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7a/172.jpg",
-    "description": "Visa is expanding its presence in the growing account-to-account (A2A) payments market with an enhanced A2A Protect solution that uses AI to detect fraud in real-time. The solution boosts scam detection by up to 75% and reduces false alerts by 40%, allowing Visa to monetize A2A transactions even when they bypass its traditional card network. This supports Visa's Value-Added Services growth strategy and deepens relationships with financial institutions.",
-    "keywords": [
-      "account-to-account payments",
-      "fraud detection",
-      "A2A Protect",
-      "behavioral AI",
-      "Value-Added Services",
-      "real-time payments",
-      "payment security"
-    ],
-    "insights": [
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Visa is successfully expanding into the high-growth A2A payments market with a competitive fraud detection solution that delivers strong results (75% scam detection improvement, 40% reduction in false alerts). The solution creates new recurring revenue opportunities through its Value-Added Services strategy and strengthens bank relationships, positioning the company well for future growth in real-time payments."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mastercard is also developing competitive fraud-prevention capabilities for A2A payments through solutions like Mastercard A2A Protect and AI-driven Consumer Fraud Risk. While positioned to capture fraud-prevention revenues, the article does not provide specific performance metrics or competitive advantages that would differentiate it from Visa."
-      },
-      {
-        "ticker": "FIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "FIS offers real-time fraud monitoring and predictive scoring through solutions like SecurLOCK and is expanding AI use in fraud prevention. Its entrenched role in payment processing provides advantages, but the article does not highlight specific competitive strengths or performance metrics that would indicate outperformance in the A2A market."
-      }
-    ]
-  },
-  {
-    "id": "046f6d013f9cce3e8cb263efd089ee267240759584fbb73d96f3c06717d14dbb",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's What $1,000 in Visa Stock at Its IPO Would Be Worth Today",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-09-02T13:24:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/02/heres-what-1000-in-visa-stock-at-its-ipo-worth/?source=iedfolrf0000001",
-    "tickers": [
-      "V",
-      "MA",
-      "AXP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885473%2Fvisa-tap-to-phone.jpg&w=1200&op=resize",
-    "description": "A $1,000 investment in Visa stock at its 2008 IPO would be worth approximately $440,000 today, including reinvested dividends. Visa's exceptional business model, dominant market position as the world's largest credit card network, asset-light operations, and consistent dividend growth over 18 years demonstrate its reliability as a long-term investment that benefits from economic expansion.",
-    "keywords": [
-      "Visa IPO",
-      "payment networks",
-      "dividend growth",
-      "long-term investing",
-      "business moat",
-      "credit card networks"
-    ],
-    "insights": [
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Visa demonstrates exceptional long-term performance with $1,000 growing to ~$440,000 including dividends. The company has a strong competitive moat as the world's largest payment network, high operating margins (66.25%), consistent 18-year dividend growth (2,450% increase), and robust year-over-year sales growth (14%) despite inflationary pressures."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a main competitor to Visa in the credit card network space. No specific performance data or analysis provided in the article."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of four major credit card networks competing with Visa. No specific performance analysis provided."
+        "sentiment_reasoning": "While Visa shows strong earnings growth projections (15.1% EPS growth and 12.56% revenue growth), the stock carries a Hold rating (Zacks Rank #3) due to premium valuation. The Forward P/E of 28.11 is more than double the industry average of 12.74, and the PEG ratio of 1.98 exceeds the industry average of 0.84, suggesting the stock is overvalued relative to growth prospects. Recent price weakness (-2.14% and -3.26% over one month) further supports a neutral stance."
       }
     ]
   }

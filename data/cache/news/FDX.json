@@ -1,5 +1,211 @@
 [
   {
+    "id": "ad40210123cc061b7942747252a666398886c42cffb8483df444e8ab8f7aab66",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Reuters Momentum AI Austin Day 1: A New Way to Measure Whether AI Is Actually Paying Off",
+    "author": "Reuters Events",
+    "published_utc": "2026-09-25T00:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
+    "tickers": [
+      "FDX",
+      "ABBV",
+      "WBD",
+      "UNH",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ"
+    ],
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
+    "description": "Enterprise AI is shifting from experimentation to demonstrating measurable ROI. Companies like FedEx ($3B in cost reductions), Mars (20% top-line growth), and Indeed (70% of matches from AI) are scaling AI beyond pilots, but success requires organizational redesign, clear ownership, and human oversight. Leaders warn that AI can amplify existing organizational weaknesses and autonomous agents need defined spending limits and accountability measures.",
+    "keywords": [
+      "enterprise AI",
+      "ROI",
+      "business value",
+      "AI scaling",
+      "autonomous agents",
+      "organizational transformation",
+      "AI governance",
+      "workforce impact"
+    ],
+    "insights": [
+      {
+        "ticker": "FDX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company demonstrated significant measurable success with 200+ AI use cases contributing to $3 billion in cost reductions over six years, exemplifying successful AI scaling and ROI delivery."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of moving beyond pilots in clinical trials, but no specific metrics or outcomes provided to assess success level."
+      },
+      {
+        "ticker": "WBD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as example of AI implementation in advertising, but without specific performance data or outcomes mentioned."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as example of AI scaling in healthcare support, but no quantified results or specific outcomes provided."
+      },
+      {
+        "ticker": "SCHW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
+      }
+    ]
+  },
+  {
+    "id": "07a8f923e347b15bbef80f3b7ea9ecc896a28f8a1bb1dd5e7f2d71c4c54f6754",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Unstoppable Dividend Stocks to Buy Now (1 Yields 5.5%)",
+    "author": "John Ballard",
+    "published_utc": "2026-09-18T21:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/18/3-unstoppable-dividend-stocks-buy-now/?source=iedfolrf0000001",
+    "tickers": [
+      "KMB",
+      "FDX",
+      "O"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887250%2Fstock-charts-and-cash-source-getty-image.jpg&w=1200&op=resize",
+    "description": "The article highlights three dividend-paying stocks offering yields between 1.6% and 5.5%: Kimberly-Clark (5.2% yield, 54-year dividend growth streak), FedEx (1.6% yield, 17% annual dividend growth), and Realty Income (5.5% yield, 57-year consecutive monthly dividend payments). All three companies are positioned as quality businesses with durable competitive advantages and strong cash flow generation.",
+    "keywords": [
+      "dividend stocks",
+      "dividend yield",
+      "consumer staples",
+      "REIT",
+      "cash flow",
+      "dividend growth",
+      "income investing"
+    ],
+    "insights": [
+      {
+        "ticker": "KMB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recognized as a Dividend King with 54 years of consecutive dividend increases. Currently offers an attractive 5.2% forward yield with strong brand portfolio (Kleenex, Huggies, Cottonelle). Company has held up well in challenging consumer environment and is investing in margin-improving initiatives."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong cash flow generation ($5.1B trailing free cash flow) with a durable competitive moat from its global logistics network. Dividend has grown 17% annually over five years with low payout ratio (27% of FCF), indicating room for continued growth. Management expects earnings acceleration from operational consolidation."
+      },
+      {
+        "ticker": "O",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Quality REIT with 57 consecutive years of monthly dividend payments and 29 years of dividend increases. Offers attractive 5.5% yield with diversified portfolio of 15,500 properties. Strong occupancy near 99% and strategic investments in high-growth sectors like data centers position it well for future returns."
+      }
+    ]
+  },
+  {
+    "id": "7b74bcac120e99a51cf4e4c81654518b11cbce80f0ebdcce58bb43923762c8b0",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "DSCP Smart Fulfillment Reports Peak Fees Ignore 3PL Warehouse Zones",
+    "author": "Dscp Smart Fulfillment",
+    "published_utc": "2026-09-16T22:47:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3363619/0/en/dscp-smart-fulfillment-reports-peak-fees-ignore-3pl-warehouse-zones.html",
+    "tickers": [
+      "UPS",
+      "FDX"
+    ],
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/16/3363619/0/en/dscp-smart-fulfillment-reports-peak-fees-ignore-3pl-warehouse-zones.html",
+    "description": "UPS and FedEx have published 2026 holiday demand surcharge schedules that apply flat fees per package regardless of shipping distance, contradicting the assumption that closer inventory placement reduces peak season costs. Surcharges are instead triggered by package characteristics like size and weight rather than destination, with additional volume-based penalties for high-volume shippers.",
+    "keywords": [
+      "holiday demand surcharges",
+      "UPS",
+      "FedEx",
+      "e-commerce fulfillment",
+      "peak season logistics",
+      "package surcharges",
+      "third-party logistics",
+      "inventory placement",
+      "shipping costs"
+    ],
+    "insights": [
+      {
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "UPS's flat-rate demand surcharges that ignore shipping distance and escalate based on package characteristics create unexpected cost burdens for e-commerce brands, particularly during peak season when packaging configurations change."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "FedEx's similar surcharge structure with volume-based penalties and flat fees regardless of distance creates financial challenges for shippers and contradicts common cost-reduction strategies based on inventory placement."
+      }
+    ]
+  },
+  {
+    "id": "c20ef9c872158f76285b95f408df37dc099c5849e4bfe15a677f3123c7bf2188",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Arculus Introduces New Home Package Protection Ecosystem Though Kickstarter",
+    "author": "Unknown",
+    "published_utc": "2026-09-15T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/15/3362432/0/en/arculus-introduces-new-home-package-protection-ecosystem-though-kickstarter.html",
+    "tickers": [
+      "AQLS",
+      "FDX",
+      "UPS"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/0bd47781-2da0-40c6-9272-f10f7b2f867c",
+    "description": "Arculus launches the Arculus Boxx, a smart home delivery protection system designed to prevent package theft. The company is running a Kickstarter campaign with introductory pricing starting at $399, with manufacturing already funded and production underway. First units are expected to ship in early October 2026.",
+    "keywords": [
+      "package theft prevention",
+      "smart home delivery",
+      "Arculus Boxx",
+      "Kickstarter campaign",
+      "home security",
+      "e-commerce",
+      "delivery management",
+      "porch piracy"
+    ],
+    "insights": [
+      {
+        "ticker": "AQLS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The company is launching an innovative product addressing a significant market problem ($37 billion annual package theft losses). Manufacturing is already funded with production underway, demonstrating strong execution capability. The flexible pricing tiers and multiple protection plans show a well-thought-out go-to-market strategy. Early October shipping timeline before peak holiday season is strategically advantageous."
+      },
+      {
+        "ticker": "FDX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "FedEx is mentioned only as a delivery partner whose packages the Arculus app automatically recognizes and routes. No specific business impact or sentiment drivers are discussed."
+      },
+      {
+        "ticker": "UPS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "UPS is mentioned only as a delivery partner whose packages the Arculus app automatically recognizes and routes. No specific business impact or sentiment drivers are discussed."
+      }
+    ]
+  },
+  {
     "id": "2d06faf053aa14b2391072f53b76e487493e29fc3c75a5ba93db83fecb546d22",
     "publisher": {
       "name": "The Motley Fool",
@@ -48,172 +254,6 @@
         "ticker": "DG",
         "sentiment": "neutral",
         "sentiment_reasoning": "Dollar General is mentioned only as one of Realty Income's tenants. No direct analysis or sentiment regarding Dollar General itself is provided."
-      }
-    ]
-  },
-  {
-    "id": "029ee409d233a18c6aba4c2f1cd75461a30444774969c9bb10a903d26883dd32",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "National Civil Rights Museum Announces 35th Freedom Award Honorees",
-    "author": "National Civil Rights Museum",
-    "published_utc": "2026-09-03T17:24:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/03/3356196/0/en/national-civil-rights-museum-announces-35th-freedom-award-honorees.html",
-    "tickers": [
-      "FDX",
-      "NKE"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/09a04459-628e-4776-9705-be920292ebd0",
-    "description": "The National Civil Rights Museum announced the 2026 Freedom Award honorees, recognizing extraordinary contributions to civil and human rights. Recipients include attorney Fred D. Gray, Reverend Shavon Arline-Bradley, attorney Bakari Sellers, and WNBA champion Nneka Ogwumike. The 35th annual ceremony will be held October 1, 2026, at the Orpheum Theatre in Memphis, hosted by actor Larenz Tate and featuring a performance by gospel singer Tamela Mann.",
-    "keywords": [
-      "Freedom Award",
-      "civil rights",
-      "human rights",
-      "National Civil Rights Museum",
-      "Memphis",
-      "social justice",
-      "activism"
-    ],
-    "insights": [
-      {
-        "ticker": "FDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "FedEx is listed as the Presenting Sponsor of the 35th Freedom Award ceremony, demonstrating corporate commitment to civil and human rights initiatives and community engagement."
-      },
-      {
-        "ticker": "NKE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nike is listed as a Signature Sponsor of the Freedom Award ceremony, showing support for civil rights causes and alignment with social justice values."
-      }
-    ]
-  },
-  {
-    "id": "1ac07e86f4b62cd0c661890ee7875841bc5ebec3e32418eca7c8698f678cb003",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Under-the-Radar Dividend Stock Yields 6.2%. Is It a Buy?",
-    "author": "Thomas Niel",
-    "published_utc": "2026-09-01T13:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/01/under-radar-dividend-stock-yield-buy-ups/?source=iedfolrf0000001",
-    "tickers": [
-      "UPS",
-      "FDX",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885380%2Fpackage-delivery-amazon-ups-fedex-1200x800-5b2df79-1.jpg&w=1200&op=resize",
-    "description": "UPS offers a high 6.2% dividend yield but faces sustainability concerns with a 91% forward payout ratio. While the company's turnaround efforts are progressing and analysts forecast 7% average earnings growth through 2029, dividend cut fears persist. The stock could appreciate to $140+ if valuations converge with competitors, making it potentially attractive for income investors willing to wait for the turnaround.",
-    "keywords": [
-      "dividend yield",
-      "payout ratio",
-      "turnaround",
-      "earnings growth",
-      "valuation",
-      "parcel delivery",
-      "Amazon orders"
-    ],
-    "insights": [
-      {
-        "ticker": "UPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite near-term dividend sustainability concerns, the article presents a constructive case: high 6.2% yield, ongoing profitable turnaround with 7% expected earnings growth, CFO commitment to maintain current payout, and significant upside potential (stock could reach $140+ from current $105) if valuation converges with FedEx. The turnaround narrative and yield opportunity outweigh the payout ratio concerns."
-      },
-      {
-        "ticker": "FDX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a valuation comparison point, trading at 16x forward earnings versus UPS's 14.5x. No fundamental analysis or investment recommendation provided."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced contextually regarding UPS's strategic shift away from low-margin Amazon orders toward higher-margin business customers. No direct investment sentiment expressed."
-      }
-    ]
-  },
-  {
-    "id": "227bbe4d0eff3afe1a8cd590ffc821ef6105b16b97912e26c084b2977a680443",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in FedEx (FDX) Based on Wall Street's Bullish Views?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-08-27T13:30:04Z",
-    "article_url": "https://www.zacks.com/stock/news/2980896/is-it-worth-investing-in-fedex-fdx-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2980896",
-    "tickers": [
-      "FDX"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default155.jpg",
-    "description": "While Wall Street analysts maintain a bullish average brokerage recommendation (ABR) of 1.71 for FedEx with 62.1% Strong Buy ratings, the article cautions that brokerage recommendations often have a positive bias due to institutional vested interests. The Zacks Rank system, which relies on earnings estimate revisions, rates FedEx as a Hold (Rank #3), suggesting investors should be cautious despite the bullish Wall Street consensus. FedEx's consensus earnings estimate has remained unchanged at $17.6 for the current year.",
-    "keywords": [
-      "FedEx",
-      "brokerage recommendations",
-      "analyst ratings",
-      "Zacks Rank",
-      "earnings estimates",
-      "stock valuation",
-      "investment analysis"
-    ],
-    "insights": [
-      {
-        "ticker": "FDX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Despite Wall Street's bullish ABR of 1.71 (Strong Buy equivalent) with 62.1% Strong Buy ratings, the Zacks Rank assigns FedEx a #3 (Hold) rating based on unchanged earnings estimates. The article advises caution, noting that brokerage recommendations have a positive bias and may not reliably predict stock price movements, while earnings estimate revisions (core to Zacks Rank) are more predictive of near-term performance."
-      }
-    ]
-  },
-  {
-    "id": "d754b2eeb7e44149cfcbd008831ad7139c721c43a815d5e6b4ac73c6cb3744b1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "UPS Stopped Carrying 2 Million Amazon Packages a Day. Amazon Still Has to Move Them.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-24T00:14:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/23/ups-stopped-carrying-2-million-amazon-packages-a-day-amazon-still-has-to-move-them/?source=iedfolrf0000001",
-    "tickers": [
-      "UPS",
-      "AMZN",
-      "FDX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F251423ff48196125cf66a18810d2f1c2ca99e710-6720x4480.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "UPS completed its 18-month reduction of Amazon volume, eliminating 2 million packages daily and $4.5 billion in expenses. Amazon absorbed most of this volume into its own delivery network, which now handles 6.7 billion U.S. parcels annually\u2014making it the country's largest parcel carrier. However, Amazon's shipping costs surged 19% to $27.9 billion in Q2, outpacing its 15% online sales growth, reflecting the significant investment required to maintain its delivery infrastructure and fast shipping promises.",
-    "keywords": [
-      "package delivery",
-      "logistics",
-      "supply chain",
-      "e-commerce shipping",
-      "parcel carriers",
-      "delivery network",
-      "shipping costs"
-    ],
-    "insights": [
-      {
-        "ticker": "UPS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "UPS successfully completed its strategic shift away from lower-margin Amazon volume. The company achieved 6% revenue growth with 9.3% increase in revenue per piece, expanded operating margins to 8% (up 1 percentage point), and raised full-year revenue outlook to $91.2 billion. The elimination of unprofitable volume improved overall profitability."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Amazon absorbed 2 million daily packages from UPS, resulting in worldwide shipping costs of $27.9 billion in Q2 (up 19% YoY), which is growing faster than its 15% online sales growth. The company is investing heavily in delivery infrastructure, but shipping costs are outpacing revenue growth, creating a profitability headwind."
-      },
-      {
-        "ticker": "FDX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "FedEx was the only traditional carrier whose volume grew in 2025, suggesting it may have benefited from UPS's Amazon volume reduction. However, the article provides limited specific information about FedEx's performance or strategic position relative to these changes."
       }
     ]
   }
