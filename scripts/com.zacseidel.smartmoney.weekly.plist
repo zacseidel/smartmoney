@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Weekly smartmoney refresh. Install with:
+    cp scripts/com.zacseidel.smartmoney.weekly.plist ~/Library/LaunchAgents/
+    launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.zacseidel.smartmoney.weekly.plist
+
+  Fires Wednesday (Weekday 3) at 02:00 local time, with catch-up firings at 07:00, 12:00
+  and 18:00. weekly_update.sh skips any firing where the Mac is on battery or a run has
+  already succeeded this week, so the extra firings only matter when 02:00 was missed.
+  launchd never runs two copies of a label at once, so a long run cannot overlap itself.
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.zacseidel.smartmoney.weekly</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/zacseidel/Projects/smartmoney/scripts/weekly_update.sh</string>
+  </array>
+
+  <key>StartCalendarInterval</key>
+  <array>
+    <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>2</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>7</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>12</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>3</integer><key>Hour</key><integer>18</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+
+  <key>RunAtLoad</key>
+  <false/>
+
+  <!-- The script tees its own timestamped log; these catch anything written before that. -->
+  <key>StandardOutPath</key>
+  <string>/Users/zacseidel/Library/Logs/smartmoney/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/zacseidel/Library/Logs/smartmoney/launchd.err.log</string>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/zacseidel/Projects/smartmoney</string>
+</dict>
+</plist>

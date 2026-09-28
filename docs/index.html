@@ -23,10 +23,15 @@
  .lead{background:#f0f7ff;border:1px solid #cfe4ff;border-radius:8px;padding:12px 16px;font-size:14px;margin:12px 0;}
  .bar{display:inline-block;height:9px;background:#1a7f37;border-radius:2px;vertical-align:middle;margin-left:6px;}
  footer{color:var(--muted);font-size:12px;margin-top:40px;border-top:1px solid var(--line);padding-top:14px;}
+ .stamp{display:inline-block;font-size:12px;font-weight:600;padding:3px 10px;border-radius:12px;
+   background:#dafbe1;color:var(--green);border:1px solid #aceebb;margin-top:8px;}
+ .stamp.stale{background:#fff8c5;color:#7d4e00;border-color:#eed888;}
+ .stamp.old{background:#ffebe9;color:var(--red);border-color:#ffcecb;}
 </style></head><body>
 <header class="site"><div class="wrap">
   <h1>💡 Smart Money Dashboard</h1>
-  <div class="sub">Ranked by share of <em>total alpha produced</em> — where Congress and top hedge funds actually made their edge. Updated 2026-09-23 00:15 UTC · latest 13F filing wave <b>2026Q3</b></div>
+  <div class="sub">Ranked by share of <em>total alpha produced</em> — where Congress and top hedge funds actually made their edge. Latest 13F filing wave <b>2026Q3</b>.</div>
+  <div><span class="stamp" id="updated" data-updated="2026-09-24T23:17:33Z">Last updated 2026-09-24 23:17 UTC</span></div>
   <nav class="top"><a class="here" href="index.html">💡 Dashboard</a><a href="congress.html">🏛️ Congress Trades</a><a href="hedge/index.html">📈 Hedge Fund 13Fs</a><a href="decisions.html">🎯 Decisions</a></nav>
 </div></header>
 <div class="wrap">
@@ -466,4 +471,18 @@
   out-performing members. Buying now: new 13F positions of the top ranked funds that congressional
   out-performers also bought recently. Congress: House &amp; Senate disclosures · Hedge: SEC EDGAR 13F ·
   Prices: Polygon.io · benchmark SPY. Educational use only — not investment advice.</footer>
-</div></body></html>
+</div>
+<script>
+(function(){
+  var el = document.getElementById("updated");
+  var t = el && new Date(el.dataset.updated);
+  if (!t || isNaN(t)) return;                       // keep the server-rendered UTC text
+  var days = Math.floor((Date.now() - t.getTime()) / 86400000);
+  var when = t.toLocaleDateString(undefined, {weekday:"short", month:"short", day:"numeric", year:"numeric"});
+  var ago  = days <= 0 ? "today" : days === 1 ? "yesterday" : days + " days ago";
+  el.textContent = "Last updated " + when + " · " + ago;
+  // The refresh runs weekly, so >1 week without one means a run was missed.
+  el.className = "stamp" + (days >= 15 ? " old" : days >= 8 ? " stale" : "");
+})();
+</script>
+</body></html>
