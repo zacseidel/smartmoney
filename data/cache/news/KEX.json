@@ -1,5 +1,38 @@
 [
   {
+    "id": "01951889c1825819abb7ee3b92bd1e94be6e8dc3c6460b5cb980e3dc2dfe613d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Kirby Corporation Announces Date for 2026 Third Quarter Earnings Release and Earnings Webcast",
+    "author": "Na",
+    "published_utc": "2026-09-28T21:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3370295/0/en/kirby-corporation-announces-date-for-2026-third-quarter-earnings-release-and-earnings-webcast.html",
+    "tickers": [
+      "KEX"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/f977cecf-507a-4878-bfd9-0cff8878d29f",
+    "description": "Kirby Corporation announced it will release its 2026 third quarter results on October 28, 2026, followed by an earnings conference call webcast. The company reported second quarter 2026 earnings per share of $1.67, matching the prior year but up 11% sequentially, with marine transportation revenues increasing 9% year-over-year as market fundamentals strengthened.",
+    "keywords": [
+      "earnings announcement",
+      "third quarter 2026",
+      "marine transportation",
+      "tank barge operator",
+      "revenue growth",
+      "earnings per share"
+    ],
+    "insights": [
+      {
+        "ticker": "KEX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The company demonstrated sequential earnings growth (11% quarter-over-quarter) and year-over-year revenue increases in marine transportation (9%), indicating strengthening market fundamentals and operational performance. Flat year-over-year EPS is neutral, but sequential improvement and revenue growth suggest positive momentum."
+      }
+    ]
+  },
+  {
     "id": "9ff08f3fefa26be442896ebbb2f8490a3c10cbb1d1ed131856070528e2e26526",
     "publisher": {
       "name": "The Motley Fool",
@@ -178,38 +211,6 @@
         "ticker": "VOO",
         "sentiment": "positive",
         "sentiment_reasoning": "Broad market exposure benefiting from the Dow Theory buy signal, which historically precedes strong forward returns for the S&P 500."
-      }
-    ]
-  },
-  {
-    "id": "ef8703ac3fbb5a00395d22ec1f4a5d14b925001c963a70dcdb86bc9c10c489e9",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Kirby (KEX) Q3 2025 Earnings Call Transcript",
-    "author": "Motley Fool Transcribing",
-    "published_utc": "2025-10-30T13:36:16Z",
-    "article_url": "https://www.fool.com/earnings/call-transcripts/2025/10/30/kirby-kex-q3-2025-earnings-call-transcript/?source=iedfolrf0000001",
-    "tickers": [
-      "KEX"
-    ],
-    "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg?w=800&h=450",
-    "description": "Kirby Corporation reported a strong Q3 2025, highlighting record earnings potential driven by marine transportation and power generation segments. The company expects robust free cash flow, maintains a strong balance sheet, and plans to continue share repurchases.",
-    "keywords": [
-      "earnings",
-      "marine transportation",
-      "power generation",
-      "share repurchases",
-      "inland barges"
-    ],
-    "insights": [
-      {
-        "ticker": "KEX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record backlog in power generation, improving inland barge utilization from 80% to 87.6%, strong cash flow projections of $620-$720 million, and management's confidence in long-term growth"
       }
     ]
   }

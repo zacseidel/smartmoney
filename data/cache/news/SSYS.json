@@ -1,5 +1,59 @@
 [
   {
+    "id": "7c903a56efc6fa6447f761e309fd38f8216782f052caa8772791ff5af846f3f9",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Correction: Bioprinting Market to Reach $5.1 Billion by 2030, Driven by Regenerative Medicine Demand and AI Integration",
+    "author": "Na",
+    "published_utc": "2026-08-27T11:51:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3351927/0/en/correction-bioprinting-market-to-reach-5-1-billion-by-2030-driven-by-regenerative-medicine-demand-and-ai-integration.html",
+    "tickers": [
+      "DDD",
+      "MKKGY",
+      "SSYS",
+      "BCCOY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d0c282b6-d496-45a8-a941-33fa5c3e824c",
+    "description": "The global bioprinting market is projected to grow from $2.1 billion in 2024 to $5.1 billion by 2030 at a 16.1% CAGR, driven by regenerative medicine demand, pharmaceutical adoption for drug discovery, reduced animal testing, and AI integration. North America leads with 38% market share, while emerging technologies like 4D bioprinting and organ-on-chip devices expand market boundaries.",
+    "keywords": [
+      "bioprinting",
+      "regenerative medicine",
+      "tissue engineering",
+      "pharmaceutical drug discovery",
+      "AI integration",
+      "organ-on-chip",
+      "bioinks",
+      "market growth",
+      "animal testing reduction"
+    ],
+    "insights": [
+      {
+        "ticker": "DDD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive player in the bioprinting landscape but without specific differentiation or strategic advantages highlighted in the article."
+      },
+      {
+        "ticker": "MKKGY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as an established player best positioned to capture disproportionate value due to proprietary bioink portfolios and established pharmaceutical partnerships."
+      },
+      {
+        "ticker": "SSYS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among competitive players but without specific differentiation or strategic advantages highlighted in the article."
+      },
+      {
+        "ticker": "BCCOY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as an established market leader with proprietary bioink portfolios and AI-integrated hardware platforms, positioned to capture disproportionate value in the high-growth bioprinting market."
+      }
+    ]
+  },
+  {
     "id": "f1fc278d1db9d47bb3c50dc5b5976525051f4cb2ffa3d34e5e7357116d2b5caa",
     "publisher": {
       "name": "Benzinga",
@@ -181,50 +235,6 @@
         "ticker": "SSYS",
         "sentiment": "positive",
         "sentiment_reasoning": "Company exceeded revenue and earnings expectations, showed improved net income, maintained annual guidance, and demonstrated strong customer engagement across manufacturing verticals"
-      }
-    ]
-  },
-  {
-    "id": "d9a5e033777f08369e160a26d6102a862b629268723a15efb52036222851424f",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Saudi Arabia 3D Printing Medical Devices Market Review 2018-2024 and Forecast 2025-2034 Featuring Philips, GE Healthcare, Nikon SLM Solutions, and Stratasys",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2025-10-15T08:41:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2025/10/15/3166854/28124/en/Saudi-Arabia-3D-Printing-Medical-Devices-Market-Review-2018-2024-and-Forecast-2025-2034-Featuring-Philips-GE-Healthcare-Nikon-SLM-Solutions-and-Stratasys.html",
-    "tickers": [
-      "PHG",
-      "GEHC",
-      "SSYS"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "Saudi Arabia's 3D printing medical devices market is projected to grow from $52.09 million in 2024 to $208.91 million by 2034, driven by government support, healthcare digitization, and demand for personalized medical solutions.",
-    "keywords": [
-      "3D printing",
-      "medical devices",
-      "Saudi Arabia",
-      "Vision 2030",
-      "healthcare innovation"
-    ],
-    "insights": [
-      {
-        "ticker": "PHG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a key player in advancing healthcare precision through 3D printing technologies"
-      },
-      {
-        "ticker": "GEHC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recognized as a leading company driving innovation in medical device 3D printing market"
-      },
-      {
-        "ticker": "SSYS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among key market players without specific performance indicators"
       }
     ]
   }

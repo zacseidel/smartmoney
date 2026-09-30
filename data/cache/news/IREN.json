@@ -1,296 +1,260 @@
 [
   {
-    "id": "ded5b8f77b54a1d39a06183311286766c8eeb9d6b23b23a0688e9d7c99db9355",
+    "id": "778d62cc86b1a5f6b5d97cac01401e036ca341bc9e14eba7d02891c0637490a2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Big Takeaways From Microsoft's Earnings",
-    "author": "Marc Guberti",
-    "published_utc": "2026-08-03T08:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/03/3-big-takeaways-from-microsofts-earnings/?source=iedfolrf0000001",
+    "title": "2 Data Center Stocks That Could Help Make You a Fortune",
+    "author": "John Ballard",
+    "published_utc": "2026-09-26T10:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/2-data-center-stocks-make-fortune/?source=iedfolrf0000001",
     "tickers": [
-      "MSFT",
-      "AMD",
-      "INTC",
-      "NVDA",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
       "IREN",
-      "NBIS"
+      "VRT",
+      "MSFT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881322%2Fcloud-computing-microchip-technology-1200x750-7d59391.jpg&w=1200&op=resize",
-    "description": "Microsoft reported strong fiscal 2026 Q4 earnings with 18% revenue growth driven by cloud computing, causing shares to surge 16%. The company expects positive free cash flow in fiscal 2027 despite high AI infrastructure investments. Microsoft emphasized that CPUs are equally important as GPUs for agentic AI, signaling a shift in compute capacity ratios and benefiting CPU manufacturers.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888224%2Fgrowth-investing-chart.jpg&w=1200&op=resize",
+    "description": "As hyperscalers invest heavily in data center infrastructure to support AI services, with Morgan Stanley projecting $1.4 trillion in capital spending by 2028, two data center stocks offer attractive valuations: Iren, which is building an AI cloud platform with vertically integrated capabilities and targeting $4 billion revenue by 2026, and Vertiv, which supplies power management and cooling systems to data centers with projected 20-22% annual revenue growth through 2030.",
     "keywords": [
-      "Microsoft earnings",
-      "cloud computing",
-      "AI infrastructure",
-      "free cash flow",
-      "compute capacity",
-      "CPUs vs GPUs",
-      "agentic AI",
+      "data centers",
+      "artificial intelligence",
+      "capital expenditure",
+      "cloud infrastructure",
+      "liquid cooling",
       "hyperscalers"
     ],
     "insights": [
       {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is positioned as a leading AI cloud infrastructure provider with vertically integrated assets (land, power, construction), strong revenue growth trajectory ($1B to $4B by 2026), validated execution capability through Microsoft delivery, and analyst projections showing $10.7B adjusted operating profit by 2029 against $19B enterprise value, suggesting undervaluation."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company benefits from increasing power demands in data centers with 24% YoY revenue growth, 22%+ operating margins, and management raising long-term guidance to 20-22% annual revenue growth through 2030. Wall Street expects 38% annualized earnings growth, and the company's end-to-end product portfolio deepens customer relationships."
+      },
+      {
         "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q4 earnings with 18% YoY revenue growth, Azure surpassing $100B in revenue, stock surged 16%, and company achieving positive free cash flow in 2027 demonstrates sustainable AI investment strategy without excessive debt."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Growing importance of CPUs relative to GPUs in agentic AI workloads, with enterprise agentic AI market projected to grow at 46.2% CAGR, positioning AMD as a beneficiary of this shift."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "As a major CPU manufacturer, Intel stands to benefit from the increasing CPU-to-GPU ratio in AI infrastructure, with enterprise agentic AI market expected to grow significantly."
-      },
-      {
-        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While GPUs remain in high demand and Nvidia maintains largest GPU market share, the article highlights a shift toward higher CPU ratios in AI workloads, potentially moderating GPU demand growth."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler making significant AI infrastructure investments, but no specific positive or negative earnings impact discussed in the article."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler making significant AI infrastructure investments, but no specific positive or negative earnings impact discussed in the article."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler making significant AI infrastructure investments, but no specific positive or negative earnings impact discussed in the article."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler making significant AI infrastructure investments, but no specific positive or negative earnings impact discussed in the article."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler making significant AI infrastructure investments, but no specific positive or negative earnings impact discussed in the article."
-      },
-      {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed multi-year compute capacity deals with Microsoft, positioning it as a beneficiary of hyperscaler infrastructure investments."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed multi-year compute capacity deals with Microsoft, positioning it as a beneficiary of hyperscaler infrastructure investments."
+        "sentiment_reasoning": "Mentioned as a customer of Iren with a $9.7 billion five-year data center deal, indicating strong AI infrastructure investment but not the primary focus of the article."
       }
     ]
   },
   {
-    "id": "7506312b87dd7e31473014605fee4aac65fca783dbb1b5d842e2235305db5725",
+    "id": "103cc2cbe40d8fe774d15f1a79f924d57dff59c53c14f1541ee718e9f0d0fe92",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better AI Infrastructure Stock: IREN or Nebius?",
-    "author": "Rick Orford",
-    "published_utc": "2026-07-25T15:32:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/better-ai-infrastructure-stock-iren-or-nebius/?source=iedfolrf0000001",
+    "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-24T18:02:20Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "IREN",
-      "NBIS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880573%2F937-iren-v-nbis.png&w=1200&op=resize",
-    "description": "The article compares two AI infrastructure stocks: IREN and Nebius. IREN offers more secured power capacity while Nebius has secured valuable hyperscaler contracts. The analysis examines whether IREN's upside potential justifies its dilution risk and whether Nebius's execution advantage warrants its higher valuation.",
-    "keywords": [
-      "AI infrastructure",
-      "power capacity",
-      "hyperscaler contracts",
-      "valuation",
-      "dilution risk",
-      "execution"
-    ],
-    "insights": [
-      {
-        "ticker": "IREN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents IREN as having a competitive advantage in secured power capacity, but raises concerns about dilution risk that could offset potential upside gains."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Nebius is highlighted for securing valuable hyperscaler contracts and having an execution advantage, but the article questions whether its demanding valuation is justified by these strengths."
-      }
-    ]
-  },
-  {
-    "id": "e5a70b6d1a19dc93f16d9205a4d5a862ec624aa6dbdc91bfeaad55a669dc969e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade",
-    "author": "Will Healy",
-    "published_utc": "2026-07-25T09:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/2-millionaire-maker-ai-stocks-to-hold-for-the-next/?source=iedfolrf0000001",
-    "tickers": [
-      "CRWV",
-      "IREN",
-      "NVDA",
-      "PLTR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879477%2Fsitting-in-a-bathtub-as-it-rains-cash.jpg&w=1200&op=resize",
-    "description": "The article identifies CoreWeave and Iren as potential multibagger AI stocks in the emerging neocloud sector. CoreWeave leads with a $99 billion backlog and Nvidia partnership but faces high capex spending and $25 billion debt. Iren, a Bitcoin miner transitioning to neocloud, owns its facilities near clean energy sources with lower debt but lacks Nvidia partnership. Both stocks are positioned for significant growth with forecasted revenue increases of 147% and 302% respectively, though they carry execution risks.",
-    "keywords": [
-      "neocloud",
-      "AI infrastructure",
-      "multibagger stocks",
-      "capital expenditure",
-      "revenue growth",
-      "data centers",
-      "clean energy"
-    ],
-    "insights": [
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong $99 billion backlog, Nvidia partnership providing competitive advantage, 46% industry CAGR forecast, attractive P/S ratio of 6, and positioned for 147% revenue growth in 2026. However, risks include massive capex spending ($17 billion), $25 billion debt burden, and current net losses."
-      },
-      {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Transitioning from Bitcoin mining to neocloud with owned facilities near clean energy sources, lower debt ($4 billion), and strong growth forecasts (44% fiscal year increase, 302% in fiscal 2027). Valuation attractive at $14 billion market cap with forward P/S of 5. Disadvantage: lacks Nvidia partnership and is not a first-mover."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a successful early investment and as a strategic partner for CoreWeave, but not the focus of the article. Included for context regarding AI sector performance."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as an example of early AI investment success but not analyzed in the article."
-      }
-    ]
-  },
-  {
-    "id": "dd96a919fc294b7a9ad67590698a35f090f3a4fc5053edb6b1ced3703fe350dd",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "How the Potential $10 Billion Compute Lease Deal Between Meta Platforms and Anthropic Affects Neocloud Stocks",
-    "author": "Marc Guberti",
-    "published_utc": "2026-07-22T07:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/22/how-the-potential-10-billion-compute-lease-deal-be/?source=iedfolrf0000001",
-    "tickers": [
-      "META",
-      "NBIS",
-      "HUT",
-      "IREN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879790%2Fgettyimages-1669453534-1200x637-9df96c7.jpg&w=1200&op=resize",
-    "description": "Meta Platforms is reportedly in early-stage talks with Anthropic for a $10 billion compute lease deal over 2 years, raising concerns among neocloud investors about potential competition. However, Meta's own massive compute needs and the strong demand from AI developers suggest neoclouds like Nebius, CoreWeave, and Iren can diversify their customer bases and secure long-term contracts ahead of potential hyperscaler competition.",
-    "keywords": [
-      "AI compute infrastructure",
-      "hyperscalers",
-      "neocloud providers",
-      "data centers",
-      "compute leasing",
-      "AI demand"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Meta's entry into cloud leasing presents both opportunity and uncertainty. While it signals confidence in AI infrastructure, the company's own massive compute needs (building tens of gigawatts this decade) mean it may not have significant excess capacity to sell for several years, limiting near-term competitive threat to neoclouds."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite concerns about Meta competition, Nebius has a lucrative $27 billion five-year contract with Meta and can diversify its customer base. Strong AI developer demand provides multiple revenue opportunities beyond hyperscalers."
-      },
-      {
-        "ticker": "HUT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recently expanded a major contract worth $9.8 billion over 15 years with a high-investment-grade tenant, demonstrating strong demand for compute capacity and ability to secure long-term, profitable agreements."
-      },
-      {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Successfully diversified beyond hyperscalers by securing $2.8 billion in new contracts with leading AI developers. Raised 2026 revenue targets to over $4 billion, showing resilience and growing demand independent of hyperscaler dependency."
-      }
-    ]
-  },
-  {
-    "id": "fb59dca0ce4e2cbff628c7b2b521dcae52a9343c5f1c995c7b0f1ef9f42a2143",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Why Penguin Solutions May Be the Smartest AI Infrastructure Stock",
-    "author": "Thomas Hughes",
-    "published_utc": "2026-07-09T16:38:00Z",
-    "article_url": "https://www.investing.com/analysis/why-penguin-solutions-may-be-the-smartest-ai-infrastructure-stock-200683654",
-    "tickers": [
-      "PENG",
-      "NBIS",
-      "IREN",
       "APLD",
+      "IREN",
+      "CRWV",
+      "MSFT",
       "NVDA"
     ],
-    "amp_url": "https://m.investing.com/analysis/why-penguin-solutions-may-be-the-smartest-ai-infrastructure-stock-200683654?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Penguin Solutions is positioned as a lower-risk AI infrastructure play compared to competitors like Nebius, Iren, and Applied Digital. The company reported Q3 fiscal 2026 revenue growth of 48% to $479 million, beating consensus by $55 million, with strong margin expansion and record operating income. Guidance was raised significantly with full-year revenue growth now expected at 22%. Strong institutional ownership (97%) and bullish analyst sentiment support the stock, though valuation at 35x earnings is elevated.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two AI infrastructure companies: Applied Digital (APLD) and IREN (IREN). Applied Digital shows stronger margins (22.38% vs 9.84%) and lower P/S ratio (13.1x vs 23.0x) but faces customer concentration risk with CoreWeave. IREN has secured major contracts with Microsoft ($9.7B) and Nvidia ($3.4B) and is pivoting from crypto mining to AI cloud services, though it reported a massive net loss of $702.6M. The author recommends IREN for patient investors due to its stronger contracted revenue base and blue-chip customer relationships, despite both companies currently losing money.",
     "keywords": [
       "AI infrastructure",
-      "GPU-as-a-Service",
-      "data center operations",
-      "HPC capacity",
-      "margin expansion",
-      "institutional ownership"
+      "data centers",
+      "high-performance computing",
+      "customer concentration",
+      "cash flow",
+      "valuation",
+      "growth trajectory"
     ],
     "insights": [
-      {
-        "ticker": "PENG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q3 earnings beat with 48% YoY revenue growth, record operating income, improved guidance, 97% institutional ownership, and bullish analyst ratings (Moderate Buy consensus). Business model offers lower risk than competitors by focusing on services rather than owning infrastructure."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in GPU-as-a-Service space but characterized as taking on 'significant risk' by owning GPUs and data centers, contrasting unfavorably with Penguin Solutions' asset-light model."
-      },
-      {
-        "ticker": "IREN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the neocloud/GPU-as-a-Service sector but similarly noted as taking on significant infrastructure ownership risk compared to Penguin Solutions."
-      },
       {
         "ticker": "APLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitor in AI infrastructure but characterized as bearing significant risk through ownership of GPUs and data center infrastructure."
+        "sentiment_reasoning": "Company shows strong revenue growth (183.7% YoY) and superior gross margins (22.38%), but faces significant customer concentration risk with CoreWeave, high debt-to-equity ratio (2.9x), and substantial net losses (-39.9% margin). Positive operational metrics offset by structural risks."
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite massive net losses (-99.4% margin) and high debt ($7.98B), IREN has secured substantial long-term contracts with Microsoft ($9.7B) and Nvidia ($3.4B), providing revenue visibility. Nvidia's certification as reference-quality provider and successful pivot from crypto mining to AI infrastructure are significant positives. Author's recommendation favors this company."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Applied Digital's primary customer with full contract of flagship Polaris Forge 1 site, representing both revenue opportunity and concentration risk for APLD."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as major customer of IREN with $9.7B five-year contract, indicating confidence in IREN's infrastructure capabilities."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a comparative benchmark for Penguin Solutions' impressive Q3 results relative to company size; no direct sentiment expressed."
+        "sentiment_reasoning": "Mentioned as IREN customer ($3.4B contract) and hardware supplier to both companies; certified IREN as reference-quality cloud provider, validating operational competence."
+      }
+    ]
+  },
+  {
+    "id": "63e098de9f2932856dd0e7aec7d472a60524b86be620923959c24b5fcba400c5",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off?",
+    "author": "Na",
+    "published_utc": "2026-09-22T14:12:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993740/iren-broadens-its-ai-customer-base-can-diversification-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-2993740",
+    "tickers": [
+      "IREN",
+      "CRWV",
+      "NBIS",
+      "MSFT",
+      "NVDA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/08/133038.webp",
+    "description": "IREN Limited is diversifying its AI cloud customer base away from heavy dependence on Microsoft and NVIDIA by signing $2.8 billion in contracts with Prometheus, Perplexity, and Together AI in July 2026. The company is experiencing stronger contract economics with three-year pricing up 125% and five-year pricing up 70%, though it faces risks from early-stage customers and shorter contracts. With 2026 capacity largely sold out, IREN is targeting broader customer expansion for 2027-2028.",
+    "keywords": [
+      "AI cloud services",
+      "customer diversification",
+      "contract pricing",
+      "capacity expansion",
+      "concentration risk"
+    ],
+    "insights": [
+      {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company signed significant $2.8B in new contracts, achieved substantial pricing increases (125% for 3-year, 70% for 5-year contracts), and is successfully diversifying customer base away from concentration risk. However, sentiment is tempered by downward earnings revisions and premium valuation."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 2026 performance with $2.58B in revenues and $104B revenue backlog. Demonstrates significant scale with 1.5 GW active power and 3.7 GW contracted power, positioning it well in the competitive AI cloud market."
+      },
+      {
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid Q2 2026 results with $582.3M group revenues and $3B ARR. Closed four major AI-cloud deals averaging over $1B each and raised contracted-power target to 5 GW, indicating strong growth momentum."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major customer representing substantial portion of IREN's contracted revenues, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned alongside Microsoft as a major customer of IREN, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+      }
+    ]
+  },
+  {
+    "id": "023fed8c52bfefaefe0dd3678ca223a86617baac6c81d6cac1d2521a7874f501",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "NVIDIA Expands AI Infrastructure Capacity in Partnership With Australia\u2019s Data Center Ecosystem",
+    "author": "Nvidia",
+    "published_utc": "2026-09-10T00:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/10/3359139/0/en/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australia-s-data-center-ecosystem.html",
+    "tickers": [
+      "NVDA",
+      "IREN",
+      "TEAM"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/ad3b9553-6933-40b1-adfd-2ed199cd141c",
+    "description": "NVIDIA announced a major expansion of AI infrastructure in Australia through partnerships with local cloud providers and infrastructure companies including Firmus, Sharon AI, IREN, Megaport, ResetData, CDC, NEXTDC, and AirTrunk. The collaboration aims to deliver up to 2 gigawatts of capacity by 2027 using NVIDIA's DSX platform to support growing AI demand from startups, enterprises, and research organizations across the region.",
+    "keywords": [
+      "AI infrastructure",
+      "data centers",
+      "accelerated computing",
+      "NVIDIA DSX",
+      "Australia",
+      "AI factories",
+      "GPU deployment",
+      "cloud computing"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NVIDIA is expanding its AI infrastructure footprint in Australia through strategic partnerships, increasing addressable market for its DSX platform, accelerated computing products, and Nemotron models. This represents significant revenue growth opportunities and strengthens NVIDIA's position in the global AI infrastructure market."
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IREN is leveraging its vertically integrated platform combined with NVIDIA's DSX architecture to deploy large-scale AI factories, including an 800-megawatt Bundey campus in South Australia."
+      },
+      {
+        "ticker": "TEAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Atlassian is leveraging NVIDIA's accelerated computing infrastructure and Nemotron open models to advance its Rovo AI product with semantic search capabilities, benefiting from expanded local AI infrastructure."
+      }
+    ]
+  },
+  {
+    "id": "d180cf089eb5a26c83f63e655049903489051c7299469bb13851197c5ad8989e",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "APLD Slides 36% in 3 Months: Should Investors Exit or Hold the Stock?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-07T13:29:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985686/apld-slides-36-in-3-months-should-investors-exit-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985686",
+    "tickers": [
+      "APLD",
+      "IREN",
+      "MARA",
+      "RIOT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/55/148598.webp",
+    "description": "Applied Digital (APLD) has declined 35.6% over three months, significantly underperforming peers and the broader market. The company faces heavy capital requirements ($2.87B spent in fiscal 2026), rising leverage ($5.31B in debt obligations), and delayed revenue realization as most contracted capacity won't become operational until 2027-2028. Earnings estimates have been revised downward, and the stock trades at a premium valuation relative to peers. Zacks recommends selling due to unfavorable risk-reward dynamics.",
+    "keywords": [
+      "AI data center infrastructure",
+      "capital intensity",
+      "leverage and debt",
+      "revenue realization lag",
+      "shareholder dilution",
+      "earnings estimate cuts",
+      "valuation premium",
+      "contracted revenue backlog"
+    ],
+    "insights": [
+      {
+        "ticker": "APLD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 35.6% in three months, underperforming sector and peers. Company faces significant near-term capital burden ($2.87B capex), high debt obligations ($5.31B), delayed revenue realization (most capacity operational in 2027-2028), downward earnings revisions, and premium valuation (P/B ratio 4.46X vs. industry 3.06X). Zacks assigns Rank #5 (Strong Sell) rating."
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 24.5% three-month decline, which is less severe than APLD's 35.6% decline. Used as a benchmark for relative performance but no independent analysis provided."
+      },
+      {
+        "ticker": "MARA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 17.9% three-month decline, outperforming APLD. Used as a benchmark for relative performance but no independent analysis provided."
+      },
+      {
+        "ticker": "RIOT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with a 15.2% three-month decline, outperforming APLD. Used as a benchmark for relative performance but no independent analysis provided."
       }
     ]
   }

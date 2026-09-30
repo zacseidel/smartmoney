@@ -1,251 +1,290 @@
 [
   {
-    "id": "6b96074388dc6b71bb816f2b5f5739e83231efa93ff86e1727b6215348fefcaf",
+    "id": "4aeeb115258772c2a9cdbe19fdbb0368219f1f8361cd64ac50831bc101dee2b2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Fewer Than 30 Companies in the S&P 500 Have Raised Their Dividend for 50 Straight Years. This Financial Stock Is One of Them.",
-    "author": "Courtney Carlsen",
-    "published_utc": "2026-09-04T16:45:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/04/fewer-than-30-companies-in-the-sp-500-have-raised/?source=iedfolrf0000001",
+    "title": "If I Could Only Buy and Hold 1 ETF for the Next 20 Years, Here's Where I'd Invest",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-23T19:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/if-i-could-only-buy-and-hold-1-etf-for-the-next-20/?source=iedfolrf0000001",
     "tickers": [
-      "SPGI",
-      "MCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885480%2Fgettyimages-1324119709.jpg&w=1200&op=resize",
-    "description": "S&P Global is highlighted as one of fewer than 30 S&P 500 companies that have raised dividends for 50+ consecutive years, achieving 54 years of increases. The company has delivered over 15% annualized returns over three decades, outperforming the S&P 500's 10.4%. Despite earlier concerns about AI disruption and disappointing Q4 results, S&P Global's dominant 50% market share in credit ratings, asset-light business model with 54% operating margins, and recent earnings guidance raise make it an attractive buy at current valuations of 26.4x earnings.",
-    "keywords": [
-      "dividend growth",
-      "credit ratings",
-      "financial stocks",
-      "market performance",
-      "operating margins",
-      "AI disruption concerns",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "SPGI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates exceptional dividend consistency (54 consecutive years), strong historical outperformance (15%+ annualized returns vs 10.4% S&P 500), dominant market position (50% credit ratings share), excellent operating margins (54%), and attractive current valuation (26.4x P/E below historical averages). Recent earnings guidance raise and debt issuance growth support positive outlook."
-      },
-      {
-        "ticker": "MCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitive benchmark with 31% market share in credit ratings, second to S&P Global. No specific performance data or investment recommendation provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "a7ebf8460e4bfb9f3b32d5566146730d62fedadc6e30cc977aeb7ca3485d5e4b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The Biggest Risk Facing Tesla Stock Right Now",
-    "author": "Lee Samaha",
-    "published_utc": "2026-08-30T19:14:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/30/biggest-risk-tesla-stock-now-optimus-robotaxi/?source=iedfolrf0000001",
-    "tickers": [
-      "TSLA",
+      "VOO",
       "SPGI"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883552%2Fgroup-of-tesla-super-chargers-with-logo-in-view.png&w=1200&op=resize",
-    "description": "Tesla faces significant near-term risk from heavy capital spending on Cybercab/robotaxis and Optimus robots, with Wall Street projecting negative free cash flow from 2026-2028. While the company's strong balance sheet ($23B net cash expected by 2026) mitigates funding concerns, any delays in these ventures could pressure the stock and drain liquidity. Tesla remains attractive long-term but requires investor patience for near-term volatility.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888291%2Fwoman-stock-chart.jpg&w=1200&op=resize",
+    "description": "The article recommends Vanguard's S&P 500 ETF (VOO) as the single best ETF for long-term investors seeking a 20-year buy-and-hold strategy. With a low 0.03% expense ratio and a historical average annual return of 10% since 1957, the S&P 500 has consistently outperformed most actively managed funds despite significant market downturns. The author emphasizes that patient investors who resist panic selling during bear markets can achieve substantial long-term gains.",
     "keywords": [
-      "Tesla",
-      "robotaxi",
-      "Cybercab",
-      "Optimus",
-      "free cash flow",
-      "capital spending",
-      "balance sheet",
-      "EV business"
+      "S&P 500 ETF",
+      "long-term investing",
+      "index funds",
+      "passive investing",
+      "market volatility",
+      "buy-and-hold strategy",
+      "expense ratio"
     ],
     "insights": [
       {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Tesla has strong long-term potential and a fortress balance sheet, but faces near-term risks from heavy capital spending on unproven robotaxi and Optimus ventures. Wall Street expects negative free cash flow through 2028, creating volatility risk if these initiatives are delayed. The article suggests patience is required, indicating neither strong bullish nor bearish conviction."
+        "ticker": "VOO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strongly recommended as the top choice for long-term investors. Praised for low expense ratio (0.03%), consistent historical returns (~10% annually), 833% total return since 2010 inception, and ability to outperform most actively managed funds over decades."
       },
       {
         "ticker": "SPGI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "S&P Global is mentioned only as a data source for market intelligence estimates regarding Tesla's projected net cash position. No sentiment-driving information is provided about the company itself."
+        "sentiment_reasoning": "Mentioned only for its role in rebalancing the S&P 500 index quarterly by adding winners and removing losers. No investment recommendation or sentiment expressed about the company itself."
       }
     ]
   },
   {
-    "id": "89343691d398c30c954d7c399f9918e8c88798ef31bad3ff29d9a052b17e95db",
+    "id": "c83bde13f59c0dd29a6156a1ad9446e8b13f1a282d19c3e33c4e74d4bb626e1b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Bill Ackman Just Bought Visa, Mastercard, and S&P Global Stock. Each One Collects a Toll on Somebody Else's Sale.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-08-29T00:34:01Z",
-    "article_url": "https://www.fool.com/investing/2026/08/28/bill-ackman-just-bought-visa-mastercard-and-s-and-p-global-stock-each-one-collects-a-toll-on-somebody-else-s-sale/?source=iedfolrf0000001",
+    "title": "This Dividend King Was Removed From the S&P 100. Here's Why It's a Great Buy for Long-Term Investors Anyway.",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-23T19:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/this-dividend-king-is-getting-removed-from-the-sp/?source=iedfolrf0000001",
     "tickers": [
-      "V",
-      "MA",
-      "SPGI",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
-      "NFLX",
-      "UBER"
+      "CL",
+      "PANW",
+      "ANET",
+      "SNDK",
+      "SPGI"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4da1086146c66d386e6db444a89afd6bcf7daa31-1280x853.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Bill Ackman's Pershing Square hedge fund made three major new investments of approximately $1.1 billion each in Visa, Mastercard, and S&P Global during Q2 2026. These three positions combined represent about 17% of the fund's $19.5 billion U.S. stock portfolio. The common thread among these companies is their business model of collecting fees on transactions they don't originate, fund, or take risk on. All three are trading at premium valuations, reflecting their durable, recession-resistant revenue streams.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887263%2Fgettyimages-1403045742.jpg&w=1200&op=resize",
+    "description": "Colgate-Palmolive was removed from the S&P 100 index due to its $69 billion market cap being eclipsed by faster-growing AI-driven stocks, but the company remains a solid long-term investment. With 63 consecutive years of dividend increases, a 347% total return over 20 years, and expected 17% EPS CAGR through 2028, the stock offers stability and growth potential despite being a slower-growth consumer staples company.",
     "keywords": [
-      "Bill Ackman",
-      "Pershing Square",
-      "payment networks",
-      "toll business model",
-      "fee collection",
-      "durable revenue",
-      "portfolio concentration"
+      "Dividend King",
+      "S&P 100 removal",
+      "dividend growth",
+      "consumer staples",
+      "long-term investing",
+      "recession-resistant",
+      "pet nutrition",
+      "premiumization"
     ],
     "insights": [
       {
-        "ticker": "V",
+        "ticker": "CL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Ackman's $1.1 billion investment signals confidence in Visa's durable business model. The company processed 71.7 billion transactions (up 10% YoY) with strong revenue growth of 14% and ~60% operating margins. However, premium valuation at 26x forward P/E may limit near-term returns."
+        "sentiment_reasoning": "Despite S&P 100 removal, the company demonstrates strong fundamentals with 63 years of consecutive dividend increases, healthy earnings growth projections (17% CAGR through 2028), stable recession-resistant business model, and reasonable valuation at 22x forward earnings. Removal was due to relative underperformance versus AI stocks, not business deterioration."
       },
       {
-        "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Ackman's equal $1.1 billion stake reflects confidence in Mastercard's resilient fee-collection model. Q2 gross dollar volume grew 8% to $2.9 trillion with 14% net revenue growth. Trading near 52-week highs at premium valuation may cap near-term upside."
+        "ticker": "PANW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
+      },
+      {
+        "ticker": "SNDK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
       },
       {
         "ticker": "SPGI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Ackman's $1.1 billion investment in S&P Global's toll-based model (ratings and index licensing fees) is attractive. Ratings revenue up 17% YoY with 25% growth in transaction fees; indices revenue up 20%. Trading ~20% below 52-week high offers better valuation entry point than peers."
-      },
-      {
-        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Pershing Square sold its entire ~$99 million Alphabet position during Q2, suggesting reduced conviction or portfolio rebalancing toward toll-based business models."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Pershing Square sold its entire ~$99 million Alphabet position during Q2, suggesting reduced conviction or portfolio rebalancing toward toll-based business models."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Pershing Square sold its entire ~$99 million Alphabet position during Q2, suggesting reduced conviction or portfolio rebalancing toward toll-based business models."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Pershing Square sold its entire ~$99 million Alphabet position during Q2, suggesting reduced conviction or portfolio rebalancing toward toll-based business models."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Pershing Square trimmed its Amazon holdings by approximately 25% while maintaining it as a top-five position, indicating modest reduction in conviction but continued belief in the company."
-      },
-      {
-        "ticker": "NFLX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pershing Square re-entered Netflix with a ~$934 million stake after a four-year absence, suggesting renewed confidence in the streaming company's business prospects."
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Uber remains Pershing Square's largest single holding at ~13% of portfolio, indicating strong conviction in the company's long-term value creation potential."
+        "sentiment_reasoning": "Mentioned as the entity that conducted the S&P 100 rebalancing, but no investment analysis or sentiment provided."
       }
     ]
   },
   {
-    "id": "2a7c903a45b849b419013b6cafc1d394473d99972dddd23e528af87a487bb6b2",
+    "id": "abb82476afb836ee7e2f674725bb801df5b2bf91ddc97f2c324ac43837522e11",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia's Demand Is Outpacing Its 70% Growth Forecast, and That Is Just the Beginning",
+    "author": "Chris Neiger",
+    "published_utc": "2026-09-23T08:10:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/nvidias-demand-is-outpacing-its-70-growth-forecast/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AAPL",
+      "MU",
+      "SPGI"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886828%2Fnvda.png&w=1200&op=resize",
+    "description": "Nvidia's demand for AI chips is significantly outpacing its 70% fiscal 2028 sales growth forecast, with management indicating it could potentially double sales if supply constraints were overcome. The surge is driven by agentic AI adoption, which requires 15-100 times more computing power than human-guided work. S&P Global forecasts $1.3 trillion in tech spending on AI infrastructure next year, positioning Nvidia for sustained long-term growth.",
+    "keywords": [
+      "Nvidia",
+      "AI chips",
+      "GPU demand",
+      "agentic AI",
+      "supply constraints",
+      "sales growth",
+      "data centers"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nvidia is experiencing exceptional demand for its AI processors that exceeds its own 70% growth forecast, with potential to double sales if supply constraints are resolved. The shift to agentic AI is expected to drive sustained demand for years, and the company's market position as the backbone of AI infrastructure remains strong."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Apple is mentioned only as a comparison point for market cap and revenue growth rates (16% vs Nvidia's 70%), with no direct business implications discussed."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Micron's memory chips are experiencing strong demand that outpaces supply, leading to skyrocketing prices, higher margins, and benefiting from the broader AI infrastructure buildout."
+      },
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "S&P Global is mentioned only as a source for forecasting $1.3 trillion in tech AI spending, with no direct sentiment implications for the company itself."
+      }
+    ]
+  },
+  {
+    "id": "4847fb904296b1e4fc881665201e771b7187e1f73d29e3963436435c41b680e3",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "CME vs. Morningstar: Which Financial Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-09-16T12:30:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/16/cme-vs-morningstar-which-financial-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "CME",
+      "MORN",
+      "ICE",
+      "CBOE",
+      "MSCI",
+      "SPGI"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7089e9c275d4f6f9668a8e5e172ac46be0ed0aaa-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "CME Group and Morningstar are compared as financial infrastructure plays. CME dominates derivatives trading with an impressive 62% net margin and $6.5B revenue, but trades at a premium valuation (forward P/E 22.5). Morningstar offers investment research with lower margins (15.3%) but more attractive valuation (forward P/E 15.5). The author leans toward CME despite valuation concerns due to its superior profitability and dividend, though both stocks have underperformed the S&P 500 over longer periods.",
+    "keywords": [
+      "derivatives marketplace",
+      "financial infrastructure",
+      "net margin",
+      "valuation",
+      "free cash flow",
+      "subscription-based business",
+      "dividend yield"
+    ],
+    "insights": [
+      {
+        "ticker": "CME",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Dominant market position in global derivatives, exceptional 62% net margin, strong free cash flow ($4.2B), low debt-to-equity ratio (0.1), and dividend payment. Author's preferred choice despite valuation concerns."
+      },
+      {
+        "ticker": "MORN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid business fundamentals with 7.5% revenue growth and recurring subscription model, but lower profitability (15.3% margin), disappointing long-term returns versus S&P 500, and higher debt-to-equity ratio (1.2). More attractive valuation but less compelling overall."
+      },
+      {
+        "ticker": "ICE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to CME in the derivatives exchange space, but no detailed analysis provided."
+      },
+      {
+        "ticker": "CBOE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to CME in the derivatives exchange space, but no detailed analysis provided."
+      },
+      {
+        "ticker": "MSCI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Morningstar in data and software provision, but no detailed analysis provided."
+      },
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Morningstar in data and software provision, but no detailed analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "443bdcc0906f68b41337a4f1dc373552bd73e4d60e177495eb64bcf1ab021718",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "S&P Global (SPGI) Up 4% Since Last Earnings Report: Can It Continue?",
-    "author": "Na",
-    "published_utc": "2026-08-27T15:30:22Z",
-    "article_url": "https://www.zacks.com/stock/news/2981177/s-p-global-spgi-up-4-since-last-earnings-report-can-it-continue?cid=CS-ZC-FT-realtime_blog-2981177",
+    "title": "Top Research Reports for S&P Global, Cloudflare & Canadian Natural",
+    "author": "Mark Vickery",
+    "published_utc": "2026-09-15T20:13:00Z",
+    "article_url": "https://www.zacks.com/commentary/2989703/top-research-reports-for-s-p-global-cloudflare-canadian-natural?cid=CS-ZC-FT-research_daily-2989703",
     "tickers": [
       "SPGI",
-      "NDAQ"
+      "NET",
+      "CNQ",
+      "SGU",
+      "HOUR",
+      "EXC",
+      "NDSN",
+      "LAMR"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default322.jpg",
-    "description": "S&P Global (SPGI) reported strong Q2 2026 results with earnings of $4.83 per share (up 23% YoY) and revenues of $3.68 billion (up 11% YoY), both beating consensus estimates. However, since the earnings release, analyst estimates have shifted downward by 6.25%, leading to a Zacks Rank #4 (Sell) rating with a subpar VGM Score of F. The company's Ratings and Indices segments drove performance, though Energy growth remained modest.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/210.jpg",
+    "description": "Zacks analysts published research on 16 major stocks and 2 microcaps on September 15, 2026. Key reports include S&P Global (neutral outlook despite strong recurring revenues and AI adoption), Cloudflare (balanced risk-reward with strong enterprise demand but valuation concerns), and Canadian Natural Resources (neutral stance due to commodity volatility and regulatory risks). Additional coverage includes Exelon, Nordson, Lamar Advertising, and others with mixed outlooks reflecting both growth opportunities and operational challenges.",
     "keywords": [
-      "earnings report",
-      "estimate revisions",
-      "Ratings segment",
-      "Indices segment",
-      "share buybacks",
-      "guidance",
-      "analyst downgrade"
+      "equity research",
+      "stock analysis",
+      "investment themes",
+      "earnings",
+      "market outlook"
     ],
     "insights": [
-      {
-        "ticker": "SPGI",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite beating Q2 earnings expectations with strong revenue growth and margin expansion, the stock has received a Sell rating (Zacks Rank #4) due to significant downward estimate revisions of 6.25% since earnings. The company's forward guidance excludes the Mobility segment and shows lower earnings expectations, combined with poor VGM scores across growth, momentum, and value metrics."
-      },
-      {
-        "ticker": "NDAQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nasdaq reported strong Q2 results with 14.9% revenue growth and EPS of $1.07 (up from $0.85 YoY). The company has a Zacks Rank #2 (Buy) rating based on positive estimate revisions and outperformed SPGI with a 4.1% gain over the past month, indicating investor confidence."
-      }
-    ]
-  },
-  {
-    "id": "a97cd39fdee120fe570d971c10613040a06105f077aa6f30bd8e1c426377ea60",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Mining Stock Is Quietly One of the Best Trades in Energy",
-    "author": "Lee Samaha",
-    "published_utc": "2026-08-22T00:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/21/this-mining-stock-is-quietly-one-of-the-best-trade/?source=iedfolrf0000001",
-    "tickers": [
-      "FCX",
-      "SPGI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883510%2Fgettyimages-1176080337-1201x769-45ba444.jpg&w=1200&op=resize",
-    "description": "Freeport-McMoRan, the largest U.S. copper producer, is positioned to benefit from rising copper demand driven by the energy transition, electric vehicles, renewable energy infrastructure, and AI data centers. With copper prices near all-time highs and industrywide supply constraints due to declining ore grades and permitting challenges, the company's expansion plans through low-cost leaching and brownfield projects could make it an attractive investment for energy bulls.",
-    "keywords": [
-      "copper demand",
-      "energy transition",
-      "electric vehicles",
-      "AI infrastructure",
-      "supply constraints",
-      "renewable energy",
-      "data centers",
-      "mining expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "FCX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights FCX as the leading U.S. copper producer well-positioned to capitalize on rising copper demand from electrification, EVs, and AI infrastructure. The company has expansion potential through low-cost initiatives, and supply constraints industry-wide should support copper prices, benefiting FCX's profitability and growth prospects."
-      },
       {
         "ticker": "SPGI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "S&P Global is mentioned only as a source for data regarding AI data center electricity demand projections. The mention is purely informational with no direct investment thesis or sentiment implied about the company itself."
+        "sentiment_reasoning": "Positive factors include recurring benchmark revenues, AI adoption, and margin improvements, but offset by elevated costs, sizable debt, and intense competition. Financial and execution risks limit near-term upside."
+      },
+      {
+        "ticker": "NET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong enterprise demand and raised 2026 outlook are positive, but gross-margin compression, intense competition, macro uncertainty, workforce restructuring, and stretched valuation create balanced risk-reward profile."
+      },
+      {
+        "ticker": "CNQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Diversified portfolio and strong cash-flow generation are supported by low-cost assets, but significant oil sands exposure creates commodity volatility sensitivity and regulatory uncertainty. Pipeline constraints and ESG scrutiny limit upside."
+      },
+      {
+        "ticker": "SGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acquisition strategy and HVAC diversification provide growth opportunities, but persistent customer attrition, energy conversions, elevated commodity costs, and tariff uncertainty constrain organic growth and margins."
+      },
+      {
+        "ticker": "HOUR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong revenue growth (25.2% in Q2 2026) and profitability are positive, but weak cash flow, rising inventory, heavy Amazon dependence (97% of revenues), tariff risks, and platform policy changes create significant headwinds."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Planned $41.7B investment in transmission and distribution infrastructure combined with revenue decoupling mechanisms support performance improvement."
+      },
+      {
+        "ticker": "NDSN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Growing demand for nonwoven and industrial coating products drives the Industrial Precision Solutions segment, but high costs remain a significant concern."
+      },
+      {
+        "ticker": "LAMR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Resilient local demand, digital growth, and disciplined acquisitions are positive, but ad cyclicality, rate exposure, and strong competition temper upside potential."
       }
     ]
   }

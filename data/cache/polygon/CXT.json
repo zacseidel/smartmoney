@@ -1,0 +1,35 @@
+{
+  "ticker": "CXT",
+  "name": "Crane NXT, Co.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000025445",
+  "composite_figi": "BBG017BXPZ85",
+  "share_class_figi": "BBG017BXPZ94",
+  "market_cap": 2705381288.0,
+  "phone_number": "781-755-6868",
+  "address": {
+    "address1": "CRANE NXT, CO.",
+    "address2": "950 WINTER STREET, 4TH FLOOR NORTH",
+    "city": "WALTHAM",
+    "state": "MA",
+    "postal_code": "02451"
+  },
+  "description": "Crane NXT Co is a industrial technology company that provides proprietary and trusted technology solutions to secure, detect, and authenticate what matters to its customers. It is a pioneer in proprietary micro-optics technology for securing physical products, and its sophisticated electronic equipment and associated software leverages proprietary core capabilities with detection and sensing technologies. The company operates in two segments which are Crane Payment Innovations (CPI) and Security and Authentication Technologies.",
+  "sic_code": "3490",
+  "sic_description": "MISCELLANEOUS FABRICATED METAL PRODUCTS",
+  "ticker_root": "CXT",
+  "homepage_url": "https://www.cranenxt.com",
+  "total_employees": 4800,
+  "list_date": "2023-03-29",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Y3JhbmVueHQuY29t/images/2026-09-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 57561304,
+  "weighted_shares_outstanding": 57561304,
+  "round_lot": 100
+}

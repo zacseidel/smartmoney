@@ -1,5 +1,387 @@
 [
   {
+    "id": "86c5a57ef1f153c3173673f4df91b5a8d7d1df8dd031fe7b3719a82569f25aa4",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the iShares U.S. Utilities ETF (IDU)?",
+    "author": "Na",
+    "published_utc": "2026-09-22T10:20:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2993404/should-you-invest-in-the-ishares-u-s-utilities-etf-idu?cid=CS-ZC-FT-sector_etf-2993404",
+    "tickers": [
+      "IDU",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "SO",
+      "SOJC",
+      "SOJD",
+      "SOJE",
+      "SOJF",
+      "SOMN",
+      "DUK",
+      "DUKB",
+      "DUKH",
+      "DUKU",
+      "DUKpA",
+      "VPU",
+      "XLU"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default94.jpg",
+    "description": "The iShares U.S. Utilities ETF (IDU) is a passively managed fund with $1.35 billion in assets tracking the Dow Jones U.S. Utilities Index. With a 0.38% expense ratio and 2.49% dividend yield, it offers diversified exposure to the utilities sector but has underperformed year-to-date, declining 2.57%. The fund holds 49 stocks with top positions in NextEra Energy (11.1%), Southern Company, and Duke Energy. Alternatives like Vanguard Utilities ETF (VPU) and State Street Utilities SPDR (XLU) offer lower expense ratios.",
+    "keywords": [
+      "utilities ETF",
+      "passive management",
+      "sector exposure",
+      "dividend yield",
+      "expense ratio",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "IDU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF offers reasonable diversification and competitive expense ratios, but has underperformed with a 2.57% year-to-date decline and a 'Hold' Zacks ETF Rank of 3. It represents a stable but not exceptional investment option."
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SOJC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SOJD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SOJE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SOJF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "SOMN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "DUK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "DUKB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "DUKH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "DUKU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "DUKpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
+      },
+      {
+        "ticker": "VPU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a competitive alternative with significantly lower expense ratio (0.09% vs 0.38%) and substantially larger assets ($7.94 billion), making it a more cost-efficient option."
+      },
+      {
+        "ticker": "XLU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a competitive alternative with the lowest expense ratio (0.08%) and the largest asset base ($21.04 billion) among the three utilities ETFs discussed."
+      }
+    ]
+  },
+  {
+    "id": "0f8f935453383dd2461a45c220e91f23c3d18d3f94a082de1d0daee9a5cbd250",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "IDACORP Hikes Dividend 2.3% to Strengthen Shareholder Returns",
+    "author": "Na",
+    "published_utc": "2026-09-21T15:12:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993028/idacorp-hikes-dividend-2-3-to-strengthen-shareholder-returns?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2993028",
+    "tickers": [
+      "IDA",
+      "AWK",
+      "DUK",
+      "DUKB",
+      "DUKH",
+      "DUKU",
+      "DUKpA",
+      "WTRG"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ea/57303.jpg",
+    "description": "IDACORP Inc. announced a 2.3% increase in its quarterly dividend to 90 cents per share ($3.60 annualized), marking its 14th consecutive year of dividend increases. The company plans to invest nearly $7 billion during 2026-2030 to strengthen generation capacity and infrastructure. IDACORP's stable regulated operations in Idaho and growing customer base support its ability to maintain consistent dividend growth.",
+    "keywords": [
+      "dividend increase",
+      "utility company",
+      "infrastructure investment",
+      "regulated operations",
+      "customer growth",
+      "dividend yield",
+      "electricity demand"
+    ],
+    "insights": [
+      {
+        "ticker": "IDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company announced a dividend increase for the 14th consecutive year, plans substantial $7B infrastructure investment, maintains stable earnings base from regulated operations, and benefits from growing customer additions supporting future dividend sustainability."
+      },
+      {
+        "ticker": "AWK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 8.2% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 7.98% year-over-year, indicating strong financial performance."
+      },
+      {
+        "ticker": "DUK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 1.9% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 6.5% year-over-year, demonstrating solid earnings growth."
+      },
+      {
+        "ticker": "DUKB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 1.9% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 6.5% year-over-year, demonstrating solid earnings growth."
+      },
+      {
+        "ticker": "DUKH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 1.9% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 6.5% year-over-year, demonstrating solid earnings growth."
+      },
+      {
+        "ticker": "DUKU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 1.9% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 6.5% year-over-year, demonstrating solid earnings growth."
+      },
+      {
+        "ticker": "DUKpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 1.9% in 2026 and Zacks Consensus Estimate for 2026 EPS moved up 6.5% year-over-year, demonstrating solid earnings growth."
+      },
+      {
+        "ticker": "WTRG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased annual dividend rate by 5.25% in 2026, though EPS estimate growth of 0.5% year-over-year is modest compared to peers."
+      }
+    ]
+  },
+  {
+    "id": "0ad8f9f0db360f8d863aa6b9d3ee90af0f759e7a10fa155a67b457aca4871990",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the Vanguard Utilities Index Fund ETF Shares (VPU)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-16T10:20:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2990330/should-you-invest-in-the-vanguard-utilities-index-fund-etf-shares-vpu?cid=CS-ZC-FT-sector_etf-2990330",
+    "tickers": [
+      "VPU",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "SO",
+      "SOJC",
+      "SOJD",
+      "SOJE",
+      "SOJF",
+      "SOMN",
+      "DUK",
+      "DUKB",
+      "DUKH",
+      "DUKU",
+      "DUKpA",
+      "FUTY",
+      "XLU"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default260.jpg",
+    "description": "The Vanguard Utilities Index Fund ETF Shares (VPU) is a passively managed ETF offering low-cost exposure to the utilities sector with a 0.09% expense ratio and 2.89% dividend yield. The fund has underperformed year-to-date, down 1.97%, and holds a Zacks ETF Rank of 2 (Buy). It features 71 holdings with top positions in NextEra Energy, Southern Company, and Duke Energy, making it a medium-risk option for utilities sector investors.",
+    "keywords": [
+      "utilities ETF",
+      "passive management",
+      "low expense ratio",
+      "dividend yield",
+      "sector exposure",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "VPU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Receives a Zacks ETF Rank of 2 (Buy) rating, has very low expense ratio of 0.09%, substantial assets of $8.01 billion, and provides diversified exposure to utilities sector with 71 holdings. However, recent performance has been weak."
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in VPU at 11.78% of assets, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SOJC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SOJD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SOJE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SOJF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "SOMN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "DUK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "DUKB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "DUKH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "DUKU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "DUKpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in VPU, but no specific performance or outlook commentary provided in the article."
+      },
+      {
+        "ticker": "FUTY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative option with comparable 0.08% expense ratio and $2.21 billion in assets, but no performance differentiation highlighted."
+      },
+      {
+        "ticker": "XLU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative option with 0.08% expense ratio and $21.49 billion in assets, but no performance differentiation highlighted."
+      }
+    ]
+  },
+  {
     "id": "8d8ede0d2c00b58b58e46519e866b07d5841151ba9dfe57d7cdd703930625979",
     "publisher": {
       "name": "The Motley Fool",
@@ -249,386 +631,6 @@
         "ticker": "VPU",
         "sentiment": "neutral",
         "sentiment_reasoning": "Mentioned as an alternative with slightly higher 0.09% expense ratio and $8.23 billion in assets, but no comparative advantage or disadvantage highlighted."
-      }
-    ]
-  },
-  {
-    "id": "38d0af2f39381661d0a88e1186c48da1ff9957e51ec32869d7ea94f0f09747d6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "If a Stock Market Correction Is Coming, History Says This ETF Has Always Protected Long-Term Investors",
-    "author": "Leo Sun",
-    "published_utc": "2026-08-31T17:40:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/31/if-a-stock-market-correction-is-coming-history-say/?source=iedfolrf0000001",
-    "tickers": [
-      "VPU",
-      "VOO",
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW",
-      "SO",
-      "SOJC",
-      "SOJD",
-      "SOJE",
-      "SOJF",
-      "SOMN",
-      "DUK",
-      "DUKB",
-      "DUKH",
-      "DUKU",
-      "DUKpA",
-      "CEG"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885269%2Finvesting-woman-wall-street-suit-stocks-finance.jpg&w=1200&op=resize",
-    "description": "Vanguard's Utilities ETF (VPU) is recommended as a defensive investment option during potential market corrections. Unlike the S&P 500, utilities stocks typically outperform during bear markets due to their stable, income-generating nature. VPU holds 68 utility companies and delivered a 1% return during the 2022 market downturn when the S&P 500 fell 25%, offering investors a safer alternative with a 2.71% SEC yield.",
-    "keywords": [
-      "market correction",
-      "utilities ETF",
-      "defensive investing",
-      "bear market",
-      "dividend yield",
-      "S&P 500",
-      "VPU",
-      "VOO"
-    ],
-    "insights": [
-      {
-        "ticker": "VPU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a protective investment during market downturns with historical outperformance in bear markets, low expense ratio (0.09%), and attractive dividend yield (2.71%). Demonstrated resilience in 2022 with 1% return versus S&P 500's 25% decline."
-      },
-      {
-        "ticker": "VOO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a reliable long-term investment with ~10% average annual returns, but noted as vulnerable to steep double-digit declines during recessions, making it less suitable for investors concerned about near-term corrections."
-      },
-      {
-        "ticker": "NEE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in VPU (11.78% of portfolio), representing a major utility company benefiting from cloud infrastructure and AI market expansion."
-      },
-      {
-        "ticker": "SO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "SOJC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "SOJD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "SOJE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "SOJF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "SOMN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VPU (6.92% of portfolio), representing a stable multi-utility company included in the defensive basket."
-      },
-      {
-        "ticker": "DUK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VPU (6.34% of portfolio), representing a major electric utility company in the defensive portfolio."
-      },
-      {
-        "ticker": "DUKB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VPU (6.34% of portfolio), representing a major electric utility company in the defensive portfolio."
-      },
-      {
-        "ticker": "DUKH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VPU (6.34% of portfolio), representing a major electric utility company in the defensive portfolio."
-      },
-      {
-        "ticker": "DUKU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VPU (6.34% of portfolio), representing a major electric utility company in the defensive portfolio."
-      },
-      {
-        "ticker": "DUKpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VPU (6.34% of portfolio), representing a major electric utility company in the defensive portfolio."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fourth-largest holding in VPU (5.26% of portfolio), representing an independent power provider included in the diversified utility basket."
-      }
-    ]
-  },
-  {
-    "id": "d4356bf4b4e2e6ab21932c7ff365b8101961e105efe3e876ce9861dbb50ce0a2",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can Rising Operating Income Support PPL's Long-Term Earnings Growth?",
-    "author": "Na",
-    "published_utc": "2026-08-31T17:09:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2982791/can-rising-operating-income-support-ppl-s-long-term-earnings-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2982791",
-    "tickers": [
-      "PPL",
-      "PPLC",
-      "FE",
-      "DUK",
-      "DUKB",
-      "DUKH",
-      "DUKU",
-      "DUKpA"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fe/332.jpg",
-    "description": "PPL Corporation reported a 17% year-over-year increase in Q2 operating income to $475 million, driving a 20% rise in EPS. The company is positioned for sustained growth through 2029 with a $23 billion investment outlook supporting 10.3% annual rate-base growth and 6-8% EPS growth, bolstered by significant data center demand in Pennsylvania (31.8 GW) and Kentucky (13.7 GW). PPL's debt-to-capital ratio of 57.46% is lower than the industry average, strengthening its financial capacity.",
-    "keywords": [
-      "operating income growth",
-      "data center demand",
-      "rate-base growth",
-      "EPS growth",
-      "capital investment",
-      "utility sector",
-      "Pennsylvania rate case",
-      "Kentucky load growth"
-    ],
-    "insights": [
-      {
-        "ticker": "PPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 17% operating income growth, 20% EPS increase, significant data center demand opportunities, approved rate case settlements providing $275M annual revenue increase, $23B investment outlook through 2029 supporting 6-8% EPS growth, and lower debt-to-capital ratio than industry average all support positive outlook."
-      },
-      {
-        "ticker": "PPLC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 17% operating income growth, 20% EPS increase, significant data center demand opportunities, approved rate case settlements providing $275M annual revenue increase, $23B investment outlook through 2029 supporting 6-8% EPS growth, and lower debt-to-capital ratio than industry average all support positive outlook."
-      },
-      {
-        "ticker": "FE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Reported 4.8% year-over-year operating income increase and is executing a $36 billion capital program, but the modest operating income growth rate and limited detail provided warrant a neutral stance."
-      },
-      {
-        "ticker": "DUK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
-      },
-      {
-        "ticker": "DUKB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
-      },
-      {
-        "ticker": "DUKH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
-      },
-      {
-        "ticker": "DUKU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
-      },
-      {
-        "ticker": "DUKpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 12% year-over-year operating income increase and is backing a substantial $103 billion capital program for grid modernization and generation expansion, demonstrating strong financial capacity and growth prospects."
-      }
-    ]
-  },
-  {
-    "id": "1c3ff950d74202b498af976e32ebdc485002b7181e5328352c5c5941121d4091",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Camus Energy Selected for Google for Startups Accelerator Program Focused on AI Solutions for the Energy Industry",
-    "author": "Unknown",
-    "published_utc": "2026-08-26T16:52:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351611/0/en/camus-energy-selected-for-google-for-startups-accelerator-program-focused-on-ai-solutions-for-the-energy-industry.html",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "DUK",
-      "DUKB",
-      "DUKH",
-      "DUKU",
-      "DUKpA",
-      "EIX",
-      "PCG",
-      "PCGpA",
-      "PCGpB",
-      "PCGpC",
-      "PCGpD",
-      "PCGpE",
-      "PCGpG",
-      "PCGpH",
-      "PCGpI",
-      "PCGpX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/72e884fa-49d9-48b9-83ff-d6f7d40131cf",
-    "description": "Camus Energy, a Google and Amazon alumni-founded startup, has been selected for Google's 10-week accelerator program focused on AI energy solutions. The company will demonstrate its FlexConnect software to major utilities including Duke Energy, Edison International, and PG&E, enabling AI data centers to connect to the grid 3-5 years faster using flexible operating limits and existing infrastructure.",
-    "keywords": [
-      "AI data centers",
-      "grid connectivity",
-      "energy transition",
-      "FlexConnect software",
-      "grid modernization",
-      "demand flexibility",
-      "utility partnerships"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as the program operator and investor network provider. While the accelerator demonstrates Google's commitment to energy innovation, the article does not provide specific financial or operational impact information for Google itself."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as the program operator and investor network provider. While the accelerator demonstrates Google's commitment to energy innovation, the article does not provide specific financial or operational impact information for Google itself."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as the program operator and investor network provider. While the accelerator demonstrates Google's commitment to energy innovation, the article does not provide specific financial or operational impact information for Google itself."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as the program operator and investor network provider. While the accelerator demonstrates Google's commitment to energy innovation, the article does not provide specific financial or operational impact information for Google itself."
-      },
-      {
-        "ticker": "DUK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Duke Energy is mentioned as a participating utility partner in the demonstration program. The partnership suggests potential future business opportunity but represents early-stage evaluation rather than confirmed adoption."
-      },
-      {
-        "ticker": "DUKB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Duke Energy is mentioned as a participating utility partner in the demonstration program. The partnership suggests potential future business opportunity but represents early-stage evaluation rather than confirmed adoption."
-      },
-      {
-        "ticker": "DUKH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Duke Energy is mentioned as a participating utility partner in the demonstration program. The partnership suggests potential future business opportunity but represents early-stage evaluation rather than confirmed adoption."
-      },
-      {
-        "ticker": "DUKU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Duke Energy is mentioned as a participating utility partner in the demonstration program. The partnership suggests potential future business opportunity but represents early-stage evaluation rather than confirmed adoption."
-      },
-      {
-        "ticker": "DUKpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Duke Energy is mentioned as a participating utility partner in the demonstration program. The partnership suggests potential future business opportunity but represents early-stage evaluation rather than confirmed adoption."
-      },
-      {
-        "ticker": "EIX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Edison International is mentioned as a participating utility partner. Similar to Duke Energy, this represents early-stage partnership and potential opportunity without confirmed commercial impact."
-      },
-      {
-        "ticker": "PCG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
-      },
-      {
-        "ticker": "PCGpX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PG&E is mentioned as a participating utility partner in the accelerator program. The partnership indicates potential future collaboration but is at demonstration stage without confirmed business implications."
       }
     ]
   }

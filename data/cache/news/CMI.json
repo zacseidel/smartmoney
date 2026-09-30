@@ -1,223 +1,306 @@
 [
   {
-    "id": "1a40618bad4414a154d62282a9f92b6f14dd696f814ad4f09a97061a72ebb82e",
+    "id": "e757c62eb7631959a39ba8e76967dfa1eb3da20d5ecc36b99a025ef602d993bd",
     "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Generac\u2019s AI Power Pivot Raises a Bigger Question About Data Center Demand",
-    "author": "Jeffrey Neal Johnson",
-    "published_utc": "2026-06-05T15:14:00Z",
-    "article_url": "https://www.investing.com/analysis/generacs-ai-power-pivot-raises-a-bigger-question-about-data-center-demand-200681617",
+    "title": "Generac Signs Amazon Generator Deal With $2.4B of Initial Deliveries",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-17T13:21:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2991217/generac-signs-amazon-generator-deal-with-2-4b-of-initial-deliveries?cid=CS-ZC-FT-analyst_blog|quick_take-2991217",
     "tickers": [
       "GNRC",
-      "CAT",
-      "CMI"
+      "AMZN",
+      "CMI",
+      "CAT"
     ],
-    "amp_url": "https://m.investing.com/analysis/generacs-ai-power-pivot-raises-a-bigger-question-about-data-center-demand-200681617?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Generac Holdings has strategically pivoted from residential backup generators to become a critical infrastructure supplier for AI data centers. The company secured a landmark global supply agreement with an undisclosed hyperscaler (likely connected to the Stargate AI project) and reported strong Q1 2026 results with 12% YoY revenue growth and 35% EPS beat. However, the stock trades at a premium 87x P/E ratio with no insider buying activity and recent CEO stock sales, presenting valuation risks despite compelling growth prospects.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default329.jpg",
+    "description": "Generac Holdings has secured a major long-term supply agreement with Amazon to provide backup power generators for data centers, with initial deliveries totaling $2.4 billion expected in 2027-2028. The deal includes warrant provisions extending up to $8 billion in qualifying payments. Generac's data center backlog reached $1.6 billion as of July 2026, positioning the company to capitalize on accelerating AI and cloud computing infrastructure demand.",
     "keywords": [
-      "AI data centers",
-      "backup power generators",
-      "Stargate project",
-      "hyperscaler contracts",
-      "margin expansion",
-      "infrastructure supply",
-      "valuation risk"
+      "data center power generation",
+      "backup generators",
+      "AI infrastructure",
+      "capacity expansion",
+      "hyperscale customers",
+      "megawatt generators"
     ],
     "insights": [
       {
         "ticker": "GNRC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q1 2026 results (12% YoY revenue growth, 35% EPS beat), landmark hyperscaler supply agreement, $700M+ data center backlog, margin expansion to 18.3% EBITDA, and clear strategic pivot positioning the company as critical AI infrastructure supplier with significant growth visibility into 2027."
+        "sentiment_reasoning": "Major $2.4B Amazon contract with potential for up to $8B in future payments significantly strengthens market position in high-growth data center segment. Strong backlog of $1.6B, recent 8.6% upward earnings revision, and Zacks Rank #1 rating support positive outlook. Shares up 34.5% in premarket trading."
       },
       {
-        "ticker": "CAT",
+        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an established competitor in the data center power space with deep roots and extensive global service networks, but no specific performance data or direct competitive threat assessment provided in the article."
+        "sentiment_reasoning": "While the deal demonstrates Amazon's commitment to securing backup power infrastructure for data center expansion, the article focuses primarily on Generac's benefits. Amazon is mentioned as a customer/partner rather than being analyzed for direct impact."
       },
       {
         "ticker": "CMI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a stiff competitor with established industrial presence in data center power solutions, but no specific competitive metrics or performance information discussed."
+        "sentiment_reasoning": "Cummins is expanding aggressively in data center power with strong Q2 2026 Power Systems growth (19%) and multi-year hyperscaler agreements, but faces increased competitive pressure from Generac's major Amazon deal and Caterpillar's expansion."
+      },
+      {
+        "ticker": "CAT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Caterpillar shows strong Power & Energy segment growth (17% YoY) with 72% growth in power generation sales driven by data center demand, but is one of multiple competitors intensifying competition in the expanding market."
       }
     ]
   },
   {
-    "id": "eb93518ebfa0ea0c6568f2db312982dc057b7a25b110c74812106782d60e51d7",
+    "id": "9eba54991375010f92a5bcb61842a405eaba85f7ddccdef9fe4b37df41e73cda",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Microgrids Market - Demand, Competitive Insights, Innovation, Market Size, Share",
+    "author": "Market Minds Advisory",
+    "published_utc": "2026-09-09T06:48:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/09/3358321/0/en/microgrids-market-demand-competitive-insights-innovation-market-size-share.html",
+    "tickers": [
+      "SIEGY",
+      "CMI",
+      "BE",
+      "SBGSY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/2ccda42e-1f09-4fb0-8cba-e9aaafc0fd04",
+    "description": "The global microgrids market is projected to reach $79.7 billion by 2033, driven by industrial electrification, grid reliability concerns, and rising adoption among data centers and healthcare facilities. The market is transitioning from hardware-focused to software-and-services driven, with control platforms and energy-as-a-service models capturing disproportionate value. Early movers securing interconnection rights and long-tenor contracts are establishing competitive advantages, while pure equipment vendors face structural margin compression.",
+    "keywords": [
+      "microgrids",
+      "distributed energy",
+      "energy storage",
+      "grid resilience",
+      "software controls",
+      "energy-as-a-service",
+      "industrial electrification",
+      "hybrid configurations",
+      "interconnection",
+      "behind-the-meter systems"
+    ],
+    "insights": [
+      {
+        "ticker": "SIEGY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced strategic partnership for integrated microgrid solutions targeting data center customers in February 2026, directly addressing one of the highest-spending end-user verticals and capturing value in the growing behind-the-meter segment."
+      },
+      {
+        "ticker": "CMI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Broadened distributed power portfolio by integrating battery storage into generator product line in December 2025. While this shows adaptation to market trends, the article suggests pure hardware vendors face structural margin compression compared to integrated software-and-services providers."
+      },
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured multi-site deployment agreement with hyperscale customer for fuel cell-based microgrid capacity in January 2026, demonstrating strong demand from high-value industrial customers and positioning in the growing above-10MW installation segment."
+      },
+      {
+        "ticker": "SBGSY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expanded microgrid controls platform with AI-led dispatch capability in March 2026, positioning itself as a key player in the high-growth software-and-controls segment which the article identifies as capturing disproportionate value and recurring revenue."
+      }
+    ]
+  },
+  {
+    "id": "2bdaa02d73124bc34ae7c8cb2193add8d46805632bc9e73acd7fed9b7fd6ad0c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "This Boring Industrial Stock Is Helping Power AI Data Centers",
-    "author": "Bryan White",
-    "published_utc": "2026-05-28T14:17:00Z",
-    "article_url": "https://www.fool.com/investing/2026/05/28/this-boring-industrial-stock-is-helping-power-ai/?source=iedfolrf0000001",
+    "title": "This Earnings Season Confirmed the AI Power Bottleneck Is Real. Here Are the Industrial Winners Hiding in Plain Sight.",
+    "author": "James Halley",
+    "published_utc": "2026-08-27T10:10:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/27/this-earnings-season-confirmed-the-ai-power-bottle/?source=iedfolrf0000001",
     "tickers": [
-      "CMI"
+      "ETN",
+      "VRT",
+      "CMI",
+      "NVDA",
+      "MSFT",
+      "AMZN",
+      "TT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F871613%2Fgettyimages-2175694227.jpg&w=1200&op=resize",
-    "description": "Cummins is leveraging strong demand for backup power generators in AI data centers to diversify beyond its traditional truck engine business. The company's power systems segment grew 19% year-over-year with record EBITDA margins of 29.5%, offsetting weakness in the North American truck market. Management raised 2030 revenue targets to $45-50 billion with EBITDA margins above 20%, supported by a backlog extending into 2028.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F884722%2Fdata-processing-center-microchips.jpg&w=1200&op=resize",
+    "description": "While mega-cap tech stocks have dominated AI investment, industrial companies providing essential infrastructure for data centers are quietly benefiting. Eaton Corporation, Vertiv Holdings, and Cummins are positioned as 'picks-and-shovels' winners, offering exposure to AI growth through power distribution, cooling solutions, and backup generation systems, with attractive valuations compared to traditional tech stocks.",
     "keywords": [
-      "AI data centers",
-      "backup power generation",
-      "power systems segment",
-      "business diversification",
-      "earnings growth",
-      "supply chain advantage"
+      "AI infrastructure",
+      "data centers",
+      "industrial stocks",
+      "power management",
+      "liquid cooling",
+      "picks-and-shovels",
+      "valuation",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "ETN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 results with 21% YoY sales growth, record EPS of $3.15, strategic acquisitions in thermal management and aerospace, partnership with Trane and Nvidia, and attractive 30x forward earnings valuation despite 28% YTD stock rise. Planned mobility spinoff will reduce debt and improve focus."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional Q2 performance with 24% YoY revenue growth and 60% EPS growth. Direct market leader in liquid cooling for AI clusters. Management raised full-year guidance significantly (31% sales growth, 72% EPS growth). Stock up 60% YTD but still positioned as undervalued relative to growth."
+      },
+      {
+        "ticker": "CMI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid Q2 results with 9.4% YoY revenue growth and 4.6% EPS growth. Trading at attractive valuations (under 30x trailing, under 20x forward earnings). Best dividend yield at 1.5% with 17 consecutive years of increases. Stock only up 13% YTD despite strong fundamentals, suggesting undervaluation."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler partner and reference design provider for AI data centers. While central to AI infrastructure, the article positions industrial suppliers as better value opportunities compared to mega-cap tech stocks that have already seen significant appreciation."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer for Vertiv's cooling solutions. Included in disclosure but not a primary focus of the article's investment thesis."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler customer for Vertiv's cooling solutions. Included in disclosure but not a primary focus of the article's investment thesis."
+      },
+      {
+        "ticker": "TT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with Eaton for developing integrated AI data center designs. Partnership is positive for Eaton but Trane is not a primary focus of the article."
+      }
+    ]
+  },
+  {
+    "id": "09f94bb6ffc9af6fd9aa64a4f2c26a6cdcaffa6c5c215c2773d330edaf2b4ea3",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.",
+    "author": "Jeff Siegel",
+    "published_utc": "2026-08-21T17:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/08/21/hyperscalers-will-spend-750-billion-on-ai-this-yea/?source=iedfolrf0000001",
+    "tickers": [
+      "CMI",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMZN",
+      "META",
+      "MSFT",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883882%2Fgettyimages-1345658982.jpg&w=1200&op=resize",
+    "description": "As hyperscalers like Alphabet, Amazon, Meta, Microsoft, and Oracle collectively spend approximately $750 billion on AI infrastructure in 2026, Cummins is capitalizing on the massive demand for backup power systems. The company's Power Systems segment saw 19% year-over-year sales growth driven by data center demand, with AI racks consuming up to 600 kilowatts compared to traditional 12-kilowatt racks. Cummins is expanding beyond emergency backup to provide primary power solutions through microgrids, positioning itself as a key beneficiary of the AI infrastructure boom.",
+    "keywords": [
+      "AI infrastructure spending",
+      "data center backup power",
+      "hyperscaler capital expenditure",
+      "generator sets",
+      "power systems growth",
+      "microgrid solutions"
     ],
     "insights": [
       {
         "ticker": "CMI",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q1 earnings beat with 19% power systems revenue growth, record EBITDA margins of 29.5%, raised full-year guidance despite truck market weakness, extended order backlog into 2028, and increased 2030 revenue targets. The company is successfully diversifying into high-margin AI data center backup power business, reducing cyclical exposure."
+        "sentiment_reasoning": "Strong 19% year-over-year Power Systems sales growth driven by data center demand, expanding EBITDA margins (24.5% vs 22.8%), and new revenue opportunities through microgrid solutions for primary power provision. The company is well-positioned to capture a significant portion of the $750 billion hyperscaler spending."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major hyperscaler investing heavily in AI infrastructure ($750B collectively with peers), but the article focuses on Cummins as the beneficiary rather than analyzing Alphabet's investment returns or business impact."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major hyperscaler investing heavily in AI infrastructure ($750B collectively with peers), but the article focuses on Cummins as the beneficiary rather than analyzing Alphabet's investment returns or business impact."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major hyperscaler investing heavily in AI infrastructure ($750B collectively with peers), but the article focuses on Cummins as the beneficiary rather than analyzing Alphabet's investment returns or business impact."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major hyperscaler investing heavily in AI infrastructure ($750B collectively with peers), but the article focuses on Cummins as the beneficiary rather than analyzing Alphabet's investment returns or business impact."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as a hyperscaler with significant AI capital expenditure plans, but no specific analysis of Amazon's business or performance is provided."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler investing in AI infrastructure, but the article does not provide specific insights into Meta's business or performance."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major hyperscaler with substantial AI spending, but no specific analysis of Microsoft's business impact is included."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included among hyperscalers with significant AI capital expenditure, but the article does not provide specific analysis of Oracle's business or performance."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included among hyperscalers with significant AI capital expenditure, but the article does not provide specific analysis of Oracle's business or performance."
       }
     ]
   },
   {
-    "id": "50f5905518b59b7ce534f9ab2721e0bc5b01e75c8da99ca81807e3f318c7b127",
+    "id": "9f4426b87871ce7814a21969611674100d806ead5b7561e9ec26365365aa43aa",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "State of Sustainable Fleets: As Freight Economy Recession Enters Third Year, Powertrain and Energy Diversification Defines Fleet Resilience Strategy",
-    "author": "Trc Companies",
-    "published_utc": "2026-05-27T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/27/3302122/0/en/State-of-Sustainable-Fleets-As-Freight-Economy-Recession-Enters-Third-Year-Powertrain-and-Energy-Diversification-Defines-Fleet-Resilience-Strategy.html",
+    "title": "Dave Crompton Appointed to Board of Directors of Garrett Motion Inc.",
+    "author": "Na",
+    "published_utc": "2026-07-27T21:50:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333922/0/en/Dave-Crompton-Appointed-to-Board-of-Directors-of-Garrett-Motion-Inc.html",
     "tickers": [
-      "CMI",
-      "TM",
-      "HMC"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/4dd86111-357b-4ebb-a312-b21bb3aee9c7",
-    "description": "The 2026 State of Sustainable Fleets Market Brief reveals that commercial fleets pursuing diversified powertrain strategies are best positioned to weather a prolonged freight recession, federal funding cuts, and policy reversals. Despite significant federal clean transportation funding cuts, over $5 billion in state and local programs remain available through 2028. AI adoption in fleet management has moved to mainstream operations, renewable fuels are displacing conventional diesel at scale, and battery-electric vehicles are showing cost competitiveness in specific duty cycles, while hydrogen faces headwinds from funding cuts.",
-    "keywords": [
-      "sustainable fleets",
-      "powertrain diversification",
-      "freight recession",
-      "battery-electric vehicles",
-      "renewable fuels",
-      "artificial intelligence",
-      "natural gas vehicles",
-      "hydrogen fuel cells",
-      "federal policy",
-      "total cost of ownership"
-    ],
-    "insights": [
-      {
-        "ticker": "CMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted for successful commercialization of X15N 15-liter natural gas engine delivering diesel-equivalent performance; advancing fuel cell modules for hydrogen vehicles; positioned as innovator in alternative powertrains."
-      },
-      {
-        "ticker": "TM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as continuing hydrogen fuel cell development despite sector challenges; limited specific achievements mentioned in the article."
-      },
-      {
-        "ticker": "HMC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as advancing fuel cell modules amid hydrogen sector difficulties; minimal detail provided on specific initiatives or market performance."
-      }
-    ]
-  },
-  {
-    "id": "f3ba9b7bca248e0c20c935f4fad41accecb8bc68dcf0532126b8022a90ac2123",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Clean Energy Broadens RNG Footprint With New Stations Positioned on Key Freight Corridors",
-    "author": "Business Wire",
-    "published_utc": "2026-05-04T10:30:00Z",
-    "article_url": "https://www.benzinga.com/pressreleases/26/05/b52242005/clean-energy-broadens-rng-footprint-with-new-stations-positioned-on-key-freight-corridors?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "CLNE",
+      "GTX",
       "CMI"
     ],
-    "image_url": "https://cdn.benzinga.com/files/imagecache/bz2_opengraph_meta_image_400x300/sites/all/themes/bz2/images/bz-icon.png",
-    "description": "Clean Energy Fuels Corp. announced the opening of six new renewable natural gas (RNG) fueling stations strategically located along major freight corridors in California, New Jersey, Oklahoma, Michigan, and Washington. The expansion supports growing demand from heavy-duty truck fleets seeking cost savings and emissions reductions, and aligns with the adoption of Cummins' X15N natural gas engine. The company now operates over 600 fueling locations across North America.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/0db28670-912f-41a2-8a9f-839476eadf92",
+    "description": "Garrett Motion announced the appointment of Dave Crompton, Executive Chair and Co-Founder of Pioneer Clean Fleet Solutions and former President and CEO of Achates Power, to its Board of Directors. Crompton brings over 40 years of leadership experience in commercial transportation, industrial, and power generation, including 28 years at Cummins Inc. The appointment is expected to support Garrett's strategy to expand beyond automotive into industrial applications.",
     "keywords": [
-      "renewable natural gas",
-      "RNG stations",
-      "heavy-duty trucks",
-      "freight corridors",
-      "emissions reduction",
-      "clean fuel",
-      "Cummins X15N engine",
-      "decarbonization"
+      "board appointment",
+      "turbocharging",
+      "electrification technologies",
+      "automotive",
+      "industrial applications",
+      "powertrain technologies",
+      "fuel cell compressors",
+      "electric propulsion"
     ],
     "insights": [
       {
-        "ticker": "CLNE",
+        "ticker": "GTX",
         "sentiment": "positive",
-        "sentiment_reasoning": "The company is expanding its RNG station network with six new strategic locations, demonstrating business growth and market expansion. The timing aligns with high diesel prices, positioning RNG as an attractive alternative. The partnership with Cummins and growing fleet adoption indicate strong market demand and competitive advantage in the clean transportation sector."
-      },
-      {
-        "ticker": "CMI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cummins' X15N 15-liter natural gas engine is highlighted as a 'gamechanger' that enables long-haul and heavy-duty fleets to operate on RNG. The engine's availability from multiple OEMs and its role in supporting Clean Energy's expansion indicates positive market traction and growing adoption in the heavy-duty transportation sector."
-      }
-    ]
-  },
-  {
-    "id": "523d133221bcd8b66b35e130a4d0764749ca3bc4bd53ac54fcce607b259a2529",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "CVR Launches New Brand Identity and Leadership Team, Ushering in Next Era of Independence",
-    "author": "Not Specified",
-    "published_utc": "2026-04-29T17:52:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/04/29/3284161/0/en/CVR-Launches-New-Brand-Identity-and-Leadership-Team-Ushering-in-Next-Era-of-Independence.html",
-    "tickers": [
-      "CVI",
-      "ALSN",
-      "CMI",
-      "CARR"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/a03c5ee3-3c9b-4410-a485-5e2e760e5e6c",
-    "description": "CVR, an Indianapolis-based independent advertising and public relations agency founded in 1910, announced a rebrand and leadership restructuring. The agency introduced a new brand identity centered on 'clever creativity' and the tagline 'All In Your Business,' positioning itself around strategy-led creative work and human-centered storytelling. Leadership changes include Kevin Flynn as CEO and Matt Georgi as chief creative officer, with Blake Lofgren and Katie Clements as co-presidents. The repositioning reflects CVR's belief that agencies create value through insight, originality, and strong client relationships, particularly as AI and automation reshape the industry.",
-    "keywords": [
-      "advertising agency",
-      "rebrand",
-      "leadership transition",
-      "independent agency",
-      "strategy-led creative",
-      "integrated marketing",
-      "Midwest agency"
-    ],
-    "insights": [
-      {
-        "ticker": "CVI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The agency is undergoing strategic repositioning with new leadership, expanded service offerings, and a clear market differentiation strategy. The rebrand reflects confidence in the agency's direction, investment in talent through promotions, and emphasis on competitive advantages (independence, integrated model, human-centered work) in a changing industry landscape."
-      },
-      {
-        "ticker": "ALSN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a client of CVR. No specific information about the business relationship, performance, or impact is provided in the article."
+        "sentiment_reasoning": "The appointment of an experienced industry executive with deep expertise in advanced powertrain technologies and a strong track record at major companies like Cummins strengthens the board's capabilities. This signals confidence in the company's strategy to expand beyond automotive into industrial applications and supports long-term value creation."
       },
       {
         "ticker": "CMI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a client of CVR. No specific information about the business relationship, performance, or impact is provided in the article."
-      },
-      {
-        "ticker": "CARR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a client of CVR. No specific information about the business relationship, performance, or impact is provided in the article."
+        "sentiment_reasoning": "Cummins is mentioned only as a former employer of the newly appointed board member. The mention is historical context with no direct impact on Cummins' current operations or strategy."
       }
     ]
   }

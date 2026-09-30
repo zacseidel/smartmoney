@@ -1,0 +1,36 @@
+{
+  "ticker": "SITM",
+  "name": "SiTime Corporation Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001451809",
+  "composite_figi": "BBG00QNSY1H7",
+  "share_class_figi": "BBG00QNSY276",
+  "market_cap": 19589174981.48,
+  "phone_number": "408-328-4400",
+  "address": {
+    "address1": "SITIME CORPORATION",
+    "address2": "5451 PATRICK HENRY DRIVE",
+    "city": "SANTA CLARA",
+    "state": "CA",
+    "postal_code": "95054"
+  },
+  "description": "SiTime Corp is a provider of Precision Timing solutions to the international electronics industry, providing the timing functionality needed for electronics to operate reliably and correctly. The Company's products are designed to address a wide range of applications across a broad array of end markets. The Company operates a fabless business model and leverages its international network of distributors to address the end markets it serves. The Company operates in one reportable segment related to the design, development, and sale of silicon timing systems solutions. It operates in Hong Kong, Taiwan, the United States, Singapore, and other regions, with the majority of revenue coming from Hong Kong.",
+  "sic_code": "3674",
+  "sic_description": "SEMICONDUCTORS & RELATED DEVICES",
+  "ticker_root": "SITM",
+  "homepage_url": "https://www.sitime.com",
+  "total_employees": 441,
+  "list_date": "2019-11-21",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2l0aW1lLmNvbQ/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/c2l0aW1lLmNvbQ/images/2026-09-01_icon.png"
+  },
+  "share_class_shares_outstanding": 30071036,
+  "weighted_shares_outstanding": 30071036,
+  "round_lot": 40
+}

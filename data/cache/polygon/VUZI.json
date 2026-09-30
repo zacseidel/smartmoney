@@ -1,0 +1,36 @@
+{
+  "ticker": "VUZI",
+  "name": "Vuzix Corporation",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001463972",
+  "composite_figi": "BBG000QKVV49",
+  "share_class_figi": "BBG001T6DHT9",
+  "market_cap": 233827417.1,
+  "phone_number": "585-359-5900",
+  "address": {
+    "address1": "25 HENDRIX ROAD",
+    "address2": "SUITE A",
+    "city": "WEST HENRIETTA",
+    "state": "NY",
+    "postal_code": "14586"
+  },
+  "description": "Vuzix Corp is engaged in the design, manufacture, and marketing of Artificial Intelligence (AI)-powered Smart Glasses, Waveguides, and Augmented Reality (AR) technologies. Its solutions serve the enterprise, medical, defense, security, and select consumer markets, offering cutting-edge wearable computing and display technologies that enhance productivity and operational efficiency. Its products include near-eye displays (NEDs), heads-up displays (HUDs), and wearable computing devices and third-party original design manufacturer (ODM) and original equipment manufacturer (OEM) devices. Geographically, the company generates a majority of its revenue from the United States and also has a presence in Japan, the Netherlands, and other countries.",
+  "sic_code": "3663",
+  "sic_description": "RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT",
+  "ticker_root": "VUZI",
+  "homepage_url": "https://www.vuzix.com",
+  "total_employees": 88,
+  "list_date": "2009-12-24",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/dnV6aXguY29t/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/dnV6aXguY29t/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 84414230,
+  "weighted_shares_outstanding": 84414230,
+  "round_lot": 100
+}

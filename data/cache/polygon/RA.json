@@ -1,0 +1,25 @@
+{
+  "ticker": "RA",
+  "name": "Brookfield Real Assets Income Fund Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "FUND",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001655099",
+  "composite_figi": "BBG00FF5CTP4",
+  "share_class_figi": "BBG00FF5CVF0",
+  "market_cap": 641507020.56,
+  "description": "Brookfield Real Assets Income Fund Inc. is a diversified, closed-end management investment company. The investment objective of the Fund is to seek high total return, through high current income and secondarily, through growth of capital. The Fund seeks to achieve its investment objective by investing in the real asset class, which includes the following: Real Estate Securities, Infrastructure Securities, and Natural Resources Securities. The Fund operates in a single operating segment.",
+  "ticker_root": "RA",
+  "homepage_url": "https://www.brookfield.com",
+  "total_employees": 1200,
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YnJvb2tmaWVsZC5jb20/images/2026-09-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YnJvb2tmaWVsZC5jb20/images/2026-09-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 55254696,
+  "weighted_shares_outstanding": 55254696,
+  "round_lot": 100
+}

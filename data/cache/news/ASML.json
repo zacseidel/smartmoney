@@ -1,100 +1,52 @@
 [
   {
-    "id": "b7a83604f164c63cc5e477dd0d3ca772a831e2690b4452e0399d3fc9425a7fa6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Better International ETF: Schwab's SCHF vs. the iShares IEFA",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-08T01:20:00Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/09/07/better-international-etf-schwab-s-schf-vs-the-ishares-iefa/?source=iedfolrf0000001",
-    "tickers": [
-      "SCHF",
-      "IEFA",
-      "ASML"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7669db1dbfa6e097df450be5b22faf5d854bd54d-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two international equity ETFs targeting developed markets outside the U.S. SCHF offers a lower expense ratio (0.03% vs 0.07%) and stronger 1-year performance (29.3% vs 21.8%), with significant exposure to South Korean semiconductor companies. IEFA provides greater scale ($196B AUM), broader diversification (2,616 holdings), and higher dividend yield (3.3% vs 3.0%). The choice depends on investor priorities: SCHF for AI/semiconductor exposure and lower costs, IEFA for liquidity and small-cap international exposure.",
-    "keywords": [
-      "international ETF",
-      "developed markets",
-      "expense ratio",
-      "dividend yield",
-      "semiconductor exposure",
-      "diversification",
-      "South Korea",
-      "AI boom"
-    ],
-    "insights": [
-      {
-        "ticker": "SCHF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SCHF demonstrates superior 1-year performance (29.3%), lower expense ratio (0.03%), and strategic exposure to high-growth South Korean semiconductor companies (Samsung, SK Hynix) benefiting from AI trends. Lower share price post-2024 split also improves accessibility."
-      },
-      {
-        "ticker": "IEFA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "IEFA offers significant advantages including massive scale ($196B AUM), superior liquidity, broader diversification (2,616 holdings), higher dividend yield (3.3%), and exposure to international small-cap stocks. Better for risk-averse investors seeking comprehensive developed market exposure."
-      },
-      {
-        "ticker": "ASML",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding in both funds (2.58% in IEFA, 2.21% in SCHF), indicating strong positioning in semiconductor equipment manufacturing, a key beneficiary of AI infrastructure growth."
-      }
-    ]
-  },
-  {
-    "id": "d86ab56c66a0b0d18b10825628ccf5f0d06bda50994b3681f557a8794e00e05c",
+    "id": "92cb5439bf10854deefe996364759275c3a1367780c760c8c02c3dae30fdfc82",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ASML Bets Big on AI & Capacity Expansion: Should You Buy the Stock?",
+    "title": "KLAC's Backlog Surges on AI Demand: Can It Outpace AMAT & ASML?",
     "author": "Na",
-    "published_utc": "2026-09-07T15:28:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985912/asml-bets-big-on-ai-capacity-expansion-should-you-buy-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985912",
+    "published_utc": "2026-09-29T14:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2997586/klac-s-backlog-surges-on-ai-demand-can-it-outpace-amat-asml?cid=CS-ZC-FT-analyst_blog|quick_take-2997586",
     "tickers": [
-      "ASML",
-      "AEIS",
-      "SIMO"
+      "KLAC",
+      "AMAT",
+      "ASML"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/212.jpg",
-    "description": "ASML is well-positioned to capitalize on AI-driven demand for advanced semiconductors, with plans to ship approximately 65 Low-NA EUV systems in 2026 and expand capacity by 30% in 2027. However, growth remains dependent on sustained customer spending and faces headwinds from export restrictions, geopolitical tensions, and potential cyclical downturns in semiconductor capital spending.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/183568.webp",
+    "description": "KLA Corporation's backlog surged to $12.57B, driven by AI infrastructure investments and semiconductor demand. The company expects advanced-packaging revenues to reach $1.1B in 2026, up 70% year-over-year. However, KLAC faces intense competition from Applied Materials and ASML, with the stock trading at a premium valuation and holding a Zacks Rank #4 (Sell) rating.",
     "keywords": [
-      "ASML",
-      "EUV lithography",
-      "semiconductor manufacturing",
+      "semiconductor equipment",
       "AI infrastructure",
-      "capacity expansion",
-      "Low-NA EUV",
-      "DUV immersion",
-      "geopolitical risks"
+      "backlog growth",
+      "process control",
+      "advanced packaging",
+      "competitive pressure",
+      "valuation premium"
     ],
     "insights": [
       {
+        "ticker": "KLAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong backlog growth to $12.57B, driven by AI infrastructure buildout; advanced-packaging revenues expected to grow 70% YoY; improved revenue visibility and market share positioning support continued growth into 2027."
+      },
+      {
+        "ticker": "AMAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Benefiting from same AI-driven semiconductor equipment upcycle; process diagnostics business expected to grow over 50% in 2026; expanding manufacturing capacity to double quarterly output by 2028."
+      },
+      {
         "ticker": "ASML",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While ASML demonstrates strong growth catalysts from AI-driven semiconductor demand and positive earnings estimate revisions (58.1% for 2026, 79.9% for 2027), the Zacks Rank #3 (Hold) rating reflects significant operational risks including dependency on sustained customer spending, export restrictions, geopolitical tensions, and execution challenges in scaling production without disrupting costs. The neutral sentiment balances bullish fundamentals against material downside risks."
-      },
-      {
-        "ticker": "AEIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a peer comparison with 81.9% one-year gain, without substantive analysis or sentiment indicators in the article."
-      },
-      {
-        "ticker": "SIMO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a peer comparison with 202% one-year gain, without substantive analysis or sentiment indicators in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong growth expected across all segments in 2026 (advanced foundry/logic +25%, memory +75%, EUV +45%); planning significant capacity expansions for Low-NA EUV in 2027 and 2028."
       }
     ]
   },
   {
-    "id": "1f12fddf416485d2dd97859b13d6d8122334f069744c455400e3bfa9bcfa3a8b",
+    "id": "bce1cfa37bb5e1eb4692b60cc0317b38636f0eec2404a2931cb7f879899903f8",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
@@ -103,105 +55,174 @@
     },
     "title": "ASML reports transactions under its current share buyback program",
     "author": "Na",
-    "published_utc": "2026-09-07T12:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/07/3357097/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html",
+    "published_utc": "2026-09-28T12:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3369809/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html",
     "tickers": [
       "ASML"
     ],
     "image_url": "https://ml-eu.globenewswire.com/Resource/Download/0e922787-0d4f-4763-99ed-f3c70bdc20b1",
-    "description": "ASML Holding N.V. reports share repurchase transactions conducted between August 31 and September 4, 2026, under its buyback program announced on January 28, 2026. The company repurchased a total of 314,178 shares across five trading days at weighted average prices ranging from \u20ac1,420.11 to \u20ac1,468.54 per share, totaling approximately \u20ac453.1 million.",
+    "description": "ASML Holding N.V. reports share repurchase transactions conducted between September 21-25, 2026, under its current buyback program announced on January 28, 2026. The company repurchased a total of 165,200 shares across five trading days at weighted average prices ranging from \u20ac1,479.91 to \u20ac1,533.55 per share, totaling approximately \u20ac248.16 million.",
     "keywords": [
       "share buyback",
       "share repurchase",
       "ASML",
+      "Market Abuse Regulation",
       "semiconductor",
-      "Market Abuse Regulation"
+      "capital allocation"
     ],
     "insights": [
       {
         "ticker": "ASML",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The article is a routine regulatory disclosure of share buyback transactions. While share buybacks can indicate management confidence in the company's valuation and provide shareholder returns, this is a standard procedural announcement with no new strategic information, financial results, or market-moving developments. The sentiment is neutral as it represents normal capital allocation activity."
+        "sentiment_reasoning": "The article reports routine share buyback transactions as part of an announced program. Share buybacks are generally viewed as a neutral to slightly positive signal of management confidence, but this is a standard regulatory disclosure with no new strategic information or material developments. The consistent execution of the program at stable prices reflects normal capital allocation activity."
       }
     ]
   },
   {
-    "id": "4356dc4f44f9927f77bd186ac864c5366636162c1650e380dbad3f9d7a60902a",
+    "id": "87a9e3f40554de64acec7c8043da332d686c20e70850871c52d60419767e0f9d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why ASML Holding Stock Bumped 4% Higher Today",
-    "author": "Eric Volkman",
-    "published_utc": "2026-09-04T22:31:22Z",
-    "article_url": "https://www.fool.com/investing/2026/09/04/why-asml-holding-stock-bumped-4-higher-today/?source=iedfolrf0000001",
+    "title": "Prediction: Micron Will Crush Earnings And...",
+    "author": "Geoffrey Seiler",
+    "published_utc": "2026-09-26T14:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/26/prediction-micron-will-crush-earnings-and-it-wont/?source=iedfolrf0000001",
+    "tickers": [
+      "MU",
+      "SKHY",
+      "ASML"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888821%2Fmicron.png&w=1200&op=resize",
+    "description": "Micron Technology is expected to report strong fiscal Q4 earnings driven by the AI-driven memory supercycle, with surging demand for DRAM and NAND. However, despite blowout results, the stock may not rally significantly as investors are increasingly concerned about when the memory supercycle will end. Micron's lower HBM market share (18% vs competitors' 50%+ shares) makes it more exposed to potential pullbacks in conventional DRAM and NAND prices.",
+    "keywords": [
+      "memory supercycle",
+      "DRAM",
+      "NAND",
+      "HBM (high-bandwidth memory)",
+      "AI chips",
+      "supply constraints",
+      "earnings report",
+      "market cycle"
+    ],
+    "insights": [
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Micron is positioned for strong earnings due to favorable supply-demand dynamics in the memory market, the article suggests the stock may not benefit from the earnings beat. Investors are increasingly wary of the supercycle's duration, and Micron's lower HBM market share (18%) compared to competitors makes it more vulnerable to price pullbacks in conventional DRAM and NAND."
+      },
+      {
+        "ticker": "SKHY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "SK Hynix has a 50% market share in HBM production, significantly higher than Micron's 18%, positioning it better to benefit from the high-margin HBM demand driven by AI chip companies seeking long-term supply agreements."
+      },
+      {
+        "ticker": "ASML",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ASML is the sole manufacturer of extreme ultraviolet (EUV) lithography machines critical for HBM production, creating a significant bottleneck that benefits the company as demand for these machines surges with the memory supercycle."
+      }
+    ]
+  },
+  {
+    "id": "fc81a45957f8dcf939a5672ba6a099c7a391789f219012a2d48ecd7f13aa98ab",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia and AMD Can't Make AI Chips Without This Growth Stock. Here's Why It Could Soar.",
+    "author": "Harsh Chauhan",
+    "published_utc": "2026-09-22T12:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/nvidia-and-amd-cant-make-ai-chips-without-this-gro/?source=iedfolrf0000001",
     "tickers": [
       "ASML",
+      "NVDA",
+      "AMD",
+      "TSM",
       "MU",
-      "SNDK"
+      "INTC",
+      "SKHY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886485%2Fperson-using-a-laptop-and-tablet-simultaneously.jpg&w=1200&op=resize",
-    "description": "ASML Holding stock rose 4% following a bullish analyst report from Lynx Equity Strategies on memory chipmakers Micron Technology and Sandisk. The report cited strong prospects for these chipmakers as they ramp up production to meet AI-driven demand for computing power. ASML, which supplies essential lithography systems to chipmakers, is positioned to benefit from this industry expansion.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888249%2Fasml3.jpg&w=1200&op=resize",
+    "description": "ASML, a Dutch semiconductor equipment maker, holds a monopoly on extreme ultraviolet (EUV) lithography machines essential for manufacturing advanced AI chips. With Nvidia and AMD relying on ASML's technology through foundries like TSMC, the company is positioned to benefit from surging demand for AI infrastructure and memory chips, expecting 25% growth in foundry/logic sales and 75% growth in memory system sales in 2026.",
     "keywords": [
-      "ASML",
-      "lithography systems",
-      "semiconductor",
-      "AI demand",
-      "Micron Technology",
-      "Sandisk",
-      "chipmakers",
-      "pick-and-shovel investment"
+      "AI chips",
+      "semiconductor equipment",
+      "EUV lithography",
+      "chip manufacturing",
+      "memory chips",
+      "AI infrastructure"
     ],
     "insights": [
       {
         "ticker": "ASML",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 4% on sympathy rally from bullish chipmaker analysis. Positioned as an attractive 'pick-and-shovel' play on AI revolution with indispensable lithography technology for chipmakers ramping up production."
+        "sentiment_reasoning": "ASML holds a monopoly in EUV lithography with strong growth prospects. The company expects 25% growth in foundry/logic sales and 75% growth in memory sales in 2026, driven by AI chip demand. Stock has risen 60% in 2026 and trades at reasonable 28x forward earnings with long-term EPS growth expected over 30% annually."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Nvidia is mentioned as a major AI chip designer dependent on ASML's manufacturing equipment. While the company benefits from AI demand, the article focuses on ASML's critical role rather than Nvidia's prospects."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "AMD is presented similarly to Nvidia as a fabless chipmaker relying on ASML's technology and TSMC manufacturing. The article emphasizes ASML's importance rather than AMD's competitive position."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "TSMC is mentioned as a key foundry partner manufacturing chips for Nvidia and AMD using ASML's equipment, but the article does not provide specific analysis of TSMC's prospects."
       },
       {
         "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Lynx Equity Strategies rated as clear buy with 33% anticipated upside. Stock rose 6% following the bullish analyst report citing solid prospects driven by AI-driven computing demand."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Micron is identified as a memory chip supplier and manufacturer investing in EUV lithography for AI workloads, but receives limited analysis in the article."
       },
       {
-        "ticker": "SNDK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Lynx Equity Strategies rated as clear buy with 49% anticipated upside. Stock surged nearly 12% following the bullish report, with strong prospects as chipmakers scale up for AI demand."
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Intel is mentioned as a foundry collaborating with ASML to increase EUV machine sales, but no specific sentiment or analysis is provided."
+      },
+      {
+        "ticker": "SKHY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "SK Hynix is mentioned as a memory manufacturer using EUV lithography and predicting memory shortages until 2030, but no specific investment thesis is provided."
       }
     ]
   },
   {
-    "id": "1a69404e247da5550ede9efb30ca30fa2a570b52d0402b78bc93b5801761ae25",
+    "id": "df2714c33dbf885ad521982920127808a6623bf1330f42259de7a02ba5551919",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ASML (ASML) Stock Sinks As Market Gains: What You Should Know",
+    "title": "ASML (ASML) Surpasses Market Returns: Some Facts Worth Knowing",
     "author": "Na",
-    "published_utc": "2026-09-03T21:45:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2984794/asml-asml-stock-sinks-as-market-gains-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2984794",
+    "published_utc": "2026-09-21T21:45:05Z",
+    "article_url": "https://www.zacks.com/stock/news/2993252/asml-asml-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993252",
     "tickers": [
       "ASML"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default104.jpg",
-    "description": "ASML closed at $1,646.19, down 2.15% and underperforming the S&P 500's 1.06% gain. The semiconductor equipment supplier is expected to report earnings on October 14, 2026, with projected EPS of $12.59 (up 96.41% YoY) and quarterly revenue of $13.18 billion (up 49.99% YoY). ASML carries a Zacks Rank #3 (Hold) with a Forward P/E of 37.39, trading at a premium to its industry average.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default38.jpg",
+    "description": "ASML rose 1.87% to $1,711.32 in the latest session, outperforming the S&P 500's 1.49% gain. However, the semiconductor equipment supplier has declined 4.75% over the past month. Ahead of its October 14, 2026 earnings report, analysts expect $12.54 EPS (95.63% YoY growth) and $13.18B revenue (49.99% growth). ASML carries a Zacks Rank #3 (Hold) with a Forward P/E of 38.09, trading at a premium to its industry average of 30.75.",
     "keywords": [
-      "ASML",
       "semiconductor equipment",
       "earnings forecast",
       "stock performance",
-      "Zacks Rank",
-      "valuation metrics"
+      "valuation metrics",
+      "analyst estimates"
     ],
     "insights": [
       {
         "ticker": "ASML",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While ASML shows strong projected earnings growth (96.41% YoY) and revenue growth (49.99% YoY), the stock underperformed the broader market on the trading day and over the past month. The Zacks Rank #3 (Hold) rating and premium Forward P/E ratio of 37.39 suggest the positive growth expectations are already priced in, warranting a neutral stance rather than a bullish outlook."
+        "sentiment_reasoning": "While ASML shows strong expected earnings growth (95.63% YoY) and revenue growth (49.99% YoY), the stock has underperformed over the past month (-4.75%) and carries a Hold rating (Zacks Rank #3). The Forward P/E of 38.09 is at a premium to industry average, suggesting the positive growth expectations may already be priced in. Recent analyst estimate revisions have been slightly negative (-1.67% over 30 days)."
       }
     ]
   }

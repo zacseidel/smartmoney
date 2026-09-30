@@ -1,5 +1,110 @@
 [
   {
+    "id": "6dd1b1e46bbe25c26ff29643e6c9d0736d7e50de6cf1ce9016abfa8e054598bf",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "BP Walked Away From a Potential $4.5 Billion Bet on Devon Energy's Eagle Ford Shale. Here's What It Means for BP and DVN Stock.",
+    "author": "John Bromels",
+    "published_utc": "2026-09-25T22:18:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/25/bp-walked-away-from-a-potential-usd4-5-billion-bet-on-devon-energy-s-eagle-ford-shale-here-s-what-it-means-for-bp-and-dvn-stock/?source=iedfolrf0000001",
+    "tickers": [
+      "DVN",
+      "BP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0f4da48f019ed6281c2880b692da26e481a293b5-6160x3465.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "BP has reportedly withdrawn from negotiations to purchase Devon Energy's Eagle Ford Shale assets, valued at approximately $4.5 billion. The decision comes as Devon faces pressure from activist investor TOMS Capital to divest assets or sell itself entirely. BP cited capital discipline concerns, likely due to uncertainty about global oil prices if the Iran conflict ends, causing Devon's stock to drop 3.6% on the news.",
+    "keywords": [
+      "shale assets",
+      "M&A",
+      "activist investor",
+      "divestiture",
+      "capital discipline",
+      "Eagle Ford Shale",
+      "oil prices",
+      "geopolitical risk"
+    ],
+    "insights": [
+      {
+        "ticker": "DVN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lost a potential $4.5 billion buyer, making it harder to meet activist investor demands for asset sales. Stock fell 3.6% on the news, and the company now faces uncertainty about finding alternative buyers for its fragmented portfolio."
+      },
+      {
+        "ticker": "BP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Demonstrated capital discipline by walking away from a potentially overpriced asset amid geopolitical uncertainty. While this avoids overpaying, it also signals BP is prioritizing debt reduction over growth opportunities. Stock declined only 0.4%, reflecting minimal market impact."
+      }
+    ]
+  },
+  {
+    "id": "12f73715837a60c66fc5965f04f80492b4bfa31faa56566a0993b5319687c1db",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the First Trust Energy AlphaDEX ETF (FXN)?",
+    "author": "Na",
+    "published_utc": "2026-09-22T10:20:01Z",
+    "article_url": "https://www.zacks.com/stock/news/2993403/should-you-invest-in-the-first-trust-energy-alphadex-etf-fxn?cid=CS-ZC-FT-sector_etf-2993403",
+    "tickers": [
+      "FXN",
+      "DINO",
+      "APA",
+      "DVN",
+      "VDE",
+      "XLE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default176.jpg",
+    "description": "The First Trust Energy AlphaDEX ETF (FXN) is a passively managed energy sector ETF with $372.29 million in assets and a 0.63% expense ratio. The fund has gained 39.5% over the past year with a beta of 0.55 but carries high risk with a 25.3% standard deviation. It holds a Zacks ETF Rank of 2 (Buy) and is concentrated in energy stocks with top holdings including HF Sinclair Corp., APA Corporation, and Devon Energy Corporation.",
+    "keywords": [
+      "energy ETF",
+      "passive management",
+      "sector exposure",
+      "expense ratio",
+      "dividend yield",
+      "performance",
+      "risk assessment"
+    ],
+    "insights": [
+      {
+        "ticker": "FXN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The ETF received a Zacks ETF Rank of 2 (Buy) and demonstrated strong year-to-date performance of 44.75%. The 0.63% expense ratio is competitive, and it offers diversified energy sector exposure with a reasonable dividend yield of 1.57%."
+      },
+      {
+        "ticker": "DINO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as the largest holding in FXN at 6.11% of assets, but no independent analysis or sentiment is provided about the company itself."
+      },
+      {
+        "ticker": "APA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a top holding in FXN, but no specific performance or sentiment information is provided."
+      },
+      {
+        "ticker": "DVN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among top holdings of FXN, but no independent analysis or sentiment is provided."
+      },
+      {
+        "ticker": "VDE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a competitive alternative with significantly lower expense ratio of 0.09% and substantially larger assets of $10.65 billion."
+      },
+      {
+        "ticker": "XLE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as an alternative option with the lowest expense ratio at 0.08% and the largest asset base at $40.56 billion among the alternatives mentioned."
+      }
+    ]
+  },
+  {
     "id": "748bcc4b7ef5139d6116b9f185b7d6cb740ddf6b0ecf7d47d336385254514220",
     "publisher": {
       "name": "The Motley Fool",
@@ -152,85 +257,6 @@
         "ticker": "DVN",
         "sentiment": "neutral",
         "sentiment_reasoning": "Holds 13% stake in Fervo Energy, benefiting indirectly from the company's success and validation of enhanced geothermal technology, but not directly involved in the Google deal announcement."
-      }
-    ]
-  },
-  {
-    "id": "7d2bc4a60ba43732691a7729cd5bcadd7fee6440425045e359e155aca5d12770",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Oil is Starting to Flow Out of the Strait of Hormuz Again. Should You Still Buy Oil Stocks?",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-04T13:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/04/oil-is-starting-to-flow-out-of-the-strait-of-hormu/?source=iedfolrf0000001",
-    "tickers": [
-      "CVX",
-      "DVN",
-      "FANG"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875830%2F22_10_24-a-person-in-front-of-energy-infrastructure-_mf-dload.jpg&w=1200&op=resize",
-    "description": "Following geopolitical tensions in the Middle East that temporarily spiked oil prices, the market has cooled and prices have returned to pre-conflict levels. Despite this, major oil companies warn that prices don't reflect true industry fundamentals. The article argues that oil and natural gas remain vital to the global economy and recommends integrated energy companies like ExxonMobil and Chevron over pure-play drillers due to their diversification across the energy value chain, geographic spread, conservative leverage, and decades of dividend growth.",
-    "keywords": [
-      "oil prices",
-      "Middle East geopolitical conflict",
-      "energy sector",
-      "integrated energy companies",
-      "dividend stocks",
-      "commodity volatility",
-      "Strait of Hormuz"
-    ],
-    "insights": [
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a top energy investment with similar strengths to ExxonMobil: integrated operations, global diversification, low leverage (0.25x debt-to-equity), consistent dividend growth, and higher current dividend yield of 4.1%. Also benefits from management's view that oil prices don't reflect true fundamentals."
-      },
-      {
-        "ticker": "DVN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a pure-play onshore U.S. driller but cautioned against for long-term investors due to complete reliance on oil and natural gas prices without diversification across the energy value chain, making it more volatile than integrated competitors."
-      },
-      {
-        "ticker": "FANG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Similar to Devon Energy, presented as a pure-play driller with exposure limited to commodity prices and lacking the diversification benefits of integrated energy companies, making it less suitable for most long-term investors seeking stability."
-      }
-    ]
-  },
-  {
-    "id": "b86f8cb9a18730410dd02da083638438b1f7302f796fd874aa6e9252777dcfe2",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Devon Announces Expiration and Final Results of its Private Exchange Offers and Consent Solicitations",
-    "author": "Na",
-    "published_utc": "2026-06-24T10:55:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/24/3316692/0/en/Devon-Announces-Expiration-and-Final-Results-of-its-Private-Exchange-Offers-and-Consent-Solicitations.html",
-    "tickers": [
-      "DVN"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/08a7f129-4e96-45d8-a4b4-7f85c56da4ae",
-    "description": "Devon Energy Corporation announced the final results of its exchange offers for Coterra Energy's outstanding notes. The company successfully exchanged approximately $2.98 billion in aggregate principal amount of Existing Coterra Notes for new Devon Notes and cash, with settlement expected on June 25, 2026. The exchange offers achieved strong participation rates across all note series, ranging from 65.76% to 97.89%.",
-    "keywords": [
-      "exchange offer",
-      "debt refinancing",
-      "Coterra Energy",
-      "senior notes",
-      "merger integration",
-      "securities offering"
-    ],
-    "insights": [
-      {
-        "ticker": "DVN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company successfully completed a significant debt exchange offer with strong participation rates across all note series (65.76%-97.89%), demonstrating investor confidence. The refinancing consolidates Coterra's debt under Devon following their merger, improving capital structure and financial flexibility. The high tender rates indicate successful execution of the company's post-merger integration strategy."
       }
     ]
   }

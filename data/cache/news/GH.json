@@ -1,5 +1,366 @@
 [
   {
+    "id": "bee5ef981dce1117e6b38a6134d3a4d3fa84630fcc2691d719fd7770798b796c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AstraZeneca Secures FDA Nod for New Breast Cancer Therapy Etcamah",
+    "author": "Na",
+    "published_utc": "2026-09-07T12:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2985718/astrazeneca-secures-fda-nod-for-new-breast-cancer-therapy-etcamah?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-2985718",
+    "tickers": [
+      "AZN",
+      "PFE",
+      "NVS",
+      "LLY",
+      "GH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e5/1416.jpg",
+    "description": "The FDA has granted accelerated approval to AstraZeneca's Etcamah (camizestrant) combined with CDK4/6 inhibitors for treating HR-positive, HER2-negative advanced breast cancer. The combination reduced disease progression or death risk by 56% compared to standard treatment. The FDA also approved Guardant360 CDx diagnostic test to identify patients with ESR1 mutations eligible for this therapy.",
+    "keywords": [
+      "FDA approval",
+      "breast cancer",
+      "Etcamah",
+      "CDK4/6 inhibitors",
+      "accelerated approval",
+      "SERENA-6 study",
+      "companion diagnostic",
+      "estrogen receptor degrader"
+    ],
+    "insights": [
+      {
+        "ticker": "AZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "FDA approval of Etcamah represents the company's 10th FDA approval this year and 4th in breast cancer, with strong clinical efficacy data showing 56% risk reduction. However, stock has underperformed YTD (-11.5%), and the approval faced initial advisory committee rejection, requiring additional data submission."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Ibrance (palbociclib) is approved as one of three CDK4/6 inhibitors to be used in combination with Etcamah, but this represents a complementary use rather than direct benefit to Pfizer's business."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Kisqali (ribociclib) is approved as one of three CDK4/6 inhibitors to be used in combination with Etcamah, but this represents a complementary use rather than direct benefit to Novartis's business."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Verzenio (abemaciclib) is approved as one of three CDK4/6 inhibitors to be used in combination with Etcamah, but this represents a complementary use rather than direct benefit to Eli Lilly's business."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "FDA approval of Guardant360 CDx companion diagnostic test validates the diagnostic tool and strengthens Guardant's multi-year collaboration with AstraZeneca, supporting future revenue opportunities."
+      }
+    ]
+  },
+  {
+    "id": "fc35cb50a0398fdfcff79870a953624aeab5254a2f273550293a2acb1efdbb4d",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Global Blood-Based Biomarkers Market to Witness Upsurge in Growth at a CAGR of ~9% by 2034 | DelveInsight",
+    "author": "Delveinsight",
+    "published_utc": "2026-08-27T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/27/3352314/0/en/global-blood-based-biomarkers-market-to-witness-upsurge-in-growth-at-a-cagr-of-9-by-2034-delveinsight.html",
+    "tickers": [
+      "RHHBY",
+      "ABT",
+      "TMO",
+      "DGX",
+      "LH",
+      "BIO",
+      "BIO.B",
+      "QTRX",
+      "GH",
+      "SMMNY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+    "description": "The global blood-based biomarkers market is projected to grow from USD 8.5 billion in 2025 to USD 18.5 billion by 2034, driven by increasing demand for non-invasive diagnostics, rising chronic disease prevalence, and advances in genomics and liquid biopsy technologies. North America leads with 44% market share, while Asia-Pacific shows fastest growth. Key players include Roche, Abbott, Siemens Healthineers, and Thermo Fisher Scientific.",
+    "keywords": [
+      "blood-based biomarkers",
+      "liquid biopsy",
+      "precision medicine",
+      "non-invasive diagnostics",
+      "Alzheimer's disease biomarkers",
+      "circulating tumor DNA",
+      "genomics",
+      "proteomics",
+      "artificial intelligence",
+      "clinical diagnostics"
+    ],
+    "insights": [
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Roche received FDA clearance for Elecsys pTau181 test in October 2025 and is listed as a key market player with significant presence in blood-based biomarker diagnostics, particularly in Alzheimer's disease testing."
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Abbott is identified as a leading company in the blood-based biomarkers market with strong market presence and involvement in biomarker-based diagnostic solutions."
+      },
+      {
+        "ticker": "TMO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Thermo Fisher is highlighted as a key player in the market with advanced analytical platforms and molecular technologies supporting biomarker discovery and validation."
+      },
+      {
+        "ticker": "DGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Quest Diagnostics is identified as a leading company in the blood-based biomarkers market with significant diagnostic laboratory capabilities."
+      },
+      {
+        "ticker": "LH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "LabCorp launched FDA-cleared Alzheimer's plasma biomarker blood test nationwide in August 2025, demonstrating active market participation and innovation."
+      },
+      {
+        "ticker": "BIO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Bio-Rad is listed as a key player in the blood-based biomarkers market with involvement in diagnostic solutions."
+      },
+      {
+        "ticker": "BIO.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Bio-Rad is listed as a key player in the blood-based biomarkers market with involvement in diagnostic solutions."
+      },
+      {
+        "ticker": "QTRX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Quanterix partnered with Life Line Screening in February 2026 to bring advanced Alzheimer's disease biomarker diagnostics to community screening events, demonstrating active market expansion."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Guardant Health is identified as a key player in the blood-based biomarkers market, particularly in liquid biopsy and oncology diagnostics."
+      },
+      {
+        "ticker": "SMMNY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Siemens Healthineers is listed among key companies driving the blood-based biomarkers market with significant diagnostic technology capabilities."
+      }
+    ]
+  },
+  {
+    "id": "bf6c43e5e7f3aceaa4197798b5085cef64301adf62ce7e25052695296d3691f5",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "State of the Life Sciences Industry to Be Reviewed in BCC Research's 2026 Second Quarter Outlook, Spotlighting AI-Driven Discovery, Precision Oncology, and Connected Health Adoption",
+    "author": "Bcc Research",
+    "published_utc": "2026-08-25T12:54:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350469/0/en/state-of-the-life-sciences-industry-to-be-reviewed-in-bcc-research-s-2026-second-quarter-outlook-spotlighting-ai-driven-discovery-precision-oncology-and-connected-health-adoption.html",
+    "tickers": [
+      "ILMN",
+      "GH",
+      "TXG",
+      "CRL",
+      "EVO",
+      "TEVA",
+      "AZN",
+      "GSK",
+      "RHHBY",
+      "NVS",
+      "PFE",
+      "JNJ",
+      "BMY",
+      "CELGr",
+      "MRK",
+      "LLY",
+      "REGN",
+      "ABT",
+      "NEO"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d0c282b6-d496-45a8-a941-33fa5c3e824c",
+    "description": "BCC Research's mid-year assessment highlights AI-driven discovery, precision oncology, and connected health as major growth themes in the life sciences sector. Key opportunities include smart inhalers with AI integration, genomic profiling platforms, cardiovascular drug innovations, and in vitro toxicity testing. The sector benefits from aging populations, regulatory support for non-animal testing, and emerging market expansion, though risks include patent expirations and reimbursement variability.",
+    "keywords": [
+      "AI-driven discovery",
+      "precision oncology",
+      "connected health",
+      "genomic profiling",
+      "smart inhalers",
+      "liquid biopsy",
+      "in vitro toxicity testing",
+      "digital health",
+      "life sciences"
+    ],
+    "insights": [
+      {
+        "ticker": "ILMN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as well-positioned to capture market share in precision oncology and genomic profiling, which is identified as a high-growth vector with strong near-term revenue visibility."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as well-positioned in precision oncology segment anchored by genomic profiling, liquid biopsy, and MRD monitoring with strong near-term revenue visibility."
+      },
+      {
+        "ticker": "TXG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among competitive players in the genomic profiling and spatial profiling technologies space, which represents a high-growth vector in precision oncology."
+      },
+      {
+        "ticker": "CRL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Identified as an established player benefiting from regulatory tailwinds around non-animal testing methodologies in the in vitro toxicity testing segment."
+      },
+      {
+        "ticker": "EVO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as an established player positioned to benefit from emerging regulatory support for non-animal toxicity testing methodologies."
+      },
+      {
+        "ticker": "TEVA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among competitive incumbents but no specific growth drivers or risks highlighted; general competitive positioning in the landscape."
+      },
+      {
+        "ticker": "AZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a diversified global incumbent but without specific segment focus or differentiated positioning highlighted in the analysis."
+      },
+      {
+        "ticker": "GSK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among competitive players but no specific growth opportunities or risks identified for the company."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in competitive landscape but without specific strategic positioning or growth drivers highlighted."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a diversified global incumbent without specific segment focus or differentiated opportunities identified."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among major competitors but no specific growth drivers or risks highlighted in the analysis."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in competitive landscape without specific strategic positioning or segment focus highlighted."
+      },
+      {
+        "ticker": "BMY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive incumbent but without specific growth opportunities or risks identified."
+      },
+      {
+        "ticker": "CELGr",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive incumbent but without specific growth opportunities or risks identified."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among major players but no specific segment focus or differentiated positioning highlighted."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in competitive landscape without specific strategic positioning or growth drivers identified."
+      },
+      {
+        "ticker": "REGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive player but without specific opportunities or risks highlighted in the analysis."
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among competitors but no specific segment focus or differentiated positioning highlighted."
+      },
+      {
+        "ticker": "NEO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as well-positioned in precision oncology segment with strong near-term revenue visibility in genomic profiling and liquid biopsy."
+      }
+    ]
+  },
+  {
+    "id": "2333e1268ac22ffc14997470c9a0241fc8f9098f79b6d684a99bd0e06a28a1ab",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Global Cancer Biomarkers Market to Reach $37.8 Billion by 2035 as Precision Oncology Adoption Accelerates - Trends and Forecasts Till 2035",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-07-22T08:49:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331125/28124/en/Global-Cancer-Biomarkers-Market-to-Reach-37-8-Billion-by-2035-as-Precision-Oncology-Adoption-Accelerates-Trends-and-Forecasts-Till-2035.html",
+    "tickers": [
+      "RHHBY",
+      "NVS",
+      "TMO",
+      "GH",
+      "LH",
+      "DGX"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global cancer biomarkers market is projected to grow from $25.9 billion in 2026 to $37.8 billion by 2035, with a CAGR of 4.3%. Growth is driven by rising cancer incidence, personalized medicine adoption, advances in NGS and liquid biopsy technologies, and increased biomarker-driven diagnostics. HER2 testing leads by biomarker type (21.1% share), while breast cancer testing dominates by indication (25.1% share). North America captures 52.1% of global market revenue.",
+    "keywords": [
+      "cancer biomarkers",
+      "precision oncology",
+      "next-generation sequencing",
+      "liquid biopsy",
+      "personalized medicine",
+      "companion diagnostics",
+      "targeted therapies",
+      "immunotherapy",
+      "HER2 testing",
+      "EGFR biomarkers"
+    ],
+    "insights": [
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as pursuing biomarker-based drug development initiatives, positioning the company to benefit from the growing cancer biomarkers market expansion."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explicitly mentioned as continuing biomarker-based drug development initiatives, well-positioned to capitalize on the precision oncology and companion diagnostics growth."
+      },
+      {
+        "ticker": "TMO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among key market participants in cancer biomarker testing solutions, positioned to benefit from the 4.3% CAGR market growth through 2035."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among key market participants specializing in liquid biopsy and biomarker testing, well-positioned in a high-growth market segment."
+      },
+      {
+        "ticker": "LH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among major cancer biomarker testing solution providers, positioned to benefit from increased demand for biomarker-driven diagnostics."
+      },
+      {
+        "ticker": "DGX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed among key market participants in cancer biomarker testing, positioned to capture market share in the expanding precision oncology diagnostics sector."
+      }
+    ]
+  },
+  {
     "id": "8c04cdfdd5768b9fad2798d012e1fa3b37ca060f240382f247061b608264ec7b",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -67,278 +428,6 @@
         "ticker": "GH",
         "sentiment": "positive",
         "sentiment_reasoning": "Included as a leading player positioned to benefit from growing adoption of liquid biopsy technologies in ovarian cancer diagnostics."
-      }
-    ]
-  },
-  {
-    "id": "536db0ac07b6e2f866668ded1a8d7680a8cae884d1c528c17a0784f108143c7d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Grail Could Be the Sleeper Stock Everyone's About to Notice",
-    "author": "Keith Speights",
-    "published_utc": "2026-06-08T09:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/06/08/why-grail-could-be-the-sleeper-stock-everyones-abo/?source=iedfolrf0000001",
-    "tickers": [
-      "GRAL",
-      "ILMN",
-      "ABT",
-      "GH"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869771%2Fvials-of-blood.jpg&w=1200&op=resize",
-    "description": "Grail, a leader in multi-cancer early detection (MCED) testing, could be poised for significant growth as its Galleri test shows promising clinical trial results. The company awaits FDA approval and potential insurance reimbursement, which could unlock a $50 billion market opportunity. However, the stock remains high-risk due to unprofitability and competition from larger players.",
-    "keywords": [
-      "multi-cancer early detection",
-      "liquid biopsy",
-      "Galleri test",
-      "FDA approval",
-      "cancer screening",
-      "clinical trials",
-      "ASCO",
-      "Medicare coverage"
-    ],
-    "insights": [
-      {
-        "ticker": "GRAL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive clinical trial results from NHS Galleri 2 and Pathfinder 2 studies, FDA submission completed, potential Medicare coverage legislation enacted, and access to a $50 billion market opportunity. However, tempered by unprofitability and competition."
-      },
-      {
-        "ticker": "ILMN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as Grail's original parent company; no direct impact from Grail's developments discussed in the article."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Owns Exact Sciences which markets competing Cancerguard MCED test; competitive threat to Grail but no specific negative or positive developments mentioned."
-      },
-      {
-        "ticker": "GH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Markets competing Shield MCED test; represents competitive pressure on Grail but no specific developments discussed."
-      }
-    ]
-  },
-  {
-    "id": "c74cc51f85359372d2a4fee31b945e8798fd75e6eca4bd5e153dd0f425056beb",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "AI-Powered Imaging Systems and Deep Learning Software Revolutionize Cancer Diagnostics Market Globally",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-06-05T08:42:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/05/3307245/28124/en/AI-Powered-Imaging-Systems-and-Deep-Learning-Software-Revolutionize-Cancer-Diagnostics-Market-Globally.html",
-    "tickers": [
-      "MSFT",
-      "IBM",
-      "GH"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/24ebbaea-9d0b-436e-81c4-cb579770027c",
-    "description": "The global AI in cancer diagnostics market is experiencing rapid growth, projected to expand from $0.79 billion in 2025 to $0.96 billion in 2026 (20.2% CAGR), reaching $1.97 billion by 2030. Growth is driven by advancements in deep learning, AI-powered imaging systems, rising cancer prevalence, and collaborations between AI developers and medical institutions. Key developments include Lunit's $193 million acquisition of Volpara and launches of integrated AI diagnostic systems by companies like Dedalus and Ibex Medical Analytics.",
-    "keywords": [
-      "AI cancer diagnostics",
-      "deep learning",
-      "medical imaging",
-      "early detection",
-      "predictive analytics",
-      "digital pathology",
-      "machine learning algorithms"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a prominent company shaping the AI cancer diagnostics market, indicating active involvement in this high-growth sector."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key company in the expanding AI cancer diagnostics market with significant market presence."
-      },
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key company in the growing AI cancer diagnostics market."
-      }
-    ]
-  },
-  {
-    "id": "800670f02333a3e65f28f646afef3b2762836bc409e3772e63991b4948b03a69",
-    "publisher": {
-      "name": "Benzinga",
-      "homepage_url": "https://www.benzinga.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
-    },
-    "title": "Guardant Health Secures FDA Approval For Expanded Liquid Biopsy Test",
-    "author": "Vandana Singh",
-    "published_utc": "2026-05-20T16:07:40Z",
-    "article_url": "https://www.benzinga.com/news/fda/26/05/52697018/guardant-health-secures-fda-approval-for-expanded-liquid-biopsy-test?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
-    "tickers": [
-      "GH"
-    ],
-    "image_url": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/20/Redwood-City--Ca--Usa---Feb-16--2020-Ame.jpeg",
-    "description": "Guardant Health received FDA approval for its Guardant360 Liquid CDx test, an expanded liquid biopsy panel that is now the largest FDA-approved in its category. The test evaluates a genomic footprint 100 times wider than the previous version, combines genomic and epigenomic insights from a single blood sample, and can deliver results in as little as seven days. The approval transfers seven previously approved companion diagnostic indications from the earlier Guardant360 CDx test. Shares rose 8.81% following the announcement.",
-    "keywords": [
-      "FDA approval",
-      "liquid biopsy",
-      "genomic profiling",
-      "epigenomic insights",
-      "cancer testing",
-      "circulating tumor DNA",
-      "AI-enabled technology"
-    ],
-    "insights": [
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "FDA approval of an expanded, more capable liquid biopsy test represents significant regulatory validation and competitive advancement. The test offers broader genomic coverage (100x wider), faster turnaround time (7 days), and integrated epigenomic insights. The stock price increased 8.81% on the news, reflecting positive market reception of this product expansion."
-      }
-    ]
-  },
-  {
-    "id": "1822baea2b6ffe1f53d3bbbcfe5c6f317d69fea0ca1a23d86dd602a222337914",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Global Colorectal Cancer Diagnostics and Therapeutics Market Anticipates Impressive Growth Trajectory at a CAGR of ~9% by 2034 | DelveInsight",
-    "author": "Delveinsight",
-    "published_utc": "2026-05-13T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/13/3294318/0/en/Global-Colorectal-Cancer-Diagnostics-and-Therapeutics-Market-Anticipates-Impressive-Growth-Trajectory-at-a-CAGR-of-9-by-2034-DelveInsight.html",
-    "tickers": [
-      "GH",
-      "RHHBY",
-      "ABT",
-      "QGEN",
-      "ILMN",
-      "TMO",
-      "MRK",
-      "BMY",
-      "CELGr",
-      "AMGN",
-      "LLY",
-      "PFE",
-      "JNJ",
-      "MDT",
-      "FUJIY",
-      "SNY",
-      "BAYRY",
-      "SMMNY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
-    "description": "The global colorectal cancer diagnostics and therapeutics market is projected to grow from USD 35 billion in 2025 to USD 73 billion by 2034 at a CAGR of ~9%. Growth is driven by rising colorectal cancer prevalence, increased screening awareness, advancements in non-invasive diagnostics (liquid biopsy, stool-based DNA tests), and emerging targeted therapies and immunotherapies. North America leads with 41% market share, while Asia-Pacific is the fastest-growing region.",
-    "keywords": [
-      "colorectal cancer",
-      "diagnostics",
-      "therapeutics",
-      "market growth",
-      "immunotherapy",
-      "targeted therapy",
-      "liquid biopsy",
-      "precision medicine",
-      "early screening",
-      "MSI-H/dMMR"
-    ],
-    "insights": [
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in liquid biopsy and circulating tumor DNA (ctDNA) analysis, which are highlighted as rapidly advancing non-invasive diagnostic technologies driving market expansion."
-      },
-      {
-        "ticker": "RHHBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major pharmaceutical and diagnostic player with presence in both diagnostics and therapeutics segments; benefits from market growth in targeted therapies and companion diagnostics."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key company in diagnostics segment with molecular diagnostic capabilities, positioned to benefit from growing adoption of advanced screening technologies."
-      },
-      {
-        "ticker": "QGEN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as key player in molecular diagnostics and precision medicine, benefiting from market expansion in biomarker-guided therapies and diagnostic innovations."
-      },
-      {
-        "ticker": "ILMN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in next-generation sequencing (NGS) and molecular diagnostics, which are highlighted as critical technologies driving market growth."
-      },
-      {
-        "ticker": "TMO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in molecular diagnostics and precision medicine tools, positioned to benefit from increased adoption of advanced diagnostic and therapeutic solutions."
-      },
-      {
-        "ticker": "MRK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key therapeutic player with immunotherapy portfolio; benefits from growing demand for immunotherapies and targeted treatments in colorectal cancer management."
-      },
-      {
-        "ticker": "BMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in immunotherapy and targeted therapies; positioned to benefit from market expansion driven by emerging immunotherapy combinations and precision medicine approaches."
-      },
-      {
-        "ticker": "CELGr",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in immunotherapy and targeted therapies; positioned to benefit from market expansion driven by emerging immunotherapy combinations and precision medicine approaches."
-      },
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key therapeutic player in oncology with targeted therapy portfolio, benefiting from growing demand for precision medicine and targeted treatment options."
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major pharmaceutical company with oncology focus, positioned to benefit from market growth in targeted therapies and immunotherapies for colorectal cancer."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major pharmaceutical company with oncology portfolio, positioned to benefit from growing demand for targeted therapies and immunotherapies in colorectal cancer treatment."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major diversified healthcare company with oncology presence, positioned to benefit from market expansion in diagnostics and therapeutics segments."
-      },
-      {
-        "ticker": "MDT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in diagnostic imaging and minimally invasive procedures, benefiting from growing demand for advanced diagnostic solutions and AI-assisted colonoscopy systems."
-      },
-      {
-        "ticker": "FUJIY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Player in diagnostic imaging and medical devices, positioned to benefit from market expansion driven by advanced imaging technologies and screening programs."
-      },
-      {
-        "ticker": "SNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key pharmaceutical player in oncology therapeutics, benefiting from market expansion driven by emerging treatment options and precision medicine adoption."
-      },
-      {
-        "ticker": "BAYRY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in oncology therapeutics with targeted therapy portfolio, benefiting from market growth driven by precision medicine and emerging treatment approaches."
-      },
-      {
-        "ticker": "SMMNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in diagnostic imaging and AI-powered diagnostic tools, positioned to benefit from market growth driven by digital health technologies and AI-assisted detection systems."
       }
     ]
   }

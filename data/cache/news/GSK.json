@@ -1,368 +1,324 @@
 [
   {
-    "id": "0b1f78d99a992be5e52606b83256a7e0567a4638582eddab3e959e20ddc3a57d",
+    "id": "715c18dd5eda51f01ed4fb15af64f1fe79bd0406acad914be02c8b194f954747",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "American Kidney Fund Expands Kidney Health Coach Program with Educational Course on Lupus Nephritis",
-    "author": "American Kidney Fund",
-    "published_utc": "2026-07-16T14:39:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/16/3328627/0/en/American-Kidney-Fund-Expands-Kidney-Health-Coach-Program-with-Educational-Course-on-Lupus-Nephritis.html",
+    "title": "GSK vs. SNY: Which Europe-Based Pharma Stock Has More Potential?",
+    "author": "Na",
+    "published_utc": "2026-09-29T11:37:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2997241/gsk-vs-sny-which-europe-based-pharma-stock-has-more-potential?cid=CS-ZC-FT-analyst_blog|comparison_of_stocks-2997241",
     "tickers": [
-      "GSK"
+      "GSK",
+      "SNY",
+      "REGN"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/8d31d61f-6707-4431-b808-c6906139a2d2",
-    "description": "The American Kidney Fund (AKF) has launched an online educational course on lupus nephritis through its Kidney Health Coach program to educate healthcare professionals and community members about symptoms, testing, diagnosis, and treatment. The course, developed with subject matter experts, aims to empower over 8,000 volunteer Kidney Health Coaches across all 50 states. An estimated 1.5 million Americans have lupus, with about half developing lupus nephritis, which disproportionately affects women and racial/ethnic minorities.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ca/2357.jpg",
+    "description": "GSK and Sanofi, two major European pharmaceutical companies, are compared across growth drivers, pipelines, and valuations. GSK shows strong specialty medicines growth (14% in H1 2026) with expanding oncology and HIV franchises, while Sanofi benefits from blockbuster Dupixent sales (up 28.6%) and stronger near-term earnings growth. Despite both holding Hold ratings, Sanofi appears better positioned due to superior earnings growth outlook, favorable valuation metrics, and positive estimate revisions, though it faces vaccine sales headwinds and heavy Dupixent reliance.",
     "keywords": [
-      "lupus nephritis",
-      "kidney disease",
-      "autoimmune disease",
-      "kidney health education",
-      "early detection",
-      "health coaching",
-      "patient education"
+      "pharmaceutical companies",
+      "specialty medicines",
+      "Dupixent",
+      "HIV medicines",
+      "oncology",
+      "vaccine sales",
+      "earnings growth",
+      "valuation",
+      "pipeline",
+      "blockbuster drugs"
     ],
     "insights": [
       {
         "ticker": "GSK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "GSK is mentioned as a supporter of the lupus nephritis community presentation resource, indicating corporate partnership and sponsorship. However, the level of involvement and business impact is minimal and not detailed in the article."
+        "sentiment_reasoning": "GSK demonstrates solid specialty medicines growth (14% in H1 2026) and expanding pipeline with multiple late-stage programs. However, it faces patent expirations for key HIV drugs (2028-2029), declining general medicines segment, and recent pipeline setbacks. Earnings estimates have declined over the past 60 days, and stock performance lags the industry."
+      },
+      {
+        "ticker": "SNY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sanofi shows stronger near-term growth with 13.9% sales growth and 14.5% EPS growth expected for 2026. Dupixent sales surged 28.6% with \u20ac25 billion projected by 2030. Earnings estimates have risen over 60 days, valuation is more attractive (7.87 forward P/E vs industry 18.23), and dividend yield is higher at 4.3%. Management raised full-year guidance based on strong H1 performance."
+      },
+      {
+        "ticker": "REGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Regeneron is mentioned as the partner in Sanofi's blockbuster Dupixent drug, which is performing exceptionally well. However, the article provides limited direct information about Regeneron's independent performance or outlook."
       }
     ]
   },
   {
-    "id": "6d4179ce162a19c56cfbe331b4a3bb0a8e17c9e23f18fdf4558513c823ad51b7",
+    "id": "6fd0efc0b9b366cab2e330e73fe12cc3b987331523cf12bde6906eb24d4c44eb",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Autoimmune Disease Therapeutics Market Size to Reach USD 137.85 Billion by 2035 as Biologics and Precision Medicine Drive Growth | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-07-15T15:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/15/3327918/0/en/Autoimmune-Disease-Therapeutics-Market-Size-to-Reach-USD-137-85-Billion-by-2035-as-Biologics-and-Precision-Medicine-Drive-Growth-SNS-Insider.html",
+    "title": "HUTCHMED Initiates Global Trial of KRAS-EGFR-Antibody Conjugate Therapy HMPL-A830 in Patients with Solid Tumors",
+    "author": "Hutchmed (China) Limited",
+    "published_utc": "2026-09-28T00:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/28/3369472/0/en/hutchmed-initiates-global-trial-of-kras-egfr-antibody-conjugate-therapy-hmpl-a830-in-patients-with-solid-tumors.html",
+    "tickers": [
+      "HCM",
+      "GSK"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/085957ad-3bec-49ee-b13e-39961b83c7be",
+    "description": "HUTCHMED has initiated a Phase Ia global clinical trial of HMPL-A830, a first-in-class antibody-targeted therapy conjugate combining a KRAS inhibitor with an anti-EGFR antibody for treating solid tumors. The first patient was dosed on September 24, 2026. HUTCHMED entered an exclusive development and licensing agreement with GSK on September 3, 2026, granting GSK worldwide rights (excluding Greater China) for development and commercialization.",
+    "keywords": [
+      "KRAS inhibitor",
+      "EGFR antibody",
+      "antibody-drug conjugate",
+      "HMPL-A830",
+      "Phase I clinical trial",
+      "solid tumors",
+      "colorectal cancer",
+      "pancreatic cancer",
+      "lung cancer",
+      "precision oncology",
+      "licensing agreement"
+    ],
+    "insights": [
+      {
+        "ticker": "HCM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company successfully initiated a first-in-class clinical trial for an innovative dual-mechanism cancer therapy and secured a major global licensing partnership with GSK, demonstrating validation of its ATTC platform and expanding market reach beyond China."
+      },
+      {
+        "ticker": "GSK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GSK acquired exclusive worldwide rights (excluding Greater China) to develop and commercialize a first-in-class KRAS-EGFR therapy, providing access to a promising oncology asset addressing significant clinical gaps in KRAS-mutant cancers."
+      }
+    ]
+  },
+  {
+    "id": "31475843d7217b255c4b5fefec7bb131504ab6a6db65cb72cb10d41455071295",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Autoimmune Disease Therapeutics Market Set for Growth Through 2034 as Biologics, Precision Medicine and Pipeline Innovation Reshape the Competitive Landscape",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-17T10:49:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/17/3363820/28124/en/autoimmune-disease-therapeutics-market-set-for-growth-through-2034-as-biologics-precision-medicine-and-pipeline-innovation-reshape-the-competitive-landscape.html",
     "tickers": [
       "ABBV",
-      "NVS",
-      "AMGN",
       "JNJ",
       "PFE",
+      "NVS",
       "RHHBY",
+      "AMGN",
+      "LLY",
       "BMY",
       "CELGr",
-      "MRK",
+      "UCBJY",
       "GSK",
-      "LLY",
       "BIIB",
-      "GILD",
-      "AZN",
-      "REGN",
-      "SNY",
-      "TAK"
+      "TAK",
+      "MKKGY",
+      "SNY"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global autoimmune disease therapeutics market is projected to grow from USD 80.54 billion in 2025 to USD 137.85 billion by 2035, with a CAGR of 5.52%. Growth is driven by rising prevalence of autoimmune diseases, adoption of biologics, JAK inhibitors, monoclonal antibodies, and precision medicine technologies. North America leads with 39.96% market share, while Asia-Pacific shows the fastest growth at 6.28% CAGR.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global autoimmune disease therapeutics market is projected to grow from USD 132.75 billion in 2025 to USD 254.60 billion by 2034, at a CAGR of 7.5%. Growth is driven by rising autoimmune disease diagnoses, increased adoption of biologics and targeted oral therapies, biosimilar expansion, and emerging cell and gene therapies. Biologics dominate with 66% market share, TNF inhibitors lead drug classes at 29%, and rheumatoid arthritis accounts for 34% of revenue. North America holds 44% regional share while Asia-Pacific is expected to grow fastest.",
     "keywords": [
       "autoimmune disease therapeutics",
       "biologics",
+      "TNF inhibitors",
       "JAK inhibitors",
-      "monoclonal antibodies",
-      "precision medicine",
+      "interleukin inhibitors",
+      "biosimilars",
+      "cell therapy",
+      "gene therapy",
       "rheumatoid arthritis",
-      "multiple sclerosis",
-      "market growth",
-      "FDA approvals",
-      "biosimilars"
+      "precision medicine",
+      "immunology"
     ],
     "insights": [
       {
         "ticker": "ABBV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company is actively expanding its immunology pipeline with Phase III trials for next-generation JAK inhibitors targeting rheumatoid arthritis and psoriatic arthritis, demonstrating strong R&D investment in growing market segment."
-      },
-      {
-        "ticker": "NVS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received FDA approval for new oral S1P receptor modulator for multiple sclerosis in 2024, strengthening its neurology portfolio and positioning it well in the fastest-growing indication segment."
-      },
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as leading market player in growing autoimmune therapeutics market with strong presence in biologics segment, which is expected to comprise 42% of U.S. autoimmune disease prescription revenues."
+        "sentiment_reasoning": "AbbVie's Skyrizi and Rinvoq franchises are highlighted as leading immunology products with significant revenue projections (USD 21.6 billion and USD 10.2 billion respectively in 2026). The company is expanding Rinvoq into new indications (vitiligo and alopecia areata), demonstrating strong pipeline momentum and market position."
       },
       {
         "ticker": "JNJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major player in autoimmune therapeutics market positioned to benefit from growing demand for biologics and targeted therapies across multiple indications."
+        "sentiment_reasoning": "Listed as a leading company in the autoimmune therapeutics market with Tremfya as a key immunology franchise. Strong market presence and continued pipeline development position the company well for growth through 2034."
       },
       {
         "ticker": "PFE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player with significant presence in autoimmune disease therapeutics, well-positioned to capture market growth driven by biologics adoption and precision medicine."
+        "sentiment_reasoning": "Identified as a major market participant with Litfulo as a leading immunology franchise. Strong competitive positioning in the growing biologics and targeted oral therapy segments."
+      },
+      {
+        "ticker": "NVS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a leading company with Cosentyx as a key franchise and significant pipeline development in cell-based and gene-based therapies for refractory diseases, positioning it well for future growth."
       },
       {
         "ticker": "RHHBY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major player in biologics and monoclonal antibodies segment, positioned to benefit from market expansion driven by increased biologic adoption and FDA/EMA approvals."
+        "sentiment_reasoning": "Noted for recent regulatory submissions (Gazyva for systemic lupus erythematosus) and strategic focus on B-cell depletion portfolio expansion, demonstrating active pipeline innovation in high-growth therapeutic areas."
+      },
+      {
+        "ticker": "AMGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a leading company in the market but no specific product highlights or recent developments mentioned in the article, limiting ability to assess positive or negative momentum."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a major market participant but no specific products, recent developments, or market performance details provided in the article."
       },
       {
         "ticker": "BMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player with strong portfolio in autoimmune therapeutics, benefiting from growing demand for JAK inhibitors and biologics in the expanding market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among leading companies but lacks specific product mentions or recent developments that would indicate positive or negative sentiment."
       },
       {
         "ticker": "CELGr",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player with strong portfolio in autoimmune therapeutics, benefiting from growing demand for JAK inhibitors and biologics in the expanding market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among leading companies but lacks specific product mentions or recent developments that would indicate positive or negative sentiment."
       },
       {
-        "ticker": "MRK",
+        "ticker": "UCBJY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major pharmaceutical player positioned to benefit from market growth driven by increasing prevalence of autoimmune diseases and adoption of advanced therapeutics."
+        "sentiment_reasoning": "Highlighted with Bimzelx as a leading immunology franchise, indicating strong market presence in the growing biologics segment."
       },
       {
         "ticker": "GSK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major player in autoimmune therapeutics market with portfolio positioned to benefit from growing demand for biologics and targeted therapies."
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player with strong presence in immunology, positioned to benefit from market expansion driven by biologics adoption and precision medicine."
+        "sentiment_reasoning": "Identified with Benlysta as a key immunology franchise, demonstrating competitive positioning in the autoimmune therapeutics market."
       },
       {
         "ticker": "BIIB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specialist in neurology and immunology with strong focus on multiple sclerosis, which is the fastest-growing indication at 6.34% CAGR in the market."
-      },
-      {
-        "ticker": "GILD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as leading market player with presence in autoimmune therapeutics, positioned to benefit from market growth and increasing adoption of targeted therapies."
-      },
-      {
-        "ticker": "AZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major pharmaceutical player positioned to benefit from growing autoimmune therapeutics market driven by biologics adoption and precision medicine innovations."
-      },
-      {
-        "ticker": "REGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specialist in monoclonal antibodies and biologics, well-positioned to benefit from market expansion driven by increased adoption of biologic therapies."
-      },
-      {
-        "ticker": "SNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as leading market player with presence in autoimmune therapeutics, positioned to capture growth from biologics and precision medicine adoption."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a leading company but no specific products or recent developments mentioned that would indicate market momentum or challenges."
       },
       {
         "ticker": "TAK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading market player with presence in autoimmune disease therapeutics, positioned to capture market growth from increasing prevalence and treatment adoption."
-      }
-    ]
-  },
-  {
-    "id": "6905bf6f5e09e7332f1af02d1acc47116f9f21ab8e0dc7c773e0b4e810c575c2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Moderna vs. Recursion: Which Cutting-Edge Pharma Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-03T15:14:15Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/03/moderna-vs-recursion-which-cutting-edge-pharma-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "MRNA",
-      "RXRX",
-      "MRK",
-      "PFE",
-      "SNY",
-      "GSK",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2d10dfb318519977a677bcb00f3da6d28e64e4b0-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Moderna and Recursion Pharmaceuticals represent two distinct approaches to biotech innovation: Moderna leverages proven mRNA technology with diversifying pipeline into oncology and rare diseases, while Recursion uses AI-driven drug discovery. Despite both operating at losses, Moderna is favored for 2026 due to its established revenue base and proven formula, whereas Recursion remains in earlier development stages with revenue expected to decline due to lower milestone payments.",
-    "keywords": [
-      "mRNA technology",
-      "AI-driven drug discovery",
-      "biotech stocks",
-      "clinical trials",
-      "drug pipeline",
-      "personalized medicine",
-      "oncology",
-      "rare diseases"
-    ],
-    "insights": [
-      {
-        "ticker": "MRNA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established revenue base of $1.9B, proven mRNA platform with 25 development candidates across 35 programs, strategic partnerships with Merck and Recordati, lower debt-to-equity ratio (0.2x), and analyst recommendation as the better buy for 2026 despite current losses."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included among leading companies but lacks specific product information or recent developments to assess sentiment."
       },
       {
-        "ticker": "RXRX",
+        "ticker": "MKKGY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Shows promise with AI-native discovery platform and partnerships with Roche, Genentech, and Sanofi, but remains clinical-stage with unproven technology, expected revenue decline of 11% in 2026, significant losses ($645M), and heavy reliance on partner funding and third-party infrastructure."
-      },
-      {
-        "ticker": "MRK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner with Moderna for research and commercialization, but mentioned only in context of partnership without specific performance details."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as competitive pressure on Moderna in the mRNA vaccine space, but no specific performance or investment thesis provided."
+        "sentiment_reasoning": "Listed as a market participant but no specific products, pipeline developments, or market performance details provided."
       },
       {
         "ticker": "SNY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner with both Recursion and competitive threat to Moderna, but mentioned only contextually without specific investment analysis."
-      },
-      {
-        "ticker": "GSK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as competitive pressure on Moderna in vaccine market, but no specific performance details provided."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Provides cloud infrastructure for Recursion, representing a dependency risk but not directly evaluated as an investment."
+        "sentiment_reasoning": "Identified as a leading company but no specific products or recent developments mentioned in the article."
       }
     ]
   },
   {
-    "id": "601687a71345f9c0096be0a93714fa7c8a840f7b90ca8e0fd4fa6a83b356bade",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Big Pharma Has a Case of Merger Mania",
-    "author": "Motley Fool Staff",
-    "published_utc": "2026-06-30T04:26:13Z",
-    "article_url": "https://www.fool.com/investing/2026/06/30/big-pharma-has-a-case-of-merger-mania/?source=iedfolrf0000001",
-    "tickers": [
-      "LLY",
-      "MRK",
-      "PFE",
-      "UTHR",
-      "ASND",
-      "NVO",
-      "ABBV",
-      "GSK",
-      "RHHBY",
-      "MRNA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc47db2a1c503a664a2cf92c2e8b3d9031eec6c2f-1280x720.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The pharmaceutical industry is experiencing a record-breaking M&A wave in 2026, driven by looming patent cliffs worth $300 billion in annual revenue, FDA regulatory improvements for rare diseases, and the need to diversify portfolios. Companies are making strategic bolt-on acquisitions of late-stage drug candidates rather than massive mergers. While some firms like Eli Lilly are well-positioned, others like Merck and Pfizer face near-term patent expirations that could impact revenue significantly.",
-    "keywords": [
-      "pharmaceutical M&A",
-      "patent cliff",
-      "GLP-1 drugs",
-      "FDA regulatory changes",
-      "drug acquisitions",
-      "rare diseases",
-      "oncology",
-      "biotech consolidation"
-    ],
-    "insights": [
-      {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Described as the best-run big pharma currently, with strong GLP-1 portfolio (Tirzepatide/Mounjaro/Zepbound patented through 2036), robust pipeline, and strategic bolt-on acquisitions to diversify beyond current blockbusters. Favorable patent-cliff exposure compared to peers."
-      },
-      {
-        "ticker": "MRK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Aggressive M&A strategy with three major deals in 10 months, but faces significant risk as Keytruda (>50% of revenue) loses patent protection in 2028, leaving little room for error in integrating acquisitions."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Facing substantial patent cliffs ($17-18B in annual revenue losses) with Prevnar and cancer drugs expiring through 2027, but maintains strong dividend yield (~7%), affordable valuation, and oncology pipeline potential. Recovery expected by 2029."
-      },
-      {
-        "ticker": "UTHR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a hidden gem that has easily beaten the market in recent years, with six FDA-approved treatments, robust pipeline, and strong entrepreneurial leadership focused on solving real patient problems."
-      },
-      {
-        "ticker": "ASND",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Innovative transconjugation technology platform enabling less frequent dosing for endocrinology and oncology treatments. Positioned as potential acquisition target for big pharma seeking novel drug delivery technology."
-      },
-      {
-        "ticker": "NVO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite early GLP-1 monopoly with Ozempic, has significantly trailed the market over the past 10 years as competition from Eli Lilly and others intensified."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Actively participating in M&A wave with $10 billion immunology acquisition, indicating strategic portfolio diversification efforts."
-      },
-      {
-        "ticker": "GSK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Engaged in M&A activity with $10 billion acquisition, participating in industry consolidation trend."
-      },
-      {
-        "ticker": "RHHBY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Actively licensing drugs from other companies as part of portfolio diversification strategy during M&A wave."
-      },
-      {
-        "ticker": "MRNA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Facing regulatory burden challenges that make clinical trial investments questionable, as noted by CEO regarding COVID-flu vaccine combination development."
-      }
-    ]
-  },
-  {
-    "id": "b6b65a2bd0d84efe80e14e2c209940bd2eef90133594eb7901f1175cbff5f28d",
+    "id": "12670689afc138dbe5b61906d547d8381887db9c7390a286a3f92f9fb251be38",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Global HPV Vaccines Market to Grow Rapidly at a CAGR of ~8% by 2034 | DelveInsight",
+    "title": "Hypertension Clinical Trial Pipeline Accelerates as 100+ Pharma Companies Rigorously Develop Drugs for Market Entry | DelveInsight",
     "author": "Delveinsight",
-    "published_utc": "2026-06-24T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/24/3317111/0/en/Global-HPV-Vaccines-Market-to-Grow-Rapidly-at-a-CAGR-of-8-by-2034-DelveInsight.html",
+    "published_utc": "2026-09-16T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3363442/0/en/hypertension-clinical-trial-pipeline-accelerates-as-100-pharma-companies-rigorously-develop-drugs-for-market-entry-delveinsight.html",
     "tickers": [
-      "MRK",
-      "GSK"
+      "GOSS",
+      "RHHBY",
+      "GSK",
+      "CALC",
+      "MLYS",
+      "CRSP",
+      "KARD"
     ],
     "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
-    "description": "The global HPV vaccines market is projected to grow from USD 8.9 billion in 2025 to USD 18.4 billion by 2034, driven by rising HPV-associated cancer prevalence, expanding government immunization programs, and advancements in multivalent vaccines. North America leads the market with 41% share, while Asia-Pacific emerges as a significant growth contributor. Key developments include Merck's presentation of long-term vaccine effectiveness data and China's approval of the first domestically-developed 9-valent HPV vaccine.",
+    "description": "Over 100 pharmaceutical companies are actively developing 110+ pipeline hypertension drugs, with approximately 40+ in late-stage development. Key players include Gossamer Bio, Alnylam Therapeutics, Roche, GSK, and others pursuing novel mechanisms like RNA interference and CRAC channel inhibitors. Recent developments include FDA acceptance of lorundrostat's NDA, initiation of zilebesiran's Phase III cardiovascular outcomes trial, and multiple clinical advances in emerging therapies targeting uncontrolled and resistant hypertension.",
     "keywords": [
-      "HPV vaccines",
-      "cervical cancer prevention",
-      "immunization programs",
-      "nonavalent vaccines",
-      "market growth",
-      "vaccine adoption",
-      "gender-neutral vaccination"
+      "hypertension",
+      "clinical trials",
+      "pipeline drugs",
+      "RNA interference",
+      "angiotensinogen",
+      "zilebesiran",
+      "lorundrostat",
+      "seralutinib",
+      "resistant hypertension",
+      "cardiovascular outcomes"
     ],
     "insights": [
       {
-        "ticker": "MRK",
+        "ticker": "GOSS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Merck is a leading player in the HPV vaccines market with Gardasil 9 and Gardasil products. The company is actively presenting clinical and real-world data demonstrating long-term vaccine effectiveness, reinforcing its market position and supporting continued demand for its vaccines."
+        "sentiment_reasoning": "Company secured $250 million in private placement financing for seralutinib development in PAH and PH-ILD, with planned NDA submission in September 2026, indicating strong investor confidence and advancement toward market entry."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Partnered with Alnylam on zilebesiran Phase III trial and reacquired worldwide rights to seralutinib, demonstrating commitment to expanding hypertension pipeline with innovative mechanisms."
       },
       {
         "ticker": "GSK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the HPV vaccines market. Benefits from the overall market growth driven by expanding immunization programs and increasing awareness of HPV-related cancer prevention globally."
+        "sentiment_reasoning": "Acquired 35Pharma Inc. including HS235 candidate for PAH and PH-HFpEF, expanding pipeline with novel protein-based therapeutics for hypertension-related conditions."
+      },
+      {
+        "ticker": "CALC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Advancing CM5480, a first-in-class oral CRAC channel inhibitor with IND submission anticipated in 2027, targeting pulmonary vascular remodeling in pulmonary hypertension."
+      },
+      {
+        "ticker": "MLYS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Lorundrostat received FDA NDA acceptance with PDUFA target date of December 22, 2026, and demonstrated significant efficacy in Phase III trials for uncontrolled/resistant hypertension, positioning it as a leading novel conventional antihypertensive."
+      },
+      {
+        "ticker": "CRSP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CTX340 targeting angiotensinogen received FDA IND clearance with Phase I trial initiated for refractory hypertension, representing progress in gene-editing approach to hypertension treatment."
+      },
+      {
+        "ticker": "KARD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Tonlamarsen (ASO targeting angiotensinogen) demonstrated statistically significant reduction in plasma AGT levels and clinically meaningful blood pressure reduction in Phase II KARDINAL trial, supporting advancement to Phase IIb."
+      }
+    ]
+  },
+  {
+    "id": "b27fcb5766c0cebc00c9f79e89fd9988e20b9e3a7547bd06f50849d1933fe0b2",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Managing Service Providers Including CRO and CMOs Oversight to Comply with ICH GCP R3 Scheduled for October 14\u201315, 2027",
+    "author": "Not Specified",
+    "published_utc": "2026-09-16T09:55:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3362983/28124/en/managing-service-providers-including-cro-and-cmos-oversight-to-comply-with-ich-gcp-r3-scheduled-for-october-14-15-2027.html",
+    "tickers": [
+      "GSK"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "A two-day online training course on managing Contract Research Organisations (CROs) and Contract Manufacturing Organisations (CMOs) under ICH GCP R3 guidelines will be delivered by IPI Academy on October 14-15, 2027. The course addresses sponsor oversight, vendor selection, risk-based management, and regulatory compliance expectations for pharmaceutical and biotech organisations.",
+    "keywords": [
+      "ICH GCP R3",
+      "CRO oversight",
+      "CMO management",
+      "vendor selection",
+      "regulatory compliance",
+      "pharmaceutical training",
+      "contract research organisations",
+      "clinical practice guidelines"
+    ],
+    "insights": [
+      {
+        "ticker": "GSK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "GSK is mentioned only as a former employer of the course expert Dr. Laura Brown, providing credibility to the instructor's background. No direct business implications are discussed."
       }
     ]
   }

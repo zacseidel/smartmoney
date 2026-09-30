@@ -1,272 +1,326 @@
 [
   {
-    "id": "6ccfad63b95f61a5255a4b00712f7f66f68e50f079bb8fc16ee5b59918584f0c",
+    "id": "103cc2cbe40d8fe774d15f1a79f924d57dff59c53c14f1541ee718e9f0d0fe92",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Down 50% From Its High, Is CoreWeave a Bargain or a Value Trap?",
-    "author": "Keithen Drury",
-    "published_utc": "2026-07-16T17:27:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/16/down-50-from-its-high-is-coreweave-a-bargain-or-a/?source=iedfolrf0000001",
+    "title": "Applied Digital vs. IREN: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-09-24T18:02:20Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/applied-digital-vs-iren-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
+      "APLD",
+      "IREN",
       "CRWV",
-      "META",
       "MSFT",
       "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878164%2Fcrwv.png&w=1200&op=resize",
-    "description": "CoreWeave, a neocloud company providing AI-focused cloud computing, has fallen 50% from its peak since its April 2025 IPO. The stock has been pressured by reports that major client Meta is building its own cloud infrastructure. While CoreWeave shows strong revenue growth projections (147% this year, 98% next year), the company continues to post significant losses as it invests heavily in capacity expansion. The stock trades at a cheap valuation (7.1x sales), but profitability remains years away, creating execution risk for investors.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two AI infrastructure companies: Applied Digital (APLD) and IREN (IREN). Applied Digital shows stronger margins (22.38% vs 9.84%) and lower P/S ratio (13.1x vs 23.0x) but faces customer concentration risk with CoreWeave. IREN has secured major contracts with Microsoft ($9.7B) and Nvidia ($3.4B) and is pivoting from crypto mining to AI cloud services, though it reported a massive net loss of $702.6M. The author recommends IREN for patient investors due to its stronger contracted revenue base and blue-chip customer relationships, despite both companies currently losing money.",
     "keywords": [
-      "AI cloud computing",
-      "neocloud",
-      "IPO",
-      "capital expenditure",
-      "profitability",
+      "AI infrastructure",
+      "data centers",
+      "high-performance computing",
+      "customer concentration",
+      "cash flow",
       "valuation",
-      "market risk"
+      "growth trajectory"
     ],
     "insights": [
       {
-        "ticker": "CRWV",
+        "ticker": "APLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Stock is down 50% from highs with strong revenue growth projections but significant near-term losses and execution risk. Valuation appears cheap but profitability timeline is uncertain. The Meta contract uncertainty adds downside risk, though compute-constrained market may support the relationship."
+        "sentiment_reasoning": "Company shows strong revenue growth (183.7% YoY) and superior gross margins (22.38%), but faces significant customer concentration risk with CoreWeave, high debt-to-equity ratio (2.9x), and substantial net losses (-39.9% margin). Positive operational metrics offset by structural risks."
       },
       {
-        "ticker": "META",
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite massive net losses (-99.4% margin) and high debt ($7.98B), IREN has secured substantial long-term contracts with Microsoft ($9.7B) and Nvidia ($3.4B), providing revenue visibility. Nvidia's certification as reference-quality provider and successful pivot from crypto mining to AI infrastructure are significant positives. Author's recommendation favors this company."
+      },
+      {
+        "ticker": "CRWV",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Meta is a major CoreWeave client but is reportedly building its own cloud infrastructure, creating uncertainty around the CoreWeave contract. This represents both a potential threat to CoreWeave and a strategic move by Meta to control its own computing resources."
+        "sentiment_reasoning": "Mentioned as Applied Digital's primary customer with full contract of flagship Polaris Forge 1 site, representing both revenue opportunity and concentration risk for APLD."
       },
       {
         "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Microsoft is mentioned as a major CoreWeave client using its data centers for AI computing capacity, but no specific positive or negative developments are discussed regarding this relationship."
+        "sentiment_reasoning": "Mentioned as major customer of IREN with $9.7B five-year contract, indicating confidence in IREN's infrastructure capabilities."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is a significant backer of CoreWeave with a $3.6 billion position (relative to CoreWeave's $50 billion market cap), indicating confidence in the company's AI infrastructure business and potential upside if CoreWeave succeeds."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as IREN customer ($3.4B contract) and hardware supplier to both companies; certified IREN as reference-quality cloud provider, validating operational competence."
       }
     ]
   },
   {
-    "id": "bb94714c8ad3cb37b038f853b4e2ae7f9947c819d396eb86d0e383c3e441045d",
+    "id": "6592ba259db770e5c1a6f8cb28402968f8575fd357d720622f057faa66c7233c",
     "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Stocks Rise as Inflation Cools the Fed, but Chip Rout Keeps the Rally Honest",
-    "author": "Stephen Innes",
-    "published_utc": "2026-07-15T20:27:00Z",
-    "article_url": "https://www.investing.com/analysis/stocks-rise-as-inflation-cools-the-fed-but-chip-rout-keeps-the-rally-honest-200684007",
+    "title": "CoreWeave vs. QuantumScape: Which Stock Is a Better Investment, the AI Giant or the EV Battery Upstart?",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-24T16:03:17Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/coreweave-vs-quantumscape-which-stock-is-a-better-investment-the-ai-giant-or-the-ev-battery-upstart/?source=iedfolrf0000001",
     "tickers": [
-      "AAPL",
-      "NVDA",
-      "META",
-      "AMZN",
+      "CRWV",
+      "QS",
       "MSFT",
-      "MU",
-      "CRWV"
+      "META",
+      "NVDA",
+      "HMC",
+      "VWAGY"
     ],
-    "amp_url": "https://m.investing.com/analysis/stocks-rise-as-inflation-cools-the-fed-but-chip-rout-keeps-the-rally-honest-200684007?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Stock markets gained on softer inflation data (CPI and PPI), allowing the Fed to pause rate hikes. However, the semiconductor sector fell 2.1% as investors rotated out of crowded AI trades into mega-cap tech with stronger fundamentals. The rally was selective, with concerns about geopolitical tensions in the Persian Gulf and whether AI spending will generate adequate returns.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F232304ef0caa6d6d9809b270afde92b613c990f1-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "CoreWeave, an AI data center provider, and QuantumScape, a pre-revenue solid-state battery developer, represent different high-risk technology bets. CoreWeave shows impressive 167.9% revenue growth to $5.1B but carries heavy debt (8.9x debt-to-equity) and customer concentration risk with Microsoft accounting for 67% of revenue. QuantumScape has a strong balance sheet (0.1x debt-to-equity) but remains pre-commercial with no revenue until at least 2029. The author recommends CoreWeave as the safer bet due to its immediate revenue growth and multi-year AI infrastructure demand runway.",
     "keywords": [
-      "inflation",
-      "semiconductor selloff",
-      "AI trade correction",
-      "Fed policy",
-      "mega-cap technology",
-      "earnings expectations",
-      "geopolitical risk",
-      "energy prices"
+      "AI data centers",
+      "solid-state batteries",
+      "cloud infrastructure",
+      "electric vehicles",
+      "revenue growth",
+      "debt-to-equity ratio",
+      "customer concentration",
+      "pre-revenue company"
     ],
     "insights": [
       {
-        "ticker": "AAPL",
+        "ticker": "CRWV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Gained 4.01% on support from potential use of cheaper Chinese AI models in China-market iPhones, demonstrating practical AI implementation and cost optimization."
+        "sentiment_reasoning": "Strong 167.9% YoY revenue growth ($5.1B in FY2025), impressive Q2 sales of $2.6B with 112% YoY growth, and forecasted $12.4B revenue for 2026. Benefits from sustained AI infrastructure demand. However, sentiment is tempered by high debt levels (8.9x debt-to-equity), negative free cash flow (-$7.3B), and heavy Microsoft customer concentration (67% of revenue)."
+      },
+      {
+        "ticker": "QS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong balance sheet fundamentals (0.1x debt-to-equity, 15.9x current ratio) and strategic partnerships with Volkswagen and Honda provide long-term potential. However, pre-revenue status, no commercial product until 2029, and negative free cash flow (-$278.8M) create significant uncertainty. High-risk, long-term bet with execution risk."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as CoreWeave's primary customer (67% of revenue), indicating strong AI infrastructure demand but also representing concentration risk for CoreWeave's business model."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a CoreWeave client through multi-year agreements for AI compute capacity, indicating demand for specialized AI infrastructure services."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Part of semiconductor index that fell 2.1%; represents the crowded AI supplier trade that investors are rotating away from due to stretched valuations and overcrowded positioning."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a limited hardware supplier to CoreWeave, creating supply chain vulnerability and dependency risk."
+      },
+      {
+        "ticker": "HMC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Entered multi-year development partnership with QuantumScape in mid-2026, expanding QuantumScape's commercialization opportunities but still pre-revenue."
+      },
+      {
+        "ticker": "VWAGY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with QuantumScape for solid-state battery commercialization through PowerCo subsidiary, critical to QuantumScape's success but also represents dependency risk."
+      }
+    ]
+  },
+  {
+    "id": "ab759a2500b91337e937af9c5504b20fb80eecaf7c86bbf387bc671f1b58548f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "SpaceX's First 100 Days Are in the Books. Here's the Report Card.",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-23T04:30:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/23/spacex-s-first-100-days-are-in-the-books-here-s-the-report-card/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "META",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "CRWV",
+      "NBIS",
+      "QQQ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fca595595bfed30d65b4f1f4ffd00fa2bdc3bfeaf-4500x3000.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "SpaceX has completed its first 100 days as a public company, trading near its IPO price of $150 after an initial surge and 50% decline. The company has dramatically accelerated revenue growth to 92% in Q2 through AI compute rental deals with Anthropic and Google, with segment adjusted EBITDA nearly tripling. While investor sentiment has stabilized through lockup expirations, SpaceX's $2.1 trillion valuation appears expensive compared to peers like Meta, and the company remains unprofitable on a GAAP basis despite strong EBITDA performance.",
+    "keywords": [
+      "IPO",
+      "revenue growth",
+      "AI compute rental",
+      "valuation",
+      "lockup expiration",
+      "profitability",
+      "Starlink"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SpaceX shows impressive Q2 revenue acceleration (92%) and strong EBITDA growth driven by AI compute deals, the company remains unprofitable on GAAP basis with a $541M Q2 loss. At $2.1T market cap, valuation appears stretched compared to peers like Meta, and AI rental revenue may not be a long-term growth driver. Stock has stabilized but lacks compelling value proposition relative to alternatives."
       },
       {
         "ticker": "META",
         "sentiment": "positive",
-        "sentiment_reasoning": "Gained 3.07% as a mega-cap technology name benefiting from rotation toward larger companies with stronger balance sheets and diversified earnings during the AI trade correction."
+        "sentiment_reasoning": "Meta is highlighted as a more attractive investment alternative to SpaceX, offering lower market cap, high growth, wide margins, and reasonable valuation. The article suggests Meta is a better buy than SpaceX for investors seeking quality growth at fair prices."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google signed a significant AI compute rental agreement with SpaceX, contributing to the company's 92% Q2 revenue growth and validating demand for SpaceX's AI infrastructure capabilities."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google signed a significant AI compute rental agreement with SpaceX, contributing to the company's 92% Q2 revenue growth and validating demand for SpaceX's AI infrastructure capabilities."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google signed a significant AI compute rental agreement with SpaceX, contributing to the company's 92% Q2 revenue growth and validating demand for SpaceX's AI infrastructure capabilities."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google signed a significant AI compute rental agreement with SpaceX, contributing to the company's 92% Q2 revenue growth and validating demand for SpaceX's AI infrastructure capabilities."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CoreWeave is mentioned as a comparable neocloud company generating similar AI compute revenue but growing at triple-digit rates and trading at significantly cheaper valuations than SpaceX, suggesting better value in the AI infrastructure space."
+      },
+      {
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nebius is cited as another neocloud competitor with triple-digit revenue growth and more attractive valuation multiples compared to SpaceX's expensive AI compute rental business."
+      },
+      {
+        "ticker": "QQQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF will benefit from increased allocation to SpaceX as it joins the Nasdaq-100, providing a potential tailwind for the stock through index fund buying pressure, though this is a mechanical benefit rather than fundamental strength."
+      }
+    ]
+  },
+  {
+    "id": "63e098de9f2932856dd0e7aec7d472a60524b86be620923959c24b5fcba400c5",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off?",
+    "author": "Na",
+    "published_utc": "2026-09-22T14:12:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993740/iren-broadens-its-ai-customer-base-can-diversification-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-2993740",
+    "tickers": [
+      "IREN",
+      "CRWV",
+      "NBIS",
+      "MSFT",
+      "NVDA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/08/133038.webp",
+    "description": "IREN Limited is diversifying its AI cloud customer base away from heavy dependence on Microsoft and NVIDIA by signing $2.8 billion in contracts with Prometheus, Perplexity, and Together AI in July 2026. The company is experiencing stronger contract economics with three-year pricing up 125% and five-year pricing up 70%, though it faces risks from early-stage customers and shorter contracts. With 2026 capacity largely sold out, IREN is targeting broader customer expansion for 2027-2028.",
+    "keywords": [
+      "AI cloud services",
+      "customer diversification",
+      "contract pricing",
+      "capacity expansion",
+      "concentration risk"
+    ],
+    "insights": [
+      {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company signed significant $2.8B in new contracts, achieved substantial pricing increases (125% for 3-year, 70% for 5-year contracts), and is successfully diversifying customer base away from concentration risk. However, sentiment is tempered by downward earnings revisions and premium valuation."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 2026 performance with $2.58B in revenues and $104B revenue backlog. Demonstrates significant scale with 1.5 GW active power and 3.7 GW contracted power, positioning it well in the competitive AI cloud market."
+      },
+      {
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid Q2 2026 results with $582.3M group revenues and $3B ARR. Closed four major AI-cloud deals averaging over $1B each and raised contracted-power target to 5 GW, indicating strong growth momentum."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major customer representing substantial portion of IREN's contracted revenues, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned alongside Microsoft as a major customer of IREN, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+      }
+    ]
+  },
+  {
+    "id": "edc5625399edf3c4a9e4e7584b49672b19977025d4506458b2335685b462df92",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Down 53%, Should You Still Buy CoreWeave's (CRWV) Stock?",
+    "author": "Leo Sun",
+    "published_utc": "2026-09-21T17:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/21/down-53-should-you-buy-crwv/?source=iedfolrf0000001",
+    "tickers": [
+      "CRWV",
+      "NVDA",
+      "META",
+      "MSFT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888246%2Fai-brain.jpg&w=1200&op=resize",
+    "description": "CoreWeave's stock has declined 53% from its June 2025 peak of $183.58 to $86, but the article argues it may represent a buying opportunity. The AI infrastructure provider operates 51 data centers with over 250,000 Nvidia GPUs, serving major clients like Meta, Microsoft, and OpenAI. Despite explosive 168% revenue growth to $5.1B in 2025 and a $104B contracted revenue backlog, CoreWeave remains unprofitable under GAAP accounting with a concerning 14.3 debt-to-equity ratio. Analysts project continued strong growth through 2028, valuing the stock at just 12x adjusted EBITDA.",
+    "keywords": [
+      "AI infrastructure",
+      "cloud computing",
+      "GPU services",
+      "data centers",
+      "growth stock",
+      "valuation",
+      "debt concerns"
+    ],
+    "insights": [
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite 53% stock decline, the article presents a bullish case citing strong revenue growth (168%), massive contracted backlog ($104B), competitive advantages (35x faster, 80% cheaper than AWS/Azure), and attractive valuation (12x adjusted EBITDA). Positioned as a 'compelling turnaround play' with 101-110% projected CAGR through 2028."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nvidia benefits from CoreWeave's expansion as the primary GPU supplier with 250,000+ GPUs installed. Nvidia's 11.5% stake in CoreWeave and strategic partnership position it favorably in the AI infrastructure boom."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top CoreWeave customer, indicating reliance on AI infrastructure services, but no specific sentiment drivers regarding Meta itself are discussed in the article."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as both a CoreWeave customer and competitor (Azure). No specific sentiment drivers are discussed beyond its role in the competitive landscape."
       },
       {
         "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Gained 3.00% as a mega-cap hyperscaler with stronger fundamentals attracting capital rotating away from pure-play chip suppliers."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Gained 2.78% as a mega-cap technology company with diversified earnings and stronger balance sheets attracting defensive rotation from crowded AI trades."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Fell 8.15% as a memory chip supplier facing pressure from potential margin compression if hyperscalers reduce capex spending due to unproven AI returns."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Reportedly exploring ways to hedge falling memory prices, indicating concerns about AI infrastructure cost sustainability and margin pressure in the sector."
-      }
-    ]
-  },
-  {
-    "id": "79f0c99105b558218c4c010103945e69ea0d30a511ba78fb40f7ae7741c142bb",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Should Nebius and CoreWeave Investors Be Scared by Meta's Latest Plans?",
-    "author": "Keithen Drury",
-    "published_utc": "2026-07-14T14:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/14/should-nebius-and-coreweave-investors-be-scared-by/?source=iedfolrf0000001",
-    "tickers": [
-      "META",
-      "CRWV",
-      "NBIS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878175%2Ftwo-software-engineers-walking-down-an-aisle-of-a-data-center.jpg&w=1200&op=resize",
-    "description": "Meta Platforms is reportedly planning to launch its own cloud computing service, causing stocks of computing capacity providers Nebius and CoreWeave to decline significantly. Both companies have major deals with Meta ($12B and $14B respectively), but the news of Meta's cloud ambitions has sparked investor concerns about reduced reliance on these partners. However, the article argues that AI computing capacity remains supply-constrained and Meta will likely maintain these partnerships given future AI demands.",
-    "keywords": [
-      "cloud computing",
-      "AI infrastructure",
-      "Meta Platforms",
-      "computing capacity",
-      "hyperscalers",
-      "data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Meta's plans to launch a cloud computing service represent a strategic shift that could improve long-term profitability by monetizing excess capacity, but also signal potential reduced reliance on external partners. The move is neither clearly positive nor negative for the company itself."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 35% from 2026 high due to concerns that Meta's cloud service plans could reduce demand for CoreWeave's computing capacity. The company's $14B Meta deal is now viewed as less secure, though the article suggests long-term viability remains intact."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined nearly 25% following Meta's cloud service announcement. The company's $12B partnership with Meta, which was a major driver of its 2026 rally, is now perceived as potentially at risk, creating investor uncertainty about future revenue."
-      }
-    ]
-  },
-  {
-    "id": "bd0352332fe013f69c3efdf64dad6841a6898626a8eae6d9534ef4b253082e59",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "CoreWeave Stock Sank 11% After Mark Zuckerberg's Meta Unveiled a Cloud Business Plan",
-    "author": "Leo Sun",
-    "published_utc": "2026-07-11T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/11/coreweave-stock-sank-11-after-mark-zuckerbergs-me/?source=iedfolrf0000001",
-    "tickers": [
-      "CRWV",
-      "META",
-      "MSFT",
-      "NBIS",
-      "IBM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878280%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-    "description": "Meta announced plans to sell excess AI cloud computing capacity from its own data centers, causing CoreWeave stock to drop 11%. However, analysts argue this doesn't fundamentally threaten CoreWeave's business, as independent neocloud providers should remain attractive alternatives to customers who prefer not to rely on Meta's infrastructure. CoreWeave's revenue is projected to grow significantly through 2028, and the stock may represent a buying opportunity despite near-term headwinds.",
-    "keywords": [
-      "neocloud",
-      "AI infrastructure",
-      "cloud computing",
-      "Meta Compute",
-      "GPU capacity",
-      "data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "CRWV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock declined 11% due to Meta competition concerns, but analyst maintains bullish long-term thesis citing strong revenue growth projections (2025-2028: $5.1B to $40.3B) and valuation multiples that appear reasonable. Near-term pressure offset by structural growth opportunities."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Meta's announcement of a new cloud business unit to monetize excess AI infrastructure capacity is viewed as a strategic efficiency move. Stock gained 6% on the news, reflecting investor approval of the initiative to optimize its massive $145B infrastructure investment."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as CoreWeave's largest customer unlikely to compete with neocloud providers since it already operates major cloud infrastructure. No direct impact from Meta's announcement; continues as stable customer for CoreWeave."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Fellow neocloud provider with multi-billion dollar deal with Meta, similar to CoreWeave. Faces same competitive pressures from Meta's cloud business but positioned as independent alternative in growing AI market."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as CoreWeave customer that could potentially follow Meta's playbook of expanding cloud infrastructure. No immediate negative impact indicated, but represents potential future competitive threat."
-      }
-    ]
-  },
-  {
-    "id": "82439d9bc6ff836da1c861e0b499491038551fc3f4fdc6da73864b7c88e17970",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Meta's Cloud News Just Made This the Most Obvious Buy in the Market",
-    "author": "Neil Rozenbaum",
-    "published_utc": "2026-07-09T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/09/metas-cloud-news-just-made-this-the-most-obvious-b/?source=iedfolrf0000001",
-    "tickers": [
-      "META",
-      "CRWV",
-      "NBIS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878250%2Fgettyimages-1361008768.jpg&w=1200&op=resize",
-    "description": "Meta's recent cloud infrastructure news is creating ripple effects across AI infrastructure stocks. The announcement positions Meta to enter a potential $2 trillion cloud market, which has implications for related companies like CoreWeave and Nebius Group in the broader AI infrastructure trade.",
-    "keywords": [
-      "Meta cloud infrastructure",
-      "AI infrastructure stocks",
-      "CoreWeave",
-      "Nebius Group",
-      "cloud market",
-      "AI agents"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Meta announced significant cloud infrastructure news and is entering a potential $2 trillion cloud market, positioning it as a major player in cloud computing and AI infrastructure."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "mixed",
-        "sentiment_reasoning": "While Meta's cloud news creates opportunities in the AI infrastructure space, CoreWeave stock fell 14% on the announcement, suggesting investor concerns about competitive pressures despite the broader positive sentiment for the sector."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nebius is mentioned as a beneficiary of the ripple effects from Meta's cloud infrastructure news, positioning it favorably within the expanding AI infrastructure trade."
+        "sentiment_reasoning": "Mentioned as a competitive benchmark (AWS) for CoreWeave's superior pricing and speed, but no specific sentiment regarding Amazon itself is discussed."
       }
     ]
   }

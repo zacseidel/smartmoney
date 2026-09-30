@@ -1,293 +1,286 @@
 [
   {
-    "id": "2c964d23d8702c1434f95446a39b6d5299b895d36cec31bf1c122a5ec14f58f3",
+    "id": "eb0a2df21d61a443de77cff1a2d3f3e0d54d308d1bea8e207e1e6deb451e0d8d",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "For Energy Investors, Is a Traditional Energy ETF a Better Bet Than Clean Energy?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-25T16:30:01Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/25/for-energy-investors-is-a-traditional-energy-etf-a-better-bet-than-clean-energy/?source=iedfolrf0000001",
+    "title": "Are Current Oil Prices High Enough to Fuel ExxonMobil's Growth?",
+    "author": "Na",
+    "published_utc": "2026-09-29T12:01:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2997294/are-current-oil-prices-high-enough-to-fuel-exxonmobil-s-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2997294",
     "tickers": [
-      "XLE",
-      "ICLN",
       "CVX",
       "COP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares State Street Energy Select Sector SPDR ETF (XLE), which focuses on traditional fossil fuels, with iShares Global Clean Energy ETF (ICLN), which invests in renewable energy companies. XLE offers lower fees (0.08% vs 0.39%), higher dividend yield (2.60% vs 1.00%), and lower volatility, while ICLN provides greater diversification and exposure to the growing renewable energy sector. The author recommends ICLN for long-term investors who can tolerate near-term volatility, citing the macro trend toward renewable energy and superior 10-year returns.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/930.jpg",
+    "description": "With WTI crude trading above $90 per barrel, major oil and gas exploration and production companies like ExxonMobil, Chevron, and ConocoPhillips are well-positioned to benefit. ExxonMobil leverages its Permian footprint and Guyana discoveries with advanced drilling techniques and AI to boost production at lower costs. All three companies have low-cost drilling opportunities and strong production outlooks in favorable commodity pricing environments.",
     "keywords": [
-      "energy ETF",
-      "traditional energy",
-      "clean energy",
-      "renewable energy",
-      "fossil fuels",
-      "dividend yield",
-      "expense ratio",
-      "volatility"
+      "oil prices",
+      "WTI crude",
+      "exploration and production",
+      "Permian Basin",
+      "Guyana discoveries",
+      "energy sector",
+      "production outlook"
     ],
     "insights": [
       {
-        "ticker": "XLE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "XLE demonstrates strong near-term performance (41% 1-year return) and lower costs/volatility, but the article recommends ICLN for long-term investors, suggesting traditional energy is less favorable for future growth despite current strength."
-      },
-      {
-        "ticker": "ICLN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article explicitly recommends ICLN as the better buy for investors who can tolerate volatility, citing superior 10-year annualized returns (10.7% vs 8.9%) and the macro trend toward renewable energy adoption."
-      },
-      {
         "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in XLE at 14.4%, representing traditional fossil fuel exposure with neutral outlook relative to renewable alternatives."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Benefits from high oil prices with growing production volumes from Permian operations, well-positioned to capitalize on current commodity pricing strength."
       },
       {
         "ticker": "COP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Significant holding in XLE at 5.9%, representing traditional oil and gas exposure without particular advantage over renewables."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Generates significant revenues from crude oil with favorable high commodity pricing. Possesses low-cost drilling opportunities across Permian, Eagle Ford, and Bakken with bright upstream operations outlook over two decades."
       }
     ]
   },
   {
-    "id": "6849fd465a04fda20e551b25bb046b268485b45859564ed47e1fb3057512b578",
+    "id": "c8f5490a8591f297cccbdf751dd95d8d2916ffe7baf969033cf4b116239d58c7",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is an Oil & Gas ETF or a Solar Stock Fund  the Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-25T16:03:09Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/25/is-an-oil-and-gas-etf-or-a-solar-stock-fund-the-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "XLE",
-      "TAN",
-      "CVX",
-      "COP",
-      "FSLR",
-      "ENPH",
-      "NXT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe2a7a839652ce1e4b5e887767e5794b4ba7e66f4-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two energy ETFs: XLE (State Street Energy Select Sector SPDR ETF) focusing on traditional oil and gas, and TAN (Invesco Solar ETF) focusing on solar energy. XLE offers lower costs (0.08% vs 0.7% expense ratio) and better recent performance (13% and 18.9% over 3 and 5 years), while TAN delivered stronger 10-year returns (11.8% vs 8.9%) but with significantly higher volatility. The author recommends TAN for long-term investors who can tolerate short-term volatility, citing solar's irreversible long-term growth trajectory.",
-    "keywords": [
-      "energy ETF comparison",
-      "oil and gas",
-      "solar energy",
-      "renewable energy",
-      "ETF performance",
-      "expense ratio",
-      "volatility",
-      "long-term investing"
-    ],
-    "insights": [
-      {
-        "ticker": "XLE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "XLE is presented as a stable, low-cost option with strong recent 3 and 5-year returns (13% and 18.9%), but the article ultimately recommends TAN for long-term investors, positioning XLE as the more conservative, traditional choice rather than the preferred investment."
-      },
-      {
-        "ticker": "TAN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article explicitly recommends TAN as the better choice for long-term investors, citing solar's irreversible long-term growth trajectory and superior 10-year returns (11.8% vs 8.9%), despite acknowledging its higher volatility and recent underperformance."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as the second-largest holding in XLE (14.4%), representing traditional oil and gas exposure without specific positive or negative commentary."
-      },
-      {
-        "ticker": "COP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a holding in XLE (5.9%), representing traditional energy exposure without specific positive or negative commentary."
-      },
-      {
-        "ticker": "FSLR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top holding in TAN (9.3%), part of the solar industry that the article recommends for long-term growth potential."
-      },
-      {
-        "ticker": "ENPH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a top holding in TAN (7.2%), part of the solar supply chain that the article identifies as having irreversible long-term growth trajectory."
-      },
-      {
-        "ticker": "NXT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as the largest holding in TAN (10.3%), part of the solar industry recommended for long-term investors."
-      }
-    ]
-  },
-  {
-    "id": "b05907f8dd06df44b78e7183d4653b9059721bab40abdedf3ca566205abd7b74",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Vanguard Energy vs Global X MLP & Energy Infrastructure: Which ETF Is Delivering Profits From Rising Energy Costs?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-07-09T18:23:33Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/09/vanguard-energy-vs-global-x-mlp-and-energy-infrastructure-which-etf-is-delivering-profits-from-rising-energy-costs/?source=iedfolrf0000001",
+    "title": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-23T19:22:50Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/23/better-energy-sector-etf-vanguard-s-vde-focused-on-oil-and-gas-vs-the-ishares-icln-targeting-clean-energy/?source=iedfolrf0000001",
     "tickers": [
       "VDE",
-      "MLPX",
+      "ICLN",
       "CVX",
       "COP",
-      "TRP",
-      "WMB"
+      "BE",
+      "FSLR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two energy ETFs: Vanguard Energy ETF (VDE) with a 0.09% expense ratio focusing on broad energy producers, and Global X MLP & Energy Infrastructure ETF (MLPX) with a 0.45% expense ratio targeting midstream infrastructure. While VDE offers lower costs and broader diversification with 111 holdings, MLPX provides higher dividend yields (4% vs 2.7%) and superior long-term performance, making it the recommended choice for capitalizing on higher energy prices in 2026.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Vanguard Energy ETF (VDE) and iShares Global Clean Energy ETF (ICLN) represent opposite ends of the energy spectrum. VDE focuses on traditional U.S. oil and gas giants with a 46.8% one-year return, lower expense ratio (0.09%), higher dividend yield (2.3%), and greater stability. ICLN targets international renewable energy with higher growth potential but experienced a 57.2% maximum drawdown and declining performance in 2026 due to unfavorable Trump Administration policies toward renewables.",
     "keywords": [
       "energy ETF",
-      "midstream infrastructure",
+      "oil and gas",
+      "clean energy",
+      "renewable energy",
       "dividend yield",
       "expense ratio",
-      "long-term performance",
-      "oil and gas",
-      "master limited partnerships"
+      "volatility",
+      "AI electricity demand"
     ],
     "insights": [
       {
         "ticker": "VDE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Praised for significantly lower expense ratio (0.09%), broad diversification with 111 holdings across major energy producers (ExxonMobil, Chevron, ConocoPhillips), and strong 1-year performance (30.10%). However, noted as underperforming MLPX on longer-term metrics."
+        "sentiment_reasoning": "Strong one-year return of 46.8%, lowest expense ratio at 0.09%, highest dividend yield at 2.3%, larger AUM ($13.2B) providing better liquidity, and lower volatility (beta 0.50) make it attractive for income and stability-focused investors."
       },
       {
-        "ticker": "MLPX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better buy with superior long-term returns (27.1% over 3-year, 21.2% over 5-year periods), higher dividend yield (4%), lower volatility (beta 0.58), and tax-efficient structure avoiding MLP-level taxes. Midstream focus provides insulation from commodity price shocks."
+        "ticker": "ICLN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offers high growth potential in renewable energy sector with exposure to AI-driven green energy demand, but faces headwinds from Trump Administration policies, declining 2026 performance, higher volatility (beta 1.10), deeper maximum drawdown (57.2%), and higher expense ratio (0.38%)."
       },
       {
         "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as second-largest VDE holding at 14.1% with no specific analysis or recommendation provided."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding in VDE at 14.08%, supporting the fund's solid returns and dividend income from traditional energy operations."
       },
       {
         "ticker": "COP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as VDE holding at 5.8% with no specific commentary or recommendation."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest holding in VDE at 6.01%, contributing to the fund's diversified exposure to U.S. oil and gas majors."
       },
       {
-        "ticker": "TRP",
+        "ticker": "BE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as largest MLPX holding at 9.1% with no specific analysis provided."
+        "sentiment_reasoning": "Top holding in ICLN at 9.06%, representing renewable energy technology exposure but subject to policy and market volatility affecting clean energy sector."
       },
       {
-        "ticker": "WMB",
+        "ticker": "FSLR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as MLPX holding at 8.9% with no specific analysis provided."
+        "sentiment_reasoning": "Second-largest holding in ICLN at 7.58%, providing solar technology exposure but facing headwinds from unfavorable renewable energy policies."
       }
     ]
   },
   {
-    "id": "e005498f9b643f0aebe1582ff5ae62dc518075a94c14909b68a682f52af4cc0f",
+    "id": "e86e76cf61f778935f7573cfd84bd42309606398a6ba8e33573aac45f57af60e",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ConocoPhillips or Occidental Petroleum: Which Oil Stock Should You Buy Now?",
-    "author": "Neha Chamaria",
-    "published_utc": "2026-07-01T19:24:37Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/07/01/conocophillips-or-occidental-petroleum-which-oil-stock-should-you-buy-now/?source=iedfolrf0000001",
+    "title": "Can ExxonMobil Keep Rewarding Shareholders While Investing for Growth?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T15:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2994555/can-exxonmobil-keep-rewarding-shareholders-while-investing-for-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2994555",
     "tickers": [
-      "COP",
-      "OXY",
-      "OXY.WS",
-      "XOM",
-      "CVX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fcc893edf0112b74646c32e31dffaccc933ec0f1a-4500x3000.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two major oil producers: ConocoPhillips, a globally diversified company with strong financials and cash flow projections, and Occidental Petroleum, which is pivoting toward carbon capture technologies after divesting its chemical business. The author recommends ConocoPhillips due to its lower debt, higher returns on capital, and reliable dividend payments, despite acknowledging both companies' potential.",
-    "keywords": [
-      "oil stocks",
-      "ConocoPhillips",
-      "Occidental Petroleum",
-      "energy sector",
-      "dividend stocks",
-      "carbon capture",
-      "debt reduction",
-      "free cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "COP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong balance sheet with 0.4x debt-to-equity ratio, robust free cash flow of $16.8B, healthy net margin of 13.6%, global diversification across 14 countries, disciplined shareholder returns (45% of operating cash flow), and projected $7B incremental FCF by 2029. Author's recommended pick."
-      },
-      {
-        "ticker": "OXY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company shows promise with strategic pivot to carbon capture and $7B debt reduction from OxyChem sale, targeting $10B total debt, and 8% dividend increase. However, carries higher debt-to-equity ratio (0.7x), lower current ratio (0.9x), unproven carbon capture technologies dependent on subsidies, and significantly lower free cash flow ($4.1B) compared to ConocoPhillips."
-      },
-      {
-        "ticker": "OXY.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company shows promise with strategic pivot to carbon capture and $7B debt reduction from OxyChem sale, targeting $10B total debt, and 8% dividend increase. However, carries higher debt-to-equity ratio (0.7x), lower current ratio (0.9x), unproven carbon capture technologies dependent on subsidies, and significantly lower free cash flow ($4.1B) compared to ConocoPhillips."
-      },
-      {
-        "ticker": "XOM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive peer in the oil industry but no specific analysis provided."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive peer in the oil industry but no specific analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "1bc0ce3196a2d251e480e85e1e79e4a020ba5303064686cac279befc404b3d34",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Shell Sees Global LNG Demand Surging 65% By 2050 Despite a War-Driven Slowdown in 2026. Here's What Investors Need to Know.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-06-30T17:30:01Z",
-    "article_url": "https://www.fool.com/investing/2026/06/30/shell-sees-global-lng-demand-durging-65-by-2050-despite-a-war-driven-slowdown-in-2026-heres-what-investors-need-to-know/?source=iedfolrf0000001",
-    "tickers": [
-      "SHEL",
-      "XOM",
+      "CVX",
       "COP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb6b88dba50bfa3a8c89eb8ea5da6e0ac44fd3d3b-1201x706.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Shell projects global LNG demand will grow 65% by 2050, though a war-driven closure of the Strait of Hormuz will cause demand to flatten in 2026 before resuming growth in 2027. Major energy companies including Shell, ExxonMobil, and ConocoPhillips are investing in new LNG capacity to meet projected demand, particularly from Asian markets.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4e/1601.jpg",
+    "description": "ExxonMobil generated $17.2B in free cash flow in Q2 2026 and returned $9.4B to shareholders while investing $13B in growth projects. The company remains on track with its 2030 plan targeting $25B in earnings growth. Chevron and ConocoPhillips similarly balance shareholder returns with disciplined capital investments. XOM trades at 8.84X EV/EBITDA, above the industry average, and carries a Zacks Rank #3 (Hold) rating.",
     "keywords": [
-      "LNG demand",
-      "liquefied natural gas",
-      "Strait of Hormuz",
-      "energy investment",
-      "global supply",
-      "Asia demand growth"
+      "free cash flow",
+      "shareholder returns",
+      "capital expenditures",
+      "Guyana FPSO",
+      "dividend",
+      "share repurchases",
+      "energy sector",
+      "balance sheet strength"
     ],
     "insights": [
       {
-        "ticker": "SHEL",
+        "ticker": "CVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Shell is positioned as an LNG leader with investments in multiple expansion projects (North Field East, North Field South, Ruwais LNG, LNG Canada expansion), well-positioned to capitalize on the projected 65% demand growth through 2050."
-      },
-      {
-        "ticker": "XOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "ExxonMobil recently completed the Golden Pass LNG project and has partnerships on major projects (NFE with Shell/QatarEnergy). The company is evaluating acquisitions and new project start-ups in Papua New Guinea and Mozambique to drive long-term growth."
+        "sentiment_reasoning": "Returned $6.5B to shareholders in Q2 2026 with strong cash generation ($19.7B from operations, $15.4B adjusted free cash flow), demonstrating effective capital allocation balancing returns and growth investments."
       },
       {
         "ticker": "COP",
         "sentiment": "positive",
-        "sentiment_reasoning": "ConocoPhillips is actively expanding its LNG platform with interests in NFE, NFS, Port Arthur LNG, and Rio Grande LNG projects, supporting its aspiration to build a 10-15 MT per year commercial LNG supply contract portfolio."
+        "sentiment_reasoning": "Distributed $3B to shareholders in Q2 2026 and remains on track to return 45% of cash from operations to shareholders in 2026, showing disciplined capital allocation and shareholder-focused strategy."
+      }
+    ]
+  },
+  {
+    "id": "1ee33e04a11bffe48dd85139a7bdc07e2c9b1047134dcdd864568a0f3a48ebb7",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Better Energy Sector ETF: Vanguard's VDE Targeting Traditional Oil and Gas Giants vs. Invesco's Solar-Focused TAN",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-09-22T19:31:44Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/22/better-energy-sector-etf-vanguard-s-vde-targeting-traditional-oil-and-gas-giants-vs-invesco-s-solar-focused-tan/?source=iedfolrf0000001",
+    "tickers": [
+      "VDE",
+      "TAN",
+      "CVX",
+      "COP",
+      "FSLR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Vanguard's VDE energy ETF significantly outperforms Invesco's TAN solar ETF with a 46.8% one-year return versus 6.7%, while offering lower fees (0.09% vs 0.7%), higher dividend yield (2.3%), and lower volatility. VDE is recommended for long-term investors seeking broad energy exposure, while TAN appeals to those betting on renewable energy growth driven by AI demand for clean electricity.",
+    "keywords": [
+      "energy ETF",
+      "VDE",
+      "TAN",
+      "solar energy",
+      "fossil fuels",
+      "renewable energy",
+      "expense ratio",
+      "dividend yield",
+      "volatility",
+      "AI demand"
+    ],
+    "insights": [
+      {
+        "ticker": "VDE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 46.8% one-year return, significantly lower expense ratio (0.09%), attractive 2.3% dividend yield, lower volatility (beta 0.50), larger AUM ($13.2B) for better liquidity, and superior 5-year performance ($3,085 vs $539 on $1,000 investment). Recommended as ideal for long-term investors."
+      },
+      {
+        "ticker": "TAN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned as a specialized, high-conviction bet on solar industry with potential long-term growth from AI-driven clean energy demand. However, significantly higher expense ratio (0.7%), much higher volatility (beta 1.41), severe 5-year drawdown (-74%), and weaker recent performance (6.7% one-year return). Suitable only for investors specifically targeting renewable energy or avoiding fossil fuels."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest VDE holding at 14.08%, benefiting from elevated oil prices and strong energy sector momentum."
+      },
+      {
+        "ticker": "COP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest VDE holding at 6.01%, participating in the energy sector's strong performance driven by geopolitical factors and AI-related electricity demand."
+      },
+      {
+        "ticker": "FSLR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest TAN holding at 9.81%, positioned to benefit from long-term AI-driven clean energy demand, but subject to TAN's high volatility and sector-specific risks."
+      }
+    ]
+  },
+  {
+    "id": "ae5cffca88d9ea57f6652cc49dca6c8ce492799ba27a07fe177a4ca3c40e7902",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Warren Buffett's Farewell: What Investors Can Learn From His Biggest Mistake",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-09-22T19:30:01Z",
+    "article_url": "https://www.fool.com/investing/2026/09/22/warren-buffett-s-farewell-what-investors-can-learn-from-his-biggest-mistake/?source=iedfolrf0000001",
+    "tickers": [
+      "BRK.A",
+      "BRK.B",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "CMG",
+      "COP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8dffd9d9d886d61b54793849eb7f931e5225f5c1-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Warren Buffett stepped down as Berkshire Hathaway chairman after six decades of exceptional returns. The article argues his biggest mistake was failing to invest in Google early despite recognizing its strong business model through GEICO's advertising costs. Buffett finally invested in Alphabet in 2025, illustrating the importance of acting on unique insights and specialized knowledge when investment opportunities arise.",
+    "keywords": [
+      "Warren Buffett",
+      "investment mistakes",
+      "Google/Alphabet",
+      "Berkshire Hathaway",
+      "GEICO",
+      "economic moat",
+      "Peter Lynch",
+      "specialized knowledge",
+      "early-stage tech IPOs"
+    ],
+    "insights": [
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Buffett's leadership is praised for exceptional returns, but the article highlights his significant missed opportunity with Google, demonstrating that even great investors make costly mistakes."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Buffett's leadership is praised for exceptional returns, but the article highlights his significant missed opportunity with Google, demonstrating that even great investors make costly mistakes."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
+      },
+      {
+        "ticker": "CMG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of leveraging personal insights for early investment success, with stock returns of approximately 4,000% since the author's purchase."
+      },
+      {
+        "ticker": "COP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as one of Buffett's documented mistakes, purchased at the peak of the oil market in 2008, resulting in multi-billion-dollar losses."
       }
     ]
   }

@@ -1,5 +1,57 @@
 [
   {
+    "id": "1233ea40bef141bbce70cb07b6d0fd0628b5beea459c492c3009de74056b32ca",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Should You Avoid Opendoor Stock, Even at a 52-Week Low?",
+    "author": "Jennifer Saibil",
+    "published_utc": "2026-09-01T09:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/01/should-you-avoid-opendoor-stock-52-week-low/?source=iedfolrf0000001",
+    "tickers": [
+      "OPEN",
+      "OPENL",
+      "OPENW",
+      "OPENZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883558%2Fpeople-looking-at-a-house-to-buy.jpg&w=1200&op=resize",
+    "description": "Opendoor Technologies stock has declined 26% over the past year despite new management and improving operational metrics. While the company showed progress in Q2 with higher quarter-over-quarter revenue and significantly lower acquisition costs, year-over-year performance deteriorated with increased adjusted net losses. The article suggests cautious interest at the current $3.22 price point, recommending only small positions until the company demonstrates sustained profitability progress.",
+    "keywords": [
+      "Opendoor Technologies",
+      "real estate technology",
+      "profitability",
+      "operational efficiency",
+      "housing market",
+      "stock valuation",
+      "52-week low"
+    ],
+    "insights": [
+      {
+        "ticker": "OPEN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: positive operational improvements (lower costs per acquisition, better inventory metrics, higher QoQ revenue) are offset by negative year-over-year results (declining revenue and net income, increased adjusted net losses from $9M to $30M). Market skepticism persists despite management's confidence in profitability path. The recommendation is cautiously neutral\u2014suitable only for small speculative positions."
+      },
+      {
+        "ticker": "OPENL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: positive operational improvements (lower costs per acquisition, better inventory metrics, higher QoQ revenue) are offset by negative year-over-year results (declining revenue and net income, increased adjusted net losses from $9M to $30M). Market skepticism persists despite management's confidence in profitability path. The recommendation is cautiously neutral\u2014suitable only for small speculative positions."
+      },
+      {
+        "ticker": "OPENW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: positive operational improvements (lower costs per acquisition, better inventory metrics, higher QoQ revenue) are offset by negative year-over-year results (declining revenue and net income, increased adjusted net losses from $9M to $30M). Market skepticism persists despite management's confidence in profitability path. The recommendation is cautiously neutral\u2014suitable only for small speculative positions."
+      },
+      {
+        "ticker": "OPENZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: positive operational improvements (lower costs per acquisition, better inventory metrics, higher QoQ revenue) are offset by negative year-over-year results (declining revenue and net income, increased adjusted net losses from $9M to $30M). Market skepticism persists despite management's confidence in profitability path. The recommendation is cautiously neutral\u2014suitable only for small speculative positions."
+      }
+    ]
+  },
+  {
     "id": "9895a68cc623613595fc9f7d3ce8b651dda9e507cd331cbb22a6eb094b476457",
     "publisher": {
       "name": "The Motley Fool",
@@ -270,84 +322,6 @@
         "ticker": "PTON",
         "sentiment": "positive",
         "sentiment_reasoning": "Recently turned profitable in fiscal 2025, posted 1% revenue growth in Q3 (strongest since late 2021), stock up 58% in three months, and trading at reasonable 21x forward earnings. Article frames it as a legitimate turnaround play rather than a pandemic-era punchline."
-      }
-    ]
-  },
-  {
-    "id": "e04c4e1c72220bfc8f1734c4fb9d6f5335c487c84ffa6bf237c4e73db6a66932",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "PropTech Market Size Expected to Reach USD 165 Billion by 2035 | SNS Insider",
-    "author": "Unknown",
-    "published_utc": "2026-05-18T07:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/05/18/3296328/0/en/PropTech-Market-Size-Expected-to-Reach-USD-165-Billion-by-2035-SNS-Insider.html",
-    "tickers": [
-      "Z",
-      "ZG",
-      "OPEN",
-      "OPENL",
-      "OPENW",
-      "OPENZ",
-      "CSGP",
-      "APPF"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The PropTech market is experiencing rapid expansion, valued at $43 billion in 2025 and projected to reach $165 billion by 2035 with a 13.9% CAGR. Growth is driven by AI-powered property management solutions, smart building technologies, cloud computing, and blockchain-based transactions. The U.S. market alone is expected to grow from $11 billion to $42.3 billion over the same period. Integrated platforms dominate with 68% market share, while cloud deployment and residential properties are expected to show the fastest growth rates.",
-    "keywords": [
-      "PropTech",
-      "AI-powered property management",
-      "smart buildings",
-      "cloud computing",
-      "real estate technology",
-      "digital transformation",
-      "smart cities",
-      "blockchain",
-      "property management software"
-    ],
-    "insights": [
-      {
-        "ticker": "Z",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player in the rapidly expanding PropTech market with strong projected growth of 13.9% CAGR through 2035"
-      },
-      {
-        "ticker": "ZG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player in the rapidly expanding PropTech market with strong projected growth of 13.9% CAGR through 2035"
-      },
-      {
-        "ticker": "OPEN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the growing PropTech sector benefiting from increased adoption of digital real estate solutions"
-      },
-      {
-        "ticker": "OPENL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the growing PropTech sector benefiting from increased adoption of digital real estate solutions"
-      },
-      {
-        "ticker": "OPENW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the growing PropTech sector benefiting from increased adoption of digital real estate solutions"
-      },
-      {
-        "ticker": "OPENZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the growing PropTech sector benefiting from increased adoption of digital real estate solutions"
-      },
-      {
-        "ticker": "CSGP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player with recent strategic acquisition of AI-powered commercial real estate platform, demonstrating active expansion in the growing market"
-      },
-      {
-        "ticker": "APPF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in property management software segment which dominated with 68% market share in 2025"
       }
     ]
   }

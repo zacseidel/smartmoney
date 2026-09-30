@@ -1,504 +1,317 @@
 [
   {
-    "id": "d4f0659e3f75822f41e9e859e1b86b7de97a504506ec870a04549a77a10303f2",
+    "id": "443bdcc0906f68b41337a4f1dc373552bd73e4d60e177495eb64bcf1ab021718",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Brookfield Renewable Corp vs. WEC Energy Group: Which Utilities Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-06-10T19:16:48Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/06/10/brookfield-renewable-corp-vs-wec-energy-group-which-utilities-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Top Research Reports for S&P Global, Cloudflare & Canadian Natural",
+    "author": "Mark Vickery",
+    "published_utc": "2026-09-15T20:13:00Z",
+    "article_url": "https://www.zacks.com/commentary/2989703/top-research-reports-for-s-p-global-cloudflare-canadian-natural?cid=CS-ZC-FT-research_daily-2989703",
     "tickers": [
-      "BEPC",
-      "WEC",
+      "SPGI",
+      "NET",
+      "CNQ",
+      "SGU",
+      "HOUR",
+      "EXC",
+      "NDSN",
+      "LAMR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/210.jpg",
+    "description": "Zacks analysts published research on 16 major stocks and 2 microcaps on September 15, 2026. Key reports include S&P Global (neutral outlook despite strong recurring revenues and AI adoption), Cloudflare (balanced risk-reward with strong enterprise demand but valuation concerns), and Canadian Natural Resources (neutral stance due to commodity volatility and regulatory risks). Additional coverage includes Exelon, Nordson, Lamar Advertising, and others with mixed outlooks reflecting both growth opportunities and operational challenges.",
+    "keywords": [
+      "equity research",
+      "stock analysis",
+      "investment themes",
+      "earnings",
+      "market outlook"
+    ],
+    "insights": [
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positive factors include recurring benchmark revenues, AI adoption, and margin improvements, but offset by elevated costs, sizable debt, and intense competition. Financial and execution risks limit near-term upside."
+      },
+      {
+        "ticker": "NET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong enterprise demand and raised 2026 outlook are positive, but gross-margin compression, intense competition, macro uncertainty, workforce restructuring, and stretched valuation create balanced risk-reward profile."
+      },
+      {
+        "ticker": "CNQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Diversified portfolio and strong cash-flow generation are supported by low-cost assets, but significant oil sands exposure creates commodity volatility sensitivity and regulatory uncertainty. Pipeline constraints and ESG scrutiny limit upside."
+      },
+      {
+        "ticker": "SGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acquisition strategy and HVAC diversification provide growth opportunities, but persistent customer attrition, energy conversions, elevated commodity costs, and tariff uncertainty constrain organic growth and margins."
+      },
+      {
+        "ticker": "HOUR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong revenue growth (25.2% in Q2 2026) and profitability are positive, but weak cash flow, rising inventory, heavy Amazon dependence (97% of revenues), tariff risks, and platform policy changes create significant headwinds."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Planned $41.7B investment in transmission and distribution infrastructure combined with revenue decoupling mechanisms support performance improvement."
+      },
+      {
+        "ticker": "NDSN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Growing demand for nonwoven and industrial coating products drives the Industrial Precision Solutions segment, but high costs remain a significant concern."
+      },
+      {
+        "ticker": "LAMR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Resilient local demand, digital growth, and disciplined acquisitions are positive, but ad cyclicality, rate exposure, and strong competition temper upside potential."
+      }
+    ]
+  },
+  {
+    "id": "a9a09b558a6125dbce4e0a59f6f15d281b457c65131388d0b7f4adc6ccfa1995",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "PPL Stock Underperforms Its Industry in the Past Month: How to Play?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-14T15:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2989271/ppl-stock-underperforms-its-industry-in-the-past-month-how-to-play?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2989271",
+    "tickers": [
+      "PPL",
+      "PPLC",
+      "FE",
+      "EXC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fe/332.jpg",
+    "description": "PPL Corporation's shares fell 5.2% in the past month, underperforming its industry. While the company benefits from rising data center demand and plans $23 billion in regulated infrastructure investment through 2029, it trades at a premium valuation with below-industry ROE of 9.33% versus 11.4%, suggesting investors may wait for a better entry point. The stock holds a Zacks Rank #3 (Hold) rating.",
+    "keywords": [
+      "PPL Corporation",
+      "utility stocks",
+      "data center demand",
+      "infrastructure investment",
+      "valuation premium",
+      "return on equity",
+      "regulated utilities"
+    ],
+    "insights": [
+      {
+        "ticker": "PPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL has positive growth drivers including $23B infrastructure investment plan, 10.3% rate base CAGR, and rising data center demand. However, it trades at a premium (P/E 16.56X vs industry 14.7X), has below-industry ROE (9.33% vs 11.4%), and faces execution risks and competition. The Hold rating reflects balanced risks and opportunities."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL has positive growth drivers including $23B infrastructure investment plan, 10.3% rate base CAGR, and rising data center demand. However, it trades at a premium (P/E 16.56X vs industry 14.7X), has below-industry ROE (9.33% vs 11.4%), and faces execution risks and competition. The Hold rating reflects balanced risks and opportunities."
+      },
+      {
+        "ticker": "FE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable operator making substantial infrastructure investments with better recent performance (down 2.7% vs PPL's 5.2%), but no detailed analysis provided. Trades at premium P/E of 15.98X."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a peer utility with strong transmission and distribution operations and strategic infrastructure expansion. Trades at industry discount (P/E 14.4X) with lower earnings growth projections (3.25% and 6.57% for 2026-2027) compared to PPL."
+      }
+    ]
+  },
+  {
+    "id": "1432843a01125d4de0d54cce68acbbeead6572a810d01765ecca767188b7d934",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's Why a Hold Strategy Is Apt for Southern Company Stock Now",
+    "author": "Na",
+    "published_utc": "2026-09-08T13:05:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2986241/here-s-why-a-hold-strategy-is-apt-for-southern-company-stock-now?cid=CS-ZC-FT-analyst_blog|rank_focused-2986241",
+    "tickers": [
+      "SO",
+      "SOJC",
+      "SOJD",
+      "SOJE",
+      "SOJF",
+      "SOMN",
+      "ENIC",
+      "CNP",
+      "EXC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/16/2092.jpg",
+    "description": "Southern Company (SO) is positioned to benefit from surging data center demand with over 17 GW of contracted load and an $81B capital plan supporting 9% rate-base growth. However, high capital requirements, equity dilution needs, rising borrowing costs, and regulatory risks present challenges. The stock has underperformed peers by 3% over the past 12 months, prompting analysts to recommend waiting for a better entry point.",
+    "keywords": [
+      "data center demand",
+      "utility sector",
+      "capital expenditure",
+      "regulated utilities",
+      "renewable energy",
+      "equity financing",
+      "borrowing costs",
+      "regulatory risk"
+    ],
+    "insights": [
+      {
+        "ticker": "SO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "SOJC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "SOJD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "SOJE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "SOJF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "SOMN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While SO benefits from strong electricity demand growth (2.3% retail sales increase, 55% data center usage growth) and has substantial contracted demand (17+ GW pipeline, 3.2 GW OpenAI contract), significant headwinds exist including very high capital requirements ($6.76B invested in H1 2026), continued equity dilution needs ($1.1B through 2030), rising interest expenses, and regulatory cost-recovery risks. The stock's 3% decline over 12 months versus 13.1% gains for the Electric Power sub-industry suggests underperformance. Zacks Rank #3 (Hold) rating recommends waiting for better entry point."
+      },
+      {
+        "ticker": "ENIC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a better-ranked alternative with Zacks Rank #2 (Buy). Leading power company in Chile with focus on renewable energy and sustainable infrastructure, offering stronger investment prospects than SO."
+      },
+      {
+        "ticker": "CNP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a better-ranked alternative with Zacks Rank #2 (Buy). Major U.S. utility with regulated operations and ongoing grid modernization investments, positioned as a superior choice to SO."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a better-ranked alternative with Zacks Rank #2 (Buy). One of the largest regulated utilities in the U.S. with investments in grid reliability and clean energy, offering better prospects than SO."
+      }
+    ]
+  },
+  {
+    "id": "ceb7d292acc4d4167bdd3ef768ed60b20ddd27473a4f21378722b9971a3cc3ed",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Exelon (EXC) is a Great Dividend Stock Right Now",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:45:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2985959/why-exelon-exc-is-a-great-dividend-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_5-2985959",
+    "tickers": [
+      "EXC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default353.jpg",
+    "description": "Exelon (EXC), a Chicago-based utility company, offers an attractive dividend yield of 3.85%, above its industry average of 3.17%. With an annualized dividend of $1.68 (up 5% year-over-year) and a sustainable 60% payout ratio, the company is positioned for modest earnings growth with 2026 consensus estimates at $2.86 per share. Zacks rates EXC as a #2 Buy, making it a compelling option for income-focused investors seeking stable cash flow.",
+    "keywords": [
+      "dividend yield",
+      "income investing",
+      "utility sector",
+      "dividend growth",
+      "payout ratio",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "EXC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exelon demonstrates strong dividend fundamentals with a yield of 3.85% above industry average, consistent dividend growth (5% year-over-year), a sustainable payout ratio of 60%, and expected earnings expansion in 2026. The company received a Zacks Rank #2 (Buy) rating, indicating it is viewed as an attractive investment opportunity for income investors."
+      }
+    ]
+  },
+  {
+    "id": "e73c752a479b2a2fac4870ef2e41633329c3391d775c8ab0c492802806216baa",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "EXC vs. NEE: Which Stock Is the Better Value Option?",
+    "author": "Na",
+    "published_utc": "2026-09-07T15:40:04Z",
+    "article_url": "https://www.zacks.com/stock/news/2985936/exc-vs-nee-which-stock-is-the-better-value-option?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2985936",
+    "tickers": [
+      "EXC",
       "NEE",
       "NEEpN",
       "NEEpS",
       "NEEpT",
       "NEEpU",
       "NEEpV",
-      "NEEpW",
-      "EXC"
+      "NEEpW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3caa0e2607e9485862b0d89e5f6f6be899ae6c41-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two utility stocks with different investment profiles: Brookfield Renewable, a global pure-play renewable energy operator with 47.3 GW capacity but higher volatility and debt, versus WEC Energy Group, a stable Midwest regulated utility with predictable returns and strong dividend payouts. WEC has outperformed over the past decade with ~10% annualized returns, while Brookfield offers exposure to the energy transition with massive development pipelines but faces interest rate and regulatory risks.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default1.jpg",
+    "description": "In a comparison of two major utility stocks, Exelon (EXC) emerges as the more attractive option for value investors compared to NextEra Energy (NEE). EXC holds a Zacks Rank of #2 (Buy) with a forward P/E of 15.24 and Value grade of B, while NEE has a Zacks Rank of #3 (Hold) with a forward P/E of 20.80 and Value grade of D. EXC's lower valuation metrics and stronger analyst outlook make it the preferred choice for value-focused investors.",
     "keywords": [
-      "renewable energy",
-      "utilities",
-      "dividend stocks",
-      "regulated utilities",
-      "clean energy",
-      "energy transition",
-      "data centers",
-      "infrastructure investment"
+      "utility stocks",
+      "value investing",
+      "P/E ratio",
+      "Zacks Rank",
+      "valuation metrics"
     ],
     "insights": [
       {
-        "ticker": "BEPC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company has strong macro thesis with 221 GW under development and 15% annual returns on investments, but faces headwinds including FY2025 revenue decline of 15%, net loss of $926M, high debt-to-equity ratio of 216%, and stock volatility. Appealing for long-term growth but with significant near-term challenges."
-      },
-      {
-        "ticker": "WEC",
+        "ticker": "EXC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates consistent performance with 10-year annualized returns near 10%, strong FY2025 revenue growth of 14% to $9.8B, net income of $1.6B with 15.9% net margin, lower debt-to-equity of 153%, and higher dividend payout of $3.81 annually. Offers stability with growth opportunities in data centers and renewable expansion."
+        "sentiment_reasoning": "EXC has a superior Zacks Rank of #2 (Buy) indicating positive earnings estimate revisions, lower forward P/E ratio of 15.24 vs competitor, lower PEG ratio of 2.39, lower P/B ratio of 1.52, and a stronger Value grade of B, making it more attractive for value investors."
       },
       {
         "ticker": "NEE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpU",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpV",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       },
       {
         "ticker": "NEEpW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Brookfield Renewable in the renewable energy development space, but no specific analysis provided in the article."
-      },
-      {
-        "ticker": "EXC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a potential competitor to WEC Energy Group in the data center customer segment, but no detailed analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "9ec77fac866cc4f8aa99df85119cbbdbc2d7c08ebb80da60dcc828f53ca03207",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "2026 Sector Playbook: 3 Sectors Trading Below Fair Value",
-    "author": "Chris Markoch",
-    "published_utc": "2026-01-02T06:38:00Z",
-    "article_url": "https://www.investing.com/analysis/2026-sector-playbook-3-sectors-trading-below-fair-value-200672593",
-    "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN",
-      "PNC",
-      "BA",
-      "BApA",
-      "UNP",
-      "HON",
-      "EXC",
-      "AQN",
-      "AQNB",
-      "XLF",
-      "XLI",
-      "XLU",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "amp_url": "https://m.investing.com/analysis/2026-sector-playbook-3-sectors-trading-below-fair-value-200672593?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "As investors rotate away from overvalued tech and AI stocks in 2026, three sectors are identified as trading below fair value: Financials (expected to benefit from lower interest rates), Industrials (supported by infrastructure demand and capex revival), and Utilities (driven by data center energy needs). Specific undervalued stocks are highlighted in each sector as alternatives to their respective ETFs.",
-    "keywords": [
-      "sector rotation",
-      "undervalued stocks",
-      "interest rates",
-      "financials",
-      "industrials",
-      "utilities",
-      "valuation",
-      "2026 outlook"
-    ],
-    "insights": [
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a best-in-class stock in the Financial sector, but noted as trading at or slightly above sector forward P/E ratio of 16.5, indicating fair valuation rather than undervaluation"
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specifically highlighted as an undervalued financial sector stock with attractive valuation relative to sector and broader market"
-      },
-      {
-        "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued financial sector stock offering value opportunities in 2026"
-      },
-      {
-        "ticker": "PNC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as an undervalued financial sector stock with attractive valuations"
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as an undervalued industrial stock trading below sector average P/E ratio of 24x"
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as an undervalued industrial stock trading below sector average P/E ratio of 24x"
-      },
-      {
-        "ticker": "UNP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an undervalued industrial stock with forward P/E below sector average"
-      },
-      {
-        "ticker": "HON",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as an undervalued industrial stock trading below sector P/E average"
-      },
-      {
-        "ticker": "EXC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a utilities stock trading at attractive valuation relative to sector average P/E of 18x"
-      },
-      {
-        "ticker": "AQN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a utilities stock trading at value relative to sector average"
-      },
-      {
-        "ticker": "AQNB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a utilities stock trading at value relative to sector average"
-      },
-      {
-        "ticker": "XLF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Up 13% in 2025 but lagging S&P 500; article suggests individual stock picking may outperform the ETF"
-      },
-      {
-        "ticker": "XLI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Up 18% in 2025 matching S&P 500 performance, but many top holdings noted as overvalued relative to sector average"
-      },
-      {
-        "ticker": "XLU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Up 13% in 2025 but underperformed broader market; article suggests individual stock selection may provide better value"
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a best-in-class financial stock but trading at or above sector average valuation, not identified as undervalued"
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a best-in-class financial stock but trading at or above sector average valuation, not identified as undervalued"
-      }
-    ]
-  },
-  {
-    "id": "ac22cef0e4ae0473f762b0eb83a6b1d9475f34dbe0e8a52dac4f84fca61d179e",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Top Technology Executives Recognized at the 2025 Philadelphia ORBIE Awards",
-    "author": "Nicole Lammes",
-    "published_utc": "2025-10-03T17:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2025/10/03/3161154/0/en/Top-Technology-Executives-Recognized-at-the-2025-Philadelphia-ORBIE-Awards.html",
-    "tickers": [
-      "EXC",
-      "UGI",
-      "WMK"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/72e61112-a9a8-437e-be25-9fcdfe519629",
-    "description": "The 2025 Philadelphia ORBIE Awards honored technology executives from various organizations, recognizing their leadership and innovation across seven award categories at a ceremony in Philadelphia.",
-    "keywords": [
-      "technology leadership",
-      "CIO awards",
-      "innovation",
-      "business transformation"
-    ],
-    "insights": [
-      {
-        "ticker": "EXC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recognized with a Leadership ORBIE Award, indicating strong technological leadership"
-      },
-      {
-        "ticker": "UGI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Won Super Global ORBIE Award for organizations over $8 billion, highlighting significant business performance"
-      },
-      {
-        "ticker": "WMK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Awarded Enterprise ORBIE for organizations over $1 billion, indicating strong technological leadership"
-      }
-    ]
-  },
-  {
-    "id": "5014bf8ee6a3a58ffb576b80a9bdd99e65bd8369d29113a6fb2545743d6ede03",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Howard Community College to Host Third Annual \u201cFall for All\u201d Festival on October 17",
-    "author": "Safia Elhillo",
-    "published_utc": "2025-10-01T17:47:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2025/10/01/3159852/0/en/Howard-Community-College-to-Host-Third-Annual-Fall-for-All-Festival-on-October-17.html",
-    "tickers": [
-      "EXC"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/0776372d-4e93-4b51-b1a2-3209b3818fe7",
-    "description": "Howard Community College will host its third annual Fall for All festival on October 17, 2025, offering free family-friendly activities, community engagement, and public safety demonstrations.",
-    "keywords": [
-      "community event",
-      "fall festival",
-      "public safety",
-      "family activities"
-    ],
-    "insights": [
-      {
-        "ticker": "EXC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Parent company of BGE, mentioned without specific context"
-      }
-    ]
-  },
-  {
-    "id": "3b96f3cea9006a8d2d60596c0abba81b54f2f91e07db976a0a3ffdc6c18d1626",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Best Utilities Stocks for Stability and Growth in 2025",
-    "author": "Marketbeat.Com",
-    "published_utc": "2025-05-21T14:03:00Z",
-    "article_url": "https://www.investing.com/analysis/best-utilities-stocks-for-stability-and-growth-in-2025-200661114",
-    "tickers": [
-      "CEG",
-      "NRG",
-      "EXC"
-    ],
-    "amp_url": "https://m.investing.com/analysis/best-utilities-stocks-for-stability-and-growth-in-2025-200661114?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Utilities stocks are expected to perform well in 2025 due to their defensive nature and ability to provide stable dividends. Constellation Energy, NRG Energy, and Exelon are highlighted as top picks in the sector.",
-    "keywords": [
-      "utilities stocks",
-      "stability",
-      "growth",
-      "Constellation Energy",
-      "NRG Energy",
-      "Exelon"
-    ],
-    "insights": [
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company announced plans to secure long-term agreements to deliver nuclear power for data centers, which is expected to drive growth in the coming years."
-      },
-      {
-        "ticker": "NRG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company is partnering with GE Vernova to build new power plants, and its diverse power portfolio is benefiting from the growing demand for data centers."
-      },
-      {
-        "ticker": "EXC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company reported strong earnings, it also announced a settlement with shareholders related to federal bribery accusations, which has overshadowed its performance."
+        "sentiment_reasoning": "NEE has a Zacks Rank of #3 (Hold) with higher valuation metrics including forward P/E of 20.80, PEG ratio of 2.58, and P/B ratio of 2.56. It received a lower Value grade of D, suggesting it is less attractive for value investors compared to its peer."
       }
     ]
   }

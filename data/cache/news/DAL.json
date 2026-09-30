@@ -1,312 +1,205 @@
 [
   {
-    "id": "4344cf217bf2305a92ca12b0112d14b027a4b9358a15027d171167ce9854c96d",
+    "id": "41b43ee6f945227db558be0c9aae85ec37d57a503e5fe6c53b12636daf838cfe",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "1 eVTOL Stock to Buy, and 1 to Avoid",
-    "author": "Jeff Siegel",
-    "published_utc": "2026-07-21T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/21/1-evtol-stock-to-buy-and-1-to-avoid/?source=iedfolrf0000001",
+    "title": "Joby and Archer Each Burn Roughly $200 Million a Quarter. Here's Which One Runs Out of Cash First",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-09-30T02:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/29/joby-and-archer-each-burn-roughly-200-million-a-qu/?source=iedfolrf0000001",
     "tickers": [
       "JOBY",
-      "JOBY.WS",
       "ACHR",
-      "ACHR.WS",
-      "DAL",
-      "STLA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879552%2Fgettyimages-1418901064.jpg&w=1200&op=resize",
-    "description": "Joby Aviation is recommended as the stronger eVTOL investment due to its advanced FAA certification progress, 50,000+ test flight miles, strategic partnerships with Delta and Virgin Atlantic, and strong cash position of $1.1 billion. Archer Aviation is advised to be avoided despite high-profile partnerships, as much of its valuation assumes successful execution and it faces significant risks in certification, manufacturing scaling, and commercialization.",
-    "keywords": [
-      "eVTOL",
-      "electric vertical takeoff and landing",
-      "FAA certification",
-      "urban air mobility",
-      "aircraft testing",
-      "commercial aviation"
-    ],
-    "insights": [
-      {
-        "ticker": "JOBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading certification progress with 50,000+ test flight miles, FAA-conforming production aircraft, established partnerships with Delta Air Lines and Virgin Atlantic, international expansion in Japan and UAE, strong balance sheet with $1.1 billion in cash, and direct control over operations positioning it as the strongest competitor in the eVTOL market."
-      },
-      {
-        "ticker": "JOBY.WS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading certification progress with 50,000+ test flight miles, FAA-conforming production aircraft, established partnerships with Delta Air Lines and Virgin Atlantic, international expansion in Japan and UAE, strong balance sheet with $1.1 billion in cash, and direct control over operations positioning it as the strongest competitor in the eVTOL market."
-      },
-      {
-        "ticker": "ACHR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Valuation already assumes successful execution with significant execution risks remaining; lacks meaningful commercial revenue; depends on FAA certification, manufacturing scale-up, and customer adoption; relies heavily on partners rather than direct operations; faces potential shareholder dilution from additional fundraising if delays occur."
-      },
-      {
-        "ticker": "ACHR.WS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Valuation already assumes successful execution with significant execution risks remaining; lacks meaningful commercial revenue; depends on FAA certification, manufacturing scale-up, and customer adoption; relies heavily on partners rather than direct operations; faces potential shareholder dilution from additional fundraising if delays occur."
-      },
-      {
-        "ticker": "DAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner with Joby for airport shuttle services; partnership is positive for Joby but does not directly impact Delta's core business valuation."
-      },
-      {
-        "ticker": "STLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a high-profile partner with Archer; partnership is noted but does not directly impact Stellantis's core automotive business valuation."
-      }
-    ]
-  },
-  {
-    "id": "d33766416e908b853d5af41eea6c9464ad45b7fe7f184743dd7d091117eb7968",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Prediction: Delta Air Lines Stock Will Prove Wall Street Right and Hit $100 by 2028",
-    "author": "Lee Samaha",
-    "published_utc": "2026-07-20T18:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/20/predict-delta-air-lines-stock-prove-wall-street/?source=iedfolrf0000001",
-    "tickers": [
-      "DAL",
-      "UAL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879285%2Fgettyimages-916533806-1201x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Delta Air Lines is positioned to reach $100 per share by 2028, supported by Wall Street's $108 consensus target. The airline has demonstrated resilience by diversifying revenue streams through premium cabins, ancillary services, and loyalty programs, allowing it to absorb significant fuel cost increases while maintaining strong free cash flow guidance of $3-4 billion for 2026. With a forward P/E ratio of 11.5-13.2x and management's stress test showing profitability even with $4 billion in additional fuel costs, Delta appears less cyclical than typical airline stocks.",
-    "keywords": [
-      "Delta Air Lines",
-      "airline stocks",
-      "free cash flow",
-      "fuel costs",
-      "valuation",
-      "premium revenue streams",
-      "stock price target"
-    ],
-    "insights": [
-      {
-        "ticker": "DAL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article presents a bullish case for Delta, highlighting its ability to diversify income streams, absorb fuel cost pressures, maintain strong free cash flow guidance, and trade at attractive valuations (11.5-13.2x forward P/E). The company is characterized as less cyclical than peers and positioned to reach $100 per share, aligning with Wall Street consensus."
-      },
-      {
-        "ticker": "UAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "United is mentioned briefly as a peer that has similarly made efforts to diversify income streams, but no specific analysis or sentiment is provided about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "94df54946a89927c406dd975af866d8a86258d58a07610eae38f899579ab9fb3",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Beaten-Down Aviation Stock Is Worth a Look Despite Its 46% Decline",
-    "author": "Steven Porrello",
-    "published_utc": "2026-07-17T16:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/17/this-beaten-down-aviation-stock-is-worth-a-look/?source=iedfolrf0000001",
-    "tickers": [
-      "JOBY",
-      "JOBY.WS",
-      "TM",
-      "DAL",
-      "UBER",
-      "ACHR",
-      "ACHR.WS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874061%2Fjoby_aircraft_in-flight_new-york_1_2026.jpg&w=1200&op=resize",
-    "description": "Joby Aviation's stock has declined 47% year-to-date, but the article argues this presents a buying opportunity for long-term investors. Despite slow regulatory progress, Joby has made significant operational advances including thousands of test miles, strategic partnerships with Toyota, Delta, and Uber, and participation in a White House-backed eVTOL program. The author views the stock as a speculative long-term play with potential for substantial gains if the urban air mobility market reaches projected valuations.",
-    "keywords": [
-      "electric vertical takeoff and landing (eVTOL)",
-      "aviation",
-      "regulatory certification",
-      "urban air mobility",
-      "air taxi",
-      "long-term investment"
-    ],
-    "insights": [
-      {
-        "ticker": "JOBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite significant stock decline, the article highlights improving business prospects including regulatory progress, strategic partnerships, operational achievements, and long-term market potential. The author recommends it as a compelling long-term speculative buy for aggressive investors."
-      },
-      {
-        "ticker": "JOBY.WS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite significant stock decline, the article highlights improving business prospects including regulatory progress, strategic partnerships, operational achievements, and long-term market potential. The author recommends it as a compelling long-term speculative buy for aggressive investors."
-      },
-      {
-        "ticker": "TM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a manufacturing partner for Joby's commercial production, but no specific sentiment or analysis provided regarding Toyota itself."
-      },
-      {
-        "ticker": "DAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner with Joby, but no specific sentiment or analysis provided regarding Delta itself."
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a strategic partner with Joby, but no specific sentiment or analysis provided regarding Uber itself."
-      },
-      {
-        "ticker": "ACHR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the eVTOL space, but no specific analysis or sentiment provided. Author discloses holding positions in both Joby and Archer."
-      },
-      {
-        "ticker": "ACHR.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the eVTOL space, but no specific analysis or sentiment provided. Author discloses holding positions in both Joby and Archer."
-      }
-    ]
-  },
-  {
-    "id": "c41f9ddadae5500501c0d2dfe4aaabd09a9ccb5d99f55481484d94cc2cbc3111",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's Why FTAI Aviation Stock Was Red Hot in the First Half of 2026",
-    "author": "Lee Samaha",
-    "published_utc": "2026-07-08T17:08:42Z",
-    "article_url": "https://www.fool.com/investing/2026/07/08/heres-why-ftai-aviation-stock-was-red-hot-in-the-f/?source=iedfolrf0000001",
-    "tickers": [
-      "FTAI",
-      "FTAIM",
-      "GE",
-      "GEV",
-      "DAL",
       "BA",
       "BApA",
-      "EADSY",
-      "SAFRY"
+      "DAL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878068%2Fgettyimages-1284111578-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "FTAI Aviation stock surged 37.4% in H1 2026 despite volatility driven by AI investment, Iran conflict, and energy prices. The company operates three businesses: engine maintenance, aviation leasing, and the nascent FTAI Power division converting legacy aircraft engines into data center power turbines. While a CFM56 parts agreement with CFM International is positive, rising jet fuel prices from geopolitical tensions have reduced flight departure forecasts, creating near-term headwinds. FTAI Power revenue is expected to begin in 2027.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888488%2F24_09_09-a-piggy-bank-looking-through-binoculars-_mf-dload-gettyimages-1583116316-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "Joby Aviation and Archer Aviation are both burning through approximately $200 million per quarter as they develop eVTOL technology. Joby has $2.2 billion in cash reserves and could sustain operations for roughly two years at current burn rates, while Archer has $1.5 billion and could last just over a year. Both companies are making technological progress and have partnerships with major aviation companies, which should help them raise additional capital before running out of cash.",
     "keywords": [
-      "FTAI Aviation",
-      "engine maintenance",
-      "aviation leasing",
-      "FTAI Power",
-      "data centers",
-      "CFM56 engines",
-      "jet fuel prices",
-      "Iran conflict",
-      "flight departures"
+      "eVTOL technology",
+      "cash burn",
+      "electric vertical takeoff and landing",
+      "aviation startups",
+      "capital requirements",
+      "autonomous flight"
     ],
     "insights": [
       {
-        "ticker": "FTAI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong H1 2026 performance (+37.4%), strategic CFM56 parts agreement with CFM International, and promising FTAI Power business launching in 2027 with data center exposure. Long-term growth prospects are excellent despite near-term headwinds from elevated jet fuel prices."
-      },
-      {
-        "ticker": "FTAIM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong H1 2026 performance (+37.4%), strategic CFM56 parts agreement with CFM International, and promising FTAI Power business launching in 2027 with data center exposure. Long-term growth prospects are excellent despite near-term headwinds from elevated jet fuel prices."
-      },
-      {
-        "ticker": "GE",
+        "ticker": "JOBY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Benefits from CFM56 parts agreement with FTAI and can focus on growing LEAP engine aftermarket business. However, reduced flight departure estimates due to Iran conflict and high oil prices create near-term pressure on the aviation services sector."
+        "sentiment_reasoning": "While the company is making technological progress (autonomous cross-country flight) and has strong partnerships (Virgin Atlantic, Delta), it is burning $260 million quarterly with limited revenue ($38.6M). The neutral sentiment reflects both positive technological advancement and concerning cash burn dynamics, though partnerships suggest capital replenishment is likely."
       },
       {
-        "ticker": "GEV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefits from strengthening environment for data center infrastructure companies. FTAI Power's entry into this space validates the growing demand for power solutions in the data center sector."
-      },
-      {
-        "ticker": "DAL",
+        "ticker": "ACHR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Near-term pressure from elevated jet fuel prices reducing flight departures, but industry expected to bounce back stronger after temporary high oil price period."
+        "sentiment_reasoning": "Similar to Joby, Archer is demonstrating technological capability (manned air taxi flights) and has major partnerships (Boeing), but is burning $279 million quarterly with minimal revenue ($5M). The shorter cash runway (just over one year) is concerning, but partnerships suggest access to future capital."
       },
       {
         "ticker": "BA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "CFM56 engines power legacy Boeing 737 aircraft serviced by FTAI. Affected by reduced flight departures from geopolitical tensions and high fuel prices, but long-term demand remains strong."
+        "sentiment_reasoning": "Boeing's partnership with Archer Aviation is mentioned as a positive indicator of confidence in the eVTOL sector, but the article provides no direct information about Boeing's operations or financial health."
       },
       {
         "ticker": "BApA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "CFM56 engines power legacy Boeing 737 aircraft serviced by FTAI. Affected by reduced flight departures from geopolitical tensions and high fuel prices, but long-term demand remains strong."
-      },
-      {
-        "ticker": "EADSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "CFM56 engines power legacy Airbus A320 family serviced by FTAI. Subject to same near-term headwinds from reduced flight departures but with stable long-term prospects."
-      },
-      {
-        "ticker": "SAFRY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Partner with GE Aerospace in CFM International joint venture, benefiting from the multi-year CFM56 parts agreement with FTAI."
-      }
-    ]
-  },
-  {
-    "id": "28b5e41458dffc194ded543cf30c6c95b8bb9c0401ae4cbe29c34d4dacdaed19",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "DAX, FTSE 100 Forecast: 2 Trades to Watch",
-    "author": "Fiona Cincotta",
-    "published_utc": "2026-07-06T13:06:00Z",
-    "article_url": "https://www.investing.com/analysis/dax-ftse-100-forecast-2-trades-to-watch-200683380",
-    "tickers": [
-      "ITVPY",
-      "ESYJY",
-      "PEP",
-      "DAL"
-    ],
-    "amp_url": "https://m.investing.com/analysis/dax-ftse-100-forecast-2-trades-to-watch-200683380?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "The DAX has reached record highs, benefiting from a rotation out of US tech into European cyclicals and industrials, which offer better valuations. The FTSE 100 has broken above its symmetrical triangle pattern with M&A activity in focus, including EasyJet's takeover by Castlelake and ITV's sale of its media business to Sky. Both indices are well-positioned as investors question the sustainability of the AI-driven rally and seek value in European equities.",
-    "keywords": [
-      "DAX record high",
-      "FTSE 100",
-      "rotation from US tech",
-      "European cyclicals",
-      "M&A activity",
-      "EasyJet takeover",
-      "ITV Sky deal",
-      "earnings season",
-      "ECB dovish stance"
-    ],
-    "insights": [
-      {
-        "ticker": "ITVPY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Agreed to sell media and entertainment business to Sky for \u00a31.6 billion, creating a larger UK-focused streaming platform better positioned to compete with global rivals like Netflix and Prime Video."
-      },
-      {
-        "ticker": "ESYJY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Accepted takeover offer from Castlelake after months of speculation, ending uncertainty. The acquisition follows weakness in share price due to higher fuel costs and softer travel demand, providing a positive resolution for shareholders."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as starting earnings season this week; investors will watch for signs that corporate earnings can justify elevated equity valuations, but no specific sentiment indicated."
+        "sentiment_reasoning": "Boeing's partnership with Archer Aviation is mentioned as a positive indicator of confidence in the eVTOL sector, but the article provides no direct information about Boeing's operations or financial health."
       },
       {
         "ticker": "DAL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as starting earnings season this week; investors will watch for signs that corporate earnings can justify elevated equity valuations, but no specific sentiment indicated."
+        "sentiment_reasoning": "Delta's partnership with Joby Aviation is noted as a positive indicator of industry confidence, but the article provides no direct information about Delta's operations or financial performance."
+      }
+    ]
+  },
+  {
+    "id": "37e185b726e0699272a0a1ac412afeb00bf3ec2059eb98439c41140c6742fa22",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Delta Air Lines (DAL) Advances While Market Declines: Some Information for Investors",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-29T20:45:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2997789/delta-air-lines-dal-advances-while-market-declines-some-information-for-investors?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2997789",
+    "tickers": [
+      "DAL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default194.jpg",
+    "description": "Delta Air Lines closed at $84.88, up 1.01% and outperforming the broader market decline. The stock has gained 7.73% over the past month, significantly outpacing its Transportation sector peers. However, the Zacks Rank has downgraded DAL to #5 (Strong Sell) due to a 3.88% downward revision in consensus EPS estimates over the past month. The company trades at a Forward P/E of 14.03, above its industry average of 11.54, and carries a PEG ratio of 1.21 compared to the industry average of 0.92.",
+    "keywords": [
+      "Delta Air Lines",
+      "airline stocks",
+      "earnings forecast",
+      "Zacks Rank",
+      "valuation metrics",
+      "estimate revisions",
+      "transportation sector"
+    ],
+    "insights": [
+      {
+        "ticker": "DAL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite recent price appreciation, DAL received a Zacks Rank #5 (Strong Sell) rating due to downward EPS estimate revisions of 3.88% over the past month, indicating weakening analyst confidence. The stock also trades at a premium valuation (Forward P/E of 14.03 vs. industry average of 11.54) and has a higher PEG ratio (1.21 vs. industry 0.92), suggesting limited upside relative to growth expectations."
+      }
+    ]
+  },
+  {
+    "id": "0357525c47521d482bee3d13ae7beee105836c0bcd6f4a79918f05efe82ba5af",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Delta Expands Europe Network With New Routes From Detroit and Boston",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-29T15:17:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2997729/delta-expands-europe-network-with-new-routes-from-detroit-and-boston?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2997729",
+    "tickers": [
+      "DAL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/2072.jpg",
+    "description": "Delta Air Lines announced expansion of its European network with three new nonstop routes: Detroit-Athens, Boston-Venice, and Austin-Paris. The airline also increased Boston-Milan service to daily flights and extended seasonal services. Despite strong operational moves, Delta's stock carries a Zacks Rank #5 (Strong Sell) rating.",
+    "keywords": [
+      "Delta Air Lines",
+      "European expansion",
+      "nonstop routes",
+      "transatlantic travel",
+      "Detroit-Athens",
+      "Boston-Venice",
+      "Austin-Paris"
+    ],
+    "insights": [
+      {
+        "ticker": "DAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Delta's network expansion demonstrates strong operational strategy and addresses growing transatlantic demand, the article explicitly assigns the stock a Zacks Rank #5 (Strong Sell) rating, indicating negative investment outlook despite positive business developments. The stock has outperformed its industry (24.3% vs 2.5%), but analyst recommendation remains bearish."
+      }
+    ]
+  },
+  {
+    "id": "d5cc0c033f9b28fbbed69d71b5312abab0238135c3f824d213aa3da5bc68edd7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Delta Air Lines Boosts LAX Presence With Biggest-Ever Schedule",
+    "author": "Na",
+    "published_utc": "2026-09-21T16:24:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2993183/delta-air-lines-boosts-lax-presence-with-biggest-ever-schedule?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2993183",
+    "tickers": [
+      "DAL",
+      "EXPD",
+      "SHIP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/2072.jpg",
+    "description": "Delta Air Lines announced its largest-ever summer schedule for 2027 at Los Angeles International Airport, planning over 200 daily departures to nearly 70 destinations. The expansion includes new nonstop routes to Monterey and Philadelphia, increased frequencies to seven U.S. cities, and $2.3 billion in airport infrastructure investments including premium lounges and enhanced onboard offerings.",
+    "keywords": [
+      "Delta Air Lines",
+      "LAX expansion",
+      "summer 2027 schedule",
+      "new routes",
+      "airport infrastructure",
+      "premium services"
+    ],
+    "insights": [
+      {
+        "ticker": "DAL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Delta is significantly expanding its LAX operations with 200+ daily departures, adding new routes, increasing frequencies to existing destinations, and investing $2.3 billion in premium airport infrastructure and onboard amenities. The company is also strengthening its regional presence with 4,500+ employees in Los Angeles. These strategic investments demonstrate confidence in growth and market positioning."
+      },
+      {
+        "ticker": "EXPD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expeditors carries a Zacks Rank #1 (Strong Buy) with an expected earnings growth rate of 28.6% for 2026 and a strong earnings surprise history, beating consensus estimates by an average of 17.15% over the trailing four quarters."
+      },
+      {
+        "ticker": "SHIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Seanergy Maritime Holdings carries a Zacks Rank #1 (Strong Buy) with expected earnings growth exceeding 100% for the current year and consistent earnings beats averaging 38% above consensus estimates over the trailing four quarters."
+      }
+    ]
+  },
+  {
+    "id": "5bb60e711b57a0504d7527ba0153a1f9e63bf288349cdad1d62557101b622054",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is It Worth Investing in Delta (DAL) Based on Wall Street's Bullish Views?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-15T13:30:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2989740/is-it-worth-investing-in-delta-dal-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2989740",
+    "tickers": [
+      "DAL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default99.jpg",
+    "description": "While Wall Street analysts maintain a bullish average brokerage recommendation (ABR) of 1.16 for Delta Air Lines with 88% Strong Buy ratings, the article cautions that such recommendations often lack predictive value due to analyst bias. The Zacks Rank system, which relies on earnings estimate revisions, rates DAL as Rank #4 (Sell) due to a 4.7% decline in consensus earnings estimates over the past month, suggesting near-term downside risk despite Wall Street's optimism.",
+    "keywords": [
+      "Delta Air Lines",
+      "brokerage recommendations",
+      "analyst bias",
+      "earnings estimate revisions",
+      "Zacks Rank",
+      "stock rating",
+      "investment decision"
+    ],
+    "insights": [
+      {
+        "ticker": "DAL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 1.16, 88% Strong Buy), the Zacks Rank assigns a #4 (Sell) rating based on declining earnings estimate revisions (down 4.7% over the past month). The article emphasizes that earnings estimate revisions are more predictive of near-term stock performance than analyst recommendations, indicating potential downside risk."
       }
     ]
   }

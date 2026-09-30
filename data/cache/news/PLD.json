@@ -1,203 +1,155 @@
 [
   {
-    "id": "6060416d6615b79f2282603af847c6cb52835d8ffe411bef527c156d1d8f499b",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-    "author": "Na",
-    "published_utc": "2026-07-28T10:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/28/3334072/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-    "tickers": [
-      "PLD"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/07/28/3334072/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-    "description": "Dimensional Fund Advisors Ltd. has disclosed a 1.26% interest in Prologis Inc., comprising 11,789,090 USD 0.01 common shares as of July 27, 2026. The disclosure was made under Rule 8.3 of the Takeover Code, with recent dealings including purchases of 1,185 and 165 shares at prices of $147.50 and $147.26 respectively, plus a transfer in of 6,921 shares.",
-    "keywords": [
-      "Dimensional Fund Advisors",
-      "Prologis Inc",
-      "stake disclosure",
-      "Form 8.3",
-      "Takeover Code",
-      "shareholding"
-    ],
-    "insights": [
-      {
-        "ticker": "PLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The disclosure is a factual regulatory filing indicating Dimensional Fund Advisors' investment position. The 1.26% stake and recent share purchases suggest investor confidence, but the disclosure itself is neutral in nature as it is a mandatory regulatory requirement without commentary on company performance or outlook."
-      }
-    ]
-  },
-  {
-    "id": "069d6cf68e13cf091353eab4f175f59a719069e2a4f926338f56ad2db3660a8b",
+    "id": "e5557d0c90724be57312f118ad42c73634201ec9b4bf94ad741a621f479e4809",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "SCHH Offers Low-Cost U.S. REITs While REET Adds Global Reach",
-    "author": "Eric Trie",
-    "published_utc": "2026-07-28T05:00:10Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/28/schh-offers-low-cost-u-s-reits-while-reet-adds-global-reach/?source=iedfolrf0000001",
+    "title": "Schwab REIT ETF vs. Vanguard Real Estate ETF: Which Wins for the Long Term?",
+    "author": "Sarah Sidlow",
+    "published_utc": "2026-09-26T11:28:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/26/schwab-reit-etf-vs-vanguard-real-estate-etf-which-wins-for-the-long-term/?source=iedfolrf0000001",
     "tickers": [
       "SCHH",
-      "REET",
+      "VNQ",
       "WELL",
       "PLD",
-      "SPG",
-      "SPGpJ",
       "EQIX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe2a7a839652ce1e4b5e887767e5794b4ba7e66f4-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Schwab U.S. REIT ETF (SCHH) provides a low-cost domestic REIT option with a 0.07% expense ratio, while the iShares Global REIT ETF (REET) offers broader diversification across developed and emerging markets at 0.14% expense ratio. REET offers higher dividend yield (3.36%) but comes with additional currency and regional risks, making the choice dependent on whether investors want simple U.S. exposure or global diversification.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Schwab U.S. REIT ETF (SCHH) offers a lower expense ratio of 0.07% versus Vanguard Real Estate ETF's (VNQ) 0.13%, but VNQ provides higher dividend yield (3.7% vs 2.9%) and broader diversification with 139 holdings. Over 5 years, SCHH delivered stronger returns ($1,101 vs $1,059 on $1,000 invested) with lower volatility. The article recommends VNQ for long-term income investors despite higher fees, citing superior dividend payouts and diversification.",
     "keywords": [
       "REIT ETF comparison",
-      "domestic vs global real estate",
-      "expense ratio",
       "dividend yield",
-      "portfolio diversification"
+      "expense ratio",
+      "real estate investment",
+      "portfolio diversification",
+      "long-term investing"
     ],
     "insights": [
       {
         "ticker": "SCHH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as the more cost-effective option with the lowest expense ratio (0.07%), making it attractive for cost-conscious investors seeking straightforward U.S. REIT exposure. Strong AUM of $11.13 billion demonstrates investor confidence."
+        "sentiment_reasoning": "SCHH is praised for its cost efficiency (0.07% expense ratio), superior 1-year returns (9.0%), lower volatility (beta 0.93), and better 5-year growth trajectory. However, it is noted as having a lower dividend yield."
       },
       {
-        "ticker": "REET",
+        "ticker": "VNQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Offers broader diversification with 318 holdings across developed and emerging markets and provides higher dividend yield (3.36%), appealing to income-focused investors willing to accept higher fees and global market risks."
+        "sentiment_reasoning": "VNQ is recommended as the better long-term choice despite higher fees, due to its higher dividend yield (3.7%), broader diversification (139 holdings), and inclusion of non-REIT real estate companies. The article's author explicitly favors VNQ for income-focused investors."
       },
       {
         "ticker": "WELL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in both ETFs (10.84% in SCHH, 9.02% in REET), indicating it is a significant component of REIT portfolios but no specific performance commentary provided."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (10.2% in SCHH, 8.7% in VNQ) but no specific sentiment is expressed about the company itself."
       },
       {
         "ticker": "PLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in both funds (8.64% in SCHH, 7.18% in REET), demonstrating its importance in REIT portfolios but without specific sentiment indicators."
-      },
-      {
-        "ticker": "SPG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a significant holding in SCHH (4.69%) but no performance analysis or commentary provided in the article."
-      },
-      {
-        "ticker": "SPGpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a significant holding in SCHH (4.69%) but no performance analysis or commentary provided in the article."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (8.9% in SCHH, 6.8% in VNQ) but no specific sentiment is expressed about the company itself."
       },
       {
         "ticker": "EQIX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in REET (5.45%) but included without specific performance evaluation or sentiment commentary."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (4.7% in SCHH, 5.5% in VNQ) but no specific sentiment is expressed about the company itself."
       }
     ]
   },
   {
-    "id": "7cbfbfcbc0c46c4a2f62250b6d022a3b0cedcb3ddaa5d2b616d30505fd5b15f0",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
-    "author": "Na",
-    "published_utc": "2026-07-27T10:45:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/27/3333355/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-    "tickers": [
-      "PLD"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/07/27/3333355/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-    "description": "Dimensional Fund Advisors Ltd. has disclosed a public opening position in Prologis Inc, holding 11,780,819 USD 0.01 common shares representing 1.26% of the company as of July 24, 2026. The disclosure was made on July 27, 2026, in accordance with Rule 8.3 of the Takeover Code. Dimensional also disclosed interests in Segro PLC in relation to the same offer.",
-    "keywords": [
-      "Dimensional Fund Advisors",
-      "Prologis Inc",
-      "stake disclosure",
-      "Form 8.3",
-      "Takeover Code",
-      "Segro PLC"
-    ],
-    "insights": [
-      {
-        "ticker": "PLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The disclosure is a regulatory filing indicating a significant investment position (1.26% stake) by Dimensional Fund Advisors. This is a factual disclosure with no indication of hostile intent or strategic concern, representing standard institutional investment activity."
-      }
-    ]
-  },
-  {
-    "id": "9144a6546f1dbdf51b4d7b4c557eaeb7dec7533cd69dc4cf9e3b435310237e52",
+    "id": "7560a69704ab34faaf924be017f93f289502f2f62f98fecbf7c1b14a81f4e244",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "SCHH vs RWR: Which REIT ETF Fits Your Portfolio",
-    "author": "Jake Lerch",
-    "published_utc": "2026-07-25T22:30:01Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/25/schh-vs-rwr-which-reit-etf-fits-your-portfolio/?source=iedfolrf0000001",
+    "title": "Vanguard Real Estate ETF vs State Street SPDR: Diversification or Cost",
+    "author": "John Ballard",
+    "published_utc": "2026-09-24T03:26:01Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/09/23/vanguard-real-estate-etf-vs-state-street-spdr-diversification-or-cost/?source=iedfolrf0000001",
     "tickers": [
-      "SCHH",
-      "RWR",
+      "VNQ",
+      "XLRE",
       "WELL",
       "PLD",
-      "SPG",
-      "SPGpJ"
+      "EQIX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7669db1dbfa6e097df450be5b22faf5d854bd54d-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Schwab U.S. REIT ETF (SCHH) offers a significantly lower expense ratio of 0.07% and broader diversification with 121 holdings, making it ideal for cost-conscious investors. The State Street SPDR Dow Jones REIT ETF (RWR) has delivered superior recent performance with a 22.20% one-year return and higher 3.20% dividend yield, appealing to income-focused investors. Both funds provide 100% exposure to U.S. REITs with similar top holdings.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Vanguard Real Estate ETF (VNQ) and State Street Real Estate Select Sector SPDR ETF (XLRE) offer different approaches to real estate investing. VNQ provides broader diversification with 139 holdings and a higher 3.7% dividend yield but charges 0.13% in expenses. XLRE focuses on 30 large-cap stocks with a lower 0.08% expense ratio. Both delivered similar 5-year returns, but Vanguard's larger $70.8B asset base and higher yield make it the more solid long-term choice despite its slightly higher fees.",
     "keywords": [
-      "REIT ETF comparison",
+      "real estate ETF",
+      "REIT",
+      "diversification",
       "expense ratio",
       "dividend yield",
-      "real estate investment",
-      "fund performance",
-      "diversification"
+      "large-cap stocks",
+      "asset allocation"
     ],
     "insights": [
       {
-        "ticker": "SCHH",
+        "ticker": "VNQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted for ultra-low 0.07% expense ratio, broader diversification with 121 holdings, and suitability for cost-conscious investors seeking long-term value through lower fees."
+        "sentiment_reasoning": "Recommended as the better choice due to superior diversification (139 holdings vs 30), higher dividend yield (3.7%), larger asset base ($70.8B providing greater liquidity), and similar performance to competitor despite marginally higher expense ratio."
       },
       {
-        "ticker": "RWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised for superior one-year performance of 22.20%, higher trailing dividend yield of 3.20%, and stronger historical returns, making it attractive for income-focused investors."
+        "ticker": "XLRE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as a viable but less optimal alternative; offers the advantage of lower expense ratio (0.08%) and concentrated large-cap focus, but lacks the diversification, yield, and liquidity advantages of VNQ."
       },
       {
         "ticker": "WELL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (11.14% in RWR, 11.08% in SCHH) but no specific company performance analysis provided."
+        "sentiment_reasoning": "Mentioned as a top holding in both ETFs (10.23% in VNQ, 11.19% in XLRE), indicating it is a significant component of real estate sector exposure but no independent analysis provided."
       },
       {
         "ticker": "PLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a significant holding in both funds (9.49% in RWR, 8.65% in SCHH) but no independent company assessment provided."
+        "sentiment_reasoning": "Listed as a major holding in both funds (8.08% in VNQ, 8.70% in XLRE), representing core real estate portfolio exposure without specific sentiment commentary."
       },
       {
-        "ticker": "SPG",
+        "ticker": "EQIX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a top holding in both ETFs (4.54% in RWR, 4.73% in SCHH) with no specific performance commentary."
-      },
-      {
-        "ticker": "SPGpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a top holding in both ETFs (4.54% in RWR, 4.73% in SCHH) with no specific performance commentary."
+        "sentiment_reasoning": "Identified as a significant holding in both ETFs (6.39% in VNQ, 6.84% in XLRE), indicating relevance to real estate sector but no independent evaluation provided."
       }
     ]
   },
   {
-    "id": "e5ec38d178ceace1630b4d0b8db856bce7ed5ce5da177a73e931c4cc2a2b9924",
+    "id": "20ab34e8a6601dd2b50207c6df49d4b147c2d872a68c9f58a72fa129994450ef",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Prologis (PLD) Falls More Steeply Than Broader Market: What Investors Need to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-23T22:15:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2994832/prologis-pld-falls-more-steeply-than-broader-market-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v3-2994832",
+    "tickers": [
+      "PLD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default351.jpg",
+    "description": "Prologis stock declined 1.41% on September 23, 2026, underperforming the S&P 500's 0.76% loss. The industrial REIT has lost 5.2% over the past month, significantly lagging the broader market. With a Zacks Rank of #4 (Sell) and trading at a Forward P/E of 21.68 (premium to industry average of 11.9), the stock faces headwinds despite projected earnings growth of 6.04% for the upcoming quarter.",
+    "keywords": [
+      "Prologis",
+      "industrial real estate",
+      "REIT",
+      "stock decline",
+      "earnings forecast",
+      "valuation premium",
+      "Zacks Rank"
+    ],
+    "insights": [
+      {
+        "ticker": "PLD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock underperformed broader market indices, has declined 5.2% over the past month, carries a Zacks Rank #4 (Sell) rating, and trades at a significant valuation premium (Forward P/E of 21.68 vs. industry average of 11.9). The REIT and Equity Trust - Other industry ranks in the bottom 37% of all industries."
+      }
+    ]
+  },
+  {
+    "id": "779ef282fd3bcce21f96c1cd33cc079ae2c21a909aca567aa2968ba65c1c6dfd",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
@@ -206,25 +158,60 @@
     },
     "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
     "author": "Na",
-    "published_utc": "2026-07-24T09:22:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/24/3332729/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
+    "published_utc": "2026-09-18T08:28:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/18/3364528/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
     "tickers": [
       "PLD"
     ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/07/24/3332729/0/en/Dimensional-Fund-Advisors-Ltd-Form-8-3-PROLOGIS-INC-Ordinary-Shares.html",
-    "description": "Dimensional Fund Advisors Ltd. has disclosed a public opening position in Prologis Inc, holding 11,762,220 USD 0.01 common shares representing 1.26% of the company as of July 23, 2026. The disclosure includes recent purchases of 6,524 shares at $142.8150 and 641 shares at $145.1200, along with a transfer in of 702 shares. Dimensional notes it does not have discretion over 260,639 of the shares included in the total.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/18/3364528/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+    "description": "Dimensional Fund Advisors Ltd. has disclosed a 1.27% interest in Prologis Inc., comprising 12,071,785 USD 0.01 common shares as of September 17, 2026. The disclosure was made under Rule 8.3 of the Takeover Code, with a purchase of 158 shares at $134.8566 per unit and a transfer out of 286 shares during the reporting period.",
     "keywords": [
-      "Form 8.3 disclosure",
+      "Dimensional Fund Advisors",
+      "Prologis Inc",
+      "stake disclosure",
       "Takeover Code",
-      "public opening position",
-      "relevant securities",
-      "stake disclosure"
+      "Form 8.3",
+      "relevant securities"
     ],
     "insights": [
       {
         "ticker": "PLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "This is a regulatory disclosure filing indicating Dimensional Fund Advisors' investment position in Prologis. The disclosure itself is factual and procedural in nature, with no indication of positive or negative sentiment. The purchases at relatively stable prices suggest routine portfolio management rather than a significant strategic move."
+        "sentiment_reasoning": "The disclosure is a routine regulatory filing indicating Dimensional Fund Advisors' investment position. The 1.27% stake and modest trading activity (purchase of 158 shares, transfer of 286 shares) suggest routine portfolio management rather than significant strategic intent or concern."
+      }
+    ]
+  },
+  {
+    "id": "332cf02d9cd7764e5008660d393449d3d47c026bf135acb3eab17a310e132899",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - Ordinary Shares",
+    "author": "Na",
+    "published_utc": "2026-09-11T08:56:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/11/3360157/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+    "tickers": [
+      "PLD"
+    ],
+    "image_url": "https://www.globenewswire.com/news-release/2026/09/11/3360157/0/en/dimensional-fund-advisors-ltd-form-8-3-prologis-inc-ordinary-shares.html",
+    "description": "Dimensional Fund Advisors Ltd. has disclosed a 1.27% interest in Prologis Inc., comprising 12,058,325 USD 0.01 common shares as of September 10, 2026. The disclosure was made under Rule 8.3 of the Takeover Code, with a purchase of 841 shares at $34.41 per unit and a transfer out of 324 shares also noted during the reporting period.",
+    "keywords": [
+      "Form 8.3 disclosure",
+      "Takeover Code",
+      "stake disclosure",
+      "Dimensional Fund Advisors",
+      "Prologis Inc",
+      "relevant securities",
+      "1% threshold"
+    ],
+    "insights": [
+      {
+        "ticker": "PLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "This is a regulatory disclosure filing indicating Dimensional Fund Advisors' investment position in Prologis. The disclosure itself is factual and procedural in nature, with no indication of positive or negative sentiment. The modest purchase activity (841 shares) relative to the total position suggests routine portfolio management rather than significant strategic positioning."
       }
     ]
   }
