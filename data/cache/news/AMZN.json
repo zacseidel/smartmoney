@@ -1,300 +1,272 @@
 [
   {
-    "id": "d2e74e5418a48df3f9a6bfbf73d5cfe81c88a7e99de5c99f33afdd8bb2ff07d8",
+    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-22T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/got-5000-2-growth-stocks-building-the-software-bac/?source=iedfolrf0000001",
+    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-10-07T01:15:02Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
     "tickers": [
+      "NVDA",
+      "AMD",
+      "INTC",
+      "AVGO",
+      "MRVL",
       "AMZN",
-      "PLTR",
-      "NVDA"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888259%2Fai-digital-brain.jpg&w=1200&op=resize",
-    "description": "The article highlights Amazon and Palantir as two AI software companies positioned to benefit from the AI market's rapid expansion. Amazon's AWS provides cloud infrastructure and AI services like Bedrock and SageMaker, with additional upside from its Anthropic stake. Palantir offers data aggregation platforms (Gotham and Foundry) that enable AI application development. Both companies are expected to deliver strong revenue and earnings growth through 2028, though Palantir trades at a premium valuation.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
     "keywords": [
-      "AI market expansion",
-      "cloud infrastructure",
-      "software backbone",
-      "data aggregation",
-      "generative AI",
-      "growth stocks"
+      "AI boom",
+      "GPU chips",
+      "data center",
+      "valuation",
+      "market cap",
+      "competition",
+      "earnings growth"
     ],
     "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS is positioned as a linchpin of the AI market with strong growth prospects. The company benefits from Anthropic stake, expected 15% revenue CAGR and 24% EPS CAGR through 2028, and reasonable valuation at 25x forward earnings."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Palantir's data aggregation and AI integration capabilities position it as a key player in the AI revolution. Expected 58% revenue CAGR and 70% EPS CAGR through 2028 demonstrate strong growth, though premium valuation at 87x forward earnings is noted as a consideration."
-      },
       {
         "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a popular AI chipmaker focus, but the article positions software companies as underappreciated alternatives rather than endorsing or criticizing Nvidia."
-      }
-    ]
-  },
-  {
-    "id": "d66977bedbea5427fd97255dd9587514f515144c2a8ff1a8b07e2789b3344f4d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-09-22T19:24:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "BE",
-      "PLUG",
-      "ORCL",
-      "ORCLpD",
-      "AEP",
-      "WMT",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4b2de7e266a680c7ccd01859284f0eff5e796708-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Bloom Energy and Plug Power represent different approaches to the hydrogen and fuel cell market. Bloom Energy focuses on solid-oxide fuel cells for data centers with strong near-term profitability prospects, while Plug Power is building a comprehensive green hydrogen ecosystem with significant long-term potential. Despite Bloom's superior current financials and expected profitability in 2026, the article recommends Plug Power as the better long-term buy due to its dramatically lower P/S ratio and positioning in the growing renewable hydrogen market.",
-    "keywords": [
-      "fuel cells",
-      "hydrogen energy",
-      "clean energy transition",
-      "data center power",
-      "green hydrogen",
-      "renewable energy",
-      "profitability",
-      "cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "BE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (37% YoY), expected to reach $4.1B in FY2026 with 85% growth, projected swing to $658M net income, positive free cash flow of $57.2M, and benefiting from AI datacenter boom. However, carries high debt-to-equity ratio of 3.9x and currently unprofitable."
+        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
       },
       {
-        "ticker": "PLUG",
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better long-term buy despite current losses due to dramatically lower P/S ratio (3.7x vs 25.1x), strong positioning in renewable hydrogen market with EU mandates, major customers (Amazon, Walmart) entering replacement cycles, and expected net loss narrowing to $580M in FY2026. However, faces significant cash burn ($662M negative FCF) and customer concentration risk."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "AEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key partner/customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as Plug Power's most prominent customer (24% of revenues) and entering replacement phase, but no independent sentiment analysis provided."
+        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major Plug Power customer entering replacement phase, but no independent sentiment analysis provided."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
       }
     ]
   },
   {
-    "id": "39eaa5277655243ebe7b31f2d3ba2612c73e3b43170a9b1a4be93005c0361544",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Uber Technologies vs. DoorDash: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-09-22T16:28:33Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/uber-technologies-vs-doordash-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "UBER",
-      "DASH",
-      "LYFT",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Uber Technologies and DoorDash as investment options for 2026. Uber operates across mobility, delivery, and freight globally with $52B in revenue, a 19.3% net margin, and a P/E of 15.57x. DoorDash focuses on North American food and grocery delivery with $13.7B in revenue, a 6.8% net margin, and a P/E of 101.78x. The author recommends Uber due to its diversified business model, stronger profitability, and more attractive valuation, while acknowledging DoorDash as a credible long-term bet in the delivery space.",
-    "keywords": [
-      "gig economy",
-      "ridesharing",
-      "food delivery",
-      "freight logistics",
-      "profitability",
-      "valuation comparison",
-      "autonomous vehicles",
-      "market competition"
-    ],
-    "insights": [
-      {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial performance with $52B revenue (18.3% YoY growth), 19.3% net margin, substantial free cash flow of $9.8B, attractive P/E of 15.57x, diversified business model across mobility/delivery/freight, and strategic partnerships with autonomous vehicle leaders position it as the recommended buy."
-      },
-      {
-        "ticker": "DASH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Solid growth with $13.7B revenue (27.9% YoY growth) and record membership sign-ups, but faces challenges including high P/E of 101.78x, lower net margin of 6.8%, heavy reliance on consumer incentives, and single-category focus. Acknowledged as credible but less diversified than Uber."
-      },
-      {
-        "ticker": "LYFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Uber in the ridesharing space, representing competitive pressure but not analyzed in detail as a standalone investment option."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to DoorDash in the delivery space, representing competitive pressure but not analyzed as a primary investment focus."
-      }
-    ]
-  },
-  {
-    "id": "01ce1f7c698ab3d9b9caeb421f4725384638771d604297541193dcbea0ac945d",
+    "id": "ec2e1d6cd035e63d2abb0c0fe91037a2c8d8a9705b688e224464920ea112ecd9",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "3 Reasons to Hold Alibaba Stock Despite Its High Premium P/S",
+    "title": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
     "author": "Na",
-    "published_utc": "2026-09-22T15:38:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993846/3-reasons-to-hold-alibaba-stock-despite-its-high-premium-p-s?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2993846",
+    "published_utc": "2026-10-06T20:45:04Z",
+    "article_url": "https://www.zacks.com/stock/news/3001360/amazon-amzn-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001360",
     "tickers": [
-      "BABA",
-      "AMZN",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
+      "AMZN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
-    "description": "Alibaba trades at a premium valuation but offers fundamental support for existing shareholders to hold. The company's cloud and AI businesses are accelerating with AI revenues exceeding one-third of cloud sales, core e-commerce remains resilient to fund AI ambitions, and management has outlined a disciplined multi-year AI infrastructure payback plan. While near-term margin pressure from capex and quick commerce losses persists, consensus earnings growth of 76.61% for fiscal 2027 supports patience through the current investment cycle.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default112.jpg",
+    "description": "Amazon (AMZN) closed at $256.29, up 1.95% in the latest session, outperforming the S&P 500. The stock has declined 2.75% over the past month. Analysts expect Q3 EPS of $2.02 (up 3.59% YoY) and revenue of $202.01 billion (up 12.12% YoY). Amazon holds a Zacks Rank #3 (Hold) with a Forward P/E of 19.29, trading at a premium to its industry average of 14.69. The Internet-Commerce industry ranks in the bottom 22% of all industries.",
     "keywords": [
-      "Alibaba cloud",
-      "AI infrastructure",
-      "e-commerce",
-      "capital expenditure",
-      "quick commerce",
-      "Qwen model",
+      "Amazon stock",
+      "earnings forecast",
       "valuation",
-      "cash flow"
+      "Zacks Rank",
+      "Forward P/E ratio",
+      "retail sector"
     ],
     "insights": [
       {
-        "ticker": "BABA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Accelerating cloud and AI monetization with triple-digit AI revenue growth for 12 consecutive quarters, resilient core commerce generating cash to self-fund transformation, and disciplined capital allocation framework with defined payback horizon. Consensus fiscal 2027 earnings expected to grow 76.61% YoY, supporting long-term holding thesis despite near-term headwinds."
-      },
-      {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as primary competitive threat in cloud/AI space with AWS commanding greater global hyperscale share than Alibaba Cloud, contributing to elevated pricing pressure in the market."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as key competitor in enterprise AI workloads with Azure maintaining greater global hyperscale share than Alibaba, creating competitive pricing pressure."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
+        "sentiment_reasoning": "While Amazon shows positive near-term momentum (+1.95% daily gain) and strong earnings growth expectations (EPS +3.59% YoY, revenue +12.12% YoY), the Zacks Rank #3 (Hold) rating and premium valuation (Forward P/E 19.29 vs. industry 14.69) suggest limited upside. The stock's 2.75% monthly decline and the bottom-ranked industry outlook further support a neutral stance."
       }
     ]
   },
   {
-    "id": "54a1c1be00ab62fde81252e3001d0584fbad3eafa3213a211b51b37243c8e8f1",
+    "id": "f35492c04e223a274bc2efaebdb371ee5bfef1d005081362c682875596846c70",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Pamela Kock",
-    "published_utc": "2026-09-22T15:15:56Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/crowdstrike-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Better Cloud Investment: Amazon or Nebius Group?",
+    "author": "Keithen Drury",
+    "published_utc": "2026-10-06T19:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/better-cloud-investment-amazon-or-nebius-group/?source=iedfolrf0000001",
     "tickers": [
-      "CRWD",
-      "PLTR",
       "AMZN",
-      "MSFT",
-      "NVDA"
+      "NBIS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares CrowdStrike and Palantir Technologies as investment options for 2026. CrowdStrike offers a leading cybersecurity platform with 22% revenue growth but remains unprofitable and faces reputational damage from a 2024 outage. Palantir demonstrates stronger financial performance with 56% revenue growth, profitability, and no debt, but carries higher valuation and customer concentration risks. The author recommends CrowdStrike for its better balance between growth and valuation, despite ongoing challenges.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888993%2Ftwo-software-engineers-walking-down-an-aisle-of-a-data-center.jpg&w=1200&op=resize",
+    "description": "Amazon and Nebius Group represent two different cloud computing investment strategies. Amazon's AWS offers stable, profitable growth with a 37% YoY revenue increase and 39% operating margin, backed by $220 billion in data center spending. Nebius, a neocloud computing specialist, shows explosive 454% YoY growth but operates at a -30% operating margin while taking on significant debt. The article recommends a 75/25 portfolio split favoring Amazon for lower risk, while Nebius offers higher upside potential for risk-tolerant investors.",
     "keywords": [
-      "cybersecurity",
       "cloud computing",
-      "AI",
-      "data protection",
-      "profitability",
-      "valuation",
+      "AI infrastructure",
+      "neocloud computing",
+      "data centers",
+      "AWS",
       "growth stocks",
-      "risk assessment"
+      "debt financing"
     ],
     "insights": [
       {
-        "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong market position and resilient stock recovery post-outage, but offset by ongoing unprofitability (-3.4% net margin), reputational damage from July 2024 incident, and slower growth (21.7% YoY). Recommended by author as better value despite challenges."
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong profitability with 39% operating margin, massive $220 billion data center investment enabling sustained growth, diversified revenue streams from commerce business funding expansion, and stable 37% YoY AWS revenue growth. Positioned as lower-risk investment with proven business model."
       },
       {
-        "ticker": "PLTR",
+        "ticker": "NBIS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional financial performance with 56.2% revenue growth, strong profitability (36.3% net margin), zero debt, high liquidity, and expanding commercial customer base. However, positive sentiment is tempered by high valuation multiples and customer concentration risk."
+        "sentiment_reasoning": "Exceptional 454% YoY revenue growth significantly outpacing competitors, short ~2-year payback period on deals justifying debt strategy, positioned in high-demand AI computing market expected to grow through 2030. Higher risk but substantial upside potential for aggressive investors."
+      }
+    ]
+  },
+  {
+    "id": "332299e1d5c84e4dbcb517501c6cb1e577747332026bae80c4e0cb64b3e2a35f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+    "author": "Marc Guberti",
+    "published_utc": "2026-10-06T18:44:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?source=iedfolrf0000001",
+    "tickers": [
+      "QCOM",
+      "AMZN",
+      "META",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890154%2Fgettyimages-1492319884-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "Qualcomm is positioning itself for significant growth in 2027 through its pivot into AI infrastructure, with deals secured from Amazon and Meta Platforms. The company expects non-handset revenue to grow over 60% in fiscal 2027 and projects a $200 billion CPU market opportunity by fiscal 2029, yet trades at a modest 23 P/E ratio that undervalues its growth potential.",
+    "keywords": [
+      "AI infrastructure",
+      "chip demand",
+      "data center products",
+      "hyperscaler partnerships",
+      "revenue growth",
+      "energy efficiency"
+    ],
+    "insights": [
+      {
+        "ticker": "QCOM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is pivoting successfully into high-growth AI infrastructure with secured multiyear deals from major tech giants (Amazon, Meta), expecting 60%+ non-handset revenue growth in fiscal 2027 and multibillion-dollar AI revenue targets. Stock valuation appears underappreciated relative to growth prospects."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud infrastructure provider that CrowdStrike depends on, creating operational dependency risk. No direct investment recommendation provided."
+        "sentiment_reasoning": "Mentioned as a customer securing a multiyear deal with Qualcomm for AWS AI infrastructure support, indicating positive business activity but no direct impact on Amazon's core business highlighted."
       },
       {
-        "ticker": "MSFT",
+        "ticker": "META",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud provider that Palantir relies on. No direct investment recommendation provided."
+        "sentiment_reasoning": "Mentioned as securing a similar multiyear deal with Qualcomm for AI infrastructure, demonstrating partnership activity but no specific impact on Meta's business performance discussed."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner in Palantir's sovereign AI initiatives. No direct investment recommendation provided."
+        "sentiment_reasoning": "Referenced as a competitor selling out AI chip supply, creating market opportunity for Qualcomm, but no direct negative or positive sentiment expressed about Nvidia itself."
+      }
+    ]
+  },
+  {
+    "id": "c5403e66dbd74dcde0481a2ab7be6edd17f1acdf820af94d9d18ebce965f1dfd",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Magnificent AI Cloud Computing Stocks That Could Help Set You Up for Life",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-06T18:18:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/3-magnificent-ai-cloud-computing-stocks-that-could/?source=iedfolrf0000001",
+    "tickers": [
+      "MSFT",
+      "AMZN",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889151%2Fgettyimages-987686438-1423x800-e1b8658.jpg&w=1200&op=resize",
+    "description": "Microsoft, Amazon, and Oracle have secured hundreds of billions in contracted AI cloud revenue, demonstrating that AI demand is translating into real business commitments. Microsoft's Azure is running at $100B annually with a $678B backlog, Amazon Web Services locked in a $100B decade-long deal with Anthropic, and Oracle has a $664B backlog (with $300B from OpenAI). While these established tech giants face risks including potential AI spending slowdowns and customer concentration, their massive contracted backlogs and continued infrastructure investments suggest their AI cloud businesses are still in early growth stages.",
+    "keywords": [
+      "AI cloud computing",
+      "contracted revenue",
+      "Azure",
+      "AWS",
+      "Oracle cloud",
+      "AI infrastructure",
+      "data center capacity",
+      "customer commitments"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Azure revenue growing 43% year-over-year at $100B annual run rate with $678B contracted backlog provides strong visibility into future growth. Microsoft 365 Copilot has reached 30 million paid subscribers, demonstrating real AI product adoption."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS secured a landmark $100B decade-long commitment from Anthropic and Amazon's custom Trainium chips are reportedly nearly sold out. However, sentiment is tempered by the massive $220B 2026 capital spending budget, which poses margin risk if AI demand cools."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
       }
     ]
   }

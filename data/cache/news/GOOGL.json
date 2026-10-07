@@ -1,438 +1,364 @@
 [
   {
-    "id": "d4c14d47b9352b65716661de1d81ced8a9efa569c8ac28ff08c6a8a99ce8bad7",
+    "id": "65bdbc6375d3f9188a2d23a4c42117033be7b2165af5b23ee3109be229b3589d",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Google Goes Nuclear With Power Upgrade Agreement in Georgia",
-    "author": "John Bromels",
-    "published_utc": "2026-09-22T23:15:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/google-goes-nuclear-with-power-upgrade-agreement-in-georgia/?source=iedfolrf0000001",
+    "title": "netpulse AG Reveals New Findings on Search Intent in German Language Queries Within AI-Generated Answers",
+    "author": "Netpulse Ag",
+    "published_utc": "2026-10-07T04:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/07/3376174/0/en/netpulse-ag-reveals-new-findings-on-search-intent-in-german-language-queries-within-ai-generated-answers.html",
     "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW",
-      "OKLO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa876241aec3dc03a7cc848ddc81ccf14eba48850-1200x675.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Google has partnered with Georgia Power to fund upgrades at existing nuclear plants (Vogtle and Hatch) to increase electricity capacity by approximately 96 megawatts. This move addresses growing opposition to AI data centers due to power grid strain concerns. Nuclear power is experiencing a resurgence as a viable energy source for AI infrastructure, with electricity demand outstripping supply and the Trump Administration opposing solar and wind development.",
-    "keywords": [
-      "AI data centers",
-      "nuclear power",
-      "electricity demand",
-      "infrastructure",
-      "power grid",
-      "energy capacity",
-      "uprates"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "NEE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
-      {
-        "ticker": "OKLO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Small modular reactor (SMR) companies like Oklo are positioned to benefit from the growing association between nuclear power and AI infrastructure development."
-      }
-    ]
-  },
-  {
-    "id": "45033e639526879a3f618b7cf6c96058a2143e72683f50ed9427c7677da7ef77",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-09-22T20:20:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-eos-energy-enterprises-which-energy-storage-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "BE",
-      "EOSE",
-      "EOSEW",
-      "AEP",
-      "BN",
-      "BNH",
-      "BNJ",
-      "TSLA",
-      "FLNC",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares two energy storage companies: Bloom Energy, a mature fuel cell provider with strong partnerships and profitability, and Eos Energy Enterprises, an emerging zinc-based battery manufacturer with explosive revenue growth but significant losses. Despite Bloom's higher valuation multiples, Eos is recommended for its attractive P/S ratio, recent business advances, and strong 2026 pipeline, while Bloom benefits from the AI datacenter boom with expected 85% revenue growth.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/10/07/3376174/0/en/netpulse-ag-reveals-new-findings-on-search-intent-in-german-language-queries-within-ai-generated-answers.html",
+    "description": "netpulse AG, a Swiss digital marketing agency, released research on how brands appear in AI-generated search answers across ChatGPT, Perplexity, and Google AI Mode. The study found that generative engines prioritize sources with clear topical structure and strong technical foundations over advertising spend, and that companies visible in organic search are more likely to appear in AI answers. The agency uses proprietary tools to measure AI visibility rather than third-party metrics.",
     "keywords": [
-      "energy storage",
-      "fuel cells",
-      "zinc-based batteries",
-      "grid reliability",
-      "AI datacenter demand",
-      "valuation comparison",
-      "cash flow analysis"
+      "AI-generated answers",
+      "search intent",
+      "German language queries",
+      "generative engine optimization",
+      "brand visibility",
+      "ChatGPT",
+      "Perplexity",
+      "Google AI Overview",
+      "Switzerland",
+      "digital marketing"
     ],
     "insights": [
       {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Profitable on free cash flow basis ($57M), strong revenue growth (37% YoY to $2B), major partnerships with AEP and Brookfield, expected 85% revenue growth in 2026 with projected swing to $658M net income, and positioned to benefit from AI datacenter boom."
-      },
-      {
-        "ticker": "EOSE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better buy despite significant losses due to attractive P/S ratio (7.8x vs 25.1x for Bloom), explosive 630% revenue growth in 2025, strong $25B business pipeline, $807M backlog, 2026 revenue expected to more than double, and recent high-profile deal with Alphabet for solar energy storage project."
-      },
-      {
-        "ticker": "EOSEW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better buy despite significant losses due to attractive P/S ratio (7.8x vs 25.1x for Bloom), explosive 630% revenue growth in 2025, strong $25B business pipeline, $807M backlog, 2026 revenue expected to more than double, and recent high-profile deal with Alphabet for solar energy storage project."
-      },
-      {
-        "ticker": "AEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major customer of Bloom Energy with a significant 1 GW fuel cell agreement, but no specific performance or sentiment indicators provided in the article."
-      },
-      {
-        "ticker": "BN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
-      },
-      {
-        "ticker": "BNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
-      },
-      {
-        "ticker": "BNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as providing a $5B financing framework for Bloom Energy's AI infrastructure projects, but no specific sentiment indicators provided."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Eos Energy Enterprises in the energy storage market, but no specific performance analysis provided."
-      },
-      {
-        "ticker": "FLNC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the energy storage space, but no specific analysis or sentiment indicators provided."
-      },
-      {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner with Eos Energy Enterprises on a solar energy storage project in West Virginia, but no specific sentiment indicators provided."
+        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
       }
     ]
   },
   {
-    "id": "ae5cffca88d9ea57f6652cc49dca6c8ce492799ba27a07fe177a4ca3c40e7902",
+    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Warren Buffett's Farewell: What Investors Can Learn From His Biggest Mistake",
+    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
     "author": "Jeremy Bowman",
-    "published_utc": "2026-09-22T19:30:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/warren-buffett-s-farewell-what-investors-can-learn-from-his-biggest-mistake/?source=iedfolrf0000001",
+    "published_utc": "2026-10-07T01:15:02Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
     "tickers": [
-      "BRK.A",
-      "BRK.B",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "CMG",
-      "COP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8dffd9d9d886d61b54793849eb7f931e5225f5c1-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Warren Buffett stepped down as Berkshire Hathaway chairman after six decades of exceptional returns. The article argues his biggest mistake was failing to invest in Google early despite recognizing its strong business model through GEICO's advertising costs. Buffett finally invested in Alphabet in 2025, illustrating the importance of acting on unique insights and specialized knowledge when investment opportunities arise.",
-    "keywords": [
-      "Warren Buffett",
-      "investment mistakes",
-      "Google/Alphabet",
-      "Berkshire Hathaway",
-      "GEICO",
-      "economic moat",
-      "Peter Lynch",
-      "specialized knowledge",
-      "early-stage tech IPOs"
-    ],
-    "insights": [
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Buffett's leadership is praised for exceptional returns, but the article highlights his significant missed opportunity with Google, demonstrating that even great investors make costly mistakes."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Buffett's leadership is praised for exceptional returns, but the article highlights his significant missed opportunity with Google, demonstrating that even great investors make costly mistakes."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a missed opportunity that became a massive success, growing from IPO to a $4+ trillion market cap. Buffett's eventual 2025 investment validates the company's strength and competitive moat."
-      },
-      {
-        "ticker": "CMG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Used as a positive example of leveraging personal insights for early investment success, with stock returns of approximately 4,000% since the author's purchase."
-      },
-      {
-        "ticker": "COP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned as one of Buffett's documented mistakes, purchased at the peak of the oil market in 2008, resulting in multi-billion-dollar losses."
-      }
-    ]
-  },
-  {
-    "id": "3d60bb0fbd8905f676716fe5d4cf203907c56b564adcac7e58a6976adcb33df7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
-    "author": "Na",
-    "published_utc": "2026-09-22T18:29:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993984/invest-like-buffett-lessons-from-the-oracle-of-omaha?cid=CS-ZC-FT-etf_news_and_commentary-2993984",
-    "tickers": [
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "MSFT",
       "NVDA",
-      "BRK.A",
-      "BRK.B"
+      "AMD",
+      "INTC",
+      "AVGO",
+      "MRVL",
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default128.jpg",
-    "description": "Following Warren Buffett's step down as chairman of Berkshire Hathaway, the article explores his investment philosophy emphasizing long-term ownership, high-quality businesses with economic moats, and low-cost index funds. Buffett's approach has delivered nearly double the S&P 500's returns over six decades. The article highlights his preference for index funds over active management, focus on companies with durable competitive advantages, and recent increased investments in Japanese trading houses.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
     "keywords": [
-      "Warren Buffett",
-      "Berkshire Hathaway",
-      "investment philosophy",
-      "economic moat",
-      "index funds",
-      "long-term investing",
-      "Japan trading houses"
+      "AI boom",
+      "GPU chips",
+      "data center",
+      "valuation",
+      "market cap",
+      "competition",
+      "earnings growth"
     ],
     "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major holding in Berkshire's $350+ billion equity portfolio and included in high-quality business ETF holdings, indicating Buffett's confidence in the company."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among top holdings of high-quality firms ETF, aligning with Buffett's preference for quality businesses with durable competitive advantages."
-      },
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Included as a top holding in the high-quality business ETF, meeting Buffett's criteria for quality companies with strong returns on capital."
+        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
       },
       {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
       },
       {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
-      }
-    ]
-  },
-  {
-    "id": "01ce1f7c698ab3d9b9caeb421f4725384638771d604297541193dcbea0ac945d",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "3 Reasons to Hold Alibaba Stock Despite Its High Premium P/S",
-    "author": "Na",
-    "published_utc": "2026-09-22T15:38:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993846/3-reasons-to-hold-alibaba-stock-despite-its-high-premium-p-s?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2993846",
-    "tickers": [
-      "BABA",
-      "AMZN",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
-    "description": "Alibaba trades at a premium valuation but offers fundamental support for existing shareholders to hold. The company's cloud and AI businesses are accelerating with AI revenues exceeding one-third of cloud sales, core e-commerce remains resilient to fund AI ambitions, and management has outlined a disciplined multi-year AI infrastructure payback plan. While near-term margin pressure from capex and quick commerce losses persists, consensus earnings growth of 76.61% for fiscal 2027 supports patience through the current investment cycle.",
-    "keywords": [
-      "Alibaba cloud",
-      "AI infrastructure",
-      "e-commerce",
-      "capital expenditure",
-      "quick commerce",
-      "Qwen model",
-      "valuation",
-      "cash flow"
-    ],
-    "insights": [
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+      },
       {
-        "ticker": "BABA",
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Accelerating cloud and AI monetization with triple-digit AI revenue growth for 12 consecutive quarters, resilient core commerce generating cash to self-fund transformation, and disciplined capital allocation framework with defined payback horizon. Consensus fiscal 2027 earnings expected to grow 76.61% YoY, supporting long-term holding thesis despite near-term headwinds."
+        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as primary competitive threat in cloud/AI space with AWS commanding greater global hyperscale share than Alibaba Cloud, contributing to elevated pricing pressure in the market."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as key competitor in enterprise AI workloads with Azure maintaining greater global hyperscale share than Alibaba, creating competitive pricing pressure."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
       },
       {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+      }
+    ]
+  },
+  {
+    "id": "ae831784356ec413628eb611616cd213a5564d27e7756ab3bb0eaec1899bcad2",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why Constellation Energy Rallied Today",
+    "author": "Billy Duberstein",
+    "published_utc": "2026-10-06T19:29:23Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/why-constellation-energy-rallied-today/?source=iedfolrf0000001",
+    "tickers": [
+      "CEG",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890392%2Fgettyimages-1699619381.jpg&w=1200&op=resize",
+    "description": "Constellation Energy stock surged 12.31% after signing a comprehensive power deal with Alphabet. The agreement includes a 20-year, 890-MW power purchase agreement and a 15-year, 2,700-MW PPA to supply nuclear power to Alphabet's AI data centers in the PJM grid region. Constellation will invest $4.3 billion to expand nuclear capacity, while Alphabet will use Google Cloud's Gemini Enterprise to help optimize power production efficiency.",
+    "keywords": [
+      "nuclear power",
+      "AI data centers",
+      "power purchase agreement",
+      "clean energy",
+      "infrastructure investment",
+      "PJM grid"
+    ],
+    "insights": [
+      {
+        "ticker": "CEG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock rallied 12.31% on announcement of major long-term power contracts worth billions in capital investment, providing significant revenue visibility and growth opportunities in nuclear capacity expansion."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
+      }
+    ]
+  },
+  {
+    "id": "3ceb1d1a608f0e5149de5449e36319cdb953a04eadb4f5a42b5699077e2de8f0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Growth Stocks to Buy Instead of SpaceX",
+    "author": "Marc Guberti",
+    "published_utc": "2026-10-06T18:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/3-growth-stocks-to-buy-instead-of-spacex/?source=iedfolrf0000001",
+    "tickers": [
+      "SNDK",
+      "MXL",
+      "NVT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890149%2Fgettyimages-2164257248-1201x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "The article argues that SpaceX's $2 trillion valuation is too high relative to its revenue, even accounting for projected $100 billion annual recurring revenue by 2026, resulting in a price-to-sales ratio above 20. Instead, the author recommends three better-valued growth stocks: SanDisk (strong NAND memory demand from AI), MaxLinear (optical data center products), and nVent (liquid cooling solutions for data centers).",
+    "keywords": [
+      "growth stocks",
+      "AI data centers",
+      "valuation",
+      "memory chips",
+      "liquid cooling",
+      "optical products"
+    ],
+    "insights": [
+      {
+        "ticker": "SNDK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Praised for 600% year-to-date gains, 372% YoY revenue growth, and dramatic profitability improvement ($23M loss to $6.9B net income). Trading at low 8 forward P/E ratio with strong multi-year customer contracts securing capacity through 2028."
+      },
+      {
+        "ticker": "MXL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted for 145% YoY data center segment growth and 55% overall revenue growth. Showing sequential growth rates similar to early SanDisk rally, with 30.3% implied sequential growth guidance. Trading at reasonable 30 P/E despite faster growth than S&P 500."
+      },
+      {
+        "ticker": "NVT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Commended for 53% YoY revenue growth and 92% YoY operating income growth in liquid cooling segment. Expanded facility capacity and maintains $2.5 billion backlog providing revenue visibility. Strong order momentum into Q3."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
+      }
+    ]
+  },
+  {
+    "id": "6ae6a3eca607512c201b836f61844961b1b5e8dfb9c910bc71a701e5b165fcbe",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
+    "author": "Brett Schafer",
+    "published_utc": "2026-10-06T16:21:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?source=iedfolrf0000001",
+    "tickers": [
+      "AMZN",
+      "NVDA",
+      "PLTR",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889475%2Fwoman-in-an-datacenter.jpg&w=1200&op=resize",
+    "description": "Amazon is positioned as an undervalued AI play despite its $2.7 trillion market cap. AWS revenue grew 37% year-over-year to $42.2 billion, driven by AI infrastructure demand. The company is also integrating AI across its retail business through search tools, ad targeting, and supply chain automation. With projected earnings of $161 billion and a forward P/E of 17, analysts believe Amazon stock has significant upside potential.",
+    "keywords": [
+      "Amazon",
+      "AWS",
+      "artificial intelligence",
+      "cloud infrastructure",
+      "undervalued",
+      "AI growth",
+      "supply chain automation"
+    ],
+    "insights": [
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS experiencing strong 37% YoY growth driven by AI infrastructure boom; company applying AI across retail operations; analyst price target of $355 vs current $250 suggests upside; forward P/E of 17 indicates undervaluation relative to growth prospects and margin expansion potential."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a stock that has soared in recent years, but article positions Amazon as a better undervalued AI opportunity compared to Nvidia."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a stock that has performed well recently, but not the focus of the analysis."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
       }
     ]
   }

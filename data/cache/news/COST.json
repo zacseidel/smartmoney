@@ -1,286 +1,225 @@
 [
   {
-    "id": "77317e3f3138471ecfef7257ad0b90d9d12860c62035a403f7525ecb7440cf86",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's What the Fed's Interest Rate Hike Means for Costco, Walmart, and Target (and My Top Pick to Buy Now)",
-    "author": "Adria Cimino",
-    "published_utc": "2026-09-22T09:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/heres-what-the-feds-interest-rate-hike-means-for-c/?source=iedfolrf0000001",
-    "tickers": [
-      "COST",
-      "WMT",
-      "TGT",
-      "AMZN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887919%2Fgrocery-shopping-car-auto-transportation.jpg&w=1200&op=resize",
-    "description": "The Federal Reserve raised interest rates by a quarter-point to combat inflation, which may reduce consumer spending power through higher credit card APRs, loan rates, and mortgage costs. However, value-focused retailers like Costco, Walmart, Target, and Amazon may benefit as cost-conscious consumers shift spending toward these companies known for competitive pricing and strong supply chains. The analyst views any weakness in these quality retailers as a buying opportunity.",
-    "keywords": [
-      "Federal Reserve",
-      "interest rate hike",
-      "inflation",
-      "consumer spending",
-      "retail stocks",
-      "value retailers",
-      "credit card APR",
-      "borrowing costs"
-    ],
-    "insights": [
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong value-focused business model with bulk buying strategy enables rock-bottom pricing, positioning it to attract cost-conscious consumers during periods of higher interest rates and reduced spending power."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Well-structured supply chain and sourcing methods support low prices, making it an attractive destination for consumers seeking value during economic headwinds from rising rates."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Vast selection of owned brands helps maintain low costs and competitive pricing, positioning the retailer to benefit from consumers prioritizing value during periods of higher borrowing costs."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as the analyst's top pick due to strong e-commerce value proposition combined with a booming cloud computing business benefiting from AI boom, offering both stability and growth potential despite near-term consumer spending pressures."
-      }
-    ]
-  },
-  {
-    "id": "658feb876cc3607d766d1a1ea683e9bd9c2e2725528cec7dbe48378cad1ec8d2",
+    "id": "a5266073e975c4c2731ac7edbb8bee841f971dc2043c3db665fa41ca16d93a00",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus",
+    "title": "Costco's Digital Sales Top $33 Billion: Can E-commerce Keep Scaling?",
     "author": "Na",
-    "published_utc": "2026-09-21T13:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992824/u-s-china-talks-seem-successful-etf-areas-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-2992824",
+    "published_utc": "2026-10-06T13:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000995/costco-s-digital-sales-top-33-billion-can-e-commerce-keep-scaling?cid=CS-ZC-FT-analyst_blog|quick_take-3000995",
     "tickers": [
-      "QCOM",
-      "INTC",
-      "MU",
-      "AMAT",
-      "NVDA",
-      "AAPL",
-      "WMT",
-      "TGT",
-      "BBY",
       "COST",
-      "TSLA",
-      "SMH",
-      "XRT",
-      "RTH",
-      "CARZ"
+      "WMT",
+      "TGT"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg",
-    "description": "Ahead of an expected Trump-Xi meeting in Washington, U.S.-China trade negotiations focusing on tariff reductions and AI could benefit semiconductor, technology, retail, and auto sectors. Companies with significant China exposure including Qualcomm, Intel, Micron, Applied Materials, NVIDIA, Apple, Walmart, Target, Best Buy, Costco, and Tesla may see positive sentiment if trade tensions ease.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fa/1036.jpg",
+    "description": "Costco's digital business exceeded $33 billion in fiscal 2026 with over 20% growth, driven by same-day delivery partnerships, personalized product placements, and AI-powered search. The company's e-commerce comparable sales rose 19.5% in Q4, while competitors Walmart and Target also posted strong digital momentum with 23-24% and 8.7% growth respectively.",
     "keywords": [
-      "U.S.-China trade talks",
-      "tariffs",
-      "semiconductors",
-      "AI chips",
+      "e-commerce",
+      "digital sales",
+      "same-day delivery",
+      "AI search",
+      "personalization",
       "retail",
-      "automobiles",
-      "Trump-Xi meeting",
-      "trade negotiations"
+      "comparable sales growth"
     ],
     "insights": [
       {
-        "ticker": "QCOM",
+        "ticker": "COST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Significant China revenue exposure; semiconductor tariff reductions could improve margins and sales"
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major China exposure in semiconductor sales; potential tariff relief could boost revenue"
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor company with substantial China business; trade deal could ease restrictions"
-      },
-      {
-        "ticker": "AMAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor equipment supplier with China exposure; tariff reductions could increase sales"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI chip exports to China are central to trade discussions; broader agreement could unlock significant sales potential"
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Extensive China manufacturing and supply chain exposure; easing tensions could reduce costs and improve margins"
+        "sentiment_reasoning": "Costco demonstrated strong digital momentum with $33B+ in digitally enabled sales growing over 20%, Q4 comparable sales up 19.5%, and triple-digit growth in personalized placements and AI search traffic. The company is successfully scaling e-commerce while maintaining incremental sales rather than cannibalizing warehouse traffic."
       },
       {
         "ticker": "WMT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Large sourcing from China; reciprocal tariff reductions could lower consumer goods costs"
+        "sentiment_reasoning": "Walmart reported robust e-commerce growth of 23% globally and 24% in the U.S., with store-fulfilled deliveries up 40% and fast delivery up 48%, demonstrating effective digital scaling and fulfillment capabilities."
       },
       {
         "ticker": "TGT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sourcing; tariff relief could reduce imported goods costs"
-      },
-      {
-        "ticker": "BBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Consumer electronics retailer vulnerable to tariffs; trade deal could lower import costs"
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major retailer with China sourcing; tariff reductions could improve pricing and margins"
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sales and manufacturing through Shanghai Gigafactory; trade normalization could boost operations"
-      },
-      {
-        "ticker": "SMH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor ETF; tariff reductions on chips would benefit holdings"
-      },
-      {
-        "ticker": "XRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; tariff reductions on imported consumer goods would benefit retailers"
-      },
-      {
-        "ticker": "RTH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; lower tariffs on China-sourced goods would improve margins"
-      },
-      {
-        "ticker": "CARZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Auto ETF; U.S. automakers have substantial China exposure; trade normalization would benefit sector"
+        "sentiment_reasoning": "Target posted healthy digital growth with comparable digital sales up 8.7%, led by same-day delivery growth exceeding 25%, and AI-powered traffic rising 3.5x the industry rate, indicating strong digital engagement and technology adoption."
       }
     ]
   },
   {
-    "id": "e1206be10560754d7e6c911f88f459728f7ae2a30d3f9d1bca22e940168efdcb",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "1 Incredible Reason to Buy Costco Stock Before It Reports Earnings on Sept. 24.",
-    "author": "Rick Munarriz",
-    "published_utc": "2026-09-18T16:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/1-incredible-reason-to-buy-costco-stock-before-it/?source=iedfolrf0000001",
-    "tickers": [
-      "COST"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887943%2Fgettycash-fan.jpg&w=1200&op=resize",
-    "description": "Costco is set to report fiscal fourth-quarter earnings on September 24, with strong sales growth of 11.3% already reported. The article highlights that investors should watch for signals of a record special dividend, as Costco has historically declared substantial one-time dividends every two to three years, with the last occurring in late 2023. While the company maintains a 22-year streak of regular dividend increases, the special distributions represent the real payoff for shareholders.",
-    "keywords": [
-      "Costco earnings",
-      "special dividend",
-      "warehouse club",
-      "dividend history",
-      "sales growth",
-      "fiscal fourth quarter"
-    ],
-    "insights": [
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong net sales growth of 11.3% to $93.9 billion with robust 10.7% comparable store growth. The article anticipates a record special dividend announcement, supported by the company's historical pattern of declaring substantial one-time distributions every 2-3 years. The company has maintained 22 consecutive years of dividend increases, demonstrating financial strength and shareholder-friendly capital allocation."
-      }
-    ]
-  },
-  {
-    "id": "d636bfbf7d38350907308f3f6849dae12c1b30f746555c3893bb113e48b75573",
+    "id": "4acd499034de9e4aea157cde0e4f59c39d09ba7e84b978c6ba06ed6f6d9af713",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "TGT vs. COST: Which Stock Should Value Investors Buy Now?",
+    "title": "Can Walmart Connect Keep Powering WMT's Digital Profit Growth?",
     "author": "Na",
-    "published_utc": "2026-09-18T15:40:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2992185/tgt-vs-cost-which-stock-should-value-investors-buy-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2992185",
+    "published_utc": "2026-10-06T12:59:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000981/can-walmart-connect-keep-powering-wmt-s-digital-profit-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3000981",
     "tickers": [
-      "TGT",
-      "COST"
+      "WMT",
+      "COST",
+      "TGT"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default356.jpg",
-    "description": "Target (TGT) emerges as the superior value option compared to Costco (COST) based on valuation metrics and earnings outlook. TGT holds a Zacks Rank #2 (Buy) with a forward P/E of 15.32 and Value grade of B, while COST has a Zacks Rank #3 (Hold) with a forward P/E of 39.73 and Value grade of D.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/63/121.jpg",
+    "description": "Walmart's digital business is becoming a major contributor to its overall economics, with global advertising revenue up 38% and Walmart Connect growing 43% in Q2 fiscal 2027. U.S. e-commerce sales rose 24%, achieving double-digit incremental margins supported by advertising, membership revenues, and improved delivery capabilities. The company also expanded ad capabilities through the acquisition of Vibe.",
     "keywords": [
-      "value investing",
-      "valuation metrics",
-      "P/E ratio",
-      "Zacks Rank",
-      "retail stocks",
-      "earnings estimates"
+      "e-commerce growth",
+      "digital advertising",
+      "Walmart Connect",
+      "incremental margins",
+      "commerce solutions",
+      "retail technology"
     ],
     "insights": [
       {
-        "ticker": "TGT",
+        "ticker": "WMT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Target demonstrates stronger value characteristics with a higher Zacks Rank (#2 Buy vs #3 Hold), lower forward P/E ratio (15.32 vs 39.73), lower PEG ratio (2.52 vs 3.75), and a better Value grade (B vs D). The improving earnings estimate revision activity supports a positive outlook."
+        "sentiment_reasoning": "Strong double-digit growth across advertising (38%), Walmart Connect (43%), and e-commerce (24%). Achieved double-digit incremental margins in U.S. e-commerce and improved gross profit mix. Strategic acquisition of Vibe expands advertising capabilities."
       },
       {
         "ticker": "COST",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Costco receives a neutral sentiment as it is rated as a Hold with less attractive valuation metrics compared to Target. While not negative, the higher P/E ratio, PEG ratio, and lower Value grade suggest it is less undervalued at current price levels."
+        "sentiment_reasoning": "Mentioned as a competitor with 1% share gain over the past year and higher forward P/E ratio (40.03) than Walmart. No specific performance metrics provided."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with strong 71.4% share gain over the past year but lower forward P/E ratio (15.68) than Walmart. No specific operational metrics provided."
       }
     ]
   },
   {
-    "id": "0f20e404fd9273811ffbb74289b53f20f0e6cfe139f4999eea45d6d7a10420bd",
+    "id": "90939f14bcf996e212b6ebe8b92ee063603391518aff5f5f8524b5deb9c22760",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Buy for Cautious Investors: Eli Lilly vs Costco",
-    "author": "Adria Cimino",
-    "published_utc": "2026-09-18T14:15:02Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/better-buy-for-cautious-investors-eli-lilly-vs-costco/?source=iedfolrf0000001",
+    "title": "Should You Invest $1,000 in Costco Stock in October?",
+    "author": "Neil Patel",
+    "published_utc": "2026-10-06T09:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/should-you-invest-1000-in-costco-stock-in-october/?source=iedfolrf0000001",
     "tickers": [
-      "LLY",
       "COST"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F604a69fb7f6ea006ba65d586e735188f5e64c9a9-7089x3988.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Eli Lilly and Costco as defensive stock picks for cautious investors amid market hesitation. Eli Lilly benefits from its dominant GLP-1 weight loss drug portfolio (Mounjaro and Zepbound), while Costco offers stability through its membership-based business model with high renewal rates. Despite both stocks being reasonably valued, the author recommends Costco as the better buy, trading at approximately 39x forward earnings compared to Eli Lilly's historical valuation levels.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890145%2Fcostco-logo-on-red-filter-with-signage-in-background_the-motley-fool.png&w=1200&op=resize",
+    "description": "Costco is a high-quality business with durable demand, massive scale, and consistent earnings growth of 14.7% annually over the past decade. However, the author recommends patience rather than immediate investment, citing a steep price-to-earnings ratio of 44.3, despite shares trading 16% below their peak. The stock is suitable for quality-focused investors but not a screaming buy at current valuations.",
     "keywords": [
-      "defensive stocks",
-      "cautious investing",
-      "GLP-1 drugs",
-      "weight loss market",
-      "membership business model",
+      "Costco stock",
+      "retail investment",
       "valuation",
-      "dividend stocks",
-      "market safety"
+      "price-to-earnings ratio",
+      "earnings growth",
+      "warehouse demand",
+      "October 2026"
     ],
     "insights": [
       {
-        "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong growth driven by dominant GLP-1 weight loss drug portfolio (60% U.S. market share), generating over $14 billion in quarterly revenue. Expected continued growth as weight loss drug market projected to reach nearly $100 billion by decade's end. Diversified product portfolio provides revenue stability across market environments."
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the article acknowledges Costco's strong fundamentals including consistent 14.7% annual earnings growth, durable demand, and massive scale advantages, the author explicitly recommends patience and caution due to the steep P/E ratio of 44.3. The stock is not recommended as a 'screaming buy' at current prices, resulting in a neutral stance that balances quality with valuation concerns."
+      }
+    ]
+  },
+  {
+    "id": "f8ea205f8228842b571e233121e1c7a8820b33867a4dd32857077b5446a7ee19",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
+    "author": "John Bromels",
+    "published_utc": "2026-10-06T09:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/costco-is-down-10-in-6-months-while-the-sp-500-is/?source=iedfolrf0000001",
+    "tickers": [
+      "COST",
+      "WMT",
+      "TGT",
+      "BBY",
+      "KR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887923%2Fcost.jpg&w=1200&op=resize",
+    "description": "Costco's stock has underperformed the S&P 500 by 27 percentage points over the last six months, despite growing revenue, profits, and membership renewal rates. While the company maintains a premium valuation compared to retail peers due to strong membership loyalty, the article argues that at current prices, Costco is not as cheap as it appears. Headwinds from tariffs and fuel costs, combined with elevated valuations, suggest investors seeking faster growth may find better opportunities elsewhere.",
+    "keywords": [
+      "retail stocks",
+      "valuation metrics",
+      "membership renewal",
+      "tariffs",
+      "fuel costs",
+      "price-to-earnings ratio",
+      "buy-and-hold investing"
+    ],
+    "insights": [
+      {
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Costco demonstrates strong fundamentals with growing revenue, profits, and high membership renewal rates (92.3%), the article concludes the stock is not a bargain at current prices. The company trades at a significant premium to peers and faces headwinds from tariffs and fuel costs. Suitable only for long-term buy-and-hold investors, not for those seeking faster growth."
       },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a successful retail competitor with 415% growth over the last decade, but no specific investment recommendation or analysis provided. Used primarily as a comparison point to Costco's superior long-term performance."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in valuation comparison table showing lower P/S, P/E, and P/FCF ratios than Costco, suggesting cheaper valuation metrics. No specific recommendation or analysis provided."
+      },
+      {
+        "ticker": "BBY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio among peers. No specific recommendation or analysis provided."
+      },
+      {
+        "ticker": "KR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio (0.25) among all retailers listed. No specific recommendation or analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "4b9a29326e9aa8f279212242740f20a9b3ca4ff56a0abcd4f962149b94303ee7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Costco vs. Dollar General: Which Retail Stock Is the Better Buy Now?",
+    "author": "Na",
+    "published_utc": "2026-10-05T15:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000436/costco-vs-dollar-general-which-retail-stock-is-the-better-buy-now?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3000436",
+    "tickers": [
+      "COST",
+      "DG"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/74/156908.webp",
+    "description": "Costco and Dollar General, two leading U.S. discount retailers, are compared for investment potential. Costco benefits from a strong membership model with 84.1 million paid members and robust digital growth, while Dollar General shows improving same-store sales of 3.5% and successful store remodeling initiatives. Despite Costco's solid fundamentals, Dollar General is rated as the better investment opportunity due to its lower valuation, improving business trends, and greater upside potential.",
+    "keywords": [
+      "discount retail",
+      "membership model",
+      "same-store sales",
+      "digital expansion",
+      "warehouse expansion",
+      "store remodeling",
+      "valuation",
+      "consumer spending"
+    ],
+    "insights": [
       {
         "ticker": "COST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better cautious buy due to attractive valuation at 39x forward earnings (below historical levels). Defensive business model with high customer loyalty, membership renewal rates exceeding 90%, high-margin membership fees, and special dividends. Provides revenue visibility and stability during economic uncertainty."
+        "sentiment_reasoning": "Strong membership ecosystem with 7.3% fee income growth, 92.3% renewal rate in US/Canada, 84.1 million paid members up 3.8%, Executive membership penetration at 42.3 million (up 9.4%), robust digital growth with 19.5% comparable sales increase, and planned warehouse expansion of 33 locations in fiscal 2027. However, rising costs and margin pressures present headwinds."
+      },
+      {
+        "ticker": "DG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Same-store sales increased 3.5% with 2% traffic growth, all four merchandising categories delivered positive comparable sales for sixth consecutive quarter, successful store remodeling initiatives (Project Renovate and Elevate), expanding digital capabilities with delivery sales approximately 80% incremental, improving inventory shrink, and management raised fiscal 2026 outlook. Trading at lower forward P/E of 14.42 versus Costco's 39.93, offering greater upside potential."
       }
     ]
   }

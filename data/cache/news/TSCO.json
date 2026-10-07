@@ -1,5 +1,57 @@
 [
   {
+    "id": "a4eda68dde41e0089c088cd63bd8d6dc93b226a8d6e79be6d2bb8d3b8ea100a4",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Meet the 1 Stock I'd Buy With $5,000, Even If the Market Fell 10% Tomorrow",
+    "author": "Will Healy",
+    "published_utc": "2026-09-29T12:23:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/29/meet-the-1-stock-id-buy-with-5000-even-if-the-mark/?source=iedfolrf0000001",
+    "tickers": [
+      "O",
+      "WMT",
+      "DG",
+      "TSCO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888832%2Fo.png&w=1200&op=resize",
+    "description": "The article recommends Realty Income (O), a REIT specializing in single-tenant commercial properties, as a compelling $5,000 investment even if the stock drops 10% shortly after purchase. Despite a recent 18% decline from its 52-week high due to rising interest rates, the company maintains a 99% occupancy rate, a 32-year dividend increase streak, and an attractive 5.4% dividend yield. Strong financial performance with 11% revenue growth and 47% net income surge in H1 2026 supports the sustainability of its monthly dividend payout.",
+    "keywords": [
+      "REIT",
+      "dividend stock",
+      "monthly dividend",
+      "real estate investment",
+      "single-tenant properties",
+      "rising interest rates",
+      "long-term investing"
+    ],
+    "insights": [
+      {
+        "ticker": "O",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fundamentals including 99% occupancy rate, 32-year dividend increase streak, sustainable dividend coverage (FFO of $4.27 vs. $3.25 dividend), and solid financial growth (11% revenue increase, 47% net income surge). Recent stock decline presents a buying opportunity despite rising rate headwinds."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of Realty Income's reliable tenants, indicating stability in the REIT's tenant base, but no independent analysis or sentiment provided about the company itself."
+      },
+      {
+        "ticker": "DG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of Realty Income's established retail tenant partners, but no independent analysis or sentiment provided about the company itself."
+      },
+      {
+        "ticker": "TSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of Realty Income's established retail tenant partners, but no independent analysis or sentiment provided about the company itself."
+      }
+    ]
+  },
+  {
     "id": "9e4eada167065d4096a3fb270a880a76c4b19d6299c7ea411dca0b51dcba80bb",
     "publisher": {
       "name": "Zacks Investment Research",
@@ -168,48 +220,6 @@
         "ticker": "TSCO",
         "sentiment": "neutral",
         "sentiment_reasoning": "While the CEO's insider purchase signals confidence in the stock's recovery potential and the company maintains attractive valuations (EV/EBITDA of 13, P/E of 18) with a well-funded 2.5% dividend yield, the 44% stock decline over the past year and recent 1.5% same-store sales decrease reflect current operational challenges. The sentiment is neutral as the article presents both bullish insider activity and bearish market performance without a clear directional conviction."
-      }
-    ]
-  },
-  {
-    "id": "1fc1f1408cc981b5a3d1c9f15364f4f1055fc3ff5e1720c85ec82a11d6b40c5e",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Beyond Meat vs. Tractor Supply: Which Consumer Goods Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-08-04T20:09:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/08/04/beyond-meat-vs-tractor-supply-which-consumer-goods-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "BYND",
-      "TSCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Beyond Meat and Tractor Supply as investment options for 2026. Beyond Meat faces significant challenges including declining revenues (down 16% YoY), substantial debt ($500M), negative free cash flow, and delisting risk, though it's attempting a turnaround with new beverage products. Tractor Supply demonstrates consistent strength with $15.5B in revenue (4% growth), $1.3B in free cash flow, and 17 consecutive years of dividend increases. The analyst recommends Tractor Supply as the safer choice, suggesting investors wait for Beyond Meat to prove its turnaround strategy before investing.",
-    "keywords": [
-      "plant-based meat",
-      "retail",
-      "consumer goods",
-      "financial performance",
-      "investment comparison",
-      "turnaround strategy",
-      "free cash flow",
-      "dividend",
-      "delisting risk"
-    ],
-    "insights": [
-      {
-        "ticker": "BYND",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company faces severe financial distress with 16% revenue decline, negative free cash flow (-$157M), $500M debt burden, Nasdaq delisting risk, high customer concentration (13% from one customer), and persistent losses. While attempting a turnaround with new beverage products, execution remains unproven."
-      },
-      {
-        "ticker": "TSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates consistent operational strength with 4% revenue growth to $15.5B, strong profitability ($1.1B net income), robust free cash flow ($1.3B), 17-year dividend growth streak, and strategic initiatives like Instacart partnership. Despite macroeconomic headwinds affecting rural customers, the business model remains resilient with over 50% of sales from consumables."
       }
     ]
   }

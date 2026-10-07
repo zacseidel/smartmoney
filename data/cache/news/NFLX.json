@@ -1,229 +1,302 @@
 [
   {
-    "id": "b59ff322b5e77758a9e81d5355ebb254ef829f35d029f68a5dc4d11e792839ff",
+    "id": "e40db93f295b7f05bba312c8abf3f780ea2cfa6b812f96e703ac1fad5154a937",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Netflix (NFLX) Surpasses Market Returns: Some Facts Worth Knowing",
+    "author": "Na",
+    "published_utc": "2026-10-06T20:45:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3001374/netflix-nflx-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001374",
+    "tickers": [
+      "NFLX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default119.jpg",
+    "description": "Netflix (NFLX) closed at $68.69, up 1.76% for the day but down 13.74% over the past month. The stock holds a Zacks Rank #4 (Sell) rating despite positive earnings expectations for Q3 2026, with anticipated EPS of $0.82 (+38.98% YoY) and revenue of $12.87 billion (+11.84% YoY). However, NFLX trades at a Forward P/E of 18.79, significantly above the industry average of 9.47, suggesting overvaluation concerns.",
+    "keywords": [
+      "Netflix",
+      "stock analysis",
+      "earnings forecast",
+      "valuation",
+      "Zacks Rank",
+      "Forward P/E ratio",
+      "Consumer Discretionary"
+    ],
+    "insights": [
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite strong earnings growth expectations (+38.98% EPS growth YoY), Netflix receives a Zacks Rank #4 (Sell) rating due to significant overvaluation. The stock trades at a Forward P/E of 18.79 versus industry average of 9.47, and has declined 13.74% over the past month, underperforming sector expectations. The premium valuation relative to growth prospects and negative analyst rating outweigh positive earnings forecasts."
+      }
+    ]
+  },
+  {
+    "id": "6b74a7ab961e46535c40f0a100c6574045dfb06fe8eb9859cfa5f09df08f7440",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here\u2019s What That Means for Netflix Investors.",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-09-22T01:23:20Z",
-    "article_url": "https://www.fool.com/investing/2026/09/21/paramount-could-acquire-warner-bros-discovery-sooner-than-expected-heres-what-that-means-for-netflix-investors/?source=iedfolrf0000001",
+    "title": "The 9 Best Stocks to Buy Right Now in October (2026)",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-10-05T22:13:07Z",
+    "article_url": "https://www.fool.com/investing/2026/10/05/the-9-best-stocks-to-buy-right-now-in-october-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "META",
+      "MCD",
+      "NFLX",
+      "AMZN",
+      "NVDA",
+      "ADBE",
+      "V",
+      "UBER",
+      "PINS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890222%2Fmqdefault.webp&w=1200&op=resize",
+    "description": "The Motley Fool's analyst curates a list of nine stocks recommended for investment in October 2026, highlighting opportunities with favorable risk-versus-reward profiles. The selection includes major technology, consumer, and financial services companies, with stock prices referenced from October 3, 2026.",
+    "keywords": [
+      "stock recommendations",
+      "October 2026",
+      "investment opportunities",
+      "risk-versus-reward",
+      "technology stocks",
+      "consumer stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of 9 best stocks to buy, indicating analyst confidence in the company's investment potential"
+      },
+      {
+        "ticker": "MCD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stock list with options positions held, suggesting positive outlook"
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst and Motley Fool positions"
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with options positions held by The Motley Fool"
+      },
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "UBER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with analyst position held"
+      },
+      {
+        "ticker": "PINS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst position held"
+      }
+    ]
+  },
+  {
+    "id": "dab29833e309bb3d54f1c28457306d6be29bf8c3a51f8255e4e0a4954f1f0d8f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Don't Sell Netflix: NFLX Is the One Streaming Pick I'd Add to Today",
+    "author": "Brett Schafer",
+    "published_utc": "2026-10-04T23:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/04/dont-sell-netflix-nflx-is-the-one-streaming-pick-i/?source=iedfolrf0000001",
     "tickers": [
       "NFLX",
-      "PSKY",
-      "WBD"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "DIS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F295ad00e3230175efddf90d098ff5057f682b0db-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Paramount's acquisition of Warner Bros. Discovery will close sooner than expected after settling antitrust lawsuits with state attorneys general. The settlement requires Paramount to increase domestic film production by $300 million annually and guarantee theatrical releases. Netflix benefits from having one fewer competitor, while Paramount faces an $80 billion debt burden that could limit its competitive ability.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889569%2Fpeople-watching-tv.jpg&w=1200&op=resize",
+    "description": "Despite Netflix trading down 50% from highs while the S&P 500 is up 13% YTD, analyst argues the stock remains a strong long-term buy. Netflix shows solid fundamentals with 13% YTD revenue growth, expanding content into sports and live programming, and aggressive share buybacks at lower prices. Trading at a P/E of 21\u2014historically low for the company\u2014Netflix is well-positioned against legacy competitors and should benefit from sustained streaming demand growth.",
     "keywords": [
-      "merger",
-      "antitrust settlement",
-      "streaming competition",
-      "debt burden",
-      "theatrical releases",
-      "content production"
+      "streaming",
+      "Netflix",
+      "stock valuation",
+      "share buybacks",
+      "content expansion",
+      "advertising growth",
+      "market laggard",
+      "long-term opportunity"
     ],
     "insights": [
       {
         "ticker": "NFLX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Netflix avoided taking on significant debt from a questionable acquisition and now faces one fewer competitor. The combined Paramount-WBD entity will be financially strapped with $80 billion in debt, limiting its competitive threat. Netflix stock rose 2% on the settlement news."
+        "sentiment_reasoning": "Strong revenue growth (13% YTD), expanding content library (sports, live shows, podcasts), aggressive share buyback program (6% reduction in outstanding shares), historically low P/E ratio of 21, and better competitive positioning than legacy players like Paramount and Disney. Management is reinvesting in growth areas and advertising represents untapped upside."
       },
       {
-        "ticker": "PSKY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While winning the bidding war, Paramount will assume approximately $80 billion in debt and face settlement restrictions on content strategy, including mandatory theatrical releases and increased domestic production costs. These constraints will limit profitability and strategic flexibility."
-      },
-      {
-        "ticker": "WBD",
+        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "WBD is being acquired and will cease to exist as an independent entity. While the settlement accelerates deal closure, the company's struggling financial position and characterization as an 'albatross' suggest limited independent prospects, making acquisition the practical outcome."
+        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
+      },
+      {
+        "ticker": "DIS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Characterized as a legacy player struggling to gain share in video streaming with a worse balance sheet than Netflix, indicating competitive disadvantage in the streaming market."
       }
     ]
   },
   {
-    "id": "5f32971940c6f31d534fb40ee9124cb396ccd925ac21b49af60149c9770266d7",
+    "id": "64aaafed8eef02462fba5fb094e85a54036e5aff6688f78016adbc7766e74ee6",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Netflix (NFLX) Laps the Stock Market: Here's Why",
-    "author": "Na",
-    "published_utc": "2026-09-21T21:45:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2993261/netflix-nflx-laps-the-stock-market-here-s-why?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993261",
+    "title": "Is Netflix (NFLX) Stock a Buy?",
+    "author": "Selena Maranjian",
+    "published_utc": "2026-10-04T19:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/04/is-netflix-nflx-stock-a-buy/?source=iedfolrf0000001",
     "tickers": [
-      "NFLX"
+      "NFLX",
+      "AMZN",
+      "AAPL",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default153.jpg",
-    "description": "Netflix closed at $73.36, up 2.19% on the day but down 9.8% over the past month. The company holds a Zacks Rank #4 (Sell) rating with a Forward P/E of 19.98, significantly above its industry average of 10.85. While earnings are expected to grow 38.98% next quarter and 41.9% annually, the stock's premium valuation and recent analyst estimate stagnation suggest caution.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888242%2Ffool-netflix-nflx.jpg&w=1200&op=resize",
+    "description": "Netflix has been an exceptional long-term performer, turning $1,000 into $43,000 over 15 years. However, the company's growth is slowing with Q2 revenue up only 13.4% year-over-year. While valuation metrics appear reasonable compared to historical averages, the mature streaming market with intense competition from Amazon Prime Video, Apple TV, and YouTube makes Netflix not particularly compelling at current levels. The author suggests buying a little could work long-term, but better opportunities exist elsewhere.",
     "keywords": [
-      "Netflix earnings",
-      "stock valuation",
-      "Zacks Rank",
-      "Forward P/E ratio",
-      "analyst estimates",
-      "consumer discretionary",
-      "earnings growth"
+      "streaming",
+      "valuation",
+      "growth slowdown",
+      "competition",
+      "subscriber base",
+      "content creation"
     ],
     "insights": [
       {
         "ticker": "NFLX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Netflix received a Zacks Rank #4 (Sell) rating due to its premium Forward P/E ratio of 19.98 versus industry average of 10.85, despite strong expected earnings growth. The stock has underperformed over the past month (-9.8%), and analyst EPS estimates have remained stagnant, indicating limited near-term upside despite solid fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "fa211fb84f546ff8a2c89e805655b56c8f073a178fb98112c373d870a410b61d",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should You Invest in the iShares U.S. Consumer Discretionary ETF (IYC)?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-21T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2992578/should-you-invest-in-the-ishares-u-s-consumer-discretionary-etf-iyc?cid=CS-ZC-FT-sector_etf-2992578",
-    "tickers": [
-      "IYC",
-      "AMZN",
-      "TSLA",
-      "NFLX",
-      "VCR",
-      "XLY"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default358.jpg",
-    "description": "The iShares U.S. Consumer Discretionary ETF (IYC) has received a Zacks ETF Rank of 4 (Sell) and is not recommended as the best option for consumer discretionary exposure. The ETF has declined 6.39% year-to-date and 8.37% over the past year, with a medium risk profile. Better alternatives include Vanguard Consumer Discretionary Index Fund ETF Shares (VCR) and State Street Consumer Discretionary Select Sector SPDR ETF (XLY), which offer lower expense ratios.",
-    "keywords": [
-      "consumer discretionary",
-      "ETF",
-      "investment",
-      "sector exposure",
-      "expense ratio",
-      "performance"
-    ],
-    "insights": [
-      {
-        "ticker": "IYC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Assigned a Zacks ETF Rank of 4 (Sell), down 6.39% YTD and 8.37% over one year, and explicitly stated as not the best option for investors seeking consumer discretionary exposure."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Netflix has a strong historical track record and reasonable valuation metrics (P/E of 18 vs. 5-year average of 30), growth is decelerating and the company is mature. The author concludes it's not terribly compelling at current levels, suggesting modest investment potential but noting better opportunities exist."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IYC at 15.26% of assets; mentioned factually without performance assessment."
+        "sentiment_reasoning": "Mentioned as a significant competitor to Netflix through Prime Video, representing a competitive threat in the streaming market."
       },
       {
-        "ticker": "TSLA",
+        "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IYC; mentioned factually without performance assessment."
+        "sentiment_reasoning": "Mentioned as a competitor in streaming through Apple TV, representing competitive pressure in the industry."
       },
       {
-        "ticker": "NFLX",
+        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IYC; mentioned factually without performance assessment."
+        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
       },
       {
-        "ticker": "VCR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a better alternative to IYC with lower expense ratio (0.09%) and significantly larger assets ($5.74 billion)."
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
       },
       {
-        "ticker": "XLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a better alternative to IYC with the lowest expense ratio (0.08%) and largest assets ($21.68 billion) among alternatives."
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
       }
     ]
   },
   {
-    "id": "96331a13c2b5658b60895ef17a8ac802e9486424e6ccbe5d3771fbacba91a40c",
+    "id": "ad5ead419ce1d818503f266f8fab97853d69ef04b3788588658ac1df67aaeda4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why Netflix Stock Dropped Today",
-    "author": "Joe Tenebruso",
-    "published_utc": "2026-09-19T02:10:18Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/why-netflix-stock-dropped-today/?source=iedfolrf0000001",
+    "title": "Is a Microsoft Stock Split Coming After 23 Years?",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-10-03T08:27:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/03/is-a-microsoft-stock-split-coming-after-23-years/?source=iedfolrf0000001",
     "tickers": [
-      "NFLX",
-      "WBD"
+      "MSFT",
+      "NVDA",
+      "AVGO",
+      "NFLX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888331%2Fnflx-stock.png&w=1200&op=resize",
-    "description": "Netflix stock fell 4.67% after Wells Fargo analyst Steven Cahall downgraded the company to underweight, predicting a potential 20% price decline to $57. Cahall cited concerns about a lack of hit original series, estimating views for Netflix's top 100 shows could drop over 20%. He warned that engagement trends are worrying and that boosting viewership through increased content spending, sports rights, or acquisitions would pressure profit margins.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fdfbf6b4336c3038eb7d6acbcea62f28374141b2e-3515x2245.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Microsoft's stock price has reached $518, near its record high, but the company hasn't announced a stock split in 23 years despite its share price being significantly higher than historical split thresholds. While peers like Nvidia, Broadcom, and Netflix recently announced splits at much higher price points, analyst Daniel Sparks doubts Microsoft will split soon, noting that fractional shares and the company's strong fundamentals (22% earnings growth) make a split less urgent.",
     "keywords": [
-      "Netflix downgrade",
-      "analyst rating",
-      "viewer engagement",
-      "content strategy",
-      "streaming competition",
-      "profit margins"
+      "stock split",
+      "Microsoft",
+      "share price",
+      "Dow Jones Industrial Average",
+      "price-weighted index",
+      "fractional shares",
+      "earnings growth"
     ],
     "insights": [
       {
-        "ticker": "NFLX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Wells Fargo downgraded Netflix to underweight with a $57 price target (20% downside from current $71.79). Analyst cited declining engagement trends, lack of hit shows, and predicted 20%+ decline in views for top 100 original series. Potential solutions to boost engagement would come at significant cost to profit margins."
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock is trading near record highs with strong 22% earnings growth and 18% revenue growth, but analyst expresses skepticism about an imminent stock split despite high share price. The neutral sentiment reflects solid fundamentals without major catalysts for near-term action."
       },
       {
-        "ticker": "WBD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a company whose HBO Max streaming service and studio assets were recently acquired by Paramount Skydance, outbidding Netflix. This demonstrates competitive pressure in the streaming market but does not directly impact the company negatively in this context."
-      }
-    ]
-  },
-  {
-    "id": "ded3a5953755e42fec27d41b3131c28a3eedc6c262344b9cb23112ae1035e179",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Apple TV's Emmy Sweep Adds Momentum to AAPL's Services Business",
-    "author": "Na",
-    "published_utc": "2026-09-18T16:20:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992242/apple-tv-s-emmy-sweep-adds-momentum-to-aapl-s-services-business?cid=CS-ZC-FT-analyst_blog|quick_take-2992242",
-    "tickers": [
-      "AAPL",
-      "NFLX",
-      "DIS"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/11/933.jpg",
-    "description": "Apple TV won 29 Emmys at the 78th Primetime Emmy Awards, with Apple Originals accumulating 917 total wins and 3,827 nominations. Apple's Services revenue grew 12% to a record $30.74 billion in the June quarter with a 75.6% gross margin. The company surpassed 1.5 billion paid subscriptions supported by over 2.5 billion active devices. However, Apple faces intense competition from Netflix and Disney in the streaming space.",
-    "keywords": [
-      "Apple TV",
-      "Emmy Awards",
-      "streaming",
-      "Services revenue",
-      "subscriptions",
-      "competition",
-      "Netflix",
-      "Disney"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
+        "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Apple TV achieved record Emmy wins (29 awards), Services revenue grew 12% to $30.74B with strong 75.6% gross margin, surpassed 1.5B paid subscriptions, and reached all-time high viewership. However, positive sentiment is tempered by premium valuation (P/E 35.44X vs sector 20.38X) and Hold rating."
+        "sentiment_reasoning": "Recently announced a 10-for-1 stock split at $950 per share, demonstrating strong stock performance and investor accessibility initiatives. Used as a positive comparison point for successful recent splits."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced a 10-for-1 stock split at approximately $1,500 per share, indicating strong stock performance and company confidence. Cited as a successful recent split example."
       },
       {
         "ticker": "NFLX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Netflix is presented as a strong competitor with ~330M subscription households, global scale, and expanding content formats including live programming and cloud games. Competitive threat to Apple but no specific performance data provided."
-      },
-      {
-        "ticker": "DIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Disney is identified as a significant competitor leveraging its extensive franchise portfolio (Pixar, Marvel, Star Wars), bundling strategy, and sports content through Disney+ and ESPN. Competitive threat to Apple but no specific performance metrics provided."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Announced a stock split in October 2025 at approximately $1,090 per share, demonstrating strong stock appreciation and investor accessibility efforts."
       }
     ]
   }

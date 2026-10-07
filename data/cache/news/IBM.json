@@ -1,319 +1,285 @@
 [
   {
-    "id": "17ca3e8c9176d784a878d3053fd14af1d349224fba225c758af7eef0bf1d7dc4",
+    "id": "1035d72200cf17f7ec8a5b20d404755278973a52d59e0fda54cd66a48f3cf52b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Warren Buffett's $35 Billion Bet on Tim Cook's Apple Grew to $185 Billion Pretax. Here's What That Stake Says About Long-Term Investing.",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-09-21T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/21/warren-buffetts-35-billion-bet-on-tim-cooks-apple/?source=iedfolrf0000001",
-    "tickers": [
-      "AAPL",
-      "IBM",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887057%2Fbuffett2-tmf.jpg&w=1200&op=resize",
-    "description": "Berkshire Hathaway's $35 billion investment in Apple made in 2016 has grown to $185 billion pretax over 10 years, becoming the company's largest holding. The investment exemplifies Buffett's investing philosophy of buying great businesses at fair prices, backing strong leadership, and maintaining long-term positions. Apple peaked at 50% of Berkshire's portfolio in 2023 but has since been reduced to 22% as Buffett took profits and diversified.",
-    "keywords": [
-      "long-term investing",
-      "Apple investment",
-      "Warren Buffett",
-      "Berkshire Hathaway",
-      "Tim Cook",
-      "portfolio management",
-      "competitive moat",
-      "profit-taking"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Apple is portrayed as Buffett's best investment, with a $35 billion initial stake growing to $185 billion pretax. Described as having strong leadership, industry dominance, and a competitive moat, making it the perfect Buffett investment exemplifying long-term value creation."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "IBM is mentioned only as a historical reference point (2011 investment) marking Buffett's initial foray into technology stocks. No performance data or current sentiment is provided about this position."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Berkshire's strategic Apple investment demonstrates successful capital allocation and long-term investing discipline. The company's ability to generate $185 billion in pretax gains from a $35 billion investment showcases effective portfolio management and shareholder value creation."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Berkshire's strategic Apple investment demonstrates successful capital allocation and long-term investing discipline. The company's ability to generate $185 billion in pretax gains from a $35 billion investment showcases effective portfolio management and shareholder value creation."
-      }
-    ]
-  },
-  {
-    "id": "38f88c8c51d9c38abffd12b2d3b78b015154346ebed7919181fc247c691b613f",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "API Marketplace Market Gains Momentum as AI Agents and Cloud-Native Development Expand API Discovery and Monetization",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-18T18:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/18/3364916/0/en/api-marketplace-market-gains-momentum-as-ai-agents-and-cloud-native-development-expand-api-discovery-and-monetization.html",
-    "tickers": [
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "MSFT",
-      "CRM",
-      "IBM",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global API Marketplace Market is projected to reach USD 112.61 billion by 2035, growing at 18.13% CAGR, driven by AI-powered services, cloud-native development, and microservices architecture. The U.S. market is expected to reach USD 28.57 billion by 2035 at 17.69% CAGR. Key growth drivers include AI/ML API adoption, hybrid cloud deployments, and open banking initiatives, with North America leading at 34.45% market share and Asia Pacific showing the fastest regional growth at 18.91% CAGR.",
-    "keywords": [
-      "API Marketplace",
-      "AI-powered services",
-      "cloud-native development",
-      "microservices architecture",
-      "API monetization",
-      "hybrid deployment",
-      "API security",
-      "digital transformation",
-      "fintech",
-      "e-commerce"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Amazon API Gateway added fully managed Developer Portal capabilities in November 2025, enhancing API discovery and management, demonstrating strong market presence and innovation in the growing API marketplace."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with established API management capabilities, benefiting from the projected 18.13% CAGR market growth and enterprise digital transformation trends."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in the API marketplace with cloud infrastructure and integration services, well-positioned to capitalize on cloud-native architecture adoption and hybrid deployment growth."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leading integration and API management platform provider, positioned to benefit from enterprise API governance, security, and monetization requirements driving market growth."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Established player in API management and enterprise integration, well-positioned to serve large enterprises requiring secure API governance and lifecycle management."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market participant with comprehensive API and integration solutions, benefiting from enterprise digital transformation and cloud migration trends."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market participant with comprehensive API and integration solutions, benefiting from enterprise digital transformation and cloud migration trends."
-      }
-    ]
-  },
-  {
-    "id": "3226fc64dd80fb6780e214cb1573d464ec4dda89a5b2623ea6fc92658eadc465",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "IBM Software Growth Slows: Will Recurring Revenue Support Recovery?",
-    "author": "Na",
-    "published_utc": "2026-09-18T13:28:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2991906/ibm-software-growth-slows-will-recurring-revenue-support-recovery?cid=CS-ZC-FT-analyst_blog|quick_take-2991906",
-    "tickers": [
-      "IBM",
-      "MSFT",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8b/706.jpg",
-    "description": "IBM's Software segment revenues grew 5% to $7.8 billion in Q2 2026, but organic growth was flat due to customers shifting spending toward infrastructure. However, Hybrid Cloud revenues grew 11% with OpenShift ARR reaching $2.2 billion, and the Data business surged 19%. Despite revenue headwinds, IBM expanded Software segment profit by 9% to $2.5 billion with margin expansion of 110 basis points.",
-    "keywords": [
-      "IBM Software",
-      "Hybrid Cloud",
-      "Transaction Processing",
-      "OpenShift",
-      "Q2 2026 earnings",
-      "cloud growth",
-      "software margins"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed results with flat organic growth in Software offset by strong margin expansion (110 bps), Hybrid Cloud growth (11%), and Data business surge (19%). However, Transaction Processing declined 8% and overall Software organic growth was flat, indicating near-term headwinds despite profitability improvements."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Productivity & Business Processes segment grew 14% YoY to $37.8 billion, with Microsoft 365 Commercial cloud revenues up 14-16%, demonstrating strong competitive positioning against IBM in cloud and productivity software."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cloud revenues (SaaS + IaaS) surged 47% in USD to $9.9 billion, showing cloud as the primary growth driver. However, overall Software revenues declined 2% as customers migrate from on-premises to cloud."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cloud revenues (SaaS + IaaS) surged 47% in USD to $9.9 billion, showing cloud as the primary growth driver. However, overall Software revenues declined 2% as customers migrate from on-premises to cloud."
-      }
-    ]
-  },
-  {
-    "id": "7b9504fca66ed9e360dfa5dd6b41478df58e1b66871a4705b32b02925214d05f",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "IBM (IBM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-16T21:45:05Z",
-    "article_url": "https://www.zacks.com/stock/news/2990937/ibm-ibm-sees-a-more-significant-dip-than-broader-market-some-facts-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2990937",
+    "title": "IBM Stock: Buy, Hold, or Sell?",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-10-03T05:24:56Z",
+    "article_url": "https://www.fool.com/investing/2026/10/03/ibm-stock-buy-hold-or-sell/?source=iedfolrf0000001",
     "tickers": [
       "IBM"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default19.jpg",
-    "description": "IBM stock fell 4.38% on September 16, 2026, underperforming the broader market. The company is expected to report earnings on October 21, 2026, with projected EPS growth of 9.06% and revenue growth of 3.34% year-over-year. IBM currently holds a Zacks Rank of #3 (Hold) with a Forward P/E ratio of 20.15, trading at a discount to its industry average.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890157%2Fmqdefault_custom_2.jpg&w=1200&op=resize",
+    "description": "IBM management has reiterated revenue targets for the current fiscal year, forecasting 5% revenue growth. The article examines whether IBM stock presents a buying opportunity, with mixed perspectives on the company's potential as an AI and quantum computing player despite its traditional business profile.",
     "keywords": [
-      "IBM stock decline",
-      "earnings forecast",
-      "technology sector",
-      "valuation metrics",
-      "Zacks Rank"
+      "IBM stock",
+      "revenue growth",
+      "AI",
+      "quantum computing",
+      "investment analysis"
     ],
     "insights": [
       {
         "ticker": "IBM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While IBM experienced a significant single-day decline of 4.38%, the company shows positive fundamentals with projected earnings growth of 9.06% and revenue growth of 3.34% for the upcoming quarter. The stock has gained 6.75% over the past month and trades at a discount to industry peers. However, the Zacks Rank of #3 (Hold) and minimal change in consensus EPS estimates (-0.01%) suggest a neutral outlook in the near term."
+        "sentiment_reasoning": "The article presents a balanced view of IBM stock with the title posing a buy/hold/sell question. While management reiterates revenue targets with modest 5% growth forecasted, the company is noted as an 'underappreciated AI and quantum winner' but also described as 'hiding in a boring stock,' suggesting mixed investor sentiment and uncertainty about near-term investment merit despite longer-term potential."
       }
     ]
   },
   {
-    "id": "7a7b5410a458db3f2cdabc97e76d7141b4a099aebba9118538d12e00ec303721",
+    "id": "17a483e1bab31790325ae349f342bcbbd7344c6b16f572829395d9071edb8015",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "AI Productivity Tools Market Expected to Hit $69.22 Billion by 2035 at a 19.50% CAGR | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-16T06:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3362844/0/en/ai-productivity-tools-market-expected-to-hit-69-22-billion-by-2035-at-a-19-50-cagr-sns-insider.html",
+    "title": "Global Managed File Transfer (MFT) Market Size, Share, Trends and Forecast 2026-2035 | Cloud Adoption and Compliance Drive 11.5% CAGR, Reaching USD 7.63 Billion",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-10-02T08:53:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/02/3373588/28124/en/global-managed-file-transfer-mft-market-size-share-trends-and-forecast-2026-2035-cloud-adoption-and-compliance-drive-11-5-cagr-reaching-usd-7-63-billion.html",
     "tickers": [
-      "MSFT",
+      "IBM",
+      "MSFT"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global Managed File Transfer (MFT) market is expected to grow from USD 2.57 billion in 2025 to USD 7.63 billion by 2035, driven by increasing regulatory compliance requirements, cloud adoption, and the rising cost of data breaches. North America leads with 37.8% market share, while the top five vendors are projected to capture 68% of global revenue in 2026. Key growth drivers include automation reducing IT intervention by 40% and enterprise modernization replacing legacy file transfer systems.",
+    "keywords": [
+      "Managed File Transfer",
+      "MFT market",
+      "cloud adoption",
+      "regulatory compliance",
+      "data security",
+      "enterprise modernization",
+      "automation",
+      "BFSI",
+      "North America"
+    ],
+    "insights": [
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IBM maintains a strong position among Fortune 100 companies with established enterprise relationships and broad technology portfolio support for mission-critical environments, positioning it well in the consolidating MFT market."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Microsoft is identified as a leading MFT market participant, positioned to benefit from growing cloud adoption and enterprise modernization trends."
+      }
+    ]
+  },
+  {
+    "id": "1c62636cbdf669b7fac9a9025349c3eae24398a8eff9eda46243e9f6bc101377",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Better Quantum Computing Stock: IonQ vs. D-Wave",
+    "author": "Will Healy",
+    "published_utc": "2026-10-01T21:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/01/better-quantum-computing-stock-ionq-vs-d-wave/?source=iedfolrf0000001",
+    "tickers": [
+      "IONQ",
+      "QBTS",
+      "NVDA",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "ADBE",
-      "CRM",
-      "IBM",
-      "ASAN",
-      "TEAM"
+      "IBM"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI Productivity Tools Market is valued at $11.72 billion in 2025 and expected to reach $69.22 billion by 2035, growing at a 19.50% CAGR. North America leads with 36% market share, while Asia Pacific shows the fastest growth at 21.21% CAGR. Cloud-based deployment dominates at 65% share, with subscription models accounting for 55% of revenue. Key growth drivers include enterprise automation, data analytics, code generation tools, and RPA adoption across industries.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889157%2Fionq_qbts.png&w=1200&op=resize",
+    "description": "The article compares two quantum computing stocks, IonQ and D-Wave Quantum. IonQ demonstrates industry-leading precision with 99.99% 2-qubit gate fidelities and has a partnership with Nvidia, but faces massive operating losses and an extremely high P/S ratio of 65. D-Wave has achieved real-world applications through its quantum annealing technology and Leap cloud service, but revenue declined 67% year-over-year with a P/S ratio of 475. The author recommends IonQ as the relatively safer choice despite both stocks carrying significant risks and being overvalued.",
     "keywords": [
-      "AI productivity tools",
-      "enterprise automation",
-      "cloud-based deployment",
-      "data analytics",
-      "code generation",
-      "RPA",
-      "market growth",
-      "subscription model",
-      "digital transformation"
+      "quantum computing",
+      "IonQ",
+      "D-Wave Quantum",
+      "trapped-ion quantum system",
+      "quantum annealing",
+      "Nvidia partnership",
+      "valuation risk",
+      "operating losses"
+    ],
+    "insights": [
+      {
+        "ticker": "IONQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IonQ demonstrates industry-leading technical precision (99.99% gate fidelities), has a strategic partnership with Nvidia providing competitive advantage, and shows strong revenue growth ($145M vs $28M year-over-year). However, sentiment is tempered by massive operating losses ($1.06B) and extremely high valuation (P/S of 65)."
+      },
+      {
+        "ticker": "QBTS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "D-Wave has achieved notable real-world applications with its quantum annealing technology and Leap cloud service, demonstrating commercial viability ahead of competitors. However, this is significantly offset by declining revenue (-67% YoY), substantial operating losses ($66M), and an extremely high valuation (P/S of 475), making it a risky investment."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nvidia is mentioned positively as a strategic partner of IonQ, installing IonQ's Superion 256 system at its Accelerated Quantum Research Center, positioning itself at the forefront of quantum computing development."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "IBM is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "ecdbc95cb575f94bb314960be2f613385e6e54cccd5625c39a577b7bc62d0f7a",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Artificial Intelligence (AI) in Life Sciences Market: Trends and Forecast to 2040 | Market to Reach USD 73.05 Billion at 20% CAGR as Drug Discovery and Precision Medicine Scale",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-30T08:53:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/30/3371631/28124/en/artificial-intelligence-ai-in-life-sciences-market-trends-and-forecast-to-2040-market-to-reach-usd-73-05-billion-at-20-cagr-as-drug-discovery-and-precision-medicine-scale.html",
+    "tickers": [
+      "IBM",
+      "MSFT",
+      "NVDA",
+      "RHHBY",
+      "PFE",
+      "IMDCY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global AI in life sciences market is projected to expand from USD 5.69 billion in 2026 to USD 73.05 billion by 2040, driven by accelerating drug discovery, precision medicine adoption, and clinical trial optimization. AI technologies including machine learning, computer vision, and natural language processing are enabling faster R&D, reduced costs, and improved diagnostic accuracy. However, challenges include high development costs, data privacy concerns, AI bias, and regulatory validation requirements.",
+    "keywords": [
+      "artificial intelligence",
+      "life sciences",
+      "drug discovery",
+      "precision medicine",
+      "machine learning",
+      "clinical trials",
+      "market forecast",
+      "pharmaceutical",
+      "biotechnology",
+      "personalized medicine"
+    ],
+    "insights": [
+      {
+        "ticker": "IBM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "IBM is highlighted as a major technology company providing full-stack platforms for data integration, AI model development, and workflow management in life sciences, demonstrating strong competitive positioning in the growing market."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Microsoft is mentioned among major technology companies competing in the AI life sciences space, with strategic importance in providing computational infrastructure and cloud capabilities for the expanding market."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NVIDIA is listed as a key player in the competitive landscape, benefiting from increased demand for advanced computational infrastructure and hardware acceleration required for AI model development in life sciences."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Roche is identified as a major pharmaceutical manufacturer actively applying AI to drug discovery and development using genomic and molecular datasets, positioning it well in the high-growth market."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Pfizer is noted as a leading pharmaceutical company leveraging AI for drug discovery and development, benefiting from the market's projected 20% CAGR growth through 2040."
+      },
+      {
+        "ticker": "IMDCY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Insilico Medicine is identified as a specialized company applying AI to drug discovery using genomic and molecular datasets, well-positioned in the rapidly growing market segment."
+      }
+    ]
+  },
+  {
+    "id": "5559c1fae6f73c11e6408d91fa6e9446a82a45617fe363edb2b36275a6434d73",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Application Integration Market Report 2026: Capitalize on the $60.73 Billion Market by 2030 as iPaaS, Multi-Cloud and Cybersecurity Disrupt Enterprise IT\u2014Benchmark Microsoft, IBM, Oracle, SAP and Salesforce to Secure Share at 21.1% CAGR",
+    "author": "Researchandmarkets.Com",
+    "published_utc": "2026-09-29T15:59:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/29/3371167/28124/en/application-integration-market-report-2026-capitalize-on-the-60-73-billion-market-by-2030-as-ipaas-multi-cloud-and-cybersecurity-disrupt-enterprise-it-benchmark-microsoft-ibm-oracl.html",
+    "tickers": [
+      "MSFT",
+      "IBM",
+      "ORCL",
+      "ORCLpD",
+      "SAP",
+      "CRM"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "The global application integration market is projected to grow from $23.36 billion in 2025 to $60.73 billion by 2030 at a 21.1% CAGR, driven by iPaaS adoption, multi-cloud strategies, cybersecurity demands, and API standardization. Key growth factors include enterprise digital transformation, real-time analytics, and the need for integrated security monitoring across complex IT environments.",
+    "keywords": [
+      "application integration",
+      "iPaaS",
+      "multi-cloud",
+      "API management",
+      "digital transformation",
+      "cybersecurity",
+      "middleware",
+      "enterprise integration",
+      "cloud adoption"
     ],
     "insights": [
       {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is highlighted as a key player with recent 2025 developments showing expanded AI productivity capabilities through enhanced Copilot functionality, including Agent Mode and Office Agent, demonstrating active innovation in the growing market."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is listed as a major player with recent 2025 announcements expanding AI capabilities within Workspace across Business and Enterprise plans, including Gemini-powered functionality, indicating strong market positioning and growth initiatives."
-      },
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Adobe is listed among key market players in the AI productivity tools sector, which is experiencing strong growth driven by enterprise automation and AI-powered analytics adoption."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Salesforce appears twice as a key player (including ownership of Slack Technologies), benefiting from the market's growth drivers including CRM system integration with AI productivity tools and enterprise automation trends."
+        "sentiment_reasoning": "Featured as a leading market player in application integration solutions, positioned to benefit from the 21.1% CAGR market growth through 2030."
       },
       {
         "ticker": "IBM",
         "sentiment": "positive",
-        "sentiment_reasoning": "IBM is listed as a key player in the expanding AI productivity tools market, which is projected to grow substantially, driven by enterprise adoption of AI-powered automation and analytics."
+        "sentiment_reasoning": "Highlighted as a key competitor in the expanding application integration market, well-positioned to capture market share in iPaaS and hybrid integration solutions."
       },
       {
-        "ticker": "ASAN",
+        "ticker": "ORCL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Asana is listed as a key player in the AI productivity tools market, which is projected to grow significantly, driven by integration with project management systems and enterprise automation trends."
+        "sentiment_reasoning": "Named among leading vendors in application integration, positioned to benefit from enterprise adoption of cloud-based integration platforms and multi-cloud strategies."
       },
       {
-        "ticker": "TEAM",
+        "ticker": "ORCLpD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Atlassian is identified as a key player in the growing AI productivity tools market, benefiting from increasing enterprise adoption of AI-powered workflow and collaboration solutions."
+        "sentiment_reasoning": "Named among leading vendors in application integration, positioned to benefit from enterprise adoption of cloud-based integration platforms and multi-cloud strategies."
+      },
+      {
+        "ticker": "SAP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured as a major player in enterprise application integration, benefiting from rising ERP system deployments and digital ecosystem modernization."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included among leading market competitors, positioned to benefit from growing demand for CRM integration and API-driven connectivity solutions."
       }
     ]
   }

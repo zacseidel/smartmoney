@@ -1,236 +1,369 @@
 [
   {
-    "id": "632f336cc7f619653f76d43c28f144b93e85c1b385ad1c283e7907eb60836c3e",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Constellation Energy Corporation (CEG) Beats Stock Market Upswing: What Investors Need to Know",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-21T21:45:05Z",
-    "article_url": "https://www.zacks.com/stock/news/2993253/constellation-energy-corporation-ceg-beats-stock-market-upswing-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993253",
-    "tickers": [
-      "CEG"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default127.jpg",
-    "description": "Constellation Energy Corporation (CEG) outperformed the broader market on September 21, 2026, gaining 2.91% compared to the S&P 500's 1.49% gain. The company is expected to report strong earnings growth of 30.26% YoY with revenue growth of 31.65% YoY. However, the stock trades at a premium valuation (Forward P/E of 20.9 vs. industry average of 17.31) and carries a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "Constellation Energy Corporation",
-      "stock performance",
-      "earnings growth",
-      "valuation",
-      "Zacks Rank",
-      "energy sector"
-    ],
-    "insights": [
-      {
-        "ticker": "CEG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company demonstrates strong fundamental growth prospects (30%+ earnings and revenue growth expected) and outperformed the market on the trading day, it carries a Zacks Rank #3 (Hold) rating due to premium valuation relative to industry peers. The stock has underperformed over the past month (-6.66%), and the industry itself ranks in the bottom 37% of all sectors, suggesting limited near-term upside despite solid fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "2935bb28039d8fbea60981595a2daf2d5b44475d40e708c357a2bc92773fb491",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "TLN Drops 33.3% in 3 Months as Risks Test Its Cash Flow Story",
-    "author": "Na",
-    "published_utc": "2026-09-21T13:17:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992970/tln-drops-33-3-in-3-months-as-risks-test-its-cash-flow-story?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2992970",
-    "tickers": [
-      "TLN",
-      "CEG",
-      "VST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a2/108188.jpg",
-    "description": "Talen Energy (TLN) reported Q2 adjusted EPS of $0.16, missing estimates by 95%, with revenues up 18.6% YoY but below consensus. While adjusted free cash flow improved significantly to $212M from -$78M, the company faces headwinds from a $9.7B debt load, widening PPL pricing gaps (~$20/MWh), and execution risks on its 4GW data-center pipeline. The stock has declined 33.3% in 12 weeks as earnings estimate revisions turn negative.",
-    "keywords": [
-      "earnings miss",
-      "free cash flow",
-      "debt load",
-      "pricing pressure",
-      "data center",
-      "nuclear power",
-      "power purchase agreement"
-    ],
-    "insights": [
-      {
-        "ticker": "TLN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Significant 95% earnings miss, negative estimate revisions, high debt burden ($9.7B), regional pricing headwinds (PPL discount widening), and execution risks on data-center growth pipeline outweigh improvements in free cash flow generation."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with a 20-year Microsoft power purchase agreement for nuclear generation, indicating competitive pressure in the data-center power supply market but no direct performance data provided."
-      },
-      {
-        "ticker": "VST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a competitor with 20-year nuclear power agreements with AWS and Meta, demonstrating competitive dynamics in securing long-term data-center power contracts but no direct performance metrics included."
-      }
-    ]
-  },
-  {
-    "id": "1bb4b6717f341fd036441b475091aad9804b8ffea775424dcd37b9ff0c6b4bea",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is TLN Worth Buying as Cash Flow Improves Despite High Debt?",
-    "author": "Na",
-    "published_utc": "2026-09-21T13:11:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992966/is-tln-worth-buying-as-cash-flow-improves-despite-high-debt?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2992966",
-    "tickers": [
-      "TLN",
-      "CEG",
-      "VST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7a/133049.webp",
-    "description": "Talen Energy (TLN) shows improved cash flow generation with H1 2026 adjusted free cash flow reaching $562 million, supported by its expanded AWS power agreement for up to 1,920 MW through 2042. However, the company faces headwinds from a $9.7 billion debt burden, continued wholesale market exposure, and recent downward earnings estimate revisions. The stock trades at a valuation discount to its history but carries execution risks around data-center projects.",
-    "keywords": [
-      "cash flow growth",
-      "debt burden",
-      "power contracts",
-      "AWS agreement",
-      "earnings revisions",
-      "nuclear power",
-      "PJM market"
-    ],
-    "insights": [
-      {
-        "ticker": "TLN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed signals: improved cash flow generation and expanded contracted revenue base are positives, but offset by high debt ($9.7B), wholesale market exposure, execution risks, and recent downward earnings estimate revisions (2.4% lower in past 4 weeks). Zacks Rank #3 (Hold) reflects balanced view."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a positive industry example with 920 MW of additional long-term nuclear power purchase agreements signed in August, demonstrating the broader trend toward stabilizing cash flows through long-duration power contracting."
-      },
-      {
-        "ticker": "VST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as a positive industry peer with 20-year agreements with Meta supporting three nuclear plants in PJM, illustrating successful execution of long-term power contracting strategy similar to TLN's approach."
-      }
-    ]
-  },
-  {
-    "id": "fa0b9de06bcf46fea4c5c6657e63ebf149475c4939fc8e7b700425f01d49c5f8",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "3 Alternative-Energy Stocks That Could Withstand Fed's Rate Hike",
-    "author": "Na",
-    "published_utc": "2026-09-18T13:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2991902/3-alternative-energy-stocks-that-could-withstand-fed-s-rate-hike?cid=CS-ZC-FT-analyst_blog|industry_focus-2991902",
-    "tickers": [
-      "MNTK",
-      "CEG",
-      "TXNM"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e0/1312.jpg",
-    "description": "Following the Federal Reserve's 25 basis point rate increase in September 2026, alternative energy companies face headwinds from higher financing costs. However, three companies\u2014Montauk Renewables, Constellation Energy, and TXNM Energy\u2014demonstrate strong fundamentals with solid interest coverage ratios and significant earnings growth projected for 2026, positioning them to weather the higher rate environment.",
-    "keywords": [
-      "Federal Reserve rate hike",
-      "alternative energy",
-      "renewable energy financing",
-      "interest rates",
-      "project economics",
-      "earnings growth",
-      "capital expenditures"
-    ],
-    "insights": [
-      {
-        "ticker": "MNTK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamentals with TIE ratio of 1.7, projected 1,100% EPS growth in 2026, $80-$100M development investment planned, Zacks Rank #1 (Strong Buy), and VGM Score of A indicate exceptional growth potential despite rate headwinds."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Excellent TIE ratio of 7.5 (highest among the three), 29.3% projected EPS growth in 2026, substantial $5.7B capital spending plan, diversified energy portfolio including nuclear fleet, Zacks Rank #3 (Hold), and VGM Score of B demonstrate solid fundamentals."
-      },
-      {
-        "ticker": "TXNM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Healthy TIE ratio of 1.9, 31.8% projected EPS growth in 2026 (highest among the three), $7.8B capital investment plan (2025-2029), regulated utility model provides stable cash flows, Zacks Rank #3 (Hold), and VGM Score of B indicate resilience."
-      }
-    ]
-  },
-  {
-    "id": "0b1eecd1086affdbddeee8ff08b4a9107cd492af77c6169181c404836e4741dd",
+    "id": "ae831784356ec413628eb611616cd213a5564d27e7756ab3bb0eaec1899bcad2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Stocks to Buy if You Believe the AI Power Crunch Is Just Getting Started",
-    "author": "Courtney Carlsen",
-    "published_utc": "2026-09-17T19:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/17/3-stocks-to-buy-if-you-believe-the-ai-power-crunch/?source=iedfolrf0000001",
+    "title": "Why Constellation Energy Rallied Today",
+    "author": "Billy Duberstein",
+    "published_utc": "2026-10-06T19:29:23Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/why-constellation-energy-rallied-today/?source=iedfolrf0000001",
     "tickers": [
-      "GEV",
       "CEG",
-      "PWR",
-      "MSFT",
-      "META",
-      "WMT"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BRK.A",
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887147%2Fpower-lines-out-in-a-rural-setting-getty.jpg&w=1200&op=resize",
-    "description": "AI data centers are driving explosive electricity demand, projected to more than double from 415 terawatt-hours in 2024 to 1,000 terawatt-hours by 2030. However, power infrastructure takes significantly longer to build than data centers (3-10+ years), creating a supply shortage. GE Vernova, Constellation Energy, and Quanta Services are positioned to benefit from this power crunch through gas turbines, nuclear energy, and grid infrastructure services respectively.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890392%2Fgettyimages-1699619381.jpg&w=1200&op=resize",
+    "description": "Constellation Energy stock surged 12.31% after signing a comprehensive power deal with Alphabet. The agreement includes a 20-year, 890-MW power purchase agreement and a 15-year, 2,700-MW PPA to supply nuclear power to Alphabet's AI data centers in the PJM grid region. Constellation will invest $4.3 billion to expand nuclear capacity, while Alphabet will use Google Cloud's Gemini Enterprise to help optimize power production efficiency.",
     "keywords": [
-      "AI power demand",
-      "data center electricity",
-      "power infrastructure",
-      "energy shortage",
-      "gas turbines",
-      "nuclear energy",
-      "grid modernization"
+      "nuclear power",
+      "AI data centers",
+      "power purchase agreement",
+      "clean energy",
+      "infrastructure investment",
+      "PJM grid"
     ],
     "insights": [
       {
-        "ticker": "GEV",
+        "ticker": "CEG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong demand for gas turbines with 116 GW under contract and expanding to 125 GW by year-end. Electrification equipment backlog grew 69% year-over-year to $40.6 billion. Manufacturing capacity expanding to 30 GW by 2030. Positioned as critical 'bridge power' solution for data centers."
+        "sentiment_reasoning": "Stock rallied 12.31% on announcement of major long-term power contracts worth billions in capital investment, providing significant revenue visibility and growth opportunities in nuclear capacity expansion."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
+      }
+    ]
+  },
+  {
+    "id": "4a7cb333f8dba33a228439fd478420ade54b8c89beb78403956c2c01c134cd0c",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Department of Energy Announces a New Multi-Billion-Dollar Nuclear Energy Deal",
+    "author": "Neha Chamaria",
+    "published_utc": "2026-10-06T18:41:48Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/department-of-energy-announces-a-new-multi-billion-dollar-nuclear-energy-deal/?source=iedfolrf0000001",
+    "tickers": [
+      "VST",
+      "CEG",
+      "META",
+      "MSFT",
+      "BEP",
+      "BEPH",
+      "BEPI",
+      "BEPJ",
+      "BEPpA",
+      "CCJ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F72e89a8ac85539d46c47bfb95dc9b7f7b8c235d8-5237x3922.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Department of Energy announced a $4.2 billion loan commitment to Vistra to extend and upgrade three nuclear plants in Pennsylvania and Ohio, preserving 4 GW of power and adding 433 MW of new capacity. This deal is part of Trump's broader initiative to quadruple U.S. nuclear capacity to 400 GW by 2050. Meta has already signed a 20-year power purchase agreement with Vistra for 2,609 MW from these plants, highlighting how existing reactor owners are positioned to benefit most from the nuclear renaissance driven by AI energy demands.",
+    "keywords": [
+      "nuclear energy",
+      "Department of Energy",
+      "loan commitment",
+      "power generation",
+      "AI energy demand",
+      "reactor uprates",
+      "power purchase agreements"
+    ],
+    "insights": [
+      {
+        "ticker": "VST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Received $4.2 billion DOE loan commitment to extend and upgrade three nuclear plants for 20 additional years, with Meta already committed to purchasing 2,609 MW of power. Positioned as second-largest nuclear fleet owner among competitive power producers."
       },
       {
         "ticker": "CEG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Largest U.S. nuclear fleet with 22 GW capacity operating at 93% capacity factor. Secured long-term power purchase agreements with Microsoft, Meta, and Walmart. Recent $21.8 billion Calpine acquisition adds 23 GW of complementary power assets. Well-positioned for reliable 24/7 baseload energy demand from data centers."
-      },
-      {
-        "ticker": "PWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record backlog of $53.4 billion in Q2, up 21.5% since end of 2025. Added 15,000 employees in first half of year. Raised revenue guidance to $39.5 billion and free cash flow guidance to $2.25 billion. Essential provider of grid infrastructure construction and maintenance services needed for AI data center expansion."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler with long-term power purchase agreement with Constellation Energy, indicating exposure to AI infrastructure buildout, but article focuses on energy suppliers rather than tech companies."
+        "sentiment_reasoning": "Received $1 billion DOE loan to restart Three Mile Island Unit 1 (835 MW) with Microsoft already committed as a power buyer. Operates the largest nuclear fleet in the U.S., well-positioned for the nuclear renaissance."
       },
       {
         "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a hyperscaler with long-term power purchase agreement with Constellation Energy, indicating exposure to AI infrastructure buildout, but article focuses on energy suppliers rather than tech companies."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Signed 20-year power purchase agreements with Vistra for 2,609 MW, securing reliable nuclear power for AI operations and data centers."
       },
       {
-        "ticker": "WMT",
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Already signed power purchase agreement with Constellation Energy for Three Mile Island output, securing clean energy for AI and data center operations."
+      },
+      {
+        "ticker": "BEP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "CCJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment, benefiting from nuclear industry expansion."
+      }
+    ]
+  },
+  {
+    "id": "6f8e8ce2e88a554c276d7e72bd734f5f983b95c9188eb4ec7553024f40761632",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Midday, Oct. 6: S&P 500 Sets New High, Nuclear Stocks Surge",
+    "author": "Emma Newbery",
+    "published_utc": "2026-10-06T16:18:08Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-midday-oct-6-s-and-p-500-sets-new-high-nuclear-stocks-surge/?source=iedfolrf0000001",
+    "tickers": [
+      "CEG",
+      "VST",
+      "TLN",
+      "MRVL",
+      "DELL",
+      "CRWD",
+      "AMD",
+      "STX",
+      "WDC",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe3bcbb36c955ac33b4d67641805fcca8e9fca941-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The S&P 500 reached new all-time highs on October 6, 2026, climbing 0.85% to 7,840 as falling oil prices eased inflation concerns. Nuclear stocks surged following a Constellation Energy deal with Google, while semiconductor stocks like Marvell Technology jumped over 7% on strong investor day guidance. Memory stocks declined amid reports of Toshiba's market expansion plans.",
+    "keywords": [
+      "S&P 500",
+      "nuclear stocks",
+      "oil prices",
+      "inflation",
+      "semiconductors",
+      "AI",
+      "Constellation Energy",
+      "Google"
+    ],
+    "insights": [
+      {
+        "ticker": "CEG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 15.03% following a major deal with Alphabet's Google to supply nuclear power, boosting the entire nuclear sector"
+      },
+      {
+        "ticker": "VST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nuclear stock benefited from sector-wide surge driven by Constellation Energy's Google deal"
+      },
+      {
+        "ticker": "TLN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Nuclear stock surged as part of sector momentum from Constellation Energy's major corporate deal"
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock jumped over 7% after ambitious financial targets and revenue plans at investor day impressed analysts"
+      },
+      {
+        "ticker": "DELL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock rose on expansion of AI platform with improved performance capabilities"
+      },
+      {
+        "ticker": "CRWD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock climbed 3.78% on bullish analyst sentiment"
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citi raised price target citing agentic AI driving major CPU demand"
+      },
+      {
+        "ticker": "STX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Memory stock slipped on concerns about Toshiba's plans to capture larger market share"
+      },
+      {
+        "ticker": "WDC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Memory stock fell as market reacted to Toshiba's expansion plans in the memory market"
+      },
+      {
+        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as securing first-ever nuclear energy PPA with Constellation Energy, indicating participation in AI power demand, but not a primary focus of the article."
+        "sentiment_reasoning": "Google's nuclear power deal with Constellation Energy is strategically positive but stock movement not specifically detailed"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google's nuclear power deal with Constellation Energy is strategically positive but stock movement not specifically detailed"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google's nuclear power deal with Constellation Energy is strategically positive but stock movement not specifically detailed"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Google's nuclear power deal with Constellation Energy is strategically positive but stock movement not specifically detailed"
+      }
+    ]
+  },
+  {
+    "id": "f24e2b85831bab011f7fe5837f616cfd9c4c2369575f5423c46a888dfbcc1cf0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "The Nuclear Renaissance Explained: 3 Ways to Invest",
+    "author": "Ryan Vanzo",
+    "published_utc": "2026-10-02T17:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/02/the-nuclear-renaissance-explained-3-ways-to-invest/?source=iedfolrf0000001",
+    "tickers": [
+      "SMR",
+      "OKLO",
+      "CEG",
+      "URA",
+      "UX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881472%2Fgettyimages-2265332214-1201x572-b941ec5.jpg&w=1200&op=resize",
+    "description": "Wall Street firms predict a nuclear energy renaissance driven by AI data center demand, which is expected to increase power consumption by 175% by 2030. Investors can gain exposure through three approaches: small modular reactor (SMR) developers like NuScale and Oklo, nuclear utility operators like Constellation Energy, or uranium ETFs.",
+    "keywords": [
+      "nuclear energy",
+      "small modular reactors",
+      "AI data centers",
+      "uranium",
+      "clean energy",
+      "power consumption"
+    ],
+    "insights": [
+      {
+        "ticker": "SMR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned as a leading pure-play SMR developer with a viable business model selling to utility operators; offers faster and cheaper deployment than conventional nuclear plants."
+      },
+      {
+        "ticker": "OKLO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Direct exposure to high-growth AI data center market with a differentiated go-to-market strategy; benefits from tech companies' multi-billion dollar energy infrastructure investments."
+      },
+      {
+        "ticker": "CEG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Largest U.S. nuclear fleet operator with existing long-term power purchase agreements with major tech firms like Microsoft; actively restarting facilities and investing in SMR startups."
+      },
+      {
+        "ticker": "URA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Provides diversified uranium exposure with substantial assets ($5+ billion) and reasonable expense ratio (0.69%); benefits from nuclear energy's monopoly on uranium demand."
+      },
+      {
+        "ticker": "UX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offers uranium exposure but is relatively new with a higher expense ratio (0.77%), making it less attractive than alternatives despite exposure to growing uranium demand."
+      }
+    ]
+  },
+  {
+    "id": "8a2e3d948250bc3f51e0cc13f5df4aae0c0e5a3d77d80f8c40e909b109ba4ad8",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Talen Energy Expands Buyback Plan With $1.5B Accelerated Repurchase",
+    "author": "Na",
+    "published_utc": "2026-10-02T13:08:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2999517/talen-energy-expands-buyback-plan-with-1-5b-accelerated-repurchase?cid=CS-ZC-FT-analyst_blog|company_news_energy_sector-2999517",
+    "tickers": [
+      "TLN",
+      "CEG",
+      "VST"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b6/36351.jpg",
+    "description": "Talen Energy announced a $1.5 billion accelerated share repurchase (ASR) program expected to retire over 10% of outstanding shares by Q1 2027, with total repurchase authorization raised to $3 billion through 2028. The company will fund the buybacks through monetization of approximately $1.5 billion in cleared capacity revenues from PJM delivery years 2027-2029, while maintaining a target net leverage ratio of 3.5x by mid-2027. Talen Energy expects to generate $4 billion in adjusted free cash flow through 2028, supporting continued capital returns and strategic investments.",
+    "keywords": [
+      "share repurchase",
+      "accelerated share repurchase (ASR)",
+      "capital allocation",
+      "free cash flow",
+      "PJM capacity revenues",
+      "leverage ratio",
+      "shareholder returns",
+      "management transition"
+    ],
+    "insights": [
+      {
+        "ticker": "TLN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is executing aggressive shareholder return strategy with $1.5B ASR program and $3B total repurchase authorization through 2028. Strong projected cash flow generation of $4B through 2028 and expected reduction of share count by one-third supports positive outlook. Management transition is designed to ensure continuity in strategy and capital allocation."
+      },
+      {
+        "ticker": "CEG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is mentioned as a peer benefiting from similar long-term contracted cash flows, with recent 20-year power purchase agreement with Amazon for 190 MW of nuclear capacity at Calvert Cliffs, demonstrating strong positioning in energy market."
+      },
+      {
+        "ticker": "VST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is well-positioned to benefit from rising U.S. electricity demand through integrated retail and power generation platform, with 20-year agreements with Amazon and Meta supporting three nuclear plants in PJM, indicating strong long-term contracted revenue visibility."
       }
     ]
   }

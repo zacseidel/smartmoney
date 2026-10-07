@@ -1,394 +1,268 @@
 [
   {
-    "id": "66febe4723dfa1191ebfbb8976d9481ffadf357f444b5b3a91ab6f85903a12f1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The Investing Playbook for Retirees Who Can't Afford to Lose",
-    "author": "Dana George",
-    "published_utc": "2026-09-21T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/21/investing-playbook-for-retirees-who-cant-afford-to/?source=iedfolrf0000001",
-    "tickers": [
-      "JNJ",
-      "MA",
-      "KO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887980%2Finvesting.jpg&w=1200&op=resize",
-    "description": "The article provides a strategic framework for retirees on fixed incomes to protect their savings while managing inflation risk. It recommends a three-bucket approach: maintaining 12-24 months of expenses in cash/short-term fixed income, holding inflation-beating investments with dividend stocks, and allocating remaining funds to long-term growth stocks. The strategy emphasizes identifying essential expenses, calculating guaranteed income gaps, and using bond ladders and high-yield savings accounts to avoid forced asset sales during market downturns.",
-    "keywords": [
-      "retirement investing",
-      "portfolio diversification",
-      "risk management",
-      "fixed income",
-      "dividend stocks",
-      "cash reserves",
-      "market volatility",
-      "inflation protection",
-      "bucket strategy"
-    ],
-    "insights": [
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a high-quality dividend-paying equity suitable for retirees seeking inflation-beating returns in the second bucket of a conservative portfolio strategy."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as a high-quality dividend-paying equity recommended for retirees looking to maintain purchasing power and generate reliable income in a risk-conscious investment approach."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a high-quality dividend-paying equity appropriate for retirees seeking stable income and inflation protection within a conservative investment framework."
-      }
-    ]
-  },
-  {
-    "id": "be6bdc4ae8495ff133cdb151b7bcb79c344810fb2f5d1eb73b4c51e6d28c8005",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Greg Abel Has 75% of Berkshire Hathaway's Portfolio Invested in Just 8 Stocks. Is the 1 That's Lagging Behind the S&P 500 the Best Buy Now?",
-    "author": "Daniel Foelber",
-    "published_utc": "2026-09-17T10:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/17/greg-abel-berkshire-hathaway-american-express/?source=iedfolrf0000001",
-    "tickers": [
-      "BRK.A",
-      "BRK.B",
-      "AXP",
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "KO",
-      "MCO",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "CVX",
-      "OXY",
-      "OXY.WS",
-      "V",
-      "MA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887380%2Fa-person-smiles-while-holding-a-credit-card-and-sitting-in-front-of-a-laptop-computer.jpg&w=1200&op=resize",
-    "description": "Under new CEO Greg Abel, Berkshire Hathaway has concentrated 75% of its $365.2 billion equity portfolio into 8 stocks. American Express is the only one lagging the S&P 500 over the past year due to margin compression from high cardholder rewards and marketing expenses. Despite these headwinds, the article argues American Express offers compelling value at 19.7x trailing earnings for long-term investors who believe in its business model.",
-    "keywords": [
-      "Berkshire Hathaway",
-      "Greg Abel",
-      "portfolio concentration",
-      "American Express",
-      "margin compression",
-      "cardholder rewards",
-      "valuation"
-    ],
-    "insights": [
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Article discusses portfolio strategy under new CEO without expressing strong positive or negative outlook on the company itself."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Article discusses portfolio strategy under new CEO without expressing strong positive or negative outlook on the company itself."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite underperformance vs S&P 500, article highlights strong fundamentals (double-digit revenue/EPS growth, record spending levels, raised guidance), attractive valuation at 19.7x earnings, and positions it as 'arguably the best buy' among Berkshire's top holdings despite margin pressure concerns."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a top-5 holding identified by Abel as a company Berkshire expects to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Catapulted to top-five holding under Abel; identified as a company expected to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Catapulted to top-five holding under Abel; identified as a company expected to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Catapulted to top-five holding under Abel; identified as a company expected to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Catapulted to top-five holding under Abel; identified as a company expected to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a company Berkshire expects to compound for decades; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "MCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a company Berkshire expects to compound for decades; part of concentrated portfolio strategy."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "OXY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "OXY.WS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Core holding representing 75% of portfolio; has outperformed S&P 500 in the past year."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as comparison to American Express; noted as pure-play payment processor with different business model and lower vulnerability to economic downturns."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as comparison to American Express; noted as pure-play payment processor with different business model and lower vulnerability to economic downturns."
-      }
-    ]
-  },
-  {
-    "id": "b192d15e7c7484c70d67340da2f288ace51323bde197488f136fa3e0cbcbb7da",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "What Would It Actually Take to Move Visa's Take Rate?",
-    "author": "Eric Volkman",
-    "published_utc": "2026-09-17T09:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/17/what-would-it-actually-take-to-move-visas-take-rat/?source=iedfolrf0000001",
-    "tickers": [
-      "V",
-      "MA",
-      "AXP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886642%2Fperson-holding-payment-card-while-using-a-laptop-pc.jpg&w=1200&op=resize",
-    "description": "Visa's take rate\u2014the percentage of revenue collected from gross payment volume\u2014is less than 0.3%, which appears low but is intentional given its open-loop business model where it acts as a transaction facilitator rather than a credit provider. While the company could theoretically increase its take rate through higher processing fees, cross-border commerce expansion, or reduced client incentives, analyst Eric Volkman argues the current model works brilliantly and requires only minor tweaks, as aggressive moves could alienate merchants, issuers, and cardholders in a competitive market.",
-    "keywords": [
-      "take rate",
-      "payment processing",
-      "open-loop operator",
-      "merchant discount rate",
-      "business model",
-      "transaction fees"
-    ],
-    "insights": [
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article praises Visa's business model as 'brilliant' and notes its strong historical performance, outpacing the S&P 500. The author suggests the current model is effective and requires only minor tweaks, indicating confidence in the company's strategy."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mastercard is mentioned as a comparable competitor with a similar open-loop business model but receives no specific analysis or commentary regarding its performance or strategy."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "American Express is mentioned as a closed-loop competitor offering comparable credit card products, but receives no specific performance analysis or sentiment-driven commentary."
-      }
-    ]
-  },
-  {
-    "id": "013a243eb6e4fb9caefa6e2abd8b16611956d4b9c481e8a87eccbbdb5010cba2",
+    "id": "2f71098b2f395adb5c897154035c481c04f900d0df331a5d502f6783233b81ae",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Visa vs. Mastercard: Which Payment Stock Has More Upside?",
+    "title": "Visa is Betting on Stablecoins and AI: Why Should Investors Care?",
     "author": "Na",
-    "published_utc": "2026-09-16T16:12:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2990877/visa-vs-mastercard-which-payment-stock-has-more-upside?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2990877",
+    "published_utc": "2026-10-05T15:40:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000471/visa-is-betting-on-stablecoins-and-ai-why-should-investors-care?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3000471",
     "tickers": [
       "V",
-      "MA"
+      "MA",
+      "AXP"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/17/182.jpg",
-    "description": "Visa and Mastercard both benefit from the secular shift toward digital payments and cross-border transactions. While Visa shows strong value-added services growth (34% YoY) and expanding AI-driven services, Mastercard demonstrates faster EPS growth expectations (16.8% vs 14.7%), higher value-added services revenue contribution (41.2% of total), and strategic advantages through its Agent Pay platform and BVNK acquisition. Mastercard is rated as the more attractive opportunity despite both stocks carrying a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8c/1033.jpg",
+    "description": "Visa's stablecoin-linked payment volume surged nearly 200% year-over-year, with 17% coming from business and commercial card programs. The company now supports over 160 stablecoin-linked card programs across nine blockchains, with settlement volume reaching a $20 billion annualized run rate. Beyond stablecoins, Visa is expanding into value-added services and agentic commerce, supported by strong cash generation and steady earnings growth.",
     "keywords": [
-      "digital payments",
-      "cross-border transactions",
-      "value-added services",
-      "AI-driven commerce",
       "stablecoins",
-      "payment networks",
+      "payment volume",
+      "business payments",
+      "blockchain settlement",
+      "value-added services",
+      "agentic commerce",
+      "cross-border payments",
+      "cash flow",
       "earnings growth"
     ],
     "insights": [
       {
         "ticker": "V",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong 10% YoY growth in payments volume and processed transactions, 34% YoY value-added services revenue growth, expanding AI consulting (1,200 projects), and new payment rails through Visa Direct and stablecoin platform. However, margin compression and rising operating expenses present headwinds."
+        "sentiment_reasoning": "Visa demonstrates strong growth momentum with 200% YoY stablecoin volume increase, expanding addressable payment flows, solid cash generation ($16.3B operating cash flow), consistent earnings beat (4 consecutive quarters), and multiple emerging growth avenues including value-added services and agentic commerce. Zacks Rank #2 (Buy) rating with analyst price target implying 16.7% upside supports positive outlook."
       },
       {
         "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Faster expected EPS growth (16.8% vs 14.7%), 20% YoY value-added services growth representing 41.2% of total revenues, strategic Agent Pay platform for AI-driven transactions, and BVNK acquisition expanding digital asset capabilities. Outperformed Visa over past 3 months with 16.1% upside potential vs Visa's 12.2%."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mastercard is mentioned only as a comparative peer, trading at 24.87X forward P/E. No specific performance data or developments are discussed, warranting a neutral stance based on limited information in the article."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "American Express is mentioned only as a comparative peer with YTD performance of -18.2%. No specific developments or analysis is provided, warranting a neutral stance based on limited contextual information."
       }
     ]
   },
   {
-    "id": "b3a58b42d612e8c5aca11024a49c86361c37a269a78da63173e428583b9b1ed0",
+    "id": "ef1500e812de188d655351477cdaa16131fa82e67480cc6332267539ccb56cdc",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "PayPal Is 83% Below Its High. Here's What Would Send the Stock Back There.",
+    "author": "Neil Patel",
+    "published_utc": "2026-10-02T09:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/02/paypal-stock-down-high-what-would-send-it-back/?source=iedfolrf0000001",
+    "tickers": [
+      "PYPL",
+      "AAPL",
+      "V",
+      "MA",
+      "AXP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889197%2Fperson-holding-phone-with-paypal-app-2_paypal.jpg&w=1200&op=resize",
+    "description": "PayPal stock has plummeted 83% from its July 2021 peak of $305.13, despite solid fundamentals including 56% growth in payment volume and 64% growth in free cash flow over five years. The main concern is weakness in the company's branded checkout solution, which grew only 2% in recent quarters, suggesting loss of market share to competitors like Apple Pay and potential sensitivity to consumer discretionary spending. For the stock to recover, the branded checkout segment must accelerate, though the author remains skeptical of a full recovery to previous highs.",
+    "keywords": [
+      "digital payments",
+      "fintech",
+      "branded checkout",
+      "payment volume",
+      "competitive pressure",
+      "valuation",
+      "free cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "PYPL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock trading 83% below all-time high with weak growth in core branded checkout segment (only 2% TPV growth). While fundamentals show improvement in overall metrics, the company faces intense competition and potential loss of market relevance. Author explicitly states they would not bet on stock recovering to peak price."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a significant competitive threat to PayPal through Apple Pay, leveraging its embedded advantage in popular hardware devices, indicating strong competitive positioning in digital payments."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Referenced as a successful, lucrative business in the payments industry, implying strong market position and profitability in the payments sector."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Referenced as a successful, lucrative business in the payments industry, implying strong market position and profitability in the payments sector."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Referenced as a successful, lucrative business in the payments industry, implying strong market position and profitability in the payments sector."
+      }
+    ]
+  },
+  {
+    "id": "b943451bd18f8cecb2148373ed9277e1e629fdd54ff88a8fcb47d42143e3180a",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Warren Buffett's Record: $1,000 Became About $61 Million. Can Greg Abel Keep Compounding It?",
+    "author": "Stefon Walters",
+    "published_utc": "2026-09-30T23:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/30/warren-buffetts-record-1000-became-about-61-millio/?source=iedfolrf0000001",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMZN",
+      "V",
+      "MA",
+      "UNH",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888918%2Fbrk.png&w=1200&op=resize",
+    "description": "Warren Buffett stepped down as Berkshire Hathaway chairman in September 2026, ending an era of exceptional returns (6,099,294% since 1965). New CEO Greg Abel faces the challenge of maintaining growth, but Berkshire's massive $1.1 trillion size makes repeating historical 19.7% annual returns virtually impossible. The company has underperformed the S&P 500 over the past decade and is sitting on $365.6 billion in cash while making strategic portfolio shifts.",
+    "keywords": [
+      "Warren Buffett",
+      "Greg Abel",
+      "Berkshire Hathaway leadership transition",
+      "investment returns",
+      "portfolio performance",
+      "company size constraints",
+      "cash reserves"
+    ],
+    "insights": [
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire doubled down on Alphabet as its third-largest holding, indicating confidence in the company's prospects under new leadership."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire doubled down on Alphabet as its third-largest holding, indicating confidence in the company's prospects under new leadership."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire doubled down on Alphabet as its third-largest holding, indicating confidence in the company's prospects under new leadership."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Berkshire doubled down on Alphabet as its third-largest holding, indicating confidence in the company's prospects under new leadership."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire completely dumped its entire stake in Amazon, signaling reduced confidence in the company's future performance."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire exited its entire position in Visa, indicating a strategic shift away from the company."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire completely divested from Mastercard, suggesting reduced conviction in the payment processor's outlook."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire eliminated its entire stake in UnitedHealth Group as part of recent portfolio restructuring."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Berkshire has an exceptional historical track record under Buffett, the article suggests future returns will be more modest under Abel due to the company's massive size. The stock is described as a 'defensive holding' with expectations of ~10% annual returns, which is solid but not exceptional."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Berkshire has an exceptional historical track record under Buffett, the article suggests future returns will be more modest under Abel due to the company's massive size. The stock is described as a 'defensive holding' with expectations of ~10% annual returns, which is solid but not exceptional."
+      }
+    ]
+  },
+  {
+    "id": "6742594e5cf91b8b53f19f1a156598b71b513ae51f845be33bbbe0b589f6e999",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Visa Finds Online Spending Gaining Ground Across Key Markets",
+    "title": "Why MasterCard (MA) Dipped More Than Broader Market Today",
     "author": "Na",
-    "published_utc": "2026-09-15T13:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2989723/visa-finds-online-spending-gaining-ground-across-key-markets?cid=CS-ZC-FT-analyst_blog|quick_take-2989723",
+    "published_utc": "2026-09-30T20:50:04Z",
+    "article_url": "https://www.zacks.com/stock/news/2998515/why-mastercard-ma-dipped-more-than-broader-market-today?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v1-2998515",
     "tickers": [
-      "V",
-      "MA",
-      "AXP"
+      "MA"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ea/165565.webp",
-    "description": "Visa reports that the 'couch economy'\u2014home-centered spending on online shopping, streaming, food delivery, and subscriptions\u2014has become a lasting consumer behavior trend. U.S. online and in-app payment volume reached 58% in 2026 from 48% in 2019. This shift benefits payment processors through increased digital transaction volumes and recurring spending, though Visa trades at a premium valuation of 25.18X forward P/E versus the industry average of 17.69X and carries a Zacks Rank #3 (Hold).",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default188.jpg",
+    "description": "MasterCard (MA) declined 2.15% in recent trading and has lost 3.02% over the past month. The company is expected to report strong earnings growth of 17.12% EPS and 11.86% revenue increase for the upcoming quarter. However, MA trades at a Forward P/E of 28.32, significantly above its industry average of 13.68, and carries a Zacks Rank #3 (Hold) rating. The Financial Transaction Services industry ranks in the bottom 33% of all industries.",
     "keywords": [
-      "couch economy",
-      "digital payments",
-      "online shopping",
-      "streaming subscriptions",
-      "food delivery",
-      "payment networks",
-      "recurring spending"
+      "MasterCard",
+      "stock decline",
+      "earnings growth",
+      "valuation premium",
+      "Zacks Rank",
+      "Financial Transaction Services"
     ],
     "insights": [
       {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Visa benefits from the structural shift toward digital, online, and subscription-based spending. Research shows consistent growth in online/in-app payment volumes across all markets studied (2019-2026), with U.S. reaching 58%. This increases transaction activity and demand for Visa's services. However, positive sentiment is tempered by premium valuation and Hold rating."
-      },
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While MasterCard shows strong expected earnings growth (17.12% EPS, 11.86% revenue increase), the stock is trading at a significant valuation premium (Forward P/E of 28.32 vs. industry average of 13.68) and has a PEG ratio of 1.61 above the industry average of 0.76. The Zacks Rank #3 (Hold) rating and recent price decline of 2.15% reflect balanced concerns about overvaluation despite positive fundamentals."
+      }
+    ]
+  },
+  {
+    "id": "6589bed06af9e524378f548b14b4cd88c1206c3a534f9660e14d9308d145ea35",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Mastercard Expands B2B Payments With AI-Powered Analytics",
+    "author": "Na",
+    "published_utc": "2026-09-29T14:09:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2997686/mastercard-expands-b2b-payments-with-ai-powered-analytics?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2997686",
+    "tickers": [
+      "MA",
+      "AGRPY"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/86/1526.jpg",
+    "description": "Mastercard has introduced Advanced B2B Analytics, an AI-powered platform designed to help banks identify suppliers more likely to accept card payments. The solution uses propensity scoring and enriched data to optimize commercial card adoption. Absa Group and Emirates NBD are among early adopters. With an estimated $80 trillion B2B payments opportunity, this initiative positions Mastercard to deepen its presence in corporate payments and increase card transaction volumes.",
+    "keywords": [
+      "B2B payments",
+      "commercial cards",
+      "AI analytics",
+      "payment acceptance",
+      "supplier identification",
+      "accounts payable",
+      "financial technology"
+    ],
+    "insights": [
       {
         "ticker": "MA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Mastercard gains from increased digital purchases, higher transaction volumes, and stronger demand for value-added services like tokenization and fraud prevention. The couch economy trend is identified as a broad tailwind for the payments industry."
+        "sentiment_reasoning": "Mastercard is launching an innovative AI-powered platform that addresses a key market challenge, targets a massive $80 trillion addressable opportunity, and has already secured adoption from major financial institutions. The initiative strengthens its position in B2B payments and provides new revenue avenues through data and value-added services."
       },
       {
-        "ticker": "AXP",
+        "ticker": "AGRPY",
         "sentiment": "positive",
-        "sentiment_reasoning": "American Express benefits from increased card spending, merchant fees, and deeper customer engagement. Its closed-loop model provides transaction data advantages for targeted offers and merchant services, positioning it well for the couch economy trend."
+        "sentiment_reasoning": "Absa Group is among the first institutions to offer Advanced B2B Analytics to corporate clients, positioning it as an early adopter of cutting-edge payment technology that can enhance its commercial banking capabilities and client value proposition."
       }
     ]
   }

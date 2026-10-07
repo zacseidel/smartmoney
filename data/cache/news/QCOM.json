@@ -1,351 +1,225 @@
 [
   {
-    "id": "83330ad6df6a9cd8c5bc685138695b05faac41203fb1759dd6ebf246d4218ed4",
+    "id": "332299e1d5c84e4dbcb517501c6cb1e577747332026bae80c4e0cb64b3e2a35f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+    "author": "Marc Guberti",
+    "published_utc": "2026-10-06T18:44:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?source=iedfolrf0000001",
+    "tickers": [
+      "QCOM",
+      "AMZN",
+      "META",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890154%2Fgettyimages-1492319884-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "Qualcomm is positioning itself for significant growth in 2027 through its pivot into AI infrastructure, with deals secured from Amazon and Meta Platforms. The company expects non-handset revenue to grow over 60% in fiscal 2027 and projects a $200 billion CPU market opportunity by fiscal 2029, yet trades at a modest 23 P/E ratio that undervalues its growth potential.",
+    "keywords": [
+      "AI infrastructure",
+      "chip demand",
+      "data center products",
+      "hyperscaler partnerships",
+      "revenue growth",
+      "energy efficiency"
+    ],
+    "insights": [
+      {
+        "ticker": "QCOM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is pivoting successfully into high-growth AI infrastructure with secured multiyear deals from major tech giants (Amazon, Meta), expecting 60%+ non-handset revenue growth in fiscal 2027 and multibillion-dollar AI revenue targets. Stock valuation appears underappreciated relative to growth prospects."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a customer securing a multiyear deal with Qualcomm for AWS AI infrastructure support, indicating positive business activity but no direct impact on Amazon's core business highlighted."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as securing a similar multiyear deal with Qualcomm for AI infrastructure, demonstrating partnership activity but no specific impact on Meta's business performance discussed."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor selling out AI chip supply, creating market opportunity for Qualcomm, but no direct negative or positive sentiment expressed about Nvidia itself."
+      }
+    ]
+  },
+  {
+    "id": "bf0440e0c5f7151e1e56bdea3f2e9f196c369dd0a421850e13ef0a5131ebea5b",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can Intel's Core Ultra Expansion With Googlebook Benefit the Stock?",
+    "title": "TXN Surges 67% Over the Past Year: Is the Stock Still Worth Buying?",
     "author": "Na",
-    "published_utc": "2026-09-22T15:22:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993832/can-intel-s-core-ultra-expansion-with-googlebook-benefit-the-stock?cid=CS-ZC-FT-analyst_blog|quick_take-2993832",
+    "published_utc": "2026-10-06T13:29:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3001031/txn-surges-67-over-the-past-year-is-the-stock-still-worth-buying?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001031",
     "tickers": [
-      "INTC",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "QCOM",
-      "AMD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/60/445.jpg",
-    "description": "Intel has extended its Core Ultra platform to new Googlebook laptops from Acer, ASUS, and Lenovo, powered by Intel Core Ultra Series 3 processors built on 18A process technology. These processors integrate CPU, GPU, and NPU architectures for AI-enabled workloads and feature enhanced connectivity including Wi-Fi 7, Bluetooth 6.0, and Thunderbolt. Intel faces competition from Qualcomm's Snapdragon X2 and AMD's Ryzen AI processors in the growing AI PC market.",
-    "keywords": [
-      "Core Ultra Series 3",
-      "Googlebook laptops",
-      "18A process technology",
-      "AI processors",
-      "PC market competition",
-      "Wi-Fi 7",
-      "Snapdragon X2",
-      "Ryzen AI"
-    ],
-    "insights": [
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Intel is launching advanced Core Ultra Series 3 processors with AI capabilities and enhanced connectivity features. The company has shown strong stock performance (323.4% over past year) and earnings estimates have increased significantly for 2026-2027, indicating positive market outlook."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is collaborating with Intel on Googlebook laptops but is not the primary focus of the announcement. The partnership is presented as a continuation of over a decade of collaboration without specific performance metrics or strategic implications highlighted."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is collaborating with Intel on Googlebook laptops but is not the primary focus of the announcement. The partnership is presented as a continuation of over a decade of collaboration without specific performance metrics or strategic implications highlighted."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is collaborating with Intel on Googlebook laptops but is not the primary focus of the announcement. The partnership is presented as a continuation of over a decade of collaboration without specific performance metrics or strategic implications highlighted."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is collaborating with Intel on Googlebook laptops but is not the primary focus of the announcement. The partnership is presented as a continuation of over a decade of collaboration without specific performance metrics or strategic implications highlighted."
-      },
-      {
-        "ticker": "QCOM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Qualcomm is mentioned as a competitor with its Snapdragon X2 processors and expanding PC portfolio. While competitive, there is no negative or positive sentiment expressed; it is presented as a neutral competitive alternative."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AMD is mentioned as a competitor with Ryzen AI processors for consumer and business PCs. Like Qualcomm, it is presented as a neutral competitive alternative without specific performance comparisons or negative implications."
-      }
-    ]
-  },
-  {
-    "id": "5fd77e3c16bc0be59739f710f26827d4e9f7532b69e1c8ed2b562b1d8cbe8d04",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "The Global Semiconductor Market Accelerates as AI Computing, Advanced Nodes and Automotive Electronics Reshape Global Chip Demand",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-21T22:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/21/3365916/0/en/the-global-semiconductor-market-accelerates-as-ai-computing-advanced-nodes-and-automotive-electronics-reshape-global-chip-demand.html",
-    "tickers": [
-      "INTC",
-      "TSM",
-      "NVDA",
+      "TXN",
       "AVGO",
       "QCOM",
-      "MU"
+      "NVDA"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global semiconductor market is projected to grow from USD 758.13 billion in 2025 to USD 2,776.21 billion by 2035, with a CAGR of 13.86%. Growth is driven by AI, 5G deployment, automotive electronics, and advanced process nodes. The U.S. market is expected to reach USD 1,013.43 billion by 2035. Memory devices and networking/communications dominate the market, while automotive is the fastest-growing application segment.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/23/4158.jpg",
+    "description": "Texas Instruments (TXN) has surged 66.6% over the past year, outperforming peers like Broadcom, QUALCOMM, and NVIDIA. Despite premium valuation (P/E of 30.99), the company's strong Q2'26 results (23% revenue growth, 52% EPS growth), doubling data center revenues, and $7.5-9.5B in government manufacturing incentives support further upside potential. Analysts maintain a Buy rating citing expanding AI infrastructure exposure and robust cash generation.",
     "keywords": [
-      "semiconductor market",
-      "artificial intelligence",
-      "5G technology",
-      "automotive electronics",
-      "advanced process nodes",
-      "memory devices",
-      "cloud computing",
-      "IoT",
-      "electric vehicles",
-      "supply chain resilience"
+      "Texas Instruments",
+      "semiconductor",
+      "AI infrastructure",
+      "data center",
+      "earnings growth",
+      "manufacturing expansion",
+      "CHIPS Act",
+      "valuation",
+      "cash flow"
     ],
     "insights": [
       {
-        "ticker": "INTC",
+        "ticker": "TXN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Intel Foundry Services secured defense customers for its advanced 18A process under the U.S. Department of Defense RAMP-C program, demonstrating competitive positioning in advanced manufacturing and government support."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major semiconductor manufacturer in Taiwan with significant market share, well-positioned to capitalize on growing demand for advanced process nodes and AI computing chips."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key competitor in the semiconductor market with strong positioning in AI and high-performance computing, which are primary growth drivers for the industry."
+        "sentiment_reasoning": "Strong financial performance with 23% revenue growth and 52% EPS growth in Q2'26. Data center revenues doubled year-over-year. Significant AI infrastructure exposure, substantial free cash flow ($6.53B), government support for manufacturing expansion, and consistent shareholder returns support continued growth despite premium valuation."
       },
       {
         "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key competitor with exposure to networking, communications, and data center markets, which represent 28.8% of the semiconductor market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point. While it has underperformed TXN (7.8% vs 66.6% gain), it trades at a lower P/E multiple (19.56 vs 30.99), suggesting it is not the focus of this analysis."
       },
       {
         "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in semiconductor market with exposure to 5G, IoT, and automotive electronics, which are identified as major growth opportunities."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Memory device manufacturer positioned to benefit from memory devices being the fastest-growing component segment, driven by AI, data centers, and cloud computing."
-      }
-    ]
-  },
-  {
-    "id": "658feb876cc3607d766d1a1ea683e9bd9c2e2725528cec7dbe48378cad1ec8d2",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus",
-    "author": "Na",
-    "published_utc": "2026-09-21T13:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992824/u-s-china-talks-seem-successful-etf-areas-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-2992824",
-    "tickers": [
-      "QCOM",
-      "INTC",
-      "MU",
-      "AMAT",
-      "NVDA",
-      "AAPL",
-      "WMT",
-      "TGT",
-      "BBY",
-      "COST",
-      "TSLA",
-      "SMH",
-      "XRT",
-      "RTH",
-      "CARZ"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg",
-    "description": "Ahead of an expected Trump-Xi meeting in Washington, U.S.-China trade negotiations focusing on tariff reductions and AI could benefit semiconductor, technology, retail, and auto sectors. Companies with significant China exposure including Qualcomm, Intel, Micron, Applied Materials, NVIDIA, Apple, Walmart, Target, Best Buy, Costco, and Tesla may see positive sentiment if trade tensions ease.",
-    "keywords": [
-      "U.S.-China trade talks",
-      "tariffs",
-      "semiconductors",
-      "AI chips",
-      "retail",
-      "automobiles",
-      "Trump-Xi meeting",
-      "trade negotiations"
-    ],
-    "insights": [
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China revenue exposure; semiconductor tariff reductions could improve margins and sales"
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major China exposure in semiconductor sales; potential tariff relief could boost revenue"
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor company with substantial China business; trade deal could ease restrictions"
-      },
-      {
-        "ticker": "AMAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor equipment supplier with China exposure; tariff reductions could increase sales"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a peer comparison with 9.3% one-year return and lower P/E ratio (17.97), but not analyzed in detail as the article focuses on TXN."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI chip exports to China are central to trade discussions; broader agreement could unlock significant sales potential"
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Extensive China manufacturing and supply chain exposure; easing tensions could reduce costs and improve margins"
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Large sourcing from China; reciprocal tariff reductions could lower consumer goods costs"
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sourcing; tariff relief could reduce imported goods costs"
-      },
-      {
-        "ticker": "BBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Consumer electronics retailer vulnerable to tariffs; trade deal could lower import costs"
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major retailer with China sourcing; tariff reductions could improve pricing and margins"
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sales and manufacturing through Shanghai Gigafactory; trade normalization could boost operations"
-      },
-      {
-        "ticker": "SMH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor ETF; tariff reductions on chips would benefit holdings"
-      },
-      {
-        "ticker": "XRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; tariff reductions on imported consumer goods would benefit retailers"
-      },
-      {
-        "ticker": "RTH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; lower tariffs on China-sourced goods would improve margins"
-      },
-      {
-        "ticker": "CARZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Auto ETF; U.S. automakers have substantial China exposure; trade normalization would benefit sector"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison with 29.6% one-year return and lower P/E ratio (17.67). Noted as a direct AI accelerator competitor, but TXN's indirect AI infrastructure play is positioned as advantageous."
       }
     ]
   },
   {
-    "id": "9898b6270ab8b704c3450ffe45fef7f93f8d3a618613a43dceb901ecc4d3f311",
+    "id": "728d5f5c21028716793b769e6c855cd5805cc2edb1c6247caddb858e31cfa0ec",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-10-04T05:20:12Z",
+    "article_url": "https://www.fool.com/coverage/charts/2026/10/04/micron-technology-vs-qualcomm-what-revenue-trends-tell-investors-about-these-tech-companies/?source=iedfolrf0000001",
+    "tickers": [
+      "MU",
+      "QCOM",
+      "AMZN",
+      "AAPL"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Fmu-qcom%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Fmu-qcom_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
+    "description": "Micron Technology's revenue surged 432% over two years, reaching $41.5 billion in Q2 2026, driven by AI boom demand for memory chips. Meanwhile, Qualcomm's revenue declined in 2026 due to rising component prices compressing margins and reducing smartphone demand. Qualcomm is pivoting toward AI data centers to offset mobile business headwinds.",
+    "keywords": [
+      "revenue trends",
+      "artificial intelligence",
+      "semiconductor memory",
+      "wireless communication",
+      "margin compression",
+      "AI data center",
+      "smartphone demand"
+    ],
+    "insights": [
+      {
+        "ticker": "MU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional revenue acceleration with 432% growth over two years, explosive Q1-Q2 2026 performance ($23.9B and $41.5B), strategic partnerships with major automakers, and critical positioning in the AI boom."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Revenue declined in 2026 after consistent growth, facing margin compression from rising memory component prices, reduced smartphone demand, and loss of market share to competitors benefiting from AI trends. Company is forced to pivot business strategy toward AI data centers."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a new Qualcomm customer for AI data center services, indicating Qualcomm's strategic shift, but no direct impact on Amazon's business performance discussed."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in context of Qualcomm's patent licensing agreement renewal, but no specific business impact or sentiment indicators provided."
+      }
+    ]
+  },
+  {
+    "id": "ffc46b0aa42a49926c5482ca57eafdd024b0ca3b3a9097f1ab2ca1d278163556",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+    "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
     "author": "Na",
-    "published_utc": "2026-09-17T15:40:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2991476/qualcomm-faces-margin-pressure-from-rising-costs-can-it-recover?cid=CS-ZC-FT-analyst_blog|quick_take-2991476",
+    "published_utc": "2026-10-02T20:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/2999674/why-qualcomm-qcom-outpaced-the-stock-market-today?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2999674",
     "tickers": [
-      "QCOM",
-      "INTC",
-      "AMD"
+      "QCOM"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a9/209.jpg",
-    "description": "Qualcomm is experiencing significant margin compression in its QCT business due to higher semiconductor input costs, weaker smartphone demand, and unfavorable product mix. The company expects QCT EBT margins to decline to 23-25% in Q4 fiscal 2026 from 26% in Q3, with fixed-price contracts delaying benefits from price increases. Apple-related revenue is expected to decline 50% sequentially, while competitors Intel and AMD are showing stronger performance in data center and AI segments.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default44.jpg",
+    "description": "Qualcomm (QCOM) closed at $184.87, up 1.53%, outperforming the S&P 500. However, the chipmaker faces headwinds with projected EPS declining 27% and revenue falling 9.83% for the upcoming quarter. The stock carries a Zacks Rank #4 (Sell) rating, though it trades at a Forward P/E of 18.17, below its industry average of 39.71.",
     "keywords": [
-      "margin pressure",
-      "semiconductor costs",
-      "smartphone demand",
-      "QCT business",
-      "Apple revenue decline",
-      "data center",
-      "AI computing",
-      "pricing actions"
+      "Qualcomm",
+      "QCOM",
+      "earnings decline",
+      "chipmaker",
+      "Zacks Rank",
+      "valuation",
+      "semiconductor industry"
     ],
     "insights": [
       {
         "ticker": "QCOM",
         "sentiment": "negative",
-        "sentiment_reasoning": "Facing near-term margin compression with QCT EBT margins declining from 30% to expected 23-25%, handset revenue down 20% YoY, and significant Apple revenue decline of ~50% expected. Fixed-price contracts will delay margin recovery for several quarters."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Showing strong operational performance with Non-GAAP operating income of $2.77B vs. loss of $0.5B YoY, driven by strong demand in Client Computing (AI PCs up 26% sequentially) and Data Center segments (up 59% YoY)."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Operating income jumped 245% to $3.09B with operating margin widening to 27%. Data Center segment showed strong recovery with $2.1B operating income vs. $155M loss YoY. Embedded segment margin improved to 40% with x86 products becoming a meaningful growth driver."
+        "sentiment_reasoning": "Qualcomm received a Zacks Rank #4 (Sell) rating due to declining earnings projections (27% EPS decrease and 9.83% revenue decline for the upcoming quarter), combined with downward estimate revisions over the past month. Despite trading at a valuation discount to peers, the negative earnings outlook and sell rating indicate unfavorable near-term prospects."
       }
     ]
   },
   {
-    "id": "3855b2832d7d993586b3bd06336a0ee7a3535fe6da0f49a8805b2788540b2604",
+    "id": "1dfa6451b401b81fef3f1ea4e64512dbcbf358442d5c8b4003af09c930ab6f16",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can INTC's AI Inference Advancements Strengthen Its Growth Prospects?",
+    "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
     "author": "Zacks.Com",
-    "published_utc": "2026-09-17T15:09:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2991437/can-intc-s-ai-inference-advancements-strengthen-its-growth-prospects?cid=CS-ZC-FT-analyst_blog|quick_take-2991437",
+    "published_utc": "2026-10-02T12:00:06Z",
+    "article_url": "https://www.zacks.com/stock/news/2999345/investors-heavily-search-qualcomm-incorporated-qcom-here-is-what-you-need-to-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-2999345",
     "tickers": [
-      "INTC",
-      "QCOM",
-      "AMD"
+      "QCOM"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e5/419.jpg",
-    "description": "Intel announced significant AI inference performance improvements with its latest MLPerf v6.1 results, showcasing 2.4x higher throughput on Xeon 6980P processors and expanded participation across five processor models. The company also demonstrated Arc Pro B70 GPU capabilities with 36% higher Server performance. Intel faces competition from Qualcomm and AMD in the AI infrastructure space, though its stock has surged 230.6% over the past year and currently holds a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default101.jpg",
+    "description": "Qualcomm has been heavily searched on Zacks.com and gained 8% over the past month, outperforming the S&P 500. However, the company faces headwinds with earnings expected to decline 27% year-over-year for the current quarter and 12.3% for the fiscal year. The stock has been assigned a Zacks Rank #4 (Sell) rating, suggesting it may underperform the broader market in the near term. Qualcomm's valuation is rated as fairly valued relative to peers.",
     "keywords": [
-      "AI inference",
-      "MLPerf v6.1",
-      "Xeon 6 processors",
-      "Arc Pro B70 GPUs",
-      "data center AI",
-      "performance optimization",
-      "large language models"
+      "Qualcomm",
+      "earnings decline",
+      "Zacks Rank #4 Sell",
+      "semiconductor industry",
+      "valuation",
+      "revenue growth"
     ],
     "insights": [
       {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Intel demonstrated substantial AI inference performance improvements with 2.4x higher throughput, expanded processor participation, and strong GPU capabilities. Stock has surged 230.6% over the past year, and earnings estimates have increased significantly (44.2% for 2026, 30.7% for 2027)."
-      },
-      {
         "ticker": "QCOM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Qualcomm is expanding into AI data-center infrastructure with its Dragonfly platform and Hexagon NPU technology, positioning itself as a competitor to Intel in the AI space, but no specific performance metrics or financial updates were provided."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AMD is strengthening its AI infrastructure with the Helios platform integrating Instinct GPUs and EPYC CPUs, and enhancing ROCm software, but no specific performance improvements or financial updates were mentioned in the article."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite recent stock gains of 8%, Qualcomm faces significant headwinds including a 27% year-over-year earnings decline for the current quarter, 12.3% decline for the fiscal year, and a Zacks Rank #4 (Sell) rating. Earnings estimate revisions have been slightly negative, and the company is expected to underperform the broader market in the near term."
       }
     ]
   }

@@ -1,187 +1,324 @@
 [
   {
-    "id": "d4c14d47b9352b65716661de1d81ced8a9efa569c8ac28ff08c6a8a99ce8bad7",
+    "id": "aac3ce225af52126374b26e44eb3be4506d3d53c1da427cd85e5a398b2cd71cc",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NextEra Energy (NEE) Laps the Stock Market: Here's Why",
+    "author": "Na",
+    "published_utc": "2026-10-06T20:45:05Z",
+    "article_url": "https://www.zacks.com/stock/news/3001357/nextera-energy-nee-laps-the-stock-market-here-s-why?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001357",
+    "tickers": [
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default213.jpg",
+    "description": "NextEra Energy (NEE) closed at $77.88, up 2.1%, outperforming the S&P 500. The stock has declined 8.57% over the past month, lagging its sector. Analysts project EPS growth of 6.19% and revenue growth of 13.65% for the upcoming quarter. NEE carries a Zacks Rank #3 (Hold) with a Forward P/E of 19, trading at a premium to its industry average of 16.68.",
+    "keywords": [
+      "NextEra Energy",
+      "stock performance",
+      "earnings forecast",
+      "valuation",
+      "Zacks Rank",
+      "utilities sector"
+    ],
+    "insights": [
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
+      }
+    ]
+  },
+  {
+    "id": "9b391bcf9ec2d3b14a760fc58e37d23a351c99d5611396d72693c797e1c15535",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can CEG's Amazon PPA Strengthen Its Long-Term Growth Prospects?",
+    "author": "Na",
+    "published_utc": "2026-10-02T12:00:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2999330/can-ceg-s-amazon-ppa-strengthen-its-long-term-growth-prospects?cid=CS-ZC-FT-analyst_blog|quick_take-2999330",
+    "tickers": [
+      "CEG",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "VST"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/78/189.jpg",
+    "description": "Constellation Energy Corporation (CEG) announced a 20-year, 690 MW power purchase agreement with Amazon, including approximately 190 MW of new nuclear capacity at Calvert Cliffs. In Q2 2026, CEG signed approximately 920 MW of long-term PPAs averaging 18.5 years with investment-grade customers. These agreements provide revenue visibility to support nuclear facility investments and capacity expansions expected to be completed by 2032.",
+    "keywords": [
+      "power purchase agreements",
+      "nuclear energy",
+      "long-term contracts",
+      "revenue visibility",
+      "capacity expansion",
+      "clean energy"
+    ],
+    "insights": [
+      {
+        "ticker": "CEG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "CEG secured significant long-term PPAs totaling over 1.6 GW with major customers (Amazon, Walmart), providing strong revenue visibility and enabling substantial capital investments ($5.7B in 2026) in nuclear capacity expansion and infrastructure improvements."
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+      },
+      {
+        "ticker": "VST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "VST's long-term PPAs with Meta enhance revenue visibility for its PJM nuclear assets and are expected to contribute to adjusted EBITDA starting in 2027, supporting financial growth."
+      }
+    ]
+  },
+  {
+    "id": "deb52ef1ce1498615fe11b36ed6cd629fac82efe1c935d4c9b8f7079ab3894d2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Google Goes Nuclear With Power Upgrade Agreement in Georgia",
-    "author": "John Bromels",
-    "published_utc": "2026-09-22T23:15:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/google-goes-nuclear-with-power-upgrade-agreement-in-georgia/?source=iedfolrf0000001",
+    "title": "Should You Forget NextEra Energy and Buy This Nuclear Stock Instead?",
+    "author": "Catie Hogan",
+    "published_utc": "2026-10-01T15:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/01/forget-nextera-energy-buy-nuclear-stock-ceg/?source=iedfolrf0000001",
     "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
+      "CEG",
       "NEE",
       "NEEpN",
       "NEEpS",
       "NEEpT",
       "NEEpU",
       "NEEpV",
-      "NEEpW",
-      "OKLO"
+      "NEEpW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa876241aec3dc03a7cc848ddc81ccf14eba48850-1200x675.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Google has partnered with Georgia Power to fund upgrades at existing nuclear plants (Vogtle and Hatch) to increase electricity capacity by approximately 96 megawatts. This move addresses growing opposition to AI data centers due to power grid strain concerns. Nuclear power is experiencing a resurgence as a viable energy source for AI infrastructure, with electricity demand outstripping supply and the Trump Administration opposing solar and wind development.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889095%2Fconstellation-and-nextera-logos-the-motley-fool.png&w=1200&op=resize",
+    "description": "The article argues that Constellation Energy (CEG) may be a better long-term investment than NextEra Energy (NEE) for growth-oriented investors. Constellation operates the most nuclear facilities in the U.S. and is well-positioned to serve data centers' power needs. Despite strong Q2 financials (23% revenue growth) and expansion plans, CEG stock has fallen 25% year-to-date, creating an attractive entry point with Wall Street's consensus price target of $347 suggesting significant upside potential.",
     "keywords": [
-      "AI data centers",
-      "nuclear power",
-      "electricity demand",
-      "infrastructure",
-      "power grid",
-      "energy capacity",
-      "uprates"
+      "nuclear energy",
+      "data centers",
+      "power generation",
+      "stock comparison",
+      "growth investment",
+      "dividend yield"
     ],
     "insights": [
       {
-        "ticker": "GOOG",
+        "ticker": "CEG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google is proactively addressing community opposition to AI data centers by investing in nuclear power infrastructure upgrades. This demonstrates strategic planning to secure reliable, long-term power supply for AI expansion while improving public perception of its projects."
+        "sentiment_reasoning": "Strong financial performance with 23% revenue growth, largest nuclear fleet in U.S., strategic expansion into data center power market, raised guidance, and significant upside potential from current depressed valuations despite recent 25% decline."
       },
       {
         "ticker": "NEE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
       },
       {
         "ticker": "NEEpW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NextEra Energy secured a $1.9 billion government loan guarantee to restart a nuclear plant in Iowa for Google's AI data center, indicating strong momentum in the nuclear-AI power sector."
-      },
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+      }
+    ]
+  },
+  {
+    "id": "c017fa3c7346d0c0f603c5b9aa7fe3cc4c2cca11388d9eacb549a329a74ef58b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
+    "author": "Na",
+    "published_utc": "2026-10-01T11:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2998777/can-oklo-turn-used-nuclear-fuel-into-a-scalable-business?cid=CS-ZC-FT-analyst_blog|quick_take-2998777",
+    "tickers": [
+      "OKLO",
+      "ETR",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/111300.jpg",
+    "description": "Oklo Inc. is developing an Advanced Fuel Center in Oak Ridge, TN, to recycle spent nuclear fuel with potential $1.68B investment and 800+ jobs. The project could recover up to 95% of fuel energy from the U.S.'s 100,000 metric tons of stored used fuel. However, commercial profitability remains unproven. Meanwhile, competitors like Entergy and NextEra Energy are pursuing traditional nuclear growth strategies focused on generation capacity and fuel supply rather than recycling.",
+    "keywords": [
+      "nuclear fuel recycling",
+      "Advanced Fuel Center",
+      "Oak Ridge Tennessee",
+      "spent nuclear fuel",
+      "nuclear energy",
+      "regulatory approval",
+      "commercial profitability"
+    ],
+    "insights": [
       {
         "ticker": "OKLO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Small modular reactor (SMR) companies like Oklo are positioned to benefit from the growing association between nuclear power and AI infrastructure development."
-      }
-    ]
-  },
-  {
-    "id": "becc760b8945cdea67ef47eda9171558118354002ca0db57c6fd84363d2a2215",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in NextEra (NEE) Based on Wall Street's Bullish Views?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-22T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2993596/is-it-worth-investing-in-nextera-nee-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2993596",
-    "tickers": [
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default268.jpg",
-    "description": "While Wall Street analysts maintain a bullish average brokerage recommendation (ABR) of 2.00 (Buy) for NextEra Energy with 55% Strong Buy ratings, the article cautions against relying solely on these recommendations. The Zacks Rank system, which is based on earnings estimate revisions, rates NEE as a Rank #4 (Sell) due to a 0.1% decline in consensus earnings estimates over the past month. The article argues that brokerage analysts often exhibit positive bias due to vested interests, making the Zacks Rank a more reliable indicator of near-term stock performance.",
-    "keywords": [
-      "NextEra Energy",
-      "brokerage recommendations",
-      "earnings estimate revisions",
-      "Zacks Rank",
-      "stock rating",
-      "analyst bias"
-    ],
-    "insights": [
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the fuel recycling project presents a significant long-term opportunity with $1.68B investment potential and 800+ jobs, the business case remains unproven. Stock has declined 71.2% over the past year, and the company carries a Zacks Rank #4 (Sell) rating. Regulatory approvals and commercial viability at scale are still uncertain."
+      },
+      {
+        "ticker": "ETR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Taking a traditional nuclear growth approach focused on existing fleet expansion, plant upgrades, and license extensions rather than innovative fuel recycling. Strategy is established and lower-risk but less transformative than competitors' approaches."
+      },
       {
         "ticker": "NEE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       },
       {
         "ticker": "NEEpW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 2.00 with 55% Strong Buy), NextEra received a Zacks Rank #4 (Sell) rating due to declining earnings estimate revisions (down 0.1% over the past month). The article suggests investors should be cautious about the Buy-equivalent ABR and rely instead on the more reliable Zacks Rank metric, which indicates near-term downside risk."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
       }
     ]
   },
   {
-    "id": "86c5a57ef1f153c3173673f4df91b5a8d7d1df8dd031fe7b3719a82569f25aa4",
+    "id": "1c25d3f365dd6b69f69ae9c0c0ce99a64e0745630deea3980b9d9d7267a2bd85",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Should You Invest in the iShares U.S. Utilities ETF (IDU)?",
-    "author": "Na",
-    "published_utc": "2026-09-22T10:20:01Z",
-    "article_url": "https://www.zacks.com/stock/news/2993404/should-you-invest-in-the-ishares-u-s-utilities-etf-idu?cid=CS-ZC-FT-sector_etf-2993404",
+    "title": "The Median Utility Bill is $363 a Month. Here's How Much You'd Need in NextEra Energy Stock to Cover It Every Month.",
+    "author": "Thomas Niel",
+    "published_utc": "2026-10-01T09:20:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/01/average-utility-bill-how-much-nextera-stock/?source=iedfolrf0000001",
     "tickers": [
-      "IDU",
       "NEE",
       "NEEpN",
       "NEEpS",
@@ -189,273 +326,59 @@
       "NEEpU",
       "NEEpV",
       "NEEpW",
-      "SO",
-      "SOJC",
-      "SOJD",
-      "SOJE",
-      "SOJF",
-      "SOMN",
-      "DUK",
-      "DUKB",
-      "DUKH",
-      "DUKU",
-      "DUKpA",
-      "VPU",
-      "XLU"
+      "D"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default94.jpg",
-    "description": "The iShares U.S. Utilities ETF (IDU) is a passively managed fund with $1.35 billion in assets tracking the Dow Jones U.S. Utilities Index. With a 0.38% expense ratio and 2.49% dividend yield, it offers diversified exposure to the utilities sector but has underperformed year-to-date, declining 2.57%. The fund holds 49 stocks with top positions in NextEra Energy (11.1%), Southern Company, and Duke Energy. Alternatives like Vanguard Utilities ETF (VPU) and State Street Utilities SPDR (XLU) offer lower expense ratios.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888785%2Fgettyimages-1808300749-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "U.S. households pay a median of $363 monthly ($4,356 annually) in utility bills, rising faster than inflation. An investor would need approximately 2,058 shares of NextEra Energy (worth ~$156,500) to generate enough dividend income to cover these costs after taxes. While NextEra has a 32-year dividend growth track record averaging 10%, management has guided for slower 6% growth going forward, and the pending Dominion Energy merger creates uncertainty.",
     "keywords": [
-      "utilities ETF",
-      "passive management",
-      "sector exposure",
-      "dividend yield",
-      "expense ratio",
-      "diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "IDU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The ETF offers reasonable diversification and competitive expense ratios, but has underperformed with a 2.57% year-to-date decline and a 'Hold' Zacks ETF Rank of 3. It represents a stable but not exceptional investment option."
-      },
-      {
-        "ticker": "NEE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Largest holding in IDU at 11.1% of assets, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SOJC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SOJD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SOJE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SOJF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "SOMN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "DUK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "DUKB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "DUKH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "DUKU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "DUKpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Third-largest holding in IDU, but no specific performance commentary provided in the article."
-      },
-      {
-        "ticker": "VPU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a competitive alternative with significantly lower expense ratio (0.09% vs 0.38%) and substantially larger assets ($7.94 billion), making it a more cost-efficient option."
-      },
-      {
-        "ticker": "XLU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a competitive alternative with the lowest expense ratio (0.08%) and the largest asset base ($21.04 billion) among the three utilities ETFs discussed."
-      }
-    ]
-  },
-  {
-    "id": "998e42bd6c2294843d95208a205ef979a984b8e8f05f5e6b8426feb73323a3a1",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "NextEra Energy (NEE) Gains But Lags Market: What You Should Know",
-    "author": "Na",
-    "published_utc": "2026-09-17T21:45:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2991641/nextera-energy-nee-gains-but-lags-market-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2991641",
-    "tickers": [
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default341.jpg",
-    "description": "NextEra Energy (NEE) closed at $81.28 with a modest +1.13% daily gain but has underperformed over the past month, declining 6.45%. The company is projected to report earnings of $1.17 per share with 3.54% year-over-year growth and revenue of $9.19 billion (+15.4% YoY). However, NEE carries a Zacks Rank #4 (Sell) rating with a Forward P/E of 20.21, trading at a premium to its industry average of 16.92.",
-    "keywords": [
-      "NextEra Energy",
-      "earnings report",
-      "stock performance",
-      "Zacks Rank",
-      "valuation metrics",
-      "utility sector"
-    ],
-    "insights": [
-      {
-        "ticker": "NEE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "NEE received a Zacks Rank #4 (Sell) rating despite positive earnings growth projections. The stock has underperformed significantly over the past month (-6.45%), trades at a premium valuation (Forward P/E of 20.21 vs. industry average of 16.92), and operates in a bottom 40% ranked industry. These factors collectively indicate bearish sentiment despite solid revenue growth expectations."
-      }
-    ]
-  },
-  {
-    "id": "c0356767f8a25ca19f20717625824b12c190520fcf14a78b1339acf800073a94",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "3 Utility Mutual Funds to Buy as Fed Rate Hike Looks Likely",
-    "author": "Na",
-    "published_utc": "2026-09-16T10:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2990336/3-utility-mutual-funds-to-buy-as-fed-rate-hike-looks-likely?cid=CS-ZC-FT-mutual_fund_commentary-2990336",
-    "tickers": [
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4a/337.jpg",
-    "description": "With oil prices rising and Treasury yields climbing, utility mutual funds are positioned as defensive investments. Three recommended funds\u2014Franklin Utilities (FKUTX), Cohen & Steers Global Infrastructure (CSUAX), and American Century Utilities Inv (BULIX)\u2014all carry Zacks Rank #1 ratings, offer dividend income, and have demonstrated solid 3-5 year returns with below-average expense ratios.",
-    "keywords": [
-      "utility mutual funds",
-      "inflation",
-      "interest rates",
-      "defensive investment",
+      "utility bills",
       "dividend income",
-      "infrastructure"
+      "NextEra Energy",
+      "dividend yield",
+      "renewable energy",
+      "dividend growth",
+      "Dominion Energy merger"
     ],
     "insights": [
       {
         "ticker": "NEE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
       },
       {
         "ticker": "NEEpW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant holding across all three recommended funds (5.6%-10.9%), indicating strong confidence in the company's utility sector position"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
+      },
+      {
+        "ticker": "D",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only in context of the pending merger with NextEra. The merger creates uncertainty regarding future dividend growth and integration outcomes, warranting a neutral stance without sufficient detail to determine positive or negative impact."
       }
     ]
   }

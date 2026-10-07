@@ -1,201 +1,265 @@
 [
   {
-    "id": "73c2e88347bf9bb1a34e0e0750180623250213f87bc8410b7f71ff35a8fce754",
+    "id": "6b74a7ab961e46535c40f0a100c6574045dfb06fe8eb9859cfa5f09df08f7440",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is McDonald's an Undervalued Dividend Stock to Buy Right Now?",
+    "title": "The 9 Best Stocks to Buy Right Now in October (2026)",
     "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-09-22T23:35:13Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/is-mcdonalds-an-undervalued-dividend-stock-to-buy/?source=iedfolrf0000001",
+    "published_utc": "2026-10-05T22:13:07Z",
+    "article_url": "https://www.fool.com/investing/2026/10/05/the-9-best-stocks-to-buy-right-now-in-october-2026/?source=iedfolrf0000001",
     "tickers": [
-      "MCD"
+      "META",
+      "MCD",
+      "NFLX",
+      "AMZN",
+      "NVDA",
+      "ADBE",
+      "V",
+      "UBER",
+      "PINS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888611%2Fmqdefault_custom_2-2.jpg&w=1200&op=resize",
-    "description": "McDonald's stock is trading at historically cheap valuations with a 3% dividend yield, the highest in over 6 years. The article suggests underlying business prospects are improving despite a challenging macroeconomic environment, presenting a potential buying opportunity for dividend investors.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890222%2Fmqdefault.webp&w=1200&op=resize",
+    "description": "The Motley Fool's analyst curates a list of nine stocks recommended for investment in October 2026, highlighting opportunities with favorable risk-versus-reward profiles. The selection includes major technology, consumer, and financial services companies, with stock prices referenced from October 3, 2026.",
     "keywords": [
-      "dividend stock",
-      "undervalued",
-      "McDonald's",
-      "valuation",
-      "yield",
-      "macroeconomic",
-      "franchise stocks"
+      "stock recommendations",
+      "October 2026",
+      "investment opportunities",
+      "risk-versus-reward",
+      "technology stocks",
+      "consumer stocks"
     ],
     "insights": [
       {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of 9 best stocks to buy, indicating analyst confidence in the company's investment potential"
+      },
+      {
         "ticker": "MCD",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article presents McDonald's as potentially undervalued with an attractive 3% dividend yield (highest in 6+ years) and improving underlying business prospects despite macroeconomic headwinds. The framing suggests it may be a buying opportunity rather than a value trap."
+        "sentiment_reasoning": "Featured in the recommended stock list with options positions held, suggesting positive outlook"
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst and Motley Fool positions"
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with options positions held by The Motley Fool"
+      },
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "UBER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with analyst position held"
+      },
+      {
+        "ticker": "PINS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst position held"
       }
     ]
   },
   {
-    "id": "44f374402b66ec6aba088fa94d66ab73da46f7cf3b8cc3d23433d79b51c2ea46",
+    "id": "f095c5003dd76564ccc7039bb91a1a88a00d1a40c635606289bbe2308c1d7696",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Value Wars Intensify: Can McDonald's Stay Ahead of QSR Rivals?",
+    "author": "Na",
+    "published_utc": "2026-10-05T11:54:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2999945/value-wars-intensify-can-mcdonald-s-stay-ahead-of-qsr-rivals?cid=CS-ZC-FT-analyst_blog|quick_take-2999945",
+    "tickers": [
+      "MCD",
+      "QSR",
+      "WEN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6f/392.jpg",
+    "description": "McDonald's is ramping up its value proposition to compete with rivals for price-conscious consumers, but execution issues with its Every Day Affordable Price (EDAP) offering contributed to roughly two-thirds of Q2 traffic shortfalls. While the company maintains competitive pricing advantages and a strong loyalty ecosystem, July comparable sales turned slightly negative, indicating the turnaround will take time. Competitors like Burger King and Wendy's are also intensifying their value strategies.",
+    "keywords": [
+      "value strategy",
+      "QSR competition",
+      "pricing",
+      "execution challenges",
+      "comparable sales",
+      "digital promotions",
+      "traffic decline"
+    ],
+    "insights": [
+      {
+        "ticker": "MCD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has underperformed significantly (down 25.1% in six months), Q2 execution issues with EDAP, two-thirds of traffic shortfall attributed to value problems, July comparable sales slightly negative, and downward trending earnings estimates for 2026-2027 despite management efforts to address value positioning."
+      },
+      {
+        "ticker": "QSR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Burger King is aggressively competing for budget-conscious diners with affordable bundles and promotions, positioning itself as a strong alternative to McDonald's in the value segment and potentially gaining market share."
+      },
+      {
+        "ticker": "WEN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is leveraging its historical strength in value-focused deals, digital promotions, and menu innovation to attract price-sensitive customers during a period when consumer discretionary spending remains selective."
+      }
+    ]
+  },
+  {
+    "id": "0e3e5d511ddc27a412147f8e6d23babb883304215f7cbef3220ed706d23de1af",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why Brinker International Stock Jumped Today",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-09-22T16:10:27Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/why-brinker-international-stock-jumped-today/?source=iedfolrf0000001",
+    "title": "Chipotle Is Down 14% Compared to McDonald's 24%. But There's an Even Better Restaurant Stock to Buy in October.",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-02T07:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/02/chipotle-is-down-compared-to-mcdonalds-but-th/?source=iedfolrf0000001",
     "tickers": [
-      "EAT",
+      "TXRH",
+      "CMG",
       "MCD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888550%2Fwoman-eating-casual-dining-restaurant.jpg&w=1200&op=resize",
-    "description": "Brinker International (Chili's parent company) stock rose 3.49% after Northcoast upgraded the stock from neutral to buy with a $275 price target, implying 37% upside. The upgrade was driven by strong growth at Chili's, menu improvements, better marketing, and management confidence in achieving in-store margins exceeding 20%. While hypergrowth may be slowing, the company targets 4%-6% annual revenue growth through fiscal 2029 with double-digit adjusted EPS growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888835%2Fgettyimages-972852490-1280x960-b65491b.jpg&w=1200&op=resize",
+    "description": "While Chipotle and McDonald's stocks have declined significantly this year, Texas Roadhouse presents a more attractive investment opportunity. Despite a recent 15% monthly pullback, Texas Roadhouse's underlying business remains strong with growing comparable sales (6.2%), expanding store count, increasing average weekly sales, and a meaningful dividend. The company has become the largest casual-dining chain in the U.S. through operational excellence rather than heavy advertising, demonstrating strong customer loyalty and multiple ways to reward shareholders.",
     "keywords": [
-      "Brinker International",
-      "Chili's",
-      "analyst upgrade",
+      "restaurant stocks",
       "casual dining",
       "comparable sales growth",
-      "share buybacks",
-      "restaurant stocks"
+      "dividend",
+      "unit expansion",
+      "customer loyalty",
+      "stock valuation",
+      "shareholder returns"
     ],
     "insights": [
       {
-        "ticker": "EAT",
+        "ticker": "TXRH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Analyst upgrade from neutral to buy with a $275 price target representing 37% upside. Strong execution at Chili's with solid comparable sales growth (9.2%), effective marketing campaigns gaining market share, menu improvements, and management confidence in achieving higher margins. Company has clear growth targets through fiscal 2029."
+        "sentiment_reasoning": "Strong operational fundamentals with 6.2% comparable sales growth, 5% store-week growth, expanding locations, meaningful dividend ($0.75/share quarterly), and stock buybacks. Management demonstrates shareholder-focused strategy despite recent stock pullback. Business story aligns well with shareholder returns."
+      },
+      {
+        "ticker": "CMG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock down 14% year-to-date with strong brand and steady traffic, but lacks the dividend offering and visible expansion story that Texas Roadhouse provides. Positioned as a solid long-term business but less attractive than Texas Roadhouse in current environment."
       },
       {
         "ticker": "MCD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor that Chili's is positioning itself against by offering better value, but no direct news or sentiment about McDonald's itself is provided in the article."
+        "sentiment_reasoning": "Stock down 24% year-to-date with strong global brand and resources for recovery, but represents mature-market saturation. While it pays a dividend, it lacks the unit growth and operational momentum of Texas Roadhouse, making it less compelling for current investment."
       }
     ]
   },
   {
-    "id": "d7dd5aa63647d805ac611897be3fe8489831faa20a962c21d7995db9a6fc6aea",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Relentless Dividend Stocks to Buy in September",
-    "author": "John Ballard",
-    "published_utc": "2026-09-20T08:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/20/3-relentless-dividend-stocks-to-buy-in-september/?source=iedfolrf0000001",
-    "tickers": [
-      "EBAY",
-      "MCD",
-      "STZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887251%2Fgrowth-stocks-to-buy.jpg&w=1200&op=resize",
-    "description": "The article recommends three dividend growth stocks for September 2026: eBay, McDonald's, and Constellation Brands. eBay has grown its dividend at 12% annually with solid revenue growth and AI-powered tools driving momentum. McDonald's offers a 3% yield with a strong franchise model despite recent comparable-store sales weakness. Constellation Brands, trading down 55% from 2024 highs, offers a compelling 3.38% yield with room for dividend growth despite soft beer demand.",
-    "keywords": [
-      "dividend stocks",
-      "dividend growth",
-      "income investing",
-      "e-commerce",
-      "fast food",
-      "beer distribution",
-      "free cash flow",
-      "yield"
-    ],
-    "insights": [
-      {
-        "ticker": "EBAY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 15% revenue growth, 26% growth in consumer-to-consumer sales, successful Depop acquisition expanding Gen Z reach, AI-powered tools improving user experience, 12% annual dividend growth rate, and low 20% payout ratio providing room for future increases."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite recent comparable-store sales weakness, the company maintains strong free cash flow generation, 7% annual dividend growth, manageable 67% payout ratio, attractive 3% forward yield, high operating margins of 47%, and expansion plans targeting 50,000 locations by 2028."
-      },
-      {
-        "ticker": "STZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock down 55% from 2024 highs creates compelling valuation with 3.38% forward yield, low 38% payout ratio allowing dividend growth even in weak demand environment, 6% annual dividend growth rate, strong brand portfolio (Corona, Modelo), and expected 6% annual U.S. beer market growth through 2030."
-      }
-    ]
-  },
-  {
-    "id": "ff85fae49628923aa14a590258af8a72b21374d3aed190dbf5d8aa6f0ca768bc",
+    "id": "fbb8a682821368b06a8f83e3ae01abe1d8513e05dc1db79f2df42a850d8bce66",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "McDonald's (MCD) Gains As Market Dips: What You Should Know",
-    "author": "Na",
-    "published_utc": "2026-09-14T21:50:05Z",
-    "article_url": "https://www.zacks.com/stock/news/2989477/mcdonald-s-mcd-gains-as-market-dips-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v1-2989477",
-    "tickers": [
-      "MCD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default336.jpg",
-    "description": "McDonald's (MCD) rose 1.96% to $257.49 in the latest session, outperforming the S&P 500 which fell 0.48%. However, the stock has declined 7.44% over the past month. The company is expected to report Q3 EPS of $3.39 (up 5.28% YoY) and revenue of $7.28 billion (up 2.88% YoY). McDonald's holds a Zacks Rank #3 (Hold) rating with a Forward P/E of 19.61, trading at a discount to its industry average of 21.53.",
-    "keywords": [
-      "McDonald's earnings",
-      "stock performance",
-      "analyst estimates",
-      "Zacks Rank",
-      "valuation metrics",
-      "restaurant industry"
-    ],
-    "insights": [
-      {
-        "ticker": "MCD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While McDonald's showed positive daily performance (+1.96%) and beat broader market indices, the stock has underperformed over the past month (-7.44%). Earnings growth expectations are modest (5.28% EPS growth), and the Zacks Rank #3 (Hold) rating indicates neither strong buy nor sell signals. The valuation appears reasonable relative to industry peers, supporting a neutral outlook."
-      }
-    ]
-  },
-  {
-    "id": "e28037d044b93f69a88e3c2527cde3bd93359237493a96c945b69aa4e30418f6",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can MCD Build More Growth From Its $20B Delivery Platform?",
-    "author": "Na",
-    "published_utc": "2026-09-14T14:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2989188/can-mcd-build-more-growth-from-its-20b-delivery-platform?cid=CS-ZC-FT-analyst_blog|quick_take-2989188",
+    "title": "Can McDonald's Beverage Expansion Become Its Next Global Growth Wave?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-09-30T15:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2998435/can-mcdonald-s-beverage-expansion-become-its-next-global-growth-wave?cid=CS-ZC-FT-analyst_blog|quick_take-2998435",
     "tickers": [
       "MCD",
       "SBUX",
-      "CAVA"
+      "CMG"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/9f/16064.jpg",
-    "description": "McDonald's has built a substantial delivery platform generating over $20 billion in annual systemwide sales across 100 markets. The company targets 30% of delivery sales through its app by 2027 and is consolidating digital infrastructure with one app, loyalty program, and pricing engine serving 220 million users. However, MCD stock has underperformed the industry over the past year and trades at a premium valuation multiple.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/6f/392.jpg",
+    "description": "McDonald's launched a new beverage platform in May 2026 across the U.S., Canada, Germany, and Australia, generating encouraging early results. The platform drives incremental traffic during slower dayparts with checks running 50% above average and strong food attachment. Management views beverages as a baseline growth platform capable of delivering multiple years of opportunity, with plans to expand into additional markets.",
     "keywords": [
-      "delivery platform",
-      "digital strategy",
-      "mobile app",
-      "loyalty program",
-      "systemwide sales",
-      "valuation",
-      "stock performance"
+      "beverage expansion",
+      "growth strategy",
+      "daypart optimization",
+      "menu innovation",
+      "incremental traffic",
+      "restaurant cash flow"
     ],
     "insights": [
       {
         "ticker": "MCD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "McDonald's demonstrates strong operational execution with a $20B+ delivery business and clear digital growth targets. However, the stock has declined 16.4% over the past year, trades at a premium 6.13 P/S ratio versus industry average of 3.12, and EPS estimates have declined in the past 30 days. The company receives a Zacks Rank #3 (Hold) rating, reflecting mixed near-term prospects despite solid business fundamentals."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beverage platform has met or exceeded expectations across multiple markets with strong metrics including 50% higher average checks, incremental guest counts, and meaningful cash flow gains. Management views it as a multi-year growth opportunity with plans for global expansion."
       },
       {
         "ticker": "SBUX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Starbucks is successfully expanding delivery with strong Q3 2026 U.S. comparable sales growth of 7.9%, driven by transaction and ticket growth. The company reports no meaningful cannibalization of in-store visits and plans to integrate delivery into its app with loyalty rewards, demonstrating effective execution of its digital and convenience strategy."
+        "sentiment_reasoning": "Refreshers platform delivered double-digit U.S. revenue growth in Q3 fiscal 2026, with customizable energy offerings and planned sparkling beverages supporting expansion into afternoon dayparts."
       },
       {
-        "ticker": "CAVA",
+        "ticker": "CMG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "CAVA is improving delivery execution through technology investments and operational enhancements, with kitchen display systems boosting service speed and accuracy. However, the higher mix of third-party delivery drove a 40-basis-point increase in operating expenses, illustrating the cost trade-offs associated with delivery growth that the company must manage."
+        "sentiment_reasoning": "Company is accelerating menu innovation including beverages identified as having significant untapped potential, with broader menu innovations expected in H2 2026 and 2027. Early results not yet reported."
+      }
+    ]
+  },
+  {
+    "id": "91087b39f84513bf213e19a35d25fc5ed1637df4ea774ff9bac59ab168fc3d02",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "What's Wrong With Wendy's Stock?",
+    "author": "Catie Hogan",
+    "published_utc": "2026-09-29T11:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/29/whats-wrong-with-wendys-stock/?source=iedfolrf0000001",
+    "tickers": [
+      "WEN",
+      "QSR",
+      "MCD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889205%2Ffast-food.jpg&w=1200&op=resize",
+    "description": "Wendy's stock has plummeted to near 52-week lows, trading around $6.44, as the fast-food chain faces its sixth consecutive quarter of declining same-store sales (down 7% in Q2 2026) and traffic (down 12.5%). New CEO Bob Wright, who previously led a turnaround at Potbelly's, is expected to unveil a comeback strategy in early November. Consumers cite declining quality, service, and value as reasons for choosing competitors like Burger King, which has seen sales growth.",
+    "keywords": [
+      "Wendy's stock decline",
+      "same-store sales decline",
+      "fast food competition",
+      "CEO turnaround strategy",
+      "consumer discretionary spending",
+      "traffic decline"
+    ],
+    "insights": [
+      {
+        "ticker": "WEN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock down 71% over five years, trading near 52-week lows. Six consecutive quarters of declining same-store sales (-7%) and traffic (-12.5%). Market cap shrunk to $1.25B. Consumers shifting to competitors due to perceived decline in quality, service, and value."
+      },
+      {
+        "ticker": "QSR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Experiencing significant sales growth while competitors like Wendy's and McDonald's struggle, indicating successful capture of market share and consumer preference."
+      },
+      {
+        "ticker": "MCD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as facing similar negative trends as Wendy's with declining sales, but no specific performance metrics provided in the article to determine severity of impact."
       }
     ]
   }

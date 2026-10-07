@@ -1,319 +1,325 @@
 [
   {
-    "id": "18701fe34bbb8947e8ccd5b4f256362bd58bf80a8c0245ce4c26310d10a9294e",
+    "id": "36db32a0f89e63efc81fa88eee7bb499e13dcd56bfce9a5fddecbf73f6ab6af7",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Global ETF: Vanguard's VT vs. the iShares URTH",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-22T20:10:17Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/09/22/better-global-etf-vanguard-s-vt-vs-the-ishares-urth/?source=iedfolrf0000001",
+    "title": "Nvidia Is About 4% From Becoming the First $6 Trillion Company. History Says the Milestone Itself Tells You Little.",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-10-07T03:21:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-is-about-4-from-becoming-the-first-usd6-trillion-company-history-says-the-milestone-itself-tells-you-little/?source=iedfolrf0000001",
     "tickers": [
-      "VT",
-      "URTH",
       "NVDA",
-      "AAPL",
-      "MSFT",
-      "TSM",
-      "SKHY"
+      "AAPL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7669db1dbfa6e097df450be5b22faf5d854bd54d-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Vanguard's Total World Stock ETF (VT) is recommended over iShares MSCI World ETF (URTH) due to its significantly lower expense ratio (0.06% vs 0.24%), broader global diversification including emerging markets, higher dividend yield (1.8% vs 1.4%), and larger asset base. While both offer similar sector allocations and comparable performance, VT provides exposure to key AI-related companies like TSMC and SK Hynix that URTH excludes.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7766ceb7d7312b2b4cba9b8c84b947066f404457-2000x1200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Nvidia is approaching a $6 trillion market cap milestone, but historical analysis of past trillion-dollar milestones shows the milestone itself is not predictive of future stock performance. What matters most is earnings growth relative to valuation multiples. Nvidia's strong earnings growth (120% EPS increase last quarter) and relatively low P/E ratio of 15x suggest the stock could continue climbing if earnings growth outpaces valuation compression.",
     "keywords": [
-      "global ETF comparison",
-      "emerging markets exposure",
-      "expense ratio",
-      "dividend yield",
-      "diversification",
-      "semiconductor companies",
-      "artificial intelligence"
+      "market capitalization",
+      "trillion-dollar milestone",
+      "earnings growth",
+      "price-to-earnings ratio",
+      "AI chip market",
+      "data center business",
+      "valuation"
     ],
     "insights": [
       {
-        "ticker": "VT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better choice due to lower expense ratio (0.06%), higher dividend yield (1.8%), broader diversification with 9,773 holdings including emerging markets, larger AUM ($101.7B), and exposure to key AI semiconductor companies like TSMC and SK Hynix."
-      },
-      {
-        "ticker": "URTH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a viable alternative but with notable limitations: higher expense ratio (0.24%), smaller portfolio (1,253 holdings), developed markets only, lower dividend yield (1.4%), and lacks exposure to emerging market AI-related companies. Performance is comparable but cost structure is less favorable."
-      },
-      {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a major holding in both ETFs and identified as a key beneficiary of the artificial intelligence boom, with its semiconductor chips being manufactured by TSMC."
+        "sentiment_reasoning": "Strong earnings growth (120% EPS increase, 106% revenue growth in latest quarter), relatively low valuation multiple (15x forward earnings), and management guidance suggesting continued strong growth (~90% revenue increase expected). Author notes odds favor continued stock appreciation if earnings growth outpaces valuation compression."
       },
       {
         "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in both ETFs with similar weightings, serving as an example of major tech company exposure without specific positive or negative commentary."
+        "sentiment_reasoning": "Used as historical comparison showing mixed results across three trillion-dollar milestones. Performance ranged from -31% to +27% returns in the year following each milestone, demonstrating that milestone achievement alone doesn't predict outcomes. No current assessment provided."
+      }
+    ]
+  },
+  {
+    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-10-07T01:15:02Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "INTC",
+      "AVGO",
+      "MRVL",
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
+    "keywords": [
+      "AI boom",
+      "GPU chips",
+      "data center",
+      "valuation",
+      "market cap",
+      "competition",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
       },
       {
-        "ticker": "MSFT",
+        "ticker": "AMD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in both ETFs with comparable weightings, included as an example of major tech company exposure without specific positive or negative commentary."
+        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
       },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+      }
+    ]
+  },
+  {
+    "id": "670de86571f90bc6835a18787a5cbb4e353a3a21894ef32acfb2de30df091376",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Chip Stock Through 2030, It Would be This One.",
+    "author": "Adam Spatacco",
+    "published_utc": "2026-10-06T15:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/this-artificial-intelligence-ai-chip-stock-is-behi/?source=iedfolrf0000001",
+    "tickers": [
+      "TSM",
+      "NVDA",
+      "MU",
+      "AMD",
+      "INTC",
+      "AAPL"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890143%2Fgettyimages-179653150-1280x854-f43835d.jpg&w=1200&op=resize",
+    "description": "While Nvidia and Micron dominate AI chip headlines, Taiwan Semiconductor Manufacturing (TSMC) is positioned as the superior long-term AI infrastructure play. TSMC controls ~73% of the foundry market and ~90% of advanced-node capacity, making it the critical bottleneck in AI chip production. With AI-accelerator revenue expected to compound at 50%+ through 2030, strong financial growth (36% YoY revenue growth in 2025), expanding margins, and a forward P/E of 28, TSMC offers better value than chip designers while maintaining a durable competitive moat.",
+    "keywords": [
+      "AI chip manufacturing",
+      "semiconductor foundry",
+      "TSMC competitive advantage",
+      "AI infrastructure supercycle",
+      "advanced-node capacity",
+      "chip supply chain"
+    ],
+    "insights": [
       {
         "ticker": "TSM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a key emerging market holding in VT that provides exposure to AI semiconductor manufacturing, specifically noted as the manufacturer of Nvidia's AI chips and an advantage of VT over URTH."
+        "sentiment_reasoning": "Positioned as the best single AI chip stock to hold through 2030. Controls dominant market share (73% foundry, 90% advanced nodes), benefits from AI infrastructure supercycle with 50%+ AI-accelerator revenue growth expected, demonstrates strong financial performance (36% YoY revenue growth, expanding margins), and maintains durable competitive moat that competitors cannot easily replicate."
       },
       {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an emerging market holding in VT that produces computer memory for AI systems, presented as a competitive advantage of VT over URTH which lacks this exposure."
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While recognized as a major AI chip designer with significant narrative premium and visibility, the article argues TSMC is the better long-term hold. Nvidia depends on TSMC's manufacturing capacity and does not control the supply chain bottleneck, making it less attractive than the foundry operator for a single long-term holding."
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as benefiting from the AI memory upcycle but explicitly excluded from the author's recommendation. The article suggests Micron will 'ride the memory upcycle' but positions TSMC as the more fundamental and durable investment due to its control of manufacturing capacity."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Recognized as a GPU designer competing with Nvidia, but like Nvidia, depends on TSMC's manufacturing capacity. The article notes both AMD and Nvidia design chips but outsource manufacturing, making them less strategically positioned than TSMC."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as a competitor spending heavily on foundry scaling but similarly unable to match TSMC's capabilities at advanced nodes needed for current and next-generation AI accelerators."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as TSMC's former largest customer, recently displaced by Nvidia. Serves as evidence of TSMC's critical role in the AI infrastructure cycle but is not the focus of the investment thesis."
       }
     ]
   },
   {
-    "id": "3d60bb0fbd8905f676716fe5d4cf203907c56b564adcac7e58a6976adcb33df7",
+    "id": "f84db7fb4de5ac2f7cb4ec178a2d7c9e2840ebe0a95830b8e48bb7e550b27e2f",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
+    "title": "Is iShares MSCI USA Quality Factor ETF (QUAL) a Strong ETF Right Now?",
     "author": "Na",
-    "published_utc": "2026-09-22T18:29:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993984/invest-like-buffett-lessons-from-the-oracle-of-omaha?cid=CS-ZC-FT-etf_news_and_commentary-2993984",
+    "published_utc": "2026-10-06T09:20:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3000664/is-ishares-msci-usa-quality-factor-etf-qual-a-strong-etf-right-now?cid=CS-ZC-FT-smart_beta_etf-3000664",
     "tickers": [
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
       "MSFT",
-      "NVDA",
-      "BRK.A",
-      "BRK.B"
+      "AAPL",
+      "NVDA"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default128.jpg",
-    "description": "Following Warren Buffett's step down as chairman of Berkshire Hathaway, the article explores his investment philosophy emphasizing long-term ownership, high-quality businesses with economic moats, and low-cost index funds. Buffett's approach has delivered nearly double the S&P 500's returns over six decades. The article highlights his preference for index funds over active management, focus on companies with durable competitive advantages, and recent increased investments in Japanese trading houses.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default100.jpg",
+    "description": "QUAL is a smart beta ETF launched in 2013 that tracks the MSCI USA Sector Neutral Quality Index with $48.59 billion in assets. It offers broad exposure to U.S. large and mid-cap stocks with a low 0.15% expense ratio and 0.84% dividend yield. The fund is heavily weighted toward Information Technology (40.1%) with top holdings including Microsoft, Apple, and Nvidia. With a beta of 1.00 and 14.20% standard deviation, it represents a medium-risk option that has returned 14.37% year-to-date as of October 2026.",
     "keywords": [
-      "Warren Buffett",
-      "Berkshire Hathaway",
-      "investment philosophy",
-      "economic moat",
-      "index funds",
-      "long-term investing",
-      "Japan trading houses"
+      "smart beta ETF",
+      "quality factor",
+      "expense ratio",
+      "sector allocation",
+      "dividend yield",
+      "performance metrics"
     ],
     "insights": [
       {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major holding in Berkshire's $350+ billion equity portfolio and included in high-quality business ETF holdings, indicating Buffett's confidence in the company."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed among top holdings of high-quality firms ETF, aligning with Buffett's preference for quality businesses with durable competitive advantages."
+        "sentiment_reasoning": "Microsoft is the largest individual holding in QUAL at 7.61% of total assets, reflecting its quality characteristics and strong market position."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Apple is among the top three holdings in QUAL, indicating its inclusion as a quality-factor stock meeting the fund's investment criteria."
       },
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Included as a top holding in the high-quality business ETF, meeting Buffett's criteria for quality companies with strong returns on capital."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
+        "sentiment_reasoning": "Nvidia is listed as a top holding in QUAL, demonstrating its recognition as a quality stock within the technology sector."
       }
     ]
   },
   {
-    "id": "d1707930615b2ecd3238460c969ed123d6ce6efe4980fc00a1c35e089abf40ad",
+    "id": "aec93ac996189f6eca3504d2bc0a72aa2ac267185a2ec405105e22d4a3f7b011",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "1 Red Flag Apple Investors Can't Afford to Ignore",
-    "author": "Keithen Drury",
-    "published_utc": "2026-09-22T13:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/1-red-flag-apple-investors-cant-afford-to-ignore/?source=iedfolrf0000001",
+    "title": "Warren Buffett Says Buy This Vanguard Index Fund -- It Could Turn $400 Per Month Into $820,000",
+    "author": "Trevor Jennewine",
+    "published_utc": "2026-10-06T09:12:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/warren-buffett-says-buy-vanguard-index-fund-turn-400-to-820000/?source=iedfolrf0000001",
     "tickers": [
+      "VOO",
+      "NVDA",
       "AAPL",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888374%2Fperson-looking-at-their-laptop-worried.jpg&w=1200&op=resize",
-    "description": "Apple's valuation has become dangerously expensive, trading at a price-to-earnings ratio approaching 40x despite only 16% growth. The article warns that Apple's valuation is not justified compared to faster-growing peers like Nvidia, and the stock could face a significant correction or remain flat while the company grows into its high valuation.",
-    "keywords": [
-      "valuation",
-      "price-to-earnings ratio",
-      "stock correction",
-      "growth rate",
-      "tech stocks",
-      "investment risk"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The article identifies Apple as overvalued with a P/E ratio approaching 40x, which is not justified by its 16% growth rate. The author warns investors that the stock is precarious and could face a significant correction, making it a poor investment choice compared to alternatives."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is presented as a more attractive investment alternative, trading at a much lower price-to-earnings ratio despite growing at a significantly faster rate than Apple, making it a better value proposition for investors."
-      }
-    ]
-  },
-  {
-    "id": "e5ed9d80b8111829c5a7e10334e08bf8a250fe3fa551b26d37b2810db7de30bc",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "CalendarBridge Completes SOC 2 Type II Examination as Enterprise Scheduling Moves Across More Organizations",
-    "author": "Not Specified",
-    "published_utc": "2026-09-22T13:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/22/3366385/0/en/calendarbridge-completes-soc-2-type-ii-examination-as-enterprise-scheduling-moves-across-more-organizations.html",
-    "tickers": [
+      "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "MSFT",
-      "AAPL"
+      "AMZN"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/4361a642-5521-4b4d-b176-2e9a42194412",
-    "description": "CalendarBridge announced the completion of its SOC 2 Type II examination, providing independent security validation for its cross-organization calendar synchronization platform. The examination, conducted by Securance Pro Assurance PLLC from June to September 2026, assessed controls supporting Security, Confidentiality, and Availability. The platform serves over 100,000 users and integrates with Google Calendar, Microsoft 365, Apple iCloud, and CalDAV-compatible services while maintaining account and privacy boundaries.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2251b185a603aa8b01e8bd5c54ceb96c0e6e1611-1280x853.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Warren Buffett recommends the Vanguard S&P 500 ETF as the best investment option for most investors seeking stock market exposure. Historical data shows the S&P 500 returned 10.2% annually over the past 30 years. Investing $400 monthly in this fund could grow to approximately $820,000 over three decades, demonstrating the power of long-term, consistent investing in a diversified index fund with low fees.",
     "keywords": [
-      "SOC 2 Type II",
-      "calendar synchronization",
-      "security compliance",
-      "enterprise scheduling",
-      "cross-organization workflows",
-      "Microsoft 365 GCC High",
-      "vendor security assessment"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several calendar platforms integrated with CalendarBridge. No specific impact or developments related to Google are discussed in the article."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several calendar platforms integrated with CalendarBridge. No specific impact or developments related to Google are discussed in the article."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several calendar platforms integrated with CalendarBridge. No specific impact or developments related to Google are discussed in the article."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several calendar platforms integrated with CalendarBridge. No specific impact or developments related to Google are discussed in the article."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a calendar platform partner (Microsoft 365, Outlook) and for GCC High support. Integration represents standard business partnership with no material impact indicated."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several calendar platforms (iCloud) integrated with CalendarBridge. No specific developments or impacts related to Apple are discussed."
-      }
-    ]
-  },
-  {
-    "id": "d6324ca183283b999720d82047f84fc11ea1e172b3df343c8f07b68ce7b847c8",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Should Vanguard Morningstar Mega Cap ETF (MGC) Be on Your Investing Radar?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-22T10:20:01Z",
-    "article_url": "https://www.zacks.com/stock/news/2993402/should-vanguard-morningstar-mega-cap-etf-mgc-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-2993402",
-    "tickers": [
-      "MGC",
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "IVV",
-      "VOO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default90.jpg",
-    "description": "The Vanguard Morningstar Mega Cap ETF (MGC) is a passively managed large-cap blend ETF with $10.54 billion in assets and a low 0.05% expense ratio. With a 14.68% year-to-date return and 18.46% one-year return, it offers broad US equity exposure with 175 holdings. The ETF carries a Zacks ETF Rank of 3 (Hold) and is recommended as a reasonable option for large-cap blend exposure, though alternatives like VOO and IVV offer similar exposure at comparable costs.",
-    "keywords": [
-      "large-cap blend ETF",
-      "passive management",
+      "S&P 500 index fund",
+      "Vanguard S&P 500 ETF",
+      "Warren Buffett",
+      "long-term investing",
+      "passive investing",
       "low expense ratio",
-      "mega-cap stocks",
-      "diversification",
-      "technology sector exposure"
+      "wealth accumulation"
     ],
     "insights": [
       {
-        "ticker": "MGC",
+        "ticker": "VOO",
         "sentiment": "positive",
-        "sentiment_reasoning": "The ETF demonstrates strong performance (14.68% YTD, 18.46% one-year return), very low expense ratio (0.05%), substantial assets ($10.54B), and effective diversification with 175 holdings. Rated as a reasonable option for large-cap blend investors."
+        "sentiment_reasoning": "Strongly recommended by Warren Buffett as the best investment vehicle for average investors. Highlighted for its very low expense ratio (0.03%), diversified exposure to 500 large U.S. companies, and historical strong performance (10.2% annual returns over 30 years)."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the largest individual holding in MGC at 9.33% of assets. No specific sentiment expressed; included as a factual component of the fund's composition."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as the largest holding (8.1%) in the Vanguard S&P 500 ETF, indicating significant representation in the recommended index fund."
       },
       {
         "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as the second-largest holding in MGC. Mentioned factually without sentiment commentary."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding (7%) in the Vanguard S&P 500 ETF, representing one of the world's most influential companies included in the recommended fund."
       },
       {
         "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as the third-largest holding in MGC. Mentioned factually without sentiment commentary."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest holding (5.7%) in the Vanguard S&P 500 ETF, demonstrating significant exposure to this major technology company."
       },
       {
-        "ticker": "IVV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a comparable alternative with similar index tracking and slightly lower expense ratio (0.03%), but no preference indicated."
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fourth-largest holding (5.4%) in the Vanguard S&P 500 ETF, representing one of the world's most influential companies."
       },
       {
-        "ticker": "VOO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a comparable alternative with similar index tracking and slightly lower expense ratio (0.03%), but no preference indicated."
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fourth-largest holding (5.4%) in the Vanguard S&P 500 ETF, representing one of the world's most influential companies."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fourth-largest holding (5.4%) in the Vanguard S&P 500 ETF, representing one of the world's most influential companies."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fourth-largest holding (5.4%) in the Vanguard S&P 500 ETF, representing one of the world's most influential companies."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fifth-largest holding (3.8%) in the Vanguard S&P 500 ETF, included as a major influential company in the recommended index."
       }
     ]
   }

@@ -1,5 +1,40 @@
 [
   {
+    "id": "b225a46d2b626e5ee45f781da80b0884e3b4b25abc24cf9bfc03036c6a9bb171",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Battery Packaging Market Expands as EV Gigafactories and Grid-Scale Energy Storage Reshape Protection Requirements",
+    "author": "Sns Insider",
+    "published_utc": "2026-09-23T22:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/09/23/3367903/0/en/battery-packaging-market-expands-as-ev-gigafactories-and-grid-scale-energy-storage-reshape-protection-requirements.html",
+    "tickers": [
+      "AMCR"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+    "description": "The global battery packaging market is projected to grow from USD 39.8 billion in 2025 to USD 118.7 billion by 2035 at a CAGR of 11.57%, driven by electric vehicle production expansion, grid-scale energy storage deployment, and next-generation battery formats. Cardboard/paperboard dominates the material segment (61.23% share), while cylindrical packaging leads with prismatic growing fastest. Electric vehicles represent the fastest-growing end-use segment at 14.18% CAGR, with Asia Pacific holding 41.28% of global market share.",
+    "keywords": [
+      "battery packaging",
+      "electric vehicles",
+      "energy storage",
+      "lithium-ion batteries",
+      "cell-to-pack architecture",
+      "gigafactories",
+      "packaging materials",
+      "thermal management"
+    ],
+    "insights": [
+      {
+        "ticker": "AMCR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as key competitor in growing battery packaging market with 11.57% CAGR expansion, positioned to benefit from increased demand across EV and energy storage sectors."
+      }
+    ]
+  },
+  {
     "id": "2a99e54f00457323186a9f82e241de94cc13a9327f546841f0072fdf1c918d81",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -162,54 +197,6 @@
         "ticker": "WPKCY",
         "sentiment": "positive",
         "sentiment_reasoning": "Key market player positioned to benefit from increasing demand for vacuum skin packaging solutions"
-      }
-    ]
-  },
-  {
-    "id": "69a13037fccfcbf96f3cf8bc82d172747b46b52bd9001945b1d9c69cc48ddc49",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "3 Dividend Aristocrats Whose Yields Can Help Combat Inflation",
-    "author": "Chris Markoch",
-    "published_utc": "2026-04-09T20:10:00Z",
-    "article_url": "https://www.investing.com/analysis/3-dividend-aristocrats-whose-yields-can-help-combat-inflation-200678180",
-    "tickers": [
-      "AMCR",
-      "CVX",
-      "ABBV"
-    ],
-    "amp_url": "https://m.investing.com/analysis/3-dividend-aristocrats-whose-yields-can-help-combat-inflation-200678180?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "With inflation concerns resurfacing and the Federal Reserve pausing rate cuts, investors can combat inflation through dividend stocks yielding over 3%. Three Dividend Aristocrats\u2014Amcor, Chevron, and AbbVie\u2014each with 25+ consecutive years of dividend increases, offer reliable income streams that can outpace inflation while providing potential capital appreciation.",
-    "keywords": [
-      "dividend aristocrats",
-      "inflation protection",
-      "dividend yield",
-      "PCE index",
-      "CPI",
-      "oil prices",
-      "Federal Reserve",
-      "dividend growth"
-    ],
-    "insights": [
-      {
-        "ticker": "AMCR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "27 consecutive years of dividend increases with a secure 6.3% yield. Despite being expensive at 27X earnings and facing cost pressures, analysts have a consensus price target of $52 representing 20%+ upside potential alongside the dividend yield."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Up 30% year-to-date with 38 consecutive years of dividend increases. Strong free cash flow generation ($20.2B in 2025) and record shareholder returns ($27B in dividends and buybacks). 3.6% yield provides inflation protection with exposure to growing LNG and renewable energy markets."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "52 consecutive years of dividend increases with durable demand for pharmaceuticals that persists during inflation. Record 2025 revenue of $61.2B with strong immunology growth offsetting Humira patent loss. 3.3% yield provides reliable income with compounding potential."
       }
     ]
   }

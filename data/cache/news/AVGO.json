@@ -1,284 +1,287 @@
 [
   {
-    "id": "23b42793abcaed92fc642e16c033e80dc4d7f746ba84a9230d5947f01959624d",
+    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Prediction: Broadcom Will Be a $3 Trillion Company by the End of 2030",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-09-22T12:26:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/prediction-broadcom-will-be-a-usd3-trillion-company-by-the-end-of-2030/?source=iedfolrf0000001",
+    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
+    "author": "Jeremy Bowman",
+    "published_utc": "2026-10-07T01:15:02Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "INTC",
+      "AVGO",
+      "MRVL",
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
+    "keywords": [
+      "AI boom",
+      "GPU chips",
+      "data center",
+      "valuation",
+      "market cap",
+      "competition",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+      }
+    ]
+  },
+  {
+    "id": "68d0f45c7168b3ef658f7dc0c1fb639b380e6fb3f707b582d2598b63fd8d0a11",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-10-06T21:10:04Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-today-oct-6-marvell-stock-is-up-as-the-company-raises-fy2028-revenue-outlook-to-usd20-billion/?source=iedfolrf0000001",
+    "tickers": [
+      "MRVL",
+      "AVGO",
+      "ANET",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F42b3293e5dbbd0bd2f50afbeec4738a002bd7f0b-1280x720.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Marvell Technology stock surged 5.81% on October 6, 2026, after the chipmaker raised its FY2028 revenue guidance to $20 billion (up from $18 billion) and announced a FY2031 target of $70-90 billion in sales with EPS of $30+. The strong guidance reflects robust demand for custom AI chips and networking equipment for data centers, supported by Nvidia's $2 billion investment partnership announced earlier in the year.",
+    "keywords": [
+      "Marvell Technology",
+      "AI chips",
+      "data center",
+      "revenue guidance",
+      "custom silicon",
+      "semiconductor",
+      "Nvidia partnership",
+      "infrastructure buildout"
+    ],
+    "insights": [
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company raised FY2028 revenue guidance to $20B (from $18B) and announced ambitious FY2031 targets of $70-90B in sales with $30+ EPS, signaling strong AI infrastructure demand and custom chip growth. Stock gained 5.81% on the news."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock rose 3.67% as part of broader positive sentiment in data infrastructure semiconductors and AI infrastructure, reflecting firmer demand in the sector."
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock gained 4.09% alongside other networking and AI infrastructure companies, benefiting from strengthened sentiment around AI data center buildout."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as strategic partner with $2 billion investment in Marvell; partnership validates strong AI infrastructure demand and supports positive sector sentiment."
+      }
+    ]
+  },
+  {
+    "id": "be8cf2e2d497516a8e168a72ac9c6fdbaf00e4a5ca2c00075c6df071b6bfe60c",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
+    "author": "Geoffrey Seiler",
+    "published_utc": "2026-10-06T20:25:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/split-across-ai-infrastructure-stocks-worth-2030/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMD",
+      "AVGO",
+      "TSM",
+      "ASML"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890090%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
+    "description": "An analysis of a diversified $5,100 investment across five AI infrastructure semiconductor stocks (Nvidia, AMD, Broadcom, TSMC, and ASML) projects a potential 75% return by 2030, reaching approximately $8,900. The projection is based on analyst EPS estimates and forward P/E multiples, with each company positioned to benefit from the growing AI infrastructure market expected to reach $2.3 trillion by 2032.",
+    "keywords": [
+      "AI infrastructure",
+      "semiconductor stocks",
+      "GPU market",
+      "chip manufacturing",
+      "AI training",
+      "inference",
+      "EUV lithography"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned as primary play on AI training and GPU market with transformation into complete AI player. Projected 60% return by 2030 based on analyst EPS estimates and 15x forward P/E multiple."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong player in inference market with GPUs and agentic AI on CPUs. Projected 72% gain by 2030 with significant EPS growth from $7.58 to $54.30 and 20x forward P/E multiple."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Key investment in custom AI chips and networking with AI ASIC market expected to grow faster than GPU market. Projected 120% gain by 2030 based on analyst estimates and 15x forward P/E multiple."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "World's premier foundry with virtual monopoly on advanced chip manufacturing. Positioned to benefit from overall chip boom with projected 48% gain by 2030 and 17.5x forward P/E multiple."
+      },
+      {
+        "ticker": "ASML",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Monopoly on EUV lithography technology critical for advanced logic chips and HBM. Highest projected return at 80% gain by 2030 with premium 30x forward P/E multiple reflecting monopoly position."
+      }
+    ]
+  },
+  {
+    "id": "3078b844a8287dfd406922b45817eafe37dfc3fcbfab20b5c382565388d1e1c8",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Anthropic Could Beat OpenAI to Wall Street by Over a Year",
+    "author": "Manali Pradhan, Cfa",
+    "published_utc": "2026-10-06T19:12:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/anthropic-could-beat-openai-to-wall-street-by-over/?source=iedfolrf0000001",
     "tickers": [
       "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Facc2434c21c94e6b7d6ba2e2b0568cc028284623-5120x2880.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Analyst predicts Broadcom will reach a $3 trillion market valuation by end of 2030, representing ~76% upside from current $1.7 trillion valuation. The prediction is based on management's own AI revenue forecasts ($58B fiscal 2026 to $230B fiscal 2028) and doesn't require multiple expansion, only delivery on secured supply commitments. Key risks include potential margin compression and execution challenges with major customers.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889528%2Fanalyst_working_on_a_laptop.jpg&w=1200&op=resize",
+    "description": "Anthropic is on track to go public as early as November 2026, potentially beating OpenAI to Wall Street by over a year after OpenAI postponed its IPO to 2027 or later. However, the $100 billion Anthropic aims to raise would cover only 19% of its $518 billion in long-term infrastructure commitments. At a $2 trillion valuation, Anthropic would trade at 33x estimated 2026 sales, requiring the company to demonstrate that rapid revenue growth can translate into strong profitability.",
     "keywords": [
-      "Broadcom",
-      "AI semiconductors",
-      "market valuation",
-      "revenue forecast",
-      "chip supply",
-      "profit margins",
-      "earnings multiple"
+      "IPO",
+      "AI companies",
+      "valuation",
+      "infrastructure spending",
+      "revenue growth",
+      "profitability",
+      "cloud computing"
     ],
     "insights": [
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong AI semiconductor growth trajectory with 221% YoY revenue growth in latest quarter, management guidance for $230B AI revenue by fiscal 2028, and analyst prediction of $3T valuation by 2030. Current valuation at 19x forward earnings appears reasonable given growth prospects. However, sentiment is tempered by recent 28% stock decline from 52-week highs and acknowledged margin compression risks."
+        "sentiment_reasoning": "Broadcom is positioned to lend Anthropic up to $42 billion for data center infrastructure, representing a significant business opportunity and demonstrating confidence in Anthropic's growth trajectory and ability to service debt."
       }
     ]
   },
   {
-    "id": "21fe85bda95096fdef29b489379613d27afa3f21aea66c27aeb328b92b90b985",
+    "id": "2a635df3211f3908e88a648140be0c6e0a07c9ced6aa56659e900c456901a357",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "The Zacks Analyst Blog Highlights NVIDIA, Vertiv, Arista Networks, Broadcom and Hewlett Packard",
-    "author": "Zacks Equity Research",
-    "published_utc": "2026-09-22T12:21:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993559/the-zacks-analyst-blog-highlights-nvidia-vertiv-arista-networks-broadcom-and-hewlett-packard?cid=CS-ZC-FT-press_releases-2993559",
+    "title": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
+    "author": "Na",
+    "published_utc": "2026-10-06T18:00:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3001340/tsmc-q3-earnings-strong-ai-demand-sets-the-bar-high-for-growth?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001340",
     "tickers": [
-      "NVDA",
-      "VRT",
-      "ANET",
-      "AVGO",
-      "HPE",
-      "HPEpC"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
-    "description": "As AI data centers expand, investment opportunities extend beyond GPU chips to infrastructure providers. Vertiv and Arista Networks are highlighted as beneficiaries of rising demand for power, cooling, and high-speed networking solutions supporting AI workloads. Vertiv has seen recent stock pullback despite strong fundamentals, while Arista continues gaining momentum with robust AI networking demand.",
-    "keywords": [
-      "AI data centers",
-      "infrastructure",
-      "power and cooling",
-      "networking",
-      "GPU demand",
-      "hyperscalers",
-      "AI accelerators"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Remains dominant AI accelerator supplier with strong fiscal 2027 Q2 Data Center revenues up 117% YoY, though article positions it as starting point for broader ecosystem investment"
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Zacks Rank #2 (Buy) with 24% YoY sales growth, expanding AI infrastructure exposure through UtilityInnovation acquisition, projected 59.3% earnings growth in 2026; recent 30.4% stock decline presents attractive entry point"
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Zacks Rank #1 (Strong Buy) with 37.7% YoY revenue growth and first quarter above $3B; strong AI networking demand with projected 35.6% earnings growth and 39.1% revenue growth in 2026"
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fiscal Q3 AI semiconductor revenues jumped 221% YoY, demonstrating strong demand for custom AI accelerators and networking solutions"
-      },
-      {
-        "ticker": "HPE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fiscal Q3 Data Center Networking revenues surged 112.2% to $382M with AI Systems orders reaching $2.4B, showing strong AI infrastructure demand"
-      },
-      {
-        "ticker": "HPEpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fiscal Q3 Data Center Networking revenues surged 112.2% to $382M with AI Systems orders reaching $2.4B, showing strong AI infrastructure demand"
-      }
-    ]
-  },
-  {
-    "id": "7b5920c38afcf84d6a200601745efbf517f9496e33c6f1e0faf04c42d016d204",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Got $5,000?: 2 Magnificent AI Cloud Stocks to Buy Before the Anthropic IPO",
-    "author": "Danny Vena, Cpa",
-    "published_utc": "2026-09-22T07:02:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/got-fill-in-dollar-amount-2-magnificent-ai-cloud-s/?source=iedfolrf0000001",
-    "tickers": [
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
+      "TSM",
+      "INTC",
       "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888189%2Fthe-amazon-logo-superimposed-over-a-delivery-person-dropping-a-package-and-the-alphabet-logo-superimposed-over-a-picture-of-google-hq.png&w=1200&op=resize",
-    "description": "Anthropic, an AI startup, is expected to go public in October/November seeking a $2 trillion valuation in what could be the largest IPO in history. Amazon and Alphabet, as major early investors and strategic partners with significant stakes in Anthropic, are positioned to benefit substantially from the IPO through investment appreciation, embedded chip technology partnerships, and customer access to Anthropic's Claude AI models. Both stocks are trading near historic valuation lows despite strong cloud revenue growth.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/212.jpg",
+    "description": "TSMC's July-August sales trajectory suggests Q3 revenues will reach the upper end of guidance, supported by robust AI demand and the ramp-up of 2nm technology. The company raised its 2026 revenue growth forecast to above 40%, though higher 2nm production costs are expected to pressure margins. EPS estimates have risen 10.4% to $4.45, indicating strong earnings growth despite margin headwinds.",
     "keywords": [
-      "Anthropic IPO",
-      "AI cloud stocks",
-      "large language models",
-      "investment opportunity",
-      "cloud computing",
-      "AI infrastructure"
+      "TSMC",
+      "Q3 earnings",
+      "AI demand",
+      "2nm technology",
+      "semiconductor manufacturing",
+      "revenue growth",
+      "earnings estimates",
+      "gross margin pressure"
     ],
     "insights": [
       {
-        "ticker": "AMZN",
+        "ticker": "TSM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Amazon has $18B invested in Anthropic with option for $15B more, with stake valued at $190.4B as of July. Strategic partnership includes 5 gigawatts of Trainium chips for Anthropic, AWS customers have Claude access, and stock trades at 20x earnings near all-time lows. AWS revenue accelerated 37% YoY in Q2."
+        "sentiment_reasoning": "TSMC demonstrates strong operational momentum with July-August sales up 44.7% and 53.3% YoY respectively, Q3 revenues tracking near upper guidance, robust AI demand, 2nm ramp-up driving 40%+ 2026 revenue growth, and EPS estimates rising 10.4% to $4.45. Zacks Rank #2 (Buy) rating supports positive outlook despite margin compression concerns."
       },
       {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet has $13B invested in Anthropic with option for $30B more, with stake valued at $124B (roughly 15%) as of July, potentially increased by another $10B. Partnership includes 3.5 gigawatts of TPU compute capacity, $200B cloud/semiconductor commitment over 5 years, Google Cloud customers have Claude access, and stock trades at 17x earnings near all-time lows. Google Cloud revenue accelerated 82% YoY in Q2."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet has $13B invested in Anthropic with option for $30B more, with stake valued at $124B (roughly 15%) as of July, potentially increased by another $10B. Partnership includes 3.5 gigawatts of TPU compute capacity, $200B cloud/semiconductor commitment over 5 years, Google Cloud customers have Claude access, and stock trades at 17x earnings near all-time lows. Google Cloud revenue accelerated 82% YoY in Q2."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet has $13B invested in Anthropic with option for $30B more, with stake valued at $124B (roughly 15%) as of July, potentially increased by another $10B. Partnership includes 3.5 gigawatts of TPU compute capacity, $200B cloud/semiconductor commitment over 5 years, Google Cloud customers have Claude access, and stock trades at 17x earnings near all-time lows. Google Cloud revenue accelerated 82% YoY in Q2."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Alphabet has $13B invested in Anthropic with option for $30B more, with stake valued at $124B (roughly 15%) as of July, potentially increased by another $10B. Partnership includes 3.5 gigawatts of TPU compute capacity, $200B cloud/semiconductor commitment over 5 years, Google Cloud customers have Claude access, and stock trades at 17x earnings near all-time lows. Google Cloud revenue accelerated 82% YoY in Q2."
-      },
-      {
-        "ticker": "AVGO",
+        "ticker": "INTC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Broadcom is mentioned as the designer of Google's TPUs that are embedded in Anthropic's infrastructure and consults on improvements, but the article provides no direct financial metrics or investment details regarding Broadcom's relationship with Anthropic."
-      }
-    ]
-  },
-  {
-    "id": "a624fd59fdf19b18773e772fe2d53544c8135305f867bdb0a46551de0a7a638d",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "AI Data Center Interconnect Market Expands as Distributed AI Workloads Drive Demand for High-Speed Optical Connectivity",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-22T06:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/22/3365977/0/en/ai-data-center-interconnect-market-expands-as-distributed-ai-workloads-drive-demand-for-high-speed-optical-connectivity.html",
-    "tickers": [
-      "CIEN",
-      "CSCO",
-      "NVDA",
-      "AVGO",
-      "ANET"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI Data Center Interconnect Market is projected to grow from USD 12.85 billion in 2025 to USD 53.35 billion by 2035 at a 15.32% CAGR, driven by increasing demand for high-speed, low-latency optical connectivity to support distributed AI workloads. Software-defined networking and coherent optical technology are the fastest-growing segments, while North America leads with 38.47% market share and Asia Pacific shows the highest growth potential at 17.30% CAGR.",
-    "keywords": [
-      "AI data center interconnect",
-      "optical connectivity",
-      "distributed AI workloads",
-      "coherent optical technology",
-      "software-defined networking",
-      "GPU clusters",
-      "high-speed Ethernet",
-      "data center networking"
-    ],
-    "insights": [
-      {
-        "ticker": "CIEN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as expanding high-capacity optical networking and data center interconnect solutions to support growing AI bandwidth requirements in 2026."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as advancing AI-ready networking infrastructure, including high-speed Ethernet and data center networking solutions for large-scale AI computing clusters."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the market benefiting from GPU cluster demand and high-performance computing requirements driving interconnect market growth."
+        "sentiment_reasoning": "Intel mentioned as a peer comparison with Q2 revenue growth of 25% YoY to $16.1 billion, significantly lagging TSMC's 33.7% growth, indicating weaker competitive positioning in the AI-driven semiconductor cycle."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key market player positioned to benefit from growing demand for high-speed interconnect solutions and optical transceiver technologies."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the expanding AI data center interconnect market with relevance to high-speed Ethernet and networking solutions."
-      }
-    ]
-  },
-  {
-    "id": "06fc362a90932cc0abf959a0181ebf71bfdb4f1e7b019050b3094282e5e6bf98",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "History Says a $1,000 Investment in Broadcom Will Be Worth This Much by 2028",
-    "author": "Keithen Drury",
-    "published_utc": "2026-09-22T06:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/history-says-a-1000-investment-in-broadcom-will-be/?source=iedfolrf0000001",
-    "tickers": [
-      "AVGO",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "META"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888377%2Fperson-throwing-money-up-in-the-air.jpg&w=1200&op=resize",
-    "description": "Broadcom is positioned for significant growth through its custom AI chips (ASICs) business, which is expected to grow from $16.7B in Q3 FY2026 to $230B by FY2028. With major clients including Alphabet, Meta, OpenAI, and Anthropic, analysts project the stock could reach $842 per share by 2028, representing 134% upside and turning a $1,000 investment into approximately $2,340.",
-    "keywords": [
-      "AI semiconductors",
-      "custom AI chips",
-      "ASICs",
-      "Broadcom growth",
-      "stock valuation",
-      "semiconductor industry"
-    ],
-    "insights": [
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong growth trajectory in AI chip business with 221% YoY revenue growth, major enterprise clients, and analyst projections showing 134% upside potential by 2028. Custom ASIC strategy positions company to capture significant market share from GPU-dominated landscape."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major Broadcom client purchasing custom AI chips, indicating significant investment in AI infrastructure and competitive positioning in AI computing."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key Broadcom customer for custom AI chips, demonstrating commitment to optimizing AI workloads and infrastructure development."
+        "sentiment_reasoning": "Broadcom reported strong Q3 fiscal 2026 revenues of $29.6 billion, up 86% YoY, driven by robust AI demand for custom AI accelerators and networking solutions, demonstrating significant benefit from the AI investment cycle."
       }
     ]
   }

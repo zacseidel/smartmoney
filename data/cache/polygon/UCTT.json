@@ -1,0 +1,35 @@
+{
+  "ticker": "UCTT",
+  "name": "Ultra Clean Holdings, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001275014",
+  "composite_figi": "BBG000HSLV70",
+  "share_class_figi": "BBG001SHTS06",
+  "market_cap": 3316089603.9599996,
+  "phone_number": "(510) 576-4400",
+  "address": {
+    "address1": "26462 CORPORATE AVENUE",
+    "city": "HAYWARD",
+    "state": "CA",
+    "postal_code": "94545"
+  },
+  "description": "Ultra Clean Holdings Inc, through its subsidiaries, manufactures and supplies production tools, modules, and subsystems for the semiconductor capital equipment industry. The product includes precision robotic solutions, gas delivery systems, and a variety of industrial and automation production equipment products; subsystems include wafer cleaning subsystems, chemical delivery modules, top-plate assemblies, frame assemblies, and process modules. Its customer base includes firms in the semiconductor capital equipment industry, medical, energy, industrial, flat panel, and research equipment industries. It has two segments: Products and Services. Its principal markets are the Americas, Asia Pacific, and EMEA.",
+  "sic_code": "3674",
+  "sic_description": "SEMICONDUCTORS & RELATED DEVICES",
+  "ticker_root": "UCTT",
+  "homepage_url": "https://www.uct.com",
+  "total_employees": 7411,
+  "list_date": "2004-03-25",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/dWN0LmNvbQ/images/2026-10-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/dWN0LmNvbQ/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 44828352,
+  "weighted_shares_outstanding": 45277029,
+  "round_lot": 100
+}

@@ -1,339 +1,333 @@
 [
   {
-    "id": "18701fe34bbb8947e8ccd5b4f256362bd58bf80a8c0245ce4c26310d10a9294e",
+    "id": "4a7cb333f8dba33a228439fd478420ade54b8c89beb78403956c2c01c134cd0c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Global ETF: Vanguard's VT vs. the iShares URTH",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-22T20:10:17Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/09/22/better-global-etf-vanguard-s-vt-vs-the-ishares-urth/?source=iedfolrf0000001",
+    "title": "Department of Energy Announces a New Multi-Billion-Dollar Nuclear Energy Deal",
+    "author": "Neha Chamaria",
+    "published_utc": "2026-10-06T18:41:48Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/department-of-energy-announces-a-new-multi-billion-dollar-nuclear-energy-deal/?source=iedfolrf0000001",
     "tickers": [
-      "VT",
-      "URTH",
-      "NVDA",
-      "AAPL",
+      "VST",
+      "CEG",
+      "META",
       "MSFT",
-      "TSM",
-      "SKHY"
+      "BEP",
+      "BEPH",
+      "BEPI",
+      "BEPJ",
+      "BEPpA",
+      "CCJ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7669db1dbfa6e097df450be5b22faf5d854bd54d-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Vanguard's Total World Stock ETF (VT) is recommended over iShares MSCI World ETF (URTH) due to its significantly lower expense ratio (0.06% vs 0.24%), broader global diversification including emerging markets, higher dividend yield (1.8% vs 1.4%), and larger asset base. While both offer similar sector allocations and comparable performance, VT provides exposure to key AI-related companies like TSMC and SK Hynix that URTH excludes.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F72e89a8ac85539d46c47bfb95dc9b7f7b8c235d8-5237x3922.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Department of Energy announced a $4.2 billion loan commitment to Vistra to extend and upgrade three nuclear plants in Pennsylvania and Ohio, preserving 4 GW of power and adding 433 MW of new capacity. This deal is part of Trump's broader initiative to quadruple U.S. nuclear capacity to 400 GW by 2050. Meta has already signed a 20-year power purchase agreement with Vistra for 2,609 MW from these plants, highlighting how existing reactor owners are positioned to benefit most from the nuclear renaissance driven by AI energy demands.",
     "keywords": [
-      "global ETF comparison",
-      "emerging markets exposure",
-      "expense ratio",
-      "dividend yield",
-      "diversification",
-      "semiconductor companies",
-      "artificial intelligence"
+      "nuclear energy",
+      "Department of Energy",
+      "loan commitment",
+      "power generation",
+      "AI energy demand",
+      "reactor uprates",
+      "power purchase agreements"
     ],
     "insights": [
       {
-        "ticker": "VT",
+        "ticker": "VST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better choice due to lower expense ratio (0.06%), higher dividend yield (1.8%), broader diversification with 9,773 holdings including emerging markets, larger AUM ($101.7B), and exposure to key AI semiconductor companies like TSMC and SK Hynix."
+        "sentiment_reasoning": "Received $4.2 billion DOE loan commitment to extend and upgrade three nuclear plants for 20 additional years, with Meta already committed to purchasing 2,609 MW of power. Positioned as second-largest nuclear fleet owner among competitive power producers."
       },
       {
-        "ticker": "URTH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as a viable alternative but with notable limitations: higher expense ratio (0.24%), smaller portfolio (1,253 holdings), developed markets only, lower dividend yield (1.4%), and lacks exposure to emerging market AI-related companies. Performance is comparable but cost structure is less favorable."
-      },
-      {
-        "ticker": "NVDA",
+        "ticker": "CEG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a major holding in both ETFs and identified as a key beneficiary of the artificial intelligence boom, with its semiconductor chips being manufactured by TSMC."
+        "sentiment_reasoning": "Received $1 billion DOE loan to restart Three Mile Island Unit 1 (835 MW) with Microsoft already committed as a power buyer. Operates the largest nuclear fleet in the U.S., well-positioned for the nuclear renaissance."
       },
       {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in both ETFs with similar weightings, serving as an example of major tech company exposure without specific positive or negative commentary."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in both ETFs with comparable weightings, included as an example of major tech company exposure without specific positive or negative commentary."
-      },
-      {
-        "ticker": "TSM",
+        "ticker": "META",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a key emerging market holding in VT that provides exposure to AI semiconductor manufacturing, specifically noted as the manufacturer of Nvidia's AI chips and an advantage of VT over URTH."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an emerging market holding in VT that produces computer memory for AI systems, presented as a competitive advantage of VT over URTH which lacks this exposure."
-      }
-    ]
-  },
-  {
-    "id": "3d60bb0fbd8905f676716fe5d4cf203907c56b564adcac7e58a6976adcb33df7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Invest Like Buffett: Lessons From the Oracle of Omaha",
-    "author": "Na",
-    "published_utc": "2026-09-22T18:29:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993984/invest-like-buffett-lessons-from-the-oracle-of-omaha?cid=CS-ZC-FT-etf_news_and_commentary-2993984",
-    "tickers": [
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "MSFT",
-      "NVDA",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default128.jpg",
-    "description": "Following Warren Buffett's step down as chairman of Berkshire Hathaway, the article explores his investment philosophy emphasizing long-term ownership, high-quality businesses with economic moats, and low-cost index funds. Buffett's approach has delivered nearly double the S&P 500's returns over six decades. The article highlights his preference for index funds over active management, focus on companies with durable competitive advantages, and recent increased investments in Japanese trading houses.",
-    "keywords": [
-      "Warren Buffett",
-      "Berkshire Hathaway",
-      "investment philosophy",
-      "economic moat",
-      "index funds",
-      "long-term investing",
-      "Japan trading houses"
-    ],
-    "insights": [
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major holding in Berkshire's $350+ billion equity portfolio and included in high-quality business ETF holdings, indicating Buffett's confidence in the company."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a significant stake in Berkshire's equity portfolio, reflecting Buffett's selection of high-quality businesses."
+        "sentiment_reasoning": "Signed 20-year power purchase agreements with Vistra for 2,609 MW, securing reliable nuclear power for AI operations and data centers."
       },
       {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed among top holdings of high-quality firms ETF, aligning with Buffett's preference for quality businesses with durable competitive advantages."
+        "sentiment_reasoning": "Already signed power purchase agreement with Constellation Energy for Three Mile Island output, securing clean energy for AI and data center operations."
       },
       {
-        "ticker": "NVDA",
+        "ticker": "BEP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Included as a top holding in the high-quality business ETF, meeting Buffett's criteria for quality companies with strong returns on capital."
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
       },
       {
-        "ticker": "BRK.A",
+        "ticker": "BEPH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
       },
       {
-        "ticker": "BRK.B",
+        "ticker": "BEPI",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as delivering compounded annual gains nearly double the S&P 500 under Buffett's leadership over six decades, demonstrating exceptional long-term performance."
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "BEPpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
+      },
+      {
+        "ticker": "CCJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment, benefiting from nuclear industry expansion."
       }
     ]
   },
   {
-    "id": "01ce1f7c698ab3d9b9caeb421f4725384638771d604297541193dcbea0ac945d",
+    "id": "c5403e66dbd74dcde0481a2ab7be6edd17f1acdf820af94d9d18ebce965f1dfd",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Reasons to Hold Alibaba Stock Despite Its High Premium P/S",
-    "author": "Na",
-    "published_utc": "2026-09-22T15:38:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993846/3-reasons-to-hold-alibaba-stock-despite-its-high-premium-p-s?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2993846",
+    "title": "3 Magnificent AI Cloud Computing Stocks That Could Help Set You Up for Life",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-06T18:18:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/3-magnificent-ai-cloud-computing-stocks-that-could/?source=iedfolrf0000001",
     "tickers": [
-      "BABA",
+      "MSFT",
       "AMZN",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889151%2Fgettyimages-987686438-1423x800-e1b8658.jpg&w=1200&op=resize",
+    "description": "Microsoft, Amazon, and Oracle have secured hundreds of billions in contracted AI cloud revenue, demonstrating that AI demand is translating into real business commitments. Microsoft's Azure is running at $100B annually with a $678B backlog, Amazon Web Services locked in a $100B decade-long deal with Anthropic, and Oracle has a $664B backlog (with $300B from OpenAI). While these established tech giants face risks including potential AI spending slowdowns and customer concentration, their massive contracted backlogs and continued infrastructure investments suggest their AI cloud businesses are still in early growth stages.",
+    "keywords": [
+      "AI cloud computing",
+      "contracted revenue",
+      "Azure",
+      "AWS",
+      "Oracle cloud",
+      "AI infrastructure",
+      "data center capacity",
+      "customer commitments"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Azure revenue growing 43% year-over-year at $100B annual run rate with $678B contracted backlog provides strong visibility into future growth. Microsoft 365 Copilot has reached 30 million paid subscribers, demonstrating real AI product adoption."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS secured a landmark $100B decade-long commitment from Anthropic and Amazon's custom Trainium chips are reportedly nearly sold out. However, sentiment is tempered by the massive $220B 2026 capital spending budget, which poses margin risk if AI demand cools."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
+      }
+    ]
+  },
+  {
+    "id": "166ece0955db057bf3d36002580116a4be472df6db9445f0e6e4d7f976e8739d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
+    "author": "Leo Sun",
+    "published_utc": "2026-10-06T16:35:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/history-says-infrastructure-booms-create-winners-a/?source=iedfolrf0000001",
+    "tickers": [
+      "AMZN",
+      "CRWV",
+      "EQIX",
+      "META",
+      "MSFT",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890087%2Fai-brain.jpg&w=1200&op=resize",
+    "description": "As AI infrastructure demand grows, three companies are positioned to benefit: Amazon's AWS controls 28% of the cloud market with strong AI services; CoreWeave operates 51 data centers with a $104.2B revenue backlog and 102% projected revenue CAGR; and Equinix, a data center REIT with 282 global facilities, offers dividend income with 15% EPS growth expected through 2028.",
+    "keywords": [
+      "AI infrastructure",
+      "cloud computing",
+      "data centers",
+      "GPU processing",
+      "AI market expansion"
+    ],
+    "insights": [
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS dominates 28% of cloud market, hosts major AI services (Bedrock, SageMaker), expected 15% revenue and 24% EPS CAGR through 2028, reasonably valued at 24x forward earnings"
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Explosive growth with 102% revenue and 110% EBITDA CAGR projected, $104.2B contracted revenue backlog (20x 2025 revenue), serves major clients (Meta, Microsoft, OpenAI), claims 35x faster processing at 80% lower cost than competitors"
+      },
+      {
+        "ticker": "EQIX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "World's largest data center REIT with 282 facilities, 15% EPS CAGR expected, 2% dividend yield, serves 60% of Fortune 500, positioned to benefit from AI infrastructure expansion"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major CoreWeave customer but no direct analysis provided; indirect beneficiary of AI infrastructure growth"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a CoreWeave customer but not analyzed in the article; indirect exposure to AI infrastructure market"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as supplier of GPUs to CoreWeave but not directly analyzed; indirect beneficiary through infrastructure buildout"
+      }
+    ]
+  },
+  {
+    "id": "6ae6a3eca607512c201b836f61844961b1b5e8dfb9c910bc71a701e5b165fcbe",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
+    "author": "Brett Schafer",
+    "published_utc": "2026-10-06T16:21:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?source=iedfolrf0000001",
+    "tickers": [
+      "AMZN",
+      "NVDA",
+      "PLTR",
       "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/1115.jpg",
-    "description": "Alibaba trades at a premium valuation but offers fundamental support for existing shareholders to hold. The company's cloud and AI businesses are accelerating with AI revenues exceeding one-third of cloud sales, core e-commerce remains resilient to fund AI ambitions, and management has outlined a disciplined multi-year AI infrastructure payback plan. While near-term margin pressure from capex and quick commerce losses persists, consensus earnings growth of 76.61% for fiscal 2027 supports patience through the current investment cycle.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889475%2Fwoman-in-an-datacenter.jpg&w=1200&op=resize",
+    "description": "Amazon is positioned as an undervalued AI play despite its $2.7 trillion market cap. AWS revenue grew 37% year-over-year to $42.2 billion, driven by AI infrastructure demand. The company is also integrating AI across its retail business through search tools, ad targeting, and supply chain automation. With projected earnings of $161 billion and a forward P/E of 17, analysts believe Amazon stock has significant upside potential.",
     "keywords": [
-      "Alibaba cloud",
-      "AI infrastructure",
-      "e-commerce",
-      "capital expenditure",
-      "quick commerce",
-      "Qwen model",
-      "valuation",
-      "cash flow"
+      "Amazon",
+      "AWS",
+      "artificial intelligence",
+      "cloud infrastructure",
+      "undervalued",
+      "AI growth",
+      "supply chain automation"
     ],
     "insights": [
       {
-        "ticker": "BABA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Accelerating cloud and AI monetization with triple-digit AI revenue growth for 12 consecutive quarters, resilient core commerce generating cash to self-fund transformation, and disciplined capital allocation framework with defined payback horizon. Consensus fiscal 2027 earnings expected to grow 76.61% YoY, supporting long-term holding thesis despite near-term headwinds."
-      },
-      {
         "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as primary competitive threat in cloud/AI space with AWS commanding greater global hyperscale share than Alibaba Cloud, contributing to elevated pricing pressure in the market."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as key competitor in enterprise AI workloads with Azure maintaining greater global hyperscale share than Alibaba, creating competitive pricing pressure."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as competitor through Google's cloud services, expanding AI-native infrastructure and contributing to pricing pressure in the cloud/AI market."
-      }
-    ]
-  },
-  {
-    "id": "54a1c1be00ab62fde81252e3001d0584fbad3eafa3213a211b51b37243c8e8f1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Pamela Kock",
-    "published_utc": "2026-09-22T15:15:56Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/crowdstrike-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "CRWD",
-      "PLTR",
-      "AMZN",
-      "MSFT",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares CrowdStrike and Palantir Technologies as investment options for 2026. CrowdStrike offers a leading cybersecurity platform with 22% revenue growth but remains unprofitable and faces reputational damage from a 2024 outage. Palantir demonstrates stronger financial performance with 56% revenue growth, profitability, and no debt, but carries higher valuation and customer concentration risks. The author recommends CrowdStrike for its better balance between growth and valuation, despite ongoing challenges.",
-    "keywords": [
-      "cybersecurity",
-      "cloud computing",
-      "AI",
-      "data protection",
-      "profitability",
-      "valuation",
-      "growth stocks",
-      "risk assessment"
-    ],
-    "insights": [
-      {
-        "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong market position and resilient stock recovery post-outage, but offset by ongoing unprofitability (-3.4% net margin), reputational damage from July 2024 incident, and slower growth (21.7% YoY). Recommended by author as better value despite challenges."
-      },
-      {
-        "ticker": "PLTR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional financial performance with 56.2% revenue growth, strong profitability (36.3% net margin), zero debt, high liquidity, and expanding commercial customer base. However, positive sentiment is tempered by high valuation multiples and customer concentration risk."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud infrastructure provider that CrowdStrike depends on, creating operational dependency risk. No direct investment recommendation provided."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud provider that Palantir relies on. No direct investment recommendation provided."
+        "sentiment_reasoning": "AWS experiencing strong 37% YoY growth driven by AI infrastructure boom; company applying AI across retail operations; analyst price target of $355 vs current $250 suggests upside; forward P/E of 17 indicates undervaluation relative to growth prospects and margin expansion potential."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner in Palantir's sovereign AI initiatives. No direct investment recommendation provided."
+        "sentiment_reasoning": "Mentioned as a stock that has soared in recent years, but article positions Amazon as a better undervalued AI opportunity compared to Nvidia."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a stock that has performed well recently, but not the focus of the analysis."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
       }
     ]
   },
   {
-    "id": "63e098de9f2932856dd0e7aec7d472a60524b86be620923959c24b5fcba400c5",
+    "id": "8129ca7bd366ca090193ac60058c2039af137695ae62e066f1b1f577b7350577",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "IREN Broadens Its AI Customer Base: Can Diversification Pay Off?",
+    "title": "Nebius Stock Surges 110% in 6 Months: Time to Buy, Hold or Sell?",
     "author": "Na",
-    "published_utc": "2026-09-22T14:12:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993740/iren-broadens-its-ai-customer-base-can-diversification-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-2993740",
+    "published_utc": "2026-10-06T14:25:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3001246/nebius-stock-surges-110-in-6-months-time-to-buy-hold-or-sell?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001246",
     "tickers": [
-      "IREN",
-      "CRWV",
       "NBIS",
+      "NVDA",
       "MSFT",
-      "NVDA"
+      "CRWV"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/08/133038.webp",
-    "description": "IREN Limited is diversifying its AI cloud customer base away from heavy dependence on Microsoft and NVIDIA by signing $2.8 billion in contracts with Prometheus, Perplexity, and Together AI in July 2026. The company is experiencing stronger contract economics with three-year pricing up 125% and five-year pricing up 70%, though it faces risks from early-stage customers and shorter contracts. With 2026 capacity largely sold out, IREN is targeting broader customer expansion for 2027-2028.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/46/91388.jpg",
+    "description": "Nebius Group has experienced explosive growth with 454% revenue increase driven by its AI business, which now represents 98% of revenues. The company signed major contracts worth over $1 billion each and raised its year-end contracted power target to 5 gigawatts. While profitability is improving with adjusted EBITDA margins expanding to 41%, heavy capital expenditures of $20-25 billion expected for 2026 and elevated valuation multiples pose risks. Analysts suggest existing investors hold while new investors wait for better entry points.",
     "keywords": [
-      "AI cloud services",
-      "customer diversification",
-      "contract pricing",
-      "capacity expansion",
-      "concentration risk"
+      "AI infrastructure",
+      "data centers",
+      "GPU capacity",
+      "revenue growth",
+      "capital expenditure",
+      "valuation",
+      "profitability",
+      "contracted power"
     ],
     "insights": [
       {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company signed significant $2.8B in new contracts, achieved substantial pricing increases (125% for 3-year, 70% for 5-year contracts), and is successfully diversifying customer base away from concentration risk. However, sentiment is tempered by downward earnings revisions and premium valuation."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 2026 performance with $2.58B in revenues and $104B revenue backlog. Demonstrates significant scale with 1.5 GW active power and 3.7 GW contracted power, positioning it well in the competitive AI cloud market."
-      },
-      {
         "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Solid Q2 2026 results with $582.3M group revenues and $3B ARR. Closed four major AI-cloud deals averaging over $1B each and raised contracted-power target to 5 GW, indicating strong growth momentum."
-      },
-      {
-        "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major customer representing substantial portion of IREN's contracted revenues, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+        "sentiment_reasoning": "Strong fundamentals with 454% revenue growth, improving profitability, and major contract wins support positive outlook. However, elevated valuation (5.69X price/book), massive capital requirements ($20-25B in 2026), and recent 109.5% stock rally suggest much growth is already priced in. Zacks Rank #3 (Hold) reflects balanced risk-reward."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned alongside Microsoft as a major customer of IREN, but no specific performance data provided. Represents concentration risk that IREN is actively working to reduce."
+        "sentiment_reasoning": "Mentioned as a peer comparison with 33.2% six-month gains and highest price/book multiple (25.14X). No specific analysis provided; included only for comparative context."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with 42% six-month gains and high price/book multiple (8.82X). No specific analysis provided; included only for comparative context."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison with 12.7% six-month gains and price/book multiple of 7.98X. No specific analysis provided; included only for comparative context."
       }
     ]
   }

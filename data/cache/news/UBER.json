@@ -1,269 +1,268 @@
 [
   {
-    "id": "fda28adbbe9553c152ae428f68d1d16564449a235d2bfebf72804ba57f8a114b",
+    "id": "e9e6319c76bfe63cd581261a7dc158e5cd012bc732d27e150bc297ffc0fd43c8",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "1 Great Sign for Rivian Investors",
+    "author": "Daniel Miller",
+    "published_utc": "2026-10-06T15:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/1-great-sign-for-rivian-investors/?source=iedfolrf0000001",
+    "tickers": [
+      "RIVN",
+      "LCID",
+      "UBER"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890137%2Frivian_r2_2.jpg&w=1200&op=resize",
+    "description": "Rivian delivered 19,248 vehicles in Q3, a 46% increase from Q2, potentially beating analyst estimates. The company has improved gross margins and protected shareholders from dilution through non-dilutive capital raises. However, management only affirmed 2026 guidance rather than raising it, disappointing some investors expecting higher forecasts.",
+    "keywords": [
+      "electric vehicles",
+      "Q3 deliveries",
+      "gross margins",
+      "R2 production",
+      "capital raises",
+      "shareholder dilution",
+      "robotaxi",
+      "guidance"
+    ],
+    "insights": [
+      {
+        "ticker": "RIVN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 delivery surge of 19,248 vehicles (46% increase), consistent gross margin improvement, smart R2 rollout strategy starting with highest-margin variants, and successful non-dilutive capital raises demonstrate operational progress and shareholder protection."
+      },
+      {
+        "ticker": "LCID",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as a struggling rival that continues to dilute shareholders through new share offerings, contrasting unfavorably with Rivian's superior capital management and operational execution."
+      },
+      {
+        "ticker": "UBER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strategic partnership with Rivian involving up to $1.25 billion investment for autonomous R2 robotaxis launching in 2028, representing a significant growth opportunity beyond traditional EV sales."
+      }
+    ]
+  },
+  {
+    "id": "6b74a7ab961e46535c40f0a100c6574045dfb06fe8eb9859cfa5f09df08f7440",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "The 9 Best Stocks to Buy Right Now in October (2026)",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-10-05T22:13:07Z",
+    "article_url": "https://www.fool.com/investing/2026/10/05/the-9-best-stocks-to-buy-right-now-in-october-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "META",
+      "MCD",
+      "NFLX",
+      "AMZN",
+      "NVDA",
+      "ADBE",
+      "V",
+      "UBER",
+      "PINS"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890222%2Fmqdefault.webp&w=1200&op=resize",
+    "description": "The Motley Fool's analyst curates a list of nine stocks recommended for investment in October 2026, highlighting opportunities with favorable risk-versus-reward profiles. The selection includes major technology, consumer, and financial services companies, with stock prices referenced from October 3, 2026.",
+    "keywords": [
+      "stock recommendations",
+      "October 2026",
+      "investment opportunities",
+      "risk-versus-reward",
+      "technology stocks",
+      "consumer stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of 9 best stocks to buy, indicating analyst confidence in the company's investment potential"
+      },
+      {
+        "ticker": "MCD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stock list with options positions held, suggesting positive outlook"
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst and Motley Fool positions"
+      },
+      {
+        "ticker": "ADBE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with options positions held by The Motley Fool"
+      },
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
+      },
+      {
+        "ticker": "UBER",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Featured in the recommended stocks list with analyst position held"
+      },
+      {
+        "ticker": "PINS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst position held"
+      }
+    ]
+  },
+  {
+    "id": "9aa0e307944bdf3b8f6f4a6926e6f932f4f50c30e5695964fce9c5a5dbe33a03",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Uber Technologies (UBER) Stock Moves -1.34%: What You Should Know",
-    "author": "Na",
-    "published_utc": "2026-09-22T21:45:08Z",
-    "article_url": "https://www.zacks.com/stock/news/2994014/uber-technologies-uber-stock-moves-1-34-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2994014",
+    "title": "Uber Technologies (UBER) Exceeds Market Returns: Some Facts to Consider",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-05T20:45:04Z",
+    "article_url": "https://www.zacks.com/stock/news/3000535/uber-technologies-uber-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3000535",
     "tickers": [
       "UBER"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default127.jpg",
-    "description": "Uber Technologies (UBER) closed at $69.89, down 1.34%, with shares declining 10.66% over the past month. The company holds a Zacks Rank #3 (Hold) rating. Earnings are expected to decline 66.88% YoY to $1.03 EPS, though revenue is projected to grow 9.43% to $14.74 billion. The stock trades at a Forward P/E of 21.11, significantly above its industry average of 16.02, and a PEG ratio of 5.77 versus the industry average of 1.6, suggesting overvaluation relative to growth prospects.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default177.jpg",
+    "description": "Uber Technologies closed at $69.48, up 2.01% on the day and outperforming the S&P 500's 0.66% gain. However, the stock has declined 10.1% over the past month, underperforming its sector. Analysts expect earnings of $1.03 per share (down 66.88% YoY) with revenue of $14.74 billion (up 9.43% YoY). The stock carries a Zacks Rank #3 (Hold) with a Forward P/E of 20.3, trading at a premium to its industry average of 15.25.",
     "keywords": [
-      "Uber Technologies",
-      "stock analysis",
+      "ride-hailing",
       "earnings decline",
-      "valuation",
-      "hold rating",
-      "forward P/E ratio",
-      "PEG ratio"
+      "valuation premium",
+      "analyst estimates",
+      "technology sector"
     ],
     "insights": [
       {
         "ticker": "UBER",
         "sentiment": "negative",
-        "sentiment_reasoning": "Despite revenue growth expectations, the stock faces headwinds from a significant 66.88% YoY EPS decline, recent 10.66% monthly decline, and elevated valuation metrics (Forward P/E of 21.11 vs. industry 16.02; PEG of 5.77 vs. industry 1.6). The Hold rating and downward estimate revisions (-2.8% over 30 days) further support a cautious outlook."
+        "sentiment_reasoning": "Despite outperforming the market on the trading day, Uber faces significant headwinds: earnings expected to decline 66.88% year-over-year, stock down 10.1% over the past month, trading at a valuation premium (Forward P/E of 20.3 vs. industry average of 15.25), and assigned a Hold rating (Zacks Rank #3). Analyst estimates have also been revised downward by 2.82% over the past month."
       }
     ]
   },
   {
-    "id": "39eaa5277655243ebe7b31f2d3ba2612c73e3b43170a9b1a4be93005c0361544",
+    "id": "9a661599019370e38da7d013c6e95ec973e89e7e472423c3203728411961259e",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Uber Technologies vs. DoorDash: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-09-22T16:28:33Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/uber-technologies-vs-doordash-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "GRAB Stock Down 20% in 3 Months: Should You Buy the Dip?",
+    "author": "Na",
+    "published_utc": "2026-10-05T15:12:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000435/grab-stock-down-20-in-3-months-should-you-buy-the-dip?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3000435",
     "tickers": [
+      "GRAB",
+      "GRABW",
       "UBER",
-      "DASH",
-      "LYFT",
-      "AMZN"
+      "LYFT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Uber Technologies and DoorDash as investment options for 2026. Uber operates across mobility, delivery, and freight globally with $52B in revenue, a 19.3% net margin, and a P/E of 15.57x. DoorDash focuses on North American food and grocery delivery with $13.7B in revenue, a 6.8% net margin, and a P/E of 101.78x. The author recommends Uber due to its diversified business model, stronger profitability, and more attractive valuation, while acknowledging DoorDash as a credible long-term bet in the delivery space.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ca/171.jpg",
+    "description": "Grab Holdings shares have declined 20% over three months following the company's $1.49 billion acquisition of a majority stake in Atome Financial. While the deal could provide long-term benefits through expanded financial services in Southeast Asia, investors are concerned about increased capital commitments and near-term execution risks. Additional headwinds include intense regional competition, rising driver incentives due to fuel costs, and a history of missing earnings estimates. Despite attractive valuation metrics, analysts recommend waiting for a better entry point.",
     "keywords": [
-      "gig economy",
-      "ridesharing",
-      "food delivery",
-      "freight logistics",
-      "profitability",
-      "valuation comparison",
-      "autonomous vehicles",
-      "market competition"
+      "Grab Holdings",
+      "Atome Financial acquisition",
+      "Southeast Asia",
+      "ride-hailing",
+      "financial services",
+      "BNPL",
+      "stock decline",
+      "earnings miss",
+      "driver incentives"
     ],
     "insights": [
       {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial performance with $52B revenue (18.3% YoY growth), 19.3% net margin, substantial free cash flow of $9.8B, attractive P/E of 15.57x, diversified business model across mobility/delivery/freight, and strategic partnerships with autonomous vehicle leaders position it as the recommended buy."
+        "ticker": "GRAB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has fallen 20% in three months and 39% year-to-date. Company missed earnings estimates in three of four recent quarters. Near-term challenges include intense competition, rising driver incentive costs, and investor skepticism about the Atome Financial deal's near-term value despite long-term potential. Analysts rate it a Hold and recommend waiting for a better entry point."
       },
       {
-        "ticker": "DASH",
+        "ticker": "GRABW",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock has fallen 20% in three months and 39% year-to-date. Company missed earnings estimates in three of four recent quarters. Near-term challenges include intense competition, rising driver incentive costs, and investor skepticism about the Atome Financial deal's near-term value despite long-term potential. Analysts rate it a Hold and recommend waiting for a better entry point."
+      },
+      {
+        "ticker": "UBER",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Solid growth with $13.7B revenue (27.9% YoY growth) and record membership sign-ups, but faces challenges including high P/E of 101.78x, lower net margin of 6.8%, heavy reliance on consumer incentives, and single-category focus. Acknowledged as credible but less diversified than Uber."
+        "sentiment_reasoning": "Mentioned as a peer comparison with single-digit percentage decline over three months, outperforming Grab but without specific analysis or sentiment commentary in the article."
       },
       {
         "ticker": "LYFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Uber in the ridesharing space, representing competitive pressure but not analyzed in detail as a standalone investment option."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to DoorDash in the delivery space, representing competitive pressure but not analyzed as a primary investment focus."
+        "sentiment_reasoning": "Mentioned as a peer comparison with marginal gains over three months, outperforming Grab but without specific analysis or sentiment commentary in the article."
       }
     ]
   },
   {
-    "id": "4069d5a4dbc4629a0db6e4f1f5a36c1e0eeeaf145574544132798e3bd6bb8765",
+    "id": "242a355703b5a3e2417699a2ea04a93b69170bc43b33cd284e050902abc0fe43",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Wall Street Loves This EV Stock. Here's Why I'm Not Buying.",
-    "author": "Ryan Vanzo",
-    "published_utc": "2026-09-22T16:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/wall-street-loves-this-ev-stock-heres-why-im-not-b/?source=iedfolrf0000001",
+    "title": "4 Developments That Will Determine the Fate of Lucid and Potential Bankruptcy",
+    "author": "Daniel Miller",
+    "published_utc": "2026-10-03T20:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/03/4-developments-that-will-determine-the-fate-of-luc/?source=iedfolrf0000001",
     "tickers": [
       "LCID",
-      "TSLA",
       "RIVN",
+      "TSLA",
       "UBER"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888128%2Flucid_sign_with_logo_lcid-1.jpg&w=1200&op=resize",
-    "description": "As the EV industry shifts toward robotaxi operations expected to reach scale by 2030, Lucid Group faces significant competitive disadvantages. Unlike Tesla and Rivian, Lucid lacks affordable vehicle models and sufficient production capacity to achieve economies of scale needed to supply robotaxi operators. This structural weakness makes it an unattractive investment despite Wall Street analyst support.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889713%2Flucid_uber.png&w=1200&op=resize",
+    "description": "Lucid faces critical challenges as it attempts a turnaround to avoid bankruptcy. The company must execute on four key initiatives: achieving $1.4 billion in cost savings by 2026, successfully launching its midsize Cosmos SUV platform in 2027, developing monetizable robotaxi and autonomous features, and operationalizing its Saudi Arabia factory. While the odds are stacked against the struggling EV maker, success on these fronts could prove transformative for investors willing to accept significant risk.",
     "keywords": [
+      "electric vehicles",
+      "turnaround strategy",
+      "cost reduction",
+      "midsize platform",
       "robotaxi",
-      "autonomous vehicles",
-      "EV manufacturing",
-      "economies of scale",
-      "production capacity",
-      "affordable vehicles"
+      "Saudi Arabia factory",
+      "bankruptcy risk",
+      "gross margin improvement"
     ],
     "insights": [
       {
         "ticker": "LCID",
         "sentiment": "negative",
-        "sentiment_reasoning": "Lacks affordable models, has insufficient production capacity compared to competitors, and is structurally disadvantaged in supplying the emerging robotaxi market despite existing partnerships."
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Can manufacture vehicles cheaply for its own robotaxi operations, already has established production scale, and is well-positioned to dominate the robotaxi market."
+        "sentiment_reasoning": "Company faces severe financial challenges including elevated cash burn, significant shareholder dilution, negative gross margins (-9656.34%), and consistent delays. While turnaround initiatives exist, execution risk is extremely high and bankruptcy remains a real possibility. The company lags behind competitors like Rivian in demonstrating tangible progress."
       },
       {
         "ticker": "RIVN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recently launched affordable models under $50,000 and has better production capacity than Lucid, positioning it ahead in supplying the robotaxi industry."
+        "sentiment_reasoning": "Mentioned as a competitor that has consistently outpaced Lucid in improving gross margins and demonstrating operational progress, positioning it as the stronger EV turnaround story relative to Lucid."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced only as a comparison point regarding regulatory challenges with autonomous vehicle development (Cybercab), with no direct sentiment implications about the company itself."
       },
       {
         "ticker": "UBER",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Lacks internal manufacturing but is pursuing robotaxi operations and has signed deals with EV suppliers like Lucid; dependent on third-party vehicle sourcing."
-      }
-    ]
-  },
-  {
-    "id": "b276ead1ba89db618a28be4258ea8e27201a0e68aa254b22ee2b83698a59db4a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Chewy vs. Uber Technologies: Which Consumer Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-09-21T18:08:45Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/21/chewy-vs-uber-technologies-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "CHWY",
-      "UBER",
-      "AMZN",
-      "LYFT",
-      "DASH"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1c43c7ea2a115de06def5b60d05cbbe789d96aa5-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Chewy and Uber Technologies as investment options for 2026. Chewy operates in pet e-commerce with expansion into pet health services, while Uber dominates global mobility and delivery. The author recommends Uber due to its larger scale, faster growth across multiple business segments, and substantial free cash flow generation, despite Chewy's loyal customer base and subscription model.",
-    "keywords": [
-      "stock comparison",
-      "consumer stocks",
-      "pet e-commerce",
-      "mobility platform",
-      "free cash flow",
-      "growth stocks",
-      "digital marketplace"
-    ],
-    "insights": [
-      {
-        "ticker": "CHWY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrates strong fundamentals with debt-free balance sheet, growing active customers, recurring Autoship revenue, and strategic expansion into high-margin pet health services. However, sentiment is tempered by modest growth rates and market saturation concerns."
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company exhibits superior scale, faster growth (18.3% YoY revenue growth), substantial free cash flow ($9.8B), diversified revenue streams across mobility/delivery/freight, and lower valuation multiples. Positioned well for long-term growth despite regulatory risks."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Chewy in the pet products industry but not analyzed as an investment option in this article."
-      },
-      {
-        "ticker": "LYFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Uber in mobility but not analyzed as an investment option in this article."
-      },
-      {
-        "ticker": "DASH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor to Uber in delivery but not analyzed as an investment option in this article."
-      }
-    ]
-  },
-  {
-    "id": "74c6f0c5eb532389d7bcf69e034d25952a97a437cb90e590e53c3f58ecdc3013",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Amazon.com vs. Uber Technologies: Analyzing Recent Quarterly Revenue Trends Between Two Consumer Companies",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-21T05:19:18Z",
-    "article_url": "https://www.fool.com/coverage/charts/2026/09/21/amazon-com-vs-uber-technologies-analyzing-recent-quarterly-revenue-trends-between-two-consumer-companies/?source=iedfolrf0000001",
-    "tickers": [
-      "AMZN",
-      "UBER",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fcharts%2Fproduction%2Fprocessed%2Famzn-uber%2Fquarter%2Frevenue%2Fbar%2Fprimary%2Fstandard%2Flimit-8%2Flatest%2Famzn-uber_quarter_revenue_bar_primary_standard_limit8.png&w=1200&op=resize",
-    "description": "Amazon and Uber both demonstrated consistent year-over-year growth over eight quarters, with Amazon maintaining significantly higher revenue totals. Both companies posted double-digit operating margins in Q2 2026. Amazon's AWS division showed strong AI momentum with 37% YoY growth, while Uber is expanding through autonomous vehicle partnerships with Amazon's Zoox and facing the end of its Waymo collaboration.",
-    "keywords": [
-      "quarterly revenue",
-      "operating margins",
-      "year-over-year growth",
-      "AWS",
-      "artificial intelligence",
-      "autonomous vehicles",
-      "e-commerce",
-      "ride-hailing",
-      "cloud computing"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Amazon demonstrates strong revenue growth with Q2 2026 revenue of $200.6B, a 14% operating margin, and exceptional AWS AI division growth of 37% YoY\u2014its fastest in 18 quarters. Strategic AI initiatives and autonomous vehicle partnerships position the company well for future growth."
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Uber shows consistent year-over-year revenue growth reaching $14.2B in Q2 2026 with a 15% operating margin. The company is expanding through autonomous vehicle partnerships with Amazon's Zoox, though the ending Waymo partnership is noted as having limited impact on sales."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Waymo autonomous vehicle partnership with Uber is ending, which represents a loss of ecosystem presence but is characterized as a minor drag on Uber's sales given Waymo's limited involvement."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Waymo autonomous vehicle partnership with Uber is ending, which represents a loss of ecosystem presence but is characterized as a minor drag on Uber's sales given Waymo's limited involvement."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Waymo autonomous vehicle partnership with Uber is ending, which represents a loss of ecosystem presence but is characterized as a minor drag on Uber's sales given Waymo's limited involvement."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet's Waymo autonomous vehicle partnership with Uber is ending, which represents a loss of ecosystem presence but is characterized as a minor drag on Uber's sales given Waymo's limited involvement."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Amazon's commercial agreement to acquire two million additional GPUs from Nvidia indicates strong demand for AI infrastructure and computing resources, supporting Nvidia's growth trajectory."
+        "sentiment_reasoning": "Mentioned as a partner in Lucid's robotaxi initiative with Nuro, but the partnership's success depends primarily on Lucid's execution rather than Uber's operations."
       }
     ]
   }

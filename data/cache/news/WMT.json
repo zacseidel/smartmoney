@@ -1,337 +1,242 @@
 [
   {
-    "id": "d66977bedbea5427fd97255dd9587514f515144c2a8ff1a8b07e2789b3344f4d",
+    "id": "240130d78a5c25cbf72d6acb3b97052f31edebfdde8ce294a8ebdb700c16fb11",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-09-22T19:24:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/bloom-energy-vs-plug-power-which-fuel-cell-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "Walmart (WMT) Exceeds Market Returns: Some Facts to Consider",
+    "author": "Na",
+    "published_utc": "2026-10-06T20:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3001369/walmart-wmt-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001369",
     "tickers": [
-      "BE",
-      "PLUG",
-      "ORCL",
-      "ORCLpD",
-      "AEP",
-      "WMT",
-      "AMZN"
+      "WMT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4b2de7e266a680c7ccd01859284f0eff5e796708-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Bloom Energy and Plug Power represent different approaches to the hydrogen and fuel cell market. Bloom Energy focuses on solid-oxide fuel cells for data centers with strong near-term profitability prospects, while Plug Power is building a comprehensive green hydrogen ecosystem with significant long-term potential. Despite Bloom's superior current financials and expected profitability in 2026, the article recommends Plug Power as the better long-term buy due to its dramatically lower P/S ratio and positioning in the growing renewable hydrogen market.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default39.jpg",
+    "description": "Walmart closed at $107.20, up 2.03% in the latest session, outperforming the S&P 500's 0.58% gain. However, the stock has declined 1.93% over the past month. The company is expected to report Q3 EPS of $0.63 (up 1.61% YoY) and quarterly revenue of $186.47 billion (up 3.88% YoY). Despite positive earnings growth expectations, Walmart carries a Zacks Rank of #3 (Hold) with a Forward P/E of 36.56, significantly above the industry average of 13.13, and a PEG ratio of 4.01 versus the industry average of 1.77.",
     "keywords": [
-      "fuel cells",
-      "hydrogen energy",
-      "clean energy transition",
-      "data center power",
-      "green hydrogen",
-      "renewable energy",
-      "profitability",
-      "cash flow"
+      "Walmart earnings",
+      "stock valuation",
+      "P/E ratio",
+      "PEG ratio",
+      "Zacks Rank",
+      "retail sector",
+      "earnings growth"
     ],
     "insights": [
       {
-        "ticker": "BE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (37% YoY), expected to reach $4.1B in FY2026 with 85% growth, projected swing to $658M net income, positive free cash flow of $57.2M, and benefiting from AI datacenter boom. However, carries high debt-to-equity ratio of 3.9x and currently unprofitable."
-      },
-      {
-        "ticker": "PLUG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better long-term buy despite current losses due to dramatically lower P/S ratio (3.7x vs 25.1x), strong positioning in renewable hydrogen market with EU mandates, major customers (Amazon, Walmart) entering replacement cycles, and expected net loss narrowing to $580M in FY2026. However, faces significant cash burn ($662M negative FCF) and customer concentration risk."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "AEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a key partner/customer of Bloom Energy but no specific sentiment analysis provided in the article."
-      },
-      {
         "ticker": "WMT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as Plug Power's most prominent customer (24% of revenues) and entering replacement phase, but no independent sentiment analysis provided."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major Plug Power customer entering replacement phase, but no independent sentiment analysis provided."
+        "sentiment_reasoning": "While Walmart shows positive near-term price momentum (+2.03%) and solid earnings growth expectations (EPS +1.61% YoY, revenue +3.88% YoY), the stock carries a Hold rating (Zacks Rank #3). The valuation appears stretched with a Forward P/E of 36.56 versus industry average of 13.13 and a PEG ratio of 4.01 versus industry average of 1.77, suggesting limited upside at current prices despite fundamentals."
       }
     ]
   },
   {
-    "id": "77317e3f3138471ecfef7257ad0b90d9d12860c62035a403f7525ecb7440cf86",
+    "id": "a5266073e975c4c2731ac7edbb8bee841f971dc2043c3db665fa41ca16d93a00",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Here's What the Fed's Interest Rate Hike Means for Costco, Walmart, and Target (and My Top Pick to Buy Now)",
-    "author": "Adria Cimino",
-    "published_utc": "2026-09-22T09:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/heres-what-the-feds-interest-rate-hike-means-for-c/?source=iedfolrf0000001",
+    "title": "Costco's Digital Sales Top $33 Billion: Can E-commerce Keep Scaling?",
+    "author": "Na",
+    "published_utc": "2026-10-06T13:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000995/costco-s-digital-sales-top-33-billion-can-e-commerce-keep-scaling?cid=CS-ZC-FT-analyst_blog|quick_take-3000995",
     "tickers": [
       "COST",
       "WMT",
-      "TGT",
-      "AMZN"
+      "TGT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887919%2Fgrocery-shopping-car-auto-transportation.jpg&w=1200&op=resize",
-    "description": "The Federal Reserve raised interest rates by a quarter-point to combat inflation, which may reduce consumer spending power through higher credit card APRs, loan rates, and mortgage costs. However, value-focused retailers like Costco, Walmart, Target, and Amazon may benefit as cost-conscious consumers shift spending toward these companies known for competitive pricing and strong supply chains. The analyst views any weakness in these quality retailers as a buying opportunity.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fa/1036.jpg",
+    "description": "Costco's digital business exceeded $33 billion in fiscal 2026 with over 20% growth, driven by same-day delivery partnerships, personalized product placements, and AI-powered search. The company's e-commerce comparable sales rose 19.5% in Q4, while competitors Walmart and Target also posted strong digital momentum with 23-24% and 8.7% growth respectively.",
     "keywords": [
-      "Federal Reserve",
-      "interest rate hike",
-      "inflation",
-      "consumer spending",
-      "retail stocks",
-      "value retailers",
-      "credit card APR",
-      "borrowing costs"
+      "e-commerce",
+      "digital sales",
+      "same-day delivery",
+      "AI search",
+      "personalization",
+      "retail",
+      "comparable sales growth"
     ],
     "insights": [
       {
         "ticker": "COST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong value-focused business model with bulk buying strategy enables rock-bottom pricing, positioning it to attract cost-conscious consumers during periods of higher interest rates and reduced spending power."
+        "sentiment_reasoning": "Costco demonstrated strong digital momentum with $33B+ in digitally enabled sales growing over 20%, Q4 comparable sales up 19.5%, and triple-digit growth in personalized placements and AI search traffic. The company is successfully scaling e-commerce while maintaining incremental sales rather than cannibalizing warehouse traffic."
       },
       {
         "ticker": "WMT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Well-structured supply chain and sourcing methods support low prices, making it an attractive destination for consumers seeking value during economic headwinds from rising rates."
+        "sentiment_reasoning": "Walmart reported robust e-commerce growth of 23% globally and 24% in the U.S., with store-fulfilled deliveries up 40% and fast delivery up 48%, demonstrating effective digital scaling and fulfillment capabilities."
       },
       {
         "ticker": "TGT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Vast selection of owned brands helps maintain low costs and competitive pricing, positioning the retailer to benefit from consumers prioritizing value during periods of higher borrowing costs."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as the analyst's top pick due to strong e-commerce value proposition combined with a booming cloud computing business benefiting from AI boom, offering both stability and growth potential despite near-term consumer spending pressures."
+        "sentiment_reasoning": "Target posted healthy digital growth with comparable digital sales up 8.7%, led by same-day delivery growth exceeding 25%, and AI-powered traffic rising 3.5x the industry rate, indicating strong digital engagement and technology adoption."
       }
     ]
   },
   {
-    "id": "2dbaaaddb7ee5571013779ac6e43590bc823f9a9452c3ed0143a48392e181f00",
+    "id": "4acd499034de9e4aea157cde0e4f59c39d09ba7e84b978c6ba06ed6f6d9af713",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Target Uses AI Personalization to Deepen Digital Guest Engagement",
+    "title": "Can Walmart Connect Keep Powering WMT's Digital Profit Growth?",
     "author": "Na",
-    "published_utc": "2026-09-21T16:17:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993141/target-uses-ai-personalization-to-deepen-digital-guest-engagement?cid=CS-ZC-FT-analyst_blog|quick_take-2993141",
+    "published_utc": "2026-10-06T12:59:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000981/can-walmart-connect-keep-powering-wmt-s-digital-profit-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3000981",
     "tickers": [
-      "TGT",
       "WMT",
-      "BJ"
+      "COST",
+      "TGT"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/2f/502.jpg",
-    "description": "Target is increasingly using AI-powered tools to personalize digital shopping experiences, including AI-powered wish lists that boosted creations over 50% and key-page conversion nearly 20%. The retailer is also partnering with OpenAI and Google Gemini for agentic commerce development. Traffic from external AI platforms is growing at 3.5 times the industry pace. Target's stock has outperformed its industry significantly, rising 21.7% in three months versus a 7.3% industry decline.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/63/121.jpg",
+    "description": "Walmart's digital business is becoming a major contributor to its overall economics, with global advertising revenue up 38% and Walmart Connect growing 43% in Q2 fiscal 2027. U.S. e-commerce sales rose 24%, achieving double-digit incremental margins supported by advertising, membership revenues, and improved delivery capabilities. The company also expanded ad capabilities through the acquisition of Vibe.",
     "keywords": [
-      "artificial intelligence",
-      "personalization",
-      "digital shopping",
-      "e-commerce",
-      "AI-powered tools",
-      "wish lists",
-      "agentic commerce",
-      "customer engagement"
+      "e-commerce growth",
+      "digital advertising",
+      "Walmart Connect",
+      "incremental margins",
+      "commerce solutions",
+      "retail technology"
     ],
     "insights": [
       {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Target is successfully implementing AI technologies to enhance customer engagement with measurable results (50%+ wish list creation increase, 20% conversion lift). Stock performance significantly outpaced industry decline (21.7% vs -7.3%), and earnings estimates have been raised. Company carries Zacks Rank #2 (Buy)."
-      },
-      {
         "ticker": "WMT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Walmart's AI assistant Sparky shows strong adoption with 70% year-over-year usage increase and customers spending 40% more per order. The company is effectively using AI for personalization and product discovery."
+        "sentiment_reasoning": "Strong double-digit growth across advertising (38%), Walmart Connect (43%), and e-commerce (24%). Achieved double-digit incremental margins in U.S. e-commerce and improved gross profit mix. Strategic acquisition of Vibe expands advertising capabilities."
       },
       {
-        "ticker": "BJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BJ's Wholesale is successfully deploying AI assistant Bev with over 100,000 member conversations handled. Digitally enabled comparable sales rose 30% in Q2 fiscal 2026, indicating strong digital engagement and customer loyalty improvements."
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with 1% share gain over the past year and higher forward P/E ratio (40.03) than Walmart. No specific performance metrics provided."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor with strong 71.4% share gain over the past year but lower forward P/E ratio (15.68) than Walmart. No specific operational metrics provided."
       }
     ]
   },
   {
-    "id": "658feb876cc3607d766d1a1ea683e9bd9c2e2725528cec7dbe48378cad1ec8d2",
+    "id": "2de872c89e5c6f6b63f2824461a93fc385e32562f9c26880344df0a96ca264db",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus",
-    "author": "Na",
-    "published_utc": "2026-09-21T13:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992824/u-s-china-talks-seem-successful-etf-areas-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-2992824",
+    "title": "BP highlighted as Zacks Bull and MasterCraft Boat Bear of the Day",
+    "author": "Zacks Equity Research",
+    "published_utc": "2026-10-06T11:31:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000733/bp-highlighted-as-zacks-bull-and-mastercraft-boat-bear-of-the-day?cid=CS-ZC-FT-press_releases-3000733",
     "tickers": [
-      "QCOM",
-      "INTC",
-      "MU",
-      "AMAT",
-      "NVDA",
-      "AAPL",
+      "BP",
+      "MCFT",
+      "TGT",
+      "WMT",
+      "DG"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/431.jpg",
+    "description": "Zacks Equity Research designated BP p.l.c. as the Bull of the Day due to new CEO leadership, debt reduction strategy, and five consecutive earnings beats with analyst estimates raised to $7.28 for 2026. MasterCraft Boat Holdings was named Bear of the Day as analysts cut fiscal 2027 earnings estimates despite consistent quarterly beats, with guidance falling short of consensus expectations during its fiscal-to-calendar year transition.",
+    "keywords": [
+      "earnings beats",
+      "debt reduction",
+      "analyst estimates",
+      "oil prices",
+      "fiscal year transition",
+      "capital expenditures",
+      "supply chain investment"
+    ],
+    "insights": [
+      {
+        "ticker": "BP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "New CEO with debt reduction strategy, five consecutive earnings beats, analyst estimate raises to $7.28 for 2026 (152.8% earnings growth), attractive valuation metrics (P/E of 6.2, P/S of 0.5), 4.6% dividend yield, and benefits from sustained high oil prices around $90-$100."
+      },
+      {
+        "ticker": "MCFT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Analysts cut fiscal 2027 earnings estimates from $2.02 to $1.86, company guidance of $0.66-$0.76 for transition period falls significantly below consensus of $0.85, shares down 17.4% in three months, and confusion around earnings during fiscal-to-calendar year transition despite historical earnings beat streak."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Shares rallied 23.7% over three months versus industry decline of 2.4%, forward P/E of 15.99 below industry average of 27.16, consensus estimates signal 37.8% earnings growth for current fiscal year, $5 billion capex plan supporting store expansion and technology modernization, Zacks Rank #2 (Buy)."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Raised fiscal 2027 capex outlook to 4% of net sales from 3.5%, investing in automation, technology, and fulfillment capacity to improve inventory flow and omnichannel operations, demonstrating confidence in growth strategy."
+      },
+      {
+        "ticker": "DG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Fiscal 2026 capex of $1.4-$1.5 billion directed toward store growth, remodels, supply-chain projects and technology, with approximately 4,730 real-estate projects planned, demonstrating commitment to expansion and modernization."
+      }
+    ]
+  },
+  {
+    "id": "f8ea205f8228842b571e233121e1c7a8820b33867a4dd32857077b5446a7ee19",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
+    "author": "John Bromels",
+    "published_utc": "2026-10-06T09:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/costco-is-down-10-in-6-months-while-the-sp-500-is/?source=iedfolrf0000001",
+    "tickers": [
+      "COST",
       "WMT",
       "TGT",
       "BBY",
-      "COST",
-      "TSLA",
-      "SMH",
-      "XRT",
-      "RTH",
-      "CARZ"
+      "KR"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/1072.jpg",
-    "description": "Ahead of an expected Trump-Xi meeting in Washington, U.S.-China trade negotiations focusing on tariff reductions and AI could benefit semiconductor, technology, retail, and auto sectors. Companies with significant China exposure including Qualcomm, Intel, Micron, Applied Materials, NVIDIA, Apple, Walmart, Target, Best Buy, Costco, and Tesla may see positive sentiment if trade tensions ease.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887923%2Fcost.jpg&w=1200&op=resize",
+    "description": "Costco's stock has underperformed the S&P 500 by 27 percentage points over the last six months, despite growing revenue, profits, and membership renewal rates. While the company maintains a premium valuation compared to retail peers due to strong membership loyalty, the article argues that at current prices, Costco is not as cheap as it appears. Headwinds from tariffs and fuel costs, combined with elevated valuations, suggest investors seeking faster growth may find better opportunities elsewhere.",
     "keywords": [
-      "U.S.-China trade talks",
+      "retail stocks",
+      "valuation metrics",
+      "membership renewal",
       "tariffs",
-      "semiconductors",
-      "AI chips",
-      "retail",
-      "automobiles",
-      "Trump-Xi meeting",
-      "trade negotiations"
+      "fuel costs",
+      "price-to-earnings ratio",
+      "buy-and-hold investing"
     ],
     "insights": [
       {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China revenue exposure; semiconductor tariff reductions could improve margins and sales"
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major China exposure in semiconductor sales; potential tariff relief could boost revenue"
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor company with substantial China business; trade deal could ease restrictions"
-      },
-      {
-        "ticker": "AMAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor equipment supplier with China exposure; tariff reductions could increase sales"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI chip exports to China are central to trade discussions; broader agreement could unlock significant sales potential"
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Extensive China manufacturing and supply chain exposure; easing tensions could reduce costs and improve margins"
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Costco demonstrates strong fundamentals with growing revenue, profits, and high membership renewal rates (92.3%), the article concludes the stock is not a bargain at current prices. The company trades at a significant premium to peers and faces headwinds from tariffs and fuel costs. Suitable only for long-term buy-and-hold investors, not for those seeking faster growth."
       },
       {
         "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Large sourcing from China; reciprocal tariff reductions could lower consumer goods costs"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a successful retail competitor with 415% growth over the last decade, but no specific investment recommendation or analysis provided. Used primarily as a comparison point to Costco's superior long-term performance."
       },
       {
         "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sourcing; tariff relief could reduce imported goods costs"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in valuation comparison table showing lower P/S, P/E, and P/FCF ratios than Costco, suggesting cheaper valuation metrics. No specific recommendation or analysis provided."
       },
       {
         "ticker": "BBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Consumer electronics retailer vulnerable to tariffs; trade deal could lower import costs"
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major retailer with China sourcing; tariff reductions could improve pricing and margins"
-      },
-      {
-        "ticker": "TSLA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant China sales and manufacturing through Shanghai Gigafactory; trade normalization could boost operations"
-      },
-      {
-        "ticker": "SMH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor ETF; tariff reductions on chips would benefit holdings"
-      },
-      {
-        "ticker": "XRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; tariff reductions on imported consumer goods would benefit retailers"
-      },
-      {
-        "ticker": "RTH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Retail ETF; lower tariffs on China-sourced goods would improve margins"
-      },
-      {
-        "ticker": "CARZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Auto ETF; U.S. automakers have substantial China exposure; trade normalization would benefit sector"
-      }
-    ]
-  },
-  {
-    "id": "d26790fb6606d89c8f4ba21c632aa3ea3b7d07d536e9c7f14e77d56b625712ae",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's Why Walmart Won't Reclaim a $1 Trillion Market Cap Anytime Soon",
-    "author": "Marc Guberti",
-    "published_utc": "2026-09-19T11:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/19/heres-why-walmart-wont-reclaim-a-1-trillion-market/?source=iedfolrf0000001",
-    "tickers": [
-      "WMT",
-      "AMZN",
-      "TGT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887638%2Fstore-aisle-5-below-dollar-general-dollar-tree-1201x775-6ad09b4.jpg&w=1200&op=resize",
-    "description": "Walmart, currently trading below its $1 trillion market cap peak, faces headwinds that make a near-term recovery unlikely. The retail giant's slow 4% revenue CAGR over the past decade, combined with a premium 39 P/E valuation relative to competitors, limits upside potential. While online advertising showed promise with 46% growth in fiscal 2026, it's already decelerating at 38% in Q2 FY27. With low profit margins typical of retail and recent Fed rate hikes threatening further growth slowdown, Walmart's path to $1 trillion appears distant.",
-    "keywords": [
-      "market valuation",
-      "revenue growth",
-      "profit margins",
-      "online advertising",
-      "P/E ratio",
-      "retail sector",
-      "interest rates"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Slow revenue growth (4% CAGR), declining earnings per share (-9.1% YoY), premium valuation (39 P/E) relative to peers, decelerating advertising growth, and low profit margins (3%) make near-term $1 trillion market cap recovery unlikely. Fed rate hikes pose additional headwinds."
-      },
-      {
-        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a favorable comparison point with lower P/E ratio (20) and higher profit margins due to cloud platform, but no specific analysis of Amazon's fundamentals or outlook provided in the article."
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio among peers. No specific recommendation or analysis provided."
       },
       {
-        "ticker": "TGT",
+        "ticker": "KR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a peer comparison with a lower P/E ratio (16) than Walmart, but no detailed analysis of Target's business or prospects is provided."
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio (0.25) among all retailers listed. No specific recommendation or analysis provided."
       }
     ]
   }

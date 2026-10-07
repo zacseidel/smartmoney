@@ -1,270 +1,298 @@
 [
   {
-    "id": "48367d5b6453e80db9a62a4465af33a1b4902c8308c2ceaf18cfd02350de6f2d",
+    "id": "6ae6a3eca607512c201b836f61844961b1b5e8dfb9c910bc71a701e5b165fcbe",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Could Planet Labs Be the Next Palantir?",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-09-22T23:29:05Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/why-is-everyone-talking-about-planet-labs-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "PL",
-      "PLTR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888607%2Fmqdefault_custom_1.jpg&w=1200&op=resize",
-    "description": "An analyst draws parallels between Planet Labs and Palantir, noting similarities in how both companies started with government contracts and expanded into enterprise solutions. Planet Labs stock has declined 67% from its high, while the article explores the company's growth trajectory powered by government contracts.",
-    "keywords": [
-      "government contracts",
-      "enterprise expansion",
-      "space technology",
-      "stock comparison",
-      "revenue growth"
-    ],
-    "insights": [
-      {
-        "ticker": "PL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents an analytical comparison without strong bullish or bearish language. While it notes a 67% decline from highs, it frames this as a potential buying opportunity and draws positive parallels to Palantir's successful trajectory. The tone is exploratory rather than conclusive."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Used as a positive reference point for comparison, highlighting Palantir's successful transition from government contracts to enterprise solutions, implying this is a proven and successful business model that Planet Labs could replicate."
-      }
-    ]
-  },
-  {
-    "id": "d2e74e5418a48df3f9a6bfbf73d5cfe81c88a7e99de5c99f33afdd8bb2ff07d8",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-22T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/got-5000-2-growth-stocks-building-the-software-bac/?source=iedfolrf0000001",
+    "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
+    "author": "Brett Schafer",
+    "published_utc": "2026-10-06T16:21:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?source=iedfolrf0000001",
     "tickers": [
       "AMZN",
+      "NVDA",
       "PLTR",
-      "NVDA"
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888259%2Fai-digital-brain.jpg&w=1200&op=resize",
-    "description": "The article highlights Amazon and Palantir as two AI software companies positioned to benefit from the AI market's rapid expansion. Amazon's AWS provides cloud infrastructure and AI services like Bedrock and SageMaker, with additional upside from its Anthropic stake. Palantir offers data aggregation platforms (Gotham and Foundry) that enable AI application development. Both companies are expected to deliver strong revenue and earnings growth through 2028, though Palantir trades at a premium valuation.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889475%2Fwoman-in-an-datacenter.jpg&w=1200&op=resize",
+    "description": "Amazon is positioned as an undervalued AI play despite its $2.7 trillion market cap. AWS revenue grew 37% year-over-year to $42.2 billion, driven by AI infrastructure demand. The company is also integrating AI across its retail business through search tools, ad targeting, and supply chain automation. With projected earnings of $161 billion and a forward P/E of 17, analysts believe Amazon stock has significant upside potential.",
     "keywords": [
-      "AI market expansion",
+      "Amazon",
+      "AWS",
+      "artificial intelligence",
       "cloud infrastructure",
-      "software backbone",
-      "data aggregation",
-      "generative AI",
-      "growth stocks"
+      "undervalued",
+      "AI growth",
+      "supply chain automation"
     ],
     "insights": [
       {
         "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "AWS is positioned as a linchpin of the AI market with strong growth prospects. The company benefits from Anthropic stake, expected 15% revenue CAGR and 24% EPS CAGR through 2028, and reasonable valuation at 25x forward earnings."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Palantir's data aggregation and AI integration capabilities position it as a key player in the AI revolution. Expected 58% revenue CAGR and 70% EPS CAGR through 2028 demonstrate strong growth, though premium valuation at 87x forward earnings is noted as a consideration."
+        "sentiment_reasoning": "AWS experiencing strong 37% YoY growth driven by AI infrastructure boom; company applying AI across retail operations; analyst price target of $355 vs current $250 suggests upside; forward P/E of 17 indicates undervaluation relative to growth prospects and margin expansion potential."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a popular AI chipmaker focus, but the article positions software companies as underappreciated alternatives rather than endorsing or criticizing Nvidia."
-      }
-    ]
-  },
-  {
-    "id": "54a1c1be00ab62fde81252e3001d0584fbad3eafa3213a211b51b37243c8e8f1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "CrowdStrike vs. Palantir Technologies: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Pamela Kock",
-    "published_utc": "2026-09-22T15:15:56Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/22/crowdstrike-vs-palantir-technologies-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "CRWD",
-      "PLTR",
-      "AMZN",
-      "MSFT",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbf1840c3c19f65b476307d856544619881ecb92d-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares CrowdStrike and Palantir Technologies as investment options for 2026. CrowdStrike offers a leading cybersecurity platform with 22% revenue growth but remains unprofitable and faces reputational damage from a 2024 outage. Palantir demonstrates stronger financial performance with 56% revenue growth, profitability, and no debt, but carries higher valuation and customer concentration risks. The author recommends CrowdStrike for its better balance between growth and valuation, despite ongoing challenges.",
-    "keywords": [
-      "cybersecurity",
-      "cloud computing",
-      "AI",
-      "data protection",
-      "profitability",
-      "valuation",
-      "growth stocks",
-      "risk assessment"
-    ],
-    "insights": [
-      {
-        "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong market position and resilient stock recovery post-outage, but offset by ongoing unprofitability (-3.4% net margin), reputational damage from July 2024 incident, and slower growth (21.7% YoY). Recommended by author as better value despite challenges."
+        "sentiment_reasoning": "Mentioned as a stock that has soared in recent years, but article positions Amazon as a better undervalued AI opportunity compared to Nvidia."
       },
       {
         "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional financial performance with 56.2% revenue growth, strong profitability (36.3% net margin), zero debt, high liquidity, and expanding commercial customer base. However, positive sentiment is tempered by high valuation multiples and customer concentration risk."
-      },
-      {
-        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud infrastructure provider that CrowdStrike depends on, creating operational dependency risk. No direct investment recommendation provided."
+        "sentiment_reasoning": "Referenced as a stock that has performed well recently, but not the focus of the analysis."
       },
       {
         "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a third-party cloud provider that Palantir relies on. No direct investment recommendation provided."
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+      }
+    ]
+  },
+  {
+    "id": "9e96873a654f946d6f920b2a0032fa7e3d3e5ad15e99c7a595c02cb87755afdd",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should Invesco S&P 100 Equal Weight ETF (EQWL) Be on Your Investing Radar?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-06T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3000665/should-invesco-s-p-100-equal-weight-etf-eqwl-be-on-your-investing-radar?cid=CS-ZC-FT-style_box_etf-3000665",
+    "tickers": [
+      "EQWL",
+      "IVV",
+      "VOO",
+      "CRM",
+      "PLTR",
+      "NOW"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default188.jpg",
+    "description": "The Invesco S&P 100 Equal Weight ETF (EQWL) is a passively managed large-cap blend ETF with $2.78 billion in assets and a competitive 0.25% expense ratio. With 103 holdings and a beta of 0.89, it offers medium-risk diversification. Year-to-date performance is 11.37% and one-year performance is 14.45%. The ETF received a Zacks ETF Rank of 3 (Hold), positioning it as a sufficient option for large-cap blend exposure, though lower-cost alternatives like VOO and IVV are also available.",
+    "keywords": [
+      "ETF",
+      "large-cap blend",
+      "equal weight",
+      "passive management",
+      "expense ratio",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "EQWL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF received a Hold rating (Zacks Rank 3) with solid performance metrics and competitive expense ratio, but is presented as merely sufficient rather than exceptional, with lower-cost alternatives available."
+      },
+      {
+        "ticker": "IVV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a superior alternative with significantly lower expense ratio (0.03% vs 0.25%) and substantially larger assets ($895.11 billion), making it a more attractive option for similar market exposure."
+      },
+      {
+        "ticker": "VOO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a competitive alternative with the lowest expense ratio (0.03%) and the largest asset base ($1,060.66 billion), representing the most cost-efficient option in the comparison."
+      },
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding (1.43% of portfolio) in EQWL with no performance commentary or sentiment attached."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in EQWL with no performance commentary or sentiment attached."
+      },
+      {
+        "ticker": "NOW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in EQWL with no performance commentary or sentiment attached."
+      }
+    ]
+  },
+  {
+    "id": "c6af9642833f79340e90e250f76537a32d4d5d13cbfe34ab3975be9e086dbc73",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia, Palantir, and Alphabet Are Sending Shockwaves Through Wall Street With This $17.5 Billion Warning",
+    "author": "Sean Williams",
+    "published_utc": "2026-10-06T09:06:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-palantir-alphabet-send-shockwaves-through-wall-street-with-17-billion-warning/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "PLTR",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fcdca4f408124647cbd0ff15bd9ba984d823153a8-2000x1500.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Insiders at three major AI powerhouses\u2014Nvidia, Palantir, and Alphabet\u2014have sold approximately $17.5 billion more stock than they've purchased over the past five years, raising concerns about valuation and a potential AI bubble. While insider stock sales can be attributed to tax obligations, the minimal insider buying activity suggests limited confidence in near-term share price appreciation.",
+    "keywords": [
+      "insider selling",
+      "artificial intelligence",
+      "valuation concerns",
+      "AI bubble",
+      "stock market",
+      "tech stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have engaged in $6.86 billion in net-selling activity over five years with only $250,000 in purchases, indicating minimal confidence in future stock appreciation despite the company's AI infrastructure dominance."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have sold $6.51 billion net while purchasing only $7.84 million in stock. Additionally, the company trades at an unsustainable P/S ratio of nearly 80, well above the historical 30 threshold, raising valuation concerns."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have sold $4.15 billion net while purchasing $95 million in stock. The significant net-selling activity suggests insider skepticism about near-term growth prospects despite Google Cloud's strong AI-driven performance."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have sold $4.15 billion net while purchasing $95 million in stock. The significant net-selling activity suggests insider skepticism about near-term growth prospects despite Google Cloud's strong AI-driven performance."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have sold $4.15 billion net while purchasing $95 million in stock. The significant net-selling activity suggests insider skepticism about near-term growth prospects despite Google Cloud's strong AI-driven performance."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Insiders have sold $4.15 billion net while purchasing $95 million in stock. The significant net-selling activity suggests insider skepticism about near-term growth prospects despite Google Cloud's strong AI-driven performance."
+      }
+    ]
+  },
+  {
+    "id": "049f5e3aaa78f8d41cd97b4d0113d4170664e0a41cf3f01feb05c00b2d0708cf",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "The Overlooked AI Stock Poised to Outperform Nvidia and Palantir",
+    "author": "Marc Guberti",
+    "published_utc": "2026-10-06T07:35:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/the-overlooked-ai-stock-poised-to-outperform-nvidi/?source=iedfolrf0000001",
+    "tickers": [
+      "VRT",
+      "NVDA",
+      "PLTR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889799%2Fgettyimages-1483780995-1201x742-1536a11.jpg&w=1200&op=resize",
+    "description": "Vertiv, a liquid cooling specialist, is positioned as a critical AI infrastructure play that may outperform Nvidia and Palantir. As AI chips generate excessive heat that air cooling cannot manage, Vertiv's liquid cooling systems have become essential for data centers. The company reported 24% YoY revenue growth in Q2 with management guidance for 31% full-year growth, while trading at a relatively attractive 1-year forward P/E of 28 and a PEG ratio of 0.84.",
+    "keywords": [
+      "AI infrastructure",
+      "liquid cooling",
+      "data centers",
+      "thermal management",
+      "GPU cooling",
+      "AI hardware",
+      "Nvidia partnership"
+    ],
+    "insights": [
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth (24% YoY, 31% guidance), 44% operating profit increase, strategic Nvidia partnership, expanding market presence, attractive valuation metrics (P/E 28, PEG 0.84), and positioned as clear market leader in AI liquid cooling with long-term growth catalysts."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a partner in Palantir's sovereign AI initiatives. No direct investment recommendation provided."
+        "sentiment_reasoning": "Mentioned as established leader in AI chips but article suggests Vertiv may outperform it going forward. Nvidia is presented as a complementary business rather than a direct competitor, with Vertiv's success dependent on Nvidia's continued growth."
+      },
+      {
+        "ticker": "PLTR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as strong AI software provider but similarly suggested to potentially underperform Vertiv. No specific performance metrics or concerns discussed; included mainly for comparative valuation purposes."
       }
     ]
   },
   {
-    "id": "31f346c014ceb3195a98362e6ca220339ae782914498a6228c5dcaf973518dee",
+    "id": "283bae3a6cc59b3f3bc8a4f209de10b55911b036479d03d1dea895eb1b8c053d",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Earnings Growth & Price Strength Make Palantir Technologies Inc. (PLTR) a Stock to Watch",
+    "title": "The Zacks Analyst Blog Highlights Palantir Technologies, BP and Quanta",
     "author": "Zacks.Com",
-    "published_utc": "2026-09-22T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2993592/earnings-growth-price-strength-make-palantir-technologies-inc-pltr-a-stock-to-watch?cid=CS-ZC-FT-fundamental_analysis|zacks_education_focus_list-2993592",
+    "published_utc": "2026-10-06T05:13:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3000618/the-zacks-analyst-blog-highlights-palantir-technologies-bp-and-quanta?cid=CS-ZC-FT-press_releases-3000618",
     "tickers": [
-      "PLTR"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default95.jpg",
-    "description": "Palantir Technologies (PLTR) has been added to the Zacks Focus List and is rated as a #2 (Buy) on the Zacks Rank. The company has seen significant price appreciation of 647% since being added to the list in March 2024. With 11 analysts revising earnings estimates higher in the last 60 days and expected earnings growth of 113.3% for the current fiscal year, PLTR demonstrates strong momentum and positive analyst sentiment.",
-    "keywords": [
-      "earnings growth",
-      "price strength",
-      "Zacks Rank",
-      "earnings estimate revisions",
-      "analyst consensus",
-      "software platforms",
-      "government and commercial organizations"
-    ],
-    "insights": [
-      {
-        "ticker": "PLTR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "PLTR demonstrates strong positive fundamentals including 647% price appreciation since March 2024, a #2 (Buy) Zacks Rank rating, 11 analyst earnings estimate revisions upward in the last 60 days, consensus estimate increase of $0.12 to $1.6, average earnings surprise of 15.8%, and expected earnings growth of 113.3% for the current fiscal year. These factors collectively indicate strong analyst confidence and market momentum."
-      }
-    ]
-  },
-  {
-    "id": "c14c8a64c87931ee76ff8e49ea345562d5c92151c64f7b91139e4b4b66bb95db",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
-    "author": "Na",
-    "published_utc": "2026-09-21T12:10:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992678/beat-the-market-like-zacks-pbf-palantir-adobe-in-focus?cid=CS-ZC-FT-analyst_blog|investment_ideas-2992678",
-    "tickers": [
-      "PBF",
-      "DK",
       "PLTR",
-      "ADBE",
-      "TMO",
-      "MPWR",
-      "AVBC",
-      "CHMG",
-      "DGX",
-      "ADP",
-      "ICE"
+      "BP",
+      "PWR"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/5d/931.jpg",
-    "description": "Zacks Investment Research showcased strong performance across its various stock rating systems and portfolios. PBF Energy and Delek US surged following Zacks Rank #1 upgrades, while the Zacks #1 Rank portfolio outperformed the S&P 500 by 2.3 percentage points year-to-date. Notable performers included Palantir (up 38.3% over 12 weeks), Adobe (up 27.6%), Thermo Fisher (up 40.2%), and Monolithic Power Systems (up 30.1% since January 5, 2026). The article emphasizes Zacks' track record of outperforming the market since 1988.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/431.jpg",
+    "description": "Global markets face headwinds from two-decade high borrowing costs, oil above $100/barrel, and central bank rate hikes, creating pressure on governments and investors. Key concerns include political turmoil in France, rising bond yields, currency volatility, and Brazil's presidential runoff. Three Zacks #1 Rank stocks highlighted: Palantir Technologies (tech growth), BP (energy with renewable transition plans), and Quanta Services (specialty contracting in utilities sector).",
     "keywords": [
-      "stock ratings",
-      "portfolio performance",
-      "market outperformance",
-      "earnings estimates",
-      "dividend stocks",
-      "semiconductor stocks"
+      "borrowing costs",
+      "oil prices",
+      "central bank rate hikes",
+      "currency volatility",
+      "France political turmoil",
+      "Brazil election",
+      "Federal Reserve",
+      "tech stocks",
+      "energy stocks",
+      "industrial stocks"
     ],
     "insights": [
       {
-        "ticker": "PBF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 20% following upgrade to Zacks Rank #1 on July 23, significantly outperforming S&P 500's 1.9% gain in the same period"
-      },
-      {
-        "ticker": "DK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock returned 18.1% following upgrade to Zacks Rank #1 on July 23, demonstrating strong performance post-upgrade"
-      },
-      {
         "ticker": "PLTR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 38.3% over 12 weeks as part of Zacks Focus List, significantly outperforming S&P 500's 2% gain in the same period"
+        "sentiment_reasoning": "Designated as Zacks #1 Rank (STRONG BUY) stock with strong growth score (B) and momentum score (C). Company builds software platforms for intelligence community with solid market position."
       },
       {
-        "ticker": "ADBE",
+        "ticker": "BP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock returned 27.6% over 12 weeks as a Focus List holding, substantially outperforming the broader market"
+        "sentiment_reasoning": "Designated as Zacks #1 Rank (STRONG BUY) stock with strong value score (A), growth score (B), and momentum score (B). Benefits from oil prices above $100/barrel and positioned for renewable energy transition with carbon-neutral 2050 goals."
       },
       {
-        "ticker": "TMO",
+        "ticker": "PWR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock jumped 40.2% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
-      },
-      {
-        "ticker": "MPWR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 30.1% since January 5, 2026, significantly outperforming S&P 500's 11.5% gain in the same period"
-      },
-      {
-        "ticker": "AVBC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 11.6% following upgrade to Zacks Recommendation Outperform on July 24"
-      },
-      {
-        "ticker": "CHMG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged 11.3% following upgrade to Zacks Recommendation Outperform on July 24"
-      },
-      {
-        "ticker": "DGX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock returned 26.4% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
-      },
-      {
-        "ticker": "ADP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock climbed 24.2% over 12 weeks as part of the Earnings Certain Dividend Portfolio (ECDP)"
-      },
-      {
-        "ticker": "ICE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock returned 16.1% over 12 weeks as part of the Earnings Certain Admiral Portfolio (ECAP)"
+        "sentiment_reasoning": "Designated as Zacks #1 Rank (STRONG BUY) stock with excellent growth score (A). Leading contractor in North American electric utility transmission and distribution sector, well-positioned for infrastructure investments."
       }
     ]
   }

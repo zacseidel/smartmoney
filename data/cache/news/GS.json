@@ -1,80 +1,104 @@
 [
   {
-    "id": "855a4365722e2bbe271d3572ab20b2a23a04a738d84e543a72f78d7380fba858",
+    "id": "4025caa63d8e8c2013e456d6e248dc0a909af8250cea7817a6436fa0f48381a5",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Prediction: Networking Will Be the Next Bottleneck Within the AI Supercycle. 1 Growth Stock to Own.",
-    "author": "Harsh Chauhan",
-    "published_utc": "2026-09-22T20:02:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/prediction-networking-will-be-the-next-bottleneck/?source=iedfolrf0000001",
+    "title": "If a Stock Market Crash Is Coming, Warren Buffett Says Investors Should Make This Important Move",
+    "author": "Will Ebiefung",
+    "published_utc": "2026-10-06T16:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/if-a-stock-market-crash-is-coming-warren-buffett/?source=iedfolrf0000001",
     "tickers": [
-      "ANET",
+      "NVDA",
+      "MU",
       "GS",
       "GSpA",
       "GSpC",
-      "GSpD"
+      "GSpD",
+      "BRK.A",
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888257%2Fcables-plugged-into-servers.jpg&w=1200&op=resize",
-    "description": "As AI infrastructure demand surges, networking components are becoming the next supply bottleneck. Goldman Sachs expects optical networking revenue to grow over 10x between 2026-2028. Arista Networks is positioned as a major beneficiary, with its AI networking fabric customer base growing from 4-5 in 2024 to over 100 customers, and revenue expected to reach $3.5 billion from AI deployments in 2026.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890166%2Fbuffett16-tmf.jpg&w=1200&op=resize",
+    "description": "With AI-driven market gains potentially unsustainable and valuations at dot-com bubble levels, Warren Buffett's investment strategy of focusing on fairly valued companies with stable business models and maintaining cash reserves offers guidance for navigating potential market downturns. Buffett avoided timing the market during past crashes but positioned himself with liquidity to capitalize on future opportunities.",
     "keywords": [
-      "AI infrastructure supercycle",
-      "networking bottleneck",
-      "optical networking",
-      "AI data centers",
-      "Ethernet switches",
-      "supply shortage",
-      "AI accelerators"
+      "stock market crash",
+      "Warren Buffett",
+      "AI bubble",
+      "market valuation",
+      "dot-com bubble",
+      "long-term investing",
+      "CAPE ratio",
+      "market correction"
     ],
     "insights": [
       {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong growth trajectory with 38% YoY revenue increase in Q2, expanding customer base (4-5 to 100+ customers), $9.7B in purchase commitments, and expected $3.5B revenue from AI deployments. Stock up 57% in 2026. Forward P/E of 38 suggests significant earnings growth potential ahead."
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Identified as a hardware provider heavily benefiting from AI spending boom; vulnerable if AI investment cycle dries up as predicted by analysts"
+      },
+      {
+        "ticker": "MU",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Listed as hardware provider dependent on AI-related capital spending; at risk if the $1 trillion AI spending cycle contracts"
       },
       {
         "ticker": "GS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+        "sentiment_reasoning": "Mentioned as source of analyst warning about AI investment boom not lasting forever; neutral reporting role"
       },
       {
         "ticker": "GSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+        "sentiment_reasoning": "Mentioned as source of analyst warning about AI investment boom not lasting forever; neutral reporting role"
       },
       {
         "ticker": "GSpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+        "sentiment_reasoning": "Mentioned as source of analyst warning about AI investment boom not lasting forever; neutral reporting role"
       },
       {
         "ticker": "GSpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research forecasting 10x growth in optical networking revenue between 2026-2028. No direct investment thesis or company-specific analysis provided."
+        "sentiment_reasoning": "Mentioned as source of analyst warning about AI investment boom not lasting forever; neutral reporting role"
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned with $365.5 billion in liquidity, enabling it to capitalize on market downturns and purchase undervalued assets"
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positioned with $365.5 billion in liquidity, enabling it to capitalize on market downturns and purchase undervalued assets"
       }
     ]
   },
   {
-    "id": "3fb2598fcd6079fe3f9379763158b2077e83adab10003f34f9ac18530004d8c8",
+    "id": "8967a959707da762a992229d981380ef7a3bcde8e1331fa7657cf1bf462bae9d",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Stock Market Midday, Sept. 22: Means Markets Muted Despite Tech Gains as Geopolitics Dominates",
-    "author": "Emma Newbery",
-    "published_utc": "2026-09-22T16:38:00Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/22/stock-market-midday-sept-22-means-markets-muted-despite-tech-gains-as-geopolitics-dominates/?source=iedfolrf0000001",
+    "title": "Can Morgan Stanley's Integrated Model Drive Long-Term Earnings Growth?",
+    "author": "Na",
+    "published_utc": "2026-10-06T14:30:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3001114/can-morgan-stanley-s-integrated-model-drive-long-term-earnings-growth?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001114",
     "tickers": [
-      "LEN",
-      "LEN.B",
-      "MU",
-      "SHOP",
-      "META",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
       "GS",
       "GSpA",
       "GSpC",
@@ -87,255 +111,209 @@
       "JPMpK",
       "JPMpL",
       "JPMpM",
-      "VYLD",
-      "BRK.A",
-      "BRK.B"
+      "VYLD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe7dd8b70435a213a06dcc8bea55f01f7acf42b48-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Markets showed mixed performance on Sept. 22, 2026, with the Nasdaq hitting a new intraday record while the S&P 500 and Dow declined. Tech stocks gained on AI optimism, but geopolitical concerns and interest rate fears limited broader market gains. Investors await developments from the UN General Assembly and the Trump-Xi meeting.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/33/8423.jpg",
+    "description": "Morgan Stanley's integrated business model spanning investment banking, wealth management, and asset management is driving strong growth, with wealth and investment management client assets reaching a record $10 trillion as of June 2026 and IB revenues rising 47% in the first half of 2026. However, the stock trades at a premium valuation relative to peers, faces persistent expense growth, and remains exposed to trading cyclicality, leading analysts to recommend a selective approach.",
     "keywords": [
-      "stock market",
-      "geopolitics",
-      "tech stocks",
-      "AI optimism",
-      "interest rates",
-      "Middle East",
-      "semiconductor stocks"
+      "integrated business model",
+      "investment banking recovery",
+      "wealth management",
+      "asset management",
+      "premium valuation",
+      "trading cyclicality",
+      "expense pressure",
+      "capital allocation"
     ],
     "insights": [
       {
-        "ticker": "LEN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Shares surging after Berkshire Hathaway purchased over $200 million of stock, despite earnings miss and housing market caution"
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
       },
       {
-        "ticker": "LEN.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Shares surging after Berkshire Hathaway purchased over $200 million of stock, despite earnings miss and housing market caution"
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
       },
       {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Semiconductor stocks extended gains on returning AI optimism"
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
       },
       {
-        "ticker": "SHOP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Surged after Meta's AI agent Muse integrated its checkout functionality"
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
       },
       {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI agent development driving positive sentiment in ecosystem partners"
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong fundamentals including record $10 trillion in client assets, 47% IB revenue growth, and solid capital position are offset by premium valuation (3.52X P/TB vs 3.04X industry average), persistent expense growth (7.4% CAGR), and trading revenue cyclicality. Stock already outperforming peers, suggesting much optimism is priced in."
       },
       {
         "ticker": "GS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer pursuing similar strategy of reducing capital markets dependence and expanding asset and wealth management. Lower valuation (2.48X P/TB) compared to Morgan Stanley, but limited specific performance data provided in article."
       },
       {
         "ticker": "GSpA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer pursuing similar strategy of reducing capital markets dependence and expanding asset and wealth management. Lower valuation (2.48X P/TB) compared to Morgan Stanley, but limited specific performance data provided in article."
       },
       {
         "ticker": "GSpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer pursuing similar strategy of reducing capital markets dependence and expanding asset and wealth management. Lower valuation (2.48X P/TB) compared to Morgan Stanley, but limited specific performance data provided in article."
       },
       {
         "ticker": "GSpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial services stocks declined due to interest rate and Treasury yield concerns"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer pursuing similar strategy of reducing capital markets dependence and expanding asset and wealth management. Lower valuation (2.48X P/TB) compared to Morgan Stanley, but limited specific performance data provided in article."
       },
       {
         "ticker": "AMJB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "JPMpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       },
       {
         "ticker": "VYLD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank stocks slipped on continued interest rate and Treasury yield fears"
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant investment activity in Lennar demonstrates confidence in selective opportunities"
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant investment activity in Lennar demonstrates confidence in selective opportunities"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as maintaining No. 1 global IB ranking with 9.3% wallet share in first half 2026. Well-positioned for capital markets normalization, but mentioned primarily as competitive benchmark with modest YTD performance of 3.2%."
       }
     ]
   },
   {
-    "id": "a201f3053904abad4ddfefd9a51a81d68d5bb3fb7138b4ce4ec7fcfc5ca3cd98",
+    "id": "c268e14ded263de444a9c5213cee2c76b16561e8b2074c95828a5750294f9862",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Goldman Sachs (GS) Rises Higher Than Market: Key Facts",
+    "title": "Goldman Sachs (GS) Earnings Expected to Grow: Should You Buy?",
     "author": "Na",
-    "published_utc": "2026-09-21T21:45:07Z",
-    "article_url": "https://www.zacks.com/stock/news/2993245/goldman-sachs-gs-rises-higher-than-market-key-facts?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2993245",
+    "published_utc": "2026-10-06T13:00:04Z",
+    "article_url": "https://www.zacks.com/stock/news/3000991/goldman-sachs-gs-earnings-expected-to-grow-should-you-buy?cid=CS-ZC-FT-fundamental_analysis|yseop_template_9-3000991",
     "tickers": [
       "GS",
       "GSpA",
       "GSpC",
       "GSpD"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default132.jpg",
-    "description": "Goldman Sachs closed at $959.39, up 1.85%, outperforming the S&P 500's 1.49% gain. However, the stock has declined 9.36% over the past month. The company is expected to report Q3 2026 earnings of $15.37 per share on October 13, representing 25.47% year-over-year growth, with revenue projected at $17.14 billion. Goldman Sachs holds a Zacks Rank #3 (Hold) rating with a Forward P/E of 13.73, trading at a slight premium to its industry average.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default113.jpg",
+    "description": "Goldman Sachs is expected to report Q3 2026 earnings on October 13 with consensus estimates of $13.89 EPS (up 13.4% YoY) and $16.91B in revenues (up 11.4% YoY). However, recent analyst revisions have turned bearish, resulting in a negative Earnings ESP of -11.16%, making an earnings beat unlikely despite the stock's Zacks Rank #3 rating. The company has a strong history of beating estimates, having exceeded consensus four consecutive quarters.",
     "keywords": [
+      "earnings preview",
       "Goldman Sachs",
-      "earnings forecast",
-      "stock performance",
-      "Zacks Rank",
-      "valuation metrics",
-      "investment banking"
+      "Q3 2026",
+      "earnings surprise",
+      "analyst estimates",
+      "Earnings ESP",
+      "Zacks Rank"
     ],
     "insights": [
       {
         "ticker": "GS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Goldman Sachs shows strong projected earnings growth of 25.47% YoY and revenue growth of 12.91%, the stock has underperformed with a 9.36% decline over the past month. The Zacks Rank #3 (Hold) rating and consensus EPS estimate downward revision of 0.45% suggest cautious sentiment. The stock trades at a slight premium to industry peers, and analyst optimism is mixed, warranting a neutral outlook."
+        "sentiment_reasoning": "While Goldman Sachs shows strong historical earnings beat performance (4 consecutive quarters) and expected YoY growth in both EPS and revenues, recent analyst estimate revisions have turned negative with an Earnings ESP of -11.16%, suggesting analysts have become bearish on near-term earnings prospects. The Zacks Rank #3 (Hold) combined with negative ESP makes a conclusive earnings beat prediction difficult, creating mixed signals for the upcoming report."
       },
       {
         "ticker": "GSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Goldman Sachs shows strong projected earnings growth of 25.47% YoY and revenue growth of 12.91%, the stock has underperformed with a 9.36% decline over the past month. The Zacks Rank #3 (Hold) rating and consensus EPS estimate downward revision of 0.45% suggest cautious sentiment. The stock trades at a slight premium to industry peers, and analyst optimism is mixed, warranting a neutral outlook."
+        "sentiment_reasoning": "While Goldman Sachs shows strong historical earnings beat performance (4 consecutive quarters) and expected YoY growth in both EPS and revenues, recent analyst estimate revisions have turned negative with an Earnings ESP of -11.16%, suggesting analysts have become bearish on near-term earnings prospects. The Zacks Rank #3 (Hold) combined with negative ESP makes a conclusive earnings beat prediction difficult, creating mixed signals for the upcoming report."
       },
       {
         "ticker": "GSpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Goldman Sachs shows strong projected earnings growth of 25.47% YoY and revenue growth of 12.91%, the stock has underperformed with a 9.36% decline over the past month. The Zacks Rank #3 (Hold) rating and consensus EPS estimate downward revision of 0.45% suggest cautious sentiment. The stock trades at a slight premium to industry peers, and analyst optimism is mixed, warranting a neutral outlook."
+        "sentiment_reasoning": "While Goldman Sachs shows strong historical earnings beat performance (4 consecutive quarters) and expected YoY growth in both EPS and revenues, recent analyst estimate revisions have turned negative with an Earnings ESP of -11.16%, suggesting analysts have become bearish on near-term earnings prospects. The Zacks Rank #3 (Hold) combined with negative ESP makes a conclusive earnings beat prediction difficult, creating mixed signals for the upcoming report."
       },
       {
         "ticker": "GSpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Goldman Sachs shows strong projected earnings growth of 25.47% YoY and revenue growth of 12.91%, the stock has underperformed with a 9.36% decline over the past month. The Zacks Rank #3 (Hold) rating and consensus EPS estimate downward revision of 0.45% suggest cautious sentiment. The stock trades at a slight premium to industry peers, and analyst optimism is mixed, warranting a neutral outlook."
+        "sentiment_reasoning": "While Goldman Sachs shows strong historical earnings beat performance (4 consecutive quarters) and expected YoY growth in both EPS and revenues, recent analyst estimate revisions have turned negative with an Earnings ESP of -11.16%, suggesting analysts have become bearish on near-term earnings prospects. The Zacks Rank #3 (Hold) combined with negative ESP makes a conclusive earnings beat prediction difficult, creating mixed signals for the upcoming report."
       }
     ]
   },
   {
-    "id": "7a3296c8ca9dffa541a94a4694a2974cb746209cbe22b22f4cf654474395991d",
+    "id": "5ec6fee26b59606c809c5b4d243c3e837c321e327f60ecd8e2e9d65044313a97",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-09-18T21:23:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/jensen-huang-maintained-his-prediction-that-ai-inf/?source=iedfolrf0000001",
+    "title": "UPS Dips Below $94 and Has a 7% Dividend Yield: Time to Buy?",
+    "author": "Lee Samaha",
+    "published_utc": "2026-10-01T15:37:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/01/ups-dips-below-94-and-has-a-7-dividend-yield-time/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
+      "UPS",
+      "AMZN",
       "GS",
       "GSpA",
       "GSpC",
       "GSpD",
-      "CRWV"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887444%2Fjensen-huang_nvidia_nvda_imagesource_nvidia.jpg&w=1200&op=resize",
-    "description": "Nvidia CEO Jensen Huang reiterated his forecast that global AI infrastructure spending will reach $3-4 trillion by 2030. Despite Nvidia's massive growth (106% YoY revenue increase, 70% guidance for next year), much of this expected growth is already priced into the stock. Trading at a P/E of 27, the article argues Nvidia remains a buy given its market dominance, expanding addressable market, and diversification beyond GPUs into complete computing systems and strategic investments.",
-    "keywords": [
-      "AI infrastructure spending",
-      "Nvidia",
-      "GPU chips",
-      "artificial intelligence",
-      "supercomputers",
-      "hyperscaler clients",
-      "revenue growth",
-      "valuation",
-      "strategic investments"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is positioned as the primary beneficiary of the $3-4 trillion AI infrastructure spending forecast. The company demonstrates exceptional growth (106% YoY), expanding margins, market dominance, diversification into complete computing systems, and strategic investments in companies like CoreWeave and Hugging Face. Despite high valuation expectations already priced in, the article concludes it remains a buy at current levels with a P/E of 27."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Goldman Sachs is mentioned only as the host of the conference where Jensen Huang made his announcement. No substantive analysis or investment recommendation is provided regarding the company."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Goldman Sachs is mentioned only as the host of the conference where Jensen Huang made his announcement. No substantive analysis or investment recommendation is provided regarding the company."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Goldman Sachs is mentioned only as the host of the conference where Jensen Huang made his announcement. No substantive analysis or investment recommendation is provided regarding the company."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Goldman Sachs is mentioned only as the host of the conference where Jensen Huang made his announcement. No substantive analysis or investment recommendation is provided regarding the company."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "CoreWeave is highlighted as a beneficiary of Nvidia's strategic investment (over $2 billion) and is committed to purchasing large quantities of Nvidia chips for its data centers, demonstrating a mutually beneficial partnership in the AI infrastructure build-out."
-      }
-    ]
-  },
-  {
-    "id": "bed1b16942bb68a44a25234da04bfb293f88ee7640b451b5481eebbfffda1edd",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "US Financial 15 Split Corp. Preferred Dividend Declared",
-    "author": "Na",
-    "published_utc": "2026-09-18T13:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/18/3364706/0/en/us-financial-15-split-corp-preferred-dividend-declared.html",
-    "tickers": [
-      "AXP",
       "BAC",
       "BACpB",
       "BACpE",
@@ -351,222 +329,180 @@
       "BMLpH",
       "BMLpJ",
       "BMLpL",
-      "MERpK",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ"
+      "MERpK"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/02197a1a-d6a2-4cf8-9fe2-038a86be840c",
-    "description": "US Financial 15 Split Corp declared a monthly distribution of $0.07883 per Preferred share, maintaining a 10.00% annual yield. The fund invests in a portfolio of 15 major U.S. financial services companies including JPMorgan Chase, Bank of America, Goldman Sachs, and others.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889370%2Fsmall-business-owner-shipping-packages-fedex-ups-1200x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "UPS stock has fallen below $94, offering a 7% dividend yield that may attract income investors. However, the company faces significant headwinds including margin pressure from rising fuel costs, volume declines from the Amazon glide-down, and competition from Amazon's new supply chain services. With dividend costs of $5.4 billion against estimated free cash flow of $5.5 billion, there is minimal coverage for earnings deterioration, making this a risky entry point despite the attractive yield.",
     "keywords": [
-      "distribution",
-      "preferred shares",
-      "financial services",
-      "U.S. equities",
-      "dividend yield"
+      "dividend yield",
+      "margin pressure",
+      "fuel costs",
+      "volume decline",
+      "Amazon competition",
+      "dividend coverage",
+      "pricing strategy"
     ],
     "insights": [
       {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company is included in the diversified portfolio of US Financial 15 Split Corp, indicating it meets investment criteria but no specific performance or outlook information is provided."
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The article raises significant concerns about UPS's ability to maintain profitability amid rising fuel costs, volume pressures from the Amazon glide-down, and increased competition from Amazon Supply Chain Services. The slim dividend coverage (5.4B dividend vs 5.5B free cash flow) leaves little room for earnings deterioration, making the stock a potential value trap despite the attractive 7% yield."
       },
       {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a core holding in the fund's portfolio of 15 financial services companies, but no specific performance metrics or commentary provided."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a major holding in the diversified financial services portfolio, but the article provides no performance data or forward-looking statements."
+        "ticker": "AMZN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Amazon is identified as a competitive threat to UPS, particularly through its newly launched Amazon Supply Chain Services business targeting the SMB market that UPS depends on. The article suggests Amazon's competition could pressure UPS's ability to maintain pricing and volume."
       },
       {
         "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in the fund's portfolio of 15 U.S. financial institutions with no specific commentary on performance or outlook."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs recently added UPS to its 'conviction list' with a buy rating and $132 price target, indicating bullish sentiment on the stock despite current headwinds."
       },
       {
         "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in the fund's portfolio of 15 U.S. financial institutions with no specific commentary on performance or outlook."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs recently added UPS to its 'conviction list' with a buy rating and $132 price target, indicating bullish sentiment on the stock despite current headwinds."
       },
       {
         "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in the fund's portfolio of 15 U.S. financial institutions with no specific commentary on performance or outlook."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs recently added UPS to its 'conviction list' with a buy rating and $132 price target, indicating bullish sentiment on the stock despite current headwinds."
       },
       {
         "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in the fund's portfolio of 15 U.S. financial institutions with no specific commentary on performance or outlook."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs recently added UPS to its 'conviction list' with a buy rating and $132 price target, indicating bullish sentiment on the stock despite current headwinds."
       },
       {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BAC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
       },
       {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Part of the diversified portfolio holdings but no specific information regarding performance or sentiment is provided in the article."
+        "ticker": "BACpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Bank of America lowered its UPS price target to $108 from $115 and maintained a neutral rating, citing delivery volume concerns as a key reason for the downgrade."
+      }
+    ]
+  },
+  {
+    "id": "03d5aab5c4b84109c88ff6ff60d405cdb553cb250d9900e016292a72d3df97b3",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Are You Looking for a High-Growth Dividend Stock?",
+    "author": "Na",
+    "published_utc": "2026-10-01T14:45:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2999033/are-you-looking-for-a-high-growth-dividend-stock?cid=CS-ZC-FT-fundamental_analysis|yseop_template_5-2999033",
+    "tickers": [
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default311.jpg",
+    "description": "Goldman Sachs is highlighted as a strong dividend investment opportunity with a 2.22% yield, significantly outperforming its industry average of 1.32%. The company has increased its annualized dividend by 42.9% year-over-year and expects solid earnings growth of 34.41% in 2026, with a conservative 28% payout ratio providing room for future dividend growth.",
+    "keywords": [
+      "dividend yield",
+      "income investing",
+      "dividend growth",
+      "earnings growth",
+      "payout ratio",
+      "financial sector"
+    ],
+    "insights": [
+      {
+        "ticker": "GS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs demonstrates strong dividend fundamentals with a 2.22% yield exceeding industry averages, 42.9% year-over-year dividend growth, and expected 34.41% earnings growth in 2026. The conservative 28% payout ratio indicates sustainable dividend growth potential. However, the Zacks Rank of #3 (Hold) suggests moderate upside rather than strong buy recommendation."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs demonstrates strong dividend fundamentals with a 2.22% yield exceeding industry averages, 42.9% year-over-year dividend growth, and expected 34.41% earnings growth in 2026. The conservative 28% payout ratio indicates sustainable dividend growth potential. However, the Zacks Rank of #3 (Hold) suggests moderate upside rather than strong buy recommendation."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs demonstrates strong dividend fundamentals with a 2.22% yield exceeding industry averages, 42.9% year-over-year dividend growth, and expected 34.41% earnings growth in 2026. The conservative 28% payout ratio indicates sustainable dividend growth potential. However, the Zacks Rank of #3 (Hold) suggests moderate upside rather than strong buy recommendation."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Goldman Sachs demonstrates strong dividend fundamentals with a 2.22% yield exceeding industry averages, 42.9% year-over-year dividend growth, and expected 34.41% earnings growth in 2026. The conservative 28% payout ratio indicates sustainable dividend growth potential. However, the Zacks Rank of #3 (Hold) suggests moderate upside rather than strong buy recommendation."
       }
     ]
   }
