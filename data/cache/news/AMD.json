@@ -1,302 +1,292 @@
 [
   {
-    "id": "5c303f3042c21b214fc4052b8f56f650866981efd451cea0693b55d2dc3ff0e8",
+    "id": "5dd62ff0ec80add003e97a13a1c6fdccda835b1e3de01dc646d8da9d3bc0523c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Nvidia's Record Buyback Couldn't Keep the Nasdaq Out of the Red on Monday Morning",
-    "author": "Anders Bylund",
-    "published_utc": "2026-09-28T16:23:13Z",
-    "article_url": "https://www.fool.com/investing/2026/09/28/nvidias-record-buyback-couldnt-lift-the-nasdaq/?source=iedfolrf0000001",
+    "title": "Broadcom vs. Marvell Technology: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-14T22:02:09Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/14/broadcom-vs-marvell-technology-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "AMD",
-      "QCOM",
-      "MU",
-      "SKHY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889396%2Fnvidia-headquarters-with-nvidia-sign-in-front.png&w=1200&op=resize",
-    "description": "The Nasdaq fell 1% on Monday despite Nvidia announcing a record $150 billion buyback expansion. Market weakness was driven by Trump rejecting Iran's peace proposal, causing oil prices to spike and Treasury yields to rise to their highest level since 2002. Most semiconductor stocks declined sharply, with only Nvidia gaining ground as energy was the only sector posting real gains.",
-    "keywords": [
-      "stock market decline",
-      "Nvidia buyback",
-      "Iran geopolitical tensions",
-      "oil prices",
-      "semiconductor sector",
-      "Treasury yields",
-      "chip stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock rose 2.1% following announcement of $150 billion buyback expansion, the largest in US history, bringing total authorization to $235 billion. Also launched OpenShell safety platform."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 5.2% amid broad semiconductor sector downturn driven by rising Treasury yields and concerns about Federal rate increases."
-      },
-      {
-        "ticker": "QCOM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 5.7% as part of widespread chip sector weakness due to geopolitical tensions and rising bond yields."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 3.7% amid memory stock selloff; facing additional pressure with earnings report scheduled for Wednesday evening."
-      },
-      {
-        "ticker": "SKHY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock dropped 5.9%, experiencing the worst of Monday's semiconductor sector selling."
-      }
-    ]
-  },
-  {
-    "id": "03f4efc7ff4ba03976eac5480beb16946da71d55116de452990957fc25315677",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Intel Stock Surged Over 40% in September. History Shows What's Next.",
-    "author": "Keithen Drury",
-    "published_utc": "2026-09-27T16:32:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/intel-stock-surged-over-40-in-september-history-sh/?source=iedfolrf0000001",
-    "tickers": [
-      "INTC",
-      "TSM",
-      "NVDA",
-      "AMD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888983%2Fperson-in-front-of-multiple-computer-screens-looking-at-stock-graphs.jpg&w=1200&op=resize",
-    "description": "Intel's stock has surged over 40% in September and is up 250% in 2026, but the rally appears disconnected from business fundamentals. The stock now trades at 84x current earnings and 62x 2027 estimates\u2014far above industry peers\u2014suggesting a significant valuation correction may be coming. Analysts recommend more reasonably priced alternatives like Taiwan Semiconductor or Nvidia.",
-    "keywords": [
-      "Intel valuation",
-      "semiconductor stocks",
-      "stock rally",
-      "price-to-earnings ratio",
-      "foundry business",
-      "chip stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "INTC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has rallied sharply on minimal news with valuations (84x current earnings, 62x 2027 estimates) far exceeding industry norms. Historical precedent suggests such valuations are unsustainable and likely to face significant correction unless earnings growth dramatically accelerates."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Presented as a more reasonably valued alternative to Intel, trading at historical average of ~23x earnings. Recommended as a better investment opportunity compared to Intel's inflated valuation."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading at 28x earnings, which is significantly more reasonable than Intel's valuation. Recommended as a more fairly priced semiconductor investment alternative."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a comparable competitor to Intel in computing products, but noted to have had profitability challenges historically. Not explicitly recommended or discouraged."
-      }
-    ]
-  },
-  {
-    "id": "a0e06a9500682905b1f29c01946e5f4c88068eebca169443b3d3bae2129e897f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Intel CEO Lip-Bu Tan Has Incredible News for AMD Stock Investors",
-    "author": "Harsh Chauhan",
-    "published_utc": "2026-09-27T15:03:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/intel-ceo-lip-bu-tan-has-incredible-news-for-amd-stock-investors/?source=iedfolrf0000001",
-    "tickers": [
-      "INTC",
-      "AMD",
-      "TSM"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F76fb7739adc807a67ad30fb8053b62161f459f6e-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Intel CEO Lip-Bu Tan revealed that the company can only meet 50% of customer demand for server CPUs, indicating a significant supply shortage. While this benefits both Intel and AMD through potential price increases, AMD is positioned as the bigger beneficiary due to its superior technology, growing market share (34.5% vs Intel's declining share), and ability to ramp production with TSMC. AMD's data center revenue grew 107% year-over-year in Q2, and the company expects 80%+ growth in server revenue for H2 2026, compared to Intel's slowing growth trajectory.",
-    "keywords": [
-      "server CPU shortage",
-      "agentic AI",
-      "inference workloads",
-      "market share",
-      "data center segment",
-      "price hikes",
-      "supply constraints"
-    ],
-    "insights": [
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Supply shortage should drive higher CPU prices and margins; Q2 revenue up 25% YoY with DCAI segment up 59%; company implementing price hikes in 2027. However, sentiment is tempered by losing market share to AMD and inability to meet demand despite increased production."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong beneficiary of server CPU demand surge with superior technology and multithreading capabilities for agentic AI; market share increased to 34.5% from 27.3% YoY; Q2 data center revenue up 107% YoY; expects 80%+ growth in H2 2026 and 70%+ in 2027; trading at more attractive valuation (36x forward earnings vs Intel's 56x); analysts project 82% earnings growth this year and 105% in 2027."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as AMD's foundry partner for ramping production capacity, indicating increased business opportunity. However, no direct commentary on TSMC's performance or outlook provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "02fcb1805f40d6537023287177085d1a85d17dbc7cecd010c40ef8260edff0d0",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Nvidia Trades Near Its 52-Week High at Its Cheapest Valuation in a Decade. History Says This Is What $1,000 Invested Could Be Worth by 2030.",
-    "author": "Adam Spatacco",
-    "published_utc": "2026-09-26T12:02:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/26/nvidia-trades-near-its-52-week-high-at-its-cheapes/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "AMD",
       "AVGO",
-      "AMZN",
       "MRVL",
-      "COHR",
-      "NOK"
+      "AAPL",
+      "NVDA",
+      "AMD",
+      "INTC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889032%2Finvesting-stocks-calculations-tracking-market-2.jpg&w=1200&op=resize",
-    "description": "Nvidia is trading at its lowest forward P/E ratio in a decade (14.3x) despite being near 52-week highs. The article argues this presents a buying opportunity, with analyst forecasts suggesting EPS could reach $26 by fiscal 2030. If the P/E multiple expands from 15x to 22x, the stock could reach $572, representing a 154% gain. Beyond its core data center business (growing 117% YoY), Nvidia is expanding into AI agents, space exploration, physical AI, and autonomous vehicles.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4d7cf8a88a5640810adcc0a8bcd10ea8cade7192-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Broadcom and Marvell Technology are compared as semiconductor investments in the AI-driven data center market. Broadcom, a diversified infrastructure giant with $1.7T market cap, offers lower valuation multiples and locked-in multi-year revenue commitments from major tech companies. Marvell, a smaller pure-play data infrastructure specialist with $236B market cap, shows faster growth (42% YoY) but higher valuation and customer concentration risks. The article recommends Broadcom for its superior forward visibility and expanding AI revenue base.",
     "keywords": [
-      "Nvidia valuation",
+      "semiconductors",
       "AI infrastructure",
-      "GPU market",
-      "data center growth",
-      "forward P/E ratio",
-      "AI agents",
-      "autonomous vehicles",
-      "space exploration"
+      "data center",
+      "chip stocks",
+      "valuation comparison",
+      "revenue commitments",
+      "customer concentration"
     ],
     "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading at historically low valuation (14.3x forward P/E) despite strong fundamentals; core data center business growing 117% YoY; multiple new growth catalysts in AI agents, space, physical AI, and autonomous vehicles; analyst projects significant upside potential with $1,000 investment potentially worth $2,540 by 2030"
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as emerging competition in semiconductor/GPU space but not analyzed in detail; represents a competitive threat to Nvidia's market position"
-      },
       {
         "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as emerging competition and strategic partner through Nvidia's partnerships; competitive threat but also potential beneficiary of AI infrastructure buildout"
-      },
-      {
-        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Identified as major hyperscaler adopting Nvidia's AI platforms; deploying Nvidia's full stack for warehouse robots and physical AI applications"
+        "sentiment_reasoning": "Recommended as the better buy with locked-in multi-year revenue commitments from major customers (Google, Meta, OpenAI, Anthropic), strong free cash flow ($26.9B), higher gross margins (66.54%), lower P/E ratio (45.61x), and faster AI revenue expansion on a larger base providing superior forward visibility."
       },
       {
         "ticker": "MRVL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner with Nvidia for next-wave AI infrastructure and custom silicon; benefits from AI infrastructure expansion but role is supporting rather than primary"
+        "sentiment_reasoning": "Described as a strong contender with impressive 42% YoY revenue growth and Nvidia backing, but faces higher valuation multiples (P/E 88.49x), extreme customer concentration (82% from top 10 customers), lower gross margins (51.42%), and slower underlying AI business growth compared to Broadcom despite recent stock outperformance."
       },
       {
-        "ticker": "COHR",
+        "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner with Nvidia for AI infrastructure technology; supporting role in next-generation AI systems"
+        "sentiment_reasoning": "Mentioned as a major customer of Broadcom with a $30 billion commitment, indicating strategic importance to Broadcom's business but no independent analysis provided."
       },
       {
-        "ticker": "NOK",
+        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner with Nvidia for AI-RAN and 6G technology; supporting role in emerging AI infrastructure"
+        "sentiment_reasoning": "Referenced as a competitor to Marvell and as a strategic investor in Marvell's custom AI chip business, but no independent valuation or recommendation provided."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the semiconductor space but receives no detailed analysis."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the semiconductor space but receives no detailed analysis."
       }
     ]
   },
   {
-    "id": "12958e0132b3e0bfb3275ae4305f12c9bb564adaa09552e895f1aba9537a7108",
+    "id": "022ae434feaac8d4b7d8887bb3cc4e670d573e3d4e35ed5156c436e28daca579",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "If I Could Only Add 1 ETF to My Portfolio This Year, Here's Exactly What I'd Buy",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-09-26T01:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/if-i-could-only-add-1-etf-to-my-portfolio-this-yea/?source=iedfolrf0000001",
+    "title": "Microsoft Just Unveiled a Brand-New AI Chip. Could It Be the \"Nvidia Killer\" Everyone's Been Looking For?",
+    "author": "John Bromels",
+    "published_utc": "2026-10-14T20:57:06Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/microsoft-unveil-new-ai-chip-nvidia-killer/?source=iedfolrf0000001",
     "tickers": [
-      "SMH",
+      "MSFT",
       "NVDA",
-      "TSM",
-      "AMD",
-      "AVGO",
       "INTC",
-      "QQQ",
-      "SOXX"
+      "AMD",
+      "AMZN",
+      "AAPL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889113%2Fetf-with-digital-design.jpg&w=1200&op=resize",
-    "description": "The author recommends the VanEck Semiconductor ETF (SMH) as the single best ETF to add to a portfolio, citing the continued runway of the AI boom and strong growth prospects of its top holdings. Despite a high P/E ratio of 41, the ETF's major components like Nvidia and TSMC are expected to deliver substantial revenue growth, making it an attractive high-growth investment opportunity.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890901%2Fmicrosoft-nvidia.png&w=1200&op=resize",
+    "description": "Microsoft unveiled its Maia 300 AI chip, claiming 40% better token processing per megawatt than GPUs. Rather than competing on raw power where Nvidia dominates, Microsoft is targeting cost efficiency for AI inference workloads. The chip signals a shift in the AI industry from pure performance competition toward optimizing economics and cost-per-token delivery, though Nvidia's high-end processors remain critical to Microsoft's AI strategy.",
     "keywords": [
-      "semiconductor ETF",
-      "AI boom",
-      "chip stocks",
-      "high-growth investing",
-      "Nvidia",
-      "TSMC"
+      "AI chip",
+      "Maia 300",
+      "custom silicon",
+      "cost efficiency",
+      "token processing",
+      "AI infrastructure",
+      "hyperscalers",
+      "inference optimization"
     ],
     "insights": [
       {
-        "ticker": "SMH",
+        "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the top ETF choice with strong historical performance and significant upside potential driven by AI demand and robust growth rates of holdings"
+        "sentiment_reasoning": "Microsoft is taking proactive steps in cost management through custom silicon development, demonstrating strategic innovation in AI infrastructure that could improve margins and customer economics."
       },
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top holding with 19% of fund allocation; expected to grow revenue by 91% current quarter and 65% in 2027, demonstrating exceptional growth prospects"
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding at 9% of fund; targeting 47% growth this quarter and 35% next year, showing strong momentum"
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top-5 holding expected to benefit from AI demand cycles and new product deployments"
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Top-5 holding positioned to benefit from continued AI infrastructure buildout"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Nvidia maintains dominance in high-performance AI processors and remains critical to Microsoft's strategy, the article suggests potential future sales volume pressure as the industry shifts toward cost-optimized solutions for different workload types."
       },
       {
         "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Intel is mentioned as a competitor being replaced by Microsoft's Maia chips in current deployments, but receives minimal analysis or commentary regarding future implications."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "AMD is mentioned as a current competitor being displaced by Maia chips but receives no specific analysis regarding competitive positioning or future outlook."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Amazon is mentioned only in context of its AWS cloud platform being larger than Microsoft Azure; no direct impact from the Maia announcement is discussed."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Apple is mentioned only as a comparison point for Microsoft's historical competitive positioning; no direct relevance to the AI chip announcement."
+      }
+    ]
+  },
+  {
+    "id": "96febeaac8abb57f1bb6a2baa5c5906777dfc69a5d90239f3c2eaa7b3ff71dfa",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Reasons to Buy Intel Stock Before 2027",
+    "author": "John Ballard",
+    "published_utc": "2026-10-14T16:43:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/3-reasons-to-buy-intel-stock-before-2027/?source=iedfolrf0000001",
+    "tickers": [
+      "INTC",
+      "AMD",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890651%2Fintel-cube-statue-with-intel-logo-image-source-company.jpg&w=1200&op=resize",
+    "description": "Intel stock has surged 180% over the past year driven by AI chip demand. The company beat guidance for seven consecutive quarters with Q2 revenue up 25% to $16.1B and gross margins reaching 41.8%. Key growth drivers include strong CPU demand for AI workloads, narrowing foundry losses, and expanding margins, with analysts projecting 21% revenue growth to $78B in 2027.",
+    "keywords": [
+      "artificial intelligence",
+      "CPU demand",
+      "chip manufacturing",
+      "earnings growth",
+      "foundry business",
+      "gross margins",
+      "AI workloads",
+      "advanced packaging"
+    ],
+    "insights": [
+      {
+        "ticker": "INTC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Top-5 holding expected to see profit growth from new 14A process deployment and foundry business expansion"
+        "sentiment_reasoning": "Strong execution with 7 consecutive quarters of beating guidance, 25% YoY revenue growth, significant margin expansion (41.8% gross margin), and robust AI-driven demand. Foundry losses narrowing toward breakeven. Forward P/E of 49 on 2027 estimates with 69% expected annualized earnings growth supports further upside."
       },
       {
-        "ticker": "QQQ",
+        "ticker": "AMD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as popular index fund alternative but not recommended over SMH for AI exposure"
+        "sentiment_reasoning": "Mentioned as a competitor in the CPU market but noted that all companies should continue posting robust growth due to demand outrunning supply. No specific performance data provided."
       },
       {
-        "ticker": "SOXX",
+        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as alternative chip ETF but noted as underperforming SMH due to less concentration in top performers"
+        "sentiment_reasoning": "Mentioned as a competitor in the CPU/GPU market with expected continued robust growth, but no specific performance metrics or analysis provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "c44aaf445d8d9229283888c0d7d79e297b5050777489462833406351c5501aed",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit?",
+    "author": "Na",
+    "published_utc": "2026-10-14T13:37:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007107/advanced-micro-devices-stock-surges-183-ytd-time-to-hold-or-exit?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3007107",
+    "tickers": [
+      "AMD",
+      "NVDA",
+      "INTC",
+      "AVGO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d3/848.jpg",
+    "description": "AMD shares have surged 182.8% year-to-date, outperforming peers like NVIDIA and Intel, driven by strong AI infrastructure demand and record Data Center revenues of $6.7 billion in Q2 2026. The company expects Q3 2026 revenues around $13 billion with 41% YoY growth. However, stiff competition from NVIDIA and Intel, supply constraints, and a premium valuation of 49.86X forward P/E raise concerns, leading analysts to rate AMD as a Hold.",
+    "keywords": [
+      "AI infrastructure",
+      "data center",
+      "EPYC processors",
+      "Instinct GPUs",
+      "valuation concerns",
+      "supply constraints",
+      "hyperscaler partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong AI-driven growth and record data center revenues are offset by premium valuation (49.86X forward P/E), intense competition, supply constraints, and analyst recommendation of Hold rather than Buy. Growth prospects are positive but entry point concerns dominate."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key competitor to AMD in AI accelerators and GPUs. While competitive pressure is noted, no specific performance or outlook data is provided in the article."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Described as aggressively competing with AMD in server processors and CPUs, working to regain market share. Positioned as a competitive threat to AMD's growth in data center and AI segments."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Noted as increasing competitive pressure on AMD through custom AI accelerators and high-performance networking for hyperscale customers, representing a threat to AMD's market position."
+      }
+    ]
+  },
+  {
+    "id": "be7bea01be422d586a8177918870a773244e0c6335bed95ffcff1c24d53166ed",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Intel vs. Marvell Technology: Which Tech Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-14T11:05:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/14/intel-vs-marvell-technology-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "INTC",
+      "MRVL",
+      "AMAT",
+      "NVDA",
+      "AMD",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5e2d4c8d8b3d524d8f077511bb95b68cff214dde-1439x720.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Intel and Marvell Technology represent different plays in the AI-driven semiconductor market. Intel is undergoing a major turnaround to become a foundry while maintaining CPU dominance, reporting near-breakeven results with significant ongoing capital expenditures. Marvell focuses on data center networking and posted strong 42% revenue growth with a 32.6% net margin. The article concludes Marvell is the better buy due to its growth trajectory, lower valuation multiples, and lack of business model uncertainty, while Intel faces risks from its costly restructuring and government involvement.",
+    "keywords": [
+      "semiconductor stocks",
+      "AI infrastructure",
+      "foundry services",
+      "data center networking",
+      "valuation comparison",
+      "business turnaround"
+    ],
+    "insights": [
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Intel is in the midst of a costly turnaround with massive capital expenditures for foundry buildout, reported a $267M net loss, carries negative free cash flow of $4.9B, and faces significant execution risks. The author expresses concern about the company's business model overhaul and government involvement."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Marvell demonstrated strong 42.1% revenue growth, achieved a healthy 32.6% net margin, generated positive free cash flow of $1.4B, and maintains a lower forward P/E ratio of 59.6 vs Intel's 63.7. The company is growing profitably without major business model disruption."
+      },
+      {
+        "ticker": "AMAT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner to Intel for next-generation semiconductor equipment, but no independent analysis or sentiment is provided in the article."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
       }
     ]
   }

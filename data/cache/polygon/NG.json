@@ -1,0 +1,35 @@
+{
+  "ticker": "NG",
+  "name": "NovaGold Resources Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XASE",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001173420",
+  "composite_figi": "BBG000D25424",
+  "share_class_figi": "BBG001S5ZT85",
+  "market_cap": 2909350040.22,
+  "phone_number": "801-449-9328",
+  "address": {
+    "address1": "201 SOUTH MAIN",
+    "address2": "SUITE 400",
+    "city": "SALT LAKE CITY",
+    "state": "UT",
+    "postal_code": "84111"
+  },
+  "description": "Novagold Resources Inc operates in the gold mining industry, focused on advancing the Donlin Gold project in Alaska. The Donlin Gold project is held by Donlin Gold LLC (Donlin Gold), a limited liability company owned equally by wholly owned subsidiaries of NOVAGOLD and Barrick Gold Corporation (Barrick). The company includes exploration and development activities of gold and other precious metals.",
+  "sic_code": "1040",
+  "sic_description": "GOLD AND SILVER ORES",
+  "ticker_root": "NG",
+  "homepage_url": "https://www.novagold.com",
+  "total_employees": 12,
+  "list_date": "2003-12-02",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bm92YWdvbGQuY29t/images/2026-10-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 438815323,
+  "weighted_shares_outstanding": 438815994,
+  "round_lot": 100
+}

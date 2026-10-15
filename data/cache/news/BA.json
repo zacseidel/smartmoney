@@ -1,297 +1,288 @@
 [
   {
-    "id": "87b66486148dce4e7c7d6da8e6125624fd68719e782566e8a0a89506a0eb51ae",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Boeing vs. Lockheed Martin: Which Essential U.S. Aerospace Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-09-24T21:27:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/boeing-vs-lockheed-martin-which-essential-u-s-aerospace-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "BA",
-      "BApA",
-      "LMT",
-      "GD",
-      "NOC",
-      "RTX",
-      "EADSY"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93f4fcd8f1072083ee446c545b2c796e8edc7e8a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Boeing and Lockheed Martin as aerospace investment options for 2026. Boeing is undergoing a turnaround with strong commercial aviation demand and record backlogs, but faces operational challenges, high debt (10.0x debt-to-equity), and negative free cash flow. Lockheed Martin offers stability with steady profitability, lower leverage (3.2x debt-to-equity), strong free cash flow ($6.9B), and long-term F-35 program revenue visibility. The author recommends Lockheed Martin as the better value investment due to its cheaper valuation multiples (17.3x forward P/E vs. Boeing's 49.7x) and fortress-like business model.",
-    "keywords": [
-      "aerospace stocks",
-      "defense contractors",
-      "commercial aviation recovery",
-      "valuation comparison",
-      "defense spending",
-      "F-35 program",
-      "financial metrics",
-      "investment recommendation"
-    ],
-    "insights": [
-      {
-        "ticker": "BA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing shows turnaround potential with 35% revenue growth and strong order backlogs, but faces significant operational risks including FAA scrutiny, production delays, high debt (10.0x), negative free cash flow (-$1.9B), and union strike history. The company is recovering but remains in transition with uncertain near-term profitability."
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing shows turnaround potential with 35% revenue growth and strong order backlogs, but faces significant operational risks including FAA scrutiny, production delays, high debt (10.0x), negative free cash flow (-$1.9B), and union strike history. The company is recovering but remains in transition with uncertain near-term profitability."
-      },
-      {
-        "ticker": "LMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Lockheed Martin is recommended as the better buy due to stable profitability (7% net margin), lower leverage (3.2x debt-to-equity), strong free cash flow ($6.9B), attractive valuation (17.3x forward P/E), and long-term revenue visibility from the F-35 program extending into the 2040s. The company offers fortress-like stability and reliable government contract revenue."
-      },
-      {
-        "ticker": "GD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the defense sector vying for limited government defense funding, but no detailed analysis provided."
-      },
-      {
-        "ticker": "NOC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the defense sector vying for limited government defense funding, but no detailed analysis provided."
-      },
-      {
-        "ticker": "RTX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in the defense sector vying for limited government defense funding, but no detailed analysis provided."
-      },
-      {
-        "ticker": "EADSY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a company that benefits from Boeing's acquisition of Spirit AeroSystems, which provides services to Airbus, but no detailed analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "5ff15b05e016503ac5608b1f3c1eacb0d6bed99713b041db8e3ba401cdf5c4d2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Great News for RTX Investors (Hint: It Relates to Its Record $289 Billion Backlog)",
-    "author": "Lee Samaha",
-    "published_utc": "2026-09-22T15:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/great-news-rtx-investors-hint-record-backlog/?source=iedfolrf0000001",
-    "tickers": [
-      "RTX",
-      "BA",
-      "BApA",
-      "LMT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888357%2Fgettyimages-547525480-1200x797-bfe2eb8-1.jpg&w=1200&op=resize",
-    "description": "RTX's $289 billion backlog is expected to grow significantly, potentially reaching $460.5 billion by 2028. CEO Chris Calio highlighted strong demand across commercial aerospace and defense markets, including a $22.9 billion Tomahawk cruise missile order and five framework agreements with the Department of Defense that could increase volumes 2-4x. With 45% of RPO tied to long-term maintenance contracts and lower execution risk compared to competitors, RTX is well-positioned for sustained revenue growth.",
-    "keywords": [
-      "backlog",
-      "remaining performance obligations",
-      "defense contracts",
-      "commercial aerospace",
-      "Tomahawk cruise missile",
-      "framework agreements",
-      "aftermarket revenue",
-      "Pratt & Whitney"
-    ],
-    "insights": [
-      {
-        "ticker": "RTX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record $289 billion backlog with strong growth potential to $460.5 billion by 2028. Recent major contracts ($22.9 billion Tomahawk order), favorable framework agreements with DoD, long-duration revenue streams, and lower execution risk compared to competitors position the company well for sustained growth."
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having a 15,000 aircraft backlog creating demand for RTX's products. No direct commentary on Boeing's operational performance or challenges provided in the main article content."
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having a 15,000 aircraft backlog creating demand for RTX's products. No direct commentary on Boeing's operational performance or challenges provided in the main article content."
-      },
-      {
-        "ticker": "LMT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Implicitly positioned as weaker than RTX due to exposure to fixed-price development programs that have caused recent troubles. RTX is explicitly stated to be 'better positioned than Lockheed within the defense sector' due to lower execution risk."
-      }
-    ]
-  },
-  {
-    "id": "0eaadd8b5af5b2fc80d0ef37f23d4f049a290de9f23a14af1def0b93490f0436",
+    "id": "730dc840a732afca8789f46d634d831e56c9601c285cd214bf67dc8e2fc33e1c",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Should You Invest in the iShares U.S. Aerospace & Defense ETF (ITA)?",
+    "title": "Here is What to Know Beyond Why The Boeing Company (BA) is a Trending Stock",
     "author": "Zacks.Com",
-    "published_utc": "2026-09-22T10:20:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2993395/should-you-invest-in-the-ishares-u-s-aerospace-defense-etf-ita?cid=CS-ZC-FT-sector_etf-2993395",
-    "tickers": [
-      "ITA",
-      "GE",
-      "RTX",
-      "BA",
-      "BApA",
-      "SHLD",
-      "PPA"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default22.jpg",
-    "description": "The iShares U.S. Aerospace & Defense ETF (ITA) is recommended as a solid option for investors seeking broad exposure to the aerospace and defense sector. With $12.68 billion in assets, a low 0.37% expense ratio, and a Zacks ETF Rank of 2 (Buy), ITA tracks the Dow Jones U.S. Select Aerospace & Defense Index. The ETF has returned 6.54% over the past year with moderate risk (beta of 0.74), though it is heavily concentrated in its top 10 holdings which account for 77.23% of assets.",
-    "keywords": [
-      "aerospace and defense ETF",
-      "ITA",
-      "passive investing",
-      "sector exposure",
-      "low expense ratio",
-      "diversification"
-    ],
-    "insights": [
-      {
-        "ticker": "ITA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The ETF receives a Zacks ETF Rank of 2 (Buy) rating, has a competitive low expense ratio of 0.37%, substantial assets under management of $12.68 billion, and solid year-to-date performance of 6.54%. It is recommended as an excellent option for investors seeking sector exposure."
-      },
-      {
-        "ticker": "GE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "GE Aerospace is mentioned as the largest holding in ITA at 22.02% of portfolio assets. No performance commentary or sentiment is provided; it is presented as a factual component of the fund's holdings."
-      },
-      {
-        "ticker": "RTX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "RTX is identified as the second-largest holding in ITA. No specific performance or sentiment analysis is provided; it is listed as a key portfolio component."
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing is mentioned as the third-largest holding in ITA. No performance commentary or sentiment is provided; it is presented as a factual component of the fund's holdings."
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing is mentioned as the third-largest holding in ITA. No performance commentary or sentiment is provided; it is presented as a factual component of the fund's holdings."
-      },
-      {
-        "ticker": "SHLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "SHLD is presented as an alternative ETF option with $6.99 billion in assets and a 0.5% expense ratio. It is mentioned without comparative advantage or disadvantage."
-      },
-      {
-        "ticker": "PPA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "PPA is presented as an alternative ETF option with $7.69 billion in assets and a 0.58% expense ratio. It is mentioned as a comparable alternative without specific endorsement or criticism."
-      }
-    ]
-  },
-  {
-    "id": "647708649e8cbc8c1643f45d7c4ae7f3816bf8eb293c7a2e512bbecc77b956e9",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Boeing's New MQ-25A Stingray Drone Costs $184 Million ... or Less",
-    "author": "Rich Smith",
-    "published_utc": "2026-09-20T09:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/20/boeings-mq-25a-stingray-drone-costs-184-million/?source=iedfolrf0000001",
+    "published_utc": "2026-10-14T12:00:06Z",
+    "article_url": "https://www.zacks.com/stock/news/3006745/here-is-what-to-know-beyond-why-the-boeing-company-ba-is-a-trending-stock?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3006745",
     "tickers": [
       "BA",
       "BApA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887712%2Fboeing-mq-25a-stingray-drone-is-us-navy.jpg&w=1200&op=resize",
-    "description": "Boeing has been awarded a $552 million contract to deliver three MQ-25A Stingray refueling drones to the U.S. Navy, with the contract implying a cost of $184 million per drone\u2014over 10% below initial estimates of $207-209 million. While delivery is several years behind schedule (expected 2029), the potential for under-budget delivery could enhance Boeing's reputation and lead to additional contracts.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default8.jpg",
+    "description": "Boeing stock has declined 11.1% over the past month, underperforming the S&P 500. While revenue growth is projected at 8.8% for the current fiscal year and 15.7% for next year, earnings estimates remain negative for the current year at -$0.95 per share. Boeing received a Zacks Rank #4 (Sell) rating and a D valuation grade, suggesting it may underperform the broader market in the near term.",
     "keywords": [
-      "MQ-25A Stingray",
-      "defense contract",
-      "drone refueling tanker",
-      "U.S. Navy",
-      "aircraft carrier",
-      "cost reduction",
-      "defense spending"
+      "Boeing",
+      "stock performance",
+      "earnings estimates",
+      "revenue growth",
+      "Zacks Rank",
+      "valuation",
+      "aerospace defense"
     ],
     "insights": [
       {
         "ticker": "BA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Boeing secured a $552 million Navy contract with unit costs 10% below initial estimates, demonstrating potential for profitable production and cost efficiency. Delivering under budget could enhance the company's reputation and lead to additional defense contracts, offsetting delays in the program timeline."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Boeing received a Zacks Rank #4 (Sell) rating due to negative earnings estimates (-$0.95 for current fiscal year), recent stock decline of 11.1% versus S&P 500 gains of 2.1%, a D valuation grade indicating premium pricing relative to peers, and a history of missing EPS estimates. While revenue growth projections are positive, the company's profitability concerns and underperformance relative to the market support a negative outlook."
       },
       {
         "ticker": "BApA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Boeing secured a $552 million Navy contract with unit costs 10% below initial estimates, demonstrating potential for profitable production and cost efficiency. Delivering under budget could enhance the company's reputation and lead to additional defense contracts, offsetting delays in the program timeline."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Boeing received a Zacks Rank #4 (Sell) rating due to negative earnings estimates (-$0.95 for current fiscal year), recent stock decline of 11.1% versus S&P 500 gains of 2.1%, a D valuation grade indicating premium pricing relative to peers, and a history of missing EPS estimates. While revenue growth projections are positive, the company's profitability concerns and underperformance relative to the market support a negative outlook."
       }
     ]
   },
   {
-    "id": "fcca6eba67bf1400c4ec8cad96e8d22844697fd22c3a10e1359d3209cc9cb1ee",
+    "id": "f944ab9be64bd48536b5132f7b0e459f539873c1a8a42bd1c70428cd7ed8c8ce",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Cathie Wood Sold Palantir and AMD, Then Poured $3.35 Million Into Archer Aviation. Is ARK Betting Big on Flying Taxis?",
-    "author": "Keith Noonan",
-    "published_utc": "2026-09-19T20:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/19/cathie-wood-sold-palantir-and-amd-then-poured-335/?source=iedfolrf0000001",
+    "title": "Prediction: Here's What a $5,000 Investment in Archer Aviation Will Be Worth in 3 Years",
+    "author": "Steven Porrello",
+    "published_utc": "2026-10-13T22:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/13/prediction-heres-what-a-5000-investment-in-archer/?source=iedfolrf0000001",
     "tickers": [
       "ACHR",
-      "PLTR",
-      "AMD",
+      "JOBY",
       "BA",
-      "BApA",
-      "ARKK"
+      "BApA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887034%2Fcathie-wood_ark-investment-management_ceo_imagesource_getty-images.jpeg&w=1200&op=resize",
-    "description": "Cathie Wood's Ark Innovation ETF sold shares of Palantir and AMD while investing $3.35 million in Archer Aviation, signaling growing confidence in the eVTOL aircraft maker. The moves appear to be profit-taking on the larger positions while increasing exposure to the high-risk, high-reward aviation technology sector, particularly following Archer's Boeing partnership deal.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889058%2Farcher-aviation-city-flight.png&w=1200&op=resize",
+    "description": "Archer Aviation stock currently trades at $5 per share after declining from $7.50 at the end of 2025. Despite being a speculative eVTOL company with minimal revenue and lacking FAA certification, the author predicts the stock could reach $8 by October 2029 (60% upside) if the company achieves FAA type certification and successfully expands its defense business through its planned acquisition of Boeing subsidiaries. However, significant risks exist including potential dilution from future capital raises.",
     "keywords": [
-      "eVTOL aircraft",
-      "flying taxis",
-      "portfolio rebalancing",
-      "profit-taking",
-      "electric vertical take-off and landing",
-      "aerospace partnerships"
+      "eVTOL",
+      "air taxi",
+      "FAA certification",
+      "electric vertical takeoff and landing",
+      "defense business",
+      "stock prediction",
+      "speculative investment"
     ],
     "insights": [
       {
         "ticker": "ACHR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Ark increased its investment position in Archer despite the stock being down 31% YTD and 62% from highs, indicating confidence in the company's long-term potential. The Boeing partnership deal and acquisition of subsidiaries are viewed as positive developments that improve Archer's positioning in eVTOL technology."
+        "sentiment_reasoning": "Author predicts 60% upside potential by 2029 based on expected FAA certification and defense business expansion through Boeing subsidiary acquisition, despite acknowledging current challenges and risks."
       },
       {
-        "ticker": "PLTR",
+        "ticker": "JOBY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Ark sold shares as a profit-taking move following significant gains, not due to loss of confidence in the company. Palantir remains the 11th-largest holding in the fund, indicating continued belief in the company's fundamentals."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Similar to Palantir, the sale appears to be profit-taking after substantial gains rather than a fundamental loss of confidence. AMD remains the 12th-largest holding in the Ark Innovation ETF."
+        "sentiment_reasoning": "Mentioned as a competitor in the eVTOL industry pursuing similar air taxi services, but no specific investment recommendation or valuation prediction provided."
       },
       {
         "ticker": "BA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Boeing's strategic partnership with Archer Aviation through the acquisition of its subsidiaries (Insitu, SkyGrid, Wisk Aero) positions the aerospace giant as a partner in next-generation aviation technology, potentially providing significant benefits beyond the subsidiary purchase."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only in context of Archer's planned acquisition of its subsidiaries (including Insitu drone manufacturer); no direct investment thesis provided."
       },
       {
         "ticker": "BApA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only in context of Archer's planned acquisition of its subsidiaries (including Insitu drone manufacturer); no direct investment thesis provided."
+      }
+    ]
+  },
+  {
+    "id": "82aff40c9dbf4550c8968a97d1660f88a6f23480c97d10db181d39b853fab401",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Firefly Aerospace vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-10-13T19:22:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/13/firefly-aerospace-vs-intuitive-machines-which-space-infrastructure-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "FLY",
+      "LUNR",
+      "LMT",
+      "NOC",
+      "BA",
+      "BApA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F317cba6e74b1161e01324f312d032e4f0de144c9-1200x600.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The article compares two space infrastructure companies: Firefly Aerospace, which is achieving triple-digit revenue growth and recently accomplished a successful lunar landing, and Intuitive Machines, which has established strong lunar infrastructure capabilities with a $1.8 billion order backlog. Despite both companies operating at losses, Firefly is recommended as the better buy in 2026 due to its lower forward P/E ratio and stronger growth trajectory, while Intuitive Machines is positioned as a longer-term play expected to achieve profitability by 2027.",
+    "keywords": [
+      "space infrastructure",
+      "lunar economy",
+      "government contracts",
+      "revenue growth",
+      "cash burn",
+      "aerospace stocks",
+      "NASA partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "FLY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Boeing's strategic partnership with Archer Aviation through the acquisition of its subsidiaries (Insitu, SkyGrid, Wisk Aero) positions the aerospace giant as a partner in next-generation aviation technology, potentially providing significant benefits beyond the subsidiary purchase."
+        "sentiment_reasoning": "Company achieved successful lunar landing (Blue Ghost Mission I in March 2025), demonstrated triple-digit revenue growth (163% YoY), secured NASA contracts for annual lunar missions, and has a reasonable forward P/E ratio of 18.6x. Analyst expects revenue to reach $440 million in 2026 and $1 billion by fiscal 2028."
       },
       {
-        "ticker": "ARKK",
+        "ticker": "LUNR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Company has strong order backlog of $1.8 billion and 80 spacecraft under contract, but revenue declined 8% YoY in FY 2025. While fiscal 2026 shows strong quarterly performance with expected revenue quadrupling to ~$1 billion, the company faces higher expenses and expanded net losses. Profitability not expected until fiscal 2027. High forward P/E of 114.1x reflects speculative valuation."
+      },
+      {
+        "ticker": "LMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major commercial partner of Firefly Aerospace, indicating business relationships in the space sector, but no specific performance analysis provided."
+      },
+      {
+        "ticker": "NOC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major commercial partner of Firefly Aerospace, indicating business relationships in the space sector, but no specific performance analysis provided."
+      },
+      {
+        "ticker": "BA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Intuitive Machines in the space infrastructure market, but no specific performance analysis provided."
+      },
+      {
+        "ticker": "BApA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Intuitive Machines in the space infrastructure market, but no specific performance analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "a56ee1a5d6f345039de7f5f75f84ed5a50c64268a36d6b974b5f2e50e9f5ae52",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Archer Aviation vs. Joby Aviation: Which EV Airplane Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-10-12T21:31:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/12/archer-aviation-vs-joby-aviation-which-ev-airplane-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "ACHR",
+      "JOBY",
+      "UAL",
+      "BA",
+      "BApA",
+      "STLA",
+      "DAL",
+      "LHX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F91f16ecc81a17851528fd9f29a348f1139e5a927-3400x2200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Both Archer Aviation and Joby Aviation are developing electric vertical takeoff and landing (eVTOL) aircraft for commercial use, but face significant financial challenges with massive operating losses and negative cash flows. Joby is recommended as the better buy due to its lower valuation multiple (46x P/S vs. 546x), early revenue generation from its Blade acquisition, and more advanced manufacturing capabilities, though both remain highly speculative investments with substantial regulatory and execution risks.",
+    "keywords": [
+      "eVTOL aircraft",
+      "electric aviation",
+      "urban air mobility",
+      "aircraft certification",
+      "manufacturing scale",
+      "regulatory framework",
+      "operating losses",
+      "cash burn"
+    ],
+    "insights": [
+      {
+        "ticker": "ACHR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Company has strategic partnerships (United Airlines $1.5B agreement, Boeing, Stellantis) and military/defense focus, but faces extreme valuation concerns (546x P/S), massive losses ($618M), negative cash flow (-$511.7M), litigation risks, and high customer concentration risk."
+      },
+      {
+        "ticker": "JOBY",
         "sentiment": "positive",
-        "sentiment_reasoning": "The fund's active rebalancing strategy demonstrates disciplined portfolio management, taking profits on winners while increasing exposure to high-potential emerging technologies like eVTOL aircraft at more favorable valuations."
+        "sentiment_reasoning": "Recommended as the better buy with more attractive valuation (46x P/S), early revenue generation ($53.4M from Blade acquisition), advanced manufacturing capabilities using Toyota philosophies, successful real-world testing in NYC, and integrated partnerships with Delta and L3Harris, despite significant losses ($930M) and legal challenges."
+      },
+      {
+        "ticker": "UAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Archer Aviation through $1.5B conditional purchase agreement, representing significant future revenue potential but also concentration risk for Archer."
+      },
+      {
+        "ticker": "BA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a manufacturing partner providing units to Archer Aviation for defense capabilities expansion."
+      },
+      {
+        "ticker": "BApA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a manufacturing partner providing units to Archer Aviation for defense capabilities expansion."
+      },
+      {
+        "ticker": "STLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Manufacturing relationship partner with Archer Aviation for scaling production capabilities."
+      },
+      {
+        "ticker": "DAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Joby Aviation providing premium airport transportation integration services."
+      },
+      {
+        "ticker": "LHX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Defense contractor holding contracts with Joby Aviation for defense applications."
+      }
+    ]
+  },
+  {
+    "id": "b59289fbb187145dc0ec96bd16cef4eb7155500cf0d6e417bd4d0bcc4b61e6ce",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Boeing vs. GE Aerospace: Which U.S. Industrial Giant's Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-10-12T17:40:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/12/boeing-vs-ge-aerospace-which-u-s-industrial-giant-s-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BA",
+      "BApA",
+      "GE",
+      "RTX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1aa20c4a2f1af8fcdbfce41a16e3dae318510ceb-1920x1080.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "GE Aerospace emerges as the better investment choice in 2026 compared to Boeing. While Boeing boasts a massive order backlog and leading position in commercial aviation, it struggles with negative free cash flow, a 10x debt-to-equity ratio, and declining profitability forecasts. GE Aerospace, conversely, demonstrates strong fundamentals with a 19% net margin, $7.3 billion in free cash flow, and a more reasonable valuation multiple, supported by recent major contracts from airlines and the U.S. military.",
+    "keywords": [
+      "aerospace stocks",
+      "Boeing recovery",
+      "GE Aerospace valuation",
+      "aircraft engines",
+      "commercial aviation",
+      "defense contracts",
+      "free cash flow",
+      "debt-to-equity ratio",
+      "order backlog"
+    ],
+    "insights": [
+      {
+        "ticker": "BA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Boeing has strong long-term prospects with a record order backlog and leading market position, but faces significant near-term challenges including negative free cash flow (-$1.9B), extremely high debt-to-equity ratio (10x), collapsing net income forecasts ($2.2B to $85M), and ongoing operational issues from Spirit AeroSystems integration and certification delays."
+      },
+      {
+        "ticker": "BApA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Boeing has strong long-term prospects with a record order backlog and leading market position, but faces significant near-term challenges including negative free cash flow (-$1.9B), extremely high debt-to-equity ratio (10x), collapsing net income forecasts ($2.2B to $85M), and ongoing operational issues from Spirit AeroSystems integration and certification delays."
+      },
+      {
+        "ticker": "GE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GE Aerospace demonstrates strong financial health with a 19% net margin, robust free cash flow of $7.3B, healthy debt-to-equity ratio (1.1x), and recent major contract wins from airlines and military customers. The company is the market leader in aircraft engines with improving supply chain productivity and reasonable valuation metrics."
+      },
+      {
+        "ticker": "RTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major competitor to GE Aerospace in the aerospace and defense sector, but no specific analysis or sentiment indicators provided in the article."
       }
     ]
   }

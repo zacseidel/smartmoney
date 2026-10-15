@@ -1,260 +1,204 @@
 [
   {
-    "id": "915f1f4ea8316f1c9d591dba55c4fb4c92e4cf4d1a60001f8e49cfabd775d970",
+    "id": "fdb8a98183fdeb3b804e7e934de35ce64715ff0a38959ac1a86ce6ce5acbe297",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "MCHP Rides on Open-Standard Connectivity: Can It Beat ADI & TXN?",
+    "title": "Advantest Announces Call for Papers for VOICE 2027 Developer Conference in San Jose, Calif.",
     "author": "Na",
-    "published_utc": "2026-09-09T18:34:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2987311/mchp-rides-on-open-standard-connectivity-can-it-beat-adi-txn?cid=CS-ZC-FT-analyst_blog|quick_take-2987311",
+    "published_utc": "2026-10-14T07:05:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/14/3380355/0/en/advantest-announces-call-for-papers-for-voice-2027-developer-conference-in-san-jose-calif.html",
     "tickers": [
-      "MCHP",
-      "MCHPP",
-      "TXN",
-      "ADI"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/170201.webp",
-    "description": "Microchip Technology (MCHP) is expanding its automotive connectivity portfolio with an open-standard ASA Motion Link (ASA-ML) display connectivity solution for software-defined vehicles. The company's automotive business is gaining momentum with 29.3% year-over-year sales growth and automotive representing 15% of Q1 FY2027 revenues. However, MCHP faces intense competition from Texas Instruments and Analog Devices, both of which have strong automotive portfolios and growing market share. MCHP trades at a forward P/E of 18.33 and holds a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "automotive connectivity",
-      "software-defined vehicles",
-      "display connectivity",
-      "ADAS",
-      "infotainment",
-      "semiconductor",
-      "competitive positioning"
-    ],
-    "insights": [
-      {
-        "ticker": "MCHP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "MCHP is expanding its automotive portfolio with innovative open-standard solutions, achieving strong 29.3% YoY automotive sales growth, and leveraging its broad semiconductor capabilities to compete for multiple sockets in software-defined vehicles."
-      },
-      {
-        "ticker": "MCHPP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "MCHP is expanding its automotive portfolio with innovative open-standard solutions, achieving strong 29.3% YoY automotive sales growth, and leveraging its broad semiconductor capabilities to compete for multiple sockets in software-defined vehicles."
-      },
-      {
-        "ticker": "TXN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "TXN demonstrates strong competitive positioning with mid-teens automotive revenue growth, capacity investments supporting accelerating demand, and significant generation-over-generation content growth opportunities."
-      },
-      {
-        "ticker": "ADI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "ADI shows strong automotive fundamentals with 25% of revenues from automotive, 16% YoY growth, and leadership in ADAS and infotainment systems, positioning it as a formidable competitor to MCHP."
-      }
-    ]
-  },
-  {
-    "id": "ee85a5d2d4847314910a9a9f811a301df4b02e6aa6d3071f0cdeac69c96fc7d3",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "ADI Declines 5.6% in a Month: Time to Buy, Sell or Hold the Stock?",
-    "author": "Na",
-    "published_utc": "2026-09-07T14:05:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985844/adi-declines-5-6-in-a-month-time-to-buy-sell-or-hold-the-stock?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2985844",
-    "tickers": [
-      "ADI",
-      "TXN",
-      "STM",
-      "NXPI"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cb/577.jpg",
-    "description": "Analog Devices (ADI) is experiencing strong growth driven by industrial demand recovery and expanding AI data center activity, particularly in optical and power applications. The company expects optical circuit switching revenues to roughly double in fiscal 2026 and 2027. ADI's adjusted gross margin reached 72.5% and operating margin expanded to 50% in Q3, though the stock trades at a premium valuation of 9.76X forward P/S compared to the industry average of 7.74X. Analysts recommend buying the stock citing broad-based recovery and durable growth prospects.",
-    "keywords": [
-      "Analog Devices",
-      "AI data centers",
-      "optical circuit switching",
-      "industrial demand",
-      "power management",
-      "semiconductor",
-      "margin expansion",
-      "800V power distribution"
-    ],
-    "insights": [
-      {
-        "ticker": "ADI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth in industrial segment (53% YoY), significant margin expansion (gross margin to 72.5%, operating margin to 50%), expected optical revenue doubling in fiscal 2026-2027, and analyst Buy recommendation support positive outlook despite premium valuation."
-      },
-      {
-        "ticker": "TXN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a key competitor with manufacturing scale advantages, but no specific performance data or outlook provided in the article."
-      },
-      {
-        "ticker": "STM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in analog and mixed-signal semiconductors, but no specific performance metrics or competitive advantages discussed."
-      },
-      {
-        "ticker": "NXPI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a competitor in analog and mixed-signal solutions for mobile and IoT markets, but no specific performance data or outlook provided."
-      }
-    ]
-  },
-  {
-    "id": "ca42fee40502b88cba95b43954e492e4c1ae8229e8ebed472189717fa0e1c813",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Buy These 5 Semiconductor Stocks as Sales Skyrocket on Solid AI Demand",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-07T12:36:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985713/buy-these-5-semiconductor-stocks-as-sales-skyrocket-on-solid-ai-demand?cid=CS-ZC-FT-analyst_blog|investment_ideas-2985713",
-    "tickers": [
-      "ADI",
-      "TSM",
-      "TXN",
-      "NVDA",
-      "ACMR"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f5/1013.jpg",
-    "description": "Global semiconductor sales reached $146.8 billion in July, up 6.4% sequentially and 135.1% year-over-year, marking 17 consecutive months of growth. Driven by strong AI demand and robust earnings from major chip companies, five semiconductor stocks are recommended as attractive investment opportunities with significant growth potential.",
-    "keywords": [
-      "semiconductor stocks",
-      "AI demand",
-      "chip sales growth",
-      "earnings growth",
-      "technology investment"
-    ],
-    "insights": [
-      {
-        "ticker": "ADI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected earnings growth of 66.4% for current year with consensus estimate improved 5.2% over past 60 days; carries Zacks Rank #2 (Buy)"
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 7.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
-      },
-      {
-        "ticker": "TXN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected earnings growth of 55.1% for current year with consensus estimate improved 10.3% over past 60 days; carries Zacks Rank #2 (Buy)"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Leads the group with highest expected earnings growth of 93.3% for current year; carries Zacks Rank #1 (Strong Buy)"
-      },
-      {
-        "ticker": "ACMR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expected earnings growth of 27.3% for current year with consensus estimate jumped 49.6% over past 60 days; carries Zacks Rank #1 (Strong Buy)"
-      }
-    ]
-  },
-  {
-    "id": "724df5df31d081bc7bf5cdebaaa8fc2de2c566e1c6c16ba78fa939e5f1c92d24",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Nvidia's $13 Billion Hugging Face Deal Expands Open-Source AI",
-    "author": "Na",
-    "published_utc": "2026-09-04T12:18:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984931/nvidia-s-13-billion-hugging-face-deal-expands-open-source-ai?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2984931",
-    "tickers": [
-      "NVDA",
-      "INTC",
       "TXN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/93/534.jpg",
-    "description": "Nvidia announced a $12.9 billion acquisition of Hugging Face, a major open-source AI platform with 18 million users and 3 million models. The deal, expected to close in 2027, aims to strengthen Nvidia's AI ecosystem and drive demand for its computing infrastructure as competitors develop their own AI chips. Nvidia's stock gained 1.8% following the announcement.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/8d22c19f-da5c-4e8a-97d3-9378fac1a742",
+    "description": "Advantest Corporation announced a global call for papers for its VOICE 2027 Developer Conference, scheduled for June 14-16, 2027 in San Jose, California. The conference will focus on leading-edge semiconductor testing technologies including AI, high-performance computing, silicon photonics, and automotive applications. Paper submissions are due by November 16, 2026.",
     "keywords": [
-      "Nvidia acquisition",
-      "Hugging Face",
-      "artificial intelligence",
-      "open-source AI",
-      "AI ecosystem",
-      "semiconductor industry"
+      "semiconductor test equipment",
+      "VOICE 2027 conference",
+      "artificial intelligence testing",
+      "high-performance computing",
+      "silicon photonics",
+      "automotive testing",
+      "V93000 and T2000 platforms"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major strategic acquisition to expand AI ecosystem and developer platform control; stock gained 1.8% on announcement; maintains Zacks Rank #1 (Strong Buy) rating; acquisition strengthens competitive moat in AI hardware and software integration"
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as industry peer with strong year-to-date performance (+148.5%), but Nvidia's aggressive ecosystem expansion may intensify competitive pressure in AI market; holds Zacks Rank #3 (Hold)"
-      },
-      {
         "ticker": "TXN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as industry peer with solid performance (+46.3% YTD); Zacks Rank #2 (Buy); no direct impact from Nvidia's acquisition strategy noted"
+        "sentiment_reasoning": "Texas Instruments is mentioned as the General Chair of VOICE 2027 through Daniel Grzeda, indicating participation and industry engagement. However, this is a supporting role with no direct business impact disclosed."
       }
     ]
   },
   {
-    "id": "aee7d6888ec5cc5f8985cafc7ee1d63fbcf28549eebca3d9e1b5583e577cf8a4",
+    "id": "a1286b3cfb8906fc2a4450f1e5d753f306fb0ca370fac1730263f56f2aeea7ff",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Schwab's Dividend ETF's Worst Year Since 2012 Was a 5.5% Loss. The Cost Showed Up in the Good Years.",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-10-11T10:22:02Z",
+    "article_url": "https://www.fool.com/investing/2026/10/11/schwab-s-dividend-etf-s-worst-year-since-2012-was-a-5-5-loss-the-cost-showed-up-in-the-good-years/?source=iedfolrf0000001",
+    "tickers": [
+      "SCHD",
+      "AMZN",
+      "TSLA",
+      "META",
+      "TXN",
+      "CVX",
+      "COP"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F01c82250dba0ae307067597580a12b91b1b20c5a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "The Schwab U.S. Dividend Equity ETF (SCHD) had only three losing years between 2012-2025, with its worst loss being 5.5% in 2018. While this defensive positioning protected it during market downturns like 2022 (down 3% vs S&P 500 down 18%), it significantly underperformed in rising markets. Over 14 years, $10,000 in SCHD grew to ~$49,000 compared to ~$70,500 in the S&P 500, demonstrating the trade-off between downside protection and upside participation.",
+    "keywords": [
+      "dividend ETF",
+      "downside protection",
+      "market performance",
+      "risk-return trade-off",
+      "defensive investing",
+      "index comparison"
+    ],
+    "insights": [
+      {
+        "ticker": "SCHD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF demonstrates a clear trade-off: excellent downside protection with minimal losses in bad years (worst loss 5.5%), but significant underperformance in bull markets (22% vs 86% S&P 500 return over 2023-2025). Suitable for conservative income investors but lags in rising markets."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major 2022 loser (down ~50%) that was excluded from SCHD due to lack of dividend payments, illustrating why the dividend fund avoided significant losses that year."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Noted as a 2022 major loser (down ~65%) excluded from SCHD due to no dividend payments, contributing to the fund's outperformance that year."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as a 2022 significant loser (down ~64%) excluded from SCHD due to lack of dividend payments, exemplifying the fund's defensive positioning."
+      },
+      {
+        "ticker": "TXN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as SCHD's largest holding, up almost 70% in 2026, contributing to the fund's recent outperformance in the current year."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "One of SCHD's top 10 holdings, gained over 40% in 2026, with energy stocks representing ~14% of the fund and driving recent outperformance."
+      },
+      {
+        "ticker": "COP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Among SCHD's top 10 holdings, gained over 40% in 2026, contributing to the fund's energy-driven outperformance in 2026."
+      }
+    ]
+  },
+  {
+    "id": "1f2183dfc315839b210c2622617d0ccce876738a56f9d3b69bd779ebb121be9e",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Should You Buy Texas Instruments Stock Despite Its Premium Valuation?",
+    "title": "Texas Instruments (TXN) Stock Falls Amid Market Uptick: What Investors Need to Know",
     "author": "Zacks.Com",
-    "published_utc": "2026-09-03T12:34:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2984227/should-you-buy-texas-instruments-stock-despite-its-premium-valuation?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2984227",
+    "published_utc": "2026-10-09T20:50:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3004122/texas-instruments-txn-stock-falls-amid-market-uptick-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v1-3004122",
     "tickers": [
-      "TXN",
-      "NVDA",
-      "ADI",
-      "ASYS"
+      "TXN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/23/4158.jpg",
-    "description": "Texas Instruments (TXN) trades at a premium valuation of 26.97x forward P/E compared to the sector average of 20.22x, but the article argues this is justified. The company delivered strong Q2'26 results with 23% revenue growth and 52% EPS growth, while data center revenues doubled year-over-year. TXN benefits from AI infrastructure buildout through analog and embedded chips, plans to internalize 95% of wafer production by 2030, and generates substantial free cash flow. The company holds a Zacks Rank #2 (Buy) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default110.jpg",
+    "description": "Texas Instruments stock declined 1.55% to $283.74 on October 9, 2026, underperforming the broader market despite a 11.35% monthly gain. The chipmaker is expected to report earnings on October 21, 2026, with forecasts showing 61.49% EPS growth and 24.66% revenue growth year-over-year. TXN currently holds a Zacks Rank #3 (Hold) rating with a Forward P/E ratio of 34.09, in line with industry averages.",
+    "keywords": [
+      "Texas Instruments",
+      "chipmaker",
+      "earnings report",
+      "stock decline",
+      "semiconductor industry",
+      "valuation",
+      "Zacks Rank"
+    ],
+    "insights": [
+      {
+        "ticker": "TXN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While TXN underperformed the market on this trading day (-1.55% vs S&P 500 +0.6%), the company shows strong fundamentals with significant expected earnings growth (61.49% EPS growth) and revenue growth (24.66%). The Zacks Rank #3 (Hold) rating and valuation metrics in line with industry averages suggest neither strong bullish nor bearish signals, warranting a neutral stance."
+      }
+    ]
+  },
+  {
+    "id": "1075674cf46ee93cd7f673640eca09bfe52c1f80984df06413c623bb0bf7016e",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Texas Instruments (TXN) Registers a Bigger Fall Than the Market: Important Facts to Note",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-07T21:00:06Z",
+    "article_url": "https://www.zacks.com/stock/news/3002219/texas-instruments-txn-registers-a-bigger-fall-than-the-market-important-facts-to-note?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v2-3002219",
+    "tickers": [
+      "TXN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default192.jpg",
+    "description": "Texas Instruments stock fell 2.78% on October 7, 2026, underperforming the broader market. Despite the daily decline, TXN has gained 14.8% over the past month. The company is expected to report earnings on October 21, 2026, with consensus estimates projecting EPS of $2.39 (up 61.49% YoY) and revenue of $5.91 billion (up 24.66% YoY). TXN currently holds a Zacks Rank of #3 (Hold) with a Forward P/E of 35.16.",
     "keywords": [
       "Texas Instruments",
       "semiconductor",
-      "AI infrastructure",
-      "valuation",
-      "data center",
-      "earnings growth",
-      "manufacturing",
-      "CHIPS Act"
+      "earnings report",
+      "stock performance",
+      "analyst estimates",
+      "Zacks Rank"
     ],
     "insights": [
       {
         "ticker": "TXN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial performance with 23% revenue and 52% EPS growth, expanding AI infrastructure exposure through analog/embedded chips, strategic manufacturing investments with government support, robust free cash flow generation, and consistent shareholder returns justify the premium valuation despite trading at 26.97x forward P/E."
-      },
-      {
-        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a valuation comparison point (17.44x forward P/E) and as a GPU competitor in the AI accelerator market. TXN's strategy positions it to benefit from AI infrastructure regardless of which GPU maker dominates."
-      },
+        "sentiment_reasoning": "While TXN experienced a notable daily decline of 2.78%, it has demonstrated strong momentum with a 14.8% gain over the past month. Upcoming earnings are expected to show significant growth (61.49% EPS growth YoY), but the stock's current Zacks Rank of #3 (Hold) and valuation metrics suggest a balanced outlook. The daily underperformance relative to market indices is offset by strong recent performance and positive earnings expectations."
+      }
+    ]
+  },
+  {
+    "id": "be0ae280a9b48446d1935b1486749da2abb75fbc7d8f7af7633f5b7e1648b3bf",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here is What to Know Beyond Why Texas Instruments Incorporated (TXN) is a Trending Stock",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-07T12:00:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3001612/here-is-what-to-know-beyond-why-texas-instruments-incorporated-txn-is-a-trending-stock?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks_v1-3001612",
+    "tickers": [
+      "TXN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default358.jpg",
+    "description": "Texas Instruments (TXN) has gained 14.8% over the past month, outperforming the S&P 500. The company is expected to report 61.5% earnings growth for the current quarter and 55.1% for the fiscal year. However, with a Zacks Rank #3 (Hold) rating and a D valuation grade indicating premium pricing relative to peers, the stock is expected to perform in line with the broader market in the near term.",
+    "keywords": [
+      "Texas Instruments",
+      "semiconductor",
+      "earnings growth",
+      "valuation",
+      "stock rating",
+      "revenue growth"
+    ],
+    "insights": [
       {
-        "ticker": "ADI",
+        "ticker": "TXN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a semiconductor peer comparison, trading at 22.49x forward P/E with 30.9% YTD gains, but no specific analysis or commentary provided."
-      },
-      {
-        "ticker": "ASYS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a valuation comparison point, trading at 12.25x forward P/E with 16.3% YTD gains, with no substantive analysis provided."
+        "sentiment_reasoning": "While TXN shows strong fundamental metrics with 61.5% expected earnings growth for the current quarter and 55.1% for the fiscal year, along with solid revenue growth forecasts, the Zacks Rank #3 (Hold) rating and D valuation grade indicate the stock is trading at a premium to peers. This suggests the positive fundamentals are already priced in, warranting a neutral outlook for near-term performance in line with the broader market."
       }
     ]
   }

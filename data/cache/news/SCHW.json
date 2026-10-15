@@ -1,194 +1,26 @@
 [
   {
-    "id": "ceede6fc17ce0d887e5edefb146d5aae8d76eadfbddcd15196dca94f7fd02126",
+    "id": "5b9146d4d2eb5d32eb54fcb5455c6ff563d0ad133ad2c3833971460091497468",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Should You Really Invest in the Stock Market Right Now? History Offers a Clear Answer",
-    "author": "Jennifer Saibil",
-    "published_utc": "2026-09-27T16:09:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/should-you-really-invest-in-the-stock-market-right/?source=iedfolrf0000001",
-    "tickers": [
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888280%2Fperson-holding-a-cup-of-coffee-and-speaking-into-a-phone.jpg&w=1200&op=resize",
-    "description": "While the S&P 500 and Nasdaq have more than doubled since 2023 and the Shiller CAPE ratio has reached levels not seen since the dot-com bubble, the article argues that market timing is ineffective. Instead, consistent regular investing\u2014even at market highs\u2014historically delivers strong results, with studies showing steady investors achieve returns nearly as good as perfect market timers.",
-    "keywords": [
-      "stock market",
-      "S&P 500",
-      "Nasdaq Composite",
-      "CAPE ratio",
-      "market timing",
-      "dollar-cost averaging",
-      "ETF",
-      "consistent investing"
-    ],
-    "insights": [
-      {
-        "ticker": "SCHW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Referenced positively for conducting research demonstrating that consistent investing strategies deliver strong long-term results, supporting the article's main investment thesis."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Referenced positively for conducting research demonstrating that consistent investing strategies deliver strong long-term results, supporting the article's main investment thesis."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Referenced positively for conducting research demonstrating that consistent investing strategies deliver strong long-term results, supporting the article's main investment thesis."
-      }
-    ]
-  },
-  {
-    "id": "e0b985e145394bc62dcd00be22c85fa0f08ae63c4f468a0ac8a48d0793e6c869",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Interactive Brokers Stock Has Turned $10,000 Into About $100,000 in 10 Years",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-25T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/interactive-brokers-stock-has-turned-10000-into-ab/?source=iedfolrf0000001",
+    "title": "Interactive Brokers Group's Next Earnings Report Tomorrow Could Send the Stock Soaring. Here's Why.",
+    "author": "Eric Volkman",
+    "published_utc": "2026-10-14T08:06:03Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/interactive-brokers-group-s-next-earnings-report-tomorrow-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
     "tickers": [
       "IBKR",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ",
       "HOOD",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887642%2F23_07_04-a-scale-showing-risk-from-low-to-high-with-the-pointer-on-the-dial-on-high-_mf-dload.jpg&w=1200&op=resize",
-    "description": "Interactive Brokers has delivered impressive 10-year returns, with a $10,000 investment growing to ~$100,000, driven by surging customer accounts (up 34% YoY) and increased risk-taking including crypto and prediction markets. However, the article warns that this growth is unsustainable, as it's fueled by a bull market and elevated margin debt (up 67% YoY). When the inevitable bear market arrives, the company's business will struggle as investors reduce risk exposure.",
-    "keywords": [
-      "discount broker",
-      "bull market",
-      "margin debt",
-      "cryptocurrency trading",
-      "prediction markets",
-      "risk-taking",
-      "bear market",
-      "customer growth"
-    ],
-    "insights": [
-      {
-        "ticker": "IBKR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company shows strong near-term metrics (customer growth, margin loans), the article warns that current success is unsustainable and dependent on a bull market. The author explicitly cautions that the stock will likely struggle when market conditions reverse, making the long-term outlook concerning despite impressive historical returns."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a competitive peer in the discount brokerage space with no specific analysis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "ad40210123cc061b7942747252a666398886c42cffb8483df444e8ab8f7aab66",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Reuters Momentum AI Austin Day 1: A New Way to Measure Whether AI Is Actually Paying Off",
-    "author": "Reuters Events",
-    "published_utc": "2026-09-25T00:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "tickers": [
-      "FDX",
-      "ABBV",
-      "WBD",
-      "UNH",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "description": "Enterprise AI is shifting from experimentation to demonstrating measurable ROI. Companies like FedEx ($3B in cost reductions), Mars (20% top-line growth), and Indeed (70% of matches from AI) are scaling AI beyond pilots, but success requires organizational redesign, clear ownership, and human oversight. Leaders warn that AI can amplify existing organizational weaknesses and autonomous agents need defined spending limits and accountability measures.",
-    "keywords": [
-      "enterprise AI",
-      "ROI",
-      "business value",
-      "AI scaling",
-      "autonomous agents",
-      "organizational transformation",
-      "AI governance",
-      "workforce impact"
-    ],
-    "insights": [
-      {
-        "ticker": "FDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrated significant measurable success with 200+ AI use cases contributing to $3 billion in cost reductions over six years, exemplifying successful AI scaling and ROI delivery."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of moving beyond pilots in clinical trials, but no specific metrics or outcomes provided to assess success level."
-      },
-      {
-        "ticker": "WBD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as example of AI implementation in advertising, but without specific performance data or outcomes mentioned."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as example of AI scaling in healthcare support, but no quantified results or specific outcomes provided."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      }
-    ]
-  },
-  {
-    "id": "dd09434f1828d3157ff65b0bd10ce5de2177af79edf1855da2445f49c1ff2511",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "An S&P 500 Index Fund Already Owns These Financial Stocks. Here's Whether to Own More.",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-09-24T17:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/24/an-sp-500-index-fund-already-owns-these-financial/?source=iedfolrf0000001",
-    "tickers": [
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -197,183 +29,438 @@
       "JPMpK",
       "JPMpL",
       "JPMpM",
-      "VYLD",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ",
-      "V",
-      "AXP",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "HOOD",
-      "BRK.A",
-      "BRK.B"
+      "VYLD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888069%2Fgettyimages-2228764569.jpg&w=1200&op=resize",
-    "description": "Financial stocks in the S&P 500 have underperformed over the past year, remaining flat year-to-date and up only 1% over 12 months. While S&P 500 ETFs already provide exposure to major financial stocks like Berkshire Hathaway, JPMorgan Chase, and Visa, investors don't need additional financial sector exposure. Instead, experts recommend diversifying beyond large-caps into small-cap, mid-cap, value, and international stocks, which are projected to outperform large-cap growth stocks over the next 10 years.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff6c0296e016df3563eca0703228d24fcbb45f9af-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Interactive Brokers is expected to report Q3 earnings with potential upside surprises. The company generates revenue from two main streams: net interest income (56% of revenue) and trading commissions. Analyst estimates predict 18% EPS growth and 15% revenue growth, but the author suggests these may be conservative given stronger-than-expected trading activity observed at major banks during the summer quarter.",
     "keywords": [
-      "financial stocks",
-      "S&P 500",
-      "diversification",
-      "small-cap stocks",
-      "value stocks",
-      "international stocks",
-      "large-cap underperformance"
+      "earnings report",
+      "net interest income",
+      "trading commissions",
+      "Q3 results",
+      "brokerage",
+      "active traders",
+      "institutional investors"
     ],
     "insights": [
       {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "ticker": "IBKR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article presents an optimistic outlook for the upcoming earnings report, suggesting analyst estimates may be underestimating Q3 performance due to stronger-than-expected summer trading activity. The company's diversified revenue streams (NII and commissions) and strong profitability growth are highlighted as positive factors."
       },
       {
         "ticker": "SCHW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
+        "sentiment_reasoning": "Mentioned as a competitor with a different market positioning (retail/individual investors vs. Interactive's experienced/active traders). No specific performance commentary or sentiment is provided."
       },
       {
         "ticker": "SCHWpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
+        "sentiment_reasoning": "Mentioned as a competitor with a different market positioning (retail/individual investors vs. Interactive's experienced/active traders). No specific performance commentary or sentiment is provided."
       },
       {
         "ticker": "SCHWpJ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock in S&P 500 ETFs; no specific outlook provided beyond sector-wide challenges."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock in S&P 500 ETFs; subject to financial sector headwinds with no differentiation noted."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
+        "sentiment_reasoning": "Mentioned as a competitor with a different market positioning (retail/individual investors vs. Interactive's experienced/active traders). No specific performance commentary or sentiment is provided."
       },
       {
         "ticker": "HOOD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "As a brokerage, vulnerable to the same sector challenges: potential market correction and downturn would hurt brokerages' performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor targeting young, adventurous retail investors. Serves as a market positioning comparison with no specific performance analysis or sentiment attached."
       },
       {
-        "ticker": "BRK.A",
+        "ticker": "GS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
+        "sentiment_reasoning": "Cited as evidence of strong trading activity during Q3, but mentioned only as a reference point for market conditions, not as a subject of investment analysis."
       },
       {
-        "ticker": "BRK.B",
+        "ticker": "GSpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
+        "sentiment_reasoning": "Cited as evidence of strong trading activity during Q3, but mentioned only as a reference point for market conditions, not as a subject of investment analysis."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as evidence of strong trading activity during Q3, but mentioned only as a reference point for market conditions, not as a subject of investment analysis."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Cited as evidence of strong trading activity during Q3, but mentioned only as a reference point for market conditions, not as a subject of investment analysis."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similarly referenced as evidence of robust trading activity in Q3, but used only as a comparative example of market conditions rather than as a direct investment recommendation."
       }
     ]
   },
   {
-    "id": "ff5168e66581810535669cbd0fdfac01ace62173703582952110d48f4d085143",
+    "id": "71f938443cfacea51d5bb1513f38194a12bc7c9db8912555b8d69bb7205963eb",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "The Federal Reserve Just Raised Interest Rates for the First Time Since 2023. Here's What History Says Happens in the Stock Market Next.",
-    "author": "Adam Levy",
-    "published_utc": "2026-09-18T13:04:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/the-federal-reserve-just-raised-interest-rates-for/?source=iedfolrf0000001",
+    "title": "Charles Schwab's Next Earnings Report on Oct. 15 Could Send the Stock Soaring. Here's Why.",
+    "author": "Eric Volkman",
+    "published_utc": "2026-10-13T11:22:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/13/charles-schwab-s-next-earnings-report-on-oct-15-2026-could-send-the-stock-soaring-here-s-why/?source=iedfolrf0000001",
     "tickers": [
       "SCHW",
       "SCHWpD",
       "SCHWpJ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887769%2Fkevin-warsh-at-the-podium-with-american-flags-behind-him-source-federal-reserve.jpg&w=1200&op=resize",
-    "description": "The Federal Reserve, under Chairman Kevin Warsh, raised the federal funds rate by a quarter point in response to persistent inflation. Historically, rate-hiking cycles have triggered an average 14% drawdown in the S&P 500 within 12 months, though stocks typically recover within a year with an average 6% return. The impact will be most severe on growth stocks and debt-dependent companies, but unless underlying earnings falter, the bull market should eventually resume.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F01c82250dba0ae307067597580a12b91b1b20c5a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Charles Schwab is expected to report strong Q3 2026 earnings with revenue projected at $7.2 billion (17% growth) and adjusted net income at $1.66 per share (27% growth). The company's shift toward net interest income as its primary revenue driver, combined with recent Federal Reserve rate hikes and strong customer acquisition (1.4 million new accounts in Q2), positions it well for outperformance versus analyst expectations.",
     "keywords": [
-      "Federal Reserve",
-      "interest rate hike",
-      "inflation",
-      "S&P 500",
-      "stock market",
-      "monetary policy",
-      "growth stocks",
-      "corporate earnings"
+      "earnings report",
+      "net interest income",
+      "Federal Reserve rate hike",
+      "brokerage services",
+      "customer acquisition",
+      "asset management fees",
+      "trading revenue"
     ],
     "insights": [
       {
         "ticker": "SCHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong analyst coverage (19 of 26 rate as buy/overweight), robust revenue and earnings growth projections (17% and 27% respectively), diversified revenue streams with net interest income as primary driver benefiting from Fed rate hikes, and impressive customer loyalty metrics (1.4 million new accounts added in Q2 with 27% increase). Author maintains position in the stock and expects outperformance."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong analyst coverage (19 of 26 rate as buy/overweight), robust revenue and earnings growth projections (17% and 27% respectively), diversified revenue streams with net interest income as primary driver benefiting from Fed rate hikes, and impressive customer loyalty metrics (1.4 million new accounts added in Q2 with 27% increase). Author maintains position in the stock and expects outperformance."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong analyst coverage (19 of 26 rate as buy/overweight), robust revenue and earnings growth projections (17% and 27% respectively), diversified revenue streams with net interest income as primary driver benefiting from Fed rate hikes, and impressive customer loyalty metrics (1.4 million new accounts added in Q2 with 27% increase). Author maintains position in the stock and expects outperformance."
+      }
+    ]
+  },
+  {
+    "id": "ec94f8a0c3a9a256643a9db0cd999d6ee3fc30694201dc99c71ac3d32f26ff84",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Wells Fargo (WFC) Q3 Earnings Surpass Estimates",
+    "author": "Na",
+    "published_utc": "2026-10-13T10:40:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3005720/wells-fargo-wfc-q3-earnings-surpass-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-3005720",
+    "tickers": [
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default118.jpg",
+    "description": "Wells Fargo reported Q3 2026 earnings of $1.87 per share, slightly beating the consensus estimate of $1.85, but missed revenue expectations at $21.87 billion versus the estimated $22.32 billion. The stock has underperformed the S&P 500 by 24.7% year-to-date. The company holds a Zacks Rank #3 (Hold) rating, suggesting near-term performance in line with the market.",
+    "keywords": [
+      "earnings report",
+      "Q3 2026",
+      "earnings surprise",
+      "revenue miss",
+      "financial sector",
+      "investment banking",
+      "stock performance",
+      "earnings estimates"
+    ],
+    "insights": [
+      {
+        "ticker": "WFC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a source of research data on historical rate-hike impacts. No direct operational impact discussed; included for informational context only."
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with a modest EPS beat (+1.08% surprise) offset by a revenue miss (-1.26%). The stock has significantly underperformed the market year-to-date (-10.6% vs S&P 500 +14.1%), and the Zacks Rank #3 (Hold) rating indicates expected market-aligned performance going forward."
+      },
+      {
+        "ticker": "SCHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to report strong year-over-year earnings growth of +27.5% with revenue growth of +17.4%. Recent estimate revisions have been positive (0.4% higher over last 30 days), suggesting improving investor confidence in the company's upcoming results."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to report strong year-over-year earnings growth of +27.5% with revenue growth of +17.4%. Recent estimate revisions have been positive (0.4% higher over last 30 days), suggesting improving investor confidence in the company's upcoming results."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to report strong year-over-year earnings growth of +27.5% with revenue growth of +17.4%. Recent estimate revisions have been positive (0.4% higher over last 30 days), suggesting improving investor confidence in the company's upcoming results."
+      }
+    ]
+  },
+  {
+    "id": "cec0075b0a3968827c9118193f9342f0707f4a71d9a6032b7036ed9eb77c00b3",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the iShares U.S. Broker-Dealers & Securities Exchanges ETF (IAI)?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-13T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3005674/should-you-invest-in-the-ishares-u-s-broker-dealers-securities-exchanges-etf-iai?cid=CS-ZC-FT-sector_etf-3005674",
+    "tickers": [
+      "IAI",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ",
+      "KCE"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default25.jpg",
+    "description": "The iShares U.S. Broker-Dealers & Securities Exchanges ETF (IAI) offers diversified exposure to the financials sector with $1.32 billion in assets and a 0.37% expense ratio. With a Zacks ETF Rank of 3 (Hold), the fund has delivered modest year-to-date returns of 0.64% but carries higher risk with a beta of 1.09 and 20.19% standard deviation. Top holdings include Goldman Sachs, Morgan Stanley, and Charles Schwab.",
+    "keywords": [
+      "ETF",
+      "broker-dealers",
+      "securities exchanges",
+      "financials sector",
+      "passive management",
+      "dividend yield",
+      "investment services"
+    ],
+    "insights": [
+      {
+        "ticker": "IAI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF receives a Hold rating with modest performance (0.64% YTD, 5.45% over 12 months), reasonable expense ratio of 0.37%, but elevated risk profile (beta 1.09, 20.19% standard deviation) and concentrated holdings with top 10 accounting for 67.79% of assets."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IAI at 19.16% of portfolio, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IAI at 19.16% of portfolio, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IAI at 19.16% of portfolio, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in IAI at 19.16% of portfolio, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "SCHW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in IAI, but no independent performance analysis provided in the article."
       },
       {
         "ticker": "SCHWpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a source of research data on historical rate-hike impacts. No direct operational impact discussed; included for informational context only."
+        "sentiment_reasoning": "Third-largest holding in IAI, but no independent performance analysis provided in the article."
       },
       {
         "ticker": "SCHWpJ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a source of research data on historical rate-hike impacts. No direct operational impact discussed; included for informational context only."
+        "sentiment_reasoning": "Third-largest holding in IAI, but no independent performance analysis provided in the article."
+      },
+      {
+        "ticker": "KCE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative option with slightly lower expense ratio (0.35% vs 0.37%) and smaller asset base ($508.59 million), but no performance comparison provided."
+      }
+    ]
+  },
+  {
+    "id": "6cabade7e7bc53815615c3b6ca613f921ff11ccf5d79e87fe5113ee46f20d9ec",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Bull of the Day: Robinhood Markets, Inc. (HOOD)",
+    "author": "Na",
+    "published_utc": "2026-10-13T07:00:00Z",
+    "article_url": "https://www.zacks.com/commentary/3005466/bull-of-the-day-robinhood-markets-inc-hood?cid=CS-ZC-FT-bull_of_the_day-3005466",
+    "tickers": [
+      "HOOD",
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default362.jpg",
+    "description": "Robinhood Markets (HOOD) has emerged as a legitimate competitor to Fidelity and Charles Schwab, operating 13 business lines generating $100M+ in annualized revenue each. The company recently launched AI-powered agentic trading tools and announced 24/7 weekend trading capabilities. Despite a 30% pullback from October 2025 peaks, HOOD posted strong Q2 earnings with 32% YoY revenue growth and 48% earnings growth, earning a Zacks Rank #1 (Strong Buy) rating with 25% upside potential from current levels.",
+    "keywords": [
+      "AI trading",
+      "fintech",
+      "online brokerage",
+      "earnings growth",
+      "agentic AI",
+      "retail investing",
+      "weekend trading"
+    ],
+    "insights": [
+      {
+        "ticker": "HOOD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 beat-and-raise results with 32% YoY revenue growth and 48% earnings growth. Company received Zacks Rank #1 (Strong Buy) rating with positive EPS revisions. Launched innovative AI agentic trading tools and expanded business to 13 revenue-generating lines. Stock down 30% from peaks presents buying opportunity with 25% upside potential and technical breakout signals."
+      },
+      {
+        "ticker": "SCHW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as an established online brokerage competitor. No specific performance metrics or sentiment indicators provided in the article."
+      },
+      {
+        "ticker": "SCHWpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as an established online brokerage competitor. No specific performance metrics or sentiment indicators provided in the article."
+      },
+      {
+        "ticker": "SCHWpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as an established online brokerage competitor. No specific performance metrics or sentiment indicators provided in the article."
       }
     ]
   }

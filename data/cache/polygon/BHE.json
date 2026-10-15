@@ -1,0 +1,35 @@
+{
+  "ticker": "BHE",
+  "name": "Benchmark Electronics",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000863436",
+  "composite_figi": "BBG000C4JX31",
+  "share_class_figi": "BBG001S6LXL4",
+  "market_cap": 2828694723.75,
+  "phone_number": "623-300-7000",
+  "address": {
+    "address1": "56 SOUTH ROCKFORD DRIVE",
+    "city": "TEMPE",
+    "state": "AZ",
+    "postal_code": "85281"
+  },
+  "description": "Benchmark Electronics Inc is engaged in product designing, engineering services, technology solutions, and manufacturing services (electronic manufacturing services (EMS) and precision technology services). It serves various industries, including aerospace & defense (A&D), medical technologies, complex industrials, semiconductor capital equipment, next-generation telecommunications, and high-end computing. Its geographical segments are the Americas, Asia, and Europe, of which key revenue is derived from the Americas.",
+  "sic_code": "3672",
+  "sic_description": "PRINTED CIRCUIT BOARDS",
+  "ticker_root": "BHE",
+  "homepage_url": "https://www.bench.com",
+  "total_employees": 11840,
+  "list_date": "1990-07-03",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YmVuY2guY29t/images/2026-10-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YmVuY2guY29t/images/2026-10-01_icon.png"
+  },
+  "share_class_shares_outstanding": 35919933,
+  "weighted_shares_outstanding": 35919933,
+  "round_lot": 100
+}

@@ -1,5 +1,97 @@
 [
   {
+    "id": "f5219d0a450154919c9636131acebc238c091646f7d02466e3deaebd42628bc3",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "nVent Electric Stock Rises 61% YTD: Time to Hold or Book Profits?",
+    "author": "Na",
+    "published_utc": "2026-10-09T13:24:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3003802/nvent-electric-stock-rises-61-ytd-time-to-hold-or-book-profits?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3003802",
+    "tickers": [
+      "NVT",
+      "HUBB",
+      "SMCI",
+      "SMCIP",
+      "APH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3f/989.jpg",
+    "description": "nVent Electric (NVT) has surged 60.9% YTD driven by strong AI data-center demand, with 2026 data-center sales expected to exceed $2 billion. However, the stock's premium valuation (27.55X forward P/E), rising tariff costs ($100M expected in 2026), and intensifying competition from Hubbell, Super Micro Computer, and Amphenol warrant caution. Zacks rates NVT as a Sell.",
+    "keywords": [
+      "AI data centers",
+      "liquid cooling",
+      "electrical infrastructure",
+      "tariffs",
+      "valuation",
+      "competition",
+      "capacity expansion"
+    ],
+    "insights": [
+      {
+        "ticker": "NVT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite strong fundamentals with AI data-center demand driving 40% revenue growth expected in 2026 and data-center sales exceeding $2B, the stock receives a Sell rating due to premium valuation (27.55X forward P/E vs 22.69X industry average), escalating tariff costs ($100M in 2026), and intensifying competition limiting margin for error."
+      },
+      {
+        "ticker": "HUBB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Hubbell is benefiting from rising data-center and utility infrastructure spending with Q2 2026 data-center sales up 65% and raised 2026 guidance to ~50% growth. Strong portfolio and capacity expansion position it as a competitive threat to NVT."
+      },
+      {
+        "ticker": "SMCI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "SMCI is strengthening its AI infrastructure position with comprehensive Data Center Building Block Solutions and expanding liquid-cooling capacity to exceed 6,000 racks/month, positioning it as a strong competitor capturing AI data-center spending."
+      },
+      {
+        "ticker": "SMCIP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "SMCI is strengthening its AI infrastructure position with comprehensive Data Center Building Block Solutions and expanding liquid-cooling capacity to exceed 6,000 racks/month, positioning it as a strong competitor capturing AI data-center spending."
+      },
+      {
+        "ticker": "APH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Amphenol demonstrates strong AI data-center exposure with IT datacom sales growing 89% YoY in Q2 2026, driven by demand for AI-related power and connectivity solutions, with expanding power interconnect portfolio increasing competitive pressure on NVT."
+      }
+    ]
+  },
+  {
+    "id": "b73783f011dab052611d5d78be6f68668fc029a32be87c6ae2ff93203373491c",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "This Overlooked Grid-Technology Stock Could Be Your Ticket to Millionaire Status",
+    "author": "Jeff Siegel",
+    "published_utc": "2026-09-18T06:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/09/18/this-overlooked-grid-technology-stock-could-be-you/?source=iedfolrf0000001",
+    "tickers": [
+      "HUBB"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887151%2Fgettyimages-22247757052.jpg&w=1200&op=resize",
+    "description": "Hubbell, a grid-technology equipment manufacturer, has delivered 425% total returns over the past decade with ~18% annualized returns. The company is benefiting from surging electricity demand driven by data centers, AI, manufacturing, and electrification, which is fueling grid modernization investments. Q2 sales grew 15% organically, and management raised 2026 earnings guidance to $20.25-$20.55 per share. With a 130-year history and 18 consecutive years of dividend increases, Hubbell could offer long-term investors significant wealth-building potential if it maintains strong compounding growth.",
+    "keywords": [
+      "grid modernization",
+      "electricity demand",
+      "data centers",
+      "infrastructure investment",
+      "utility equipment",
+      "dividend growth",
+      "earnings growth"
+    ],
+    "insights": [
+      {
+        "ticker": "HUBB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong historical performance (425% return over 10 years), accelerating organic growth (15% Q2 sales increase), rising earnings guidance for 2026, consistent dividend growth (18 years), and positioned to benefit from multi-year grid modernization and electrification trends driven by data centers and AI infrastructure demand."
+      }
+    ]
+  },
+  {
     "id": "a807268d0d4e8559fdc52023cd8589b4731f57ea74bb678213231e475b92bf19",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -122,98 +214,6 @@
         "ticker": "HUBB",
         "sentiment": "neutral",
         "sentiment_reasoning": "The article is a routine announcement of earnings release timing and conference call details. It contains no forward-looking statements, guidance changes, or performance indicators that would suggest positive or negative sentiment. It is purely informational regarding procedural matters."
-      }
-    ]
-  },
-  {
-    "id": "fc5dfd5fc51b0cc88076966f1a8191773479f01cc8cf7c7f2d06e414eb2f7f5d",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Hubbell to Participate in Upcoming Investor Conference",
-    "author": "Na",
-    "published_utc": "2026-03-05T14:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/03/05/3250208/0/en/Hubbell-to-Participate-in-Upcoming-Investor-Conference.html",
-    "tickers": [
-      "HUBB"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/03/05/3250208/0/en/Hubbell-to-Participate-in-Upcoming-Investor-Conference.html",
-    "description": "Hubbell Incorporated announced that Chief Financial Officer Joe Capozzoli will present at the JP Morgan Industrials Conference on March 18, 2026 at 12:15 PM ET. The webcast will be available through Hubbell's Investor Relations website.",
-    "keywords": [
-      "investor conference",
-      "JP Morgan Industrials Conference",
-      "CFO presentation",
-      "webcast",
-      "Hubbell Incorporated"
-    ],
-    "insights": [
-      {
-        "ticker": "HUBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "The article is a routine announcement of conference participation. While the company's 2025 revenues of $5.8 billion and adjusted diluted EPS growth of 15% year-over-year indicate strong financial performance, the main article content focuses on logistical details of the conference presentation rather than substantive business developments or forward-looking statements that would warrant a positive sentiment rating."
-      }
-    ]
-  },
-  {
-    "id": "91a2585aca1e7f09bfb18356557a043406d310a2ea3e1cb84f167723e7121211",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Smart Lighting Market - $67.83B, 19.77% CAGR by 2031, Globally, Says Mordor Intelligence",
-    "author": "Mordor Intelligence",
-    "published_utc": "2026-02-17T08:35:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/02/17/3238962/0/en/Smart-Lighting-Market-67-83B-19-77-CAGR-by-2031-Globally-Says-Mordor-Intelligence.html",
-    "tickers": [
-      "HUBB",
-      "ETN",
-      "XIACF",
-      "PHPPY",
-      "LGRDY"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/416870ff-5134-4fb2-8605-50f7b688dd33",
-    "description": "The global smart lighting market reached USD 27.52 billion in 2026 and is expected to grow to USD 67.83 billion by 2031, driven by energy efficiency initiatives, smart city investments, declining LED costs, and utility incentive programs. Asia-Pacific leads with 37.38% revenue share, while emerging markets in the Middle East and Africa are accelerating adoption through government-led smart city programs.",
-    "keywords": [
-      "smart lighting",
-      "LED technology",
-      "IoT controls",
-      "energy efficiency",
-      "smart cities",
-      "connected buildings",
-      "demand-side management",
-      "lighting controls",
-      "Asia-Pacific market"
-    ],
-    "insights": [
-      {
-        "ticker": "HUBB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major smart lighting market participants. Well-positioned to capitalize on utility-backed efficiency programs and growing demand for connected lighting systems."
-      },
-      {
-        "ticker": "ETN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a major company in the smart lighting sector. Benefits from expanding smart building automation and IoT integration trends driving market growth."
-      },
-      {
-        "ticker": "XIACF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among key companies in the smart lighting market. Benefits from expanding smart home ecosystem integration and growing IoT adoption in Asia-Pacific."
-      },
-      {
-        "ticker": "PHPPY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major company in the smart lighting market with strong market presence. Benefits from 19.77% CAGR growth and increasing adoption of smart lighting solutions globally."
-      },
-      {
-        "ticker": "LGRDY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major company in the smart lighting and lighting control system markets. Benefits from global smart city initiatives and building automation growth."
       }
     ]
   }

@@ -1,205 +1,439 @@
 [
   {
-    "id": "41b43ee6f945227db558be0c9aae85ec37d57a503e5fe6c53b12636daf838cfe",
+    "id": "ae9eeab1cacadbcfbcc7ff288ed88683bfea08af6dbf63544d7a2646a7a2baa4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Joby and Archer Each Burn Roughly $200 Million a Quarter. Here's Which One Runs Out of Cash First",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-30T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/29/joby-and-archer-each-burn-roughly-200-million-a-qu/?source=iedfolrf0000001",
+    "title": "Prediction: UPS Will Miss Estimates (but the Stock Could Still Be a Good Value)",
+    "author": "Lee Samaha",
+    "published_utc": "2026-10-14T22:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/prediction-ups-will-miss-estimates-but-the-stock-c/?source=iedfolrf0000001",
     "tickers": [
-      "JOBY",
-      "ACHR",
-      "BA",
-      "BApA",
+      "UPS",
+      "AMZN",
       "DAL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888488%2F24_09_09-a-piggy-bank-looking-through-binoculars-_mf-dload-gettyimages-1583116316-1200x675-128554e.jpg&w=1200&op=resize",
-    "description": "Joby Aviation and Archer Aviation are both burning through approximately $200 million per quarter as they develop eVTOL technology. Joby has $2.2 billion in cash reserves and could sustain operations for roughly two years at current burn rates, while Archer has $1.5 billion and could last just over a year. Both companies are making technological progress and have partnerships with major aviation companies, which should help them raise additional capital before running out of cash.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890851%2Fgettyimages-1218341925-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "UPS faces headwinds from elevated fuel costs, Amazon's new supply chain services, and declining e-commerce demand, which could lead to missed earnings estimates in Q3 2026. However, the stock's high dividend yield and market expectations of a miss may position it for recovery if the company merely meets expectations. The dividend sustainability remains a concern despite the potential value opportunity.",
     "keywords": [
-      "eVTOL technology",
-      "cash burn",
-      "electric vertical takeoff and landing",
-      "aviation startups",
-      "capital requirements",
-      "autonomous flight"
+      "UPS earnings miss",
+      "fuel costs",
+      "dividend sustainability",
+      "e-commerce decline",
+      "Amazon competition",
+      "supply chain",
+      "stock valuation"
     ],
     "insights": [
       {
-        "ticker": "JOBY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company is making technological progress (autonomous cross-country flight) and has strong partnerships (Virgin Atlantic, Delta), it is burning $260 million quarterly with limited revenue ($38.6M). The neutral sentiment reflects both positive technological advancement and concerning cash burn dynamics, though partnerships suggest capital replenishment is likely."
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Article predicts UPS will miss Q3 earnings estimates due to elevated fuel costs that exceed surcharge increases, competition from Amazon Supply Chain Services, and declining e-commerce demand (down 7% YOY). Dividend sustainability is questioned given the tight coverage ratio of 6.56 dividend per share against expected 7.20 EPS for 2026."
       },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Amazon is mentioned as a competitive threat to UPS through its newly launched Supply Chain Services targeting SMB deliveries. However, the article presents this as a potential headwind for UPS rather than making a direct investment recommendation about Amazon itself."
+      },
+      {
+        "ticker": "DAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Delta is cited as a comparable example of a company that missed estimates and cut guidance due to higher fuel expenses, with the market showing modest decline. Used as a reference point to suggest UPS stock may be similarly positioned for recovery."
+      }
+    ]
+  },
+  {
+    "id": "83a622ec6649f180972ad09a743523b956dabc76e86972a0d4e1b443df913b33",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Delta Air Lines Cuts 2026 Earnings Outlook: Time to Sell DAL Stock?",
+    "author": "Na",
+    "published_utc": "2026-10-14T15:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007370/delta-air-lines-cuts-2026-earnings-outlook-time-to-sell-dal-stock?cid=CS-ZC-FT-analyst_blog|rank_focused-3007370",
+    "tickers": [
+      "DAL",
+      "UAL",
+      "AAL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/2072.jpg",
+    "description": "Delta Air Lines has lowered its 2026 earnings guidance to $5.10-$5.60 per share from $6.50-$7.50, citing surging fuel expenses and rising operating costs. Q3 fuel costs surged 62% to $4.14B, compressing operating margins to 9.4%. Despite strong passenger demand and premium revenue growth, weakening free cash flow and negative earnings revisions raise concerns about the airline's profitability outlook.",
+    "keywords": [
+      "airline industry",
+      "fuel costs",
+      "earnings guidance",
+      "operating margins",
+      "free cash flow",
+      "premium travel demand",
+      "debt reduction"
+    ],
+    "insights": [
+      {
+        "ticker": "DAL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Significant earnings guidance reduction, 62% surge in fuel expenses, 170 basis point margin contraction, declining free cash flow ($463M vs $833M YoY), and 19.72% downward earnings revision over 60 days. Zacks Rank #5 (Strong Sell) rating indicates weak near-term investment appeal despite strong demand."
+      },
+      {
+        "ticker": "UAL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Operates in the same fuel-sensitive airline industry facing elevated fuel costs and margin pressures similar to Delta. Expected to report Q3 results on Oct. 20 with anticipated negative impact from high fuel prices."
+      },
+      {
+        "ticker": "AAL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Faces identical industry headwinds as Delta and United, including fuel-cost sensitivity and operating expense inflation. Expected to report Q3 results on Oct. 22 with anticipated challenges from elevated fuel environment."
+      }
+    ]
+  },
+  {
+    "id": "be65058a32ed41cf82f970b493a686ca9584e5f30ad53935576514d782b776b6",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the U.S. Global Jets ETF (JETS)?",
+    "author": "Na",
+    "published_utc": "2026-10-14T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3006622/should-you-invest-in-the-u-s-global-jets-etf-jets?cid=CS-ZC-FT-sector_etf-3006622",
+    "tickers": [
+      "JETS",
+      "LUV",
+      "DAL",
+      "UAL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default106.jpg",
+    "description": "The U.S. Global Jets ETF (JETS) offers exposure to global airline companies with a 0.6% expense ratio and $778.07 million in assets. However, the fund carries high risk with a beta of 1.22 and 31.05% standard deviation over three years. Year-to-date performance shows a 4.52% loss, though it gained 8.81% over the past 12 months. The ETF holds a Zacks Rank of 3 (Hold) and is concentrated in major carriers like Southwest Airlines, Delta, and United Airlines.",
+    "keywords": [
+      "airline ETF",
+      "transportation sector",
+      "passive investment",
+      "high risk",
+      "sector exposure",
+      "expense ratio"
+    ],
+    "insights": [
+      {
+        "ticker": "JETS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF is rated as a 'Hold' with reasonable fundamentals (low expense ratio, diversification) but significant drawbacks including high volatility (beta 1.22), recent year-to-date losses (-4.52%), and concentration risk with top 10 holdings representing 65.46% of assets. Suitable only for risk-tolerant investors."
+      },
+      {
+        "ticker": "LUV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in JETS at 11.58% of assets, but no independent performance data provided. Sentiment reflects the overall neutral stance on the airline sector within the ETF."
+      },
+      {
+        "ticker": "DAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in JETS, but no independent performance data provided. Sentiment reflects the overall neutral stance on the airline sector within the ETF."
+      },
+      {
+        "ticker": "UAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in JETS, but no independent performance data provided. Sentiment reflects the overall neutral stance on the airline sector within the ETF."
+      }
+    ]
+  },
+  {
+    "id": "648637a1ce26250df58e76d7d4468e721d9ad36a66ba66bf302899e65481eb74",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Greg Abel Is Reshaping Berkshire's Portfolio. Here's Who's In and Who's Out.",
+    "author": "Bram Berkowitz",
+    "published_utc": "2026-10-13T08:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/13/greg-abel-reshaping-berkshire-hathaway-portfolio/?source=iedfolrf0000001",
+    "tickers": [
+      "BRK.A",
+      "BRK.B",
+      "AAPL",
+      "AXP",
+      "KO",
+      "MCO",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "CVX",
+      "OXY",
+      "OXY.WS",
+      "DAL",
+      "LEN",
+      "LEN.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890525%2Fgreg-abel-getty.jpg&w=1200&op=resize",
+    "description": "Greg Abel, nine months into his tenure as Berkshire Hathaway CEO, is reshaping the company's $350 billion equities portfolio. He has designated Apple, American Express, Coca-Cola, and Moody's as core holdings with limited activity expected. Meanwhile, Abel has significantly increased positions in Alphabet (now 10.6% of portfolio), initiated new stakes in Delta Airlines, and increased exposure to housing through Lennar. Energy holdings like Chevron and Occidental Petroleum remain uncommitted, while Bank of America has been slightly trimmed. Abel has also resumed share repurchases after years of pause.",
+    "keywords": [
+      "portfolio reshaping",
+      "core holdings",
+      "capital allocation",
+      "CEO transition",
+      "equity investments"
+    ],
+    "insights": [
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Leadership transition with strategic portfolio changes underway; Abel is making deliberate moves but long-term impact remains to be seen"
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Leadership transition with strategic portfolio changes underway; Abel is making deliberate moves but long-term impact remains to be seen"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Designated as core holding with limited activity expected, indicating strong confidence in long-term value"
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as core holding with limited activity expected, signaling commitment to the position"
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Designated as core holding with limited activity expected, reflecting confidence in the business"
+      },
+      {
+        "ticker": "MCO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Listed as core holding with limited activity expected, indicating strategic importance"
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant increase in position to 10.6% of portfolio under Abel's leadership, showing strong conviction"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant increase in position to 10.6% of portfolio under Abel's leadership, showing strong conviction"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant increase in position to 10.6% of portfolio under Abel's leadership, showing strong conviction"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significant increase in position to 10.6% of portfolio under Abel's leadership, showing strong conviction"
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Omitted from core holdings list and stake was trimmed in Q2, suggesting reduced confidence"
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Large holding (5%+ of portfolio) but not designated as core; Abel uncommitted due to oil volatility"
+      },
+      {
+        "ticker": "OXY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Significant holding (4.5% of portfolio) but not designated as core; Abel hesitant to commit due to energy sector volatility"
+      },
+      {
+        "ticker": "OXY.WS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Significant holding (4.5% of portfolio) but not designated as core; Abel hesitant to commit due to energy sector volatility"
+      },
+      {
+        "ticker": "DAL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "New position initiated under Abel despite Buffett's previous airline exit; reflects contrarian bet on industry recovery"
+      },
+      {
+        "ticker": "LEN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased exposure in housing sector as contrarian play; positioned for potential recovery if interest rates decline"
+      },
+      {
+        "ticker": "LEN.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Increased exposure in housing sector as contrarian play; positioned for potential recovery if interest rates decline"
+      }
+    ]
+  },
+  {
+    "id": "a56ee1a5d6f345039de7f5f75f84ed5a50c64268a36d6b974b5f2e50e9f5ae52",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Archer Aviation vs. Joby Aviation: Which EV Airplane Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-10-12T21:31:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/12/archer-aviation-vs-joby-aviation-which-ev-airplane-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "ACHR",
+      "JOBY",
+      "UAL",
+      "BA",
+      "BApA",
+      "STLA",
+      "DAL",
+      "LHX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F91f16ecc81a17851528fd9f29a348f1139e5a927-3400x2200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Both Archer Aviation and Joby Aviation are developing electric vertical takeoff and landing (eVTOL) aircraft for commercial use, but face significant financial challenges with massive operating losses and negative cash flows. Joby is recommended as the better buy due to its lower valuation multiple (46x P/S vs. 546x), early revenue generation from its Blade acquisition, and more advanced manufacturing capabilities, though both remain highly speculative investments with substantial regulatory and execution risks.",
+    "keywords": [
+      "eVTOL aircraft",
+      "electric aviation",
+      "urban air mobility",
+      "aircraft certification",
+      "manufacturing scale",
+      "regulatory framework",
+      "operating losses",
+      "cash burn"
+    ],
+    "insights": [
       {
         "ticker": "ACHR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Similar to Joby, Archer is demonstrating technological capability (manned air taxi flights) and has major partnerships (Boeing), but is burning $279 million quarterly with minimal revenue ($5M). The shorter cash runway (just over one year) is concerning, but partnerships suggest access to future capital."
+        "sentiment_reasoning": "Company has strategic partnerships (United Airlines $1.5B agreement, Boeing, Stellantis) and military/defense focus, but faces extreme valuation concerns (546x P/S), massive losses ($618M), negative cash flow (-$511.7M), litigation risks, and high customer concentration risk."
+      },
+      {
+        "ticker": "JOBY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy with more attractive valuation (46x P/S), early revenue generation ($53.4M from Blade acquisition), advanced manufacturing capabilities using Toyota philosophies, successful real-world testing in NYC, and integrated partnerships with Delta and L3Harris, despite significant losses ($930M) and legal challenges."
+      },
+      {
+        "ticker": "UAL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic partner with Archer Aviation through $1.5B conditional purchase agreement, representing significant future revenue potential but also concentration risk for Archer."
       },
       {
         "ticker": "BA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing's partnership with Archer Aviation is mentioned as a positive indicator of confidence in the eVTOL sector, but the article provides no direct information about Boeing's operations or financial health."
+        "sentiment_reasoning": "Mentioned as a manufacturing partner providing units to Archer Aviation for defense capabilities expansion."
       },
       {
         "ticker": "BApA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Boeing's partnership with Archer Aviation is mentioned as a positive indicator of confidence in the eVTOL sector, but the article provides no direct information about Boeing's operations or financial health."
+        "sentiment_reasoning": "Mentioned as a manufacturing partner providing units to Archer Aviation for defense capabilities expansion."
+      },
+      {
+        "ticker": "STLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Manufacturing relationship partner with Archer Aviation for scaling production capabilities."
       },
       {
         "ticker": "DAL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Delta's partnership with Joby Aviation is noted as a positive indicator of industry confidence, but the article provides no direct information about Delta's operations or financial performance."
-      }
-    ]
-  },
-  {
-    "id": "37e185b726e0699272a0a1ac412afeb00bf3ec2059eb98439c41140c6742fa22",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Delta Air Lines (DAL) Advances While Market Declines: Some Information for Investors",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-29T20:45:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2997789/delta-air-lines-dal-advances-while-market-declines-some-information-for-investors?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2997789",
-    "tickers": [
-      "DAL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default194.jpg",
-    "description": "Delta Air Lines closed at $84.88, up 1.01% and outperforming the broader market decline. The stock has gained 7.73% over the past month, significantly outpacing its Transportation sector peers. However, the Zacks Rank has downgraded DAL to #5 (Strong Sell) due to a 3.88% downward revision in consensus EPS estimates over the past month. The company trades at a Forward P/E of 14.03, above its industry average of 11.54, and carries a PEG ratio of 1.21 compared to the industry average of 0.92.",
-    "keywords": [
-      "Delta Air Lines",
-      "airline stocks",
-      "earnings forecast",
-      "Zacks Rank",
-      "valuation metrics",
-      "estimate revisions",
-      "transportation sector"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Strategic partner with Joby Aviation providing premium airport transportation integration services."
+      },
       {
-        "ticker": "DAL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite recent price appreciation, DAL received a Zacks Rank #5 (Strong Sell) rating due to downward EPS estimate revisions of 3.88% over the past month, indicating weakening analyst confidence. The stock also trades at a premium valuation (Forward P/E of 14.03 vs. industry average of 11.54) and has a higher PEG ratio (1.21 vs. industry 0.92), suggesting limited upside relative to growth expectations."
-      }
-    ]
-  },
-  {
-    "id": "0357525c47521d482bee3d13ae7beee105836c0bcd6f4a79918f05efe82ba5af",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Delta Expands Europe Network With New Routes From Detroit and Boston",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-29T15:17:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2997729/delta-expands-europe-network-with-new-routes-from-detroit-and-boston?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2997729",
-    "tickers": [
-      "DAL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/2072.jpg",
-    "description": "Delta Air Lines announced expansion of its European network with three new nonstop routes: Detroit-Athens, Boston-Venice, and Austin-Paris. The airline also increased Boston-Milan service to daily flights and extended seasonal services. Despite strong operational moves, Delta's stock carries a Zacks Rank #5 (Strong Sell) rating.",
-    "keywords": [
-      "Delta Air Lines",
-      "European expansion",
-      "nonstop routes",
-      "transatlantic travel",
-      "Detroit-Athens",
-      "Boston-Venice",
-      "Austin-Paris"
-    ],
-    "insights": [
-      {
-        "ticker": "DAL",
+        "ticker": "LHX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Delta's network expansion demonstrates strong operational strategy and addresses growing transatlantic demand, the article explicitly assigns the stock a Zacks Rank #5 (Strong Sell) rating, indicating negative investment outlook despite positive business developments. The stock has outperformed its industry (24.3% vs 2.5%), but analyst recommendation remains bearish."
-      }
-    ]
-  },
-  {
-    "id": "d5cc0c033f9b28fbbed69d71b5312abab0238135c3f824d213aa3da5bc68edd7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Delta Air Lines Boosts LAX Presence With Biggest-Ever Schedule",
-    "author": "Na",
-    "published_utc": "2026-09-21T16:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993183/delta-air-lines-boosts-lax-presence-with-biggest-ever-schedule?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2993183",
-    "tickers": [
-      "DAL",
-      "EXPD",
-      "SHIP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/2072.jpg",
-    "description": "Delta Air Lines announced its largest-ever summer schedule for 2027 at Los Angeles International Airport, planning over 200 daily departures to nearly 70 destinations. The expansion includes new nonstop routes to Monterey and Philadelphia, increased frequencies to seven U.S. cities, and $2.3 billion in airport infrastructure investments including premium lounges and enhanced onboard offerings.",
-    "keywords": [
-      "Delta Air Lines",
-      "LAX expansion",
-      "summer 2027 schedule",
-      "new routes",
-      "airport infrastructure",
-      "premium services"
-    ],
-    "insights": [
-      {
-        "ticker": "DAL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Delta is significantly expanding its LAX operations with 200+ daily departures, adding new routes, increasing frequencies to existing destinations, and investing $2.3 billion in premium airport infrastructure and onboard amenities. The company is also strengthening its regional presence with 4,500+ employees in Los Angeles. These strategic investments demonstrate confidence in growth and market positioning."
-      },
-      {
-        "ticker": "EXPD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expeditors carries a Zacks Rank #1 (Strong Buy) with an expected earnings growth rate of 28.6% for 2026 and a strong earnings surprise history, beating consensus estimates by an average of 17.15% over the trailing four quarters."
-      },
-      {
-        "ticker": "SHIP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Seanergy Maritime Holdings carries a Zacks Rank #1 (Strong Buy) with expected earnings growth exceeding 100% for the current year and consistent earnings beats averaging 38% above consensus estimates over the trailing four quarters."
-      }
-    ]
-  },
-  {
-    "id": "5bb60e711b57a0504d7527ba0153a1f9e63bf288349cdad1d62557101b622054",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is It Worth Investing in Delta (DAL) Based on Wall Street's Bullish Views?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-15T13:30:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2989740/is-it-worth-investing-in-delta-dal-based-on-wall-street-s-bullish-views?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2989740",
-    "tickers": [
-      "DAL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default99.jpg",
-    "description": "While Wall Street analysts maintain a bullish average brokerage recommendation (ABR) of 1.16 for Delta Air Lines with 88% Strong Buy ratings, the article cautions that such recommendations often lack predictive value due to analyst bias. The Zacks Rank system, which relies on earnings estimate revisions, rates DAL as Rank #4 (Sell) due to a 4.7% decline in consensus earnings estimates over the past month, suggesting near-term downside risk despite Wall Street's optimism.",
-    "keywords": [
-      "Delta Air Lines",
-      "brokerage recommendations",
-      "analyst bias",
-      "earnings estimate revisions",
-      "Zacks Rank",
-      "stock rating",
-      "investment decision"
-    ],
-    "insights": [
-      {
-        "ticker": "DAL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite bullish Wall Street recommendations (ABR 1.16, 88% Strong Buy), the Zacks Rank assigns a #4 (Sell) rating based on declining earnings estimate revisions (down 4.7% over the past month). The article emphasizes that earnings estimate revisions are more predictive of near-term stock performance than analyst recommendations, indicating potential downside risk."
+        "sentiment_reasoning": "Defense contractor holding contracts with Joby Aviation for defense applications."
       }
     ]
   }

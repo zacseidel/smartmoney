@@ -1,239 +1,324 @@
 [
   {
-    "id": "c59011f11c9981ff5327c0642cd015a6703f6c3ff3b894de189472792ae1b0e8",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead?",
-    "author": "Na",
-    "published_utc": "2026-09-22T15:37:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993847/lumentum-to-demonstrate-dwdm-elsfp-at-ecoc-2026-what-s-ahead?cid=CS-ZC-FT-analyst_blog|quick_take-2993847",
-    "tickers": [
-      "LITE",
-      "MRVL",
-      "AAOI"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/183568.webp",
-    "description": "Lumentum Holdings is expanding its optical connectivity solutions for AI data centers, planning to demonstrate an eight-wavelength DWDM ELSFP module at ECOC 2026 for co-packaged optics (CPO) and near-packaged optics (NPO) architectures. The company expects ultra-high-power laser chip demand to ramp in 2H 2027 and is expanding manufacturing capacity across Japan and the U.S. However, it faces intensifying competition from Marvell Technology and Applied Optoelectronics in the CPO/NPO market.",
-    "keywords": [
-      "optical connectivity",
-      "AI data centers",
-      "DWDM ELSFP module",
-      "co-packaged optics",
-      "near-packaged optics",
-      "laser chips",
-      "1.6T transceivers",
-      "manufacturing expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "LITE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum in AI data center optical connectivity with 130%+ YoY growth in narrow-linewidth laser shipments, successful 1.6T transceiver launches, planned capacity expansion, and strategic positioning in emerging CPO/NPO markets. Stock up 159% YTD with Zacks Rank #2 (Buy)."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strengthening competitive position across CPO, NPO, and silicon photonics with internally developed NPO light engine and integrated connectivity platform. Management increased scale-up optics revenue expectations for fiscal 2028."
-      },
-      {
-        "ticker": "AAOI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Aggressive expansion in CPO with plans to ramp ELSFP production targeting 400,000 units/month by 2028. Vertically integrated laser manufacturing in Texas and multiple customer qualifications support competitive advantage in high-power laser demand."
-      }
-    ]
-  },
-  {
-    "id": "11f0849e2b22379c21deda07d8fe3b25dad5bcbccdd368c77c169e3ed162d058",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Why Credo's New 1.6T Optics Matter to Its $600 Million Optical Push",
-    "author": "Na",
-    "published_utc": "2026-09-21T16:21:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993144/why-credo-s-new-1-6t-optics-matter-to-its-600-million-optical-push?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993144",
-    "tickers": [
-      "CRDO",
-      "MRVL",
-      "AVGO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default334.jpg",
-    "description": "Credo Technology launched new 224G-based ZeroFlap optical transceivers supporting 1.6T port speeds for AI scale-out interconnects. The company targets over $600 million in optical revenues by fiscal 2027 across multiple product lines including silicon photonics and optical DSPs. Success depends on customer ramps with hyperscalers and execution amid rising R&D spending.",
-    "keywords": [
-      "optical transceivers",
-      "1.6T port speeds",
-      "AI scale-out",
-      "silicon photonics",
-      "optical DSP",
-      "fiscal 2027 guidance",
-      "customer ramps"
-    ],
-    "insights": [
-      {
-        "ticker": "CRDO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company launched advanced 1.6T optical transceivers and acquired silicon photonics capabilities, positioning itself for significant optical revenue growth ($600M+ target in FY2027). However, sentiment is moderated by execution risks, rising R&D costs, and dependence on customer ramps. Stock rated Hold (Rank #3) with valuation concerns at 11.1X forward sales."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor that expanded its 1.6T optical DSP portfolio in March, indicating competitive activity in the same market segment. No specific performance or strategic implications provided."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a competitor that made a 3-nanometer 400G-per-lane optical DSP available in March for 1.6T solutions. Competitive presence in the optical interconnect market but no specific impact analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "d97e2a044a83ce3d07131c4bc1526d6cbcbf442c2d3f010feedbd90ee7979e37",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is CRDO Stock Worth Buying as Growth Outruns Its Premium Valuation?",
-    "author": "Na",
-    "published_utc": "2026-09-21T15:25:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993047/is-crdo-stock-worth-buying-as-growth-outruns-its-premium-valuation?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993047",
-    "tickers": [
-      "CRDO",
-      "AVGO",
-      "MRVL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/75/2558.jpg",
-    "description": "Credo Technology (CRDO) expects fiscal 2027 revenue growth exceeding 85% with expanding optical business becoming a second growth engine alongside its core Active Electrical Cables. However, the stock trades at a significant premium (11.1X forward sales vs. 5.0X sub-industry average) and faces execution risks due to high customer concentration, with the top two customers accounting for 61% of Q1 revenues. The company carries a Zacks Rank #3 (Hold) rating despite strong growth and margin profiles.",
-    "keywords": [
-      "revenue growth",
-      "optical business",
-      "customer concentration",
-      "valuation premium",
-      "Active Electrical Cables",
-      "silicon photonics",
-      "execution risk"
-    ],
-    "insights": [
-      {
-        "ticker": "CRDO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company demonstrates strong fundamentals with 85%+ expected revenue growth, high non-GAAP margins (48.2% operating margin), and expanding optical portfolio, these positives are offset by premium valuation (11.1X forward sales), high customer concentration (top 2 customers = 61% of revenue), and elevated execution risk. The Hold rating reflects balanced growth potential against valuation and concentration concerns."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor expanding AI infrastructure portfolio with similar product offerings (optics, SerDes, digital signal processors). Neutral mention as context for competitive landscape without specific performance data or sentiment indicators."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a competitor that has expanded its 1.6T optical digital signal processor portfolio for AI data-center connectivity. Neutral mention providing competitive context without performance implications or sentiment indicators."
-      }
-    ]
-  },
-  {
-    "id": "8b88fb071d53fe385a82d4e1521872dfa8bbfc5a8252c91d7fa3f23b9cb91a6c",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "CRDO Down 20.3% in a Month: Is the Weakness an Opportunity?",
-    "author": "Na",
-    "published_utc": "2026-09-21T15:17:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993035/crdo-down-20-3-in-a-month-is-the-weakness-an-opportunity?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-2993035",
-    "tickers": [
-      "CRDO",
-      "ALAB",
-      "MRVL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default327.jpg",
-    "description": "Credo Technology (CRDO) has declined 20.3% over the past month despite posting 114.7% year-over-year revenue growth to $479 million in fiscal Q1 2027. The company expects fiscal 2027 revenue growth above 85%, driven by active electrical cables (AECs) and optical products. However, concerns remain regarding high customer concentration (top 2 customers = 61% of revenues), premium valuation at 11.1X forward sales, and rising operating expenses. The stock carries a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "AI infrastructure connectivity",
-      "active electrical cables (AECs)",
-      "optical products",
-      "hyperscale customers",
-      "customer concentration risk",
-      "valuation premium",
-      "silicon photonics",
-      "1.6T connectivity"
-    ],
-    "insights": [
-      {
-        "ticker": "CRDO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong operational momentum with 114.7% revenue growth and expanding product portfolio (AECs and optics) are offset by significant risks including high customer concentration (61% from top 2 customers), premium valuation (11.1X forward sales vs. 5.0X sub-industry average), rising R&D expenses (118% YoY), and execution risks. The mixed signals and Hold rating reflect balanced upside and downside risks."
-      },
-      {
-        "ticker": "ALAB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a comparable company with strong 104% year-over-year revenue growth in Q2 2026, demonstrating robust demand in AI fabrics and signal conditioning markets, indicating healthy sector dynamics."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Reported 46% year-over-year data-center revenue growth in fiscal Q2 2027 with strong connectivity demand, indicating positive momentum in the broader AI infrastructure and connectivity sector."
-      }
-    ]
-  },
-  {
-    "id": "93113505e8c01260787259b2dd67ad4a9f8060c486c132b4052be3ab266bb088",
+    "id": "5dd62ff0ec80add003e97a13a1c6fdccda835b1e3de01dc646d8da9d3bc0523c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Semiconductor Stocks to Buy and Hold Through 2030",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-09-19T09:17:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/19/semiconductor-stocks-to-buy-and-hold-through-2030/?source=iedfolrf0000001",
+    "title": "Broadcom vs. Marvell Technology: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-14T22:02:09Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/14/broadcom-vs-marvell-technology-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
       "AVGO",
       "MRVL",
-      "MU"
+      "AAPL",
+      "NVDA",
+      "AMD",
+      "INTC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8e6e29e041798fd7fa76a4475444f682d4028d9d-1199x675.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article analyzes four semiconductor companies for long-term holding through 2030 amid AI infrastructure buildout. Nvidia and Broadcom are recommended as anchors due to durable profit positions, Marvell is a buy but should be kept smallest, and Micron is rated a hold. The author cautions that AI spending will eventually cool, making valuation and supply chain positioning critical factors for four-year returns.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4d7cf8a88a5640810adcc0a8bcd10ea8cade7192-1200x800.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Broadcom and Marvell Technology are compared as semiconductor investments in the AI-driven data center market. Broadcom, a diversified infrastructure giant with $1.7T market cap, offers lower valuation multiples and locked-in multi-year revenue commitments from major tech companies. Marvell, a smaller pure-play data infrastructure specialist with $236B market cap, shows faster growth (42% YoY) but higher valuation and customer concentration risks. The article recommends Broadcom for its superior forward visibility and expanding AI revenue base.",
     "keywords": [
-      "semiconductor stocks",
+      "semiconductors",
       "AI infrastructure",
-      "chip companies",
-      "long-term investing",
-      "valuation multiples",
-      "custom accelerators",
-      "memory chips"
+      "data center",
+      "chip stocks",
+      "valuation comparison",
+      "revenue commitments",
+      "customer concentration"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong 106% YoY revenue growth, dominant platform position in AI computing, management guidance of 70% growth in fiscal 2028, and reasonable 14x P/E multiple. Recommended as an anchor holding through 2030."
+        "sentiment_reasoning": "Recommended as the better buy with locked-in multi-year revenue commitments from major customers (Google, Meta, OpenAI, Anthropic), strong free cash flow ($26.9B), higher gross margins (66.54%), lower P/E ratio (45.61x), and faster AI revenue expansion on a larger base providing superior forward visibility."
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a strong contender with impressive 42% YoY revenue growth and Nvidia backing, but faces higher valuation multiples (P/E 88.49x), extreme customer concentration (82% from top 10 customers), lower gross margins (51.42%), and slower underlying AI business growth compared to Broadcom despite recent stock outperformance."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major customer of Broadcom with a $30 billion commitment, indicating strategic importance to Broadcom's business but no independent analysis provided."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor to Marvell and as a strategic investor in Marvell's custom AI chip business, but no independent valuation or recommendation provided."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the semiconductor space but receives no detailed analysis."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the semiconductor space but receives no detailed analysis."
+      }
+    ]
+  },
+  {
+    "id": "9d6f46653037e00abcdda318db1d098ae20b1ec67a2d0054d07596fd257dea9b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Marvell's New $18 Billion Revenue Target Could be a Game-Changer",
+    "author": "Rick Orford",
+    "published_utc": "2026-10-14T15:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/marvells-new-18-billion-revenue-target-could-be-a/?source=iedfolrf0000001",
+    "tickers": [
+      "MRVL",
+      "NVDA",
+      "INTC",
+      "QCOM"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891061%2Fmarvell-technology-5.png&w=1200&op=resize",
+    "description": "Marvell Technology has set an ambitious $18 billion fiscal 2028 revenue target, leveraging custom AI chip wins, hyperscaler partnerships, and optical connectivity opportunities. The key question for investors is whether the company's growth can accelerate fast enough to justify its current valuation.",
+    "keywords": [
+      "AI chips",
+      "custom silicon",
+      "hyperscalers",
+      "optical connectivity",
+      "revenue target",
+      "valuation",
+      "semiconductor"
+    ],
+    "insights": [
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article highlights Marvell's ambitious $18 billion revenue target and growth opportunities in custom AI chips and optical connectivity. The company is positioned as a beneficiary of big tech designing its own AI chips. However, the sentiment is tempered by valuation concerns and the question of whether growth can justify current stock prices."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but not directly discussed in the main article content."
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced in related article comparisons but not directly analyzed in the main article."
+      },
+      {
+        "ticker": "QCOM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned in related article comparisons but not directly discussed in the main article content."
+      }
+    ]
+  },
+  {
+    "id": "602c03ed9361986bca0cf366eb03a1fe3741bac73d8e47567c5194c92516f8a8",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Does Credo's $525M-$535M Revenue Outlook Signal Further Upside?",
+    "author": "Na",
+    "published_utc": "2026-10-14T12:57:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3006996/does-credo-s-525m-535m-revenue-outlook-signal-further-upside?cid=CS-ZC-FT-analyst_blog|quick_take-3006996",
+    "tickers": [
+      "CRDO",
+      "AVGO",
+      "MRVL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7f/211.jpg",
+    "description": "Credo Technology reported record Q1 fiscal 2027 revenues of $479M (up 115% y/y) with seven consecutive quarters of triple-digit growth, driven by AI infrastructure investments and demand for high-speed connectivity solutions. The company projects Q2 revenues of $525M-$535M and expects fiscal 2027 optical revenues to exceed $600M with a non-GAAP net margin of approximately 50%. Competitors Broadcom and Marvell Technology are also benefiting from strong AI semiconductor demand with significant revenue growth forecasts.",
+    "keywords": [
+      "AI infrastructure",
+      "semiconductor growth",
+      "high-speed connectivity",
+      "optical DSPs",
+      "active electrical cables",
+      "data center demand"
+    ],
+    "insights": [
+      {
+        "ticker": "CRDO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record Q1 revenues with 115% y/y growth, seven consecutive quarters of triple-digit growth, strong Q2 guidance ($525M-$535M), and expectations of 85%+ fiscal 2027 revenue growth with 50% net margins demonstrate exceptional business momentum and market demand."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional 221% YoY AI semiconductor revenue growth with 73% from custom accelerators, secured supply to double AI revenue to $115B next year, and positioned as a key custom-chip franchise. Recommended as an anchor holding."
+        "sentiment_reasoning": "Fiscal 2026 AI semiconductor revenues expected to reach $58B (up 186% y/y), secured supply for $115B in fiscal 2027 revenues, and fiscal 2028 projections of $230B in AI semiconductor revenues indicate strong growth trajectory and market leadership."
       },
       {
         "ticker": "MRVL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong 46% data center revenue growth with custom business expected to more than double, but trading at highest valuation (33x P/E). Recommended as a buy but with smallest position size due to execution risk."
+        "sentiment_reasoning": "Record data center revenues, fiscal 2027 revenue outlook raised to $12B (45% growth), fiscal 2028 forecast increased to $18B (50% growth), and expanding role in AI architectures through custom programs and acquisitions demonstrate strong momentum."
+      }
+    ]
+  },
+  {
+    "id": "be7bea01be422d586a8177918870a773244e0c6335bed95ffcff1c24d53166ed",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Intel vs. Marvell Technology: Which Tech Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-14T11:05:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/14/intel-vs-marvell-technology-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "INTC",
+      "MRVL",
+      "AMAT",
+      "NVDA",
+      "AMD",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5e2d4c8d8b3d524d8f077511bb95b68cff214dde-1439x720.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Intel and Marvell Technology represent different plays in the AI-driven semiconductor market. Intel is undergoing a major turnaround to become a foundry while maintaining CPU dominance, reporting near-breakeven results with significant ongoing capital expenditures. Marvell focuses on data center networking and posted strong 42% revenue growth with a 32.6% net margin. The article concludes Marvell is the better buy due to its growth trajectory, lower valuation multiples, and lack of business model uncertainty, while Intel faces risks from its costly restructuring and government involvement.",
+    "keywords": [
+      "semiconductor stocks",
+      "AI infrastructure",
+      "foundry services",
+      "data center networking",
+      "valuation comparison",
+      "business turnaround"
+    ],
+    "insights": [
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Intel is in the midst of a costly turnaround with massive capital expenditures for foundry buildout, reported a $267M net loss, carries negative free cash flow of $4.9B, and faces significant execution risks. The author expresses concern about the company's business model overhaul and government involvement."
       },
       {
-        "ticker": "MU",
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Marvell demonstrated strong 42.1% revenue growth, achieved a healthy 32.6% net margin, generated positive free cash flow of $1.4B, and maintains a lower forward P/E ratio of 59.6 vs Intel's 63.7. The company is growing profitably without major business model disruption."
+      },
+      {
+        "ticker": "AMAT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at lowest valuation (6x P/E) with record 84.9% gross margins, but author views this as market pricing in margin compression due to historical memory price cycles. Rated as a hold rather than buy, with caution against adding at current prices."
+        "sentiment_reasoning": "Mentioned as a strategic partner to Intel for next-generation semiconductor equipment, but no independent analysis or sentiment is provided in the article."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor to Marvell in the data center space, but no independent analysis or sentiment is provided."
+      }
+    ]
+  },
+  {
+    "id": "6e4962222ffb2c0ce63a5c10cf0d703aa4415e09ea747cc95faf74fb184fafea",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "As Big Tech Designs Its Own AI Chips, the Companies Behind the Scenes Win",
+    "author": "Chris Neiger",
+    "published_utc": "2026-10-14T09:07:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/as-big-tech-designs-its-own-ai-chips-the-companies/?source=iedfolrf0000001",
+    "tickers": [
+      "AVGO",
+      "MRVL",
+      "TSM",
+      "NVDA",
+      "AMD",
+      "INTC",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "MSFT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890517%2Fgettyimages-1461323126-1200x675-128554e.jpg&w=1200&op=resize",
+    "description": "As major tech companies like Alphabet, Microsoft, and Amazon develop custom AI processors instead of relying solely on GPUs, semiconductor designers and manufacturers are positioned to benefit significantly. Custom processors are growing 45% annually compared to 16% for GPUs, with companies like Broadcom, Marvell, and Taiwan Semiconductor Manufacturing capturing substantial market share and revenue growth.",
+    "keywords": [
+      "custom AI chips",
+      "semiconductor manufacturers",
+      "GPU alternatives",
+      "cloud computing",
+      "AI processors",
+      "tech infrastructure"
+    ],
+    "insights": [
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured multiyear deal with Alphabet through 2031; management projects AI semiconductor revenue reaching $56B this year and over $100B next year; stock has attractive forward P/E ratio of 19"
+      },
+      {
+        "ticker": "MRVL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Custom chip designer for Amazon's Trainium and Microsoft's Maia processors; secured $2B investment from Nvidia; positioned with two leading cloud computing platforms"
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Manufactures ~73% of world's processors and ~90% of most advanced processors; Q2 sales up 36% to $40B; earnings up 77%; benefits regardless of GPU vs. custom processor market dynamics"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While benefiting from Marvell partnership, faces potential long-term market share erosion as custom processors grow 45% annually vs. GPUs at 16%; remains dominant but facing headwinds"
+      },
+      {
+        "ticker": "AMD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Won $60B deal with Meta; has agreements with OpenAI and Anthropic; Q2 sales up 50% to $11.5B; earnings per share up 246%"
+      },
+      {
+        "ticker": "INTC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Foundry business lost $2.1B in Q2 with only $293M from outside customers; projected sales growth of just 15% next year; success remains uncertain despite government support"
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud segment growing 82% with $24.8B in Q2 sales; investing heavily in custom TPUs and securing major semiconductor deals to enhance AI services"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud segment growing 82% with $24.8B in Q2 sales; investing heavily in custom TPUs and securing major semiconductor deals to enhance AI services"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud segment growing 82% with $24.8B in Q2 sales; investing heavily in custom TPUs and securing major semiconductor deals to enhance AI services"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud segment growing 82% with $24.8B in Q2 sales; investing heavily in custom TPUs and securing major semiconductor deals to enhance AI services"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Azure cloud platform surpassed $100B annual revenue for first time; developing custom Maia AI processors; positioned as leading cloud computing platform"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "One of two leading cloud computing platforms; developing custom Trainium processors; positioned to benefit from custom chip efficiency gains"
       }
     ]
   }

@@ -1,288 +1,207 @@
 [
   {
-    "id": "035ea264374f70758e22dbdbae34de99e082a779630bd6eedc11cd0372379f73",
+    "id": "89fdb7d88af41d9117b887ae02bfc42df7aca2eacbea7b6f81f4561946697cbe",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Novocure Reports Patient Data Exposure in Cybersecurity Incident",
+    "title": "Why Did J&J Stock Fall After Q3 Earnings Despite Raised Guidance?",
     "author": "Na",
-    "published_utc": "2026-09-07T15:12:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2986010/novocure-reports-patient-data-exposure-in-cybersecurity-incident?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-2986010",
+    "published_utc": "2026-10-14T13:57:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007133/why-did-j-j-stock-fall-after-q3-earnings-despite-raised-guidance?cid=CS-ZC-FT-analyst_blog|quick_take-3007133",
     "tickers": [
-      "NVCR",
-      "BSX",
-      "MCK",
-      "ABT",
-      "WST",
-      "MDT",
-      "SYK"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/d6/3739.jpg",
-    "description": "Novocure Limited (NVCR) disclosed unauthorized access to internal systems in mid-August 2026, exposing internal patient ID numbers for over 1,400 U.S. patients and contact information for healthcare providers and employees. The company stated that medical devices were not accessed, systems remained functional, and no material financial impact is expected. NVCR shares rose 3.2% since the September 1 disclosure.",
-    "keywords": [
-      "cybersecurity incident",
-      "data breach",
-      "patient records",
-      "healthcare security",
-      "medical technology",
-      "unauthorized access"
-    ],
-    "insights": [
-      {
-        "ticker": "NVCR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the cybersecurity incident is concerning, the company's proactive disclosure, containment measures, and assurance that devices were not compromised and no material financial impact is expected mitigate negative sentiment. Stock performance has been positive post-disclosure."
-      },
-      {
-        "ticker": "BSX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Experienced a cybersecurity incident in August that disrupted access to systems and business applications, affecting order processing and shipping operations."
-      },
-      {
-        "ticker": "MCK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Disclosed a data breach involving unauthorized access to third-party applications with alleged theft of data from Oncology & Multispecialty and Medical-Surgical business units."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Reported two separate cyber incidents but stated they did not affect products, manufacturing, or patient services, limiting material impact."
-      },
-      {
-        "ticker": "WST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Faced a cyberattack in May with data exfiltration and encryption, but the article notes it carries a Zacks Rank #2 with strong earnings performance."
-      },
-      {
-        "ticker": "MDT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Reported unauthorized access to corporate IT systems, but products and patient care were not compromised."
-      },
-      {
-        "ticker": "SYK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Experienced a cyberattack affecting Microsoft environment and temporarily disrupting manufacturing and shipping, but products and patient care were not compromised."
-      }
-    ]
-  },
-  {
-    "id": "6b6dec635c7036735a6a9876900e9c968108bf688c8425a6cd5f09d7a3aafb4a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Renal Denervation Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast (2026-2036)",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-04T14:54:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/04/3356656/28124/en/renal-denervation-market-size-share-trends-analysis-global-opportunity-analysis-and-industry-forecast-2026-2036.html",
-    "tickers": [
-      "MDT",
-      "BSX",
       "JNJ",
-      "ABT"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global renal denervation market is expected to experience significant growth driven by rising resistant hypertension cases, positive clinical trial results, regulatory approvals, and technological advances in radiofrequency, ultrasound, and micro-infusion technologies. North America currently leads the market while Asia-Pacific is projected to grow fastest. The minimally invasive procedure treats uncontrolled hypertension by disrupting sympathetic nerves surrounding renal arteries.",
-    "keywords": [
-      "renal denervation",
-      "hypertension treatment",
-      "minimally invasive procedure",
-      "medical devices",
-      "interventional cardiology",
-      "radiofrequency ablation",
-      "ultrasound energy",
-      "resistant hypertension",
-      "market forecast",
-      "cardiovascular disease"
-    ],
-    "insights": [
-      {
-        "ticker": "MDT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company profiled in the report with FDA approvals for Symplicity systems, positioning it as a market leader in the rapidly growing renal denervation market."
-      },
-      {
-        "ticker": "BSX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading company in the competitive landscape with significant presence in the renal denervation market, benefiting from the projected 19.6% CAGR growth."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a major competitor through Shockwave Medical and Biosense Webster divisions, positioned to capitalize on expanding renal denervation adoption and technological innovation."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in company profiles, positioned to benefit from market expansion in interventional cardiology and hypertension management solutions."
-      }
-    ]
-  },
-  {
-    "id": "843e9ad0cb80753299aaf2d63b648f1e00462579f17e2f1291c4d6f34cd13421",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Aging Population Drives Healthcare Growth: Stocks to Watch",
-    "author": "Na",
-    "published_utc": "2026-08-31T15:29:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2982600/aging-population-drives-healthcare-growth-stocks-to-watch?cid=CS-ZC-FT-seniors_&_aging-2982600",
-    "tickers": [
-      "ABBV",
-      "TNDM",
-      "AMGN",
+      "MDT",
+      "ABT",
       "SYK",
       "BSX"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/c3/648.jpg",
-    "description": "The global aging population is reshaping healthcare investment opportunities, with the geriatric care services market projected to grow from $1.24 trillion in 2025 to $2.16 trillion by 2034. Healthcare companies are capitalizing on this demographic shift through innovations in diabetes care, cardiovascular treatments, robotic surgery, and digital health solutions. Key players like AbbVie, Tandem Diabetes Care, Amgen, Stryker, and Boston Scientific are advancing AI-enabled technologies and specialized treatments for age-related conditions.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/52/873.jpg",
+    "description": "Johnson & Johnson's shares fell 5.8% after Q3 2026 results showed earnings beat but sales missed expectations. MedTech segment underperformed with only 2.5% growth due to Abiomed declines and international market challenges, while Innovative Medicine remained strong. Despite headwinds, J&J raised full-year guidance and targets over $100 billion in 2026 revenue with accelerated growth expected in 2027.",
     "keywords": [
-      "aging population",
-      "geriatric care",
-      "healthcare investment",
-      "chronic disease",
-      "digital health",
-      "AI-enabled medical devices",
-      "diabetes care",
-      "cardiovascular disease",
-      "robotic surgery"
+      "Q3 2026 earnings",
+      "MedTech weakness",
+      "Abiomed decline",
+      "China VBP impact",
+      "Innovative Medicine strength",
+      "Medical devices",
+      "Revenue guidance"
     ],
     "insights": [
       {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is strengthening its position in aging-related healthcare through immunology and neuroscience, with recent regulatory submissions and acquisitions to deepen its immunology portfolio."
+        "ticker": "JNJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 5.8% despite earnings beat due to MedTech segment underperformance (2.5% growth vs. 7.7% for Innovative Medicine), Abiomed sales decline of 2.3%, international market disruptions, and adjusted EPS declining 7.5%. However, raised full-year guidance and confidence in 2026-2027 growth provide some offset."
       },
       {
-        "ticker": "TNDM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Advancing automated diabetes management with recent FDA clearance and CE Mark approvals for Control-IQ+ insulin delivery system, expanding international market presence."
+        "ticker": "MDT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key competitor in the medical devices market with strong presence in cardiovascular, neuroscience and surgical technologies. No specific performance data provided."
       },
       {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanding in cardiovascular and metabolic care with Repatha showing 20% reduction in all-cause mortality, and MariTide obesity therapy in Phase 3 trials for multiple age-related conditions."
+        "ticker": "ABT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in medical devices across cardiovascular, diagnostics and diabetes care. No specific performance data provided."
       },
       {
         "ticker": "SYK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Advancing AI-enabled orthopedics through Mako SmartRobotics platform for joint replacement procedures, positioning itself in the growing elderly care market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major competitor in orthopedics and surgical equipment. No specific performance data provided."
       },
       {
         "ticker": "BSX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Incorporating AI into cardiovascular portfolio with AI-powered imaging platforms and minimally invasive treatments for complex coronary lesions, addressing age-related cardiovascular disease."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in cardiovascular, endoscopy, urology and neuromodulation markets. No specific performance data provided."
       }
     ]
   },
   {
-    "id": "7bade5af89840b270fabcfab495e9eb9a3964a45c940dd343f17953b01b40bc2",
+    "id": "754659533fd45463804d1172f4780d1236d6a3438c644a47fbeac9a223b2e6ef",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "New Strong Sell Stocks for August 28th",
+    "title": "Why Boston Scientific (BSX) Outpaced the Stock Market Today",
     "author": "Na",
-    "published_utc": "2026-08-28T07:28:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2981496/new-strong-sell-stocks-for-august-28th?cid=CS-ZC-FT-tale_of_the_tape|new_zacks_5_rank_stocks-2981496",
+    "published_utc": "2026-10-09T21:00:04Z",
+    "article_url": "https://www.zacks.com/stock/news/3004141/why-boston-scientific-bsx-outpaced-the-stock-market-today?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v2-3004141",
     "tickers": [
-      "AU",
-      "APTV",
       "BSX"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/83/587.jpg",
-    "description": "Zacks has added three stocks to its Strong Sell list today: AngloGold Ashanti (gold mining), Aptiv PLC (industrial technology), and Boston Scientific Corporation (medical devices). All three companies have experienced downward revisions to their current year earnings estimates over the last 60 days, with Aptiv seeing the largest revision at 10.1% downward.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default54.jpg",
+    "description": "Boston Scientific (BSX) closed at $42.73, up 1.64% on the day, outperforming the S&P 500. The company is expected to report earnings on October 28, 2026, with predicted EPS of $0.76 (+1.33% YoY) and revenue of $5.17 billion (+2.12% YoY). However, BSX holds a Zacks Rank #4 (Sell) rating due to a 1.3% decline in consensus EPS estimates over the past month. The stock trades at a Forward P/E of 12.92, below its industry average, but faces headwinds despite valuation appeal.",
     "keywords": [
-      "Strong Sell",
-      "earnings revision",
+      "Boston Scientific",
+      "medical device",
+      "earnings report",
       "Zacks Rank",
-      "stock rating"
+      "stock valuation",
+      "Forward P/E ratio",
+      "analyst estimates"
     ],
     "insights": [
       {
-        "ticker": "AU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Added to Zacks Rank #5 (Strong Sell) list with 8.6% downward revision to current year earnings estimate over the last 60 days"
-      },
-      {
-        "ticker": "APTV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Added to Zacks Rank #5 (Strong Sell) list with 10.1% downward revision to current year earnings estimate over the last 60 days, representing the largest earnings cut among the three stocks"
-      },
-      {
         "ticker": "BSX",
         "sentiment": "negative",
-        "sentiment_reasoning": "Added to Zacks Rank #5 (Strong Sell) list with 1.8% downward revision to current year earnings estimate over the last 60 days"
+        "sentiment_reasoning": "Despite attractive valuation metrics (Forward P/E of 12.92 vs. industry average of 19.58) and modest earnings growth expectations, BSX received a Zacks Rank #4 (Sell) rating. The negative sentiment is driven by a 1.3% decline in consensus EPS estimates over the past month and the stock's underperformance relative to its sector over the past month (-2.46% vs. sector -1.97%)."
       }
     ]
   },
   {
-    "id": "13779f16f9066c260f8afa24e26e11960b8c0227b092e404daf18726a909771f",
+    "id": "c8302e13ab7f8afff3195a05f7d0e4b280e844164b51b31e81f1d77d81015b66",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Atrial Fibrillation Treatment Devices Market Trends and Forecast, 2035 | Includes Profiles of Abbott, AtriCure, Boston Scientific, Johnson & Johnson, and Medtronic",
+    "title": "China Adult Feeding Tubes and Formula Market Outlook to 2033 - Revenue, Volume, Pricing, and Company Share | Forecast Data Reveals Market Entry and Expansion Opportunities",
     "author": "Researchandmarkets.Com",
-    "published_utc": "2026-08-26T11:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/26/3351252/28124/en/atrial-fibrillation-treatment-devices-market-trends-and-forecast-2035-includes-profiles-of-abbott-atricure-boston-scientific-johnson-johnson-and-medtronic.html",
+    "published_utc": "2026-10-09T08:57:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/09/3377902/28124/en/china-adult-feeding-tubes-and-formula-market-outlook-to-2033-revenue-volume-pricing-and-company-share-forecast-data-reveals-market-entry-and-expansion-opportunities.html",
     "tickers": [
+      "NSRGY",
       "ABT",
-      "BSX",
-      "ATRC",
-      "MDT",
-      "JNJ"
+      "BSX"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/7881985f-8bdf-40b5-9843-a6ec6aa269bd",
-    "description": "The global atrial fibrillation treatment devices market is expected to grow at a 13.1% CAGR from $9.6 billion in 2026 to $29 billion by 2035, driven by aging populations, rising AF prevalence affecting 50-60 million people worldwide, and increasing adoption of advanced ablation and left atrial appendage closure technologies. Pulsed field ablation is forecast to generate over 60% of market revenue by 2035, while North America will retain approximately 50% of global market share. Asia-Pacific is expected to register the fastest regional growth.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+    "description": "ResearchAndMarkets.com released a comprehensive market report on China's adult feeding tubes and formula market through 2033, providing revenue, volume, and pricing forecasts. The report analyzes two main segments (Adult Feeding Tubes and Adult Feeding Formula) and includes competitive landscape data with 2025 company share information for key market participants.",
     "keywords": [
-      "atrial fibrillation",
-      "treatment devices",
-      "ablation catheters",
-      "left atrial appendage closure",
-      "pulsed field ablation",
-      "medical devices",
-      "cardiac care",
-      "aging population",
-      "market forecast"
+      "China",
+      "adult feeding tubes",
+      "enteral nutrition",
+      "market forecast",
+      "2033",
+      "competitive analysis",
+      "market segmentation"
     ],
     "insights": [
       {
+        "ticker": "NSRGY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Company is listed as a key player in the market report with company overview included, indicating established market presence, but no specific performance data or strategic developments are mentioned."
+      },
+      {
         "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Abbott's Amplatzer Amulet is identified as a leading LAAC product with strong market positioning. The company is benefiting from the fastest-growing device segment (LAAC with 13.4% CAGR) and overall market expansion driven by favorable regulatory approvals and clinical evidence."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as a key company in the China adult feeding tubes and formula market with company overview provided, but no specific market performance metrics or growth indicators are disclosed."
       },
       {
         "ticker": "BSX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Boston Scientific's WATCHMAN FLX and FLX Pro are highlighted as leading LAAC products. The company benefits from recent FDA approvals, strong market demand for stroke-prevention solutions, and the overall growth trajectory of the atrial fibrillation treatment devices market."
-      },
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among key companies operating in the market segment with company overview included, but lacks specific performance data or market share information to indicate positive or negative outlook."
+      }
+    ]
+  },
+  {
+    "id": "ed6051fe2ea17bb89c4a2ef379bb957c52a58314b85af6666edf394a77eacd82",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Boston Scientific (BSX) Advances While Market Declines: Some Information for Investors",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-08T21:15:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3003292/boston-scientific-bsx-advances-while-market-declines-some-information-for-investors?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v3-3003292",
+    "tickers": [
+      "BSX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default7.jpg",
+    "description": "Boston Scientific (BSX) gained 1.11% on October 8, 2026, outperforming the broader market decline. The medical device manufacturer is expected to report Q3 earnings on October 28 with forecasted EPS of $0.76 (+1.33% YoY) and revenue of $5.17 billion (+2.12% YoY). However, the stock has declined 7.52% over the past month and holds a Zacks Rank of #4 (Sell) following a 1.3% decrease in consensus EPS estimates over the last 30 days. The stock trades at a Forward P/E of 12.78, below its industry average of 19.24.",
+    "keywords": [
+      "Boston Scientific",
+      "medical device",
+      "earnings report",
+      "stock performance",
+      "Zacks Rank",
+      "valuation",
+      "analyst estimates"
+    ],
+    "insights": [
       {
-        "ticker": "ATRC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AtriCure is listed among the prominent companies in the competitive landscape. The company is positioned to benefit from market growth driven by increasing adoption of advanced ablation technologies and favorable regulatory momentum."
-      },
+        "ticker": "BSX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite outperforming the market on the trading day, BSX received a Zacks Rank #4 (Sell) rating. The stock has underperformed significantly over the past month (-7.52%), consensus EPS estimates have declined 1.3% in the last 30 days, and the company is trailing its sector performance. While valuation metrics appear attractive and earnings growth is expected, the negative estimate revisions and sell rating indicate analyst concerns about near-term performance."
+      }
+    ]
+  },
+  {
+    "id": "294784126ad23b46035412c32c44463b9725c14d78b80a98b8cccead135f9f76",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Boston Scientific Corporation (BSX) is Attracting Investor Attention: Here is What You Should Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-08T12:00:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3002669/boston-scientific-corporation-bsx-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks_v1-3002669",
+    "tickers": [
+      "BSX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default171.jpg",
+    "description": "Boston Scientific (BSX) has attracted investor attention but faces near-term headwinds. The stock declined 7.5% over the past month, underperforming the S&P 500's +1.4% gain. While the company demonstrated strong recent earnings and revenue surprises, earnings estimate revisions have been negative over the past month. The stock received a Zacks Rank #4 (Sell) rating, suggesting potential underperformance in the near term, though it trades at a valuation discount to peers.",
+    "keywords": [
+      "Boston Scientific",
+      "medical device manufacturer",
+      "earnings estimate revisions",
+      "Zacks Rank",
+      "stock valuation",
+      "revenue growth",
+      "near-term performance"
+    ],
+    "insights": [
       {
-        "ticker": "MDT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Medtronic is identified as a key competitor in the atrial fibrillation treatment devices market. The company stands to benefit from the 13.1% CAGR market growth and opportunities in pulsed field ablation and advanced mapping technologies."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Johnson & Johnson is listed among the prominent companies operating in the market. The company is positioned to capitalize on market expansion driven by aging populations, rising AF prevalence, and increased demand for minimally invasive treatment options."
+        "ticker": "BSX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite strong recent operational performance (beating EPS and revenue estimates), the stock received a Zacks Rank #4 (Sell) rating due to negative earnings estimate revisions over the past month (-0.5% to -1.3% across different periods). The stock has underperformed the broader market by 8.9 percentage points over the past month, and analysts expect only modest earnings growth of 6.2% for the current fiscal year, suggesting limited near-term upside."
       }
     ]
   }

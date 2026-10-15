@@ -1,0 +1,35 @@
+{
+  "ticker": "YETI",
+  "name": "YETI Holdings, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001670592",
+  "composite_figi": "BBG00D8JC882",
+  "share_class_figi": "BBG00D8JC891",
+  "market_cap": 2871379234.6400003,
+  "phone_number": "(512) 394-9384",
+  "address": {
+    "address1": "7601 SOUTHWEST PARKWAY",
+    "city": "AUSTIN",
+    "state": "TX",
+    "postal_code": "78735"
+  },
+  "description": "YETI Holdings Inc is a designer, marketer, and distributor of premium products for the outdoor and recreation market sold under the YETI brand. The company offers products including coolers and equipment, drinkware, and other accessories. Its trademark products include YETI Tundra, Hopper, YETI TANK, Rambler, Colster, Rambler among others. The company distributes products through wholesale channels and through direct-to-consumer, or DTC, channels.",
+  "sic_code": "3949",
+  "sic_description": "SPORTING & ATHLETIC GOODS, NEC",
+  "ticker_root": "YETI",
+  "homepage_url": "http://www.yeti.com",
+  "total_employees": 1390,
+  "list_date": "2018-10-25",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/eWV0aS5jb20/images/2026-10-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/eWV0aS5jb20/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 72988796,
+  "weighted_shares_outstanding": 72988796,
+  "round_lot": 100
+}

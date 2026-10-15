@@ -1,256 +1,203 @@
 [
   {
-    "id": "ad40210123cc061b7942747252a666398886c42cffb8483df444e8ab8f7aab66",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Reuters Momentum AI Austin Day 1: A New Way to Measure Whether AI Is Actually Paying Off",
-    "author": "Reuters Events",
-    "published_utc": "2026-09-25T00:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "tickers": [
-      "FDX",
-      "ABBV",
-      "WBD",
-      "UNH",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "description": "Enterprise AI is shifting from experimentation to demonstrating measurable ROI. Companies like FedEx ($3B in cost reductions), Mars (20% top-line growth), and Indeed (70% of matches from AI) are scaling AI beyond pilots, but success requires organizational redesign, clear ownership, and human oversight. Leaders warn that AI can amplify existing organizational weaknesses and autonomous agents need defined spending limits and accountability measures.",
-    "keywords": [
-      "enterprise AI",
-      "ROI",
-      "business value",
-      "AI scaling",
-      "autonomous agents",
-      "organizational transformation",
-      "AI governance",
-      "workforce impact"
-    ],
-    "insights": [
-      {
-        "ticker": "FDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrated significant measurable success with 200+ AI use cases contributing to $3 billion in cost reductions over six years, exemplifying successful AI scaling and ROI delivery."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of moving beyond pilots in clinical trials, but no specific metrics or outcomes provided to assess success level."
-      },
-      {
-        "ticker": "WBD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as example of AI implementation in advertising, but without specific performance data or outcomes mentioned."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as example of AI scaling in healthcare support, but no quantified results or specific outcomes provided."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      }
-    ]
-  },
-  {
-    "id": "a29907dbd5adfb5a7ed92ccbc92dcd3f8ac5c94f3a1e409423d53281d0c912fb",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Europe Clinical Data Analytics Market Outlook 2026-2033 | AI, Cloud Deployment and Data-Driven Healthcare Adoption Accelerate Across the Region",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-24T08:57:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368067/28124/en/europe-clinical-data-analytics-market-outlook-2026-2033-ai-cloud-deployment-and-data-driven-healthcare-adoption-accelerate-across-the-region.html",
-    "tickers": [
-      "UNH",
-      "ORCL",
-      "ORCLpD",
-      "IQV",
-      "DASTY",
-      "CTSH",
-      "HCAT"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "Europe's clinical data analytics market is projected to reach USD 105.6 billion by 2031, growing at a 27% CAGR through 2033. Growth is driven by healthcare digitalization, AI adoption, cloud deployment, and regulatory initiatives like the European Health Data Space. Software and cloud-based solutions lead the market, with healthcare providers and payers increasingly investing in analytics for improved patient outcomes and operational efficiency.",
-    "keywords": [
-      "clinical data analytics",
-      "healthcare digitalization",
-      "artificial intelligence",
-      "cloud computing",
-      "Europe healthcare market",
-      "predictive analytics",
-      "precision medicine",
-      "data-driven decision making"
-    ],
-    "insights": [
-      {
-        "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the growing European clinical data analytics market, positioned to benefit from the 27% CAGR expansion and increasing healthcare provider adoption of analytics solutions."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the market with strong positioning in cloud-based clinical data analytics solutions, which is the dominant deployment model expected to reach USD 65.7 billion by 2031."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a key player in the market with strong positioning in cloud-based clinical data analytics solutions, which is the dominant deployment model expected to reach USD 65.7 billion by 2031."
-      },
-      {
-        "ticker": "IQV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key company profiled in a rapidly expanding market driven by demand for clinical research analytics, real-world evidence, and data-driven healthcare solutions across Europe."
-      },
-      {
-        "ticker": "DASTY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in clinical data analytics with Medidata platform positioned to capture growth in clinical research analytics and comparative effectiveness studies across Europe."
-      },
-      {
-        "ticker": "CTSH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company providing services and implementation support for clinical data analytics solutions, benefiting from the services segment growing at 27.5% CAGR."
-      },
-      {
-        "ticker": "HCAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Specialized healthcare analytics provider positioned to benefit from strong market growth driven by demand for quality improvement, clinical benchmarking, and population health management solutions."
-      }
-    ]
-  },
-  {
-    "id": "2d8060ce1a74acd411408441868591ef7055d1ae1126c502a3ab78c855be6346",
+    "id": "1d40e5b142dbf951b4c11317c0b75e5938da1fa98189c2138126b31cd06e8dda",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "UNH vs. MOH: Which Managed Care Stock Looks More Attractive?",
+    "title": "Centene's Gold Card Push Could Ease Costs - But Will Savings Follow?",
     "author": "Na",
-    "published_utc": "2026-09-23T15:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2994669/unh-vs-moh-which-managed-care-stock-looks-more-attractive?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2994669",
+    "published_utc": "2026-10-14T16:35:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007383/centene-s-gold-card-push-could-ease-costs-but-will-savings-follow?cid=CS-ZC-FT-analyst_blog|quick_take-3007383",
     "tickers": [
+      "CNC",
       "UNH",
-      "MOH"
+      "ELV"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e7/288.jpg",
-    "description": "UnitedHealth Group (UNH) and Molina Healthcare (MOH) are compared as investment options in the managed care sector. UNH benefits from diversification through its Optum platform, improving profitability, and a stronger balance sheet, but faces membership pressure. MOH offers a focused recovery story with stabilizing Medicaid economics and growth in Medicare dual-eligible plans, commanding a higher valuation. Despite UNH's operational strengths, MOH is rated as the more attractive investment due to stronger projected earnings rebound, earning a Zacks Rank #1 (Strong Buy) versus UNH's Rank #2 (Buy).",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/06/667.jpg",
+    "description": "Centene Corporation will launch its National Performance-Based Gold Card Program nationwide in November 2026, covering over 160,000 providers and allowing qualifying providers to bypass prior authorization for eligible outpatient services. The initiative aims to reduce administrative burden and processing costs while maintaining clinical oversight. Centene trades at 13.13x forward earnings with 2026 EPS estimated to grow 135.1% to $4.89, though the stock carries a Zacks Rank #4 (Sell) rating.",
     "keywords": [
+      "prior authorization",
+      "Gold Card program",
       "managed care",
-      "healthcare insurance",
-      "Medicaid",
-      "Medicare",
-      "medical care ratio",
-      "earnings recovery",
-      "valuation comparison",
-      "dual-eligible plans"
+      "administrative efficiency",
+      "healthcare providers",
+      "outpatient services"
     ],
     "insights": [
       {
-        "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "UNH demonstrates improving profitability with medical care ratio improving to 86.7%, strong operating income growth, diversified business model through Optum platform, solid balance sheet with $31.5B in cash, and consistent earnings beat (12.1% average surprise). However, faces membership pressure in Medicare Advantage and Medicaid."
+        "ticker": "CNC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the Gold Card program is a positive operational initiative that could reduce costs and improve provider relationships, the stock carries a Sell rating and the financial benefits remain uncertain and dependent on provider adoption and realized savings. The 67.4% YTD gain and attractive valuation (13.13x forward P/E) are offset by execution risks."
       },
       {
-        "ticker": "MOH",
+        "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "MOH shows stronger projected earnings rebound (84.6% growth expected for 2027), stabilizing Medicaid economics with 2026 viewed as profit trough, strategic shift toward higher-margin Medicare dual-eligible plans, improved cash position ($5B), and contract wins. Rated Zacks Rank #1 (Strong Buy) despite higher valuation and mixed earnings surprise history."
+        "sentiment_reasoning": "UnitedHealth is actively simplifying provider workflows by eliminating 30% of prior authorization requirements and operating a national Gold Card program, demonstrating competitive progress in administrative efficiency and provider relationship management."
+      },
+      {
+        "ticker": "ELV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Elevance Health is leveraging its Health OS platform and electronic prior authorization tools effectively, with over 250,000 electronic requests processed and 42% of decisions completed in one minute or less, showing strong operational execution in reducing administrative delays."
       }
     ]
   },
   {
-    "id": "8f5a9aacc512c435bb82038df4b806b2851c6ca79ca8e7e0f731b64783dae518",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "NASP Announces 2026 Industry Award Winners at Record-Breaking inSPire2026 Conference",
-    "author": "National Association Of Specialty Pharmacy (Nasp)",
-    "published_utc": "2026-09-23T15:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/23/3367640/0/en/nasp-announces-2026-industry-award-winners-at-record-breaking-inspire2026-conference.html",
-    "tickers": [
-      "UNH",
-      "PFE"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/f996c598-b5cd-4a05-aeed-ff1caf458986",
-    "description": "The National Association of Specialty Pharmacy (NASP) recognized industry leaders and organizations at its annual conference in National Harbor, Maryland. Award recipients included Optum Specialty Pharmacy (Specialty Pharmacy of the Year), Van Chau from UC Davis Health (Pharmacist of the Year), and Pfizer (Manufacturer of the Year), among others. The record-breaking conference attracted over 2,400 specialty pharmacy professionals.",
-    "keywords": [
-      "specialty pharmacy",
-      "industry awards",
-      "patient care",
-      "healthcare",
-      "pharmacy professionals",
-      "inSPire2026 conference"
-    ],
-    "insights": [
-      {
-        "ticker": "UNH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recognized as Specialty Pharmacy of the Year, indicating strong performance, leadership, and commitment to advancing specialty pharmacy practice and patient care."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Awarded Manufacturer of the Year, recognizing excellence and leadership in supporting the specialty pharmacy industry and patient access to complex therapies."
-      }
-    ]
-  },
-  {
-    "id": "1b8670aacd91ca37c4d7722c854e07fd5ec5f2b9dfef508b34983b16f2a92044",
+    "id": "d56fe10d0787a93724ef971ffa931556719812174ec4d889d517dc51dc6b12bf",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Is UnitedHealth (UNH) a Buy as Wall Street Analysts Look Optimistic?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-18T13:30:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2991947/is-unitedhealth-unh-a-buy-as-wall-street-analysts-look-optimistic?cid=CS-ZC-FT-fundamental_analysis|average_broker_rating-2991947",
+    "title": "UNH Q3 Earnings Call Highlights 2027 Growth and Margin Recovery",
+    "author": "Na",
+    "published_utc": "2026-10-14T13:00:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007004/unh-q3-earnings-call-highlights-2027-growth-and-margin-recovery?cid=CS-ZC-FT-analyst_blog_plus|earnings_call_takeaways-3007004",
     "tickers": [
       "UNH"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default151.jpg",
-    "description": "UnitedHealth Group (UNH) has an average brokerage recommendation of 1.54 (Strong Buy/Buy) from 27 firms, with 66.7% Strong Buy ratings. However, the article cautions that brokerage recommendations often carry positive bias due to vested interests. The company's Zacks Rank #2 (Buy) rating is based on earnings estimate revisions, with consensus estimates increasing 0.7% over the past month to $19.85, suggesting analyst optimism about the company's earnings prospects.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/388.jpg",
+    "description": "UnitedHealth Group raised its 2026 adjusted EPS guidance to at least $20.50 and signaled a return to sustainable earnings growth in 2027. The company reported strong Q3 results with adjusted earnings of $4.69 per share exceeding expectations. While commercial medical costs remain elevated and Medicaid funding gaps persist, Optum Health's earnings rebound and AI expansion initiatives support the recovery outlook.",
     "keywords": [
-      "UnitedHealth",
-      "analyst recommendations",
-      "earnings estimates",
-      "Zacks Rank",
-      "stock rating",
-      "brokerage bias"
+      "UnitedHealth Group",
+      "earnings guidance",
+      "Q3 2026 results",
+      "Optum Health",
+      "medical costs",
+      "Medicaid",
+      "Medicare Advantage",
+      "AI transformation",
+      "pharmacy services"
     ],
     "insights": [
       {
         "ticker": "UNH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong analyst consensus with 18 Strong Buy and 3 Buy recommendations (77.8% combined). Earnings estimate revisions trending upward with 0.7% increase in consensus estimate over the past month. Zacks Rank #2 (Buy) rating based on earnings estimate revision trends, which historically correlate with near-term stock price movements."
+        "sentiment_reasoning": "Company raised full-year 2026 EPS guidance to at least $20.50, beat Q3 earnings and revenue estimates, demonstrated improving operational momentum across divisions, signaled sustainable earnings growth in 2027, and showed strong recovery in Optum Health with significant AI expansion progress. Zacks Rank #2 (Buy) with strong Style Scores supports positive outlook despite near-term headwinds."
+      }
+    ]
+  },
+  {
+    "id": "2c5a0f651c56b3e0697bf094470cbe67a72e3cecc9b19682d7309b8e47cda7ac",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "UnitedHealth Group (UNH) is a Top-Ranked Momentum Stock: Should You Buy?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-14T12:50:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3006959/unitedhealth-group-unh-is-a-top-ranked-momentum-stock-should-you-buy?cid=CS-ZC-FT-fundamental_analysis|zacks_education_momentum_score-3006959",
+    "tickers": [
+      "UNH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default60.jpg",
+    "description": "UnitedHealth Group (UNH) has been identified as a top-ranked momentum stock with a Zacks Rank #2 (Buy) rating and a VGM Score of A. The company received upward earnings estimate revisions, with the consensus estimate increasing to $19.85 per share for fiscal 2026, and has demonstrated a strong average earnings surprise of +14%. The stock is recommended for momentum investors seeking exposure to the healthcare sector.",
+    "keywords": [
+      "UnitedHealth Group",
+      "momentum stock",
+      "Zacks Rank",
+      "healthcare",
+      "earnings estimates",
+      "VGM Score",
+      "buy recommendation"
+    ],
+    "insights": [
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "UNH received a Zacks Rank #2 (Buy) rating with a VGM Score of A, indicating strong investment potential. The company benefited from upward earnings estimate revisions in the last 60 days, with consensus estimates increasing by $0.14 to $19.85 per share. Additionally, UNH demonstrated a solid Momentum Style Score of A and a consistent average earnings surprise of +14%, making it attractive for momentum investors."
+      }
+    ]
+  },
+  {
+    "id": "45bef11619a934cfd250c19580093180d4009396b5496f3b01425c45d184b85c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "UnitedHealth vs. Johnson & Johnson: Which Stock Is the Better Buy After Q3 Earnings?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-13T23:10:00Z",
+    "article_url": "https://www.zacks.com/commentary/3006513/unitedhealth-vs-johnson-johnson-which-stock-is-the-better-buy-after-q3-earnings?cid=CS-ZC-FT-investment_ideas-3006513",
+    "tickers": [
+      "UNH",
+      "JNJ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/34/973.jpg",
+    "description": "UnitedHealth and Johnson & Johnson both raised full-year guidance after Q3 earnings, but with contrasting performance. UnitedHealth beat expectations with 60% YoY EPS growth driven by improved medical cost management, while J&J saw earnings decline 7.5% YoY despite pharmaceutical growth offsetting weak MedTech performance. UnitedHealth is recommended as the better buy due to stronger earnings momentum, lower valuation (19X vs 23X forward earnings), and higher dividend yield (2.45% vs 2%).",
+    "keywords": [
+      "Q3 earnings",
+      "healthcare stocks",
+      "medical cost management",
+      "dividend yield",
+      "valuation comparison",
+      "pharmaceutical growth",
+      "medical technology",
+      "earnings guidance"
+    ],
+    "insights": [
+      {
+        "ticker": "UNH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 earnings beat (14% above consensus), 60% YoY EPS growth, improved medical cost ratio, raised full-year guidance above Wall Street expectations, lower valuation multiple, higher dividend yield, and Zacks Rank #2 (Buy) with positive earnings estimate revisions support a positive outlook."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with modest earnings beat (2% above consensus) but 7.5% YoY earnings decline, strong pharmaceutical division offset by weak MedTech performance, raised guidance but slightly below Street expectations, premium valuation, and Zacks Rank #4 (Sell) due to declining earnings estimates despite solid long-term fundamentals."
+      }
+    ]
+  },
+  {
+    "id": "b493f8433408356f292ad1cdf32471f37a44be00c8ef2984a8226d525ed3e94c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Oscar Health Raises 2026 Operating Earnings Outlook as Margins Improve",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-13T17:20:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3006388/oscar-health-raises-2026-operating-earnings-outlook-as-margins-improve?cid=CS-ZC-FT-analyst_blog_plus|zer_report_insights-3006388",
+    "tickers": [
+      "OSCR",
+      "ELV",
+      "UNH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0e/879.jpg",
+    "description": "Oscar Health raised its 2026 operating earnings guidance to $500M-$700M from $250M-$450M, driven by improved medical loss ratios (75% from 83%), disciplined pricing, and technology-driven expense efficiency. However, the company faces headwinds in the second half including 2%-4% monthly churn, rising medical costs, and open-enrollment spending. Revenue guidance remained unchanged at $18.7B-$19B.",
+    "keywords": [
+      "earnings guidance",
+      "medical loss ratio",
+      "pricing discipline",
+      "technology efficiency",
+      "churn risk",
+      "health insurance",
+      "profitability"
+    ],
+    "insights": [
+      {
+        "ticker": "OSCR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company significantly raised operating earnings guidance by 100% at the midpoint, demonstrated strong Q2 performance with 70% revenue growth, improved MLR to 75%, achieved record-low SG&A ratio of 14.2%, and received Zacks Rank #1 (Strong Buy) rating. However, sentiment is tempered by second-half headwinds including elevated churn, rising medical costs, and one-time favorable reserve development."
+      },
+      {
+        "ticker": "ELV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable healthcare stock with Zacks Rank #2 (Buy) rating and positive earnings estimate revisions over the last 30 days, but no specific performance data provided in the article."
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable healthcare stock with Zacks Rank #2 (Buy) rating, but no earnings estimate movement in the last 30 days and experienced 11% share price decline in the past three months, suggesting relative underperformance."
       }
     ]
   }

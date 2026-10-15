@@ -1,242 +1,226 @@
 [
   {
-    "id": "c8f5490a8591f297cccbdf751dd95d8d2916ffe7baf969033cf4b116239d58c7",
+    "id": "ff8c85bde3283c79cbbe82cad8cc376f887e65f7da0e29f3ab45674442b0bc5d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Energy Sector ETF: Vanguard's VDE Focused on Oil and Gas vs. the iShares ICLN Targeting Clean Energy",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-23T19:22:50Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/09/23/better-energy-sector-etf-vanguard-s-vde-focused-on-oil-and-gas-vs-the-ishares-icln-targeting-clean-energy/?source=iedfolrf0000001",
-    "tickers": [
-      "VDE",
-      "ICLN",
-      "CVX",
-      "COP",
-      "BE",
-      "FSLR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Vanguard Energy ETF (VDE) and iShares Global Clean Energy ETF (ICLN) represent opposite ends of the energy spectrum. VDE focuses on traditional U.S. oil and gas giants with a 46.8% one-year return, lower expense ratio (0.09%), higher dividend yield (2.3%), and greater stability. ICLN targets international renewable energy with higher growth potential but experienced a 57.2% maximum drawdown and declining performance in 2026 due to unfavorable Trump Administration policies toward renewables.",
-    "keywords": [
-      "energy ETF",
-      "oil and gas",
-      "clean energy",
-      "renewable energy",
-      "dividend yield",
-      "expense ratio",
-      "volatility",
-      "AI electricity demand"
-    ],
-    "insights": [
-      {
-        "ticker": "VDE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong one-year return of 46.8%, lowest expense ratio at 0.09%, highest dividend yield at 2.3%, larger AUM ($13.2B) providing better liquidity, and lower volatility (beta 0.50) make it attractive for income and stability-focused investors."
-      },
-      {
-        "ticker": "ICLN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Offers high growth potential in renewable energy sector with exposure to AI-driven green energy demand, but faces headwinds from Trump Administration policies, declining 2026 performance, higher volatility (beta 1.10), deeper maximum drawdown (57.2%), and higher expense ratio (0.38%)."
-      },
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VDE at 14.08%, supporting the fund's solid returns and dividend income from traditional energy operations."
-      },
-      {
-        "ticker": "COP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VDE at 6.01%, contributing to the fund's diversified exposure to U.S. oil and gas majors."
-      },
-      {
-        "ticker": "BE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Top holding in ICLN at 9.06%, representing renewable energy technology exposure but subject to policy and market volatility affecting clean energy sector."
-      },
-      {
-        "ticker": "FSLR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Second-largest holding in ICLN at 7.58%, providing solar technology exposure but facing headwinds from unfavorable renewable energy policies."
-      }
-    ]
-  },
-  {
-    "id": "b8a4d690cc6799641ded468b989fcbd866d75ccdeacf7a3b2e7dcd6ec862caa7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "How ExxonMobil's Balance Sheet Helps Navigate Oil Volatility",
-    "author": "Na",
-    "published_utc": "2026-09-23T15:08:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2994558/how-exxonmobil-s-balance-sheet-helps-navigate-oil-volatility?cid=CS-ZC-FT-analyst_blog|quick_take-2994558",
-    "tickers": [
-      "CVX",
-      "EOG"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/930.jpg",
-    "description": "ExxonMobil (XOM) demonstrates financial resilience with a low debt-to-capitalization ratio of 13.73%, enabling it to navigate oil and gas price fluctuations effectively. The company can secure additional debt on favorable terms and continue shareholder rewards. XOM gained 38.6% over the past year, though it trades at a premium valuation (EV/EBITDA of 8.87X vs. industry average of 5.76X). The stock carries a Zacks Rank #3 (Hold) rating, with 2026 earnings estimates seeing upward revisions.",
-    "keywords": [
-      "debt-to-capitalization",
-      "balance sheet strength",
-      "energy sector",
-      "oil and gas prices",
-      "valuation",
-      "earnings estimates",
-      "shareholder returns"
-    ],
-    "insights": [
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Robust balance sheet with debt-to-capitalization of 15.94%, positioning it well to navigate unfavorable business environments similar to XOM."
-      },
-      {
-        "ticker": "EOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial position with debt-to-capitalization of 19.92%, enabling resilience through energy market cycles, though slightly higher leverage than peers."
-      }
-    ]
-  },
-  {
-    "id": "e86e76cf61f778935f7573cfd84bd42309606398a6ba8e33573aac45f57af60e",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can ExxonMobil Keep Rewarding Shareholders While Investing for Growth?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-23T15:03:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2994555/can-exxonmobil-keep-rewarding-shareholders-while-investing-for-growth?cid=CS-ZC-FT-analyst_blog|quick_take-2994555",
-    "tickers": [
-      "CVX",
-      "COP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/4e/1601.jpg",
-    "description": "ExxonMobil generated $17.2B in free cash flow in Q2 2026 and returned $9.4B to shareholders while investing $13B in growth projects. The company remains on track with its 2030 plan targeting $25B in earnings growth. Chevron and ConocoPhillips similarly balance shareholder returns with disciplined capital investments. XOM trades at 8.84X EV/EBITDA, above the industry average, and carries a Zacks Rank #3 (Hold) rating.",
-    "keywords": [
-      "free cash flow",
-      "shareholder returns",
-      "capital expenditures",
-      "Guyana FPSO",
-      "dividend",
-      "share repurchases",
-      "energy sector",
-      "balance sheet strength"
-    ],
-    "insights": [
-      {
-        "ticker": "CVX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Returned $6.5B to shareholders in Q2 2026 with strong cash generation ($19.7B from operations, $15.4B adjusted free cash flow), demonstrating effective capital allocation balancing returns and growth investments."
-      },
-      {
-        "ticker": "COP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Distributed $3B to shareholders in Q2 2026 and remains on track to return 45% of cash from operations to shareholders in 2026, showing disciplined capital allocation and shareholder-focused strategy."
-      }
-    ]
-  },
-  {
-    "id": "ec7c2a28ae6fc47a769aac472819a6ec806bd343da69a51e4e319d72d635ed6b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Chevron Just Revealed a 50% Spending Surge in Exploration Spending for Next Year. Here's What It Means for CVX Stock.",
-    "author": "Isac Simon",
-    "published_utc": "2026-09-23T11:16:06Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/chevron-just-revealed-a-50-spending-surge-in-exploration-spending-for-next-year-here-s-what-it-means-for-cvx-stock/?source=iedfolrf0000001",
+    "title": "Exxon Wants to Repeat Its Guyana Success in Trinidad. Should You Buy the Stock Now or Wait for the First Well?",
+    "author": "Jeff Siegel",
+    "published_utc": "2026-10-14T21:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/exxon-wants-to-repeat-its-guyana-success-in-trinid/?source=iedfolrf0000001",
     "tickers": [
       "CVX"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F16840fdad18094dcc600d18cc612b9128c8dad2f-5598x3732.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Chevron plans to increase exploration spending by over 50% to $1.5 billion in 2026, drilling approximately 20 exploration wells and 5-6 appraisal wells in 2027 (up from 10 in 2024). This strategic shift addresses reserve replacement concerns as proven reserves fell below 10 billion barrels of oil equivalent. With strong cash flow from current high oil prices near $100 Brent, the company maintains capacity to fund exploration, capital spending, and sustain its 39-year dividend growth streak.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890664%2Fmf-offshoreoil.jpg&w=1200&op=resize",
+    "description": "ExxonMobil is pursuing exploration opportunities in Trinidad and Tobago, seeking to replicate its successful Guyana offshore operations. The company expects to select its first drilling location by mid-2027, with an initial exploration well potentially following in late 2027 or early 2028. However, the article argues that investors need not wait for Trinidad results to justify buying Exxon stock, as the company's existing operations\u2014including strong Q2 2026 earnings of $14.5 billion and record Permian Basin production\u2014provide a solid investment foundation independent of exploration outcomes.",
     "keywords": [
-      "exploration spending",
-      "reserve replacement",
-      "dividend growth",
-      "frontier basins",
-      "capital expenditure",
+      "offshore oil exploration",
+      "Trinidad and Tobago",
+      "Guyana operations",
+      "deepwater drilling",
+      "energy stocks",
+      "oil production",
+      "shareholder returns",
+      "exploration wells"
+    ],
+    "insights": [
+      {
+        "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Chevron is mentioned only in a 'Read Next' section as a comparison article ('Chevron vs. ExxonMobil: Which Energy Stock Is a Better Buy in 2026?') but receives no substantive analysis or commentary in the main article content."
+      }
+    ]
+  },
+  {
+    "id": "68a6c587d8f7f400a9075fefbe6695064f814dbec77fd81357895118f7a89746",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "BP Unveils Q3'26 Outlook With Lower Debt & Stronger Refining Margins",
+    "author": "Na",
+    "published_utc": "2026-10-14T15:20:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007319/bp-unveils-q3-26-outlook-with-lower-debt-stronger-refining-margins?cid=CS-ZC-FT-analyst_blog|company_news_energy_sector-3007319",
+    "tickers": [
+      "BP",
+      "SHEL",
+      "CVX",
+      "E"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/431.jpg",
+    "description": "BP projects third-quarter 2026 net debt of $13.5-$14.5 billion, down sharply from $22.3 billion in Q2, driven by a $9-$10 billion reduction in combined liabilities. The company expects stronger refining margins to add $1.9-$2.1 billion to products segment performance, while gas realizations are forecast to improve by $100-$300 million. However, lower oil prices averaging $96.99/barrel compared to $103.85 in Q2 are expected to weigh on upstream results by $200-$400 million, and the company anticipates post-tax impairment charges of $3-$4.5 billion related to transition businesses.",
+    "keywords": [
+      "BP",
+      "Q3 2026 guidance",
+      "debt reduction",
+      "refining margins",
       "oil prices",
-      "cash flow"
+      "upstream production",
+      "gas realizations",
+      "impairment charges"
+    ],
+    "insights": [
+      {
+        "ticker": "BP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "BP demonstrates strong financial improvement with substantial debt reduction ($9-$10 billion), significantly improved refining margins (+$1.9-$2.1 billion), and resilient upstream production. These positive factors outweigh headwinds from lower oil prices and impairment charges, supporting enhanced financial flexibility and investment appeal."
+      },
+      {
+        "ticker": "SHEL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Shell is mentioned only as a comparable energy sector peer with a Zacks Rank #1 rating, with no specific operational or financial updates provided in the article."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Chevron is mentioned only as a comparable energy sector peer with a Zacks Rank #1 rating, with no specific operational or financial updates provided in the article."
+      },
+      {
+        "ticker": "E",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Eni is mentioned only as a comparable energy sector peer with a Zacks Rank #1 rating, with no specific operational or financial updates provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "8ac0e919066d57f7e0b13522f48c4fa1b57390bffe5c93491c511b5bfc0d80d1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Chevron (CVX) Increases Despite Market Slip: Here's What You Need to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-13T20:45:05Z",
+    "article_url": "https://www.zacks.com/stock/news/3006425/chevron-cvx-increases-despite-market-slip-here-s-what-you-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3006425",
+    "tickers": [
+      "CVX"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default201.jpg",
+    "description": "Chevron stock rose 1.39% to $217.99, outperforming the broader market decline. The company is expected to report earnings on October 30, 2026, with analysts forecasting $4.73 EPS (up 155.68% YoY) and $58.88B in revenue (up 18.4% YoY). Chevron holds a Zacks Rank #1 (Strong Buy) rating with consensus EPS estimates raised 5.59% over the past month.",
+    "keywords": [
+      "Chevron",
+      "CVX",
+      "earnings",
+      "stock performance",
+      "Zacks Rank",
+      "oil company",
+      "energy sector"
     ],
     "insights": [
       {
         "ticker": "CVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Chevron's increased exploration investment demonstrates management's commitment to long-term production sustainability and reserve replacement. The company maintains strong dividend coverage with $16.9 billion in free cash flow against $12.8 billion in dividends paid in 2025. Current high oil prices ($100 Brent) provide financial flexibility for exploration without pressuring near-term shareholder returns. The strategic focus on frontier basins with AI and improved seismic data positions the company for future growth, supporting long-term dividend sustainability."
+        "sentiment_reasoning": "Chevron received a Zacks Rank #1 (Strong Buy) rating with significant expected earnings growth of 155.68% YoY, revenue growth of 18.4% YoY, and upward analyst estimate revisions of 5.59% over 30 days. The stock outperformed the broader market decline, and the Oil and Gas - Integrated - International industry ranks in the top 7% of all industries."
       }
     ]
   },
   {
-    "id": "1ee33e04a11bffe48dd85139a7bdc07e2c9b1047134dcdd864568a0f3a48ebb7",
+    "id": "32cf95e4ee13b095ef884c8d917c1736504ff44f1bc4fa24d3f7f0913df2ea5a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Chevron & Shell Lead U.S. Gulf Oil Production Recovery After Hurricane",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-13T15:31:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3006346/chevron-shell-lead-u-s-gulf-oil-production-recovery-after-hurricane?cid=CS-ZC-FT-analyst_blog|company_news_energy_sector-3006346",
+    "tickers": [
+      "CVX",
+      "SHEL",
+      "BP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/48/2218.jpg",
+    "description": "Major U.S. oil producers Chevron, Shell, and BP are resuming offshore operations in the Gulf following Hurricane Isaias. The companies had shut in 1.3 million barrels per day (63% of regional production) before the storm. All three reported no significant damage to key facilities and are redeploying workers to restore full production, easing supply concerns for the U.S. energy market.",
+    "keywords": [
+      "Hurricane Isaias",
+      "U.S. Gulf oil production",
+      "offshore operations recovery",
+      "production shutdown",
+      "energy supply",
+      "Gulf Coast refineries"
+    ],
+    "insights": [
+      {
+        "ticker": "CVX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company is successfully restoring full production at Gulf platforms with no storm damage reported at Pascagoula facility. Zacks Rank #2 (Buy) rating indicates positive outlook for recovery and operations normalization."
+      },
+      {
+        "ticker": "SHEL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Shell reported no storm damage to five key offshore assets (Mars, Olympus, Ursa, Vito, Appomattox) and is redeploying personnel to resume operations. Zacks Rank #1 (Strong Buy) rating reflects confidence in the company's recovery trajectory."
+      },
+      {
+        "ticker": "BP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "BP is actively restarting production at Na Kika and Thunder Horse platforms and returning personnel to other key assets, demonstrating successful recovery from hurricane disruptions."
+      }
+    ]
+  },
+  {
+    "id": "167b6384035cf800bd3e3dd552966331dd6f3f199ed8f1681f0c7ca8d59fbd7b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Energy Sector ETF: Vanguard's VDE Targeting Traditional Oil and Gas Giants vs. Invesco's Solar-Focused TAN",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-22T19:31:44Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/09/22/better-energy-sector-etf-vanguard-s-vde-targeting-traditional-oil-and-gas-giants-vs-invesco-s-solar-focused-tan/?source=iedfolrf0000001",
+    "title": "Chevron vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?",
+    "author": "Jake Lerch",
+    "published_utc": "2026-10-13T14:15:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/13/chevron-vs-occidental-petroleum-which-energy-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "VDE",
-      "TAN",
       "CVX",
-      "COP",
-      "FSLR"
+      "OXY",
+      "OXY.WS",
+      "BRK.A",
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Vanguard's VDE energy ETF significantly outperforms Invesco's TAN solar ETF with a 46.8% one-year return versus 6.7%, while offering lower fees (0.09% vs 0.7%), higher dividend yield (2.3%), and lower volatility. VDE is recommended for long-term investors seeking broad energy exposure, while TAN appeals to those betting on renewable energy growth driven by AI demand for clean electricity.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F52c78b4be13f4a667035e9dc37e388cad5c32a9c-6720x3780.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Chevron and Occidental Petroleum present different investment profiles for energy exposure in 2026. Chevron offers a fortress balance sheet, global scale, and a strong dividend history with 39 consecutive years of increases, but trades at a higher valuation. Occidental Petroleum features higher profit margins (38% vs 16.5%), lower valuation multiples, and carbon capture technology investments, but carries higher debt levels and shorter dividend growth history. The choice depends on investor priorities: income-focused investors may prefer Chevron's 3.4% yield, while value investors may favor Occidental's lower P/E ratio and superior margins.",
     "keywords": [
-      "energy ETF",
-      "VDE",
-      "TAN",
-      "solar energy",
-      "fossil fuels",
-      "renewable energy",
-      "expense ratio",
-      "dividend yield",
-      "volatility",
-      "AI demand"
+      "energy stocks",
+      "oil and gas",
+      "dividend stocks",
+      "valuation comparison",
+      "carbon capture technology",
+      "integrated energy company",
+      "exploration and production"
     ],
     "insights": [
       {
-        "ticker": "VDE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 46.8% one-year return, significantly lower expense ratio (0.09%), attractive 2.3% dividend yield, lower volatility (beta 0.50), larger AUM ($13.2B) for better liquidity, and superior 5-year performance ($3,085 vs $539 on $1,000 investment). Recommended as ideal for long-term investors."
-      },
-      {
-        "ticker": "TAN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned as a specialized, high-conviction bet on solar industry with potential long-term growth from AI-driven clean energy demand. However, significantly higher expense ratio (0.7%), much higher volatility (beta 1.41), severe 5-year drawdown (-74%), and weaker recent performance (6.7% one-year return). Suitable only for investors specifically targeting renewable energy or avoiding fossil fuels."
-      },
-      {
         "ticker": "CVX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest VDE holding at 14.08%, benefiting from elevated oil prices and strong energy sector momentum."
+        "sentiment_reasoning": "Strong balance sheet with 0.2x debt-to-equity ratio, massive scale with $425B market cap, consistent dividend growth for 39 years, solid 3.4% dividend yield, and successful integration of Hess acquisition provide stability and income generation for investors."
       },
       {
-        "ticker": "COP",
+        "ticker": "OXY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest VDE holding at 6.01%, participating in the energy sector's strong performance driven by geopolitical factors and AI-related electricity demand."
+        "sentiment_reasoning": "Higher operating margins (38%), lower forward P/E ratio (9.4x vs 12.7x), strong free cash flow of $4.1B, and innovative carbon capture technology investments offer value and growth potential, though offset by higher debt levels (0.7x) and shorter dividend history."
       },
       {
-        "ticker": "FSLR",
+        "ticker": "OXY.WS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Higher operating margins (38%), lower forward P/E ratio (9.4x vs 12.7x), strong free cash flow of $4.1B, and innovative carbon capture technology investments offer value and growth potential, though offset by higher debt levels (0.7x) and shorter dividend history."
+      },
+      {
+        "ticker": "BRK.A",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Largest TAN holding at 9.81%, positioned to benefit from long-term AI-driven clean energy demand, but subject to TAN's high volatility and sector-specific risks."
+        "sentiment_reasoning": "Mentioned as a major investor backing Occidental's carbon management strategy; no direct investment recommendation or analysis provided in the article."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major investor backing Occidental's carbon management strategy; no direct investment recommendation or analysis provided in the article."
       }
     ]
   }

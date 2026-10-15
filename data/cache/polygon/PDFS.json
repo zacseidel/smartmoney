@@ -1,0 +1,34 @@
+{
+  "ticker": "PDFS",
+  "name": "PDF Solutions Inc",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001120914",
+  "composite_figi": "BBG000CYCKR4",
+  "share_class_figi": "BBG001SFSR85",
+  "market_cap": 2010860025.9199998,
+  "phone_number": "(408) 280-7900",
+  "address": {
+    "address1": "2858 DE LA CRUZ BOULEVARD",
+    "city": "SANTA CLARA",
+    "state": "CA",
+    "postal_code": "95050"
+  },
+  "description": "PDF Solutions Inc provides products and services designed to empower organizations across the semiconductor and electronics ecosystem to connect, collect, manage, and analyze data about design, equipment, manufacturing, and test to improve the yield and quality of their products and operational efficiency. The Company's products, services, and solutions include proprietary software, physical intellectual property (IP) for integrated circuit (IC) designs, electrical measurement hardware tools, methodologies, and professional services.",
+  "sic_code": "7372",
+  "sic_description": "SERVICES-PREPACKAGED SOFTWARE",
+  "ticker_root": "PDFS",
+  "homepage_url": "https://www.pdf.com",
+  "total_employees": 600,
+  "list_date": "2001-07-26",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/cGRmLmNvbQ/images/2026-10-01_logo.png"
+  },
+  "share_class_shares_outstanding": 39921090,
+  "weighted_shares_outstanding": 42227216,
+  "round_lot": 100
+}

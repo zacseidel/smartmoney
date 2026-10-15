@@ -1,0 +1,35 @@
+{
+  "ticker": "OLN",
+  "name": "Olin Corp.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000074303",
+  "composite_figi": "BBG000BQHTV3",
+  "share_class_figi": "BBG001S5TWW8",
+  "market_cap": 1694919626.3,
+  "phone_number": "(314) 480-1400",
+  "address": {
+    "address1": "OLIN CORPORATION",
+    "address2": "190 CARONDELET PLAZA SUITE 1530",
+    "city": "CLAYTON",
+    "state": "MO",
+    "postal_code": "63105"
+  },
+  "description": "Olin was founded in 1892 and has been publicly listed since 1917. The company has a unique dual identity compared with some of its chemical peers: it is the world's largest chlor-alkali producer by capacity, and it owns Winchester, a leading US ammunition manufacturer. Olin has three reportable segments: chlor-alkali products and vinyls, epoxies, and Winchester, which represent around 55%, 20%, and 25% of sales, respectively.",
+  "sic_code": "2800",
+  "sic_description": "CHEMICALS & ALLIED PRODUCTS",
+  "ticker_root": "OLN",
+  "homepage_url": "https://www.olin.com",
+  "total_employees": 7849,
+  "list_date": "1972-06-01",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/b2xpbi5jb20/images/2026-10-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 113982490,
+  "weighted_shares_outstanding": 113982490,
+  "round_lot": 100
+}

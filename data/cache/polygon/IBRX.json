@@ -1,0 +1,35 @@
+{
+  "ticker": "IBRX",
+  "name": "ImmunityBio, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001326110",
+  "composite_figi": "BBG007T9DYW9",
+  "share_class_figi": "BBG007T9DYX8",
+  "market_cap": 10386395475.400002,
+  "phone_number": "(844) 696-5235",
+  "address": {
+    "address1": "3530 JOHN HOPKINS COURT",
+    "city": "SAN DIEGO",
+    "state": "CA",
+    "postal_code": "92121"
+  },
+  "description": "ImmunityBio Inc is a biotechnology company focused on developing and commercializing next-generation immunotherapies designed to activate the patient's immune system and provide durable protection against cancer and infectious diseases. Its approach harnesses both the adaptive and innate immune systems with the Cancer BioShield platform. The platform is built around the proprietary IL-15 superagonist ANKTIVA (nogapendekin alfa inbakicept) and is supported by a portfolio that includes adenovirus-vectored vaccines, NK-cell therapies, and additional immunomodulators. The company operates in the United States and Europe, with the majority of its revenue coming from the United States.",
+  "sic_code": "2836",
+  "sic_description": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
+  "ticker_root": "IBRX",
+  "homepage_url": "https://www.immunitybio.com",
+  "total_employees": 691,
+  "list_date": "2021-03-10",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/aW1tdW5pdHliaW8uY29t/images/2026-10-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/aW1tdW5pdHliaW8uY29t/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 1059836273,
+  "weighted_shares_outstanding": 1059836273,
+  "round_lot": 100
+}

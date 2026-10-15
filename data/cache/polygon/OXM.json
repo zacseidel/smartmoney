@@ -1,0 +1,35 @@
+{
+  "ticker": "OXM",
+  "name": "Oxford Industries, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000075288",
+  "composite_figi": "BBG000BQPRQ4",
+  "share_class_figi": "BBG001S5TZF0",
+  "market_cap": 385241207.28,
+  "phone_number": "404-659-2424",
+  "address": {
+    "address1": "999 PEACHTREE STREET NE",
+    "address2": "SUITE 1225",
+    "city": "ATLANTA",
+    "state": "GA"
+  },
+  "description": "Oxford Industries Inc is an apparel manufacturing company that designs, sources, markets, and distributes products under the brand name Tommy Bahama, and Lilly Pulitzer. Tommy Bahama designs, sources, markets, and distributes men's and women's sportswear and related products. Lilly Pulitzer designs, sources, markets, and distributes upscale collections of women's and women's dresses, sportswear, and related products. The company's business is organized as: Tommy Bahama, Lilly Pulitzer, Johnny Was and Emerging Brands reportable segments. Geographically, the company operates in United States as well as Internationally.",
+  "sic_code": "2320",
+  "sic_description": "MEN'S & BOYS' FURNISHGS, WORK CLOTHG, & ALLIED GARMENTS",
+  "ticker_root": "OXM",
+  "homepage_url": "https://www.oxfordinc.com",
+  "total_employees": 6000,
+  "list_date": "1964-03-20",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/b3hmb3JkaW5jLmNvbQ/images/2026-10-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/b3hmb3JkaW5jLmNvbQ/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 14978274,
+  "weighted_shares_outstanding": 14978274,
+  "round_lot": 100
+}

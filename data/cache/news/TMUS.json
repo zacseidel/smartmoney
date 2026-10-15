@@ -1,99 +1,122 @@
 [
   {
-    "id": "51d9134ee33a8adf448ea647e03dbf699c45b239cb0b685484e1505fd60c628e",
+    "id": "f7481e27ca26bf687500a9e4bb56233fa7af231c27b18d00bc0d513a1183bb85",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Verizon Delivers Strong Free Cash Flow Growth: Can Momentum Continue?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-21T17:06:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993172/verizon-delivers-strong-free-cash-flow-growth-can-momentum-continue?cid=CS-ZC-FT-analyst_blog|quick_take-2993172",
+    "title": "Better Telecom Stock: AT&T vs. Verizon Communications",
+    "author": "Robert Izquierdo",
+    "published_utc": "2026-10-13T13:20:53Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/13/better-telecom-stock-at-and-t-vs-verizon-communications/?source=iedfolrf0000001",
     "tickers": [
-      "VZ",
       "T",
       "TBB",
       "TpA",
       "TpC",
+      "VZ",
       "TMUS",
       "TMUSI",
       "TMUSL",
-      "TMUSZ"
+      "TMUSZ",
+      "CHTR",
+      "CHTRP",
+      "CCZ",
+      "CMCSA"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/30/115.jpg",
-    "description": "Verizon reported strong Q2 2026 free cash flow growth of 24.4% year-over-year to $6.4 billion, driven by improved profitability and margin expansion. The company raised its full-year 2026 free cash flow growth guidance to 9-10% from 7%. However, substantial capital investments in fiber expansion and wireless network upgrades remain a key challenge to sustaining growth momentum.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9f29fb5050f00cc96b736c669168493378982e08-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "AT&T and Verizon are compared as investment options for 2026. AT&T has improved profitability with a 17.4% net margin after divesting media assets, while Verizon has pursued aggressive acquisitions to expand fiber and broadband capabilities. Despite AT&T's higher net margin and lower valuation, the analyst recommends Verizon due to its superior dividend track record (20 consecutive years of increases, 6.57% yield vs. AT&T's 4.94%), stronger free cash flow, and more attractive forward P/E ratio, despite higher debt levels from recent acquisitions.",
     "keywords": [
+      "telecommunications",
+      "5G expansion",
+      "fiber broadband",
+      "dividend stocks",
       "free cash flow",
-      "profitability",
-      "EBITDA margin expansion",
-      "capital expenditures",
-      "fiber expansion",
-      "wireless network upgrades",
-      "cost efficiency",
-      "guidance raise"
+      "acquisitions",
+      "valuation comparison"
     ],
     "insights": [
       {
-        "ticker": "VZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 free cash flow growth of 24.4% YoY, EBITDA margin expansion from 37.1% to 40.1%, raised full-year guidance to 9-10% growth, and on track to achieve $9 billion in cost savings. However, sentiment is tempered by concerns about substantial ongoing capital needs."
-      },
-      {
         "ticker": "T",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Modest free cash flow increase from $4.4B to $4.7B in Q2 2026, with growth driven primarily by lower tax payments and working capital timing rather than operational improvements. Capital expenditures increased significantly."
+        "sentiment_reasoning": "AT&T shows strong operational improvements with 17.4% net margin and successful divestiture of non-core assets, but faces headwinds from dividend cut in 2022 with no subsequent increases, lower dividend yield (4.94%), and higher valuation multiples. Competitive pressures and regulatory risks also present concerns."
       },
       {
         "ticker": "TBB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Modest free cash flow increase from $4.4B to $4.7B in Q2 2026, with growth driven primarily by lower tax payments and working capital timing rather than operational improvements. Capital expenditures increased significantly."
+        "sentiment_reasoning": "AT&T shows strong operational improvements with 17.4% net margin and successful divestiture of non-core assets, but faces headwinds from dividend cut in 2022 with no subsequent increases, lower dividend yield (4.94%), and higher valuation multiples. Competitive pressures and regulatory risks also present concerns."
       },
       {
         "ticker": "TpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Modest free cash flow increase from $4.4B to $4.7B in Q2 2026, with growth driven primarily by lower tax payments and working capital timing rather than operational improvements. Capital expenditures increased significantly."
+        "sentiment_reasoning": "AT&T shows strong operational improvements with 17.4% net margin and successful divestiture of non-core assets, but faces headwinds from dividend cut in 2022 with no subsequent increases, lower dividend yield (4.94%), and higher valuation multiples. Competitive pressures and regulatory risks also present concerns."
       },
       {
         "ticker": "TpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Modest free cash flow increase from $4.4B to $4.7B in Q2 2026, with growth driven primarily by lower tax payments and working capital timing rather than operational improvements. Capital expenditures increased significantly."
+        "sentiment_reasoning": "AT&T shows strong operational improvements with 17.4% net margin and successful divestiture of non-core assets, but faces headwinds from dividend cut in 2022 with no subsequent increases, lower dividend yield (4.94%), and higher valuation multiples. Competitive pressures and regulatory risks also present concerns."
+      },
+      {
+        "ticker": "VZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Verizon is recommended as the better buy due to 20 consecutive years of dividend increases, higher dividend yield (6.57%), solid free cash flow ($20.1B), lower forward P/E ratio (9.1x), and strategic acquisitions enhancing fiber and broadband capabilities. Elevated debt from acquisitions is manageable given strong cash generation."
       },
       {
         "ticker": "TMUS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Adjusted free cash flow grew only 4% YoY to $4.8B in Q2 2026, with operating cash flow up 7% but offset by 13% increase in capital spending on network upgrades."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Verizon in the wireless market, but no detailed analysis provided in the article."
       },
       {
         "ticker": "TMUSI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Adjusted free cash flow grew only 4% YoY to $4.8B in Q2 2026, with operating cash flow up 7% but offset by 13% increase in capital spending on network upgrades."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Verizon in the wireless market, but no detailed analysis provided in the article."
       },
       {
         "ticker": "TMUSL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Adjusted free cash flow grew only 4% YoY to $4.8B in Q2 2026, with operating cash flow up 7% but offset by 13% increase in capital spending on network upgrades."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Verizon in the wireless market, but no detailed analysis provided in the article."
       },
       {
         "ticker": "TMUSZ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Adjusted free cash flow grew only 4% YoY to $4.8B in Q2 2026, with operating cash flow up 7% but offset by 13% increase in capital spending on network upgrades."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Verizon in the wireless market, but no detailed analysis provided in the article."
+      },
+      {
+        "ticker": "CHTR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a cable competitor to Verizon, but receives no detailed evaluation in the comparison."
+      },
+      {
+        "ticker": "CHTRP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a cable competitor to Verizon, but receives no detailed evaluation in the comparison."
+      },
+      {
+        "ticker": "CCZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive cable provider to Verizon, but not analyzed in depth."
+      },
+      {
+        "ticker": "CMCSA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive cable provider to Verizon, but not analyzed in depth."
       }
     ]
   },
   {
-    "id": "b5fe4a1c9a8949f5192ef98112fcde676ffda6eb57116ae559483f0f6a8519cf",
+    "id": "aef9919eca2809fac96ce92295b67d881c4f8987e6f7789e8b964a1632c45a63",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Can AT&T's New Technology Offerings With Dallas Cowboys Lift Shares?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-21T15:41:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993097/can-at-t-s-new-technology-offerings-with-dallas-cowboys-lift-shares?cid=CS-ZC-FT-analyst_blog|quick_take-2993097",
+    "title": "Does T Stock Deserve a Spot in Your Portfolio Ahead of Q3 Earnings?",
+    "author": "Na",
+    "published_utc": "2026-10-12T15:01:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3005284/does-t-stock-deserve-a-spot-in-your-portfolio-ahead-of-q3-earnings?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3005284",
     "tickers": [
       "T",
       "TBB",
@@ -106,316 +129,318 @@
       "TMUSZ"
     ],
     "image_url": "https://staticx-tuner.zacks.com/images/articles/main/70/1631.jpg",
-    "description": "AT&T has extended its partnership with the Dallas Cowboys, introducing new AI, augmented reality, and connectivity technologies for the 2026 NFL season at AT&T Stadium. The stadium features 261 miles of fiber and nearly 1,000 antennas supporting new features like AI-generated hype videos, AR experiences, and high-priority network access. However, AT&T shares have underperformed the industry by 109.7% over the past year, and the company faces intense competition from Verizon and T-Mobile in advancing network and AI capabilities.",
+    "description": "AT&T is expected to report Q3 2026 earnings on October 21 with revenues of $31.68 billion and EPS of 61 cents, supported by a positive 3.77% Earnings Surprise Prediction. The company's fiber expansion to 38.6 million locations and network modernization efforts show promise, but intense competition from Verizon and T-Mobile, along with substantial capital requirements and leveraged balance sheet, remain key challenges. AT&T holds a Zacks Rank #3 (Hold) rating.",
     "keywords": [
-      "AT&T",
-      "Dallas Cowboys",
-      "5G technology",
-      "artificial intelligence",
-      "augmented reality",
-      "network infrastructure",
-      "telecommunications",
-      "sports partnership"
+      "Q3 2026 earnings",
+      "fiber expansion",
+      "5G network upgrades",
+      "bundled services",
+      "wireless competition",
+      "earnings surprise",
+      "broadband growth"
     ],
     "insights": [
       {
         "ticker": "T",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While AT&T is expanding technology offerings and maintaining its Cowboys partnership, the company's stock has significantly underperformed the industry (down 12.2% vs. industry up 97.5% over the past year). The partnership demonstrates innovation but appears insufficient to drive meaningful share appreciation. The company carries a Zacks Rank #3 (Hold) rating."
+        "sentiment_reasoning": "AT&T shows balanced prospects with positive catalysts (fiber expansion to 38.6M locations, network modernization delivering 2X speeds, $3B Corning fiber deal, 3.77% positive ESP) offset by significant headwinds (intense competition from Verizon and T-Mobile, leveraged balance sheet, declining legacy revenues, promotional discounting pressures). The Zacks Rank #3 (Hold) reflects this balanced outlook."
       },
       {
         "ticker": "TBB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While AT&T is expanding technology offerings and maintaining its Cowboys partnership, the company's stock has significantly underperformed the industry (down 12.2% vs. industry up 97.5% over the past year). The partnership demonstrates innovation but appears insufficient to drive meaningful share appreciation. The company carries a Zacks Rank #3 (Hold) rating."
+        "sentiment_reasoning": "AT&T shows balanced prospects with positive catalysts (fiber expansion to 38.6M locations, network modernization delivering 2X speeds, $3B Corning fiber deal, 3.77% positive ESP) offset by significant headwinds (intense competition from Verizon and T-Mobile, leveraged balance sheet, declining legacy revenues, promotional discounting pressures). The Zacks Rank #3 (Hold) reflects this balanced outlook."
       },
       {
         "ticker": "TpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While AT&T is expanding technology offerings and maintaining its Cowboys partnership, the company's stock has significantly underperformed the industry (down 12.2% vs. industry up 97.5% over the past year). The partnership demonstrates innovation but appears insufficient to drive meaningful share appreciation. The company carries a Zacks Rank #3 (Hold) rating."
+        "sentiment_reasoning": "AT&T shows balanced prospects with positive catalysts (fiber expansion to 38.6M locations, network modernization delivering 2X speeds, $3B Corning fiber deal, 3.77% positive ESP) offset by significant headwinds (intense competition from Verizon and T-Mobile, leveraged balance sheet, declining legacy revenues, promotional discounting pressures). The Zacks Rank #3 (Hold) reflects this balanced outlook."
       },
       {
         "ticker": "TpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While AT&T is expanding technology offerings and maintaining its Cowboys partnership, the company's stock has significantly underperformed the industry (down 12.2% vs. industry up 97.5% over the past year). The partnership demonstrates innovation but appears insufficient to drive meaningful share appreciation. The company carries a Zacks Rank #3 (Hold) rating."
+        "sentiment_reasoning": "AT&T shows balanced prospects with positive catalysts (fiber expansion to 38.6M locations, network modernization delivering 2X speeds, $3B Corning fiber deal, 3.77% positive ESP) offset by significant headwinds (intense competition from Verizon and T-Mobile, leveraged balance sheet, declining legacy revenues, promotional discounting pressures). The Zacks Rank #3 (Hold) reflects this balanced outlook."
       },
       {
         "ticker": "VZ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Verizon is actively advancing its competitive position with Verizon AI Connect, high-speed fiber infrastructure, and autonomous network operations using AI and automation to optimize performance, positioning it as a strong competitor in the evolving telecom landscape."
+        "sentiment_reasoning": "Verizon is mentioned as a major competitive threat to AT&T in the U.S. wireless market. Additionally, Verizon's stock has outperformed AT&T significantly, gaining 4.8% over the past year compared to AT&T's 13.3% decline, indicating stronger market performance."
       },
       {
         "ticker": "TMUS",
         "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is strengthening its competitive position through 5G Advanced, AI-powered network optimization tools, and development of next-generation 6G technologies, demonstrating proactive advancement in emerging telecom capabilities."
+        "sentiment_reasoning": "T-Mobile is identified as a key competitor applying pressure on AT&T's market position. However, T-Mobile's stock declined 34% over the past year, suggesting market challenges despite competitive strength in the telecom sector."
       },
       {
         "ticker": "TMUSI",
         "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is strengthening its competitive position through 5G Advanced, AI-powered network optimization tools, and development of next-generation 6G technologies, demonstrating proactive advancement in emerging telecom capabilities."
+        "sentiment_reasoning": "T-Mobile is identified as a key competitor applying pressure on AT&T's market position. However, T-Mobile's stock declined 34% over the past year, suggesting market challenges despite competitive strength in the telecom sector."
       },
       {
         "ticker": "TMUSL",
         "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is strengthening its competitive position through 5G Advanced, AI-powered network optimization tools, and development of next-generation 6G technologies, demonstrating proactive advancement in emerging telecom capabilities."
+        "sentiment_reasoning": "T-Mobile is identified as a key competitor applying pressure on AT&T's market position. However, T-Mobile's stock declined 34% over the past year, suggesting market challenges despite competitive strength in the telecom sector."
       },
       {
         "ticker": "TMUSZ",
         "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is strengthening its competitive position through 5G Advanced, AI-powered network optimization tools, and development of next-generation 6G technologies, demonstrating proactive advancement in emerging telecom capabilities."
+        "sentiment_reasoning": "T-Mobile is identified as a key competitor applying pressure on AT&T's market position. However, T-Mobile's stock declined 34% over the past year, suggesting market challenges despite competitive strength in the telecom sector."
       }
     ]
   },
   {
-    "id": "5a58d7b74f518fd022cef7662694760a3f402235663d09da05867701384a3b7b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Verizon the Year's Best Telecom Stock?",
-    "author": "Catie Hogan",
-    "published_utc": "2026-09-18T09:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/18/is-verizon-the-years-best-telecom-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "VZ",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ",
-      "T",
-      "TBB",
-      "TpA",
-      "TpC"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887418%2Fverizon-logo-source-the-motley-fool.png&w=1200&op=resize",
-    "description": "Verizon Communications has undergone a significant turnaround in 2026 under new CEO Dan Schulman, beating quarterly expectations and achieving 184,000 postpaid net phone additions. The company's acquisition of Frontier Communications boosted fiber broadband connections by 43% year-over-year, while targeting $5 billion in cost cuts. Verizon's stock has risen over 25% this year with expanding EBITDA and margins, positioning it as a potential top-performing telecom stock compared to competitors T-Mobile and AT&T.",
-    "keywords": [
-      "telecom turnaround",
-      "CEO leadership change",
-      "fiber broadband expansion",
-      "cost reduction",
-      "postpaid net additions",
-      "dividend yield",
-      "competitive positioning"
-    ],
-    "insights": [
-      {
-        "ticker": "VZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong operational turnaround under new CEO with beating quarterly expectations, significant postpaid phone additions reversal, successful Frontier acquisition boosting fiber broadband by 43%, aggressive cost-cutting targets, expanding EBITDA and margins, 25%+ stock price increase in 2026, and attractive dividend yield of 5.78%."
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Described as performing solidly but lacking the momentum and operational improvements that Verizon is currently demonstrating in the market."
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Described as performing solidly but lacking the momentum and operational improvements that Verizon is currently demonstrating in the market."
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Described as performing solidly but lacking the momentum and operational improvements that Verizon is currently demonstrating in the market."
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Described as performing solidly but lacking the momentum and operational improvements that Verizon is currently demonstrating in the market."
-      },
-      {
-        "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Performing solidly as a competitor but without the same level of momentum and operational improvements as Verizon's current turnaround story."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Performing solidly as a competitor but without the same level of momentum and operational improvements as Verizon's current turnaround story."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Performing solidly as a competitor but without the same level of momentum and operational improvements as Verizon's current turnaround story."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Performing solidly as a competitor but without the same level of momentum and operational improvements as Verizon's current turnaround story."
-      }
-    ]
-  },
-  {
-    "id": "76b405ad153135769e2ad69844f6eca21dbf00fab484a0eb212eba000a39d9c5",
+    "id": "2d312bed69483dc9adfed6f9daf0aba3caf5740f66ad695612fe2173c41a6c51",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "AT&T Teams Up With LifeMD for Virtual Health Care: Can it Aid Shares?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-16T15:13:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2990701/at-t-teams-up-with-lifemd-for-virtual-health-care-can-it-aid-shares?cid=CS-ZC-FT-analyst_blog|quick_take-2990701",
+    "title": "Telecom Stocks Tumble After SpaceX Spectrum Deal: ETFs in Focus",
+    "author": "Na",
+    "published_utc": "2026-10-12T11:46:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3004771/telecom-stocks-tumble-after-spacex-spectrum-deal-etfs-in-focus?cid=CS-ZC-FT-etf_news_and_commentary-3004771",
+    "tickers": [
+      "VZ",
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ",
+      "T",
+      "TBB",
+      "TpA",
+      "TpC",
+      "SPCX",
+      "IYZ",
+      "RONB",
+      "MARS",
+      "ORBX",
+      "WARP"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/bd/484.jpg",
+    "description": "SpaceX agreed to acquire a nationwide spectrum portfolio from Grain Management to expand Starlink's satellite internet into mobile services, causing major telecom stocks to plunge on October 10. Verizon dropped 8.75%, T-Mobile fell 13.27%, and AT&T declined 9.81%, marking their worst days in years. However, analysts believe established carriers face limited near-term competition as building a rival network would require substantial time and investment. Space-focused ETFs are expected to benefit long-term from the deal.",
+    "keywords": [
+      "SpaceX",
+      "Starlink",
+      "spectrum acquisition",
+      "satellite internet",
+      "mobile services",
+      "telecom stocks",
+      "market selloff"
+    ],
+    "insights": [
+      {
+        "ticker": "VZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock plunged 8.75%, worst single-day decline since July 2002, due to competitive threat from SpaceX's spectrum acquisition for mobile services expansion"
+      },
+      {
+        "ticker": "TMUS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, steepest fall since 2013, as SpaceX's spectrum deal poses potential competition in mobile connectivity market"
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, steepest fall since 2013, as SpaceX's spectrum deal poses potential competition in mobile connectivity market"
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, steepest fall since 2013, as SpaceX's spectrum deal poses potential competition in mobile connectivity market"
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, steepest fall since 2013, as SpaceX's spectrum deal poses potential competition in mobile connectivity market"
+      },
+      {
+        "ticker": "T",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock slid 9.81%, worst session since 2000, due to concerns about SpaceX entering the mobile services market"
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock slid 9.81%, worst session since 2000, due to concerns about SpaceX entering the mobile services market"
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock slid 9.81%, worst session since 2000, due to concerns about SpaceX entering the mobile services market"
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock slid 9.81%, worst session since 2000, due to concerns about SpaceX entering the mobile services market"
+      },
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Shares edged up 1.3% following the spectrum acquisition announcement, which strengthens Starlink's push into mobile connectivity"
+      },
+      {
+        "ticker": "IYZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Lost 0.9% on Friday due to significant exposure to Verizon (10%), T-Mobile (3%), and AT&T (4.4%), all of which declined sharply"
+      },
+      {
+        "ticker": "RONB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to benefit long-term from SpaceX exposure as the spectrum deal supports Starlink's expansion"
+      },
+      {
+        "ticker": "MARS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Should gain from the deal over the long term due to SpaceX exposure and the company's growth in satellite technology"
+      },
+      {
+        "ticker": "ORBX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected to benefit long-term from SpaceX's spectrum acquisition and expansion into mobile services"
+      },
+      {
+        "ticker": "WARP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Should gain from the deal over the long term due to SpaceX exposure and the company's strategic expansion"
+      }
+    ]
+  },
+  {
+    "id": "269a6a0cbd0ecab12e0ce9dccad33cda845135227ebc14eb1fcddb7272937b65",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Here's the 1 Thing I'd Wait to See Before Buying SpaceX Stock.",
+    "author": "Leo Sun",
+    "published_utc": "2026-10-10T17:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/10/heres-the-1-thing-id-wait-to-see-before-buying-spa/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890652%2Fpiggy-bank-blasting-off-like-a-rocket.jpg&w=1200&op=resize",
+    "description": "SpaceX stock has declined from its IPO high despite strong growth prospects in Starlink and Starship. However, the company's AI business segment is a major concern, with operating losses widening from $2.46 billion to $3.73 billion in H1 2026, erasing Starlink's $2.84 billion operating profit. At a 49x sales valuation with a $2.2 trillion market cap, the analyst recommends waiting until SpaceX proves its AI investments are not just a money pit before investing.",
+    "keywords": [
+      "SpaceX IPO",
+      "AI losses",
+      "Starlink profitability",
+      "capital-intensive expansion",
+      "valuation concerns",
+      "Starship launches",
+      "T-Mobile spectrum acquisition"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The article expresses caution about SpaceX's investment thesis due to massive and widening AI segment losses ($3.73B in H1 2026) that are offsetting Starlink's profitability. The high 49x sales valuation combined with capital-intensive AI spending and rising interest rate concerns make the stock unattractive until the AI business proves viable."
+      },
+      {
+        "ticker": "TMUS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only in the context of SpaceX acquiring its 800 MHz spectrum, which could benefit SpaceX's mobile ambitions. The article does not provide direct analysis or sentiment regarding T-Mobile itself."
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only in the context of SpaceX acquiring its 800 MHz spectrum, which could benefit SpaceX's mobile ambitions. The article does not provide direct analysis or sentiment regarding T-Mobile itself."
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only in the context of SpaceX acquiring its 800 MHz spectrum, which could benefit SpaceX's mobile ambitions. The article does not provide direct analysis or sentiment regarding T-Mobile itself."
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "T-Mobile is mentioned only in the context of SpaceX acquiring its 800 MHz spectrum, which could benefit SpaceX's mobile ambitions. The article does not provide direct analysis or sentiment regarding T-Mobile itself."
+      }
+    ]
+  },
+  {
+    "id": "5fcd379af453a6a0fdd8d1ff6dffa8bbbaa4a407fadd65d4b2d140686587d57a",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Stock Market Today, Oct. 9: AT&T Slides on SpaceX Spectrum Deal Threat",
+    "author": "Will Healy",
+    "published_utc": "2026-10-09T21:20:01Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/10/09/stock-market-today-oct-9-at-and-t-slides-on-spacex-spectrum-deal-threat/?source=iedfolrf0000001",
     "tickers": [
       "T",
       "TBB",
       "TpA",
       "TpC",
-      "LFMD",
-      "LFMDP",
       "VZ",
       "TMUS",
       "TMUSI",
       "TMUSL",
       "TMUSZ"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/35/1193.jpg",
-    "description": "AT&T has partnered with LifeMD to offer complimentary virtual healthcare and pharmacy services to eligible wireless and fiber customers, waiving the $19 monthly membership fee. The benefit initially covers 29 million customers in 11 states with nationwide expansion expected in January 2027. AT&T faces competition from Verizon and T-Mobile, which are also advancing healthcare technology offerings. AT&T shares have underperformed the industry over the past year, currently holding a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F94ee821c5ecfc6553bc38946717aa3b0c80244f5-2000x1329.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "SpaceX's acquisition of 800 MHz low-band spectrum triggered a sharp selloff in legacy wireless carriers on October 9, 2026. AT&T dropped 9.81%, Verizon fell 8.75%, and T-Mobile declined 13.27% as investors worried about increased competition and the erosion of the telecom oligopoly. However, analysts note AT&T's strong dividend yield (5%) and fiber infrastructure may provide some downside protection.",
     "keywords": [
-      "virtual healthcare",
-      "telemedicine",
-      "partnership",
-      "wireless services",
-      "pharmacy services",
-      "customer benefits",
-      "5G healthcare",
-      "telehealth competition"
+      "spectrum acquisition",
+      "wireless competition",
+      "telecom oligopoly",
+      "satellite connectivity",
+      "dividend yield",
+      "market selloff"
     ],
     "insights": [
       {
         "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the LifeMD partnership expands customer benefits and supports engagement, AT&T shares have underperformed significantly (down 8.9% over the past year vs. industry growth of 94.3%), and the company carries a Hold rating. The initiative is positive but insufficient to offset broader market underperformance."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 9.81% due to SpaceX spectrum deal threatening competitive landscape and investment thesis. However, article notes potential buying opportunity given strong dividend (5% yield) and fiber infrastructure moat."
       },
       {
         "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the LifeMD partnership expands customer benefits and supports engagement, AT&T shares have underperformed significantly (down 8.9% over the past year vs. industry growth of 94.3%), and the company carries a Hold rating. The initiative is positive but insufficient to offset broader market underperformance."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 9.81% due to SpaceX spectrum deal threatening competitive landscape and investment thesis. However, article notes potential buying opportunity given strong dividend (5% yield) and fiber infrastructure moat."
       },
       {
         "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the LifeMD partnership expands customer benefits and supports engagement, AT&T shares have underperformed significantly (down 8.9% over the past year vs. industry growth of 94.3%), and the company carries a Hold rating. The initiative is positive but insufficient to offset broader market underperformance."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 9.81% due to SpaceX spectrum deal threatening competitive landscape and investment thesis. However, article notes potential buying opportunity given strong dividend (5% yield) and fiber infrastructure moat."
       },
       {
         "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the LifeMD partnership expands customer benefits and supports engagement, AT&T shares have underperformed significantly (down 8.9% over the past year vs. industry growth of 94.3%), and the company carries a Hold rating. The initiative is positive but insufficient to offset broader market underperformance."
-      },
-      {
-        "ticker": "LFMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The partnership with AT&T provides significant exposure to over 100 million eligible customers, representing substantial growth potential for LifeMD's virtual care and pharmacy services platform."
-      },
-      {
-        "ticker": "LFMDP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The partnership with AT&T provides significant exposure to over 100 million eligible customers, representing substantial growth potential for LifeMD's virtual care and pharmacy services platform."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 9.81% due to SpaceX spectrum deal threatening competitive landscape and investment thesis. However, article notes potential buying opportunity given strong dividend (5% yield) and fiber infrastructure moat."
       },
       {
         "ticker": "VZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Verizon is advancing healthcare technology with AI-powered telehealth solutions and connected care platforms, positioning it competitively in the healthcare sector alongside AT&T and T-Mobile."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 8.75% as sector peer absorbed SpaceX spectrum news, facing similar competitive threats as AT&T in the wireless market."
       },
       {
         "ticker": "TMUS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "T-Mobile is strengthening healthcare offerings through 5G and wireless technologies for telehealth and virtual care, competing directly with AT&T's healthcare expansion efforts."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, the steepest decline among the three carriers, reflecting heightened investor concern about SpaceX entering the wireless market as a fourth competitor."
       },
       {
         "ticker": "TMUSI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "T-Mobile is strengthening healthcare offerings through 5G and wireless technologies for telehealth and virtual care, competing directly with AT&T's healthcare expansion efforts."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, the steepest decline among the three carriers, reflecting heightened investor concern about SpaceX entering the wireless market as a fourth competitor."
       },
       {
         "ticker": "TMUSL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "T-Mobile is strengthening healthcare offerings through 5G and wireless technologies for telehealth and virtual care, competing directly with AT&T's healthcare expansion efforts."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, the steepest decline among the three carriers, reflecting heightened investor concern about SpaceX entering the wireless market as a fourth competitor."
       },
       {
         "ticker": "TMUSZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "T-Mobile is strengthening healthcare offerings through 5G and wireless technologies for telehealth and virtual care, competing directly with AT&T's healthcare expansion efforts."
-      }
-    ]
-  },
-  {
-    "id": "193d4ccfb19a7dcf28f81c538931be1ee5b42e94ae72217aead683b9ba2058f3",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Nokia accelerates AI-RAN adoption as global operators embrace AI-native network evolution on NVIDIA platforms",
-    "author": "Nokia Press Office",
-    "published_utc": "2026-09-16T09:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/16/3362943/0/en/nokia-accelerates-ai-ran-adoption-as-global-operators-embrace-ai-native-network-evolution-on-nvidia-platforms.html",
-    "tickers": [
-      "NOK",
-      "NVDA",
-      "CHT",
-      "TMUS",
-      "TMUSI",
-      "TMUSL",
-      "TMUSZ",
-      "SFTBY"
-    ],
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/e6523d78-c43a-4057-8aa9-68206d3af4a8",
-    "description": "Nokia announced expanding global momentum for AI-RAN technology, with major telecom operators across multiple regions advancing from evaluation to live field trials. The AI-RAN platform has delivered over 20% improvements in spectral efficiency, with further gains planned through 2028. The partnership with NVIDIA and growing operator ecosystem demonstrates AI-RAN's transition from research concept to commercial deployment for 5G and 6G networks.",
-    "keywords": [
-      "AI-RAN",
-      "5G",
-      "6G",
-      "spectral efficiency",
-      "AI-native networks",
-      "telecom operators",
-      "software-defined networks",
-      "network capacity"
-    ],
-    "insights": [
-      {
-        "ticker": "NOK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nokia is leading AI-RAN commercialization with expanding global operator partnerships, demonstrated 20% spectral efficiency improvements, and a clear roadmap for continued innovation through 2028. The company is positioning itself as the industry leader in AI-native network platforms."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA's Aerial RAN Computer is integral to Nokia's AI-RAN platform deployment across multiple global operators. The partnership positions NVIDIA as a critical infrastructure provider for the emerging AI-native telecom ecosystem."
-      },
-      {
-        "ticker": "CHT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Chunghwa Telecom is engaged in AI-RAN trials with Nokia, demonstrating commitment to AI-native network evolution and positioning for competitive advantage in 5G/6G deployment."
-      },
-      {
-        "ticker": "TMUS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is among early evaluators of Nokia's AI-RAN platform, positioning the company to benefit from spectral efficiency improvements and new service opportunities."
-      },
-      {
-        "ticker": "TMUSI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is among early evaluators of Nokia's AI-RAN platform, positioning the company to benefit from spectral efficiency improvements and new service opportunities."
-      },
-      {
-        "ticker": "TMUSL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is among early evaluators of Nokia's AI-RAN platform, positioning the company to benefit from spectral efficiency improvements and new service opportunities."
-      },
-      {
-        "ticker": "TMUSZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "T-Mobile is among early evaluators of Nokia's AI-RAN platform, positioning the company to benefit from spectral efficiency improvements and new service opportunities."
-      },
-      {
-        "ticker": "SFTBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SoftBank is participating in AI-RAN evaluations, gaining early access to technology that can improve network capacity and operational efficiency."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 13.27%, the steepest decline among the three carriers, reflecting heightened investor concern about SpaceX entering the wireless market as a fourth competitor."
       }
     ]
   }

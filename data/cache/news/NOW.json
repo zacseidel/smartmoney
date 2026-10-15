@@ -1,290 +1,286 @@
 [
   {
-    "id": "b28f0b32ecf266ccd5a4cd9ae7586b502dc7b24724220cdc64b003775d356bcf",
+    "id": "e9377becb1c9a23912e0edf683c9463fdd485dd18a5c3499313f7acc22d59870",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is ServiceNow the Ultimate Enterprise Software Stock?",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-09-26T00:25:27Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/is-servicenow-the-ultimate-enterprise-software-sto/?source=iedfolrf0000001",
+    "title": "Over 25% of the Stocks in the S&P 500 Are Down 40% or More. 4 Bargain Tech Stocks to Buy Now",
+    "author": "Geoffrey Seiler",
+    "published_utc": "2026-10-14T19:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/14/over-25-stocks-sp-500-down-bargain-tech-buy/?source=iedfolrf0000001",
     "tickers": [
+      "NFLX",
+      "ORCL",
+      "ORCLpD",
       "NOW",
-      "CRM",
-      "FIG"
+      "APP",
+      "U"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889287%2F6-servicenow.jpg&w=1200&op=resize",
-    "description": "ServiceNow is effectively incorporating AI into its enterprise software services, with management successfully addressing investor concerns about AI integration. The company is positioned as a strong contender in the enterprise software sector.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890836%2Fgettyimages-1394998866.jpg&w=1200&op=resize",
+    "description": "With over 25% of S&P 500 stocks down 40% or more from their highs, the article identifies four undervalued tech stocks as bargain opportunities: Netflix benefits from recession-resistant streaming and advertising growth; Oracle offers leveraged exposure to cloud computing with a massive backlog; ServiceNow is well-positioned for agentic AI orchestration; and AppLovin trades at a cheap valuation with strong revenue and earnings growth.",
     "keywords": [
-      "ServiceNow",
-      "AI integration",
-      "enterprise software",
+      "bargain stocks",
+      "tech stocks",
+      "S&P 500",
       "cloud computing",
-      "technology stocks"
+      "artificial intelligence",
+      "SaaS",
+      "undervalued"
     ],
     "insights": [
       {
-        "ticker": "NOW",
+        "ticker": "NFLX",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights ServiceNow's effective incorporation of AI into its services and management's success in addressing investor concerns. The title frames it as 'the ultimate enterprise software stock,' and related articles mention predictions of AI business tripling before 2029, indicating strong growth potential and positive market positioning."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Salesforce is mentioned only in a comparative article title ('Salesforce vs. ServiceNow') with no substantive analysis or sentiment indicators provided in the main article content."
-      },
-      {
-        "ticker": "FIG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Figma is mentioned only in a comparative article title ('Figma vs. ServiceNow') with no substantive analysis or sentiment indicators provided in the main article content."
-      }
-    ]
-  },
-  {
-    "id": "5dc750709aaac9bb68a2fc8f97126f140a677d8f5f384ad959cc68e9baa8e9b4",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "AI Automation Market to Reach USD 2,041.82 Billion by 2035, Expanding at 31.62% CAGR as Enterprises Accelerate Intelligent Automation",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-25T06:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368860/0/en/ai-automation-market-to-reach-usd-2-041-82-billion-by-2035-expanding-at-31-62-cagr-as-enterprises-accelerate-intelligent-automation.html",
-    "tickers": [
-      "MSFT",
-      "PATH",
-      "IBM",
-      "NOW",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
-      "ACN",
-      "APPN",
-      "PEGA",
-      "ORCL",
-      "ORCLpD",
-      "CRM"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global AI Automation Market is projected to grow from USD 131.19 billion in 2025 to USD 2,041.82 billion by 2035, with a CAGR of 31.62%. North America leads with 32.70% market share, while Asia Pacific shows the fastest growth at 33.07% CAGR. Cloud deployment dominates with 71% share, and intelligent process automation leads automation types. Large enterprises currently control 67% of the market, though SMEs are growing fastest. Key drivers include enterprise AI adoption, generative AI integration, and cloud-based solutions.",
-    "keywords": [
-      "AI Automation",
-      "Market Growth",
-      "Cloud Deployment",
-      "Intelligent Process Automation",
-      "Enterprise Adoption",
-      "Generative AI",
-      "Agentic AI",
-      "Digital Transformation"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player in AI automation; recent developments highlight ServiceNow's integration with Microsoft Agent 365, positioning Microsoft as a central player in enterprise AI orchestration and autonomous workflows."
-      },
-      {
-        "ticker": "PATH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with recent 2026 developments showing enterprise AI adoption survey and business orchestration capabilities for scaling agentic AI, demonstrating active innovation and market leadership."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player in the rapidly growing AI automation sector with strong positioning in enterprise software and AI solutions."
-      },
-      {
-        "ticker": "NOW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with recent 2026 developments expanding AI agent governance and integration capabilities, demonstrating active participation in the high-growth AI automation market."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with cloud and AI capabilities positioned to benefit from the 31.62% CAGR growth in AI automation market."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with cloud infrastructure dominance (71% market share in cloud deployment) providing scalable AI automation solutions."
-      },
-      {
-        "ticker": "ACN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player positioned to benefit from enterprise AI automation adoption and digital transformation services."
-      },
-      {
-        "ticker": "APPN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with recent 2026 developments introducing enhancements to agentic automation and AI-assisted development capabilities."
-      },
-      {
-        "ticker": "PEGA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player in business process automation and intelligent automation solutions in the high-growth AI automation market."
+        "sentiment_reasoning": "Stock is down significantly but company shows recession-resistant business model, strong advertising growth potential, pricing power, and attractive forward P/E of 18.5x with continued subscriber growth opportunities."
       },
       {
         "ticker": "ORCL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with enterprise software and cloud capabilities to support AI automation adoption across organizations."
+        "sentiment_reasoning": "Major growth in cloud computing infrastructure with $664 billion backlog; beaten-down stock price offers upside potential despite high leverage and cash burn concerns; strong cloud computing economics with quick paybacks."
       },
       {
         "ticker": "ORCLpD",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key market player with enterprise software and cloud capabilities to support AI automation adoption across organizations."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key market player positioned to benefit from AI automation adoption in customer service, marketing, and enterprise workflows."
-      }
-    ]
-  },
-  {
-    "id": "e3b7ff02f257401bb86c0d1cc787d9c088bcfbc55c006e433a933d60c83e8d88",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-09-24T21:33:48Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/09/24/stock-market-today-sept-24-oracle-stock-dips-as-it-issues-force-majeure-notice-on-project-jupiter-data-center/?source=iedfolrf0000001",
-    "tickers": [
-      "ORCL",
-      "ORCLpD",
-      "CRM",
-      "NOW"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feebe7e12e410c082d3c847f0413d646229dc8d1f-200x200.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Oracle stock fell 3.47% after issuing a force majeure notice for its Project Jupiter data center in New Mexico, citing construction delays and regulatory hurdles. The move signals challenges in data center development but is primarily a legal protection measure. Oracle's heavy debt load for AI infrastructure investments has raised concerns, with credit default swaps hitting record highs.",
-    "keywords": [
-      "Oracle",
-      "Project Jupiter",
-      "data center",
-      "force majeure",
-      "AI infrastructure",
-      "debt concerns",
-      "stock decline"
-    ],
-    "insights": [
-      {
-        "ticker": "ORCL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 3.47% following force majeure notice on Project Jupiter data center. Concerns about high debt levels funding AI ambitions, regulatory delays, and market scrutiny on AI capex ROI weigh on investor confidence."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock declined 3.47% following force majeure notice on Project Jupiter data center. Concerns about high debt levels funding AI ambitions, regulatory delays, and market scrutiny on AI capex ROI weigh on investor confidence."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Closed up 0.35% with minimal movement. Mentioned as a peer in enterprise software sector showing mixed trading patterns alongside Oracle's decline."
+        "sentiment_reasoning": "Major growth in cloud computing infrastructure with $664 billion backlog; beaten-down stock price offers upside potential despite high leverage and cash burn concerns; strong cloud computing economics with quick paybacks."
       },
       {
         "ticker": "NOW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Deeply embedded software platform well-positioned for agentic AI era; attractive forward P/S multiple of 7.5x; positioned as likely leader in AI Control Tower orchestration space with significant growth opportunity."
+      },
+      {
+        "ticker": "APP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Trading at rock-bottom valuation of 13x 2027 earnings; strong growth metrics with 53% revenue growth and 66% EPS surge; expanding into consumer vertical with positive analyst indicators for future growth."
+      },
+      {
+        "ticker": "U",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Declined 2.11%, showing weakness but less severe than Oracle. Mentioned as a peer in the enterprise software/cloud infrastructure sector with mixed sector performance."
+        "sentiment_reasoning": "Mentioned as increased competition to AppLovin in gaming ad space, but no direct investment recommendation or detailed analysis provided."
       }
     ]
   },
   {
-    "id": "a6e907d2105daf104ac2a7962e75170358298fa2302672eabc57d5782e44ce83",
+    "id": "9b40b29466f8591bbf86e9e880311112533cd0ce2e13b19aebe75c53ca73a3c9",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "ServiceNow (NOW) Stock Falls Amid Market Uptick: What Investors Need to Know",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-18T21:45:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2992331/servicenow-now-stock-falls-amid-market-uptick-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2992331",
+    "title": "Salesforce vs. ServiceNow: Which AI Software Stock Has the Edge?",
+    "author": "Na",
+    "published_utc": "2026-10-14T13:50:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3007130/salesforce-vs-servicenow-which-ai-software-stock-has-the-edge?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3007130",
     "tickers": [
+      "CRM",
       "NOW"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default143.jpg",
-    "description": "ServiceNow stock declined 2.17% to $135.47 while the broader market gained, underperforming the S&P 500. Despite strong expected earnings growth (EPS up 7.29%, revenue up 20.27% year-over-year), the stock carries a Zacks Rank #4 (Sell) rating due to its premium valuation at a Forward P/E of 34.1 versus the industry average of 13.72.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/76/103.jpg",
+    "description": "Salesforce and ServiceNow are both expanding their AI capabilities, but Salesforce emerges as the more attractive investment. Salesforce's Agentforce ARR surged 240% YoY to $1.5B with rising earnings estimates, while trading at a forward P/E of 14.76 versus ServiceNow's 28.99. ServiceNow shows strong AI adoption but faces margin pressure from higher infrastructure costs and acquisition-related financial risks.",
     "keywords": [
-      "ServiceNow",
-      "stock decline",
-      "valuation premium",
-      "earnings growth",
-      "Zacks Rank",
-      "market underperformance"
+      "artificial intelligence",
+      "enterprise software",
+      "AI adoption",
+      "earnings estimates",
+      "valuation",
+      "workflow automation",
+      "cloud infrastructure"
     ],
     "insights": [
       {
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Rapid AI growth with Agentforce ARR up 240% YoY to $1.5B, upward earnings estimate revisions (18% increase over 60 days), lower forward P/E valuation of 14.76, and successful conversion of large customer base to AI products."
+      },
+      {
         "ticker": "NOW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 2.17% while the market rose, underperforming the S&P 500. Despite positive earnings growth expectations, the company received a Zacks Rank #4 (Sell) rating due to significantly elevated valuation metrics (Forward P/E of 34.1 vs. industry average of 13.72), suggesting the stock is overpriced relative to growth prospects."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong AI ACV growth exceeding $1B with 40% sequential acceleration and 9x increase in Agentic AI production customers, but offset by declining gross margins (78% vs 81% YoY), higher AI infrastructure costs, flat earnings estimates over 60 days, and elevated valuation at 28.99 forward P/E with acquisition-related financial risks."
       }
     ]
   },
   {
-    "id": "430e3428cc0c18aef7a50c4a1dd79a90e7ce6b64372bcefda3a466605791527e",
+    "id": "487ef062aac7649b00057a0d6b13d0bfa9e5f43b1cf6f1c839eaa1a095ffde66",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "UiPath Stock Gains 33% in 6 Months: Should You Buy, Hold or Fold?",
+    "author": "Na",
+    "published_utc": "2026-10-13T17:44:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3006396/uipath-stock-gains-33-in-6-months-should-you-buy-hold-or-fold?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3006396",
+    "tickers": [
+      "PATH",
+      "NOW",
+      "PEGA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/27/146557.webp",
+    "description": "UiPath (PATH) has gained 33% over six months, driven by expanding AI capabilities through its Maestro platform and improving profitability. Q2 revenues rose 13% to $410M with ARR climbing 12% to $1.94B. Trading at a forward P/E of 15.29 versus the industry average of 30.92, PATH appears undervalued. However, intensifying competition and uncertain enterprise spending pose risks to growth.",
+    "keywords": [
+      "robotic process automation",
+      "enterprise automation",
+      "agentic AI",
+      "business process orchestration",
+      "recurring revenue",
+      "valuation",
+      "profitability"
+    ],
+    "insights": [
+      {
+        "ticker": "PATH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 33% six-month performance, 13% revenue growth, 12% ARR growth, fourth consecutive quarter of GAAP profitability, healthy balance sheet with $1.4B cash, expanding AI adoption (18 of 20 largest deals incorporated AI), and attractive forward P/E of 15.29 versus industry 30.92. Zacks Rank #2 (Buy) rating supports positive outlook."
+      },
+      {
+        "ticker": "NOW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positioned as an industry peer with established customer relationships and expanding AI capabilities in enterprise workflow automation. However, rising competition and continued investment requirements could pressure profitability, creating a balanced risk-reward profile."
+      },
+      {
+        "ticker": "PEGA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Relevant industry peer offering exposure to intelligent automation and enterprise software modernization. Benefits from digital transformation demand but faces competitive pressures and enterprise budget fluctuations that could affect growth prospects."
+      }
+    ]
+  },
+  {
+    "id": "bee466a5ced9d47f5bf4e6a914d1d91042cdace0944791881aeb40dd540475a2",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "PagerDuty's 2026 Outlook: Operational Discipline and New AI Opportunities Sustains Profitable Growth Model",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-09-15T18:19:40Z",
-    "article_url": "https://www.fool.com/coverage/moneyball/2026/09/15/pagerduty-s-2026-outlook-operational-discipline-and-new-ai-opportunities-sustains-profitable-growth-model/?source=iedfolrf0000001",
+    "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Jake Lerch",
+    "published_utc": "2026-10-12T13:15:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/12/salesforce-vs-servicenow-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "PD",
-      "NOW"
+      "CRM",
+      "NOW",
+      "ORCL",
+      "ORCLpD",
+      "SAP",
+      "NVDA",
+      "MSFT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fee2536293fe6e64aadb617f68d8a7b9448ba5dda-1200x675.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "PagerDuty has achieved five consecutive quarters of GAAP profitability and generated $33 million in free cash flow, earning a Superscore of 72. However, revenue growth has stalled at less than 1% year-over-year, and the company faces competitive pressure from platform giants bundling incident response tools. The company is transitioning to consumption-based pricing and positioning AI as a growth driver to reignite expansion.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fd4642345d1026bdd09837ea749083ffcc30ccc87-2120x1414.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Salesforce and ServiceNow represent a classic growth-versus-value investment choice in enterprise software. Salesforce offers superior profitability (21.5% operating margin), lower valuation (13.4x forward P/E), and strong free cash flow, while ServiceNow delivers faster revenue growth (20.9% YoY) and AI-driven momentum but trades at a premium valuation (33.9x forward P/E). The article concludes Salesforce has distinct advantages in profitability and valuation for 2026.",
     "keywords": [
-      "PagerDuty",
+      "enterprise software",
+      "CRM",
+      "workflow automation",
+      "AI platform",
+      "valuation comparison",
       "profitability",
-      "revenue stagnation",
-      "AI opportunities",
-      "SaaS",
-      "operational discipline",
-      "consumption-based pricing",
-      "competitive pressure"
+      "revenue growth",
+      "cloud computing"
     ],
     "insights": [
       {
-        "ticker": "PD",
+        "ticker": "CRM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong profitability with 18% net margin and 21.5% operating margin, lower valuation at 13.4x forward P/E, robust free cash flow of $14.4B, well-diversified customer base, and improved operational efficiency. Article concludes it has distinct advantages in profitability and valuation."
+      },
+      {
+        "ticker": "NOW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Delivers superior revenue growth at 20.9% YoY, strong AI-powered platform momentum, strategic partnerships with Nvidia and Microsoft, and serves 8,700 enterprise customers including 600+ high-value clients. However, higher valuation at 33.9x forward P/E and lower profitability margins limit its relative attractiveness."
+      },
+      {
+        "ticker": "ORCL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed signals: positive on achieving profitability, strong free cash flow, and capital efficiency; negative on revenue growth stagnation (less than 1% YoY), declining net retention rate (98%), and competitive threats from larger platforms. The company shows promise in AI-driven growth but faces near-term headwinds."
+        "sentiment_reasoning": "Mentioned as an established competitor to Salesforce in the enterprise software market, representing competitive pressure but no specific performance data provided."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an established competitor to Salesforce in the enterprise software market, representing competitive pressure but no specific performance data provided."
+      },
+      {
+        "ticker": "SAP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an established competitor to Salesforce in the enterprise software market, representing competitive pressure but no specific performance data provided."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic technology partner to ServiceNow for enhancing platform capabilities, but no direct investment thesis or performance analysis provided."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic technology partner to ServiceNow for enhancing platform capabilities, but no direct investment thesis or performance analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "7d44f347dc06005eecc91c398813e0bc17f5c6cb75252a09f261b3bdfe34198d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Here's Where Palantir and 4 Other AI Software Stocks Could Be in 5 Years",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-09T08:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/09/where-palantir-ai-software-stock-crwd-soun-app/?source=iedfolrf0000001",
+    "tickers": [
+      "PLTR",
+      "CRWD",
+      "SOUN",
+      "SOUNW",
+      "APP",
+      "NOW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890092%2Fgettyimages-1952157610-2000x800-f66caaf.jpg&w=1200&op=resize",
+    "description": "The article analyzes five AI software stocks divided into two camps: those proving AI revenue (Palantir, CrowdStrike) trading at steep valuations with limited room for error, and those offering faster growth at lower multiples (SoundHound, AppLovin, ServiceNow). Each company presents different risk-reward profiles over the next five years, with concerns ranging from valuation sustainability to market dependency.",
+    "keywords": [
+      "AI software stocks",
+      "revenue growth",
+      "valuation multiples",
+      "artificial intelligence",
+      "enterprise software",
+      "cybersecurity",
+      "AI adoption"
+    ],
+    "insights": [
+      {
+        "ticker": "PLTR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "93% revenue growth with U.S. commercial revenue up 149%, demonstrating AI platform (AIP) converting to actual contracts. However, 75x trailing sales valuation leaves no room for deceleration, creating execution risk."
+      },
+      {
+        "ticker": "CRWD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "$5.25B ARR growing 24% with Falcon Flex AI platform at $2.29B ARR up 101% YoY. Strong cybersecurity tailwinds and AI agent security positioning support growth, though 51x sales multiple is steep."
+      },
+      {
+        "ticker": "SOUN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Real AI voice technology adoption with 45% revenue growth to $61.9M, but stock down 41% in 2026 and trading at only 12x sales. Unprofitable status and market skepticism offset strong fundamentals."
+      },
+      {
+        "ticker": "SOUNW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Real AI voice technology adoption with 45% revenue growth to $61.9M, but stock down 41% in 2026 and trading at only 12x sales. Unprofitable status and market skepticism offset strong fundamentals."
+      },
+      {
+        "ticker": "APP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "59% revenue growth with Axon ad-targeting engine growing 700% as advertisers shift to AI-optimized placements. Trades at 20x forward earnings, cheapest valuation in group, but vulnerable to advertising budget pullbacks."
       },
       {
         "ticker": "NOW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat bundling incident response tools into its platform suite, potentially commoditizing PagerDuty's core offering. No direct performance data provided, but positioned as a platform giant creating headwinds for PagerDuty."
+        "sentiment_reasoning": "AI contract value crossed $1B with production deployments up 9x in nine months, but still small relative to total revenue. Trades at 29x forward earnings (cheapest in group), but AI layer may not become headline growth driver."
       }
     ]
   }

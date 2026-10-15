@@ -1,0 +1,26 @@
+{
+  "ticker": "EVAX",
+  "name": "Evaxion A/S American Depositary Share",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "ADRC",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001828253",
+  "composite_figi": "BBG00YTSS733",
+  "share_class_figi": "BBG00YTSS7Z8",
+  "market_cap": 24899293.08,
+  "description": "Evaxion AS is a clinical-stage TechBio company developing novel vaccines with its proprietary, clinically validated and scalable AI platform, AI-Immunology. The platform harnesses the power of artificial intelligence to decode the human immune system and develop novel vaccine candidates for cancer and infectious diseases for patients in the market. Evaxion has developed a clinical-stage oncology pipeline of novel personalised vaccines and a preclinical infectious disease pipeline in bacterial and viral diseases with high unmet medical needs. The group is committed to transforming patients' lives by providing inventive and targeted treatment options.",
+  "ticker_root": "EVAX",
+  "homepage_url": "https://www.evaxion.ai",
+  "total_employees": 46,
+  "list_date": "2021-02-05",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/ZXZheGlvbi5haQ/images/2026-10-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/ZXZheGlvbi5haQ/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 9021483,
+  "weighted_shares_outstanding": 9021483,
+  "round_lot": 100
+}
