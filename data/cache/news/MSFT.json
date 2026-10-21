@@ -1,333 +1,263 @@
 [
   {
-    "id": "4a7cb333f8dba33a228439fd478420ade54b8c89beb78403956c2c01c134cd0c",
+    "id": "199b681c4937e66a4f5c54c487b8f7879e733e5eff9765e9b677326575d1fbca",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Department of Energy Announces a New Multi-Billion-Dollar Nuclear Energy Deal",
-    "author": "Neha Chamaria",
-    "published_utc": "2026-10-06T18:41:48Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/department-of-energy-announces-a-new-multi-billion-dollar-nuclear-energy-deal/?source=iedfolrf0000001",
+    "title": "Notified Opens Model Context Protocol (MCP) Beta Program for PR and IR Data and Services",
+    "author": "Notified",
+    "published_utc": "2026-10-21T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/21/3385795/0/en/notified-opens-model-context-protocol-mcp-beta-program-for-pr-and-ir-data-and-services.html",
     "tickers": [
-      "VST",
-      "CEG",
-      "META",
-      "MSFT",
-      "BEP",
-      "BEPH",
-      "BEPI",
-      "BEPJ",
-      "BEPpA",
-      "CCJ"
+      "MSFT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F72e89a8ac85539d46c47bfb95dc9b7f7b8c235d8-5237x3922.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Department of Energy announced a $4.2 billion loan commitment to Vistra to extend and upgrade three nuclear plants in Pennsylvania and Ohio, preserving 4 GW of power and adding 433 MW of new capacity. This deal is part of Trump's broader initiative to quadruple U.S. nuclear capacity to 400 GW by 2050. Meta has already signed a 20-year power purchase agreement with Vistra for 2,609 MW from these plants, highlighting how existing reactor owners are positioned to benefit most from the nuclear renaissance driven by AI energy demands.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/5ee24f13-0f4b-420a-9586-e4b21532dca3",
+    "description": "Notified has opened a beta program for Notified MCP, which connects its Content OS and IR Hub platforms to AI agents like Microsoft Teams and Copilot. The offering enables PR and IR professionals to access press release analytics, IR events, website metrics and market intelligence through conversational AI without switching between platforms. The service will expand to ChatGPT, Claude and Gemini, with security built around existing enterprise approval processes.",
     "keywords": [
-      "nuclear energy",
-      "Department of Energy",
-      "loan commitment",
-      "power generation",
-      "AI energy demand",
-      "reactor uprates",
-      "power purchase agreements"
-    ],
-    "insights": [
-      {
-        "ticker": "VST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $4.2 billion DOE loan commitment to extend and upgrade three nuclear plants for 20 additional years, with Meta already committed to purchasing 2,609 MW of power. Positioned as second-largest nuclear fleet owner among competitive power producers."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $1 billion DOE loan to restart Three Mile Island Unit 1 (835 MW) with Microsoft already committed as a power buyer. Operates the largest nuclear fleet in the U.S., well-positioned for the nuclear renaissance."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed 20-year power purchase agreements with Vistra for 2,609 MW, securing reliable nuclear power for AI operations and data centers."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Already signed power purchase agreement with Constellation Energy for Three Mile Island output, securing clean energy for AI and data center operations."
-      },
-      {
-        "ticker": "BEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "CCJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment, benefiting from nuclear industry expansion."
-      }
-    ]
-  },
-  {
-    "id": "c5403e66dbd74dcde0481a2ab7be6edd17f1acdf820af94d9d18ebce965f1dfd",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Magnificent AI Cloud Computing Stocks That Could Help Set You Up for Life",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-10-06T18:18:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/3-magnificent-ai-cloud-computing-stocks-that-could/?source=iedfolrf0000001",
-    "tickers": [
-      "MSFT",
-      "AMZN",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889151%2Fgettyimages-987686438-1423x800-e1b8658.jpg&w=1200&op=resize",
-    "description": "Microsoft, Amazon, and Oracle have secured hundreds of billions in contracted AI cloud revenue, demonstrating that AI demand is translating into real business commitments. Microsoft's Azure is running at $100B annually with a $678B backlog, Amazon Web Services locked in a $100B decade-long deal with Anthropic, and Oracle has a $664B backlog (with $300B from OpenAI). While these established tech giants face risks including potential AI spending slowdowns and customer concentration, their massive contracted backlogs and continued infrastructure investments suggest their AI cloud businesses are still in early growth stages.",
-    "keywords": [
-      "AI cloud computing",
-      "contracted revenue",
-      "Azure",
-      "AWS",
-      "Oracle cloud",
-      "AI infrastructure",
-      "data center capacity",
-      "customer commitments"
+      "AI agents",
+      "Model Context Protocol",
+      "PR workflows",
+      "investor relations",
+      "Microsoft Teams",
+      "Copilot",
+      "GlobeNewswire",
+      "enterprise automation",
+      "data integration"
     ],
     "insights": [
       {
         "ticker": "MSFT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Azure revenue growing 43% year-over-year at $100B annual run rate with $678B contracted backlog provides strong visibility into future growth. Microsoft 365 Copilot has reached 30 million paid subscribers, demonstrating real AI product adoption."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS secured a landmark $100B decade-long commitment from Anthropic and Amazon's custom Trainium chips are reportedly nearly sold out. However, sentiment is tempered by the massive $220B 2026 capital spending budget, which poses margin risk if AI demand cools."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
+        "sentiment_reasoning": "Microsoft's Teams and Copilot platforms are selected as the primary launch partners for Notified MCP, highlighting the strategic importance and widespread enterprise adoption of Microsoft 365 in the communications sector."
       }
     ]
   },
   {
-    "id": "166ece0955db057bf3d36002580116a4be472df6db9445f0e6e4d7f976e8739d",
+    "id": "81313f896cc257ddfccbff4133e4b8ab9e4ca6ec6426d2b7e2523fd6b0638684",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
-    "author": "Leo Sun",
-    "published_utc": "2026-10-06T16:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/history-says-infrastructure-booms-create-winners-a/?source=iedfolrf0000001",
+    "title": "Microsoft Must Say This on Oct. 28 or the Stock Will Go Into Free Fall",
+    "author": "Keithen Drury",
+    "published_utc": "2026-10-21T16:57:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/microsoft-must-say-this-on-oct-28-or-the-stock-wil/?source=iedfolrf0000001",
     "tickers": [
-      "AMZN",
-      "CRWV",
-      "EQIX",
-      "META",
       "MSFT",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890087%2Fai-brain.jpg&w=1200&op=resize",
-    "description": "As AI infrastructure demand grows, three companies are positioned to benefit: Amazon's AWS controls 28% of the cloud market with strong AI services; CoreWeave operates 51 data centers with a $104.2B revenue backlog and 102% projected revenue CAGR; and Equinix, a data center REIT with 282 global facilities, offers dividend income with 15% EPS growth expected through 2028.",
-    "keywords": [
-      "AI infrastructure",
-      "cloud computing",
-      "data centers",
-      "GPU processing",
-      "AI market expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS dominates 28% of cloud market, hosts major AI services (Bedrock, SageMaker), expected 15% revenue and 24% EPS CAGR through 2028, reasonably valued at 24x forward earnings"
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explosive growth with 102% revenue and 110% EBITDA CAGR projected, $104.2B contracted revenue backlog (20x 2025 revenue), serves major clients (Meta, Microsoft, OpenAI), claims 35x faster processing at 80% lower cost than competitors"
-      },
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "World's largest data center REIT with 282 facilities, 15% EPS CAGR expected, 2% dividend yield, serves 60% of Fortune 500, positioned to benefit from AI infrastructure expansion"
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major CoreWeave customer but no direct analysis provided; indirect beneficiary of AI infrastructure growth"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a CoreWeave customer but not analyzed in the article; indirect exposure to AI infrastructure market"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as supplier of GPUs to CoreWeave but not directly analyzed; indirect beneficiary through infrastructure buildout"
-      }
-    ]
-  },
-  {
-    "id": "6ae6a3eca607512c201b836f61844961b1b5e8dfb9c910bc71a701e5b165fcbe",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
-    "author": "Brett Schafer",
-    "published_utc": "2026-10-06T16:21:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?source=iedfolrf0000001",
-    "tickers": [
       "AMZN",
-      "NVDA",
-      "PLTR",
-      "MSFT",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889475%2Fwoman-in-an-datacenter.jpg&w=1200&op=resize",
-    "description": "Amazon is positioned as an undervalued AI play despite its $2.7 trillion market cap. AWS revenue grew 37% year-over-year to $42.2 billion, driven by AI infrastructure demand. The company is also integrating AI across its retail business through search tools, ad targeting, and supply chain automation. With projected earnings of $161 billion and a forward P/E of 17, analysts believe Amazon stock has significant upside potential.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891665%2Fperson-touching-data-on-artificial-dashboard.jpg&w=1200&op=resize",
+    "description": "Microsoft's Oct. 28 earnings report will be critical for its stock performance. The key focus is Azure cloud growth acceleration. While Azure grew 43% in Q4, competitors Amazon Web Services and Google Cloud are accelerating faster (37% and 82% respectively in Q2 2026). If Microsoft fails to report significant Azure growth acceleration, the stock could decline as investors may view it as losing cloud market share to competitors.",
     "keywords": [
-      "Amazon",
-      "AWS",
-      "artificial intelligence",
-      "cloud infrastructure",
-      "undervalued",
-      "AI growth",
-      "supply chain automation"
+      "Azure cloud growth",
+      "earnings report",
+      "cloud computing competition",
+      "AI strategy",
+      "market share",
+      "Copilot",
+      "OpenAI partnership"
     ],
     "insights": [
       {
+        "ticker": "MSFT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Azure growth is decelerating relative to competitors despite solid absolute growth rates (43%). Competitors are accelerating significantly faster, which could lead to market share loss and stock decline if acceleration isn't demonstrated in the Oct. 28 earnings report."
+      },
+      {
         "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "AWS experiencing strong 37% YoY growth driven by AI infrastructure boom; company applying AI across retail operations; analyst price target of $355 vs current $250 suggests upside; forward P/E of 17 indicates undervaluation relative to growth prospects and margin expansion potential."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a stock that has soared in recent years, but article positions Amazon as a better undervalued AI opportunity compared to Nvidia."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a stock that has performed well recently, but not the focus of the analysis."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment_reasoning": "AWS cloud growth is accelerating rapidly (24% to 37% over recent quarters), outpacing Microsoft's Azure growth trajectory and positioning Amazon favorably in the competitive cloud infrastructure market."
       },
       {
         "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       }
     ]
   },
   {
-    "id": "8129ca7bd366ca090193ac60058c2039af137695ae62e066f1b1f577b7350577",
+    "id": "fe5580e678402c69bee9bbd363858edafbfb4c8198763ab3ef3ad46af17b368d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Arista Networks vs. Datadog: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T14:20:44Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/arista-networks-vs-datadog-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "ANET",
+      "DDOG",
+      "AVGO",
+      "MSFT",
+      "CSCO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "Comparing two AI infrastructure leaders: Arista Networks, which provides physical networking switches for data centers, and Datadog, which offers cloud monitoring software. Arista shows stronger profitability (39% net margin vs. 3.1%) and lower valuation (44.5x forward P/E vs. 102.7x), while Datadog has higher gross margins (79.48% vs. 63%) and strong revenue growth. The author recommends Arista Networks for its essential role in AI infrastructure scaling, though both companies are solid performers in their respective niches.",
+    "keywords": [
+      "AI infrastructure",
+      "cloud data centers",
+      "networking hardware",
+      "observability platform",
+      "valuation comparison",
+      "profitability",
+      "growth stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "ANET",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong financial metrics with 28.6% revenue growth, exceptional 39% net margin, zero debt, $4.3B free cash flow, and dominant market position in AI data center networking. Author's top pick for infrastructure criticality."
+      },
+      {
+        "ticker": "DDOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid 27.7% revenue growth, highest gross margin at 79.48%, strong free cash flow of $1B, and consistent earnings beat. However, lower profitability (3.1% net margin), much higher valuation (102.7x forward P/E), and competitive pressures limit enthusiasm."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a critical silicon supplier to Arista Networks, representing a supply chain dependency risk rather than an investment recommendation."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
+      }
+    ]
+  },
+  {
+    "id": "b886543b2c624b811a1bacbe4e77125b44355c0224cb596ad0a0d75bd1dcd07f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Vanguard Growth ETF Outperforms Small-Cap Peer Over Five Years",
+    "author": "Jake Lerch",
+    "published_utc": "2026-10-21T13:55:02Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-growth-etf-outperforms-small-cap-peer-over-five-years/?source=iedfolrf0000001",
+    "tickers": [
+      "VUG",
+      "VBK",
+      "NVDA",
+      "AAPL",
+      "MSFT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0dbeaa0b9e42976b520af8192b7b599528bff488-4000x3000.jpg&w=1200&op=resize",
+    "description": "Vanguard Morningstar Growth ETF (VUG) significantly outperformed Vanguard Morningstar Small-Cap Growth ETF (VBK) over five years, delivering 79% total return versus 17%, driven by heavy concentration in mega-cap technology stocks. VUG offers a lower expense ratio (0.03% vs 0.05%) and better performance, while VBK provides broader diversification across 579 holdings with lower volatility for investors seeking to reduce tech exposure.",
+    "keywords": [
+      "growth ETF",
+      "mega-cap technology",
+      "small-cap growth",
+      "five-year performance",
+      "diversification",
+      "expense ratio"
+    ],
+    "insights": [
+      {
+        "ticker": "VUG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Delivered exceptional 79% total return over five years (12.3% CAGR), significantly outperformed peer, has lower expense ratio (0.03%), and benefits from heavy concentration in mega-cap tech leaders like Nvidia, Apple, and Microsoft."
+      },
+      {
+        "ticker": "VBK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Underperformed VUG with 17% total return (3.2% CAGR) over five years, but offers valuable diversification across 579 holdings with lower volatility and reduced tech concentration (27% vs 58%), appealing to risk-averse investors seeking broader exposure."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Largest holding in VUG at 13.49%, contributing to the fund's strong outperformance as a mega-cap technology leader."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Second-largest holding in VUG at 12.51%, supporting the fund's strong performance as a mega-cap tech giant."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Third-largest holding in VUG at 9.75%, contributing to the fund's outperformance as a major technology leader."
+      }
+    ]
+  },
+  {
+    "id": "074091c6509f59b5ce3d68c818c7c26bacb59e4117f5abd085c9d239caeeec74",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Nebius Stock Surges 110% in 6 Months: Time to Buy, Hold or Sell?",
+    "title": "MMM Q3 Earnings Call Highlights AI Deals and Higher Outlook",
     "author": "Na",
-    "published_utc": "2026-10-06T14:25:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3001246/nebius-stock-surges-110-in-6-months-time-to-buy-hold-or-sell?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001246",
+    "published_utc": "2026-10-21T13:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011985/mmm-q3-earnings-call-highlights-ai-deals-and-higher-outlook?cid=CS-ZC-FT-analyst_blog_plus|earnings_call_takeaways-3011985",
     "tickers": [
-      "NBIS",
-      "NVDA",
-      "MSFT",
-      "CRWV"
+      "MMM",
+      "AMZN",
+      "MSFT"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/46/91388.jpg",
-    "description": "Nebius Group has experienced explosive growth with 454% revenue increase driven by its AI business, which now represents 98% of revenues. The company signed major contracts worth over $1 billion each and raised its year-end contracted power target to 5 gigawatts. While profitability is improving with adjusted EBITDA margins expanding to 41%, heavy capital expenditures of $20-25 billion expected for 2026 and elevated valuation multiples pose risks. Analysts suggest existing investors hold while new investors wait for better entry points.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default118.jpg",
+    "description": "3M raised its 2026 adjusted EPS guidance to $9.10-$9.15, driven by strong industrial demand, expanding data center opportunities, and productivity improvements. The company expanded its Amazon partnership targeting $6 billion in cumulative sales over 7 years and achieved 110 basis points of operating margin expansion to 26.2%. However, consumer electronics weakness persists, particularly in LCD displays and Chinese device manufacturers.",
     "keywords": [
+      "3M earnings",
+      "EPS guidance raise",
+      "Amazon partnership",
       "AI infrastructure",
-      "data centers",
-      "GPU capacity",
-      "revenue growth",
-      "capital expenditure",
-      "valuation",
-      "profitability",
-      "contracted power"
+      "operating margin expansion",
+      "industrial demand",
+      "optical connectivity",
+      "consumer electronics weakness"
     ],
     "insights": [
       {
-        "ticker": "NBIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong fundamentals with 454% revenue growth, improving profitability, and major contract wins support positive outlook. However, elevated valuation (5.69X price/book), massive capital requirements ($20-25B in 2026), and recent 109.5% stock rally suggest much growth is already priced in. Zacks Rank #3 (Hold) reflects balanced risk-reward."
+        "ticker": "MMM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "3M raised full-year EPS guidance, reported strong industrial and semiconductor demand, expanded high-margin AI infrastructure partnerships with Amazon, achieved significant operating margin expansion (110 bps to 26.2%), and expects further margin growth in 2027. Strong order trends and backlog expansion support positive momentum."
       },
       {
-        "ticker": "NVDA",
+        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with 33.2% six-month gains and highest price/book multiple (25.14X). No specific analysis provided; included only for comparative context."
+        "sentiment_reasoning": "Amazon received warrants for 3M shares tied to $6 billion in cumulative sales over 7 years as part of an expanded optical connectivity and data center products partnership. While this indicates Amazon's continued investment in data center infrastructure, the impact is indirect and the arrangement carries no minimum volume commitments."
       },
       {
         "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with 42% six-month gains and high price/book multiple (8.82X). No specific analysis provided; included only for comparative context."
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison with 12.7% six-month gains and price/book multiple of 7.98X. No specific analysis provided; included only for comparative context."
+        "sentiment_reasoning": "Microsoft is mentioned as collaborating with 3M on optical connectivity deployment for hyperscaler adoption. The mention is brief and contextual without specific financial impact or strategic implications disclosed."
       }
     ]
   }

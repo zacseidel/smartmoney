@@ -1,0 +1,35 @@
+{
+  "ticker": "WSBC",
+  "name": "WesBanco Inc",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000203596",
+  "composite_figi": "BBG000BX0BJ9",
+  "share_class_figi": "BBG001S5XJR8",
+  "market_cap": 3608938603.07,
+  "phone_number": "(304) 234-9000",
+  "address": {
+    "address1": "1 BANK PLAZA",
+    "city": "WHEELING",
+    "state": "WV",
+    "postal_code": "26003"
+  },
+  "description": "Wesbanco Inc is a bank holding company. Through its subsidiaries, it offers a full range of financial services, including retail banking, corporate banking, personal and corporate trust services, brokerage services, mortgage banking, and insurance. WesBanco operates one commercial bank, WesBanco Bank, which runs scores of branches. The company's reportable segments are Community Banking, which derives key revenue, and Trust and Investment Services. The Community Banking segment offers various banking products and services through various delivery channels, including commercial demand, individual demand, and time deposit accounts; commercial, mortgage, and individual installment loans; and certain non-traditional offerings, such as insurance and securities brokerage services.",
+  "sic_code": "6021",
+  "sic_description": "NATIONAL COMMERCIAL BANKS",
+  "ticker_root": "WSBC",
+  "homepage_url": "https://www.wesbanco.com",
+  "total_employees": 2969,
+  "list_date": "1987-05-04",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/d2VzYmFuY28uY29t/images/2026-10-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/d2VzYmFuY28uY29t/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 95905889,
+  "weighted_shares_outstanding": 95905889,
+  "round_lot": 100
+}

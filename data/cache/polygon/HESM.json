@@ -1,0 +1,34 @@
+{
+  "ticker": "HESM",
+  "name": "Hess Midstream LP Class A Share representing a limited partner Interest",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001789832",
+  "composite_figi": "BBG00R02H8D5",
+  "share_class_figi": "BBG00R02H8F3",
+  "market_cap": 3936521520.27,
+  "phone_number": "832-854-1000",
+  "address": {
+    "address1": "1400 SMITH STREET",
+    "city": "HOUSTON",
+    "state": "TX",
+    "postal_code": "77002"
+  },
+  "description": "Hess Midstream LP is a fee-based, growth-oriented limited partnership that owns, operates, develops, and acquires a portfolio of midstream assets. The company provides fee-based services to Chevron Corporation and generates all of its revenue by charging fees for gathering, compressing, and processing natural gas, fractionating NGLs, gathering, terminaling, loading, and transporting crude oil and NGLs, storing and terminaling propane, and gathering and disposing of produced water. It operates through gathering, processing, and storage, and terminaling and export segments, with the gathering segment contributing the maximum share of revenue and comprising natural gas gathering and compression, as well as crude oil gathering and produced water gathering and disposal assets.",
+  "sic_code": "1311",
+  "sic_description": "CRUDE PETROLEUM & NATURAL GAS",
+  "ticker_root": "HESM",
+  "homepage_url": "https://www.hessmidstream.com",
+  "total_employees": 195,
+  "list_date": "2017-04-05",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/aGVzc21pZHN0cmVhbS5jb20/images/2026-10-01_logo.png"
+  },
+  "share_class_shares_outstanding": 128350881,
+  "weighted_shares_outstanding": 128350881,
+  "round_lot": 100
+}

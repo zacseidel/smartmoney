@@ -1,40 +1,19 @@
 [
   {
-    "id": "0f12ebbabbb209cd500427775aee22f7a702cc7a1d502021d1b235dac51281e1",
+    "id": "2f2d2ba9cf6887b1ff2b2937332a9928a3dea6c4a21d4967c304b3e636a3ee91",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-07-26T02:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/25/what-big-bank-earnings-just-revealed-about-the-hea/?source=iedfolrf0000001",
+    "title": "The Banking ETF Battle: Main Street Lenders vs. Wall Street Titans",
+    "author": "Jake Lerch",
+    "published_utc": "2026-10-21T14:30:02Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/the-banking-etf-battle-main-street-lenders-vs-wall-street-titans/?source=iedfolrf0000001",
     "tickers": [
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
+      "IAT",
+      "FTXO",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -44,781 +23,220 @@
       "JPMpL",
       "JPMpM",
       "VYLD",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
       "C",
       "CpN",
-      "CpR"
+      "CpR",
+      "USB",
+      "USBpA",
+      "USBpH",
+      "USBpP",
+      "USBpQ",
+      "USBpR",
+      "USBpS",
+      "PNC",
+      "TFC",
+      "TFCpI",
+      "TFCpO",
+      "TFCpR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F879627%2F26_07_24-a-person-in-a-suit-with-their-head-against-a-wall-in-worry-_mf-dload-gettyimages-1194953668-929x800-062eea1.jpg&w=1200&op=resize",
-    "description": "Big bank Q2 2026 earnings reveal that U.S. consumers remain financially healthy despite economic headwinds from inflation and high oil prices. Key credit metrics from Bank of America, Wells Fargo, JPMorgan Chase, and Citigroup show improving or stable charge-off and non-performing loan ratios, suggesting consumers are managing debt well and recession fears may be overstated.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe782451fcb7901ca92b74c083a50e2ea213ffe74-3300x1856.jpg&w=1200&op=resize",
+    "description": "The article compares two banking ETFs: iShares U.S. Regional Banks ETF (IAT) and First Trust Nasdaq Bank ETF (FTXO). IAT focuses on regional banks with lower costs (0.37% expense ratio), higher dividend yield (2.9%), and better 1-year performance (17.4%), making it ideal for income-focused investors. FTXO offers broader exposure to mega-cap banks with stronger 5-year cumulative returns (26% vs 5%) but higher costs (0.6% expense ratio). The choice depends on whether investors prioritize regional lending exposure and income or broader mega-cap bank exposure with stronger long-term growth.",
     "keywords": [
-      "consumer health",
-      "bank earnings",
-      "credit metrics",
-      "charge-off ratio",
-      "non-performing loans",
-      "inflation",
-      "recession risk",
-      "credit cards"
+      "banking ETF",
+      "regional banks",
+      "mega-cap banks",
+      "dividend yield",
+      "expense ratio",
+      "financial sector",
+      "investment comparison"
     ],
     "insights": [
       {
-        "ticker": "BAC",
+        "ticker": "IAT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
+        "sentiment_reasoning": "Highlighted for lower costs, higher dividend yield (2.9%), better 1-year returns (17.4%), and appeal to income-focused investors seeking regional lending exposure."
       },
       {
-        "ticker": "BACpB",
+        "ticker": "FTXO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Charge-off ratio improved to 0.47% from 0.55% year-over-year; non-performing loan ratio declined to 0.47% from 0.52%, indicating customers are in better financial shape."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio improved to 0.34% from 0.44-0.45%; non-performing loan ratio decreased to 0.77% from 0.86%, showing positive credit trends."
+        "sentiment_reasoning": "Praised for stronger 5-year cumulative returns (26% CAGR of 4.8%) and broader exposure to major financial institutions, though offset by higher costs and lower dividend yield."
       },
       {
         "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Net charge-off ratio stable at 1.51%; credit card non-performing loan ratio improved to 1% from 1.15%, indicating manageable consumer financial stress."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "C",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "CpN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
       },
       {
         "ticker": "CpR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "General-purpose card non-performing loans slightly increased to 1.3% from 1.27%; private-label cards mixed with improvement from Q1 but deterioration year-over-year, suggesting emerging weakness in credit card segment."
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "PNC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (14.46%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
       }
     ]
   },
   {
-    "id": "98bf68959ebf469bb73004a0a1d636e87de115442f8bcd535f164328580166cf",
+    "id": "4b705f4cd604c1864b6a8b9116002289e92eaee5a43fe2fbd0e95fa5ab5938d9",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "KBWB vs. UYG: Which Financials ETF Is the Better Buy for Investors?",
-    "author": "Andy Gould",
-    "published_utc": "2026-07-17T19:33:19Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/07/17/kbwb-vs-uyg-which-financials-etf-is-the-better-buy-for-investors/?source=iedfolrf0000001",
-    "tickers": [
-      "KBWB",
-      "UYG",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4db1f9dc6b521047b90577456a50b49560e87c49-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Invesco KBW Bank ETF (KBWB) and ProShares Ultra Financials (UYG) offer different approaches to financial sector exposure. KBWB provides straightforward banking exposure with a 0.35% expense ratio and delivered a 39.43% one-year return, while UYG uses 2x daily leverage with a higher 0.94% expense ratio and returned 14.08% over the same period. KBWB is recommended for buy-and-hold investors, while UYG is better suited for short-term traders, though leveraged ETFs carry daily reset risks and tax inefficiency concerns.",
-    "keywords": [
-      "ETF comparison",
-      "financial sector",
-      "leveraged ETF",
-      "bank stocks",
-      "expense ratio",
-      "dividend yield",
-      "tax efficiency"
-    ],
-    "insights": [
-      {
-        "ticker": "KBWB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "KBWB delivered superior one-year returns (39.43%), has a lower expense ratio (0.35%), higher dividend yield (2.00%), and offers tax-efficient, straightforward exposure to U.S. banks without leverage complications. Recommended for buy-and-hold investors."
-      },
-      {
-        "ticker": "UYG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "UYG underperformed KBWB significantly (14.08% vs 39.43% one-year return), carries higher fees (0.94% expense ratio), lower dividend yield (0.88%), and suffers from daily reset mechanism erosion and tax inefficiency due to frequent capital gains distributions taxed at ordinary income rates."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in KBWB (8.2% position) with no specific performance commentary; serves as a component of the broader banking sector comparison."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both KBWB (8.2%) and UYG (7.2%) as a major financial institution; mentioned as a top position without specific performance assessment."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in KBWB (7.9%) with no specific commentary; included as part of the traditional banking portfolio."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as UYG's top position (7.6%) without specific performance assessment; included as a component of the broader financials index."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as UYG's top position (7.6%) without specific performance assessment; included as a component of the broader financials index."
-      }
-    ]
-  },
-  {
-    "id": "6ce6978b256011ce2c04b9d42b47514db0b4cedfdd6cd4d9b54a71f41996c923",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's Why Plug Power Stock Soared 37.6% in the First Half of 2026",
-    "author": "Scott Levine",
-    "published_utc": "2026-07-16T15:07:21Z",
-    "article_url": "https://www.fool.com/investing/2026/07/16/heres-why-plug-power-soared-376-in-the-first-half/?source=iedfolrf0000001",
-    "tickers": [
-      "PLUG",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F877282%2Fsmiling-investor-works-on-tablet.jpg&w=1200&op=resize",
-    "description": "Plug Power stock surged 37.6% in the first half of 2026, driven by improved financial results and cost-saving initiatives. The company reported a 2.4% gross margin in Q4 2025 (vs. negative 123% in Q4 2024) and beat Q1 2026 revenue expectations with $163.5 million. CEO Jose Luis Crespo reaffirmed the company's path to positive EBITDAS by Q4 2026. However, shares declined 19% since June 30 with no negative news reported.",
-    "keywords": [
-      "fuel cell",
-      "hydrogen stock",
-      "profitability",
-      "cost-saving initiative",
-      "Project Quantum Leap",
-      "gross margin improvement",
-      "EBITDAS"
-    ],
-    "insights": [
-      {
-        "ticker": "PLUG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The company demonstrated significant operational improvements with gross margin expanding from negative 123% to positive 2.4%, beat Q1 2026 revenue expectations, and management reaffirmed a path to profitability by Q4 2026. Multiple analyst price target increases followed the positive results. Despite recent July decline, the underlying business fundamentals show progress toward profitability."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo is mentioned only as an analyst firm that raised its price target on Plug Power stock from $1.50 to $2.00. This is a factual mention of analyst activity with no direct impact on Wells Fargo's own business or sentiment."
-      }
-    ]
-  },
-  {
-    "id": "f69c1845e2ac8b513ed5ca62558ccd99a21f958eefdf1b3c71326c6e55c26200",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Stock Market Today, July 14: Growth Stocks Rally as Inflation Cools to 3.5%, Equaling 2020 Lows",
-    "author": "Josh Kohn-Lindquist",
-    "published_utc": "2026-07-14T18:27:39Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/07/14/stock-market-today-july-14-growth-stocks-rally-as-inflation-cools-to-3-5-equaling-2020-lows/?source=iedfolrf0000001",
-    "tickers": [
-      "IBM",
-      "CLSK",
-      "CLSKW",
-      "TSEM",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "WBD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F446dde0c7af61257ba43e10a3a4377ea2eab4d36-300x180.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "U.S. stock markets rallied on July 14, 2026, as inflation cooled to 3.5%, matching 2020 lows and boosting growth stocks. The Nasdaq Composite rose 1.06%, while the S&P 500 gained 0.49%. IBM plunged 24% on earnings concerns, while CleanSpark and Tower Semiconductor surged on major infrastructure and expansion announcements. Banking stocks showed mixed results as earnings season began.",
-    "keywords": [
-      "inflation",
-      "growth stocks",
-      "earnings season",
-      "tech rebound",
-      "semiconductor",
-      "banking stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock plunged 24% following a preliminary second-quarter earnings warning about capital expenditure squeeze for memory, indicating significant operational challenges."
-      },
-      {
-        "ticker": "CLSK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock jumped 15% after securing a $6.6 billion infrastructure lease with potential to grow to $11.6 billion, demonstrating strong business expansion."
-      },
-      {
-        "ticker": "CLSKW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock jumped 15% after securing a $6.6 billion infrastructure lease with potential to grow to $11.6 billion, demonstrating strong business expansion."
-      },
-      {
-        "ticker": "TSEM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock surged after announcing a $3 billion expansion plan for advanced semiconductor manufacturing in Japan with $1 billion in government grants."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock showed mixed and unspectacular earnings results, moving largely sideways with minimal impact despite solid performance."
-      },
-      {
-        "ticker": "WBD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Merger with Paramount Skydance facing legal challenges from 12 states, potentially further delaying the M&A deal and creating uncertainty."
-      }
-    ]
-  },
-  {
-    "id": "ae1db239fc9a7d4d5db52c024b436aae978b1446f76dc27da804867ea6c8604d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Wells Fargo Reports Q2 Earnings Tuesday Morning. Here's the Number That Matters Most.",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-07-13T12:23:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/13/wells-fargo-reports-q2-earnings-tuesday-morning-he/?source=iedfolrf0000001",
+    "title": "Wells Fargo & Company (WFC) is Attracting Investor Attention: Here is What You Should Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-21T12:00:05Z",
+    "article_url": "https://www.zacks.com/stock/news/3011638/wells-fargo-company-wfc-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3011638",
     "tickers": [
       "WFC",
       "WFCpA",
@@ -828,54 +246,693 @@
       "WFCpY",
       "WFCpZ"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878554%2Fwells-fargo-stock-earnings.jpg&w=1200&op=resize",
-    "description": "Wells Fargo's Q2 earnings report on Tuesday will be crucial for investors as the bank can now grow its balance sheet for the first time since 2018 after the Federal Reserve lifted its asset cap. The key metric to watch is net interest income, which management has guided to reach $50 billion in 2026. The stock trades at a discount (13x earnings) compared to the broader market, making it an attractive value play if the bank can demonstrate growth momentum.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default8.jpg",
+    "description": "Wells Fargo has attracted investor attention with mixed performance. The stock returned -1.1% over the past month versus the S&P 500's +0.7% gain. While earnings estimates show growth with expected EPS of $1.88 for the current quarter (+6.8% YoY) and $7.29 for the fiscal year (+16.1% YoY), the stock carries a Zacks Rank #3 (Hold) rating. The company is trading at a premium to peers with a D valuation grade, suggesting it may perform in line with the broader market in the near term.",
     "keywords": [
       "Wells Fargo",
-      "Q2 earnings",
-      "asset cap",
-      "net interest income",
-      "balance sheet growth",
-      "Federal Reserve",
-      "stock buybacks",
-      "dividend increase",
-      "bank valuation"
+      "earnings estimates",
+      "stock performance",
+      "valuation",
+      "Zacks Rank",
+      "revenue growth",
+      "financial sector"
+    ],
+    "insights": [
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
+      }
+    ]
+  },
+  {
+    "id": "9af65c97533ae901b1e13cf3492b8ff4177832f73f870494ae942a6377ffc6c1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Wells Fargo's Stablecoin Push: A Potential Edge in Digital Payments?",
+    "author": "Na",
+    "published_utc": "2026-10-20T13:18:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011294/wells-fargo-s-stablecoin-push-a-potential-edge-in-digital-payments?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3011294",
+    "tickers": [
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "C",
+      "CpN",
+      "CpR",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8f/410.jpg",
+    "description": "Wells Fargo plans to launch a U.S. dollar-denominated stablecoin in the first half of 2027 alongside 20 international financial institutions to support cross-border and institutional payments. The bank has also launched tokenized deposits that settle transactions in two minutes or less, compared to 1-2 days traditionally. WFC is exploring additional crypto capabilities through potential partnerships with Kraken's parent company Payward.",
+    "keywords": [
+      "stablecoin",
+      "blockchain",
+      "cross-border payments",
+      "tokenized deposits",
+      "digital assets",
+      "cryptocurrency",
+      "institutional payments"
     ],
     "insights": [
       {
         "ticker": "WFC",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpA",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpC",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpD",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpY",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
       },
       {
         "ticker": "WFCpZ",
         "sentiment": "positive",
-        "sentiment_reasoning": "The removal of the Fed's asset cap presents a significant growth opportunity for the first time in seven years. The bank is trading at an attractive valuation (13x earnings vs. S&P 500 at 25x), has aggressive capital return programs ($17.7B in buybacks in 2025 and an 11% dividend increase planned), and management guidance of $50B in net interest income suggests mid-single-digit growth potential. However, the sentiment is cautiously positive pending confirmation of Q2 net interest income growth."
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      }
+    ]
+  },
+  {
+    "id": "3fc613d12444e54463d4dd121cd49c5bf5b60ffaae700e57c96e982c0aa5cf6f",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Is Citigroup Stock a Buy 13% Below Its 52-Week High?",
+    "author": "Dave Kovaleski",
+    "published_utc": "2026-10-18T20:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/18/is-citigroup-stock-a-buy-x-below-its-52-week-high/?source=iedfolrf0000001",
+    "tickers": [
+      "C",
+      "CpN",
+      "CpR",
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891243%2Fexterior-of-bank-branch.jpeg&w=1200&op=resize",
+    "description": "Citigroup reported strong Q3 2026 earnings with record quarterly revenue of $23.8 billion and a 37% increase in net income, beating analyst estimates. Despite impressive results, the stock has dipped 5% since earnings and 13% from its 52-week high, presenting a potential buying opportunity. The article suggests Citigroup is primarily attractive for dividend investors, offering a 2.18% yield with a sustainable payout ratio of 24% and strong capital reserves.",
+    "keywords": [
+      "Q3 earnings",
+      "dividend stock",
+      "bank stocks",
+      "valuation",
+      "capital returns",
+      "efficiency ratio"
+    ],
+    "insights": [
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
+      },
+      {
+        "ticker": "GS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+      }
+    ]
+  },
+  {
+    "id": "dc45ba23f475d58d06ff7590dbabf2f5cb753285add4d9c4d4e7d46d0e29ad84",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Is JPMorgan Chase Stock a Buy 8% Below Its Record High?",
+    "author": "Neil Patel",
+    "published_utc": "2026-10-18T07:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/18/jpmorgan-chase-stock-buy-8-below-its-record-high/?source=iedfolrf0000001",
+    "tickers": [
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "C",
+      "CpN",
+      "CpR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891242%2Fjpmorgan-chase-logo-on-brown-filter-with-office-building-in-background_-the-motley-fool.png&w=1200&op=resize",
+    "description": "JPMorgan Chase stock is trading 8% below its record high of $365.18. While Q3 results missed analyst expectations for revenue and EPS, the company raised full-year net interest margin guidance and demonstrated strong operational metrics including 49% growth in equities revenue and 10% loan growth. Despite a premium valuation relative to peers, JPMorgan Chase's superior return on tangible common equity and ~2% dividend yield make it worthy of consideration for quality-focused investors.",
+    "keywords": [
+      "JPMorgan Chase",
+      "Q3 earnings",
+      "bank stocks",
+      "valuation",
+      "dividend yield",
+      "net interest margin",
+      "return on equity"
+    ],
+    "insights": [
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
       }
     ]
   }

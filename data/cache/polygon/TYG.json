@@ -1,0 +1,25 @@
+{
+  "ticker": "TYG",
+  "name": "Tortoise Energy Infrastructure Corp.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "FUND",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001268533",
+  "composite_figi": "BBG000L1GR60",
+  "share_class_figi": "BBG001SJTT37",
+  "market_cap": 969263999.9999999,
+  "description": "Tortoise Energy Infrastructure Corp seeks to provide a high level of current income to stockholders. It invests in fixed-income and dividend-paying equity securities of power and energy infrastructure companies that provide stable and defensive characteristics throughout economic cycles.",
+  "ticker_root": "TYG",
+  "homepage_url": "https://www.tortoiseadvisors.com",
+  "list_date": "2004-02-25",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/dG9ydG9pc2VhZHZpc29ycy5jb20/images/2026-10-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/dG9ydG9pc2VhZHZpc29ycy5jb20/images/2026-10-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 25410293,
+  "weighted_shares_outstanding": 25400000,
+  "round_lot": 100
+}

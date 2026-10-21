@@ -1,238 +1,307 @@
 [
   {
-    "id": "5fd0d10d633332af7a7f5fe6f6238a9120e556a3f5bb513f31572546b966727f",
+    "id": "97f0b952c1ead73248939c7d0374327b277ee1eb8a4acd09b0507fbaeb8c436c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Is iShares US Consumer Staples ETF a Better Buy Than Invesco Food & Beverage?",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-08-11T19:29:01Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/08/11/is-ishares-us-consumer-staples-etf-a-better-buy-than-invesco-food-and-beverage/?source=iedfolrf0000001",
+    "title": "CAVA vs. Celsius: Which Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T11:39:13Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/cava-vs-celsius-which-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "IYK",
-      "PBJ",
-      "PG",
-      "KO",
-      "PM",
+      "CAVA",
+      "CELH",
+      "PEP",
       "SBUX",
       "MNST"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F55e20be0ddb0ac7534497fca1c8d5b6bf9e18fbe-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The iShares U.S. Consumer Staples ETF (IYK) outperforms the Invesco Food & Beverage ETF (PBJ) across multiple metrics, including a lower 0.38% expense ratio versus 0.61%, higher 2.6% dividend yield versus 1.3%, and superior 1-year returns of 8.9% versus -1.0%. With 53 diversified holdings across consumer staples, healthcare, and materials versus PBJ's 31 food and beverage-focused companies, IYK offers broader sector exposure and better long-term performance.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares CAVA Group and Celsius Holdings as growth investment opportunities. CAVA, a Mediterranean fast-casual restaurant chain, shows strong traffic-driven growth with 31% revenue growth and 9% same-restaurant sales growth in Q2 2026. Celsius, an energy drink company, achieved 85.5% revenue growth in FY 2025 but disappointed in Q2 2026 with missed earnings estimates and compressed margins. The author recommends CAVA as the better long-term investment due to its solid unit economics and consistent execution, while noting Celsius faces risks from PepsiCo concentration and integration challenges.",
     "keywords": [
-      "consumer staples ETF",
-      "expense ratio",
-      "dividend yield",
-      "diversification",
-      "ETF comparison",
-      "portfolio performance"
+      "restaurant stocks",
+      "energy drinks",
+      "growth stocks",
+      "fast-casual dining",
+      "revenue growth",
+      "valuation comparison",
+      "same-restaurant sales"
     ],
     "insights": [
       {
-        "ticker": "IYK",
+        "ticker": "CAVA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Superior performance across all metrics including lower expense ratio (0.38%), higher dividend yield (2.6%), better 1-year returns (8.9%), broader diversification with 53 holdings, and significantly larger AUM ($1.4B). Recommended as the better choice for investors seeking stability and income."
+        "sentiment_reasoning": "Strong traffic-driven growth with 31% revenue growth and 9% same-restaurant sales growth in Q2 2026. Expanding unit economics, solid profitability with restaurant-level margins above 25%, and new locations outperforming expectations. Author explicitly recommends this stock as the better buy."
       },
       {
-        "ticker": "PBJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Underperforms on key metrics with higher expense ratio (0.61%), lower dividend yield (1.3%), negative 1-year returns (-1.0%), narrower focus with only 31 holdings, and smaller AUM ($106.5M). Lacks the diversification and performance advantages of its competitor."
-      },
-      {
-        "ticker": "PG",
+        "ticker": "CELH",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding (12.97%) in IYK but no specific performance analysis or recommendation provided in the article."
+        "sentiment_reasoning": "While showing impressive 85.5% FY 2025 revenue growth, Q2 2026 results were disappointing with missed earnings and revenue estimates, compressed gross margins, and sharply declining earnings. High customer concentration risk with PepsiCo representing 43.2% of revenue and ongoing legal challenges limit upside potential."
       },
       {
-        "ticker": "KO",
+        "ticker": "PEP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Held in both ETFs (12.95% in IYK, 5.48% in PBJ) but discussed only as a portfolio component without individual sentiment assessment."
-      },
-      {
-        "ticker": "PM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (11.35%) in IYK but no specific analysis or recommendation provided."
+        "sentiment_reasoning": "Mentioned as a major distribution partner for Celsius, representing 43.2% of revenue. This concentration creates risk but also demonstrates significant market reach."
       },
       {
         "ticker": "SBUX",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding (5.27%) in PBJ but discussed only as a portfolio component without individual sentiment assessment."
+        "sentiment_reasoning": "Mentioned as a competitive threat to CAVA in the restaurant/beverage space with greater resources and scale."
       },
       {
         "ticker": "MNST",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding (5.23%) in PBJ but no specific analysis or recommendation provided."
+        "sentiment_reasoning": "Identified as a major competitor to Celsius in the energy drink market."
       }
     ]
   },
   {
-    "id": "7efc7587560c73605582ba727bccf88d86a5e3c86962ed385b34a4adf1f297ba",
+    "id": "87b15494cc8ec313068e1d0af0fe32df94d7aa4c62e796de807f7f187911f2e6",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Wall Street's Latest Blockbuster Stock Split Has Arrived -- and This Industry Titan Has Rallied 337,000% Over the Last 32 Years",
-    "author": "Sean Williams",
-    "published_utc": "2026-08-11T09:06:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/11/wall-st-latest-stock-split-arrived-rallied-337000/?source=iedfolrf0000001",
+    "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-10-21T03:26:49Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/monster-beverage-is-gaining-market-share-in-the-en/?source=iedfolrf0000001",
     "tickers": [
       "MNST",
       "KO",
-      "CRWD",
-      "BKNG",
-      "PCLN"
+      "PEP",
+      "KHC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882507%2Fstock-split-us-dollar-coin-certificate-forward-reverse-getty.jpg&w=1200&op=resize",
-    "description": "Monster Beverage completed its sixth forward 2-for-1 stock split on August 11, 2026. The energy drink company has delivered a remarkable 337,000% return since 1994, driven by its dominant market position and strategic partnership with Coca-Cola, which provides global distribution access and owns approximately 20% of the company.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891854%2Fmqdefault_custom_3-4.jpg&w=1200&op=resize",
+    "description": "Monster Beverage is capitalizing on the booming energy drink industry and gaining market share. The company faces competition from other beverage manufacturers in this lucrative and expanding market segment.",
     "keywords": [
-      "stock split",
-      "Monster Beverage",
-      "energy drinks",
-      "Coca-Cola partnership",
-      "market performance",
-      "forward split"
+      "energy drink industry",
+      "market share",
+      "beverage sector",
+      "industry expansion",
+      "competition"
     ],
     "insights": [
       {
         "ticker": "MNST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional long-term performance (337,000% return over 32 years), strong market position as a top energy drink player, strategic partnership with Coca-Cola providing global distribution, and sixth forward stock split indicating sustained growth and investor accessibility. However, current valuation at 37x forward P/E is noted as expensive relative to historical averages."
+        "sentiment_reasoning": "The article highlights that Monster is gaining market share in the booming energy drink category and capitalizing on industry expansion, indicating strong competitive positioning and growth prospects."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      },
+      {
+        "ticker": "KHC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      }
+    ]
+  },
+  {
+    "id": "9b852f1fcea8a39e87fc4a017b55ae9ba2c3081d17f5ef0040f766310f2024f0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Dutch Bros vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
+    "author": "Anders Bylund",
+    "published_utc": "2026-10-20T21:21:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/dutch-bros-vs-celsius-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BROS",
+      "CELH",
+      "PEP",
+      "SBUX",
+      "MNST",
+      "AMZN",
+      "WMT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9f47a9c86129fa9e9bd5069d7cad23847c7af1cb-1290x860.png&w=1200&op=resize",
+    "description": "The article compares Dutch Bros and Celsius as growth stock investments in the shifting beverage market. Dutch Bros operates 1,225 drive-thru locations with 27.9% revenue growth and improving profitability (4.9% net margin), while Celsius achieved 85.5% revenue growth but declining earnings due to acquisitions. Dutch Bros trades at higher valuations but shows better earnings growth, while Celsius offers cheaper valuation and triple the free cash flow but faces heavy Pepsi distribution dependency. The author favors Dutch Bros for its combination of respectable top-line growth and rising profits.",
+    "keywords": [
+      "beverage market",
+      "growth stocks",
+      "drive-thru coffee",
+      "energy drinks",
+      "valuation comparison",
+      "profitability",
+      "distribution partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "BROS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company shows strong revenue growth (27.9%), improving profitability with net margin expanding to 4.9%, and positive earnings trajectory. Despite higher valuation multiples, the PEG ratio suggests reasonable value when accounting for growth expectations. The author explicitly recommends this stock over Celsius."
+      },
+      {
+        "ticker": "CELH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Celsius demonstrates exceptional revenue growth (85.5%) and strong free cash flow ($323.4M), earnings are declining and net margin contracted to 4.3%. The company faces significant concentration risk with Pepsi accounting for 43% of revenue and integration challenges from acquisitions. Cheaper valuation is offset by operational concerns."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Celsius' primary distribution partner controlling 43% of revenue, representing both an opportunity and a significant risk factor for Celsius' business independence and decision-making autonomy."
+      },
+      {
+        "ticker": "SBUX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Dutch Bros in the coffee retail market, representing industry competition but not directly analyzed in the comparison."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat in the functional beverage category competing with Celsius, but not directly analyzed."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      }
+    ]
+  },
+  {
+    "id": "465b1b7fd1205ced9ad3df930b4e08b9d2bcc3a170d11941b52b5421c4735c38",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Unstoppable Nasdaq-100 Stocks to Buy Before October Ends",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-20T14:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/3-unstoppable-nasdaq-100-stocks-to-buy-before-oct/?source=iedfolrf0000001",
+    "tickers": [
+      "MNST",
+      "KDP",
+      "MDLZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891200%2Fgettyimages-860274746-1215x810-8ae76b9.jpg&w=1200&op=resize",
+    "description": "The article recommends three consumer staples stocks as buying opportunities before October ends: Monster Beverage (expanding globally with Coca-Cola's distribution), Keurig Dr Pepper (planning a 2027 business split), and Mondelez International (showing sales recovery after price increases). Each stock has an upcoming earnings catalyst that could drive market re-evaluation.",
+    "keywords": [
+      "consumer staples",
+      "earnings catalyst",
+      "stock split",
+      "business separation",
+      "global expansion",
+      "volume growth",
+      "dividend increase"
+    ],
+    "insights": [
+      {
+        "ticker": "MNST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong international growth (34.6% sales increase outside U.S., now 46% of total), leveraging Coca-Cola's distribution network, recent 2-for-1 stock split attracting retail investors, and upcoming Q3 earnings report in early November."
+      },
+      {
+        "ticker": "KDP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Planned 2027 business split expected to unlock shareholder value, strong refreshment segment growth (10% sales, 6.5% volume increase), and upcoming Q3 earnings on Nov. 3 before separation work accelerates. Offset by high debt levels (4.1x leverage expected) and declining U.S. coffee sales."
+      },
+      {
+        "ticker": "MDLZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive volume and mix trends after price increases, strong emerging markets performance, board-approved 4% dividend increase, and strategic brand partnerships. Upcoming Oct. 29 earnings report provides near-term catalyst. Risk includes short-term costs from brand reinvestment and European market dependency."
+      }
+    ]
+  },
+  {
+    "id": "0f06c184ffd91b4992b59c80e77a4009802cce3908885545756654c5384ecc91",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "6 Signs of a Winning Stock, Each Shown by a Real Company",
+    "author": "Anders Bylund",
+    "published_utc": "2026-10-19T17:33:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/19/6-signs-of-a-winning-stock-shown-by-real-companies/?source=iedfolrf0000001",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "KO",
+      "MNST",
+      "COST",
+      "CPRT",
+      "NFLX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890506%2Fchecking-charts-with-tablet-and-coffee-cup-getty-images.jpg&w=1200&op=resize",
+    "description": "The article outlines six measurable traits that distinguish long-term winning stocks, illustrated through real companies. These traits include consistent dividend growth (Coca-Cola), high return on invested capital (Alphabet), strong free cash flow conversion (Monster Beverage), customer loyalty/moat (Costco), insider ownership (Copart), and reinvestment at high returns (Netflix). The author emphasizes that no company aces every test, and temporary stock declines shouldn't deter investors in fundamentally strong businesses.",
+    "keywords": [
+      "stock selection",
+      "return on invested capital",
+      "free cash flow",
+      "dividend growth",
+      "competitive moat",
+      "insider ownership",
+      "long-term investing"
+    ],
+    "insights": [
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
       },
       {
         "ticker": "KO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strategic partnership with Monster Beverage has proven highly beneficial, gaining access to a dominant energy drink brand while maintaining 20% stake. The asset swap in 2014 positioned Coca-Cola well in the growing energy drink market."
-      },
-      {
-        "ticker": "CRWD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several companies completing stock splits in 2026, but no specific performance or sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "BKNG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several companies completing stock splits in 2026, but no specific performance or sentiment analysis provided in the article."
-      },
-      {
-        "ticker": "PCLN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of several companies completing stock splits in 2026, but no specific performance or sentiment analysis provided in the article."
-      }
-    ]
-  },
-  {
-    "id": "9918aa1263464ba8ae9d7f0241e57352ffdd97ca511cbc8ce80cdbf21b0e91df",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Celsius a Buy After Tumbling 18% in 1 Day?",
-    "author": "Neil Patel",
-    "published_utc": "2026-08-09T10:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/09/is-celsius-a-buy-after-tumbling-18-in-1-day/?source=iedfolrf0000001",
-    "tickers": [
-      "CELH",
-      "MNST",
-      "COST"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F882418%2Fcelsius-name-and-logo-on-light-orange-filter-with-cans-in-background_-the-motley-fool.png&w=1200&op=resize",
-    "description": "Celsius Holdings (CELH) shares dropped 18% after missing Q2 earnings expectations with revenue of $817.9M (up 11% YoY) and adjusted EPS of $0.36 (down 23% YoY). The flagship Celsius brand saw sales decline 12% year-over-year, signaling slowing growth. Despite trading at a forward P/E of 18.8 and 75% below its March 2024 peak, the stock remains a risky investment due to intense competition from Red Bull, Monster Beverage, and new entrants like Costco's Kirkland brand, with durability of future growth highly uncertain.",
-    "keywords": [
-      "energy drink",
-      "earnings miss",
-      "declining sales",
-      "competitive pressure",
-      "valuation",
-      "growth concerns"
-    ],
-    "insights": [
-      {
-        "ticker": "CELH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Company missed Q2 earnings estimates, reported declining flagship brand sales (-12% YoY), and faces intense competition. Stock has fallen 75% from peak, and analyst expresses concerns about growth durability despite seemingly attractive valuation."
+        "sentiment_reasoning": "Shows 64 consecutive years of dividend increases backed by strong free cash flow. 10-year price gain of 121% becomes 8.3x total return with reinvested dividends over 25 years, demonstrating power of compounding."
       },
       {
         "ticker": "MNST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an industry heavyweight with strong brand strength competing against Celsius, but no specific performance data or analysis provided in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Converts 99% of net income to free cash flow, has zero debt, and maintains strong current ratio of 3.7x. Exemplifies excellent cash generation and financial health."
       },
       {
         "ticker": "COST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat through its Kirkland brand energy drink launched in March, but no specific performance metrics or sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "c0fc11bb8c6e89af0c22e8f630a30c5f4185854952a2325b3aaa8e5936fda1a6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Should You Buy This Monster Growth Stock Before Its 2-for-1 Stock Split Takes Effect on Aug. 11?",
-    "author": "Selena Maranjian",
-    "published_utc": "2026-07-29T08:08:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/should-you-buy-this-monster-growth-stock-before-it/?source=iedfolrf0000001",
-    "tickers": [
-      "MNST"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880227%2Fgetty-stock-split-gymnastics.jpg&w=1200&op=resize",
-    "description": "Monster Beverage is undergoing a 2-for-1 stock split on August 11, 2026, its seventh split since 1988. While stock splits don't change shareholder value, the article cautions that Monster shares appear overvalued with a forward P/E ratio of 41, above its five-year average of 31, suggesting investors should think twice before buying.",
-    "keywords": [
-      "stock split",
-      "Monster Beverage",
-      "valuation",
-      "P/E ratio",
-      "growth stock",
-      "shareholder value"
-    ],
-    "insights": [
+        "sentiment": "positive",
+        "sentiment_reasoning": "Demonstrates powerful business moat through membership model with 92.3% U.S./Canada renewal rate and 89.8% worldwide. Membership base growing from 81M to 84.1M. Premium valuation at 47.3x earnings reflects quality."
+      },
       {
-        "ticker": "MNST",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The article advises caution on purchasing the stock despite its impressive 19% average annual gains over 15 years. The primary concern is overvaluation, with the current forward P/E ratio of 41 significantly exceeding the five-year average of 31, suggesting the stock is trading at elevated multiples relative to historical levels."
-      }
-    ]
-  },
-  {
-    "id": "49ec6ca5ec6259ec843c9369cae6ffb5068575ffcf1828446e0bb85b82606f52",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Monster Beverage Is Splitting Its Stock 2-for-1 on Aug. 11. Here's What a $1,000 Investment Could Be Worth in 5 Years.",
-    "author": "Justin Pope",
-    "published_utc": "2026-07-27T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/27/monster-beverage-is-splitting-its-stock-2-for-1-on/?source=iedfolrf0000001",
-    "tickers": [
-      "MNST"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880226%2Fgamer-drinking-energy-drink.jpg&w=1200&op=resize",
-    "description": "Monster Beverage announced its sixth 2-for-1 stock split since 2005, effective August 11. While the stock has surged over 24,000% since 2005, analysts project only a 50% gain over the next five years based on 13% annual earnings growth and a return to the company's 10-year average P/E ratio of 37. The article notes that Monster's current valuation of 45x trailing earnings is above its historical average, suggesting the stock may be overvalued despite solid growth prospects.",
-    "keywords": [
-      "stock split",
-      "Monster Beverage",
-      "valuation",
-      "earnings growth",
-      "P/E ratio",
-      "investment outlook"
-    ],
-    "insights": [
-      {
-        "ticker": "MNST",
+        "ticker": "CPRT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While the company has demonstrated exceptional historical performance (24,000% gain since 2005) and solid projected earnings growth of 13% annually, the article emphasizes that current valuation at 45x trailing earnings is elevated compared to its 10-year average of 37x. The projected 5-year return of approximately 50% is described as 'not remarkable,' and the author explicitly states the stock 'looks expensive here,' suggesting limited upside at current prices despite positive fundamentals."
+        "sentiment_reasoning": "Shows strong insider ownership (9%) and minimal debt (1% of equity) with $4.5B cash (17.4% of market cap), indicating long-term management focus. However, stock down 37% past year and 24.6% over 5 years despite 310% 10-year gain, reflecting cyclical car market headwinds."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Meets reinvestment criteria with 31.1% ROIC, 12.6% annual revenue growth, and no dividend. However, stock down 41.5% past year and trades at 18.5x forward earnings. Low PEG ratio of 0.86 suggests either undervaluation or unrecognized troubles."
       }
     ]
   }

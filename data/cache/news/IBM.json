@@ -1,285 +1,323 @@
 [
   {
-    "id": "1035d72200cf17f7ec8a5b20d404755278973a52d59e0fda54cd66a48f3cf52b",
+    "id": "048a5dbd36bd28edc5057785876c196ce01690e3ecd9b91e43b78859e9bb3054",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "IBM Stock: Buy, Hold, or Sell?",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-10-03T05:24:56Z",
-    "article_url": "https://www.fool.com/investing/2026/10/03/ibm-stock-buy-hold-or-sell/?source=iedfolrf0000001",
+    "title": "Breakfast News: A $5.7 Billion Flex or Genius?",
+    "author": "Tmf Breakfast News",
+    "published_utc": "2026-10-21T11:30:02Z",
+    "article_url": "https://www.fool.com/investing/breakfast-news/2026/10/21/breakfast-news-a-usd5-7-billion-flex-or-genius/?source=iedfolrf0000001",
     "tickers": [
-      "IBM"
+      "CRM",
+      "BRZE",
+      "NFLX",
+      "ISRG",
+      "SPCX",
+      "TSLA",
+      "META",
+      "IBM",
+      "EQT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890157%2Fmqdefault_custom_2.jpg&w=1200&op=resize",
-    "description": "IBM management has reiterated revenue targets for the current fiscal year, forecasting 5% revenue growth. The article examines whether IBM stock presents a buying opportunity, with mixed perspectives on the company's potential as an AI and quantum computing player despite its traditional business profile.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fbn211026.png&w=1200&op=resize",
+    "description": "Salesforce acquires Braze for $5.7 billion to strengthen its marketing capabilities, with Braze stock jumping 50%. Netflix faces growth challenges with slowing revenue and weak ad performance. SpaceX beats expectations with 161% revenue growth, while Intuitive Surgical falls despite beating estimates due to cooling U.S. procedure growth. Tesla, Meta, and IBM report earnings with major capital spending decisions in focus. EQT continues steady cash flow growth as a natural gas producer.",
     "keywords": [
-      "IBM stock",
-      "revenue growth",
-      "AI",
-      "quantum computing",
-      "investment analysis"
+      "M&A",
+      "marketing technology",
+      "streaming",
+      "space exploration",
+      "surgical robotics",
+      "capital expenditure",
+      "natural gas",
+      "earnings"
     ],
     "insights": [
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acquisition of Braze is strategically sound and relatively inexpensive, but long-term growth prospects are limited to 7-10% annually rather than historical 20%, suggesting modest upside potential."
+      },
+      {
+        "ticker": "BRZE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 51% on acquisition announcement; company has strong financials with $300M+ net cash, improving margins, and 25%+ annual topline growth at reasonable valuation."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 6% after hours due to slowing revenue growth (12%, slowest in 3 years), weak ad revenue below targets, and minimal viewing hour growth (2%), indicating fundamental growth challenges."
+      },
+      {
+        "ticker": "ISRG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 7% despite beating earnings estimates because U.S. da Vinci procedure growth slowed to 10%, lagging overseas growth and signaling weakening domestic demand momentum."
+      },
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 8% on strong earnings beat with 161% revenue growth and aggressive Q1 2027 guidance of $33-37B, though dependent on compute revenue materializing."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Expected to report flat revenue with significant free cash flow drain and high capex; stock performance depends on clarity around Cybercab and Optimus volume justifying massive capital spending."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Facing investor scrutiny over $130-145B capex guidance for 2026; needs strong Q4 revenue outlook (~$73.6B) to convince market that spending is justified, with historical precedent of capex spikes dragging stock down."
+      },
       {
         "ticker": "IBM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "The article presents a balanced view of IBM stock with the title posing a buy/hold/sell question. While management reiterates revenue targets with modest 5% growth forecasted, the company is noted as an 'underappreciated AI and quantum winner' but also described as 'hiding in a boring stock,' suggesting mixed investor sentiment and uncertainty about near-term investment merit despite longer-term potential."
-      }
-    ]
-  },
-  {
-    "id": "17a483e1bab31790325ae349f342bcbbd7344c6b16f572829395d9071edb8015",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Global Managed File Transfer (MFT) Market Size, Share, Trends and Forecast 2026-2035 | Cloud Adoption and Compliance Drive 11.5% CAGR, Reaching USD 7.63 Billion",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-10-02T08:53:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/10/02/3373588/28124/en/global-managed-file-transfer-mft-market-size-share-trends-and-forecast-2026-2035-cloud-adoption-and-compliance-drive-11-5-cagr-reaching-usd-7-63-billion.html",
-    "tickers": [
-      "IBM",
-      "MSFT"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global Managed File Transfer (MFT) market is expected to grow from USD 2.57 billion in 2025 to USD 7.63 billion by 2035, driven by increasing regulatory compliance requirements, cloud adoption, and the rising cost of data breaches. North America leads with 37.8% market share, while the top five vendors are projected to capture 68% of global revenue in 2026. Key growth drivers include automation reducing IT intervention by 40% and enterprise modernization replacing legacy file transfer systems.",
-    "keywords": [
-      "Managed File Transfer",
-      "MFT market",
-      "cloud adoption",
-      "regulatory compliance",
-      "data security",
-      "enterprise modernization",
-      "automation",
-      "BFSI",
-      "North America"
-    ],
-    "insights": [
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "IBM maintains a strong position among Fortune 100 companies with established enterprise relationships and broad technology portfolio support for mission-critical environments, positioning it well in the consolidating MFT market."
+        "sentiment_reasoning": "Recovering from prior quarter delays in software and mainframe deals; Q3 software revenue should confirm momentum, but upcoming guidance will be key driver of stock direction."
       },
       {
-        "ticker": "MSFT",
+        "ticker": "EQT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is identified as a leading MFT market participant, positioned to benefit from growing cloud adoption and enterprise modernization trends."
+        "sentiment_reasoning": "Strong fundamentals with 78% free cash flow growth, 42% debt reduction, and 3% dividend increase; trading at attractive 12x trailing earnings with built-in hedges and rising natural gas demand from AI data centers."
       }
     ]
   },
   {
-    "id": "1c62636cbdf669b7fac9a9025349c3eae24398a8eff9eda46243e9f6bc101377",
+    "id": "10ab173c1e30df865849e0c627e770c677fc0123a92c1a2ac6af916b042e19e9",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Better Quantum Computing Stock: IonQ vs. D-Wave",
-    "author": "Will Healy",
-    "published_utc": "2026-10-01T21:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/01/better-quantum-computing-stock-ionq-vs-d-wave/?source=iedfolrf0000001",
+    "title": "Why Dell Technologies Stock Took a Dive Last Week",
+    "author": "Howard Smith",
+    "published_utc": "2026-10-18T13:36:06Z",
+    "article_url": "https://www.fool.com/coverage/market-movers/2026/10/18/why-dell-technologies-stock-took-a-dive-last-week/?source=iedfolrf0000001",
     "tickers": [
-      "IONQ",
-      "QBTS",
-      "NVDA",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
+      "DELL",
+      "BCS",
+      "HPQ",
+      "HPE",
+      "HPEpC",
       "IBM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889157%2Fionq_qbts.png&w=1200&op=resize",
-    "description": "The article compares two quantum computing stocks, IonQ and D-Wave Quantum. IonQ demonstrates industry-leading precision with 99.99% 2-qubit gate fidelities and has a partnership with Nvidia, but faces massive operating losses and an extremely high P/S ratio of 65. D-Wave has achieved real-world applications through its quantum annealing technology and Leap cloud service, but revenue declined 67% year-over-year with a P/S ratio of 475. The author recommends IonQ as the relatively safer choice despite both stocks carrying significant risks and being overvalued.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fff4d88f5f3d1c28e64919dfcf07926577bc8f6a3-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "Dell Technologies stock plummeted 22.9% following a Barclays downgrade that questioned the pace of enterprise AI adoption. Analysts argued that recent server revenue growth stems primarily from memory component cost inflation rather than fundamental AI demand, with hardware representing only about a quarter of corporate AI budgets. The sell-off reflects investor concerns about whether massive AI infrastructure investments will materialize into sustained corporate purchases.",
     "keywords": [
-      "quantum computing",
-      "IonQ",
-      "D-Wave Quantum",
-      "trapped-ion quantum system",
-      "quantum annealing",
-      "Nvidia partnership",
-      "valuation risk",
-      "operating losses"
+      "Dell Technologies",
+      "stock downgrade",
+      "enterprise AI adoption",
+      "server revenue",
+      "memory component costs",
+      "data center infrastructure",
+      "Wall Street analysis"
     ],
     "insights": [
       {
-        "ticker": "IONQ",
+        "ticker": "DELL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 22.9% following Barclays downgrade from buy to hold. Analysts raised concerns that server revenue growth reflects cost inflation pass-through rather than genuine AI adoption acceleration, threatening the company's growth narrative and near-term revenue trajectory."
+      },
+      {
+        "ticker": "BCS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Issued a downgrade on Dell, citing concerns about the sustainability of enterprise AI spending and questioning whether hardware demand reflects real adoption or temporary cost factors."
+      },
+      {
+        "ticker": "HPQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for valuation comparison with a trailing P/E of 11.6, but no specific news or analysis provided regarding the company."
+      },
+      {
+        "ticker": "HPE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for valuation comparison with a trailing P/E of 28.8, but no specific news or analysis provided regarding the company."
+      },
+      {
+        "ticker": "HPEpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for valuation comparison with a trailing P/E of 28.8, but no specific news or analysis provided regarding the company."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned for valuation comparison with a trailing P/E of 20.6, but no specific news or analysis provided regarding the company."
+      }
+    ]
+  },
+  {
+    "id": "9a14a6bd1f5bd5dc228db38a1da239f0d406f6e72ca78096393c09949bede560",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Quantum Computing Is Still Years Away. These 6 Stocks Show Who Is Closest to Real Revenue.",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-10-16T13:19:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/16/quantum-computing-is-still-years-away-these-6-stoc/?source=iedfolrf0000001",
+    "tickers": [
+      "IBM",
+      "IONQ",
+      "QBTS",
+      "RGTI",
+      "RGTIW",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890518%2Fgettyimages-2157036615-1423x800-e1b8658.jpg&w=1200&op=resize",
+    "description": "Quantum computing companies remain years away from profitability, with most relying on stock sales rather than customer revenue. IBM has the financial capacity to wait until 2028-2029, IonQ shows real revenue growth but heavy cash burn and dilution, while D-Wave and Rigetti have promising bookings but minimal revenue. Alphabet and Nvidia are positioned as bystanders rather than quantum revenue stories.",
+    "keywords": [
+      "quantum computing",
+      "revenue growth",
+      "cash burn",
+      "share dilution",
+      "commercial traction",
+      "financial runway"
+    ],
+    "insights": [
+      {
+        "ticker": "IBM",
         "sentiment": "positive",
-        "sentiment_reasoning": "IonQ demonstrates industry-leading technical precision (99.99% gate fidelities), has a strategic partnership with Nvidia providing competitive advantage, and shows strong revenue growth ($145M vs $28M year-over-year). However, sentiment is tempered by massive operating losses ($1.06B) and extremely high valuation (P/S of 65)."
+        "sentiment_reasoning": "Strong balance sheet with $10 billion committed to quantum over five years, funded by profitable mainframe and software operations. CEO expects profitability by 2028-2029. Has scale with 13 utility-scale systems and $1 billion in cumulative quantum business."
+      },
+      {
+        "ticker": "IONQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Only pure-play with meaningful revenue ($144.7M in H1 2026, up from $28.3M), showing real commercial traction. However, operating cash burn nearly tripled to $254.8M over six months, and share dilution increased 47% year-over-year, offsetting revenue growth benefits."
       },
       {
         "ticker": "QBTS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "D-Wave has achieved notable real-world applications with its quantum annealing technology and Leap cloud service, demonstrating commercial viability ahead of competitors. However, this is significantly offset by declining revenue (-67% YoY), substantial operating losses ($66M), and an extremely high valuation (P/S of 475), making it a risky investment."
+        "sentiment_reasoning": "Bookings surged 1,120% to $35.5M in H1 2026 with 67.7% commercial revenue, showing promise. However, actual revenue remains tiny at $3M quarterly, and company is funding operations through at-the-market stock offerings rather than customer sales."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is mentioned positively as a strategic partner of IonQ, installing IonQ's Superion 256 system at its Accelerated Quantum Research Center, positioning itself at the forefront of quantum computing development."
+        "ticker": "RGTI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Revenue grew from $1.8M to $5.1M quarterly, and holds $541M cash with no debt. However, still burning cash and relying on repeated at-the-market stock offerings to fund operations, indicating customer revenue insufficient to cover expenses."
+      },
+      {
+        "ticker": "RGTIW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Revenue grew from $1.8M to $5.1M quarterly, and holds $541M cash with no debt. However, still burning cash and relying on repeated at-the-market stock offerings to fund operations, indicating customer revenue insufficient to cover expenses."
       },
       {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+        "sentiment_reasoning": "Willow chip achieved impressive test results but access remains limited to select researchers. Positioned as a well-capitalized bystander rather than a quantum revenue story, with no proof of commercial-scale quantum computing yet."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+        "sentiment_reasoning": "Willow chip achieved impressive test results but access remains limited to select researchers. Positioned as a well-capitalized bystander rather than a quantum revenue story, with no proof of commercial-scale quantum computing yet."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+        "sentiment_reasoning": "Willow chip achieved impressive test results but access remains limited to select researchers. Positioned as a well-capitalized bystander rather than a quantum revenue story, with no proof of commercial-scale quantum computing yet."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "IBM is mentioned as one of the major tech companies showing interest in quantum computing technology, but no specific details or sentiment drivers are provided in the article."
+        "sentiment_reasoning": "Willow chip achieved impressive test results but access remains limited to select researchers. Positioned as a well-capitalized bystander rather than a quantum revenue story, with no proof of commercial-scale quantum computing yet."
       }
     ]
   },
   {
-    "id": "ecdbc95cb575f94bb314960be2f613385e6e54cccd5625c39a577b7bc62d0f7a",
+    "id": "8e1b5d91c0ed9e33f59e145fd972d11a1ef61f3685f573e7319520b562fef74b",
     "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Artificial Intelligence (AI) in Life Sciences Market: Trends and Forecast to 2040 | Market to Reach USD 73.05 Billion at 20% CAGR as Drug Discovery and Precision Medicine Scale",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-30T08:53:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/30/3371631/28124/en/artificial-intelligence-ai-in-life-sciences-market-trends-and-forecast-to-2040-market-to-reach-usd-73-05-billion-at-20-cagr-as-drug-discovery-and-precision-medicine-scale.html",
+    "title": "Can Slightly Higher Consulting Revenues Aid IBM's Q3 Earnings?",
+    "author": "Na",
+    "published_utc": "2026-10-16T13:14:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3009889/can-slightly-higher-consulting-revenues-aid-ibm-s-q3-earnings?cid=CS-ZC-FT-analyst_blog|earnings_preview-3009889",
     "tickers": [
       "IBM",
-      "MSFT",
-      "NVDA",
-      "RHHBY",
-      "PFE",
-      "IMDCY"
+      "MPWR",
+      "IDCC",
+      "CDNS"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global AI in life sciences market is projected to expand from USD 5.69 billion in 2026 to USD 73.05 billion by 2040, driven by accelerating drug discovery, precision medicine adoption, and clinical trial optimization. AI technologies including machine learning, computer vision, and natural language processing are enabling faster R&D, reduced costs, and improved diagnostic accuracy. However, challenges include high development costs, data privacy concerns, AI bias, and regulatory validation requirements.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b4/1120.jpg",
+    "description": "IBM is projected to report Q3 2026 Consulting revenues of $5.348 billion, up slightly from $5.324 billion year-over-year. Growth is expected to be driven by AI partnerships with Sarvam and Arm, digital transformation services, and the Logiq Consulting acquisition strengthening cybersecurity capabilities. However, the company's Earnings ESP of -0.63% suggests no earnings beat is predicted.",
     "keywords": [
-      "artificial intelligence",
-      "life sciences",
-      "drug discovery",
-      "precision medicine",
-      "machine learning",
-      "clinical trials",
-      "market forecast",
-      "pharmaceutical",
-      "biotechnology",
-      "personalized medicine"
+      "IBM Q3 2026 earnings",
+      "Consulting segment",
+      "AI partnerships",
+      "Digital transformation",
+      "Cybersecurity",
+      "Logiq Consulting acquisition",
+      "Sovereign AI",
+      "Hybrid cloud"
     ],
     "insights": [
       {
         "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "IBM is highlighted as a major technology company providing full-stack platforms for data integration, AI model development, and workflow management in life sciences, demonstrating strong competitive positioning in the growing market."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While IBM shows marginal revenue growth in Consulting (+0.45% YoY) and strategic initiatives through AI partnerships and acquisitions, the negative Earnings ESP of -0.63% with a Zacks Rank #3 suggests the market does not expect an earnings beat, limiting upside potential."
       },
       {
-        "ticker": "MSFT",
+        "ticker": "MPWR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft is mentioned among major technology companies competing in the AI life sciences space, with strategic importance in providing computational infrastructure and cloud capabilities for the expanding market."
+        "sentiment_reasoning": "Positive Earnings ESP of +1.60% combined with Zacks Rank #2 indicates strong potential for an earnings beat when reporting on Oct. 29."
+      },
+      {
+        "ticker": "IDCC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +1.27% combined with Zacks Rank #1 (Strong Buy) suggests high probability of earnings beat when reporting on Oct. 29."
+      },
+      {
+        "ticker": "CDNS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +0.56% combined with Zacks Rank #2 indicates potential for earnings beat when reporting on Oct. 26."
+      }
+    ]
+  },
+  {
+    "id": "8f6fabcdc67c75041930d9c2e1871d8dc5f321934caae7dbcf815ea787533a9b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can Healthy Increase in Software Revenues Benefit IBM's Q3 Earnings?",
+    "author": "Na",
+    "published_utc": "2026-10-16T12:59:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3009876/can-healthy-increase-in-software-revenues-benefit-ibm-s-q3-earnings?cid=CS-ZC-FT-analyst_blog|earnings_preview-3009876",
+    "tickers": [
+      "IBM",
+      "NVDA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/78.jpg",
+    "description": "IBM is expected to report Q3 2026 earnings on October 21 with Software segment revenues projected to reach $7.62 billion, up from $7.21 billion year-over-year. The company's $240 million partnership with Together AI to expand cloud infrastructure for enterprise AI inference, along with collaborations on cybersecurity and AI-powered innovations, are expected to drive growth. However, the Zacks model does not predict an earnings beat for the quarter.",
+    "keywords": [
+      "IBM Q3 2026 earnings",
+      "software revenue growth",
+      "enterprise AI",
+      "cloud infrastructure",
+      "Together AI partnership",
+      "cybersecurity",
+      "NVIDIA collaboration",
+      "watsonx.ai"
+    ],
+    "insights": [
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While IBM shows positive revenue growth expectations (+5.7% for Software segment) and strategic AI/cybersecurity partnerships that support long-term prospects, the Zacks model predicts no earnings beat for Q3 2026 with a negative ESP of -0.63% and Rank #3 (Hold), suggesting limited upside surprise potential in the near term."
       },
       {
         "ticker": "NVDA",
         "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA is listed as a key player in the competitive landscape, benefiting from increased demand for advanced computational infrastructure and hardware acceleration required for AI model development in life sciences."
-      },
-      {
-        "ticker": "RHHBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Roche is identified as a major pharmaceutical manufacturer actively applying AI to drug discovery and development using genomic and molecular datasets, positioning it well in the high-growth market."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Pfizer is noted as a leading pharmaceutical company leveraging AI for drug discovery and development, benefiting from the market's projected 20% CAGR growth through 2040."
-      },
-      {
-        "ticker": "IMDCY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Insilico Medicine is identified as a specialized company applying AI to drug discovery using genomic and molecular datasets, well-positioned in the rapidly growing market segment."
-      }
-    ]
-  },
-  {
-    "id": "5559c1fae6f73c11e6408d91fa6e9446a82a45617fe363edb2b36275a6434d73",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Application Integration Market Report 2026: Capitalize on the $60.73 Billion Market by 2030 as iPaaS, Multi-Cloud and Cybersecurity Disrupt Enterprise IT\u2014Benchmark Microsoft, IBM, Oracle, SAP and Salesforce to Secure Share at 21.1% CAGR",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-29T15:59:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/29/3371167/28124/en/application-integration-market-report-2026-capitalize-on-the-60-73-billion-market-by-2030-as-ipaas-multi-cloud-and-cybersecurity-disrupt-enterprise-it-benchmark-microsoft-ibm-oracl.html",
-    "tickers": [
-      "MSFT",
-      "IBM",
-      "ORCL",
-      "ORCLpD",
-      "SAP",
-      "CRM"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global application integration market is projected to grow from $23.36 billion in 2025 to $60.73 billion by 2030 at a 21.1% CAGR, driven by iPaaS adoption, multi-cloud strategies, cybersecurity demands, and API standardization. Key growth factors include enterprise digital transformation, real-time analytics, and the need for integrated security monitoring across complex IT environments.",
-    "keywords": [
-      "application integration",
-      "iPaaS",
-      "multi-cloud",
-      "API management",
-      "digital transformation",
-      "cybersecurity",
-      "middleware",
-      "enterprise integration",
-      "cloud adoption"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a leading market player in application integration solutions, positioned to benefit from the 21.1% CAGR market growth through 2030."
-      },
-      {
-        "ticker": "IBM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as a key competitor in the expanding application integration market, well-positioned to capture market share in iPaaS and hybrid integration solutions."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named among leading vendors in application integration, positioned to benefit from enterprise adoption of cloud-based integration platforms and multi-cloud strategies."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named among leading vendors in application integration, positioned to benefit from enterprise adoption of cloud-based integration platforms and multi-cloud strategies."
-      },
-      {
-        "ticker": "SAP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured as a major player in enterprise application integration, benefiting from rising ERP system deployments and digital ecosystem modernization."
-      },
-      {
-        "ticker": "CRM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included among leading market competitors, positioned to benefit from growing demand for CRM integration and API-driven connectivity solutions."
+        "sentiment_reasoning": "NVIDIA benefits from IBM's $240 million Together AI deal involving deployment of NVIDIA's HGX B300 systems and Spectrum-X Ethernet networking on IBM Cloud, demonstrating continued enterprise demand for NVIDIA's AI infrastructure and computing technologies."
       }
     ]
   }

@@ -1,5 +1,165 @@
 [
   {
+    "id": "05f727117141c2252dc40e5ee9757123db2ad53c632efd86ba3219450bb8ed6d",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Natera Partners With TransCode to Advance Colorectal Cancer Trial",
+    "author": "Na",
+    "published_utc": "2026-10-21T13:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011999/natera-partners-with-transcode-to-advance-colorectal-cancer-trial?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-3011999",
+    "tickers": [
+      "NTRA",
+      "RNAZ",
+      "GH",
+      "LH",
+      "TEM"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/86/1981.jpg",
+    "description": "Natera announced a strategic collaboration with TransCode Therapeutics to use its Signatera MRD test for identifying eligible patients in a Phase 2a trial evaluating TTX-MC138, an investigational therapy targeting miR-10b in colorectal cancer patients. The partnership aims to accelerate patient enrollment by detecting residual cancer in patients with no detectable disease on imaging, addressing an unmet medical need in early cancer recurrence intervention.",
+    "keywords": [
+      "molecular residual disease (MRD)",
+      "circulating tumor DNA (ctDNA)",
+      "colorectal cancer",
+      "precision oncology",
+      "clinical trial",
+      "liquid biopsy",
+      "cancer recurrence"
+    ],
+    "insights": [
+      {
+        "ticker": "NTRA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strategic collaboration expands Signatera's application in therapeutic development and MRD-guided trials, strengthening its role in precision oncology and reinforcing the utility of its testing platform."
+      },
+      {
+        "ticker": "RNAZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Partnership provides access to Natera's MRD testing capabilities to improve patient identification and support evaluation of TTX-MC138 in a high-risk population, potentially accelerating clinical development."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in the MRD testing space with comparable capabilities; no specific positive or negative developments disclosed in this article."
+      },
+      {
+        "ticker": "LH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor offering MRD testing solutions; recent portfolio expansion noted but no direct impact from the Natera-TransCode collaboration."
+      },
+      {
+        "ticker": "TEM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in MRD testing with recent acquisition of Personalis; no direct impact from the announced collaboration."
+      }
+    ]
+  },
+  {
+    "id": "77916cd9698be2b7cf1f6c41514eca9da0eda6aa394e56914a38bc06128bd8cb",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the First Trust Health Care AlphaDEX ETF (FXH)?",
+    "author": "Na",
+    "published_utc": "2026-10-19T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3010251/should-you-invest-in-the-first-trust-health-care-alphadex-etf-fxh?cid=CS-ZC-FT-sector_etf-3010251",
+    "tickers": [
+      "FXH",
+      "NTRA",
+      "GH",
+      "UHS",
+      "VHT",
+      "XLV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default63.jpg",
+    "description": "FXH is a passively managed healthcare ETF launched in 2007 with $1.13 billion in assets. It tracks the StrataQuant Health Care Index with a 0.61% expense ratio and 0.56% dividend yield. The fund has gained 16.87% year-to-date and 20.02% over the past year, with a medium risk profile (beta 0.72). It holds 74 healthcare companies with top holdings including Natera, Guardant Health, and Universal Health Services. FXH received a Zacks ETF Rank of 3 (Hold).",
+    "keywords": [
+      "healthcare ETF",
+      "passive management",
+      "expense ratio",
+      "dividend yield",
+      "performance",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "FXH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF shows solid performance (16.87% YTD, 20.02% 1-year) and reasonable expense ratio (0.61%), but received a Hold rating from Zacks. It is presented as a viable option but not exceptional compared to alternatives like VHT and XLV which have lower expense ratios (0.09% and 0.08% respectively)."
+      },
+      {
+        "ticker": "NTRA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the largest individual holding in FXH at 3.35% of assets. No performance commentary or sentiment is provided; it is simply identified as a top constituent."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as the second-largest holding in FXH. No specific performance data or sentiment is provided; it is mentioned only as a portfolio constituent."
+      },
+      {
+        "ticker": "UHS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a top-3 holding in FXH. No performance commentary or sentiment is provided; it is simply noted as a significant portfolio component."
+      },
+      {
+        "ticker": "VHT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as an alternative with significantly lower expense ratio (0.09% vs FXH's 0.61%) and substantially larger assets ($19.75 billion), making it a more cost-efficient option for healthcare exposure."
+      },
+      {
+        "ticker": "XLV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as an alternative with the lowest expense ratio (0.08%) and the largest asset base ($45.52 billion) among the three compared funds, offering superior cost efficiency and scale."
+      }
+    ]
+  },
+  {
+    "id": "f0dec6247d33f5d13ffd094faae7fbdba65c18d97e537746e59fe0ccc6d84fca",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "These 2 Medical Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-15T11:55:06Z",
+    "article_url": "https://www.zacks.com/stock/news/3008121/these-2-medical-stocks-could-beat-earnings-why-they-should-be-on-your-radar?cid=CS-ZC-FT-fundamental_analysis|zacks_education_earnings_esp-3008121",
+    "tickers": [
+      "DHR",
+      "GH"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default188.jpg",
+    "description": "Zacks highlights two medical stocks with positive Earnings Surprise Prediction (ESP) figures that could beat upcoming earnings expectations. Danaher (DHR) has a +0.30% ESP with a #2 Buy rating ahead of October 21 earnings, while Guardant Health (GH) has a +13.19% ESP with a #2 Buy rating before November 5 earnings. Both stocks show potential for positive earnings surprises based on recent analyst revisions.",
+    "keywords": [
+      "earnings surprise",
+      "medical stocks",
+      "Earnings ESP",
+      "analyst revisions",
+      "earnings beat",
+      "Zacks Rank"
+    ],
+    "insights": [
+      {
+        "ticker": "DHR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) rating with positive ESP of +0.30%, indicating higher probability of beating earnings expectations on October 21, 2026. Most Accurate Estimate ($1.93) slightly exceeds Consensus Estimate ($1.92)."
+      },
+      {
+        "ticker": "GH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Zacks Rank #2 (Buy) rating with strong positive ESP of +13.19%, suggesting good chance of beating earnings expectations on November 5, 2026. Most Accurate Estimate (-$0.25) is notably better than Consensus Estimate (-$0.29)."
+      }
+    ]
+  },
+  {
     "id": "bee5ef981dce1117e6b38a6134d3a4d3fa84630fcc2691d719fd7770798b796c",
     "publisher": {
       "name": "Zacks Investment Research",
@@ -146,288 +306,6 @@
         "ticker": "SMMNY",
         "sentiment": "positive",
         "sentiment_reasoning": "Siemens Healthineers is listed among key companies driving the blood-based biomarkers market with significant diagnostic technology capabilities."
-      }
-    ]
-  },
-  {
-    "id": "bf6c43e5e7f3aceaa4197798b5085cef64301adf62ce7e25052695296d3691f5",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "State of the Life Sciences Industry to Be Reviewed in BCC Research's 2026 Second Quarter Outlook, Spotlighting AI-Driven Discovery, Precision Oncology, and Connected Health Adoption",
-    "author": "Bcc Research",
-    "published_utc": "2026-08-25T12:54:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/08/25/3350469/0/en/state-of-the-life-sciences-industry-to-be-reviewed-in-bcc-research-s-2026-second-quarter-outlook-spotlighting-ai-driven-discovery-precision-oncology-and-connected-health-adoption.html",
-    "tickers": [
-      "ILMN",
-      "GH",
-      "TXG",
-      "CRL",
-      "EVO",
-      "TEVA",
-      "AZN",
-      "GSK",
-      "RHHBY",
-      "NVS",
-      "PFE",
-      "JNJ",
-      "BMY",
-      "CELGr",
-      "MRK",
-      "LLY",
-      "REGN",
-      "ABT",
-      "NEO"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d0c282b6-d496-45a8-a941-33fa5c3e824c",
-    "description": "BCC Research's mid-year assessment highlights AI-driven discovery, precision oncology, and connected health as major growth themes in the life sciences sector. Key opportunities include smart inhalers with AI integration, genomic profiling platforms, cardiovascular drug innovations, and in vitro toxicity testing. The sector benefits from aging populations, regulatory support for non-animal testing, and emerging market expansion, though risks include patent expirations and reimbursement variability.",
-    "keywords": [
-      "AI-driven discovery",
-      "precision oncology",
-      "connected health",
-      "genomic profiling",
-      "smart inhalers",
-      "liquid biopsy",
-      "in vitro toxicity testing",
-      "digital health",
-      "life sciences"
-    ],
-    "insights": [
-      {
-        "ticker": "ILMN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as well-positioned to capture market share in precision oncology and genomic profiling, which is identified as a high-growth vector with strong near-term revenue visibility."
-      },
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as well-positioned in precision oncology segment anchored by genomic profiling, liquid biopsy, and MRD monitoring with strong near-term revenue visibility."
-      },
-      {
-        "ticker": "TXG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among competitive players in the genomic profiling and spatial profiling technologies space, which represents a high-growth vector in precision oncology."
-      },
-      {
-        "ticker": "CRL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an established player benefiting from regulatory tailwinds around non-animal testing methodologies in the in vitro toxicity testing segment."
-      },
-      {
-        "ticker": "EVO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as an established player positioned to benefit from emerging regulatory support for non-animal toxicity testing methodologies."
-      },
-      {
-        "ticker": "TEVA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among competitive incumbents but no specific growth drivers or risks highlighted; general competitive positioning in the landscape."
-      },
-      {
-        "ticker": "AZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a diversified global incumbent but without specific segment focus or differentiated positioning highlighted in the analysis."
-      },
-      {
-        "ticker": "GSK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among competitive players but no specific growth opportunities or risks identified for the company."
-      },
-      {
-        "ticker": "RHHBY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in competitive landscape but without specific strategic positioning or growth drivers highlighted."
-      },
-      {
-        "ticker": "NVS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a diversified global incumbent without specific segment focus or differentiated opportunities identified."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among major competitors but no specific growth drivers or risks highlighted in the analysis."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in competitive landscape without specific strategic positioning or segment focus highlighted."
-      },
-      {
-        "ticker": "BMY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive incumbent but without specific growth opportunities or risks identified."
-      },
-      {
-        "ticker": "CELGr",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive incumbent but without specific growth opportunities or risks identified."
-      },
-      {
-        "ticker": "MRK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among major players but no specific segment focus or differentiated positioning highlighted."
-      },
-      {
-        "ticker": "LLY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included in competitive landscape without specific strategic positioning or growth drivers identified."
-      },
-      {
-        "ticker": "REGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive player but without specific opportunities or risks highlighted in the analysis."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed among competitors but no specific segment focus or differentiated positioning highlighted."
-      },
-      {
-        "ticker": "NEO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as well-positioned in precision oncology segment with strong near-term revenue visibility in genomic profiling and liquid biopsy."
-      }
-    ]
-  },
-  {
-    "id": "2333e1268ac22ffc14997470c9a0241fc8f9098f79b6d684a99bd0e06a28a1ab",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Global Cancer Biomarkers Market to Reach $37.8 Billion by 2035 as Precision Oncology Adoption Accelerates - Trends and Forecasts Till 2035",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-07-22T08:49:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/07/22/3331125/28124/en/Global-Cancer-Biomarkers-Market-to-Reach-37-8-Billion-by-2035-as-Precision-Oncology-Adoption-Accelerates-Trends-and-Forecasts-Till-2035.html",
-    "tickers": [
-      "RHHBY",
-      "NVS",
-      "TMO",
-      "GH",
-      "LH",
-      "DGX"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The global cancer biomarkers market is projected to grow from $25.9 billion in 2026 to $37.8 billion by 2035, with a CAGR of 4.3%. Growth is driven by rising cancer incidence, personalized medicine adoption, advances in NGS and liquid biopsy technologies, and increased biomarker-driven diagnostics. HER2 testing leads by biomarker type (21.1% share), while breast cancer testing dominates by indication (25.1% share). North America captures 52.1% of global market revenue.",
-    "keywords": [
-      "cancer biomarkers",
-      "precision oncology",
-      "next-generation sequencing",
-      "liquid biopsy",
-      "personalized medicine",
-      "companion diagnostics",
-      "targeted therapies",
-      "immunotherapy",
-      "HER2 testing",
-      "EGFR biomarkers"
-    ],
-    "insights": [
-      {
-        "ticker": "RHHBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as pursuing biomarker-based drug development initiatives, positioning the company to benefit from the growing cancer biomarkers market expansion."
-      },
-      {
-        "ticker": "NVS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explicitly mentioned as continuing biomarker-based drug development initiatives, well-positioned to capitalize on the precision oncology and companion diagnostics growth."
-      },
-      {
-        "ticker": "TMO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among key market participants in cancer biomarker testing solutions, positioned to benefit from the 4.3% CAGR market growth through 2035."
-      },
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among key market participants specializing in liquid biopsy and biomarker testing, well-positioned in a high-growth market segment."
-      },
-      {
-        "ticker": "LH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among major cancer biomarker testing solution providers, positioned to benefit from increased demand for biomarker-driven diagnostics."
-      },
-      {
-        "ticker": "DGX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed among key market participants in cancer biomarker testing, positioned to capture market share in the expanding precision oncology diagnostics sector."
-      }
-    ]
-  },
-  {
-    "id": "8c04cdfdd5768b9fad2798d012e1fa3b37ca060f240382f247061b608264ec7b",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Ovarian Cancer Diagnostics Market Size to Reach USD 8.08 Billion by 2035 | SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-06-19T09:39:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/06/19/3314664/0/en/Ovarian-Cancer-Diagnostics-Market-Size-to-Reach-USD-8-08-Billion-by-2035-SNS-Insider.html",
-    "tickers": [
-      "RHHBY",
-      "JNJ",
-      "ABT",
-      "TMO",
-      "ILMN",
-      "MYGN",
-      "GH"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global ovarian cancer diagnostics market is valued at USD 4.92 billion in 2025 and is projected to reach USD 8.08 billion by 2035, growing at a CAGR of 5.06%. Growth is driven by rising ovarian cancer incidence, increasing adoption of AI-powered imaging, biomarker testing, and precision oncology diagnostics. North America leads with 41.2% market share, while imaging and hospital laboratories dominate their respective segments.",
-    "keywords": [
-      "ovarian cancer diagnostics",
-      "AI-powered imaging",
-      "biomarker testing",
-      "liquid biopsy",
-      "precision oncology",
-      "early cancer detection",
-      "market growth",
-      "CAGR 5.06%"
-    ],
-    "insights": [
-      {
-        "ticker": "RHHBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a leading market player with recent expansion of Cobas platform for CA-125 and HE4 assays, demonstrating active product development and market presence in ovarian cancer diagnostics."
-      },
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a leading market player in the growing ovarian cancer diagnostics sector with significant market opportunities."
-      },
-      {
-        "ticker": "ABT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major diagnostic firm with strong presence in North America's well-developed ovarian cancer diagnostics market."
-      },
-      {
-        "ticker": "TMO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included among leading market players positioned to benefit from growing adoption of biomarker testing and precision oncology diagnostics."
-      },
-      {
-        "ticker": "ILMN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key player with potential to benefit from increased adoption of next-generation sequencing in ovarian cancer diagnostics."
-      },
-      {
-        "ticker": "MYGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as a major diagnostic firm in North America with expertise in genetic testing, positioned to benefit from growing BRCA1/BRCA2 testing adoption."
-      },
-      {
-        "ticker": "GH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included as a leading player positioned to benefit from growing adoption of liquid biopsy technologies in ovarian cancer diagnostics."
       }
     ]
   }

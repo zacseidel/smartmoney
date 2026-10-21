@@ -1,243 +1,293 @@
 [
   {
-    "id": "4a47b5e6a635e7995fc20d5ac35a45b5bbf49e50498483c5efdce779aade4c5b",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Premarket in Green",
-    "author": "Na",
-    "published_utc": "2026-10-06T13:54:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3001057/premarket-in-green?cid=CS-ZC-FT-economic_highlights-3001057",
-    "tickers": [
-      "NVDA",
-      "PEP",
-      "DAL",
-      "STZ"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/de/144350.webp",
-    "description": "U.S. pre-market futures opened higher on Monday with the Nasdaq and S&P 500 building on recent gains, buoyed by anticipation of major tech earnings reports. However, the U.S. trade deficit widened significantly to -$105.6 billion in August, the deepest level in 18 months, driven by increased imports of microchips and higher oil prices. Oil prices declined below $100/bbl for Brent crude and below $90/bbl for WTI, while bond yields moderated with the 10-year at 5.277%.",
-    "keywords": [
-      "pre-market futures",
-      "tech earnings",
-      "trade deficit",
-      "microchip imports",
-      "oil prices",
-      "bond yields",
-      "AI buildout"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company highlighted as approaching $6 trillion market cap, with positive sentiment driven by anticipation of Q3 earnings and strong tech sector momentum"
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as upcoming earnings reporter with no specific sentiment indicators provided in the article"
-      },
-      {
-        "ticker": "DAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as upcoming earnings reporter with no specific sentiment indicators provided in the article"
-      },
-      {
-        "ticker": "STZ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Expected to report lower earnings growth (-0.28% YoY) due to changing consumer habits including belt-tightening and GLP-1 usage, with shares down significantly from 2024 levels"
-      }
-    ]
-  },
-  {
-    "id": "80b214f31113d9eadb541d5aa0926bc774db2f871aea14cd9f30a36c308cafdc",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Pre-Markets Up Following Record Nasdaq Close",
-    "author": "Na",
-    "published_utc": "2026-10-06T13:30:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3001032/pre-markets-up-following-record-nasdaq-close?cid=CS-ZC-FT-ahead_of_wall_street-3001032",
-    "tickers": [
-      "NVDA",
-      "STZ",
-      "PEP",
-      "DAL"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f2/176046.webp",
-    "description": "U.S. pre-market futures opened higher on October 6, 2026, with the Nasdaq and Dow gaining ahead of Q3 earnings season. However, the U.S. trade deficit deepened to $105.6 billion in August, the worst level in 18 months, driven by increased imports of microchips and higher oil prices. Key earnings reports from Constellation Brands, PepsiCo, and Delta Air Lines are expected this week.",
-    "keywords": [
-      "Q3 earnings",
-      "pre-market futures",
-      "trade deficit",
-      "microchips",
-      "oil prices",
-      "tariffs",
-      "consumer spending"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as approaching a $6 trillion market cap, with tech earnings anticipation helping unlock positive market sentiment"
-      },
-      {
-        "ticker": "STZ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Expected to report slightly lower earnings growth year-over-year (-0.28%), with shares down from 2024 levels due to changing consumer habits and GLP-1 usage affecting alcohol consumption"
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Upcoming Q3 earnings report expected this week; no specific performance indicators provided in the article"
-      },
-      {
-        "ticker": "DAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Upcoming Q3 earnings report expected this week; no specific performance indicators provided in the article"
-      }
-    ]
-  },
-  {
-    "id": "578ec0a30bbd3482e942e62f0910383eaff60fa59ea8fe816bc63ff5ef4883e7",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "PepsiCo Sharpens Price-Pack Strategy: Can Affordability Pay Off?",
-    "author": "Na",
-    "published_utc": "2026-10-06T13:04:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3001075/pepsico-sharpens-price-pack-strategy-can-affordability-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-3001075",
-    "tickers": [
-      "PEP",
-      "KO",
-      "MNST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b0/524.jpg",
-    "description": "PepsiCo is adjusting its price-pack architecture to enhance affordability as North America organic revenues declined 0.5% in Q2 2026. The company is leveraging portion-control multi-packs and permissible portfolio offerings to provide value at different price points while relying on record productivity savings to offset costs. Coca-Cola and Monster Beverage are similarly implementing affordability initiatives through diverse package formats and entry price points to address persistent consumer budget pressures.",
-    "keywords": [
-      "affordability strategy",
-      "price-pack architecture",
-      "consumer spending pressure",
-      "revenue decline",
-      "portion-control multi-packs",
-      "productivity savings",
-      "beverage industry"
-    ],
-    "insights": [
-      {
-        "ticker": "PEP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "North America organic revenues declined 0.5%, PepsiCo Foods North America posted a 2% net revenue decline, core operating margin contracted, and stock has lost 13.6% in three months. Company carries a Zacks Rank #4 (Sell) rating with EPS estimates moving downward."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Company is proactively implementing revenue growth management and diverse package formats to maintain affordability and address consumer pressures. Strategy appears balanced between affordability and premiumization, with no specific negative performance metrics mentioned."
-      },
-      {
-        "ticker": "MNST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is expanding affordable portfolio across multiple price points with growing momentum in EMEA region and strategic expansion in China and India. Initiatives are positioned to recruit new consumers and deepen household penetration in the expanding global energy-drink category."
-      }
-    ]
-  },
-  {
-    "id": "fd892b4acaab620dfd7b77c926c9c5745d100d989082f7d506bd65f2cc8125f6",
+    "id": "9a7e6b1053936aa4137ce7e45eeff9cb7804efa9a74f337a68ebf56376360949",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "3 Monster Consumer Stocks to Hold for the Next 20 Years",
-    "author": "Will Healy",
-    "published_utc": "2026-10-06T08:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/3-monster-consumer-stocks-to-hold-for-the-next-20/?source=iedfolrf0000001",
+    "title": "4 Top Dividend Stocks Yielding 4% or More to Buy Right Now for Passive Income",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-10-21T13:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/4-top-dividend-stocks-yielding-4-or-more-to-buy-ri/?source=iedfolrf0000001",
     "tickers": [
       "PEP",
-      "SJM",
-      "CLX"
+      "MKC",
+      "MKC.V",
+      "HRL",
+      "CLX",
+      "UL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889897%2Fshopper-walkng-the-aisles.jpg&w=1200&op=resize",
-    "description": "The article recommends three consumer staples stocks as long-term holdings: PepsiCo, which is pivoting toward healthier products with improving financials and a low P/E ratio; J.M. Smucker, benefiting from strong coffee brands and rising profitability; and Clorox, a distressed company offering an attractive 6.1% dividend yield despite current challenges. All three stocks feature strong brand portfolios and consistent dividend growth histories.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890324%2F26_10_19-a-person-looking-at-a-receipt-in-a-grocery-store-_mf-dload-gettyimages-2194690276-1281x854-f43835d.jpg&w=1200&op=resize",
+    "description": "Consumer staples companies PepsiCo, McCormick, Hormel, and Clorox are trading near 52-week lows due to headwinds including changing consumer preferences toward healthier products, budget constraints, and rising costs. However, these companies offer attractive dividend yields (4.1%-5.7%) and have proven track records as dividend growers, making them potentially opportunistic buys for long-term dividend investors.",
     "keywords": [
-      "consumer staples",
-      "long-term investing",
       "dividend stocks",
-      "dividend yield",
-      "brand portfolio",
-      "financial recovery",
-      "valuation"
+      "consumer staples",
+      "high yield",
+      "passive income",
+      "dividend growth",
+      "market headwinds"
     ],
     "insights": [
       {
         "ticker": "PEP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company is successfully pivoting toward healthier products, showing 7% revenue growth in recent quarter, strong net income improvement, low P/E ratio of 16, and extended 54-year dividend streak with 4.7% yield. Stock appears undervalued relative to improvements."
+        "sentiment_reasoning": "Dividend King with 50+ years of consecutive dividend increases, diversified business model, strong brand portfolio, and 3.1% organic sales growth despite headwinds. Currently trading at attractive 4.5% yield."
       },
       {
-        "ticker": "SJM",
+        "ticker": "MKC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong coffee brand portfolio (Dunkin', Folgers, Caf\u00e9 Bustelo) driving recent stock gains, 5% revenue growth, return to profitability with $324M profit vs. prior year loss, 25-year dividend growth streak, and attractive forward P/E ratio of 11 despite high trailing P/E."
+        "sentiment_reasoning": "39-year dividend growth streak, leading market position in spices and flavors, solid acquisition track record, and 4.1% yield. Unilever acquisition presents growth opportunity despite near-term uncertainty."
+      },
+      {
+        "ticker": "MKC.V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "39-year dividend growth streak, leading market position in spices and flavors, solid acquisition track record, and 4.1% yield. Unilever acquisition presents growth opportunity despite near-term uncertainty."
+      },
+      {
+        "ticker": "HRL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Dividend King with 50+ years of increases, new leadership driving strategic focus, Hormel Foundation ownership (47%) aligned with dividend sustainability, and highest yield at 5.7%."
       },
       {
         "ticker": "CLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "49-year dividend growth streak (near Dividend King status), diversified product portfolio, management projecting 4.5% organic sales growth for 2027, and 5.7% yield despite recent operational challenges."
+      },
+      {
+        "ticker": "UL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Company faces near-term headwinds including declining sales (-2%), rising input costs, and ERP system upgrade expenses. However, stock is at lowest point since 2013 with P/E of 17, strong brand heritage, and exceptional 6.1% dividend yield that exceeds 30-year Treasury rates, suggesting recovery potential."
+        "sentiment_reasoning": "Mentioned as seller of food business to McCormick and becoming major shareholder; neutral stance as supporting player in McCormick's acquisition strategy."
       }
     ]
   },
   {
-    "id": "6d41e32f91356e959b358c4b9faac1a106d1754647e0b91a8f29ec3b53553768",
+    "id": "97f0b952c1ead73248939c7d0374327b277ee1eb8a4acd09b0507fbaeb8c436c",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "CAVA vs. Celsius: Which Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T11:39:13Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/cava-vs-celsius-which-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "CAVA",
+      "CELH",
+      "PEP",
+      "SBUX",
+      "MNST"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares CAVA Group and Celsius Holdings as growth investment opportunities. CAVA, a Mediterranean fast-casual restaurant chain, shows strong traffic-driven growth with 31% revenue growth and 9% same-restaurant sales growth in Q2 2026. Celsius, an energy drink company, achieved 85.5% revenue growth in FY 2025 but disappointed in Q2 2026 with missed earnings estimates and compressed margins. The author recommends CAVA as the better long-term investment due to its solid unit economics and consistent execution, while noting Celsius faces risks from PepsiCo concentration and integration challenges.",
+    "keywords": [
+      "restaurant stocks",
+      "energy drinks",
+      "growth stocks",
+      "fast-casual dining",
+      "revenue growth",
+      "valuation comparison",
+      "same-restaurant sales"
+    ],
+    "insights": [
+      {
+        "ticker": "CAVA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong traffic-driven growth with 31% revenue growth and 9% same-restaurant sales growth in Q2 2026. Expanding unit economics, solid profitability with restaurant-level margins above 25%, and new locations outperforming expectations. Author explicitly recommends this stock as the better buy."
+      },
+      {
+        "ticker": "CELH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While showing impressive 85.5% FY 2025 revenue growth, Q2 2026 results were disappointing with missed earnings and revenue estimates, compressed gross margins, and sharply declining earnings. High customer concentration risk with PepsiCo representing 43.2% of revenue and ongoing legal challenges limit upside potential."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major distribution partner for Celsius, representing 43.2% of revenue. This concentration creates risk but also demonstrates significant market reach."
+      },
+      {
+        "ticker": "SBUX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to CAVA in the restaurant/beverage space with greater resources and scale."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a major competitor to Celsius in the energy drink market."
+      }
+    ]
+  },
+  {
+    "id": "87b15494cc8ec313068e1d0af0fe32df94d7aa4c62e796de807f7f187911f2e6",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Monster Beverage Is Gaining Market Share in the Energy Drink Category",
+    "author": "Parkev Tatevosian, Cfa",
+    "published_utc": "2026-10-21T03:26:49Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/monster-beverage-is-gaining-market-share-in-the-en/?source=iedfolrf0000001",
+    "tickers": [
+      "MNST",
+      "KO",
+      "PEP",
+      "KHC"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891854%2Fmqdefault_custom_3-4.jpg&w=1200&op=resize",
+    "description": "Monster Beverage is capitalizing on the booming energy drink industry and gaining market share. The company faces competition from other beverage manufacturers in this lucrative and expanding market segment.",
+    "keywords": [
+      "energy drink industry",
+      "market share",
+      "beverage sector",
+      "industry expansion",
+      "competition"
+    ],
+    "insights": [
+      {
+        "ticker": "MNST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article highlights that Monster is gaining market share in the booming energy drink category and capitalizing on industry expansion, indicating strong competitive positioning and growth prospects."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      },
+      {
+        "ticker": "KHC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point in related articles but no specific performance or competitive stance is discussed in the main article content."
+      }
+    ]
+  },
+  {
+    "id": "9b852f1fcea8a39e87fc4a017b55ae9ba2c3081d17f5ef0040f766310f2024f0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Dutch Bros vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
+    "author": "Anders Bylund",
+    "published_utc": "2026-10-20T21:21:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/dutch-bros-vs-celsius-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BROS",
+      "CELH",
+      "PEP",
+      "SBUX",
+      "MNST",
+      "AMZN",
+      "WMT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9f47a9c86129fa9e9bd5069d7cad23847c7af1cb-1290x860.png&w=1200&op=resize",
+    "description": "The article compares Dutch Bros and Celsius as growth stock investments in the shifting beverage market. Dutch Bros operates 1,225 drive-thru locations with 27.9% revenue growth and improving profitability (4.9% net margin), while Celsius achieved 85.5% revenue growth but declining earnings due to acquisitions. Dutch Bros trades at higher valuations but shows better earnings growth, while Celsius offers cheaper valuation and triple the free cash flow but faces heavy Pepsi distribution dependency. The author favors Dutch Bros for its combination of respectable top-line growth and rising profits.",
+    "keywords": [
+      "beverage market",
+      "growth stocks",
+      "drive-thru coffee",
+      "energy drinks",
+      "valuation comparison",
+      "profitability",
+      "distribution partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "BROS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company shows strong revenue growth (27.9%), improving profitability with net margin expanding to 4.9%, and positive earnings trajectory. Despite higher valuation multiples, the PEG ratio suggests reasonable value when accounting for growth expectations. The author explicitly recommends this stock over Celsius."
+      },
+      {
+        "ticker": "CELH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Celsius demonstrates exceptional revenue growth (85.5%) and strong free cash flow ($323.4M), earnings are declining and net margin contracted to 4.3%. The company faces significant concentration risk with Pepsi accounting for 43% of revenue and integration challenges from acquisitions. Cheaper valuation is offset by operational concerns."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Celsius' primary distribution partner controlling 43% of revenue, representing both an opportunity and a significant risk factor for Celsius' business independence and decision-making autonomy."
+      },
+      {
+        "ticker": "SBUX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Dutch Bros in the coffee retail market, representing industry competition but not directly analyzed in the comparison."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat in the functional beverage category competing with Celsius, but not directly analyzed."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      }
+    ]
+  },
+  {
+    "id": "243148d491fd0d26f98c503f4334463dbef200f663a428398d528b55e39677ca",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Zacks Investment Ideas feature highlights: PepsiCo, Levi and Constellation Brands",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-10-06T04:33:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3000612/zacks-investment-ideas-feature-highlights-pepsico-levi-and-constellation-brands?cid=CS-ZC-FT-press_releases-3000612",
+    "title": "Will PepsiCo's Q3 Turnaround Boost These ETFs?",
+    "author": "Na",
+    "published_utc": "2026-10-20T14:39:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011326/will-pepsico-s-q3-turnaround-boost-these-etfs?cid=CS-ZC-FT-etf_news_and_commentary-3011326",
     "tickers": [
       "PEP",
-      "LEVI",
-      "STZ"
+      "FTXG",
+      "IYK",
+      "GXPS"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/102.jpg",
-    "description": "Three consumer-facing stocks are set to report Q3 earnings this week. PepsiCo will release results on October 8th, with focus on North American business health amid consumer affordability concerns. Levi Strauss reports October 7th with solid momentum and direct-to-consumer strategy progress expected. Constellation Brands reports October 6th with beer segment performance and management guidance on fiscal 2027 EPS outlook in focus.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/df/1936.jpg",
+    "description": "PepsiCo reported Q3 fiscal 2026 revenues of $25.27 billion and core EPS of $2.34, beating estimates, but faces margin pressure from rising commodity and energy costs. The company lowered its full-year core EPS growth guidance to 2.5-3.5% from 5-7% and plans additional cost-cutting measures. The results highlight PepsiCo's exposure through major consumer staples ETFs.",
     "keywords": [
-      "Q3 earnings",
-      "consumer demand",
-      "earnings season",
-      "volume trends",
-      "direct-to-consumer strategy",
-      "beer segment",
-      "affordability concerns"
+      "PepsiCo earnings",
+      "Q3 2026 results",
+      "margin pressure",
+      "cost-cutting",
+      "consumer staples ETF",
+      "guidance reduction"
     ],
     "insights": [
       {
         "ticker": "PEP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Company showed positive recent results with 6.4% revenue growth and reaffirmed guidance, but upcoming earnings will be closely watched due to continued consumer affordability concerns that could impact volume trends."
+        "sentiment_reasoning": "Mixed results with revenue and EPS beats offset by declining margins, reduced guidance, and rising cost pressures. While the company demonstrated demand generation, the margin compression and lowered outlook indicate challenges ahead despite cost-cutting initiatives."
       },
       {
-        "ticker": "LEVI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company entered earnings period with solid momentum, posting 8% reported revenue growth, 27% YoY EPS growth, and raised full-year outlook. Continued progress in direct-to-consumer strategy and geographic expansion expected."
-      },
-      {
-        "ticker": "STZ",
+        "ticker": "FTXG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Latest results were mixed with reported sales declining 3% YoY due to wine divestitures, though beer segment showed 2% growth. Management maintained fiscal 2027 EPS guidance, indicating stable outlook despite recent headwinds."
+        "sentiment_reasoning": "ETF holds 7.9% PepsiCo exposure. Sentiment reflects the mixed performance of its largest holding, with both positive earnings beats and concerning margin pressures affecting the fund's outlook."
+      },
+      {
+        "ticker": "IYK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ETF holds 6.8% PepsiCo exposure. Neutral sentiment reflects the balanced nature of PepsiCo's results within a diversified consumer staples portfolio, with both positive and negative factors present."
+      },
+      {
+        "ticker": "GXPS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "ETF holds 5.74% PepsiCo exposure. Neutral sentiment reflects the mixed earnings results and guidance reduction, though the lower weighting provides some diversification buffer."
       }
     ]
   }

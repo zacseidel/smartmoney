@@ -1,276 +1,281 @@
 [
   {
-    "id": "df9243607674755a8e657617cec4a3ae9a9a89508c3cee24cebc20915f617bca",
+    "id": "87989f3ea366b52adb12d9f69b5498d9b28a759f83de921bd9f3b6e89ac08d87",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "3 Top Dividend Stocks That Are Trading Near Their 52-Week Lows",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-08-18T15:17:12Z",
-    "article_url": "https://www.fool.com/investing/2026/08/18/3-top-dividend-stocks-that-are-trading-near-their-52-week-lows/?source=iedfolrf0000001",
+    "title": "Is Invesco S&P 500 Equal Weight Consumer Staples ETF (RSPS) a Strong ETF Right Now?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-19T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3010256/is-invesco-s-p-500-equal-weight-consumer-staples-etf-rsps-a-strong-etf-right-now?cid=CS-ZC-FT-smart_beta_etf-3010256",
     "tickers": [
+      "RSPS",
+      "VDC",
+      "XLP",
       "KR",
-      "DUK",
-      "DUKB",
-      "DUKH",
-      "DUKpA",
-      "MCD"
+      "COST",
+      "PM"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fef5da5e9b56ea03237653c0902f88bf98b80b298-2000x1333.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Three dividend stocks trading near 52-week lows offer attractive yields above the S&P 500 average: Kroger (2.6% yield), Duke Energy (3.5% yield), and McDonald's (2.8% yield). All three companies demonstrate stable operations with modest growth, making them appealing for income-focused investors seeking long-term holdings with reduced entry prices.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default41.jpg",
+    "description": "RSPS, an equal-weight consumer staples ETF launched in 2006, has gained 8.93% year-to-date with a 0.40% expense ratio. The fund holds 36 consumer staples stocks with top holdings including Kroger, Costco, and Philip Morris. While it offers diversified exposure, cheaper alternatives like VDC (0.09% expense ratio) and XLP (0.08% expense ratio) may be more attractive for cost-conscious investors.",
     "keywords": [
-      "dividend stocks",
-      "52-week lows",
-      "income investing",
-      "yield",
-      "stable growth",
-      "long-term investment"
+      "ETF",
+      "consumer staples",
+      "equal weight",
+      "smart beta",
+      "expense ratio",
+      "performance",
+      "diversification"
     ],
     "insights": [
       {
+        "ticker": "RSPS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The ETF shows moderate performance (8.93% YTD) and reasonable diversification with 36 holdings, but has a higher expense ratio (0.40%) compared to competitors and more concentrated exposure than peers, making it a reasonable but not exceptional choice."
+      },
+      {
+        "ticker": "VDC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Significantly lower expense ratio (0.09%) and substantially larger asset base ($8.01 billion) make it a more attractive alternative for cost-conscious investors seeking lower-risk, market cap-weighted exposure."
+      },
+      {
+        "ticker": "XLP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Lowest expense ratio (0.08%) and largest asset base ($14.6 billion) among the alternatives mentioned, making it the most cost-efficient option for traditional market cap-weighted consumer staples exposure."
+      },
+      {
         "ticker": "KR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading near 52-week low with 2.6% dividend yield (double S&P 500 average), stable recurring income, solid business fundamentals, and attractive valuation at 11x estimated future earnings make it compelling for dividend investors."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as the largest holding in RSPS at 3.31% of assets, but no specific performance or outlook information provided in the article."
       },
       {
-        "ticker": "DUK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offering 3.5% yield with essential utility services providing stable cash flows, low volatility, and trading within 10% of 52-week low. Strong operating income growth and reliable business model appeal to conservative income investors."
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a top holding in RSPS, but no specific performance or outlook information provided in the article."
       },
       {
-        "ticker": "DUKB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offering 3.5% yield with essential utility services providing stable cash flows, low volatility, and trading within 10% of 52-week low. Strong operating income growth and reliable business model appeal to conservative income investors."
-      },
-      {
-        "ticker": "DUKH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offering 3.5% yield with essential utility services providing stable cash flows, low volatility, and trading within 10% of 52-week low. Strong operating income growth and reliable business model appeal to conservative income investors."
-      },
-      {
-        "ticker": "DUKpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offering 3.5% yield with essential utility services providing stable cash flows, low volatility, and trading within 10% of 52-week low. Strong operating income growth and reliable business model appeal to conservative income investors."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Down 12% year-to-date with 2.8% yield, trading near 52-week low. Strong financials, 49 consecutive years of dividend increases, and consistent growth make it attractive for long-term dividend investors despite modest comparable sales growth."
+        "ticker": "PM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed among top holdings in RSPS, but no specific performance or outlook information provided in the article."
       }
     ]
   },
   {
-    "id": "785adb385db7b158fef573284a3975e76526fecbeb8f9e614be05c03f12469fa",
+    "id": "7f32584d818735d860af413ff417b36b7f9fdc2f306be40d093b801f9dd20df7",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "You Can't Invest In Trader Joe's, But This Mexican Grocery Stock With the Same Business Model Might Be Even Better",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-08-14T00:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/13/you-cant-invest-in-trader-joes-but-this-mexican-su/?source=iedfolrf0000001",
+    "title": "Kroger (KR) Increases Despite Market Slip: Here's What You Need to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-12T21:15:05Z",
+    "article_url": "https://www.zacks.com/stock/news/3005538/kroger-kr-increases-despite-market-slip-here-s-what-you-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6v3-3005538",
     "tickers": [
-      "TBBB",
       "KR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F883343%2Ftiendas-bbb-3b-foods.jpg&w=1200&op=resize",
-    "description": "BBB Foods (TBBB), a Mexican grocery chain operating Tiendas 3B stores, is rapidly expanding with a business model similar to Trader Joe's and Aldi. The company reported 20% same-store sales growth in Q2 2026, reaching 3,624 stores with plans to quadruple its footprint. The stock has nearly tripled since its 2024 IPO, with a fair price-to-sales ratio of 1.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default199.jpg",
+    "description": "Kroger stock closed at $62.56, up 1.49% and outperforming the broader market decline. The company is expected to report EPS of $1.16 (up 10.48% YoY) and revenue of $34.57 billion (up 2.1% YoY). With a Forward P/E of 11.87 below the industry average of 13.69, Kroger trades at a discount. However, the stock holds a Zacks Rank of #3 (Hold) with a slight 0.29% downward EPS revision in the past 30 days.",
     "keywords": [
-      "grocery retail",
-      "discount supermarket",
-      "private-label strategy",
-      "same-store sales growth",
-      "expansion",
-      "Mexico",
-      "IPO",
-      "comparable sales"
-    ],
-    "insights": [
-      {
-        "ticker": "TBBB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 results with 20% same-store sales growth, 38.7% revenue growth, aggressive expansion adding 155 stores, stock tripled since IPO, and fair valuation at 1x price-to-sales ratio. Company demonstrates strong demand with no cannibalization despite rapid growth."
-      },
-      {
-        "ticker": "KR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a comparison point for store size and sales per square foot metrics. No specific analysis or recommendation provided."
-      }
-    ]
-  },
-  {
-    "id": "0feb17b44c715150ddc1e56f360ab5e9dbadd15c7c95af412d2af8a0004b3430",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Reasons to Buy and Hold This Dividend King (and 1 Reason Not To)",
-    "author": "James Brumley",
-    "published_utc": "2026-08-09T11:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/09/3-reasons-to-buy-and-hold-this-dividend-king-and-o/?source=iedfolrf0000001",
-    "tickers": [
-      "WMT",
-      "AMZN",
-      "TGT",
-      "KR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881410%2Fwoman-shopping-in-a-grocery-store.jpg&w=1200&op=resize",
-    "description": "Walmart is presented as a compelling buy-and-hold investment due to its 53-year dividend increase streak, dominant market position with 5,215 U.S. stores, and strong e-commerce growth (26% YoY). However, the stock offers a low dividend yield of 0.86%, making it less attractive for income-focused investors. Despite recent 16% decline from May's peak due to consumer pressure concerns and capital spending, analysts remain bullish with a consensus price target of $139.84.",
-    "keywords": [
-      "Dividend King",
-      "dividend growth",
-      "brick-and-mortar retail",
-      "e-commerce growth",
-      "market valuation",
-      "consumer staples",
-      "stock buybacks"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamentals with 53 consecutive years of dividend increases, dominant market position with 5,215 U.S. stores, impressive e-commerce growth of 26% YoY, and 37% growth in high-margin advertising revenue. Stock is trading 16% below May peak, presenting a buying opportunity. Analyst consensus remains bullish with $139.84 price target."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as an online retail competitor. Walmart's e-commerce growth of 26% exceeded Amazon's performance in the same period, but no specific sentiment is expressed about Amazon itself."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a direct competitor with approximately 2,000 stores, significantly fewer than Walmart's 5,215, but no specific sentiment or analysis provided."
-      },
-      {
-        "ticker": "KR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with nearly 2,800 stores, but no specific sentiment or analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "a1fa153e2ac397a1be7f744a4b50b1f7ac68ad1180800085cb4e106a2cc48549",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Magnificent Stocks to Buy That Are Near 52-Week Lows",
-    "author": "John Ballard",
-    "published_utc": "2026-08-01T09:31:00Z",
-    "article_url": "https://www.fool.com/investing/2026/08/01/3-magnificent-stocks-buy-near-52-week-lows/?source=iedfolrf0000001",
-    "tickers": [
-      "PEP",
-      "KR",
-      "MCD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F880218%2Fbuy-the-dip.jpg&w=1200&op=resize",
-    "description": "PepsiCo, Kroger, and McDonald's are trading near 52-week lows despite solid underlying performance. All three companies offer attractive dividend yields and reasonable valuations, making them potentially rewarding long-term investments for dividend-focused investors seeking defensive consumer staples exposure.",
-    "keywords": [
-      "dividend stocks",
-      "52-week lows",
-      "consumer staples",
+      "Kroger",
+      "stock performance",
+      "earnings forecast",
       "valuation",
-      "dividend yield",
-      "defensive stocks"
+      "Zacks Rank",
+      "supermarket sector"
     ],
     "insights": [
       {
-        "ticker": "PEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading near 52-week low of $134 despite solid 2.5% organic revenue growth and 3% earnings growth. Offers attractive 4% dividend yield, reasonable 17x forward P/E multiple, and projected 7% annualized earnings growth. Strong brand portfolio and global distribution provide competitive advantages."
-      },
-      {
         "ticker": "KR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading near 52-week low of $54 with strong customer loyalty and durable competitive edge. Trailing-12-month adjusted earnings grew 9% despite modest 1.1% revenue growth. Trades at attractive 11x forward earnings with 2.3% dividend yield and projected 7% annual earnings growth."
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Trading about 5% above 52-week low despite 11% year-to-date decline. Global systemwide sales grew 6% with 3.8% comparable sales growth. Highly profitable model with 46% adjusted operating margin, 95% franchised restaurants, and 2.70% dividend yield supported by high-single-digit earnings growth projections."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Kroger showed positive stock price movement (+1.49%) and outperformed the market, it received a Hold rating (Zacks Rank #3) rather than a buy recommendation. Expected earnings growth is solid at 10.48% YoY, and the stock trades at a valuation discount. However, recent EPS estimate revisions moved slightly lower (-0.29%), and the supermarket industry ranks in the bottom 15% of sectors, suggesting limited upside potential."
       }
     ]
   },
   {
-    "id": "9347c285bd644e8b359ef854a39ab7c779185c6b018e03d36835ae71eec85431",
+    "id": "3e93ba726c3ed1eabd614eb2df91e16889829322544a3e71f3ba9dc3d3796089",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Warren Buffett's Hand-Picked Successor, Greg Abel, Has 30% of Berkshire Hathaway's Portfolio Invested in Apple and Alphabet. But There's an Under-the-Radar Berkshire Stock That Is My Top Pick for July.",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-07-16T09:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/07/16/warren-buffetts-hand-picked-successor-greg-abel-ha/?source=iedfolrf0000001",
+    "title": "Greg Abel Has 12.5% of Berkshire Hathaway's Portfolio in 3 Consumer Stocks. Here's My Top Pick to Buy Now.",
+    "author": "Bram Berkowitz",
+    "published_utc": "2026-10-11T16:32:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/11/greg-abel-has-125-of-berkshire-hathaways-portfolio/?source=iedfolrf0000001",
     "tickers": [
+      "KO",
+      "KHC",
+      "KR",
       "BRK.A",
-      "BRK.B",
-      "AAPL",
-      "GOOG",
-      "GOOGM",
-      "GOOGN",
-      "KR"
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F878134%2Fbuffett17-tmf-1.jpg&w=1200&op=resize",
-    "description": "Greg Abel, Berkshire Hathaway's new CEO, has concentrated 30% of the portfolio in Apple and Alphabet. However, the article recommends Kroger as a defensive stock pick for July, trading near 52-week lows with strong dividend growth and potential 24% upside according to Wall Street analysts.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890331%2Fgreg-abel-getty.jpg&w=1200&op=resize",
+    "description": "Greg Abel, Berkshire Hathaway's new CEO, oversees a $350 billion+ stock portfolio that includes three consumer stocks comprising 12.5% of holdings: Coca-Cola, Kraft Heinz, and Kroger. The article recommends Coca-Cola as the top pick due to its strong brand, consistent dividend growth (64 consecutive years), and thriving business performance, while cautioning that Kraft Heinz remains a turnaround risk and Kroger faces competitive pressures.",
     "keywords": [
       "Berkshire Hathaway",
       "Greg Abel",
-      "defensive stocks",
-      "market correction",
+      "consumer stocks",
       "dividend stocks",
-      "portfolio diversification"
+      "portfolio allocation"
     ],
     "insights": [
       {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Described as a 'best-in-breed consumer staples play' with proven dividend growth (64 consecutive years as a Dividend King), strong brand, diverse beverage lineup, and strongest trademark growth in 17 years. Listed as a 'core' holding by Berkshire with limited activity expected."
+      },
+      {
+        "ticker": "KHC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Characterized as 'one of Buffett's biggest mistakes' with significant debt, struggling brands due to shifting consumer preferences, and a history of underperformance since the 2015 merger. Despite recent restructuring efforts and a high dividend yield (7.3%), it's described as potentially remaining a 'value trap.'"
+      },
+      {
+        "ticker": "KR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as a defensive consumer staples pick with modest growth (2.1% sales growth, 5% adjusted earnings growth) and slim profit margins. While not a bad investment, it underperforms the broader market and faces competition from online and discount retailers. Useful for market downturns but lacks the strength of Coca-Cola."
+      },
+      {
         "ticker": "BRK.A",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the primary investment vehicle with significant concentration in tech stocks (Apple and Alphabet at 30%), but no direct recommendation or criticism of the company itself."
+        "sentiment_reasoning": "Presented as context for the portfolio analysis under new CEO Greg Abel. No specific sentiment is expressed about Berkshire itself, only about its holdings and management transition."
       },
       {
         "ticker": "BRK.B",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the primary investment vehicle with significant concentration in tech stocks (Apple and Alphabet at 30%), but no direct recommendation or criticism of the company itself."
+        "sentiment_reasoning": "Presented as context for the portfolio analysis under new CEO Greg Abel. No specific sentiment is expressed about Berkshire itself, only about its holdings and management transition."
+      }
+    ]
+  },
+  {
+    "id": "f8ea205f8228842b571e233121e1c7a8820b33867a4dd32857077b5446a7ee19",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
+    "author": "John Bromels",
+    "published_utc": "2026-10-06T09:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/06/costco-is-down-10-in-6-months-while-the-sp-500-is/?source=iedfolrf0000001",
+    "tickers": [
+      "COST",
+      "WMT",
+      "TGT",
+      "BBY",
+      "KR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887923%2Fcost.jpg&w=1200&op=resize",
+    "description": "Costco's stock has underperformed the S&P 500 by 27 percentage points over the last six months, despite growing revenue, profits, and membership renewal rates. While the company maintains a premium valuation compared to retail peers due to strong membership loyalty, the article argues that at current prices, Costco is not as cheap as it appears. Headwinds from tariffs and fuel costs, combined with elevated valuations, suggest investors seeking faster growth may find better opportunities elsewhere.",
+    "keywords": [
+      "retail stocks",
+      "valuation metrics",
+      "membership renewal",
+      "tariffs",
+      "fuel costs",
+      "price-to-earnings ratio",
+      "buy-and-hold investing"
+    ],
+    "insights": [
+      {
+        "ticker": "COST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Costco demonstrates strong fundamentals with growing revenue, profits, and high membership renewal rates (92.3%), the article concludes the stock is not a bargain at current prices. The company trades at a significant premium to peers and faces headwinds from tariffs and fuel costs. Suitable only for long-term buy-and-hold investors, not for those seeking faster growth."
       },
       {
-        "ticker": "AAPL",
+        "ticker": "WMT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as a major holding (part of 30% concentration) but presented as part of a potentially overweighted tech position rather than as an individual recommendation."
+        "sentiment_reasoning": "Mentioned as a successful retail competitor with 415% growth over the last decade, but no specific investment recommendation or analysis provided. Used primarily as a comparison point to Costco's superior long-term performance."
       },
       {
-        "ticker": "GOOG",
+        "ticker": "TGT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Highlighted as a top-five holding and recently boosted by Abel, but presented as part of concentrated tech exposure rather than as a standalone recommendation."
+        "sentiment_reasoning": "Included in valuation comparison table showing lower P/S, P/E, and P/FCF ratios than Costco, suggesting cheaper valuation metrics. No specific recommendation or analysis provided."
       },
       {
-        "ticker": "GOOGL",
+        "ticker": "BBY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Highlighted as a top-five holding and recently boosted by Abel, but presented as part of concentrated tech exposure rather than as a standalone recommendation."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Highlighted as a top-five holding and recently boosted by Abel, but presented as part of concentrated tech exposure rather than as a standalone recommendation."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Highlighted as a top-five holding and recently boosted by Abel, but presented as part of concentrated tech exposure rather than as a standalone recommendation."
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio among peers. No specific recommendation or analysis provided."
       },
       {
         "ticker": "KR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio (0.25) among all retailers listed. No specific recommendation or analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "944c88e0c52aacd9a0d2494568da6b8cdb1f54b7c8eaca4cdd199490920efb91",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Greg Abel-Led Berkshire Hathaway Owns 26 Dividend Stocks. Here's the One I'd Buy First.",
+    "author": "Dave Kovaleski",
+    "published_utc": "2026-10-05T14:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/05/greg-abel-led-berkshire-hathaway-owns-26-dividend/?source=iedfolrf0000001",
+    "tickers": [
+      "STZ",
+      "KO",
+      "KR",
+      "CVX",
+      "AXP",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889214%2Fgregory_abel_berkshire-hathaway-inc_ceo_imagesource_getty-images_47.jpg&w=1200&op=resize",
+    "description": "Berkshire Hathaway's portfolio includes 26 dividend-paying stocks out of 29 total holdings. The article recommends Constellation Brands as the top dividend stock to buy, citing its 3.64% yield, cheap valuation at 11x earnings, strong free cash flow growth, and analyst price target suggesting 54% upside potential, despite recent headwinds from demographic shifts and immigration policy impacts.",
+    "keywords": [
+      "dividend stocks",
+      "Berkshire Hathaway",
+      "Constellation Brands",
+      "dividend yield",
+      "valuation",
+      "free cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "STZ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the top pick for July due to defensive characteristics, trading at 52-week lows, strong dividend yield (2.63%), 19 years of dividend increases, undervalued valuation metrics (0.57 PEG ratio), and 24% upside potential according to Wall Street analysts."
+        "sentiment_reasoning": "Recommended as the top dividend stock to buy from Berkshire's portfolio. Positive factors include: 3.64% dividend yield, low 34% payout ratio, 10-year dividend growth streak, 11x P/E valuation, 9% free cash flow growth, and 62% analyst buy rating with $173.50 price target implying 54% upside. Headwinds acknowledged but offset by strong fundamentals."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an excellent dividend stock in Berkshire's portfolio but not selected as the top recommendation, suggesting it is solid but less attractive than Constellation Brands at current valuations."
+      },
+      {
+        "ticker": "KR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Briefly mentioned as an excellent dividend stock held by Berkshire but receives no detailed analysis or recommendation."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Briefly mentioned as an excellent dividend stock held by Berkshire but receives no detailed analysis or recommendation."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an excellent dividend stock held by Berkshire but receives no detailed analysis or recommendation."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the portfolio holder with a disciplined approach to dividends and strong stock selection, but no specific investment recommendation or performance commentary provided."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the portfolio holder with a disciplined approach to dividends and strong stock selection, but no specific investment recommendation or performance commentary provided."
       }
     ]
   }

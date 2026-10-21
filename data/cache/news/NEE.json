@@ -1,17 +1,435 @@
 [
   {
-    "id": "aac3ce225af52126374b26e44eb3be4506d3d53c1da427cd85e5a398b2cd71cc",
+    "id": "5b78693b6ca60a03ae764e378d348e6c023414d3bd51b7f72b7419f9c11d7eea",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "NextEra Energy (NEE) Laps the Stock Market: Here's Why",
+    "title": "Pre-Markets Up on Cooling Metrics, Decent Q3 Reports",
     "author": "Na",
-    "published_utc": "2026-10-06T20:45:05Z",
-    "article_url": "https://www.zacks.com/stock/news/3001357/nextera-energy-nee-laps-the-stock-market-here-s-why?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001357",
+    "published_utc": "2026-10-21T13:42:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3012023/pre-markets-up-on-cooling-metrics-decent-q3-reports?cid=CS-ZC-FT-ahead_of_wall_street-3012023",
     "tickers": [
+      "SPCX",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "ABT",
+      "CME",
+      "META",
+      "TSLA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ce/129551.webp",
+    "description": "Stock futures opened higher on October 21st, 2026, as bond yields and oil prices cooled from recent highs. SpaceX surged 8% after posting impressive Q3 earnings with 161% revenue growth. Mixed earnings from NEE, ABT, and CME set the stage for major Mag 7 earnings releases after the close, with Meta and Tesla expected to report results amid ongoing market scrutiny.",
+    "keywords": [
+      "Q3 earnings",
+      "pre-market gains",
+      "bond yields",
+      "oil prices",
+      "Mag 7 earnings",
+      "revenue growth",
+      "stock market"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Revenues escalated 161% year-over-year to $14.58 billion with earnings tripling expectations at $0.45 per share; 9x growth in AI business drove strong performance; shares up 8.2% in pre-market and 18% from IPO price"
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Earnings missed estimates by $0.01 per share despite revenue beat; concerns about Nutrition business spinoff; shares down 3.36% and down 18.2% year-to-date"
+      },
+      {
+        "ticker": "CME",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Outpaced estimates on both earnings ($3.02 vs $2.98 expected) and revenues ($1.74B beat by 1.43%); solid performance though shares flat ahead of bell"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Expected to report negative earnings growth of -52.4% despite impressive 23.68% revenue growth; looking to bounce back from Q2 miss; up 5% year-to-date but earnings decline is concerning"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Carries Zacks Rank #4 (Sell) rating; expected -10% earnings growth with minimal revenue gains; down 14.7% year-to-date despite 3% pre-market gain; facing SpaceX takeover speculation uncertainty"
+      }
+    ]
+  },
+  {
+    "id": "72e779f34377ef1437125dc91a0490773b0252843b8444a36580cddff567d831",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NextEra Energy Q3 Earnings Beat on FPL Strength, Revenues Miss",
+    "author": "Na",
+    "published_utc": "2026-10-21T13:35:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3012019/nextera-energy-q3-earnings-beat-on-fpl-strength-revenues-miss?cid=CS-ZC-FT-analyst_blog|earnings_article-3012019",
+    "tickers": [
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "D",
+      "XEL",
+      "XELLL",
+      "EXC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/644.jpg",
+    "description": "NextEra Energy (NEE) reported Q3 adjusted EPS of $1.24, beating consensus estimates by 3.3%, driven by strong performance from Florida Power & Light and NextEra Energy Resources. The company added 3.7 GW to its renewables backlog and maintained its 2026 EPS guidance of $3.92-$4.02. However, total revenues missed expectations. NEE continues advancing its pending merger with Dominion Energy, expected to close in H2 2027.",
+    "keywords": [
+      "earnings",
+      "renewable energy",
+      "utility",
+      "capital investments",
+      "battery storage",
+      "merger",
+      "guidance"
+    ],
+    "insights": [
+      {
+        "ticker": "NEE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat EPS estimates by 3.3%, strong earnings growth of 9.7% YoY, expanded renewables backlog by 3.7 GW, maintained full-year guidance, and advancing strategic Dominion merger. Offset slightly by revenue miss."
+      },
+      {
+        "ticker": "D",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Pending merger with NextEra Energy advancing following shareholder approval, expected to close H2 2027. Combined company projected to deliver adjusted EPS growth exceeding 9% annually through 2032."
+      },
+      {
+        "ticker": "XEL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as upcoming earnings release with consensus EPS estimate of $1.35 and expected YoY growth of 8.87%. No performance data provided."
+      },
+      {
+        "ticker": "XELLL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as upcoming earnings release with consensus EPS estimate of $1.35 and expected YoY growth of 8.87%. No performance data provided."
+      },
+      {
+        "ticker": "EXC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as upcoming earnings release with consensus EPS estimate of 80 cents, but consensus indicates a 6.98% decline YoY. No actual performance data provided."
+      }
+    ]
+  },
+  {
+    "id": "f011576862293ca0d953854a3d0dd16b919e1fc9e616f7086834da47f34c2f24",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "GE Vernova Highlights Spain's Path to Reliable, Net-Zero Electricity",
+    "author": "Na",
+    "published_utc": "2026-10-21T12:50:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011822/ge-vernova-highlights-spain-s-path-to-reliable-net-zero-electricity?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-3011822",
+    "tickers": [
+      "GEV",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "DUK",
+      "DUKB",
+      "DUKH",
+      "DUKU",
+      "DUKpA",
+      "SO",
+      "SOJC",
+      "SOJD",
+      "SOJE",
+      "SOJF",
+      "SOMN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b6/36351.jpg",
+    "description": "GE Vernova outlines four pathways for Spain to achieve net-zero electricity by 2050, with wind and solar capacity potentially reaching 150-250 GW. The analysis emphasizes that even renewable-heavy systems require 15-20% firm, dispatchable capacity for reliability, creating investment opportunities in grid modernization, energy storage, and flexible generation technologies.",
+    "keywords": [
+      "net-zero electricity",
+      "Spain energy transition",
+      "renewable energy",
+      "grid modernization",
+      "energy storage",
+      "firm capacity",
+      "power generation"
+    ],
+    "insights": [
+      {
+        "ticker": "GEV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GE Vernova's analysis of Spain's energy transition highlights substantial investment opportunities in grid equipment, system stability, and reliable electricity supply. The company's power generation and electrification businesses are well-positioned to benefit from increased utility spending on grid modernization and flexible generation technologies."
+      },
+      {
+        "ticker": "NEE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "NextEra Energy's diversified portfolio combining regulated utilities with renewable energy and storage development aligns well with the trend toward clean energy integration while maintaining reliability. Recent expansion of 3.6 GW in renewables and storage demonstrates active positioning in this growing market."
+      },
+      {
+        "ticker": "DUK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duke Energy's $103 billion investment plan (2026-2030) and deployment of over $1 billion monthly in generation and grid infrastructure directly align with the infrastructure needs identified in Spain's energy transition analysis."
+      },
+      {
+        "ticker": "DUKB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duke Energy's $103 billion investment plan (2026-2030) and deployment of over $1 billion monthly in generation and grid infrastructure directly align with the infrastructure needs identified in Spain's energy transition analysis."
+      },
+      {
+        "ticker": "DUKH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duke Energy's $103 billion investment plan (2026-2030) and deployment of over $1 billion monthly in generation and grid infrastructure directly align with the infrastructure needs identified in Spain's energy transition analysis."
+      },
+      {
+        "ticker": "DUKU",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duke Energy's $103 billion investment plan (2026-2030) and deployment of over $1 billion monthly in generation and grid infrastructure directly align with the infrastructure needs identified in Spain's energy transition analysis."
+      },
+      {
+        "ticker": "DUKpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Duke Energy's $103 billion investment plan (2026-2030) and deployment of over $1 billion monthly in generation and grid infrastructure directly align with the infrastructure needs identified in Spain's energy transition analysis."
+      },
+      {
+        "ticker": "SO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      },
+      {
+        "ticker": "SOJC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      },
+      {
+        "ticker": "SOJD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      },
+      {
+        "ticker": "SOJE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      },
+      {
+        "ticker": "SOJF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      },
+      {
+        "ticker": "SOMN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Southern Company's diversified energy strategy including natural gas, nuclear, renewables, and storage, combined with 10 GW of approved new generation capacity and grid modernization investments, positions it well to benefit from the balanced energy mix approach outlined in the analysis."
+      }
+    ]
+  },
+  {
+    "id": "0ea8d42549e33f8d7a8b931d21b7488d3872c7bb3d0658c1d3b6d548dcf31602",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "NextEra Energy (NEE) Q3 Earnings Beat Estimates",
+    "author": "Na",
+    "published_utc": "2026-10-21T11:45:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3011615/nextera-energy-nee-q3-earnings-beat-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-3011615",
+    "tickers": [
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "PPL",
+      "PPLC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default11.jpg",
+    "description": "NextEra Energy (NEE) reported quarterly earnings of $1.24 per share, beating the consensus estimate of $1.20 and surpassing the prior year's $1.13. However, the company missed revenue expectations with $8.09 billion versus the estimated $8.89 billion. The stock has underperformed the S&P 500 by 14.5% year-to-date and carries a Zacks Rank #3 (Hold) rating, suggesting near-term performance in line with the market.",
+    "keywords": [
+      "earnings surprise",
+      "revenue miss",
+      "utility sector",
+      "earnings estimates",
+      "stock performance"
+    ],
+    "insights": [
+      {
+        "ticker": "NEE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the company beat EPS expectations by 3.33%, it significantly missed revenue estimates by 10.97%. The stock has underperformed the broader market year-to-date, and the Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward. Mixed earnings results and mixed estimate revision trends support a neutral outlook."
+      },
+      {
+        "ticker": "PPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL is expected to report earnings of $0.53 per share, representing a 10.4% year-over-year increase with revenues expected to grow 8.9%. However, consensus EPS estimates were revised 0.5% lower over the last 30 days, suggesting modest positive fundamentals tempered by slight recent estimate reductions."
+      },
+      {
+        "ticker": "PPLC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PPL is expected to report earnings of $0.53 per share, representing a 10.4% year-over-year increase with revenues expected to grow 8.9%. However, consensus EPS estimates were revised 0.5% lower over the last 30 days, suggesting modest positive fundamentals tempered by slight recent estimate reductions."
+      }
+    ]
+  },
+  {
+    "id": "efb531fbec87fa52f2e1635161867f3345f8a8ed4e85f4f4459ffe3c7ce31910",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "CEG Stock Outperforms Industry in 3 Months: Time to Buy or Hold Now?",
+    "author": "Na",
+    "published_utc": "2026-10-20T13:59:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011351/ceg-stock-outperforms-industry-in-3-months-time-to-buy-or-hold-now?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3011351",
+    "tickers": [
+      "CEG",
+      "VST",
       "NEE",
       "NEEpN",
       "NEEpS",
@@ -20,365 +438,63 @@
       "NEEpV",
       "NEEpW"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default213.jpg",
-    "description": "NextEra Energy (NEE) closed at $77.88, up 2.1%, outperforming the S&P 500. The stock has declined 8.57% over the past month, lagging its sector. Analysts project EPS growth of 6.19% and revenue growth of 13.65% for the upcoming quarter. NEE carries a Zacks Rank #3 (Hold) with a Forward P/E of 19, trading at a premium to its industry average of 16.68.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/f8/1176.jpg",
+    "description": "Constellation Energy has outperformed its industry over three months, driven by long-term contracts with Google and Amazon, a strong 93% nuclear capacity factor, and a diversified clean energy portfolio. However, rising forced outages, higher debt levels relative to peers, and regulatory risks present headwinds. The stock trades at a discount to industry peers but analysts recommend waiting for a more favorable entry point, maintaining a Hold rating.",
     "keywords": [
-      "NextEra Energy",
-      "stock performance",
-      "earnings forecast",
-      "valuation",
-      "Zacks Rank",
-      "utilities sector"
-    ],
-    "insights": [
-      {
-        "ticker": "NEE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the company shows solid earnings growth projections (6.19% EPS growth, 13.65% revenue growth) and recent positive daily performance (+2.1%), it carries a Hold rating from Zacks Rank #3. The stock trades at a premium valuation (Forward P/E of 19 vs. industry average of 16.68) and has underperformed over the past month (-8.57%), suggesting limited near-term upside potential despite fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "9b391bcf9ec2d3b14a760fc58e37d23a351c99d5611396d72693c797e1c15535",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can CEG's Amazon PPA Strengthen Its Long-Term Growth Prospects?",
-    "author": "Na",
-    "published_utc": "2026-10-02T12:00:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2999330/can-ceg-s-amazon-ppa-strengthen-its-long-term-growth-prospects?cid=CS-ZC-FT-analyst_blog|quick_take-2999330",
-    "tickers": [
-      "CEG",
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW",
-      "VST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/78/189.jpg",
-    "description": "Constellation Energy Corporation (CEG) announced a 20-year, 690 MW power purchase agreement with Amazon, including approximately 190 MW of new nuclear capacity at Calvert Cliffs. In Q2 2026, CEG signed approximately 920 MW of long-term PPAs averaging 18.5 years with investment-grade customers. These agreements provide revenue visibility to support nuclear facility investments and capacity expansions expected to be completed by 2032.",
-    "keywords": [
-      "power purchase agreements",
       "nuclear energy",
-      "long-term contracts",
-      "revenue visibility",
-      "capacity expansion",
-      "clean energy"
+      "clean energy",
+      "artificial intelligence demand",
+      "long-term power contracts",
+      "forced outages",
+      "debt levels",
+      "capital expenditures",
+      "return on equity"
     ],
     "insights": [
       {
         "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "CEG secured significant long-term PPAs totaling over 1.6 GW with major customers (Amazon, Walmart), providing strong revenue visibility and enabling substantial capital investments ($5.7B in 2026) in nuclear capacity expansion and infrastructure improvements."
-      },
-      {
-        "ticker": "NEE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NEE benefits from a 25-year agreement with Google supporting the 615 MW Duane Arnold nuclear restart, providing long-term revenue certainty and supporting growth in nuclear generation capacity."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While CEG demonstrates strong operational efficiency (93% capacity factor), favorable long-term contracts with Google and Amazon, and better ROE than peers, concerns about rising forced outages (6.2% vs 4.5% sequentially), higher debt-to-capital ratio (43.32% vs 42.93% industry average), and inconsistent earnings growth outlook warrant caution. The Zacks Rank #3 (Hold) rating reflects balanced risk-reward."
       },
       {
         "ticker": "VST",
         "sentiment": "positive",
-        "sentiment_reasoning": "VST's long-term PPAs with Meta enhance revenue visibility for its PJM nuclear assets and are expected to contribute to adjusted EBITDA starting in 2027, supporting financial growth."
-      }
-    ]
-  },
-  {
-    "id": "deb52ef1ce1498615fe11b36ed6cd629fac82efe1c935d4c9b8f7079ab3894d2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Should You Forget NextEra Energy and Buy This Nuclear Stock Instead?",
-    "author": "Catie Hogan",
-    "published_utc": "2026-10-01T15:02:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/01/forget-nextera-energy-buy-nuclear-stock-ceg/?source=iedfolrf0000001",
-    "tickers": [
-      "CEG",
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889095%2Fconstellation-and-nextera-logos-the-motley-fool.png&w=1200&op=resize",
-    "description": "The article argues that Constellation Energy (CEG) may be a better long-term investment than NextEra Energy (NEE) for growth-oriented investors. Constellation operates the most nuclear facilities in the U.S. and is well-positioned to serve data centers' power needs. Despite strong Q2 financials (23% revenue growth) and expansion plans, CEG stock has fallen 25% year-to-date, creating an attractive entry point with Wall Street's consensus price target of $347 suggesting significant upside potential.",
-    "keywords": [
-      "nuclear energy",
-      "data centers",
-      "power generation",
-      "stock comparison",
-      "growth investment",
-      "dividend yield"
-    ],
-    "insights": [
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial performance with 23% revenue growth, largest nuclear fleet in U.S., strategic expansion into data center power market, raised guidance, and significant upside potential from current depressed valuations despite recent 25% decline."
+        "sentiment_reasoning": "Vistra is expanding nuclear operations through long-term power agreements, including 20-year contracts with Meta covering 2,600+ MW of nuclear capacity, positioning it well for future earnings growth despite a 7.8% three-month decline."
       },
       {
         "ticker": "NEE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpU",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpV",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       },
       {
         "ticker": "NEEpW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Described as a solid income investment with long dividend history, but characterized as slower-moving with delayed nuclear expansion plans compared to Constellation. Not recommended as the better long-term growth choice despite being a quality company."
-      }
-    ]
-  },
-  {
-    "id": "c017fa3c7346d0c0f603c5b9aa7fe3cc4c2cca11388d9eacb549a329a74ef58b",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can OKLO Turn Used Nuclear Fuel Into a Scalable Business?",
-    "author": "Na",
-    "published_utc": "2026-10-01T11:25:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2998777/can-oklo-turn-used-nuclear-fuel-into-a-scalable-business?cid=CS-ZC-FT-analyst_blog|quick_take-2998777",
-    "tickers": [
-      "OKLO",
-      "ETR",
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/3a/111300.jpg",
-    "description": "Oklo Inc. is developing an Advanced Fuel Center in Oak Ridge, TN, to recycle spent nuclear fuel with potential $1.68B investment and 800+ jobs. The project could recover up to 95% of fuel energy from the U.S.'s 100,000 metric tons of stored used fuel. However, commercial profitability remains unproven. Meanwhile, competitors like Entergy and NextEra Energy are pursuing traditional nuclear growth strategies focused on generation capacity and fuel supply rather than recycling.",
-    "keywords": [
-      "nuclear fuel recycling",
-      "Advanced Fuel Center",
-      "Oak Ridge Tennessee",
-      "spent nuclear fuel",
-      "nuclear energy",
-      "regulatory approval",
-      "commercial profitability"
-    ],
-    "insights": [
-      {
-        "ticker": "OKLO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the fuel recycling project presents a significant long-term opportunity with $1.68B investment potential and 800+ jobs, the business case remains unproven. Stock has declined 71.2% over the past year, and the company carries a Zacks Rank #4 (Sell) rating. Regulatory approvals and commercial viability at scale are still uncertain."
-      },
-      {
-        "ticker": "ETR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Taking a traditional nuclear growth approach focused on existing fleet expansion, plant upgrades, and license extensions rather than innovative fuel recycling. Strategy is established and lower-risk but less transformative than competitors' approaches."
-      },
-      {
-        "ticker": "NEE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Following conventional nuclear strategy with generation expansion and contracted fuel supply through 2033. Plans to restart Duane Arnold plant and proposed Dominion merger would expand footprint, but strategy relies on established utility infrastructure rather than innovation."
-      }
-    ]
-  },
-  {
-    "id": "1c25d3f365dd6b69f69ae9c0c0ce99a64e0745630deea3980b9d9d7267a2bd85",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The Median Utility Bill is $363 a Month. Here's How Much You'd Need in NextEra Energy Stock to Cover It Every Month.",
-    "author": "Thomas Niel",
-    "published_utc": "2026-10-01T09:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/01/average-utility-bill-how-much-nextera-stock/?source=iedfolrf0000001",
-    "tickers": [
-      "NEE",
-      "NEEpN",
-      "NEEpS",
-      "NEEpT",
-      "NEEpU",
-      "NEEpV",
-      "NEEpW",
-      "D"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888785%2Fgettyimages-1808300749-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "U.S. households pay a median of $363 monthly ($4,356 annually) in utility bills, rising faster than inflation. An investor would need approximately 2,058 shares of NextEra Energy (worth ~$156,500) to generate enough dividend income to cover these costs after taxes. While NextEra has a 32-year dividend growth track record averaging 10%, management has guided for slower 6% growth going forward, and the pending Dominion Energy merger creates uncertainty.",
-    "keywords": [
-      "utility bills",
-      "dividend income",
-      "NextEra Energy",
-      "dividend yield",
-      "renewable energy",
-      "dividend growth",
-      "Dominion Energy merger"
-    ],
-    "insights": [
-      {
-        "ticker": "NEE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "NEEpW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "NextEra has a strong 32-year dividend growth history and significant renewable energy infrastructure, but the article highlights concerns including slowing dividend growth guidance (6% vs. historical 10%), uncertainty from the pending Dominion merger, and the high capital requirement ($156,500) needed to cover utility bills through dividends alone."
-      },
-      {
-        "ticker": "D",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only in context of the pending merger with NextEra. The merger creates uncertainty regarding future dividend growth and integration outcomes, warranting a neutral stance without sufficient detail to determine positive or negative impact."
+        "sentiment_reasoning": "NextEra plans to restart its 615-MW Duane Arnold nuclear facility by early 2029 with up to $1.9 billion in federal financing support, but the stock declined 11.1% over three months and carries significantly higher debt-to-capital (61.81%) compared to industry peers."
       }
     ]
   }

@@ -1,287 +1,287 @@
 [
   {
-    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
+    "id": "fe5580e678402c69bee9bbd363858edafbfb4c8198763ab3ef3ad46af17b368d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-10-07T01:15:02Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
+    "title": "Arista Networks vs. Datadog: Which Technology Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T14:20:44Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/arista-networks-vs-datadog-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "AMD",
-      "INTC",
+      "ANET",
+      "DDOG",
       "AVGO",
-      "MRVL",
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AAPL"
+      "MSFT",
+      "CSCO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "Comparing two AI infrastructure leaders: Arista Networks, which provides physical networking switches for data centers, and Datadog, which offers cloud monitoring software. Arista shows stronger profitability (39% net margin vs. 3.1%) and lower valuation (44.5x forward P/E vs. 102.7x), while Datadog has higher gross margins (79.48% vs. 63%) and strong revenue growth. The author recommends Arista Networks for its essential role in AI infrastructure scaling, though both companies are solid performers in their respective niches.",
     "keywords": [
-      "AI boom",
-      "GPU chips",
-      "data center",
-      "valuation",
-      "market cap",
-      "competition",
-      "earnings growth"
+      "AI infrastructure",
+      "cloud data centers",
+      "networking hardware",
+      "observability platform",
+      "valuation comparison",
+      "profitability",
+      "growth stocks"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
+        "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
+        "sentiment_reasoning": "Strong financial metrics with 28.6% revenue growth, exceptional 39% net margin, zero debt, $4.3B free cash flow, and dominant market position in AI data center networking. Author's top pick for infrastructure criticality."
       },
       {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+        "ticker": "DDOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid 27.7% revenue growth, highest gross margin at 79.48%, strong free cash flow of $1B, and consistent earnings beat. However, lower profitability (3.1% net margin), much higher valuation (102.7x forward P/E), and competitive pressures limit enthusiasm."
       },
       {
         "ticker": "AVGO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
+        "sentiment_reasoning": "Mentioned as a critical silicon supplier to Arista Networks, representing a supply chain dependency risk rather than an investment recommendation."
       },
       {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
-      },
-      {
-        "ticker": "AMZN",
+        "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
+      },
+      {
+        "ticker": "CSCO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
+      }
+    ]
+  },
+  {
+    "id": "053513c2c654accf06305f0bf9c163f6335e7d3ec26fca08df7d41c3d611f570",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "ASML vs. Dell Technologies: Which Tech Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-21T12:45:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/asml-vs-dell-technologies-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "ASML",
+      "DELL",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F20295c8dbd9100df014f155befd97764127c21ce-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares ASML and Dell Technologies as AI infrastructure plays. ASML dominates chip equipment manufacturing with a monopoly on extreme ultraviolet lithography and strong 54% gross margins, trading at a premium valuation (P/E 40.13). Dell provides AI-optimized servers and data center solutions at a lower valuation (P/E 26.79) but faces customer concentration risks and lower margins (19.70%). The author favors ASML due to its superior competitive moat, pricing power, and profitability despite its higher valuation.",
+    "keywords": [
+      "semiconductor equipment",
+      "AI infrastructure",
+      "lithography technology",
+      "data centers",
+      "valuation comparison",
+      "competitive moat",
+      "gross margins"
+    ],
+    "insights": [
+      {
+        "ticker": "ASML",
+        "sentiment": "positive",
+        "sentiment_reasoning": "ASML is presented as the superior investment choice due to its monopoly on EUV lithography technology, strong competitive moat, exceptional 54% gross margins, healthy balance sheet (debt-to-equity 0.2), and robust free cash flow of $12.4B. The author explicitly recommends ASML as the better buy despite its premium valuation, citing its unique market position and pricing power."
+      },
+      {
+        "ticker": "DELL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Dell is presented as a solid but less compelling option. While it shows strong revenue growth (18.8% YoY) and lower valuation (P/E 26.79), the article highlights significant weaknesses: customer concentration risk, weak margins (19.70%), negative debt-to-equity ratio (-12.8), lack of competitive moat, and competition from customers designing their own hardware. Better historical performance doesn't offset structural disadvantages."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Broadcom is mentioned only in the context of a strategic collaboration with Dell to integrate software solutions into hardware. No independent analysis or sentiment is provided regarding the company itself."
+      }
+    ]
+  },
+  {
+    "id": "015659ca3f97a7ff639f35b9eb823a913de0b6b8f0e5e4cb121be040fcfef80b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Apple vs. Broadcom: Which Tech Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-21T12:32:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/apple-vs-broadcom-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "AAPL",
+      "AVGO",
+      "TSM",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F90016a70dd183297b48efaf3acb2af7a8191202f-1290x860.jpg&w=1200&op=resize",
+    "description": "The article compares Apple and Broadcom as investment options for 2026. Apple dominates consumer hardware with $416.2B revenue and 26.9% net margin but faces antitrust scrutiny and size constraints. Broadcom leads infrastructure semiconductors with 23.9% revenue growth and 36.2% net margin, benefiting from AI tailwinds. The author favors Broadcom for stronger growth prospects despite Apple's stability, citing Broadcom's superior performance over the past decade.",
+    "keywords": [
+      "tech stocks",
+      "Apple vs Broadcom",
+      "semiconductor infrastructure",
+      "AI networking",
+      "valuation comparison",
+      "growth vs value",
+      "antitrust scrutiny",
+      "net margins"
+    ],
+    "insights": [
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Apple is presented as a stable, mature company with strong financials ($416.2B revenue, 26.9% net margin) and loyal customer base, but faces headwinds from antitrust litigation, supply chain concentration, and limited growth potential due to its massive size. The author would not buy more shares at current levels."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Broadcom is favored for its superior growth trajectory (23.9% revenue growth), higher net margin (36.2%), strong AI infrastructure positioning, and better forward valuation metrics (P/E 28.7 vs Apple's 35.7). The author explicitly recommends Broadcom over Apple for 2026 investment."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "TSM is mentioned as a critical dependency for Broadcom's wafer production, representing both an opportunity and a concentration risk. No independent sentiment is expressed about TSM itself."
       },
       {
         "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment_reasoning": "Alphabet is mentioned only in context of Apple's antitrust litigation regarding search licensing deals. No independent investment recommendation or sentiment is provided."
       },
       {
         "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment_reasoning": "Alphabet is mentioned only in context of Apple's antitrust litigation regarding search licensing deals. No independent investment recommendation or sentiment is provided."
       },
       {
         "ticker": "GOOGM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment_reasoning": "Alphabet is mentioned only in context of Apple's antitrust litigation regarding search licensing deals. No independent investment recommendation or sentiment is provided."
       },
       {
         "ticker": "GOOGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+        "sentiment_reasoning": "Alphabet is mentioned only in context of Apple's antitrust litigation regarding search licensing deals. No independent investment recommendation or sentiment is provided."
       }
     ]
   },
   {
-    "id": "68d0f45c7168b3ef658f7dc0c1fb639b380e6fb3f707b582d2598b63fd8d0a11",
+    "id": "75846b0ad3d7299865ff21e08fed9b779182d7870283a5f5ee7e3a6f1996935c",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Stock Market Today, Oct. 6: Marvell Stock Is Up as the Company Raises FY2028 Revenue Outlook to $20 Billion",
-    "author": "Robert Izquierdo",
-    "published_utc": "2026-10-06T21:10:04Z",
-    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/10/06/stock-market-today-oct-6-marvell-stock-is-up-as-the-company-raises-fy2028-revenue-outlook-to-usd20-billion/?source=iedfolrf0000001",
+    "title": "Arista Networks vs. Axon Enterprise: Which Tech Stock Is a Better Buy in 2026?",
+    "author": "John Ballard",
+    "published_utc": "2026-10-21T02:56:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/arista-networks-vs-axon-enterprise-which-tech-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "MRVL",
-      "AVGO",
       "ANET",
-      "NVDA"
+      "AXON",
+      "AVGO",
+      "HPE",
+      "HPEpC"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F42b3293e5dbbd0bd2f50afbeec4738a002bd7f0b-1280x720.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Marvell Technology stock surged 5.81% on October 6, 2026, after the chipmaker raised its FY2028 revenue guidance to $20 billion (up from $18 billion) and announced a FY2031 target of $70-90 billion in sales with EPS of $30+. The strong guidance reflects robust demand for custom AI chips and networking equipment for data centers, supported by Nvidia's $2 billion investment partnership announced earlier in the year.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9034862da0560e8658025d922127ff68b8fda2f0-2121x1414.jpg&w=1200&op=resize",
+    "description": "The article compares two high-growth tech stocks: Arista Networks, a networking infrastructure provider for AI data centers with strong profitability but customer concentration risk, and Axon Enterprise, a public safety technology company with diverse customers and impressive software growth. Despite Arista's higher margins and lower P/E ratio, the author recommends Axon as the better buy in 2026, citing its more attractive PEG ratio of 1.36x versus Arista's 2x, following Axon's 50% stock decline from its 2025 peak.",
     "keywords": [
-      "Marvell Technology",
-      "AI chips",
-      "data center",
-      "revenue guidance",
-      "custom silicon",
-      "semiconductor",
-      "Nvidia partnership",
-      "infrastructure buildout"
+      "AI infrastructure",
+      "networking equipment",
+      "public safety technology",
+      "cloud software",
+      "valuation comparison",
+      "growth stocks",
+      "PEG ratio",
+      "customer concentration"
     ],
     "insights": [
       {
-        "ticker": "MRVL",
+        "ticker": "ANET",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company raised FY2028 revenue guidance to $20B (from $18B) and announced ambitious FY2031 targets of $70-90B in sales with $30+ EPS, signaling strong AI infrastructure demand and custom chip growth. Stock gained 5.81% on the news."
+        "sentiment_reasoning": "Strong financial performance with 29% YoY revenue growth, exceptional 39% net margin, zero debt, and robust free cash flow of $4.3B. However, sentiment is tempered by customer concentration risk (two customers represent 42% of revenue) and competitive pressures, making it less attractive than Axon at current valuations."
+      },
+      {
+        "ticker": "AXON",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy despite lower profitability (4.5% net margin). Positive factors include 33.5% YoY revenue growth, 70% YoY software business growth, diverse customer base with no single customer exceeding 10% of sales, and more attractive valuation with PEG ratio of 1.36x. Stock's 50% decline from 2025 highs provides attractive entry point. Concerns include material weakness in internal controls and product liability risks."
       },
       {
         "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock rose 3.67% as part of broader positive sentiment in data infrastructure semiconductors and AI infrastructure, reflecting firmer demand in the sector."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a key supplier to Arista Networks for switching chips. Arista's heavy reliance on Broadcom creates supply chain vulnerability, but Broadcom itself is not the focus of analysis."
       },
       {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock gained 4.09% alongside other networking and AI infrastructure companies, benefiting from strengthened sentiment around AI data center buildout."
+        "ticker": "HPE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat to Arista Networks in the networking space, creating pricing pressure, but not analyzed as an investment option."
       },
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as strategic partner with $2 billion investment in Marvell; partnership validates strong AI infrastructure demand and supports positive sector sentiment."
+        "ticker": "HPEpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat to Arista Networks in the networking space, creating pricing pressure, but not analyzed as an investment option."
       }
     ]
   },
   {
-    "id": "be8cf2e2d497516a8e168a72ac9c6fdbaf00e4a5ca2c00075c6df071b6bfe60c",
+    "id": "fe8bdf90cea4beda9f627e305456375ecde9b60f7564655a7032c286c436d0dc",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "$5,100 Split Across These 5 AI Infrastructure Stocks Could Be Worth This Much by 2030",
-    "author": "Geoffrey Seiler",
-    "published_utc": "2026-10-06T20:25:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/split-across-ai-infrastructure-stocks-worth-2030/?source=iedfolrf0000001",
+    "title": "OpenAI Is Reportedly Raising $30 Billion. Which Chip Stock Gains the Most?",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-10-20T22:53:12Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/openai-is-reportedly-raising-usd30-billion-which-chip-stock-gains-the-most/?source=iedfolrf0000001",
     "tickers": [
       "NVDA",
       "AMD",
       "AVGO",
-      "TSM",
-      "ASML"
+      "META"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890090%2Fgettyimages-2078917109.jpg&w=1200&op=resize",
-    "description": "An analysis of a diversified $5,100 investment across five AI infrastructure semiconductor stocks (Nvidia, AMD, Broadcom, TSMC, and ASML) projects a potential 75% return by 2030, reaching approximately $8,900. The projection is based on analyst EPS estimates and forward P/E multiples, with each company positioned to benefit from the growing AI infrastructure market expected to reach $2.3 trillion by 2032.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F70e8683480f86535bcb3f00cadc0a24df6591aef-1280x853.jpg&w=1200&op=resize",
+    "description": "OpenAI is seeking $30 billion in funding at a $1.4 trillion valuation to support its 26-gigawatt computing capacity plans with Nvidia, AMD, and Broadcom. The funding round could significantly impact these chipmakers' ability to execute their deals, with Broadcom potentially gaining the most due to uncertain financing, while Nvidia's growth is less dependent on OpenAI's success.",
     "keywords": [
+      "OpenAI funding",
+      "chip stocks",
+      "computing capacity",
       "AI infrastructure",
-      "semiconductor stocks",
-      "GPU market",
-      "chip manufacturing",
-      "AI training",
-      "inference",
-      "EUV lithography"
+      "custom chips",
+      "data center",
+      "GPU deployment"
     ],
     "insights": [
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as primary play on AI training and GPU market with transformation into complete AI player. Projected 60% return by 2030 based on analyst EPS estimates and 15x forward P/E multiple."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While OpenAI funding is positive, Nvidia's growth doesn't rely heavily on OpenAI. The company has strong independent revenue growth (106% YoY) and a modest P/E ratio of ~14, suggesting the stock is fairly valued but not significantly dependent on this funding round."
       },
       {
         "ticker": "AMD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong player in inference market with GPUs and agentic AI on CPUs. Projected 72% gain by 2030 with significant EPS growth from $7.58 to $54.30 and 20x forward P/E multiple."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key investment in custom AI chips and networking with AI ASIC market expected to grow faster than GPU market. Projected 120% gain by 2030 based on analyst estimates and 15x forward P/E multiple."
-      },
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "World's premier foundry with virtual monopoly on advanced chip manufacturing. Positioned to benefit from overall chip boom with projected 48% gain by 2030 and 17.5x forward P/E multiple."
-      },
-      {
-        "ticker": "ASML",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Monopoly on EUV lithography technology critical for advanced logic chips and HBM. Highest projected return at 80% gain by 2030 with premium 30x forward P/E multiple reflecting monopoly position."
-      }
-    ]
-  },
-  {
-    "id": "3078b844a8287dfd406922b45817eafe37dfc3fcbfab20b5c382565388d1e1c8",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Anthropic Could Beat OpenAI to Wall Street by Over a Year",
-    "author": "Manali Pradhan, Cfa",
-    "published_utc": "2026-10-06T19:12:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/anthropic-could-beat-openai-to-wall-street-by-over/?source=iedfolrf0000001",
-    "tickers": [
-      "AVGO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889528%2Fanalyst_working_on_a_laptop.jpg&w=1200&op=resize",
-    "description": "Anthropic is on track to go public as early as November 2026, potentially beating OpenAI to Wall Street by over a year after OpenAI postponed its IPO to 2027 or later. However, the $100 billion Anthropic aims to raise would cover only 19% of its $518 billion in long-term infrastructure commitments. At a $2 trillion valuation, Anthropic would trade at 33x estimated 2026 sales, requiring the company to demonstrate that rapid revenue growth can translate into strong profitability.",
-    "keywords": [
-      "IPO",
-      "AI companies",
-      "valuation",
-      "infrastructure spending",
-      "revenue growth",
-      "profitability",
-      "cloud computing"
-    ],
-    "insights": [
-      {
-        "ticker": "AVGO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Broadcom is positioned to lend Anthropic up to $42 billion for data center infrastructure, representing a significant business opportunity and demonstrating confidence in Anthropic's growth trajectory and ability to service debt."
-      }
-    ]
-  },
-  {
-    "id": "2a635df3211f3908e88a648140be0c6e0a07c9ced6aa56659e900c456901a357",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "TSMC Q3 Earnings: Strong AI Demand Sets the Bar High for Growth",
-    "author": "Na",
-    "published_utc": "2026-10-06T18:00:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3001340/tsmc-q3-earnings-strong-ai-demand-sets-the-bar-high-for-growth?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3001340",
-    "tickers": [
-      "TSM",
-      "INTC",
-      "AVGO"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/cf/212.jpg",
-    "description": "TSMC's July-August sales trajectory suggests Q3 revenues will reach the upper end of guidance, supported by robust AI demand and the ramp-up of 2nm technology. The company raised its 2026 revenue growth forecast to above 40%, though higher 2nm production costs are expected to pressure margins. EPS estimates have risen 10.4% to $4.45, indicating strong earnings growth despite margin headwinds.",
-    "keywords": [
-      "TSMC",
-      "Q3 earnings",
-      "AI demand",
-      "2nm technology",
-      "semiconductor manufacturing",
-      "revenue growth",
-      "earnings estimates",
-      "gross margin pressure"
-    ],
-    "insights": [
-      {
-        "ticker": "TSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "TSMC demonstrates strong operational momentum with July-August sales up 44.7% and 53.3% YoY respectively, Q3 revenues tracking near upper guidance, robust AI demand, 2nm ramp-up driving 40%+ 2026 revenue growth, and EPS estimates rising 10.4% to $4.45. Zacks Rank #2 (Buy) rating supports positive outlook despite margin compression concerns."
-      },
-      {
-        "ticker": "INTC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Intel mentioned as a peer comparison with Q2 revenue growth of 25% YoY to $16.1 billion, significantly lagging TSMC's 33.7% growth, indicating weaker competitive positioning in the AI-driven semiconductor cycle."
+        "sentiment_reasoning": "AMD has significant exposure to OpenAI (43% of its three anchor customers' gigawatts), with expected 'tens of billions' in revenue. However, the stock already prices in much of this growth with a P/E ratio of ~34 (more than twice Nvidia's), and the author recommends holding it as the smallest position due to concentration risk."
       },
       {
         "ticker": "AVGO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Broadcom reported strong Q3 fiscal 2026 revenues of $29.6 billion, up 86% YoY, driven by robust AI demand for custom AI accelerators and networking solutions, demonstrating significant benefit from the AI investment cycle."
+        "sentiment_reasoning": "Broadcom stands to gain the most from OpenAI's funding round because its OpenAI financing is the least settled. The company expects OpenAI to become its second-largest custom-chip customer by 2028, with AI chip revenue expected to double to $230 billion. The funding provides clarity on deployment timelines."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Meta is mentioned as a strategic anchor customer for AMD with a matching 6-gigawatt deal, but the article's focus is on OpenAI's funding impact, not Meta's operations."
       }
     ]
   }

@@ -1,242 +1,275 @@
 [
   {
-    "id": "240130d78a5c25cbf72d6acb3b97052f31edebfdde8ce294a8ebdb700c16fb11",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Walmart (WMT) Exceeds Market Returns: Some Facts to Consider",
-    "author": "Na",
-    "published_utc": "2026-10-06T20:45:03Z",
-    "article_url": "https://www.zacks.com/stock/news/3001369/walmart-wmt-exceeds-market-returns-some-facts-to-consider?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001369",
-    "tickers": [
-      "WMT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default39.jpg",
-    "description": "Walmart closed at $107.20, up 2.03% in the latest session, outperforming the S&P 500's 0.58% gain. However, the stock has declined 1.93% over the past month. The company is expected to report Q3 EPS of $0.63 (up 1.61% YoY) and quarterly revenue of $186.47 billion (up 3.88% YoY). Despite positive earnings growth expectations, Walmart carries a Zacks Rank of #3 (Hold) with a Forward P/E of 36.56, significantly above the industry average of 13.13, and a PEG ratio of 4.01 versus the industry average of 1.77.",
-    "keywords": [
-      "Walmart earnings",
-      "stock valuation",
-      "P/E ratio",
-      "PEG ratio",
-      "Zacks Rank",
-      "retail sector",
-      "earnings growth"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Walmart shows positive near-term price momentum (+2.03%) and solid earnings growth expectations (EPS +1.61% YoY, revenue +3.88% YoY), the stock carries a Hold rating (Zacks Rank #3). The valuation appears stretched with a Forward P/E of 36.56 versus industry average of 13.13 and a PEG ratio of 4.01 versus industry average of 1.77, suggesting limited upside at current prices despite fundamentals."
-      }
-    ]
-  },
-  {
-    "id": "a5266073e975c4c2731ac7edbb8bee841f971dc2043c3db665fa41ca16d93a00",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Costco's Digital Sales Top $33 Billion: Can E-commerce Keep Scaling?",
-    "author": "Na",
-    "published_utc": "2026-10-06T13:03:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3000995/costco-s-digital-sales-top-33-billion-can-e-commerce-keep-scaling?cid=CS-ZC-FT-analyst_blog|quick_take-3000995",
-    "tickers": [
-      "COST",
-      "WMT",
-      "TGT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/fa/1036.jpg",
-    "description": "Costco's digital business exceeded $33 billion in fiscal 2026 with over 20% growth, driven by same-day delivery partnerships, personalized product placements, and AI-powered search. The company's e-commerce comparable sales rose 19.5% in Q4, while competitors Walmart and Target also posted strong digital momentum with 23-24% and 8.7% growth respectively.",
-    "keywords": [
-      "e-commerce",
-      "digital sales",
-      "same-day delivery",
-      "AI search",
-      "personalization",
-      "retail",
-      "comparable sales growth"
-    ],
-    "insights": [
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Costco demonstrated strong digital momentum with $33B+ in digitally enabled sales growing over 20%, Q4 comparable sales up 19.5%, and triple-digit growth in personalized placements and AI search traffic. The company is successfully scaling e-commerce while maintaining incremental sales rather than cannibalizing warehouse traffic."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Walmart reported robust e-commerce growth of 23% globally and 24% in the U.S., with store-fulfilled deliveries up 40% and fast delivery up 48%, demonstrating effective digital scaling and fulfillment capabilities."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Target posted healthy digital growth with comparable digital sales up 8.7%, led by same-day delivery growth exceeding 25%, and AI-powered traffic rising 3.5x the industry rate, indicating strong digital engagement and technology adoption."
-      }
-    ]
-  },
-  {
-    "id": "4acd499034de9e4aea157cde0e4f59c39d09ba7e84b978c6ba06ed6f6d9af713",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Can Walmart Connect Keep Powering WMT's Digital Profit Growth?",
-    "author": "Na",
-    "published_utc": "2026-10-06T12:59:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3000981/can-walmart-connect-keep-powering-wmt-s-digital-profit-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3000981",
-    "tickers": [
-      "WMT",
-      "COST",
-      "TGT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/63/121.jpg",
-    "description": "Walmart's digital business is becoming a major contributor to its overall economics, with global advertising revenue up 38% and Walmart Connect growing 43% in Q2 fiscal 2027. U.S. e-commerce sales rose 24%, achieving double-digit incremental margins supported by advertising, membership revenues, and improved delivery capabilities. The company also expanded ad capabilities through the acquisition of Vibe.",
-    "keywords": [
-      "e-commerce growth",
-      "digital advertising",
-      "Walmart Connect",
-      "incremental margins",
-      "commerce solutions",
-      "retail technology"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong double-digit growth across advertising (38%), Walmart Connect (43%), and e-commerce (24%). Achieved double-digit incremental margins in U.S. e-commerce and improved gross profit mix. Strategic acquisition of Vibe expands advertising capabilities."
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with 1% share gain over the past year and higher forward P/E ratio (40.03) than Walmart. No specific performance metrics provided."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor with strong 71.4% share gain over the past year but lower forward P/E ratio (15.68) than Walmart. No specific operational metrics provided."
-      }
-    ]
-  },
-  {
-    "id": "2de872c89e5c6f6b63f2824461a93fc385e32562f9c26880344df0a96ca264db",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "BP highlighted as Zacks Bull and MasterCraft Boat Bear of the Day",
-    "author": "Zacks Equity Research",
-    "published_utc": "2026-10-06T11:31:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3000733/bp-highlighted-as-zacks-bull-and-mastercraft-boat-bear-of-the-day?cid=CS-ZC-FT-press_releases-3000733",
-    "tickers": [
-      "BP",
-      "MCFT",
-      "TGT",
-      "WMT",
-      "DG"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ee/431.jpg",
-    "description": "Zacks Equity Research designated BP p.l.c. as the Bull of the Day due to new CEO leadership, debt reduction strategy, and five consecutive earnings beats with analyst estimates raised to $7.28 for 2026. MasterCraft Boat Holdings was named Bear of the Day as analysts cut fiscal 2027 earnings estimates despite consistent quarterly beats, with guidance falling short of consensus expectations during its fiscal-to-calendar year transition.",
-    "keywords": [
-      "earnings beats",
-      "debt reduction",
-      "analyst estimates",
-      "oil prices",
-      "fiscal year transition",
-      "capital expenditures",
-      "supply chain investment"
-    ],
-    "insights": [
-      {
-        "ticker": "BP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "New CEO with debt reduction strategy, five consecutive earnings beats, analyst estimate raises to $7.28 for 2026 (152.8% earnings growth), attractive valuation metrics (P/E of 6.2, P/S of 0.5), 4.6% dividend yield, and benefits from sustained high oil prices around $90-$100."
-      },
-      {
-        "ticker": "MCFT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Analysts cut fiscal 2027 earnings estimates from $2.02 to $1.86, company guidance of $0.66-$0.76 for transition period falls significantly below consensus of $0.85, shares down 17.4% in three months, and confusion around earnings during fiscal-to-calendar year transition despite historical earnings beat streak."
-      },
-      {
-        "ticker": "TGT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Shares rallied 23.7% over three months versus industry decline of 2.4%, forward P/E of 15.99 below industry average of 27.16, consensus estimates signal 37.8% earnings growth for current fiscal year, $5 billion capex plan supporting store expansion and technology modernization, Zacks Rank #2 (Buy)."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Raised fiscal 2027 capex outlook to 4% of net sales from 3.5%, investing in automation, technology, and fulfillment capacity to improve inventory flow and omnichannel operations, demonstrating confidence in growth strategy."
-      },
-      {
-        "ticker": "DG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Fiscal 2026 capex of $1.4-$1.5 billion directed toward store growth, remodels, supply-chain projects and technology, with approximately 4,730 real-estate projects planned, demonstrating commitment to expansion and modernization."
-      }
-    ]
-  },
-  {
-    "id": "f8ea205f8228842b571e233121e1c7a8820b33867a4dd32857077b5446a7ee19",
+    "id": "12eb3c11fc0d0e24bee3e1c1a9f29afc5ffe1df60b4221397042cc585d13f3dd",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Costco Is Down 10% in 6 Months While the S&P 500 Is Up 17%. Is Costco Too Cheap to Pass Up Under $900 a Share?",
-    "author": "John Bromels",
-    "published_utc": "2026-10-06T09:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/costco-is-down-10-in-6-months-while-the-sp-500-is/?source=iedfolrf0000001",
+    "title": "Dutch Bros vs. e.l.f. Beauty: Which Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T12:56:41Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/dutch-bros-vs-e-l-f-beauty-which-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "COST",
-      "WMT",
+      "BROS",
+      "ELF",
       "TGT",
-      "BBY",
-      "KR"
+      "WMT",
+      "AMZN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887923%2Fcost.jpg&w=1200&op=resize",
-    "description": "Costco's stock has underperformed the S&P 500 by 27 percentage points over the last six months, despite growing revenue, profits, and membership renewal rates. While the company maintains a premium valuation compared to retail peers due to strong membership loyalty, the article argues that at current prices, Costco is not as cheap as it appears. Headwinds from tariffs and fuel costs, combined with elevated valuations, suggest investors seeking faster growth may find better opportunities elsewhere.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares Dutch Bros and e.l.f. Beauty as investment options in 2026. Dutch Bros, a rapidly expanding drive-thru coffee chain with over 1,225 locations, reported 27.9% revenue growth and improved profitability. e.l.f. Beauty, a digital-first cosmetics company, achieved 24.6% revenue growth with 30 consecutive quarters of sales growth but faces margin pressure from rising costs. The author recommends Dutch Bros for its traffic-driven growth and long runway of new locations, despite e.l.f. Beauty's impressive growth trajectory.",
     "keywords": [
-      "retail stocks",
-      "valuation metrics",
-      "membership renewal",
-      "tariffs",
-      "fuel costs",
-      "price-to-earnings ratio",
-      "buy-and-hold investing"
+      "coffee retail",
+      "cosmetics industry",
+      "consumer growth",
+      "drive-thru expansion",
+      "digital-first marketing",
+      "revenue growth",
+      "margin pressure",
+      "brand loyalty"
     ],
     "insights": [
       {
-        "ticker": "COST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Costco demonstrates strong fundamentals with growing revenue, profits, and high membership renewal rates (92.3%), the article concludes the stock is not a bargain at current prices. The company trades at a significant premium to peers and faces headwinds from tariffs and fuel costs. Suitable only for long-term buy-and-hold investors, not for those seeking faster growth."
+        "ticker": "BROS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 27.9% revenue growth, improved net margins (4.9%), successful new location performance exceeding expectations, transaction-driven growth, and recommended as the better buy for 2026 due to long expansion runway and cultural brand appeal."
       },
       {
-        "ticker": "WMT",
+        "ticker": "ELF",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a successful retail competitor with 415% growth over the last decade, but no specific investment recommendation or analysis provided. Used primarily as a comparison point to Costco's superior long-term performance."
+        "sentiment_reasoning": "Impressive 24.6% revenue growth and 30 consecutive quarters of sales growth, but offset by declining net margins (1.6%), rising costs squeezing profitability, stock pullback from highs, and integration challenges from acquisitions. Viewed as impressive but facing headwinds."
       },
       {
         "ticker": "TGT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included in valuation comparison table showing lower P/S, P/E, and P/FCF ratios than Costco, suggesting cheaper valuation metrics. No specific recommendation or analysis provided."
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
       },
       {
-        "ticker": "BBY",
+        "ticker": "WMT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio among peers. No specific recommendation or analysis provided."
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
       },
       {
-        "ticker": "KR",
+        "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Included in valuation comparison table with the lowest P/S ratio (0.25) among all retailers listed. No specific recommendation or analysis provided."
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
+      }
+    ]
+  },
+  {
+    "id": "30ae5d9a68a18c1953a010545108b42ffee9b29499c5bff2b0df8954d6fbcec3",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "These 2 Retail and Wholesale Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-21T11:55:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3011627/these-2-retail-and-wholesale-stocks-could-beat-earnings-why-they-should-be-on-your-radar?cid=CS-ZC-FT-fundamental_analysis|zacks_education_earnings_esp-3011627",
+    "tickers": [
+      "WMT",
+      "ORLY"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default319.jpg",
+    "description": "The article highlights how the Zacks Earnings ESP (Expected Surprise Prediction) filter can help investors identify stocks likely to beat earnings estimates. Two retail and wholesale stocks are featured: Walmart with a +1.44% ESP ahead of its November 19, 2026 earnings report, and O'Reilly Automotive with a +2.11% ESP before its October 28, 2026 earnings release. Both stocks hold #3 (Hold) Zacks Rank ratings and positive ESPs, suggesting potential for earnings beats.",
+    "keywords": [
+      "earnings surprise",
+      "Earnings ESP",
+      "retail stocks",
+      "wholesale stocks",
+      "earnings beat",
+      "Zacks Rank",
+      "quarterly earnings"
+    ],
+    "insights": [
+      {
+        "ticker": "WMT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Walmart has a positive Earnings ESP of +1.44%, indicating the Most Accurate Estimate ($0.65) exceeds the Zacks Consensus Estimate ($0.64), suggesting a higher probability of beating earnings expectations on November 19, 2026."
+      },
+      {
+        "ticker": "ORLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "O'Reilly Automotive has a positive Earnings ESP of +2.11%, with the Most Accurate Estimate ($0.95) exceeding the Zacks Consensus Estimate ($0.93), indicating a strong likelihood of an earnings beat ahead of its October 28, 2026 report."
+      }
+    ]
+  },
+  {
+    "id": "5150c79e1400b89f17351ce773eca6e55372dac2564cfa5648dcb845e7985f71",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nike vs. Procter & Gamble: Which Consumer Stock Is a Better Buy in 2026?",
+    "author": "Jack Delaney",
+    "published_utc": "2026-10-21T01:30:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/nike-vs-procter-gamble-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "NKE",
+      "PG",
+      "UA",
+      "UAA",
+      "KVUE",
+      "WMT",
+      "ADDYY"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff109d3599a58d9662163265dc7819ebbbeb51c82-7952x4829.jpg&w=1200&op=resize",
+    "description": "The article compares Nike and Procter & Gamble as investment options in 2026. Nike faces a prolonged turnaround with declining sales and a 44.5% stock decline over the past year, while Procter & Gamble demonstrates strong profitability with an 18.4% net margin and consistent dividend growth. The author recommends Procter & Gamble as the more stable choice for long-term investors, citing its recession-resistant business model and 70-year dividend increase streak, while suggesting investors wait for Nike to show sustained earnings improvements before investing.",
+    "keywords": [
+      "consumer stocks",
+      "dividend stocks",
+      "valuation comparison",
+      "profitability",
+      "turnaround strategy",
+      "recession-resistant",
+      "cash flow",
+      "brand competition"
+    ],
+    "insights": [
+      {
+        "ticker": "NKE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Nike is experiencing a prolonged turnaround with declining sales expectations for fiscal 2027, stock down 44.5% over 12 months and 77% over 5 years. The company has a lower net margin (6.7%) and higher debt-to-equity ratio (73%), with the author recommending waiting for multiple quarters of earnings beats before investing."
+      },
+      {
+        "ticker": "PG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Procter & Gamble demonstrates strong financial health with 18.4% net margin, robust operating cash flow of $19.5 billion, and consistent profitability. The company is a Dividend King with 70 consecutive years of dividend increases, offers recession-resistant products, and shows steady growth with 7% sales increase in Q3 FY2026. The author explicitly recommends this stock for long-term investors."
+      },
+      {
+        "ticker": "UA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to Nike in the athletic footwear market, but no specific analysis or sentiment is provided regarding the company itself."
+      },
+      {
+        "ticker": "UAA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to Nike in the athletic footwear market, but no specific analysis or sentiment is provided regarding the company itself."
+      },
+      {
+        "ticker": "KVUE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a global competitor to Procter & Gamble, but no specific analysis or sentiment is provided regarding the company itself."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Procter & Gamble's largest customer accounting for 16% of sales, highlighting retail partnership importance, but no investment recommendation or sentiment is provided."
+      },
+      {
+        "ticker": "ADDYY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to Nike in the athletic footwear market, but no specific analysis or sentiment is provided regarding the company itself."
+      }
+    ]
+  },
+  {
+    "id": "9b852f1fcea8a39e87fc4a017b55ae9ba2c3081d17f5ef0040f766310f2024f0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Dutch Bros vs. Celsius: Which Consumer Stock Is a Better Buy in 2026?",
+    "author": "Anders Bylund",
+    "published_utc": "2026-10-20T21:21:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/dutch-bros-vs-celsius-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BROS",
+      "CELH",
+      "PEP",
+      "SBUX",
+      "MNST",
+      "AMZN",
+      "WMT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9f47a9c86129fa9e9bd5069d7cad23847c7af1cb-1290x860.png&w=1200&op=resize",
+    "description": "The article compares Dutch Bros and Celsius as growth stock investments in the shifting beverage market. Dutch Bros operates 1,225 drive-thru locations with 27.9% revenue growth and improving profitability (4.9% net margin), while Celsius achieved 85.5% revenue growth but declining earnings due to acquisitions. Dutch Bros trades at higher valuations but shows better earnings growth, while Celsius offers cheaper valuation and triple the free cash flow but faces heavy Pepsi distribution dependency. The author favors Dutch Bros for its combination of respectable top-line growth and rising profits.",
+    "keywords": [
+      "beverage market",
+      "growth stocks",
+      "drive-thru coffee",
+      "energy drinks",
+      "valuation comparison",
+      "profitability",
+      "distribution partnerships"
+    ],
+    "insights": [
+      {
+        "ticker": "BROS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Company shows strong revenue growth (27.9%), improving profitability with net margin expanding to 4.9%, and positive earnings trajectory. Despite higher valuation multiples, the PEG ratio suggests reasonable value when accounting for growth expectations. The author explicitly recommends this stock over Celsius."
+      },
+      {
+        "ticker": "CELH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Celsius demonstrates exceptional revenue growth (85.5%) and strong free cash flow ($323.4M), earnings are declining and net margin contracted to 4.3%. The company faces significant concentration risk with Pepsi accounting for 43% of revenue and integration challenges from acquisitions. Cheaper valuation is offset by operational concerns."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Celsius' primary distribution partner controlling 43% of revenue, representing both an opportunity and a significant risk factor for Celsius' business independence and decision-making autonomy."
+      },
+      {
+        "ticker": "SBUX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive threat to Dutch Bros in the coffee retail market, representing industry competition but not directly analyzed in the comparison."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive threat in the functional beverage category competing with Celsius, but not directly analyzed."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a distribution channel for Celsius products but not central to the analysis."
+      }
+    ]
+  },
+  {
+    "id": "27c43b02f330562905bedd5ca10dea32a117c9e1e78faed03977c88617a4ec4c",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Investors Heavily Search Walmart Inc. (WMT): Here is What You Need to Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-20T12:00:05Z",
+    "article_url": "https://www.zacks.com/stock/news/3010938/investors-heavily-search-walmart-inc-wmt-here-is-what-you-need-to-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3010938",
+    "tickers": [
+      "WMT"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default250.jpg",
+    "description": "Walmart has been heavily searched on Zacks.com and has outperformed the S&P 500 with a +10.5% return over the past month. The company shows strong earnings growth expectations (+9.1% for current fiscal year, +12.1% for next year) and has consistently beaten consensus estimates. However, it carries a Zacks Rank #3 (Hold) rating and trades at a premium valuation (Grade D) compared to peers, suggesting it may perform in line with the broader market in the near term.",
+    "keywords": [
+      "Walmart",
+      "earnings estimates",
+      "revenue growth",
+      "valuation",
+      "stock performance",
+      "Zacks Rank",
+      "retail sector"
+    ],
+    "insights": [
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Walmart demonstrates strong fundamentals with consistent earnings beats, revenue growth of +5.4% for current fiscal year, and outperformance versus the S&P 500 (+10.5% vs +0.7%), the Zacks Rank #3 (Hold) rating and premium valuation (Grade D) suggest limited upside in the near term. The stock is expected to perform in line with the broader market rather than significantly outperform."
       }
     ]
   }

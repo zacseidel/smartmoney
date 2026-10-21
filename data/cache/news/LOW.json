@@ -1,178 +1,194 @@
 [
   {
-    "id": "b617d192ca0b4e498c76dfb6e9869804d4c8f8f21d28cd9988cd19418ad7f391",
+    "id": "ba113c99dcfe7107ab4e837fc44b6d772b407dd108ac6c7a23809b993086faf0",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Lowe's (LOW) Surpasses Market Returns: Some Facts Worth Knowing",
+    "title": "Lowe's (LOW) Beats Stock Market Upswing: What Investors Need to Know",
     "author": "Na",
-    "published_utc": "2026-10-06T20:45:02Z",
-    "article_url": "https://www.zacks.com/stock/news/3001372/lowe-s-low-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001372",
+    "published_utc": "2026-10-20T20:45:04Z",
+    "article_url": "https://www.zacks.com/stock/news/3011431/lowe-s-low-beats-stock-market-upswing-what-investors-need-to-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3011431",
     "tickers": [
       "LOW"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default70.jpg",
-    "description": "Lowe's (LOW) closed at $183.67, up 2.32% for the day but down 12.2% over the past month. The home improvement retailer is expected to report earnings on November 18, 2026, with projected EPS of $2.86 (down 6.54% YoY) and revenue of $22.37 billion (up 7.46% YoY). The stock holds a Zacks Rank #4 (Sell) rating with a Forward P/E of 14.64, trading at a discount to its industry average.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default171.jpg",
+    "description": "Lowe's (LOW) closed at $198.65, up 1.39%, outperforming the S&P 500's 0.28% gain. The company is expected to report Q3 2026 earnings of $2.86 per share (down 6.54% YoY) with revenue of $22.37 billion (up 7.46% YoY). Despite revenue growth expectations, Lowe's carries a Zacks Rank #4 (Sell) rating with a Forward P/E of 15.98, trading at a discount to its industry average.",
     "keywords": [
       "Lowe's",
       "earnings report",
       "stock performance",
       "Zacks Rank",
       "valuation",
-      "home improvement retail"
+      "retail sector"
     ],
     "insights": [
       {
         "ticker": "LOW",
         "sentiment": "negative",
-        "sentiment_reasoning": "Despite a positive daily gain of 2.32%, Lowe's received a Zacks Rank #4 (Sell) rating. The stock has underperformed significantly over the past month (down 12.2%), and upcoming earnings projections show a 6.54% decline in EPS year-over-year, indicating weakening profitability despite modest revenue growth. The negative estimate revision and sell rating suggest analyst concerns about near-term business performance."
+        "sentiment_reasoning": "Despite positive short-term price movement (+1.39%) and revenue growth expectations (+7.46%), Lowe's received a Zacks Rank #4 (Sell) rating. EPS is expected to decline 6.54% year-over-year, and consensus EPS estimates have shifted downward by 0.01% over the past month, indicating analyst pessimism about near-term profitability and earnings trajectory."
       }
     ]
   },
   {
-    "id": "69db4820ebf8595cdd2cdc84d50c0b9fd2e55a91a51a9805a9987e07b9674fae",
+    "id": "90aba32b1a11a8aedd0241515ec38c611db8bcf06eb9151873b621c88342cb7e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Alibaba vs. Home Depot: Which Consumer Stock Is a Better Buy in 2026?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-10-20T20:45:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/alibaba-vs-home-depot-which-consumer-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BABA",
+      "HD",
+      "LOW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F79058439e452b164061ff46d3e22dab3f5004cdc-1200x800.jpg&w=1200&op=resize",
+    "description": "The article compares Alibaba and Home Depot as investment options in 2026. Alibaba trades at lower valuation multiples (Forward P/E 16.6x vs 20.7x) but faces headwinds from competitive Chinese market pressures and declining retail market share, with net income expected to drop ~20%. Home Depot offers more predictable growth with stronger free cash flow ($12.6B vs -$7.6B for Alibaba), strategic acquisitions in HVAC and professional contractor markets, and expected 4% sales growth. The article recommends Home Depot as the more reliable investment despite Alibaba's lower valuation.",
+    "keywords": [
+      "e-commerce",
+      "retail",
+      "valuation comparison",
+      "free cash flow",
+      "market competition",
+      "China market",
+      "professional contractors",
+      "AI cloud services"
+    ],
+    "insights": [
+      {
+        "ticker": "BABA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite lower valuation multiples, Alibaba faces significant headwinds including intense competition in the Chinese e-commerce market, declining market share in retail businesses, expected ~20% net income decline, negative free cash flow (-$7.6B), and dependence on the volatile Chinese economy. Growth is sluggish at ~10% revenue growth with limited momentum beyond China."
+      },
+      {
+        "ticker": "HD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Home Depot demonstrates stronger fundamentals with robust free cash flow ($12.6B), strategic acquisitions (Mingledorff's, SRS, GMS) expanding professional contractor reach, expected 4% sales growth, and reasonable valuation multiples. The company benefits from a duopoly position in home improvement retail and offers more predictable returns despite competitive pressures from Lowe's."
+      },
+      {
+        "ticker": "LOW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as Home Depot's primary competitor in the home improvement duopoly. While noted as having an edge in being perceived as more upscale by consumers, it is not the focus of the analysis and receives no detailed financial evaluation."
+      }
+    ]
+  },
+  {
+    "id": "f7c09e3d3be9e9118c2eeb471ff07819bb5d3663fb3337319de2ae9f1c6926b7",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Lowe's Companies, Inc. (LOW) Is a Trending Stock: Facts to Know Before Betting on It",
+    "title": "Lowe's Companies, Inc. (LOW) is Attracting Investor Attention: Here is What You Should Know",
     "author": "Zacks.Com",
-    "published_utc": "2026-10-06T12:00:02Z",
-    "article_url": "https://www.zacks.com/stock/news/3000811/lowe-s-companies-inc-low-is-a-trending-stock-facts-to-know-before-betting-on-it?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3000811",
+    "published_utc": "2026-10-20T12:00:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3010967/lowe-s-companies-inc-low-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3010967",
     "tickers": [
       "LOW"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default0.jpg",
-    "description": "Lowe's (LOW) has declined 12.2% over the past month, underperforming the S&P 500. While the company beat EPS estimates in recent quarters and shows revenue growth of 6.6% for the current fiscal year, earnings estimates remain flat year-over-year. The stock has been assigned a Zacks Rank #4 (Sell) rating, suggesting potential underperformance in the near term, though it trades at a valuation discount to peers.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default307.jpg",
+    "description": "Lowe's (LOW) has gained 2.6% over the past month, outperforming the S&P 500. However, the company received a Zacks Rank #4 (Sell) rating due to modest earnings estimate revisions. While the company maintains a B valuation grade indicating it trades at a discount to peers and has a strong track record of beating EPS estimates, near-term performance is expected to underperform the broader market.",
     "keywords": [
       "Lowe's",
       "home improvement retailer",
       "earnings estimates",
-      "stock performance",
       "Zacks Rank",
       "valuation",
+      "stock performance",
       "revenue growth"
     ],
     "insights": [
       {
         "ticker": "LOW",
         "sentiment": "negative",
-        "sentiment_reasoning": "Lowe's received a Zacks Rank #4 (Sell) rating due to flat earnings estimates for the current fiscal year (-0.2% YoY) and recent stock decline of 12.2% over the past month. While the company shows positive revenue growth (6.6% current year, 2.5% next year) and has beaten EPS estimates in trailing quarters, the lack of earnings growth momentum and analyst downgrades suggest near-term underperformance relative to the broader market."
+        "sentiment_reasoning": "Lowe's received a Zacks Rank #4 (Sell) rating, suggesting near-term underperformance relative to the broader market. Current quarter earnings are expected to decline 6.5% year-over-year, and earnings estimates have shown minimal revision momentum. While the company trades at a valuation discount and has beaten EPS estimates consistently, the negative rating and weak earnings outlook drive the negative sentiment."
       }
     ]
   },
   {
-    "id": "226c447e37a99a84b34fe353dec559f79fbfd000771a2d43fd26e531d353082c",
+    "id": "a994ecb4a3ce47b0fc63fd9f3542a0a6a1d538982eca4e6fd1f8de7122b87fc0",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Massive Update for Home Depot Stock Investors",
+    "title": "Better Buy: Home Depot or Lowe's?",
     "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-10-05T22:09:15Z",
-    "article_url": "https://www.fool.com/investing/2026/10/05/massive-update-for-home-depot-stock-investors/?source=iedfolrf0000001",
+    "published_utc": "2026-10-20T01:13:39Z",
+    "article_url": "https://www.fool.com/investing/2026/10/19/better-buy-home-depot-or-lowes/?source=iedfolrf0000001",
     "tickers": [
       "HD",
       "LOW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890213%2Fimwmod4u-hl5c.png&w=1200&op=resize",
-    "description": "Home Depot's stock has experienced significant challenges, trading 32% below its all-time high. The company's sales growth has been below trend for several consecutive years, presenting concerns for investors despite the stock yielding over 3x the S&P 500.",
-    "keywords": [
-      "Home Depot",
-      "sales growth",
-      "stock performance",
-      "consumer discretionary",
-      "home improvement industry"
-    ],
-    "insights": [
-      {
-        "ticker": "HD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "The article highlights that Home Depot's sales growth has been below trend for several years and the stock is trading 32% below its all-time high, indicating underperformance and weakness in the company's growth trajectory."
-      },
-      {
-        "ticker": "LOW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Lowe's is mentioned only in a comparative context regarding valuation (under $200 a share) without specific performance commentary, warranting a neutral stance."
-      }
-    ]
-  },
-  {
-    "id": "b5d6dda3ee0eac9a4a45a8139d7d891368487190b89bd130ef3eda6e32caa03a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Is Lowe's Stock Falling, and is it a Buying Opportunity?",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-10-02T04:21:45Z",
-    "article_url": "https://www.fool.com/investing/2026/10/02/why-is-lowes-stock-falling-and-is-it-a-buying-oppo/?source=iedfolrf0000001",
-    "tickers": [
-      "LOW"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890114%2Fmqdefault_custom_3.jpg&w=1200&op=resize",
-    "description": "Lowe's stock has been declining as the home improvement industry faces stagnation following the pandemic boom. Home improvement spending has been trending below average for several years, raising questions about whether the stock decline presents a buying opportunity or warrants caution from investors.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891723%2Fimjeb-r_tvnkc.png&w=1200&op=resize",
+    "description": "The article compares Home Depot and Lowe's as investment options in the home improvement retail sector, which is facing growth challenges in 2026. Both companies are analyzed as potential stock purchases for investors considering exposure to the consumer goods and retail sectors.",
     "keywords": [
       "home improvement",
-      "stock decline",
-      "pandemic boom",
-      "spending trends",
-      "buying opportunity"
+      "retail",
+      "stock comparison",
+      "consumer goods",
+      "investment analysis"
     ],
     "insights": [
       {
+        "ticker": "HD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "The article presents Home Depot as one of the best home improvement retailers without clear positive or negative indicators. The Motley Fool has positions in and recommends the stock, but the broader home improvement industry is noted as struggling for growth in 2026, creating a mixed outlook."
+      },
+      {
         "ticker": "LOW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock is falling and has hit 52-week lows. The home improvement industry is barely growing after pandemic-driven sales boom, indicating weakening demand and challenging market conditions for the company."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Similar to Home Depot, Lowe's is presented as one of the best home improvement retailers in a comparative analysis. The Motley Fool recommends the stock, but faces the same industry headwinds with the home improvement sector struggling for growth in 2026."
       }
     ]
   },
   {
-    "id": "4a3947cb27f47becd6a7b34a61f8354cabf40794c9d549c41aa5216e761627c7",
+    "id": "50e840439f601f72c8b5f76d7fcc608b2c25f5aec0cc46ccea0410a6b440344b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Which Value Stock Is the More Obvious Buy Now: Home Depot Under $310 a Share or Lowe's Under $200 a Share?",
-    "author": "Lawrence Rothman, Cfa",
-    "published_utc": "2026-09-29T18:23:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/29/which-value-stock-is-the-more-obvious-buy-now-home/?source=iedfolrf0000001",
+    "title": "This Dividend King Stock Just Offered a Superb Buy-the-Dip Opportunity",
+    "author": "Dave Kovaleski",
+    "published_utc": "2026-10-16T10:26:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/16/dividend-king-stock-offer-superb-buy-dip-lowe/?source=iedfolrf0000001",
     "tickers": [
-      "HD",
-      "LOW"
+      "LOW",
+      "HD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887270%2Fgettyimages-909271534-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Home Depot and Lowe's both trade at attractive valuations compared to their historical P/E ratios amid economic headwinds affecting the home-improvement retail sector. Home Depot's P/E ratio of 21 and stronger operational performance (1.7% same-store sales growth vs. Lowe's 0.2%) make it the more obvious value buy, as its larger scale should help it emerge stronger when economic conditions improve.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890322%2Fgettyimages-1146259069.jpg&w=1200&op=resize",
+    "description": "Lowe's stock has declined 23% year-to-date and hit a 52-week low following reduced guidance in Q2 earnings, driven by weak consumer spending on home improvement amid high mortgage rates and inflation. However, the article argues this presents a buying opportunity due to the stock's attractive P/E ratio of 16 (lowest in 3 years), strong dividend history (55 consecutive years of increases), solid free cash flow, and potential recovery when housing market conditions improve. Wall Street analysts are bullish with a median price target suggesting 36% upside.",
     "keywords": [
-      "value investing",
-      "P/E ratio",
-      "home-improvement retail",
-      "same-store sales",
-      "gross margin",
-      "economic headwinds",
-      "stock valuation"
+      "dividend king",
+      "buy-the-dip",
+      "housing market",
+      "mortgage rates",
+      "valuation",
+      "home improvement retail",
+      "dividend growth",
+      "cyclical business"
     ],
     "insights": [
       {
-        "ticker": "HD",
+        "ticker": "LOW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Better operational performance with 1.7% same-store sales growth and expanding gross margins (33.4% to 33.7%). P/E ratio of 21 is below its 10-year median of 23. Larger market size and economies of scale position it to outperform when economic conditions improve. Analyst favors it as the better value opportunity."
+        "sentiment_reasoning": "Despite current headwinds and stock decline, the article presents a positive investment case citing attractive valuation (P/E of 16, lowest in 3 years), strong dividend fundamentals (55-year history, 38% payout ratio, $6B free cash flow), and expected recovery when housing market conditions improve. 72% of Wall Street analysts rate it a buy with 36% upside potential."
       },
       {
-        "ticker": "LOW",
+        "ticker": "HD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Trading at attractive valuation with P/E ratio of 16, down from 21-year median, but showing weaker operational performance with only 0.2% same-store sales growth and contracting gross margins (33.8% to 33%). While valuations are reasonable, operational momentum lags Home Depot, making it less favored as a value buy."
+        "sentiment_reasoning": "Mentioned as a competitor that will benefit alongside Lowe's when housing market conditions improve and pent-up demand materializes. No specific analysis or sentiment is provided about Home Depot itself."
       }
     ]
   }

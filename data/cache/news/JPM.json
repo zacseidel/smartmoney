@@ -1,17 +1,749 @@
 [
   {
-    "id": "ad813b413cdfb8d58848399a553b7ad18ba93a5d0b3416685380050f18c2ada7",
+    "id": "2f2d2ba9cf6887b1ff2b2937332a9928a3dea6c4a21d4967c304b3e636a3ee91",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "This Is the No. 1 Move Investors Should Make Before Buying Stocks Right Now.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-27T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/this-is-the-no-1-move-investors-should-make-before/?source=iedfolrf0000001",
+    "title": "The Banking ETF Battle: Main Street Lenders vs. Wall Street Titans",
+    "author": "Jake Lerch",
+    "published_utc": "2026-10-21T14:30:02Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/the-banking-etf-battle-main-street-lenders-vs-wall-street-titans/?source=iedfolrf0000001",
     "tickers": [
+      "IAT",
+      "FTXO",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "C",
+      "CpN",
+      "CpR",
+      "USB",
+      "USBpA",
+      "USBpH",
+      "USBpP",
+      "USBpQ",
+      "USBpR",
+      "USBpS",
+      "PNC",
+      "TFC",
+      "TFCpI",
+      "TFCpO",
+      "TFCpR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe782451fcb7901ca92b74c083a50e2ea213ffe74-3300x1856.jpg&w=1200&op=resize",
+    "description": "The article compares two banking ETFs: iShares U.S. Regional Banks ETF (IAT) and First Trust Nasdaq Bank ETF (FTXO). IAT focuses on regional banks with lower costs (0.37% expense ratio), higher dividend yield (2.9%), and better 1-year performance (17.4%), making it ideal for income-focused investors. FTXO offers broader exposure to mega-cap banks with stronger 5-year cumulative returns (26% vs 5%) but higher costs (0.6% expense ratio). The choice depends on whether investors prioritize regional lending exposure and income or broader mega-cap bank exposure with stronger long-term growth.",
+    "keywords": [
+      "banking ETF",
+      "regional banks",
+      "mega-cap banks",
+      "dividend yield",
+      "expense ratio",
+      "financial sector",
+      "investment comparison"
+    ],
+    "insights": [
+      {
+        "ticker": "IAT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted for lower costs, higher dividend yield (2.9%), better 1-year returns (17.4%), and appeal to income-focused investors seeking regional lending exposure."
+      },
+      {
+        "ticker": "FTXO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Praised for stronger 5-year cumulative returns (26% CAGR of 4.8%) and broader exposure to major financial institutions, though offset by higher costs and lower dividend yield."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "USBpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "PNC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (14.46%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      },
+      {
+        "ticker": "TFCpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
+      }
+    ]
+  },
+  {
+    "id": "9af65c97533ae901b1e13cf3492b8ff4177832f73f870494ae942a6377ffc6c1",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Wells Fargo's Stablecoin Push: A Potential Edge in Digital Payments?",
+    "author": "Na",
+    "published_utc": "2026-10-20T13:18:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011294/wells-fargo-s-stablecoin-push-a-potential-edge-in-digital-payments?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3011294",
+    "tickers": [
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "C",
+      "CpN",
+      "CpR",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8f/410.jpg",
+    "description": "Wells Fargo plans to launch a U.S. dollar-denominated stablecoin in the first half of 2027 alongside 20 international financial institutions to support cross-border and institutional payments. The bank has also launched tokenized deposits that settle transactions in two minutes or less, compared to 1-2 days traditionally. WFC is exploring additional crypto capabilities through potential partnerships with Kraken's parent company Payward.",
+    "keywords": [
+      "stablecoin",
+      "blockchain",
+      "cross-border payments",
+      "tokenized deposits",
+      "digital assets",
+      "cryptocurrency",
+      "institutional payments"
+    ],
+    "insights": [
+      {
+        "ticker": "WFC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
+      }
+    ]
+  },
+  {
+    "id": "fd2f6ccfa2c0c782124672235e778bf1aa19818d6f379502072c8ed9f1c267e4",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Angle Advisors announces Chris Gessner has joined as a Managing Director",
+    "author": "Not Specified",
+    "published_utc": "2026-10-19T18:18:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/10/19/3383812/0/en/angle-advisors-announces-chris-gessner-has-joined-as-a-managing-director.html",
+    "tickers": [
+      "AIQD",
+      "AIQU",
+      "BERZ",
+      "BMO",
+      "BNKD",
+      "BNKU",
+      "BRZD",
+      "BRZL",
+      "BULZ",
+      "CARD",
+      "CARU",
+      "DULL",
+      "FLYD",
+      "FLYU",
+      "FNGD",
+      "FNGO",
+      "FNGS",
+      "FNGU",
+      "GDXD",
+      "GDXU",
+      "HYGD",
+      "HYGU",
+      "JETD",
+      "JETU",
+      "JPND",
+      "JPNU",
+      "LQDD",
+      "LQDU",
+      "MNGU",
+      "NRGD",
+      "NRGU",
+      "OILD",
+      "OILU",
+      "SHNY",
+      "SMHD",
+      "SMHU",
+      "SPYU",
+      "TAWN",
+      "TPEI",
+      "WTID",
+      "WTIU",
+      "XLCD",
+      "XLCU",
+      "XLPD",
+      "XLPU",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/7d70c525-1420-403f-a410-a04bd51bb433",
+    "description": "Angle Advisors announced that Chris Gessner has joined the firm as Managing Director. Gessner brings over 20 years of corporate finance experience in lending, private equity investing, and M&A advisory, with previous roles at BMO, J.P. Morgan, and Peninsula Capital Partners. His expertise in consumer, industrial services, and manufacturing sectors aligns with Angle Advisors' client base.",
+    "keywords": [
+      "M&A advisory",
+      "capital raising",
+      "corporate finance",
+      "private equity",
+      "lower middle-market",
+      "industrial services",
+      "manufacturing"
+    ],
+    "insights": [
+      {
+        "ticker": "AIQD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "AIQU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BERZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BMO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BNKD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BNKU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BRZD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BRZL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "BULZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "CARD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "CARU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "DULL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FLYD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FLYU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FNGD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FNGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FNGS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "FNGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "GDXD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "GDXU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "HYGD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "HYGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JETD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JETU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPND",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPNU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "LQDD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "LQDU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "MNGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "NRGD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "NRGU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "OILD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "OILU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "SHNY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "SMHD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "SMHU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "SPYU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "TAWN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "TPEI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "WTID",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "WTIU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "XLCD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "XLCU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "XLPD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "XLPU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "BMO is mentioned only as a previous employer of the new hire. There is no information about BMO's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "J.P. Morgan is mentioned only as a previous employer of the new hire. There is no information about J.P. Morgan's business performance or strategic initiatives, so sentiment is neutral."
+      }
+    ]
+  },
+  {
+    "id": "0d20b0570e3435a0bac9bbdc8932bf1568a26c959c359971f1fb2f0b1aff3cf7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "JPMorgan Slashes Q3 Share Buybacks: Is Organic Growth a Better Bet?",
+    "author": "Na",
+    "published_utc": "2026-10-19T13:00:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3010580/jpmorgan-slashes-q3-share-buybacks-is-organic-growth-a-better-bet?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3010580",
+    "tickers": [
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "C",
+      "CpN",
+      "CpR",
       "BAC",
       "BACpB",
       "BACpE",
@@ -27,171 +759,175 @@
       "BMLpH",
       "BMLpJ",
       "BMLpL",
-      "MERpK",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD"
+      "MERpK"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888294%2F24_09_26-a-person-holding-a-sign-that-says-warning-attention-please-_mf-dload-gettyimages-1639158401-1201x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Before buying stocks, investors should assess their risk tolerance given current market warnings. Bank of America and JPMorgan Chase CEO Jamie Dimon have cautioned about elevated valuations, geopolitical conflict, inflation, and high debt levels that could trigger a market correction. The article recommends maintaining adequate cash reserves, diversifying away from high-flying sectors like AI, and reducing margin debt to prepare for potential bear markets.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/80.jpg",
+    "description": "JPMorgan significantly reduced Q3 2026 share buybacks to $664 million from $6.2 billion, signaling a strategic shift toward reinvesting $30 billion in excess capital into technology, branch expansion, and business growth. CEO Jamie Dimon emphasized that franchise investment takes priority over repurchases. While the move supports long-term value creation, fewer buybacks may limit near-term earnings growth amid rising expenses of $108.6 billion.",
     "keywords": [
-      "risk tolerance",
-      "bear market",
-      "market correction",
-      "portfolio diversification",
-      "margin debt",
-      "cash reserves",
-      "elevated valuations",
-      "geopolitical risk"
+      "share buybacks",
+      "capital allocation",
+      "excess capital",
+      "technology investment",
+      "earnings growth",
+      "CET1 capital",
+      "shareholder returns"
     ],
     "insights": [
       {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
         "ticker": "BAC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpQ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "MERpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       }
     ]
   },
   {
-    "id": "08b6f6890308968ea448d932b07d11bfc36c253d05071ce0c4486c27bac7929c",
+    "id": "e05b422105c4fa69a457bd1e94a0704aa5bb83fa1fa682c948216ad9dd52ef6a",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Elon Musk Says Optimus Could Make Tesla a $25 Trillion Company. Here's What the Math Actually Requires.",
-    "author": "Ryan Vanzo",
-    "published_utc": "2026-09-27T11:09:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/elon-musk-says-optimus-could-be-worth-25-trillion/?source=iedfolrf0000001",
+    "title": "JPMorgan Chase & Co. (JPM) is Attracting Investor Attention: Here is What You Should Know",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-19T12:00:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3010380/jpmorgan-chase-co-jpm-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3010380",
     "tickers": [
-      "TSLA",
       "AMJB",
       "JPM",
       "JPMpC",
@@ -202,419 +938,62 @@
       "JPMpM",
       "VYLD"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888497%2Felon-musk_tesla_tsla_ceo_imagesource_the-white-house.jpg&w=1200&op=resize",
-    "description": "Elon Musk claims Tesla's Optimus humanoid robot could drive the company to a $25 trillion market cap (a 2,500% increase). However, analysts suggest this is overly optimistic. JPMorgan Chase projects the robotics industry could reach $2.5 trillion by 2035. If Tesla captures 10% of this market at current valuation ratios, its robotics division could be worth roughly $3 trillion\u2014far short of Musk's prediction. At $25 trillion, Tesla would represent 36% of the entire S&P 500.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default142.jpg",
+    "description": "JPMorgan Chase is receiving increased investor attention. The stock has declined 2.9% over the past month, underperforming the S&P 500's +1.5% gain. While earnings estimates show strong growth (+20.7% for current fiscal year), recent consensus estimates have declined slightly. The company maintains a Zacks Rank #3 (Hold) rating and is trading at a premium valuation relative to peers, suggesting it may perform in line with the broader market in the near term.",
     "keywords": [
-      "Optimus robot",
-      "Tesla valuation",
-      "robotics market",
-      "humanoid robots",
-      "market cap prediction",
-      "JPMorgan Chase robotics forecast"
-    ],
-    "insights": [
-      {
-        "ticker": "TSLA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Optimus represents significant long-term potential, the article suggests Musk's $25 trillion prediction is unrealistic in the near term. More conservative estimates suggest a $3 trillion robotics division valuation if Tesla captures 10% market share by 2035, indicating meaningful but not transformational upside."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan's bullish robotics industry forecast ($2.5 trillion by 2035, up from $100 billion in 2025) provides a positive outlook for the sector's growth potential, supporting the broader opportunity for robotics companies."
-      }
-    ]
-  },
-  {
-    "id": "7147d436120c1e903cc99a7019d98d4e0d5983f260026a157127c936e751c2b1",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why Genius Sports Shares Jumped Today",
-    "author": "James Brumley",
-    "published_utc": "2026-09-25T15:31:04Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/why-genius-sports-shares-jumped-today/?source=iedfolrf0000001",
-    "tickers": [
-      "GENI",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889031%2Fsports-betting-app.jpg&w=1200&op=resize",
-    "description": "Genius Sports Ltd shares surged nearly 8% after JPMorgan initiated coverage with an 'overweight' rating and $8 price target (26% upside). The investment bank highlighted the company's strong revenue growth and improving profitability. Despite the gain, GENI remains down 50% over the past year, presenting potential value for investors.",
-    "keywords": [
-      "sports data",
-      "JPMorgan coverage",
-      "revenue growth",
-      "profitability",
-      "stock price target",
-      "investment bank",
-      "sports entertainment"
-    ],
-    "insights": [
-      {
-        "ticker": "GENI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan initiated coverage with 'overweight' rating and 26% price target upside. Company demonstrates strong revenue growth (46% YoY) and improving profitability margins. Stock is still down 50% over the past year, suggesting undervaluation despite positive fundamentals."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the investment bank initiating coverage on Genius Sports. No direct impact on JPMorgan's business; serves as a neutral informational reference point."
-      }
-    ]
-  },
-  {
-    "id": "dd09434f1828d3157ff65b0bd10ce5de2177af79edf1855da2445f49c1ff2511",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "An S&P 500 Index Fund Already Owns These Financial Stocks. Here's Whether to Own More.",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-09-24T17:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/24/an-sp-500-index-fund-already-owns-these-financial/?source=iedfolrf0000001",
-    "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ",
-      "V",
-      "AXP",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "HOOD",
-      "BRK.A",
-      "BRK.B"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888069%2Fgettyimages-2228764569.jpg&w=1200&op=resize",
-    "description": "Financial stocks in the S&P 500 have underperformed over the past year, remaining flat year-to-date and up only 1% over 12 months. While S&P 500 ETFs already provide exposure to major financial stocks like Berkshire Hathaway, JPMorgan Chase, and Visa, investors don't need additional financial sector exposure. Instead, experts recommend diversifying beyond large-caps into small-cap, mid-cap, value, and international stocks, which are projected to outperform large-cap growth stocks over the next 10 years.",
-    "keywords": [
-      "financial stocks",
-      "S&P 500",
-      "diversification",
-      "small-cap stocks",
-      "value stocks",
-      "international stocks",
-      "large-cap underperformance"
+      "JPMorgan Chase",
+      "earnings estimates",
+      "stock performance",
+      "valuation",
+      "Zacks Rank",
+      "financial sector",
+      "revenue growth"
     ],
     "insights": [
       {
         "ticker": "AMJB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpJ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "JPMpM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       },
       {
         "ticker": "VYLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock included in S&P 500 ETFs; part of the underperforming financial sector with no company-specific catalysts mentioned."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Included as a major financial stock in S&P 500 ETFs; subject to broader financial sector headwinds but no specific company analysis provided."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a large-cap financial stock in S&P 500 ETFs; no specific outlook provided beyond sector-wide challenges."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock in S&P 500 ETFs; subject to financial sector headwinds with no differentiation noted."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Financial sector faces headwinds from Fed rate hikes, economic uncertainty, and potential market correction that would hurt investment management firms and brokerages."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "As a brokerage, vulnerable to the same sector challenges: potential market correction and downturn would hurt brokerages' performance."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major financial stock already held in S&P 500 ETFs; no specific positive or negative outlook provided for the company itself."
-      }
-    ]
-  },
-  {
-    "id": "56c1beea11a0f3aaae73e6e63fc35d3d56f7901a4a0feff50e8ca5a1aaa793f2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "My Prediction: American Stock Ownership Will Drop to 54% by 2030. One Sector Is Driving It.",
-    "author": "James Brumley",
-    "published_utc": "2026-09-23T11:22:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/my-prediction-american-stock-ownership-will-hit-54/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887703%2Faccountant-with-calculator.jpg&w=1200&op=resize",
-    "description": "The author predicts U.S. stock ownership will decline from 58% to 54% by 2030, primarily driven by cooling AI sector enthusiasm. New retail investors who poured $300 billion into stocks last year seeking AI gains are now facing disappointing performance from major tech stocks. Additional factors include record margin debt levels ($1.4 trillion) that could trigger margin calls, and elevated market valuations suggesting only 6-7% annualized returns over the next decade. Disillusioned investors may redirect capital to alternative investments like real estate and cryptocurrency.",
-    "keywords": [
-      "stock ownership decline",
-      "AI sector cooling",
-      "retail investors",
-      "margin debt",
-      "market valuation",
-      "technology stocks underperformance"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock has stagnated since May despite initial AI hype; cited as example of once-hot AI stock now lagging performance expectations"
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock performance has not budged since May; represents the cooling AI sector momentum that is driving investor exodus"
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock performance has not budged since May; represents the cooling AI sector momentum that is driving investor exodus"
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock performance has not budged since May; represents the cooling AI sector momentum that is driving investor exodus"
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock performance has not budged since May; represents the cooling AI sector momentum that is driving investor exodus"
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as source of market analysis and forecasts; no direct performance criticism, serves as informational reference"
+        "sentiment_reasoning": "While the company shows strong earnings growth (+20.7% for current fiscal year) and revenue growth (+13.5%), recent negative factors include a 2.9% stock decline over the past month, slight downward revisions in consensus estimates (-2.4% over 30 days), and premium valuation relative to peers (Value Style Score F). The Zacks Rank #3 (Hold) rating suggests market-in-line performance, indicating neither a compelling buy nor sell opportunity at current levels."
       }
     ]
   }

@@ -1,290 +1,251 @@
 [
   {
-    "id": "4aeeb115258772c2a9cdbe19fdbb0368219f1f8361cd64ac50831bc101dee2b2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "If I Could Only Buy and Hold 1 ETF for the Next 20 Years, Here's Where I'd Invest",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-23T19:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/if-i-could-only-buy-and-hold-1-etf-for-the-next-20/?source=iedfolrf0000001",
-    "tickers": [
-      "VOO",
-      "SPGI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888291%2Fwoman-stock-chart.jpg&w=1200&op=resize",
-    "description": "The article recommends Vanguard's S&P 500 ETF (VOO) as the single best ETF for long-term investors seeking a 20-year buy-and-hold strategy. With a low 0.03% expense ratio and a historical average annual return of 10% since 1957, the S&P 500 has consistently outperformed most actively managed funds despite significant market downturns. The author emphasizes that patient investors who resist panic selling during bear markets can achieve substantial long-term gains.",
-    "keywords": [
-      "S&P 500 ETF",
-      "long-term investing",
-      "index funds",
-      "passive investing",
-      "market volatility",
-      "buy-and-hold strategy",
-      "expense ratio"
-    ],
-    "insights": [
-      {
-        "ticker": "VOO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strongly recommended as the top choice for long-term investors. Praised for low expense ratio (0.03%), consistent historical returns (~10% annually), 833% total return since 2010 inception, and ability to outperform most actively managed funds over decades."
-      },
-      {
-        "ticker": "SPGI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only for its role in rebalancing the S&P 500 index quarterly by adding winners and removing losers. No investment recommendation or sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "c83bde13f59c0dd29a6156a1ad9446e8b13f1a282d19c3e33c4e74d4bb626e1b",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "This Dividend King Was Removed From the S&P 100. Here's Why It's a Great Buy for Long-Term Investors Anyway.",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-23T19:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/this-dividend-king-is-getting-removed-from-the-sp/?source=iedfolrf0000001",
-    "tickers": [
-      "CL",
-      "PANW",
-      "ANET",
-      "SNDK",
-      "SPGI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887263%2Fgettyimages-1403045742.jpg&w=1200&op=resize",
-    "description": "Colgate-Palmolive was removed from the S&P 100 index due to its $69 billion market cap being eclipsed by faster-growing AI-driven stocks, but the company remains a solid long-term investment. With 63 consecutive years of dividend increases, a 347% total return over 20 years, and expected 17% EPS CAGR through 2028, the stock offers stability and growth potential despite being a slower-growth consumer staples company.",
-    "keywords": [
-      "Dividend King",
-      "S&P 100 removal",
-      "dividend growth",
-      "consumer staples",
-      "long-term investing",
-      "recession-resistant",
-      "pet nutrition",
-      "premiumization"
-    ],
-    "insights": [
-      {
-        "ticker": "CL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite S&P 100 removal, the company demonstrates strong fundamentals with 63 years of consecutive dividend increases, healthy earnings growth projections (17% CAGR through 2028), stable recession-resistant business model, and reasonable valuation at 22x forward earnings. Removal was due to relative underperformance versus AI stocks, not business deterioration."
-      },
-      {
-        "ticker": "PANW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
-      },
-      {
-        "ticker": "ANET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
-      },
-      {
-        "ticker": "SNDK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the higher-growth, AI-driven stocks that replaced Colgate-Palmolive in the S&P 100, indicating strong recent performance, but no specific analysis or recommendation provided in the article."
-      },
-      {
-        "ticker": "SPGI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the entity that conducted the S&P 100 rebalancing, but no investment analysis or sentiment provided."
-      }
-    ]
-  },
-  {
-    "id": "abb82476afb836ee7e2f674725bb801df5b2bf91ddc97f2c324ac43837522e11",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Nvidia's Demand Is Outpacing Its 70% Growth Forecast, and That Is Just the Beginning",
-    "author": "Chris Neiger",
-    "published_utc": "2026-09-23T08:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/nvidias-demand-is-outpacing-its-70-growth-forecast/?source=iedfolrf0000001",
-    "tickers": [
-      "NVDA",
-      "AAPL",
-      "MU",
-      "SPGI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886828%2Fnvda.png&w=1200&op=resize",
-    "description": "Nvidia's demand for AI chips is significantly outpacing its 70% fiscal 2028 sales growth forecast, with management indicating it could potentially double sales if supply constraints were overcome. The surge is driven by agentic AI adoption, which requires 15-100 times more computing power than human-guided work. S&P Global forecasts $1.3 trillion in tech spending on AI infrastructure next year, positioning Nvidia for sustained long-term growth.",
-    "keywords": [
-      "Nvidia",
-      "AI chips",
-      "GPU demand",
-      "agentic AI",
-      "supply constraints",
-      "sales growth",
-      "data centers"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Nvidia is experiencing exceptional demand for its AI processors that exceeds its own 70% growth forecast, with potential to double sales if supply constraints are resolved. The shift to agentic AI is expected to drive sustained demand for years, and the company's market position as the backbone of AI infrastructure remains strong."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Apple is mentioned only as a comparison point for market cap and revenue growth rates (16% vs Nvidia's 70%), with no direct business implications discussed."
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Micron's memory chips are experiencing strong demand that outpaces supply, leading to skyrocketing prices, higher margins, and benefiting from the broader AI infrastructure buildout."
-      },
-      {
-        "ticker": "SPGI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "S&P Global is mentioned only as a source for forecasting $1.3 trillion in tech AI spending, with no direct sentiment implications for the company itself."
-      }
-    ]
-  },
-  {
-    "id": "4847fb904296b1e4fc881665201e771b7187e1f73d29e3963436435c41b680e3",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "CME vs. Morningstar: Which Financial Stock Is a Better Buy in 2026?",
-    "author": "Erin Kennedy",
-    "published_utc": "2026-09-16T12:30:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/16/cme-vs-morningstar-which-financial-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "CME",
-      "MORN",
-      "ICE",
-      "CBOE",
-      "MSCI",
-      "SPGI"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7089e9c275d4f6f9668a8e5e172ac46be0ed0aaa-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "CME Group and Morningstar are compared as financial infrastructure plays. CME dominates derivatives trading with an impressive 62% net margin and $6.5B revenue, but trades at a premium valuation (forward P/E 22.5). Morningstar offers investment research with lower margins (15.3%) but more attractive valuation (forward P/E 15.5). The author leans toward CME despite valuation concerns due to its superior profitability and dividend, though both stocks have underperformed the S&P 500 over longer periods.",
-    "keywords": [
-      "derivatives marketplace",
-      "financial infrastructure",
-      "net margin",
-      "valuation",
-      "free cash flow",
-      "subscription-based business",
-      "dividend yield"
-    ],
-    "insights": [
-      {
-        "ticker": "CME",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Dominant market position in global derivatives, exceptional 62% net margin, strong free cash flow ($4.2B), low debt-to-equity ratio (0.1), and dividend payment. Author's preferred choice despite valuation concerns."
-      },
-      {
-        "ticker": "MORN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Solid business fundamentals with 7.5% revenue growth and recurring subscription model, but lower profitability (15.3% margin), disappointing long-term returns versus S&P 500, and higher debt-to-equity ratio (1.2). More attractive valuation but less compelling overall."
-      },
-      {
-        "ticker": "ICE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to CME in the derivatives exchange space, but no detailed analysis provided."
-      },
-      {
-        "ticker": "CBOE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to CME in the derivatives exchange space, but no detailed analysis provided."
-      },
-      {
-        "ticker": "MSCI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Morningstar in data and software provision, but no detailed analysis provided."
-      },
-      {
-        "ticker": "SPGI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Morningstar in data and software provision, but no detailed analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "443bdcc0906f68b41337a4f1dc373552bd73e4d60e177495eb64bcf1ab021718",
+    "id": "0ffae6cb33dff964de87cd896154dac228594de08e482be7f3aa937a51e25ff1",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Top Research Reports for S&P Global, Cloudflare & Canadian Natural",
-    "author": "Mark Vickery",
-    "published_utc": "2026-09-15T20:13:00Z",
-    "article_url": "https://www.zacks.com/commentary/2989703/top-research-reports-for-s-p-global-cloudflare-canadian-natural?cid=CS-ZC-FT-research_daily-2989703",
+    "title": "MCO Q3 Earnings Miss Estimates as Costs Rise & MIS Revenues Fall",
+    "author": "Na",
+    "published_utc": "2026-10-21T11:51:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011866/mco-q3-earnings-miss-estimates-as-costs-rise-mis-revenues-fall?cid=CS-ZC-FT-analyst_blog|earnings_article-3011866",
+    "tickers": [
+      "MCO",
+      "ACN",
+      "SPGI"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/644.jpg",
+    "description": "Moody's reported Q3 2026 adjusted earnings of $4.14 per share, missing the consensus estimate of $4.25, though earnings grew 6% year-over-year. Revenues rose 1% to $2.02B but fell short of expectations. The results were pressured by increased operating expenses and a 1% decline in Moody's Investors Service revenues due to lower leveraged finance issuance, partially offset by 3% growth in Moody's Analytics. The company reaffirmed its 2026 guidance.",
+    "keywords": [
+      "earnings",
+      "revenue",
+      "operating expenses",
+      "leveraged finance",
+      "analytics",
+      "guidance"
+    ],
+    "insights": [
+      {
+        "ticker": "MCO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Earnings and revenue both missed consensus estimates. Operating expenses increased 2% year-over-year, pressuring margins. Moody's Investors Service revenues declined 1% due to lower leveraged finance issuance. Stock fell nearly 3% in pre-market trading on the weaker-than-expected performance."
+      },
+      {
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported Q4 fiscal 2026 results that beat both earnings and revenue consensus estimates. Earnings grew 8.6% year-over-year and revenues increased 6.2%, demonstrating strong operational performance."
+      },
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Scheduled to report Q3 2026 results on Oct. 27. Consensus estimate for quarterly earnings has been revised higher to $4.43, but this represents a 6.3% decline from the prior-year quarter, indicating mixed expectations."
+      }
+    ]
+  },
+  {
+    "id": "16ee78bba3ad85ec860b796a8a64d1215d21a440ff1310114758eca35f72f7ee",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Analysts Estimate S&P Global (SPGI) to Report a Decline in Earnings: What to Look Out for",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-20T13:00:25Z",
+    "article_url": "https://www.zacks.com/stock/news/3011196/analysts-estimate-s-p-global-spgi-to-report-a-decline-in-earnings-what-to-look-out-for?cid=CS-ZC-FT-fundamental_analysis|yseop_template_9-3011196",
     "tickers": [
       "SPGI",
-      "NET",
-      "CNQ",
-      "SGU",
-      "HOUR",
-      "EXC",
-      "NDSN",
-      "LAMR"
+      "NDAQ"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/51/210.jpg",
-    "description": "Zacks analysts published research on 16 major stocks and 2 microcaps on September 15, 2026. Key reports include S&P Global (neutral outlook despite strong recurring revenues and AI adoption), Cloudflare (balanced risk-reward with strong enterprise demand but valuation concerns), and Canadian Natural Resources (neutral stance due to commodity volatility and regulatory risks). Additional coverage includes Exelon, Nordson, Lamar Advertising, and others with mixed outlooks reflecting both growth opportunities and operational challenges.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default165.jpg",
+    "description": "S&P Global is expected to report a year-over-year decline in earnings and revenues for Q3 2026, with consensus EPS estimates of $4.43 (down 6.3%) and revenues of $3.64 billion (down 6.5%). With a negative Earnings ESP of -0.56% and Zacks Rank #3, the stock is not considered a compelling earnings-beat candidate. In contrast, Nasdaq is expected to report earnings growth of 15.9% and has a positive Earnings ESP of +0.14%, making it more likely to beat consensus estimates.",
     "keywords": [
-      "equity research",
-      "stock analysis",
-      "investment themes",
-      "earnings",
-      "market outlook"
+      "earnings decline",
+      "S&P Global",
+      "Q3 2026 earnings",
+      "earnings estimates",
+      "Earnings ESP",
+      "Nasdaq",
+      "year-over-year decline",
+      "consensus estimates"
     ],
     "insights": [
       {
         "ticker": "SPGI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positive factors include recurring benchmark revenues, AI adoption, and margin improvements, but offset by elevated costs, sizable debt, and intense competition. Financial and execution risks limit near-term upside."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Expected year-over-year decline in both earnings (-6.3%) and revenues (-6.5%). Negative Earnings ESP of -0.56% indicates recent analyst downgrades. Combined with Zacks Rank #3, the stock is not positioned as a compelling earnings-beat candidate. However, the company has beaten estimates in 3 of the last 4 quarters."
       },
       {
-        "ticker": "NET",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong enterprise demand and raised 2026 outlook are positive, but gross-margin compression, intense competition, macro uncertainty, workforce restructuring, and stretched valuation create balanced risk-reward profile."
-      },
-      {
-        "ticker": "CNQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Diversified portfolio and strong cash-flow generation are supported by low-cost assets, but significant oil sands exposure creates commodity volatility sensitivity and regulatory uncertainty. Pipeline constraints and ESG scrutiny limit upside."
-      },
-      {
-        "ticker": "SGU",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Acquisition strategy and HVAC diversification provide growth opportunities, but persistent customer attrition, energy conversions, elevated commodity costs, and tariff uncertainty constrain organic growth and margins."
-      },
-      {
-        "ticker": "HOUR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong revenue growth (25.2% in Q2 2026) and profitability are positive, but weak cash flow, rising inventory, heavy Amazon dependence (97% of revenues), tariff risks, and platform policy changes create significant headwinds."
-      },
-      {
-        "ticker": "EXC",
+        "ticker": "NDAQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Planned $41.7B investment in transmission and distribution infrastructure combined with revenue decoupling mechanisms support performance improvement."
+        "sentiment_reasoning": "Expected strong year-over-year earnings growth of +15.9% and revenue growth of +11.7%. Positive Earnings ESP of +0.14% combined with Zacks Rank #3 suggests the company is likely to beat consensus EPS estimates. The company has beaten consensus estimates in all trailing four quarters."
+      }
+    ]
+  },
+  {
+    "id": "8ae046a8c26f3b11238d3157e188fbed8f8181d89debec2be4fa8621f46013f4",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: Here's What $1,000 Invested in Tesla Stock Will Be Worth in 3 Years",
+    "author": "Will Ebiefung",
+    "published_utc": "2026-10-20T11:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/prediction-heres-what-1000-invested-in-tesla-stock/?source=iedfolrf0000001",
+    "tickers": [
+      "TSLA",
+      "SPGI"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891652%2Fgettyimages-1271085883.jpg&w=1200&op=resize",
+    "description": "Tesla's new Roadster with advanced features generates buzz but won't significantly impact revenue. While the company shows innovation, its P/E ratio of 352 is extremely expensive compared to the S&P 500's average of 24. Tesla faces margin pressures from price cuts and heavy R&D spending, with operating income down 57% in Q2. The stock is in limbo\u2014valuation is too high for meaningful growth, but future projects like robotaxi services may sustain investor optimism for a few more years.",
+    "keywords": [
+      "Tesla Roadster",
+      "electric vehicles",
+      "valuation",
+      "P/E ratio",
+      "robotaxi",
+      "margins",
+      "innovation",
+      "stock price prediction"
+    ],
+    "insights": [
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Tesla demonstrates strong innovation and revenue growth (+26% YoY), but faces significant headwinds: extremely high P/E ratio (352 vs S&P 500's 24), deteriorating margins, operating income down 57%, and intense competition. Future projects like robotaxi offer potential but are unproven. The article concludes a $1,000 investment is unlikely to deliver meaningful returns over 3 years unless new information emerges."
       },
       {
-        "ticker": "NDSN",
+        "ticker": "SPGI",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Growing demand for nonwoven and industrial coating products drives the Industrial Precision Solutions segment, but high costs remain a significant concern."
+        "sentiment_reasoning": "Mentioned only as a source of analyst estimates regarding Tesla's robotaxi revenue potential by 2030. No direct investment thesis or sentiment is provided."
+      }
+    ]
+  },
+  {
+    "id": "9643a2c301fb99a07e5d374c67c47ce0f7d1e352cec0188c0b5f9a59cad76cae",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Buyouts & Shareholder Yields Benefit SPGI Amid Fierce Competition",
+    "author": "Na",
+    "published_utc": "2026-10-19T15:11:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3010687/buyouts-shareholder-yields-benefit-spgi-amid-fierce-competition?cid=CS-ZC-FT-analyst_blog|zer_report_update-3010687",
+    "tickers": [
+      "SPGI",
+      "ACN",
+      "FDS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/364.jpg",
+    "description": "S&P Global reported Q2 2026 adjusted EPS of $4.83, up 23% YoY and beating consensus by 7.6%, with pro-forma revenues rising 11% to $3.68B. The company raised its 2026 share buyback target to over $7B and achieved nearly 60% of its $100M AI-driven cost savings target. However, rising competition, AI-driven shifts in customer demand, and potential pricing pressure in credit ratings and market data could challenge future growth and margins.",
+    "keywords": [
+      "Q2 2026 earnings",
+      "EPS growth",
+      "margin expansion",
+      "share buybacks",
+      "AI efficiency",
+      "competitive pressure",
+      "market data",
+      "credit ratings"
+    ],
+    "insights": [
+      {
+        "ticker": "SPGI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 earnings beat (23% EPS growth), revenue growth of 11%, margin expansion of 200 bps, significant AI-driven cost savings, and increased capital returns through $7B+ buyback target demonstrate solid operational performance and shareholder value creation."
       },
       {
-        "ticker": "LAMR",
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q4 FY2026 earnings of $3.29 per share beat consensus by 3.1%, with 9% YoY earnings growth and 6% revenue growth, indicating strong business performance."
+      },
+      {
+        "ticker": "FDS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q4 FY2026 adjusted earnings of $4.52 per share beat consensus by 4.6%, with 11.6% YoY earnings growth and 6.3% revenue growth, showing solid operational results."
+      }
+    ]
+  },
+  {
+    "id": "812fc03fd56aeaf3a883291bf481412f574801f39fccc309b4f4465d4b846234",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "CME vs. Coinbase Global: Which Financial Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-19T15:10:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/19/cme-vs-coinbase-global-which-financial-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "CME",
+      "COIN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "SPGI",
+      "NDAQ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "CME Group and Coinbase Global represent two different approaches to financial infrastructure. CME operates a high-margin derivatives marketplace with a 62% net margin and strong cash generation, while Coinbase scales rapidly in crypto trading but faces regulatory uncertainty. The author recommends CME due to its superior profitability, lower valuation multiple, dividend payment, and skepticism about crypto's fundamental value.",
+    "keywords": [
+      "derivatives trading",
+      "cryptocurrency",
+      "financial infrastructure",
+      "valuation comparison",
+      "regulatory environment",
+      "profitability margins",
+      "stock recommendation"
+    ],
+    "insights": [
+      {
+        "ticker": "CME",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong financial metrics with 62% net margin, low debt-to-equity ratio of 0.1, $4.2B free cash flow, dividend payment of $5.15, and lower forward P/E ratio of 23.56. Author explicitly recommends CME as the better investment choice."
+      },
+      {
+        "ticker": "COIN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "While revenue growth is solid at 9.4%, the company faces high regulatory uncertainty, heavy reliance on volatile Bitcoin and Ethereum prices, lower net margin of 17.6%, and high stock-based compensation at 34.6% of operating cash flow. Author dismisses crypto as lacking intrinsic value and views it as a 'greater fool' investment."
+      },
+      {
+        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Resilient local demand, digital growth, and disciplined acquisitions are positive, but ad cyclicality, rate exposure, and strong competition temper upside potential."
+        "sentiment_reasoning": "Mentioned as a strategic partner providing cloud infrastructure to CME through a 10-year technology migration agreement. No direct investment recommendation provided."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing cloud infrastructure to CME through a 10-year technology migration agreement. No direct investment recommendation provided."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing cloud infrastructure to CME through a 10-year technology migration agreement. No direct investment recommendation provided."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner providing cloud infrastructure to CME through a 10-year technology migration agreement. No direct investment recommendation provided."
+      },
+      {
+        "ticker": "SPGI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with exclusive license agreements with CME for index products. No direct investment recommendation provided."
+      },
+      {
+        "ticker": "NDAQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with exclusive license agreements with CME for index products. No direct investment recommendation provided."
       }
     ]
   }

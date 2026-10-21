@@ -1,5 +1,67 @@
 [
   {
+    "id": "a0fd919efcaddabe835947ab506d87353f5bc0d85962f3f41e08b172ae6ed25b",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is State Street SPDR S&P Telecom ETF (XTL) a Strong ETF Right Now?",
+    "author": "Na",
+    "published_utc": "2026-10-05T09:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/2999841/is-state-street-spdr-s-p-telecom-etf-xtl-a-strong-etf-right-now?cid=CS-ZC-FT-smart_beta_etf-2999841",
+    "tickers": [
+      "XTL",
+      "ANET",
+      "VSAT",
+      "MSI",
+      "VOX",
+      "XLC"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default275.jpg",
+    "description": "The State Street SPDR S&P Telecom ETF (XTL) is a smart beta ETF with $551.17 million in assets that tracks the S&P Telecom Select Industry Index. With a 0.35% expense ratio and year-to-date returns of 38.37%, it offers concentrated exposure to the telecom sector but carries medium risk with a beta of 1.17. Cheaper alternatives like VOX (0.09% expense ratio) and XLC (0.08% expense ratio) are available for investors seeking lower-cost options.",
+    "keywords": [
+      "smart beta ETF",
+      "telecom sector",
+      "expense ratio",
+      "Communication Services",
+      "equal-weight index"
+    ],
+    "insights": [
+      {
+        "ticker": "XTL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong year-to-date performance of 38.37% and 12-month returns of 46.34%, with competitive expense ratio of 0.35% and reasonable asset base of $551.17 million"
+      },
+      {
+        "ticker": "ANET",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Largest holding in XTL at 4.28% of portfolio; mentioned factually without performance commentary"
+      },
+      {
+        "ticker": "VSAT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest holding in XTL; mentioned factually without performance commentary"
+      },
+      {
+        "ticker": "MSI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest holding in XTL; mentioned factually without performance commentary"
+      },
+      {
+        "ticker": "VOX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as a superior alternative with significantly lower expense ratio of 0.09% and larger asset base of $5.78 billion"
+      },
+      {
+        "ticker": "XLC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as an alternative option with lowest expense ratio of 0.08% and largest asset base of $22.37 billion"
+      }
+    ]
+  },
+  {
     "id": "9dd9e9859b497f1748f5519f571f31c8814235e0e60994d5a924e3dcae202d54",
     "publisher": {
       "name": "GlobeNewswire Inc.",
@@ -136,42 +198,6 @@
         "ticker": "VSAT",
         "sentiment": "positive",
         "sentiment_reasoning": "Viasat is the other co-founder and primary technology contractor for Equatys, committing $400 million initially with potential for additional funding. The company brings critical MSS frequency rights globally and in Europe, plus relationships with 400+ mobile operators. As the main technical contractor, Viasat gains significant revenue opportunities and strategic positioning in the emerging D2D satellite market with attractive long-term financial returns."
-      }
-    ]
-  },
-  {
-    "id": "7010d17508a57216238672496cfabf8734710ac8d112b98685a1d885e163eb66",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Space42 et Viasat signent un accord contraignant en vue de cofonder Equatys, aboutissant \u00e0 la cr\u00e9ation de la premi\u00e8re plateforme partag\u00e9e d\u2019espaces et d\u2019infrastructures au sol d\u00e9di\u00e9e \u00e0 la connectivit\u00e9 mondiale direct-to-device (D2D) et aux services MSS avanc\u00e9s",
-    "author": "Na",
-    "published_utc": "2026-09-14T23:33:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/14/3361605/0/fr/space42-et-viasat-signent-un-accord-contraignant-en-vue-de-cofonder-equatys-aboutissant-%C3%A0-la-cr%C3%A9ation-de-la-premi%C3%A8re-plateforme-partag%C3%A9e-d-espaces-et-d-infrastructures-au-sol-d%C3%A9di%C3%A9.html",
-    "tickers": [
-      "VSAT"
-    ],
-    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/d01b8ada-bf97-4404-89d9-8fd27224c128",
-    "description": "Space42 and Viasat have signed a binding agreement to create Equatys, a shared satellite and ground infrastructure platform for global direct-to-device (D2D) connectivity and advanced mobile satellite services (MSS). The two companies will commit up to $1 billion in combined equity capital, with Viasat serving as the primary technology provider. The platform will follow a Tower Company model, enabling multiple operators to share infrastructure while maintaining their spectrum rights and commercial independence. The initial constellation will eventually scale to 2,800 satellites across 60 orbital planes.",
-    "keywords": [
-      "satellite connectivity",
-      "direct-to-device (D2D)",
-      "mobile satellite services (MSS)",
-      "shared infrastructure",
-      "3GPP NTN standards",
-      "spectrum coordination",
-      "non-terrestrial networks",
-      "tower company model",
-      "satellite constellation"
-    ],
-    "insights": [
-      {
-        "ticker": "VSAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Viasat is designated as the primary technology provider for Equatys and co-commits $1 billion in equity. The company brings critical global MSS spectrum rights and technical expertise. The partnership positions Viasat as a key infrastructure provider in the emerging D2D satellite market, with potential for significant long-term returns and market expansion."
       }
     ]
   }

@@ -1,302 +1,273 @@
 [
   {
-    "id": "e40db93f295b7f05bba312c8abf3f780ea2cfa6b812f96e703ac1fad5154a937",
+    "id": "2e27e05d6a431a68f0dc6c8a279b6818ce7da281974fc2782f313e052e7d5bdf",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "No, I'm Not Selling You My Netflix Stock Today",
+    "author": "Rick Munarriz",
+    "published_utc": "2026-10-21T15:47:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/no-im-not-selling-you-my-netflix-stock-today/?source=iedfolrf0000001",
+    "tickers": [
+      "NFLX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891904%2Fgettywomanwatchingtv.jpg&w=1200&op=resize",
+    "description": "Netflix stock fell to a two-year low after Q3 earnings beat expectations but guidance disappointed. Revenue grew 11.8% to $12.87B and earnings rose 44% to $0.87/share, but Q4 guidance projects only 11.5% revenue growth and 15% earnings growth\u2014the weakest performance in over three years. Despite six consecutive quarters of decelerating growth and key executive departures, the author maintains his long-term position, citing Netflix's historical resilience and current valuation at 17x forward earnings.",
+    "keywords": [
+      "Netflix earnings",
+      "Q3 2026 results",
+      "guidance disappointment",
+      "stock decline",
+      "streaming services",
+      "revenue growth deceleration",
+      "long-term investing"
+    ],
+    "insights": [
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock hit two-year low with disappointing forward guidance showing decelerating growth (11.5% Q4 revenue growth, lowest in 3+ years), fourth consecutive quarter of slowing growth, and earnings growth expected to slow to 15%. Key executives departed and ad revenue forecast was cut by $300M. However, the author maintains a positive long-term outlook despite near-term challenges."
+      }
+    ]
+  },
+  {
+    "id": "eeba31982f2902a3ed43a2f6f7ac7697048e6960011f0e8528f6e5d8f39715ab",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Netflix: 3 Key Takeaways for Long-Term Investors",
+    "author": "The Motley Fool Team",
+    "published_utc": "2026-10-21T14:29:02Z",
+    "article_url": "https://www.fool.com/earnings/takeaways/2026/10/21/netflix-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "tickers": [
+      "NFLX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F2ebd0a521a108fea4d391e754bfb0f67c54305f6-1200x800.png&w=1200&op=resize",
+    "description": "Netflix reaffirmed its core investment priorities during its Q3 2026 earnings call, focusing 95% of capital spending on original content while advancing advertising technology and expanding global partnerships. The company's advertising tier is growing over 80% annually, and management prioritizes long-term strategic advantages over short-term revenue gains. Netflix aims to sustain double-digit revenue growth, expand margins, and increase free cash flow through superior monetization and global distribution.",
+    "keywords": [
+      "Netflix earnings",
+      "content spending",
+      "advertising technology",
+      "subscriber retention",
+      "pricing power",
+      "global expansion",
+      "free cash flow"
+    ],
+    "insights": [
+      {
+        "ticker": "NFLX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Netflix demonstrates strong strategic positioning with 95% capital allocation to high-return core content, advertising tier growing over 80%, and management's commitment to long-term competitive advantages. The company maintains pricing power, expands global reach through partnerships, and shows confidence in its structural advantages despite short-term ad revenue adjustments. Financial objectives include sustained double-digit revenue growth and margin expansion."
+      }
+    ]
+  },
+  {
+    "id": "c71b4f4e09cda0cd373430eda166b80fa80cc6c5efbc79b9d07085f0a285023c",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Did SpaceX Just Save the AI Trade?",
+    "author": "Neil Rozenbaum",
+    "published_utc": "2026-10-21T14:28:48Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/did-spacex-just-save-the-ai-trade/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "NBIS",
+      "CRWV",
+      "NVDA",
+      "IREN",
+      "NFLX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891916%2Fgettyimages-486691192.jpg&w=1200&op=resize",
+    "description": "SpaceX's Q3 2026 earnings report had a significant ripple effect on AI cloud stocks. The company's strong performance and its implications for AI infrastructure demand influenced sentiment across related AI companies including Nebius, CoreWeave, Nvidia, and Iren. The article examines what SpaceX's results mean for the broader AI investment landscape.",
+    "keywords": [
+      "SpaceX earnings",
+      "AI stocks",
+      "cloud infrastructure",
+      "investment sentiment",
+      "Q3 2026"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock soared 9.4% on earnings report; described as potentially 'saving the AI trade' with strong performance and positive ripple effects across AI sector"
+      },
+      {
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AI cloud infrastructure company mentioned in context of SpaceX's positive impact on AI demand; modest gains of 0.53%"
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "AI infrastructure provider mentioned as beneficiary of AI trade momentum; essentially flat performance with -0.06% change"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major AI chip manufacturer mentioned in context of AI sector strength; up 1.56% following SpaceX earnings"
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AI-related company mentioned alongside other beneficiaries of SpaceX's positive earnings impact; up 4.51%"
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as separate earnings topic; stock down 5.01% on the trading day"
+      }
+    ]
+  },
+  {
+    "id": "048a5dbd36bd28edc5057785876c196ce01690e3ecd9b91e43b78859e9bb3054",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Breakfast News: A $5.7 Billion Flex or Genius?",
+    "author": "Tmf Breakfast News",
+    "published_utc": "2026-10-21T11:30:02Z",
+    "article_url": "https://www.fool.com/investing/breakfast-news/2026/10/21/breakfast-news-a-usd5-7-billion-flex-or-genius/?source=iedfolrf0000001",
+    "tickers": [
+      "CRM",
+      "BRZE",
+      "NFLX",
+      "ISRG",
+      "SPCX",
+      "TSLA",
+      "META",
+      "IBM",
+      "EQT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fbn211026.png&w=1200&op=resize",
+    "description": "Salesforce acquires Braze for $5.7 billion to strengthen its marketing capabilities, with Braze stock jumping 50%. Netflix faces growth challenges with slowing revenue and weak ad performance. SpaceX beats expectations with 161% revenue growth, while Intuitive Surgical falls despite beating estimates due to cooling U.S. procedure growth. Tesla, Meta, and IBM report earnings with major capital spending decisions in focus. EQT continues steady cash flow growth as a natural gas producer.",
+    "keywords": [
+      "M&A",
+      "marketing technology",
+      "streaming",
+      "space exploration",
+      "surgical robotics",
+      "capital expenditure",
+      "natural gas",
+      "earnings"
+    ],
+    "insights": [
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acquisition of Braze is strategically sound and relatively inexpensive, but long-term growth prospects are limited to 7-10% annually rather than historical 20%, suggesting modest upside potential."
+      },
+      {
+        "ticker": "BRZE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 51% on acquisition announcement; company has strong financials with $300M+ net cash, improving margins, and 25%+ annual topline growth at reasonable valuation."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 6% after hours due to slowing revenue growth (12%, slowest in 3 years), weak ad revenue below targets, and minimal viewing hour growth (2%), indicating fundamental growth challenges."
+      },
+      {
+        "ticker": "ISRG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 7% despite beating earnings estimates because U.S. da Vinci procedure growth slowed to 10%, lagging overseas growth and signaling weakening domestic demand momentum."
+      },
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 8% on strong earnings beat with 161% revenue growth and aggressive Q1 2027 guidance of $33-37B, though dependent on compute revenue materializing."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Expected to report flat revenue with significant free cash flow drain and high capex; stock performance depends on clarity around Cybercab and Optimus volume justifying massive capital spending."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Facing investor scrutiny over $130-145B capex guidance for 2026; needs strong Q4 revenue outlook (~$73.6B) to convince market that spending is justified, with historical precedent of capex spikes dragging stock down."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Recovering from prior quarter delays in software and mainframe deals; Q3 software revenue should confirm momentum, but upcoming guidance will be key driver of stock direction."
+      },
+      {
+        "ticker": "EQT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fundamentals with 78% free cash flow growth, 42% debt reduction, and 3% dividend increase; trading at attractive 12x trailing earnings with built-in hedges and rising natural gas demand from AI data centers."
+      }
+    ]
+  },
+  {
+    "id": "474634f02b5a0517a882c14fa9bcd28910f68a7ab46aa9f500d69898a626742e",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Netflix (NFLX) Surpasses Market Returns: Some Facts Worth Knowing",
+    "title": "Netflix Q3 Earnings Beat Estimates, Ad Revenue View Trimmed",
     "author": "Na",
-    "published_utc": "2026-10-06T20:45:02Z",
-    "article_url": "https://www.zacks.com/stock/news/3001374/netflix-nflx-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001374",
-    "tickers": [
-      "NFLX"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default119.jpg",
-    "description": "Netflix (NFLX) closed at $68.69, up 1.76% for the day but down 13.74% over the past month. The stock holds a Zacks Rank #4 (Sell) rating despite positive earnings expectations for Q3 2026, with anticipated EPS of $0.82 (+38.98% YoY) and revenue of $12.87 billion (+11.84% YoY). However, NFLX trades at a Forward P/E of 18.79, significantly above the industry average of 9.47, suggesting overvaluation concerns.",
-    "keywords": [
-      "Netflix",
-      "stock analysis",
-      "earnings forecast",
-      "valuation",
-      "Zacks Rank",
-      "Forward P/E ratio",
-      "Consumer Discretionary"
-    ],
-    "insights": [
-      {
-        "ticker": "NFLX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite strong earnings growth expectations (+38.98% EPS growth YoY), Netflix receives a Zacks Rank #4 (Sell) rating due to significant overvaluation. The stock trades at a Forward P/E of 18.79 versus industry average of 9.47, and has declined 13.74% over the past month, underperforming sector expectations. The premium valuation relative to growth prospects and negative analyst rating outweigh positive earnings forecasts."
-      }
-    ]
-  },
-  {
-    "id": "6b74a7ab961e46535c40f0a100c6574045dfb06fe8eb9859cfa5f09df08f7440",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The 9 Best Stocks to Buy Right Now in October (2026)",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-10-05T22:13:07Z",
-    "article_url": "https://www.fool.com/investing/2026/10/05/the-9-best-stocks-to-buy-right-now-in-october-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "META",
-      "MCD",
-      "NFLX",
-      "AMZN",
-      "NVDA",
-      "ADBE",
-      "V",
-      "UBER",
-      "PINS"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890222%2Fmqdefault.webp&w=1200&op=resize",
-    "description": "The Motley Fool's analyst curates a list of nine stocks recommended for investment in October 2026, highlighting opportunities with favorable risk-versus-reward profiles. The selection includes major technology, consumer, and financial services companies, with stock prices referenced from October 3, 2026.",
-    "keywords": [
-      "stock recommendations",
-      "October 2026",
-      "investment opportunities",
-      "risk-versus-reward",
-      "technology stocks",
-      "consumer stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in the curated list of 9 best stocks to buy, indicating analyst confidence in the company's investment potential"
-      },
-      {
-        "ticker": "MCD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured in the recommended stock list with options positions held, suggesting positive outlook"
-      },
-      {
-        "ticker": "NFLX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured in the recommended stocks list and held by both the analyst and The Motley Fool"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst and Motley Fool positions"
-      },
-      {
-        "ticker": "ADBE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured in the recommended stocks list with options positions held by The Motley Fool"
-      },
-      {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in the best stocks to buy list and held by both the analyst and The Motley Fool"
-      },
-      {
-        "ticker": "UBER",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Featured in the recommended stocks list with analyst position held"
-      },
-      {
-        "ticker": "PINS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Included in the curated list of best stocks to buy with analyst position held"
-      }
-    ]
-  },
-  {
-    "id": "dab29833e309bb3d54f1c28457306d6be29bf8c3a51f8255e4e0a4954f1f0d8f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Don't Sell Netflix: NFLX Is the One Streaming Pick I'd Add to Today",
-    "author": "Brett Schafer",
-    "published_utc": "2026-10-04T23:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/04/dont-sell-netflix-nflx-is-the-one-streaming-pick-i/?source=iedfolrf0000001",
+    "published_utc": "2026-10-21T11:28:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011604/netflix-q3-earnings-beat-estimates-ad-revenue-view-trimmed?cid=CS-ZC-FT-analyst_blog|earnings_article-3011604",
     "tickers": [
       "NFLX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "DIS"
+      "FOX",
+      "FOXA",
+      "VAC",
+      "VSNT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889569%2Fpeople-watching-tv.jpg&w=1200&op=resize",
-    "description": "Despite Netflix trading down 50% from highs while the S&P 500 is up 13% YTD, analyst argues the stock remains a strong long-term buy. Netflix shows solid fundamentals with 13% YTD revenue growth, expanding content into sports and live programming, and aggressive share buybacks at lower prices. Trading at a P/E of 21\u2014historically low for the company\u2014Netflix is well-positioned against legacy competitors and should benefit from sustained streaming demand growth.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/da/91.jpg",
+    "description": "Netflix reported Q3 2026 EPS of 87 cents, up 49% YoY and beating consensus by 6.1%, with operating margin expanding to 34.6%. However, the company trimmed its 2026 ad revenue outlook to $2.7B and free cash flow forecast to $12B due to slower-than-expected ad product rollout. Subscription revenue growth and strong performance in India offset advertising headwinds.",
     "keywords": [
-      "streaming",
-      "Netflix",
-      "stock valuation",
-      "share buybacks",
-      "content expansion",
-      "advertising growth",
-      "market laggard",
-      "long-term opportunity"
+      "Netflix Q3 2026 earnings",
+      "EPS beat",
+      "operating margin expansion",
+      "ad revenue guidance cut",
+      "subscription growth",
+      "India market performance",
+      "free cash flow",
+      "share buyback"
     ],
     "insights": [
       {
         "ticker": "NFLX",
+        "sentiment": "mixed",
+        "sentiment_reasoning": "Strong Q3 profitability metrics (49% EPS growth, margin expansion to 34.6%) and record share buybacks ($4.8B) are positive. However, the company cut 2026 ad revenue guidance by $300M and reduced free cash flow forecast, citing slower ad product rollout. Management also acknowledged investor concerns about view hour growth. The Zacks Rank #4 (Sell) rating reflects these headwinds despite near-term earnings strength."
+      },
+      {
+        "ticker": "FOX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (13% YTD), expanding content library (sports, live shows, podcasts), aggressive share buyback program (6% reduction in outstanding shares), historically low P/E ratio of 21, and better competitive positioning than legacy players like Paramount and Disney. Management is reinvesting in growth areas and advertising represents untapped upside."
+        "sentiment_reasoning": "Mentioned as a better-ranked alternative in the Consumer Discretionary sector with a Zacks Rank #1 (Strong Buy) rating, suggesting stronger relative investment potential compared to Netflix."
       },
       {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a potential disruptor to Netflix through YouTube, but the article notes this narrative has not impacted Netflix's financial performance, suggesting the threat is theoretical rather than imminent."
-      },
-      {
-        "ticker": "DIS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Characterized as a legacy player struggling to gain share in video streaming with a worse balance sheet than Netflix, indicating competitive disadvantage in the streaming market."
-      }
-    ]
-  },
-  {
-    "id": "64aaafed8eef02462fba5fb094e85a54036e5aff6688f78016adbc7766e74ee6",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Netflix (NFLX) Stock a Buy?",
-    "author": "Selena Maranjian",
-    "published_utc": "2026-10-04T19:05:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/04/is-netflix-nflx-stock-a-buy/?source=iedfolrf0000001",
-    "tickers": [
-      "NFLX",
-      "AMZN",
-      "AAPL",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888242%2Ffool-netflix-nflx.jpg&w=1200&op=resize",
-    "description": "Netflix has been an exceptional long-term performer, turning $1,000 into $43,000 over 15 years. However, the company's growth is slowing with Q2 revenue up only 13.4% year-over-year. While valuation metrics appear reasonable compared to historical averages, the mature streaming market with intense competition from Amazon Prime Video, Apple TV, and YouTube makes Netflix not particularly compelling at current levels. The author suggests buying a little could work long-term, but better opportunities exist elsewhere.",
-    "keywords": [
-      "streaming",
-      "valuation",
-      "growth slowdown",
-      "competition",
-      "subscriber base",
-      "content creation"
-    ],
-    "insights": [
-      {
-        "ticker": "NFLX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Netflix has a strong historical track record and reasonable valuation metrics (P/E of 18 vs. 5-year average of 30), growth is decelerating and the company is mature. The author concludes it's not terribly compelling at current levels, suggesting modest investment potential but noting better opportunities exist."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a significant competitor to Netflix through Prime Video, representing a competitive threat in the streaming market."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor in streaming through Apple TV, representing competitive pressure in the industry."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor through YouTube, which is noted as a significant streaming competitor to Netflix."
-      }
-    ]
-  },
-  {
-    "id": "ad5ead419ce1d818503f266f8fab97853d69ef04b3788588658ac1df67aaeda4",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is a Microsoft Stock Split Coming After 23 Years?",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-10-03T08:27:01Z",
-    "article_url": "https://www.fool.com/investing/2026/10/03/is-a-microsoft-stock-split-coming-after-23-years/?source=iedfolrf0000001",
-    "tickers": [
-      "MSFT",
-      "NVDA",
-      "AVGO",
-      "NFLX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fdfbf6b4336c3038eb7d6acbcea62f28374141b2e-3515x2245.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Microsoft's stock price has reached $518, near its record high, but the company hasn't announced a stock split in 23 years despite its share price being significantly higher than historical split thresholds. While peers like Nvidia, Broadcom, and Netflix recently announced splits at much higher price points, analyst Daniel Sparks doubts Microsoft will split soon, noting that fractional shares and the company's strong fundamentals (22% earnings growth) make a split less urgent.",
-    "keywords": [
-      "stock split",
-      "Microsoft",
-      "share price",
-      "Dow Jones Industrial Average",
-      "price-weighted index",
-      "fractional shares",
-      "earnings growth"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock is trading near record highs with strong 22% earnings growth and 18% revenue growth, but analyst expresses skepticism about an imminent stock split despite high share price. The neutral sentiment reflects solid fundamentals without major catalysts for near-term action."
-      },
-      {
-        "ticker": "NVDA",
+        "ticker": "FOXA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recently announced a 10-for-1 stock split at $950 per share, demonstrating strong stock performance and investor accessibility initiatives. Used as a positive comparison point for successful recent splits."
+        "sentiment_reasoning": "Mentioned as a better-ranked alternative in the Consumer Discretionary sector with a Zacks Rank #1 (Strong Buy) rating, suggesting stronger relative investment potential compared to Netflix."
       },
       {
-        "ticker": "AVGO",
+        "ticker": "VAC",
         "sentiment": "positive",
-        "sentiment_reasoning": "Announced a 10-for-1 stock split at approximately $1,500 per share, indicating strong stock performance and company confidence. Cited as a successful recent split example."
+        "sentiment_reasoning": "Carries a Zacks Rank #1 (Strong Buy) rating and is highlighted as a better-ranked stock in the Consumer Discretionary sector compared to Netflix."
       },
       {
-        "ticker": "NFLX",
+        "ticker": "VSNT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Announced a stock split in October 2025 at approximately $1,090 per share, demonstrating strong stock appreciation and investor accessibility efforts."
+        "sentiment_reasoning": "Carries a Zacks Rank #1 (Strong Buy) rating and is recommended as a better-ranked alternative in the Consumer Discretionary sector."
       }
     ]
   }

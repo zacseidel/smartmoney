@@ -1,398 +1,338 @@
 [
   {
-    "id": "7bab6b45651b23bc0ef1eafcb6f921640a6a5c3d528b4998c6e9f37a46eeb605",
+    "id": "fc623d33757194660396889cb73ca49b24925c88099df6faa0f007be7c50c987",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-09-24T19:34:01Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/24/ast-spacemobile-vs-intuitive-machines-which-space-infrastructure-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "title": "AT&T (T) Q3 Earnings and Revenues Top Estimates",
+    "author": "Na",
+    "published_utc": "2026-10-21T10:45:14Z",
+    "article_url": "https://www.zacks.com/stock/news/3011578/at-t-t-q3-earnings-and-revenues-top-estimates?cid=CS-ZC-FT-fundamental_analysis|yseop_template_4-3011578",
     "tickers": [
-      "ASTS",
-      "LUNR",
       "T",
       "TBB",
       "TpA",
       "TpC",
+      "GOGO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default271.jpg",
+    "description": "AT&T reported Q3 2026 earnings of $0.65 per share, beating consensus estimates of $0.61, with revenues of $32.32 billion exceeding expectations by 2.02%. Despite the earnings beat, AT&T shares have declined 5.7% year-to-date compared to the S&P 500's 12.7% gain. The stock received a Zacks Rank #3 (Hold) rating, suggesting near-term performance in line with the market.",
+    "keywords": [
+      "earnings surprise",
+      "earnings beat",
+      "revenue growth",
+      "stock underperformance",
+      "Zacks Rank",
+      "wireless industry"
+    ],
+    "insights": [
+      {
+        "ticker": "T",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While AT&T beat earnings and revenue estimates with a +6.56% EPS surprise, the stock has significantly underperformed the broader market year-to-date (-5.7% vs S&P 500 +12.7%). The Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward, suggesting mixed investor sentiment despite positive earnings results."
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While AT&T beat earnings and revenue estimates with a +6.56% EPS surprise, the stock has significantly underperformed the broader market year-to-date (-5.7% vs S&P 500 +12.7%). The Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward, suggesting mixed investor sentiment despite positive earnings results."
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While AT&T beat earnings and revenue estimates with a +6.56% EPS surprise, the stock has significantly underperformed the broader market year-to-date (-5.7% vs S&P 500 +12.7%). The Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward, suggesting mixed investor sentiment despite positive earnings results."
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While AT&T beat earnings and revenue estimates with a +6.56% EPS surprise, the stock has significantly underperformed the broader market year-to-date (-5.7% vs S&P 500 +12.7%). The Zacks Rank #3 (Hold) rating indicates expected market-level performance going forward, suggesting mixed investor sentiment despite positive earnings results."
+      },
+      {
+        "ticker": "GOGO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Gogo is expected to report a -90% year-over-year decline in quarterly earnings to $0.01 per share, with revenues declining 3.2% from the prior year quarter. These significant declines indicate deteriorating business performance."
+      }
+    ]
+  },
+  {
+    "id": "7bfe4a3476d043a9d4c56b76187884504377367bc2a700b054ca1fcad37b5450",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Verizon Communications (VZ) Reports Next Week: Wall Street Expects Earnings Growth",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-19T13:00:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3010605/verizon-communications-vz-reports-next-week-wall-street-expects-earnings-growth?cid=CS-ZC-FT-fundamental_analysis|yseop_template_9-3010605",
+    "tickers": [
       "VZ",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1c43c7ea2a115de06def5b60d05cbbe789d96aa5-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "AST SpaceMobile and Intuitive Machines represent different segments of the commercial space market. AST SpaceMobile achieved 1,500% revenue growth to $70.9M in FY2025 but posted a $342M net loss with $1.1B negative free cash flow. Intuitive Machines reported $210M revenue (down 8% YoY) with an $84M net loss but trades at a much lower valuation multiple (P/S of 1.3x vs 149x). The article recommends Intuitive Machines for 2026 based on superior valuation metrics and stronger near-term profitability outlook.",
-    "keywords": [
-      "space infrastructure",
-      "satellite communications",
-      "lunar logistics",
-      "commercial space market",
-      "valuation comparison",
-      "cash burn",
-      "profitability timeline"
-    ],
-    "insights": [
-      {
-        "ticker": "ASTS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong revenue growth (1,500%) and major carrier partnerships are offset by massive net losses ($342M), negative free cash flow ($1.1B), and significant litigation risks. Company shows promise but faces near-term profitability challenges and competitive threats from SpaceX."
-      },
-      {
-        "ticker": "LUNR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as the better buy for 2026 due to significantly lower valuation (P/S 1.3x vs 149x), record Q1 FY2026 revenue of $187M, $1.1B order backlog, and path to profitability by 2028. Revenue expected to quadruple to $952M in FY2026 with narrower losses."
-      },
-      {
-        "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner and equity holder in AST SpaceMobile, providing customer concentration risk but also validating the business model through major telecom backing."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner and equity holder in AST SpaceMobile, providing customer concentration risk but also validating the business model through major telecom backing."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner and equity holder in AST SpaceMobile, providing customer concentration risk but also validating the business model through major telecom backing."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strategic partner and equity holder in AST SpaceMobile, providing customer concentration risk but also validating the business model through major telecom backing."
-      },
-      {
-        "ticker": "VZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Major commercial partner and equity holder in AST SpaceMobile with potential upside from satellite-to-phone connectivity, but also represents customer concentration risk."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Equity holder in AST SpaceMobile with strategic interest in space infrastructure, but no direct operational involvement in either company."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Equity holder in AST SpaceMobile with strategic interest in space infrastructure, but no direct operational involvement in either company."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Equity holder in AST SpaceMobile with strategic interest in space infrastructure, but no direct operational involvement in either company."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Equity holder in AST SpaceMobile with strategic interest in space infrastructure, but no direct operational involvement in either company."
-      }
-    ]
-  },
-  {
-    "id": "d8e74f1d5d729fadda2a0c908b7b522f0ebcf1ec8ca93c0a342a7e23b48c4e7a",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "NCAA Basketball Finals 2026 Post-Event Analysis Highlights Fan Engagement, Sponsorship Growth and Emerging Media Opportunities",
-    "author": "Researchandmarkets.Com",
-    "published_utc": "2026-09-24T09:52:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368108/28124/en/ncaa-basketball-finals-2026-post-event-analysis-highlights-fan-engagement-sponsorship-growth-and-emerging-media-opportunities.html",
-    "tickers": [
-      "T",
-      "TBB",
-      "TpA",
-      "TpC",
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN",
-      "KO",
-      "NKE",
-      "DIS"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
-    "description": "The 2026 NCAA Basketball Finals demonstrated strong commercial performance with record men's viewership (18.30 million average), 15-16% growth in women's championship audiences, sold-out Final Four tickets, and sustained sponsorship value from major corporate partners. Long-term sponsorship agreements and expanded international media rights, particularly Disney's $920 million women's basketball deal through 2032, underscore March Madness's position as a valuable sports property.",
-    "keywords": [
-      "NCAA Basketball",
-      "March Madness",
-      "Sponsorship",
-      "Television Audiences",
-      "Women's Basketball",
-      "Media Rights",
-      "Ticket Sales",
-      "Corporate Partnerships"
-    ],
-    "insights": [
-      {
-        "ticker": "T",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as NCAA Corporate Champion with estimated $10-30 million annual investment, securing premium exposure across multiple platforms during high-viewership March Madness events."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as NCAA Corporate Champion with estimated $10-30 million annual investment, securing premium exposure across multiple platforms during high-viewership March Madness events."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as NCAA Corporate Champion with estimated $10-30 million annual investment, securing premium exposure across multiple platforms during high-viewership March Madness events."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Named as NCAA Corporate Champion with estimated $10-30 million annual investment, securing premium exposure across multiple platforms during high-viewership March Madness events."
-      },
-      {
-        "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as NCAA Corporate Champion with $10-30 million annual sponsorship investment, gaining national reach and brand visibility through March Madness broadcasts and venues."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as NCAA Corporate Champion with $10-30 million annual investment, benefiting from premium exposure across television, venues, and digital platforms during major tournament events."
-      },
-      {
-        "ticker": "NKE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "College apparel partner with Michigan's $11.27 million annual agreement (highest among Final Four teams), gaining significant media exposure and brand visibility through Final Four participation."
-      },
-      {
-        "ticker": "DIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured $920 million media rights agreement for women's NCAA basketball through 2032, providing expanded global platform and increased advertising/sponsorship inventory value."
-      }
-    ]
-  },
-  {
-    "id": "5d612586a517d085637f006a43b1fc0380a586ee2b0321a656ee294ddbfb6874",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Here's How QBTS Deepens Quantum Push With Funding and New Deals",
-    "author": "Na",
-    "published_utc": "2026-09-23T15:13:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2994561/here-s-how-qbts-deepens-quantum-push-with-funding-and-new-deals?cid=CS-ZC-FT-analyst_blog|quick_take-2994561",
-    "tickers": [
-      "QBTS",
-      "T",
-      "TBB",
-      "TpA",
-      "TpC",
-      "RGTI",
-      "RGTIW",
-      "QUBT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/07/133.jpg",
-    "description": "D-Wave Quantum secured up to $100M in CHIPS Act funding to advance quantum systems, while NTT DOCOMO deployed a second D-Wave application reducing network signals by 65.3%. AT&T expanded its use of D-Wave technology for network optimization. Rigetti partnered with HPE on a quantum computing testbed, and Quantum Computing signed a collaboration agreement with a Qatar university.",
-    "keywords": [
-      "quantum computing",
-      "government funding",
-      "CHIPS Act",
-      "commercial deployment",
-      "network optimization",
-      "quantum systems"
-    ],
-    "insights": [
-      {
-        "ticker": "QBTS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company secured $100M in government funding, achieved successful commercial deployments with measurable results (65.3% signal reduction), expanded partnerships with AT&T, and received additional CAD $300K funding. However, sentiment is tempered by expensive valuation (93.25X P/S vs 4.40X industry average) and Zacks Rank #4 (Sell) rating."
-      },
-      {
-        "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Announced expansion of D-Wave quantum technology use for network optimization, indicating strategic investment in quantum computing. However, this is a minor development for a large diversified telecom company and represents only incremental progress."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Announced expansion of D-Wave quantum technology use for network optimization, indicating strategic investment in quantum computing. However, this is a minor development for a large diversified telecom company and represents only incremental progress."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Announced expansion of D-Wave quantum technology use for network optimization, indicating strategic investment in quantum computing. However, this is a minor development for a large diversified telecom company and represents only incremental progress."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Announced expansion of D-Wave quantum technology use for network optimization, indicating strategic investment in quantum computing. However, this is a minor development for a large diversified telecom company and represents only incremental progress."
-      },
-      {
-        "ticker": "RGTI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured partnership with HPE and Pittsburgh Supercomputing Center backed by $5M NSF grant to build quantum computing testbed. This represents validation and funding support for commercializing quantum-enabled systems."
-      },
-      {
-        "ticker": "RGTIW",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured partnership with HPE and Pittsburgh Supercomputing Center backed by $5M NSF grant to build quantum computing testbed. This represents validation and funding support for commercializing quantum-enabled systems."
-      },
-      {
-        "ticker": "QUBT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed three-year framework agreement with Hamad Bin Khalifa University for quantum computing collaboration with on-cloud system access and regional installation, demonstrating international expansion and ecosystem development."
-      }
-    ]
-  },
-  {
-    "id": "ac3ffc681105bb1a34f6edbd10a082de2f15ee002316a90878822d165dc34514",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "AT&T (T) Stock Moves -1.38%: What You Should Know",
-    "author": "Na",
-    "published_utc": "2026-09-22T21:45:06Z",
-    "article_url": "https://www.zacks.com/stock/news/2994018/at-t-t-stock-moves-1-38-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-2994018",
-    "tickers": [
       "T",
       "TBB",
       "TpA",
       "TpC"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default205.jpg",
-    "description": "AT&T (T) declined 1.38% to $25.10 in the latest session, underperforming the broader market. The company is set to report earnings on October 21, 2026, with analysts projecting EPS of $0.61 (up 12.96% YoY) and revenue of $31.73 billion (up 3.33% YoY). AT&T holds a Zacks Rank #3 (Hold) with a Forward P/E of 10.9, in line with industry averages. The Wireless National industry ranks in the bottom 12% of all industries.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default183.jpg",
+    "description": "Verizon Communications is expected to report Q3 2026 earnings on October 26 with consensus EPS of $1.27 (up 5% YoY) and revenues of $34.81 billion (up 2.9% YoY). However, the company's negative Earnings ESP of -0.68% combined with a Zacks Rank #3 makes it difficult to predict an earnings beat. In contrast, AT&T is expected to beat consensus estimates with a positive Earnings ESP of +3.77%.",
     "keywords": [
-      "AT&T",
       "earnings report",
-      "stock performance",
-      "Zacks Rank",
-      "telecommunications",
-      "valuation metrics"
+      "Q3 2026",
+      "earnings per share",
+      "revenue growth",
+      "Earnings ESP",
+      "wireless industry",
+      "earnings surprise"
     ],
     "insights": [
       {
-        "ticker": "T",
+        "ticker": "VZ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "AT&T shows mixed signals: while earnings growth projections are positive (12.96% EPS growth expected), the stock has underperformed its sector and the broader market recently. The Zacks Rank #3 (Hold) rating and valuation metrics in line with industry averages suggest neither strong upside nor downside momentum. The company's industry ranks in the bottom 12%, which is a concerning structural headwind."
+        "sentiment_reasoning": "While Wall Street expects earnings growth (5% YoY EPS increase), the negative Earnings ESP of -0.68% suggests recent analyst downgrades. Combined with a Zacks Rank #3 (Hold), the article concludes Verizon is not a compelling earnings-beat candidate, making it difficult to predict positive surprise."
+      },
+      {
+        "ticker": "T",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T shows a positive Earnings ESP of +3.77% combined with Zacks Rank #3, suggesting the company will most likely beat consensus EPS estimates. The company also has a strong history of beating estimates (3 out of last 4 quarters) with expected 13% YoY EPS growth."
       },
       {
         "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AT&T shows mixed signals: while earnings growth projections are positive (12.96% EPS growth expected), the stock has underperformed its sector and the broader market recently. The Zacks Rank #3 (Hold) rating and valuation metrics in line with industry averages suggest neither strong upside nor downside momentum. The company's industry ranks in the bottom 12%, which is a concerning structural headwind."
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T shows a positive Earnings ESP of +3.77% combined with Zacks Rank #3, suggesting the company will most likely beat consensus EPS estimates. The company also has a strong history of beating estimates (3 out of last 4 quarters) with expected 13% YoY EPS growth."
       },
       {
         "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AT&T shows mixed signals: while earnings growth projections are positive (12.96% EPS growth expected), the stock has underperformed its sector and the broader market recently. The Zacks Rank #3 (Hold) rating and valuation metrics in line with industry averages suggest neither strong upside nor downside momentum. The company's industry ranks in the bottom 12%, which is a concerning structural headwind."
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T shows a positive Earnings ESP of +3.77% combined with Zacks Rank #3, suggesting the company will most likely beat consensus EPS estimates. The company also has a strong history of beating estimates (3 out of last 4 quarters) with expected 13% YoY EPS growth."
       },
       {
         "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AT&T shows mixed signals: while earnings growth projections are positive (12.96% EPS growth expected), the stock has underperformed its sector and the broader market recently. The Zacks Rank #3 (Hold) rating and valuation metrics in line with industry averages suggest neither strong upside nor downside momentum. The company's industry ranks in the bottom 12%, which is a concerning structural headwind."
+        "sentiment": "positive",
+        "sentiment_reasoning": "AT&T shows a positive Earnings ESP of +3.77% combined with Zacks Rank #3, suggesting the company will most likely beat consensus EPS estimates. The company also has a strong history of beating estimates (3 out of last 4 quarters) with expected 13% YoY EPS growth."
       }
     ]
   },
   {
-    "id": "92be52ff19d2605603aef20851075bd9e65bfb1c67f07a5eba5914439cc3b23a",
+    "id": "48bf7c0c03f372b4266f1463ccadc469cfd3451405bb31d2f48b47afeabb1eb7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Investors Need to Take Advantage of These 2 Computer and Technology Stocks Now",
+    "author": "Zacks.Com",
+    "published_utc": "2026-10-19T11:55:01Z",
+    "article_url": "https://www.zacks.com/stock/news/3010328/why-investors-need-to-take-advantage-of-these-2-computer-and-technology-stocks-now?cid=CS-ZC-FT-fundamental_analysis|zacks_education_earnings_esp-3010328",
+    "tickers": [
+      "T",
+      "TBB",
+      "TpA",
+      "TpC",
+      "AVGO"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default134.jpg",
+    "description": "The article explains the Zacks Earnings ESP (Expected Surprise Prediction) tool, which identifies stocks likely to beat earnings estimates by comparing the most recent analyst estimates against consensus estimates. Two technology stocks highlighted are AT&T with a +3.77% ESP ahead of October 21 earnings, and Broadcom Inc. with a +1.86% ESP ahead of December 10 earnings. Both stocks hold Zacks Rank #3 (Hold) ratings and positive ESP metrics suggesting potential earnings surprises.",
+    "keywords": [
+      "earnings surprise",
+      "Earnings ESP",
+      "analyst revisions",
+      "technology stocks",
+      "earnings estimates",
+      "stock ratings"
+    ],
+    "insights": [
+      {
+        "ticker": "T",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +3.77% indicates analyst revisions suggest the stock may beat earnings expectations. Combined with Zacks Rank #3, this metric historically produces positive surprises 70% of the time."
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +3.77% indicates analyst revisions suggest the stock may beat earnings expectations. Combined with Zacks Rank #3, this metric historically produces positive surprises 70% of the time."
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +3.77% indicates analyst revisions suggest the stock may beat earnings expectations. Combined with Zacks Rank #3, this metric historically produces positive surprises 70% of the time."
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +3.77% indicates analyst revisions suggest the stock may beat earnings expectations. Combined with Zacks Rank #3, this metric historically produces positive surprises 70% of the time."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +1.86% suggests potential for earnings surprise. Zacks Rank #3 (Hold) combined with positive ESP indicates the stock may outperform near-term expectations around its December 10 earnings release."
+      }
+    ]
+  },
+  {
+    "id": "eff9bfd5eb863440bbfccb9a45b895b37a036af1a081a63e23077807c8c9104d",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Prediction: AST SpaceMobile Will Be the Best-Performing Space Stock of 2027",
-    "author": "Rick Orford",
-    "published_utc": "2026-09-22T10:10:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/22/prediction-ast-spacemobile-will-be-the-best-perfor/?source=iedfolrf0000001",
+    "title": "SpaceX Is Buying Airwaves to Take On the Wireless Carriers. Is the Stock a Buy?",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-10-18T14:23:01Z",
+    "article_url": "https://www.fool.com/investing/2026/10/18/spacex-is-buying-airwaves-to-take-on-the-wireless-carriers-is-the-stock-a-buy/?source=iedfolrf0000001",
     "tickers": [
-      "ASTS",
+      "SPCX",
+      "TMUS",
+      "TMUSI",
+      "TMUSL",
+      "TMUSZ",
+      "VZ",
+      "T",
+      "TBB",
+      "TpA",
+      "TpC"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa9b9c11bd51198b0c7baf17e5943e789e9dc5677-4600x3067.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
+    "description": "SpaceX agreed to purchase Grain Management's 800 MHz spectrum portfolio for approximately $8 billion to enhance Starlink Mobile's indoor coverage capabilities. While the deal threatens traditional wireless carriers, the analyst argues SpaceX stock remains overvalued at over 80 times sales, with meaningful revenue from mobile service still over a year away.",
+    "keywords": [
+      "spectrum acquisition",
+      "Starlink Mobile",
+      "wireless carriers",
+      "800 MHz band",
+      "valuation concerns",
+      "connectivity segment",
+      "indoor coverage"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite strategic spectrum acquisition strengthening Starlink Mobile, the stock is valued at over 80 times sales with significant losses in the first half of 2026. The $8 billion deal represents less than 1% of the company's $2 trillion market cap, and meaningful revenue from mobile service is over a year away, making the stock appear overpriced."
+      },
+      {
+        "ticker": "TMUS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "T-Mobile shares dropped over 10% following the announcement as SpaceX's spectrum acquisition poses a direct competitive threat to traditional wireless carriers' market position."
+      },
+      {
+        "ticker": "TMUSI",
+        "sentiment": "negative",
+        "sentiment_reasoning": "T-Mobile shares dropped over 10% following the announcement as SpaceX's spectrum acquisition poses a direct competitive threat to traditional wireless carriers' market position."
+      },
+      {
+        "ticker": "TMUSL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "T-Mobile shares dropped over 10% following the announcement as SpaceX's spectrum acquisition poses a direct competitive threat to traditional wireless carriers' market position."
+      },
+      {
+        "ticker": "TMUSZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "T-Mobile shares dropped over 10% following the announcement as SpaceX's spectrum acquisition poses a direct competitive threat to traditional wireless carriers' market position."
+      },
+      {
+        "ticker": "VZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Verizon shares fell over 10% on the news, reflecting investor concerns about increased competition from SpaceX's entry into the wireless carrier business."
+      },
+      {
+        "ticker": "T",
+        "sentiment": "negative",
+        "sentiment_reasoning": "AT&T stock declined over 10% following the announcement, as the market reacted negatively to SpaceX's competitive threat in the wireless services sector."
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "AT&T stock declined over 10% following the announcement, as the market reacted negatively to SpaceX's competitive threat in the wireless services sector."
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "AT&T stock declined over 10% following the announcement, as the market reacted negatively to SpaceX's competitive threat in the wireless services sector."
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "AT&T stock declined over 10% following the announcement, as the market reacted negatively to SpaceX's competitive threat in the wireless services sector."
+      }
+    ]
+  },
+  {
+    "id": "72a3cd57d2f8729aa120db848a0cef49f26338a245669dc4c809d86ba357eac9",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "SpaceX Is Changing: Here's What You Need to Know",
+    "author": "Rich Smith",
+    "published_utc": "2026-10-17T12:08:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/17/spacex-is-changing-heres-what-you-need-to-know/?source=iedfolrf0000001",
+    "tickers": [
+      "SPCX",
+      "VZ",
       "T",
       "TBB",
       "TpA",
       "TpC",
-      "VZ",
-      "RKUNY"
+      "CCZ",
+      "CMCSA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887726%2Fgettyimages-1530815100-1200x675-128554e-1.jpg&w=1200&op=resize",
-    "description": "AST SpaceMobile is positioned as a potential top-performing space stock in 2027 with multiple catalysts: expanding satellite constellation (45-60 satellites by end of 2026), upcoming beta service with AT&T and Verizon, and international expansion through a partnership with Rakuten in Japan backed by up to $1 billion in government funding. The company is transitioning from a 'prove-it' story to demonstrating commercial viability.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890792%2Fspacex-logoimage-source-the-motley-fool.jpg&w=1200&op=resize",
+    "description": "SpaceX is transitioning from a pure space launch company to an AI and telecommunications giant. While the company will reduce launch frequency in 2026-2027 as it retires Falcon 9 rockets, larger Starship vehicles will compensate with greater payload capacity. The real growth opportunity lies in Starlink's expansion into mobile telecommunications, with V3 satellites promising 100x bandwidth increase. SpaceX recently acquired $8 billion in cellular spectrum licenses to become a major U.S. mobile carrier, rivaling Verizon and AT&T.",
     "keywords": [
-      "satellite communications",
-      "direct-to-device service",
-      "space industry",
-      "beta service",
-      "satellite constellation",
-      "international expansion",
-      "Japan market"
+      "SpaceX IPO",
+      "Starlink expansion",
+      "Falcon 9 retirement",
+      "Starship megarocket",
+      "V3 satellites",
+      "mobile telecommunications",
+      "cellular spectrum",
+      "AI infrastructure"
     ],
     "insights": [
       {
-        "ticker": "ASTS",
+        "ticker": "SPCX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Multiple near-term catalysts including satellite deployment scaling, imminent beta service launch with major carriers, and international expansion into Japan with government backing. Company is progressing from technology validation to commercial deployment phase."
-      },
-      {
-        "ticker": "T",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a beta service partner for AST's direct-to-device technology. Partnership is positive for AST but represents a minor strategic initiative for AT&T with limited direct impact on its business."
-      },
-      {
-        "ticker": "TBB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a beta service partner for AST's direct-to-device technology. Partnership is positive for AST but represents a minor strategic initiative for AT&T with limited direct impact on its business."
-      },
-      {
-        "ticker": "TpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a beta service partner for AST's direct-to-device technology. Partnership is positive for AST but represents a minor strategic initiative for AT&T with limited direct impact on its business."
-      },
-      {
-        "ticker": "TpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a beta service partner for AST's direct-to-device technology. Partnership is positive for AST but represents a minor strategic initiative for AT&T with limited direct impact on its business."
+        "sentiment_reasoning": "SpaceX is executing strategic growth initiatives with record launch numbers in 2025, successful Starlink V3 deployment, and aggressive expansion into telecommunications with $8 billion spectrum acquisition. Starlink's profitability ($5.3B operating profit) and potential to reach $140B revenue provides strong near-term growth catalyst."
       },
       {
         "ticker": "VZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a beta service partner for AST's direct-to-device technology. Partnership is positive for AST but represents a minor strategic initiative for Verizon with limited direct impact on its business."
+        "sentiment": "negative",
+        "sentiment_reasoning": "SpaceX's explicit goal to become a major U.S. mobile carrier rivaling Verizon represents direct competitive threat to its core telecommunications business, potentially disrupting traditional carrier market share."
       },
       {
-        "ticker": "RKUNY",
+        "ticker": "T",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Similar to Verizon, AT&T faces competitive pressure from SpaceX's plans to establish itself as a major mobile carrier with satellite-based direct-to-cell communications capabilities."
+      },
+      {
+        "ticker": "TBB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Similar to Verizon, AT&T faces competitive pressure from SpaceX's plans to establish itself as a major mobile carrier with satellite-based direct-to-cell communications capabilities."
+      },
+      {
+        "ticker": "TpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Similar to Verizon, AT&T faces competitive pressure from SpaceX's plans to establish itself as a major mobile carrier with satellite-based direct-to-cell communications capabilities."
+      },
+      {
+        "ticker": "TpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Similar to Verizon, AT&T faces competitive pressure from SpaceX's plans to establish itself as a major mobile carrier with satellite-based direct-to-cell communications capabilities."
+      },
+      {
+        "ticker": "CCZ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Selected as AST's partner for Japan's J-LEO initiative with potential $1 billion in government funding. While positive for the partnership, the article focuses primarily on AST's prospects rather than Rakuten's benefits."
+        "sentiment_reasoning": "While Comcast is mentioned as a comparable telecom by revenue, SpaceX's satellite-based model targets mobile/wireless services rather than cable/broadband, creating less direct overlap than with traditional carriers."
+      },
+      {
+        "ticker": "CMCSA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Comcast is mentioned as a comparable telecom by revenue, SpaceX's satellite-based model targets mobile/wireless services rather than cable/broadband, creating less direct overlap than with traditional carriers."
       }
     ]
   }

@@ -1,0 +1,35 @@
+{
+  "ticker": "FORM",
+  "name": "FormFactor Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001039399",
+  "composite_figi": "BBG000D1Y3P1",
+  "share_class_figi": "BBG001SFT2R8",
+  "market_cap": 8413602082.5,
+  "phone_number": "(925) 290-4000",
+  "address": {
+    "address1": "7005 SOUTHFRONT ROAD",
+    "city": "LIVERMORE",
+    "state": "CA",
+    "postal_code": "94551"
+  },
+  "description": "FormFactor Inc is a provider of electrical and optical test and measurement technologies along the full semiconductor product lifecycle - from characterization, modeling, reliability, and design de-bug, to qualification and production test.. The company operates in two reportable segments namely Probe Cards Segment and the Systems Segment. Sales of probe cards and analytical probes are included in the Probe Cards Segment, while sales of probe stations and thermal sub-systems are included in the Systems Segment. Probe cards generate the maximum revenue from its operations. It offers multiple product lines which include analytical probes, probe stations, thermal sub-systems, and related services.",
+  "sic_code": "3674",
+  "sic_description": "SEMICONDUCTORS & RELATED DEVICES",
+  "ticker_root": "FORM",
+  "homepage_url": "https://www.formfactor.com",
+  "total_employees": 2153,
+  "list_date": "2003-06-12",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Zm9ybWZhY3Rvci5jb20/images/2026-10-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Zm9ybWZhY3Rvci5jb20/images/2026-10-01_icon.png"
+  },
+  "share_class_shares_outstanding": 77954772,
+  "weighted_shares_outstanding": 78120725,
+  "round_lot": 100
+}

@@ -1,272 +1,293 @@
 [
   {
-    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
+    "id": "81313f896cc257ddfccbff4133e4b8ab9e4ca6ec6426d2b7e2523fd6b0638684",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-10-07T01:15:02Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
+    "title": "Microsoft Must Say This on Oct. 28 or the Stock Will Go Into Free Fall",
+    "author": "Keithen Drury",
+    "published_utc": "2026-10-21T16:57:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/microsoft-must-say-this-on-oct-28-or-the-stock-wil/?source=iedfolrf0000001",
     "tickers": [
-      "NVDA",
-      "AMD",
-      "INTC",
-      "AVGO",
-      "MRVL",
+      "MSFT",
       "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
-      "GOOGN",
-      "AAPL"
+      "GOOGN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891665%2Fperson-touching-data-on-artificial-dashboard.jpg&w=1200&op=resize",
+    "description": "Microsoft's Oct. 28 earnings report will be critical for its stock performance. The key focus is Azure cloud growth acceleration. While Azure grew 43% in Q4, competitors Amazon Web Services and Google Cloud are accelerating faster (37% and 82% respectively in Q2 2026). If Microsoft fails to report significant Azure growth acceleration, the stock could decline as investors may view it as losing cloud market share to competitors.",
     "keywords": [
-      "AI boom",
-      "GPU chips",
-      "data center",
-      "valuation",
-      "market cap",
-      "competition",
-      "earnings growth"
+      "Azure cloud growth",
+      "earnings report",
+      "cloud computing competition",
+      "AI strategy",
+      "market share",
+      "Copilot",
+      "OpenAI partnership"
     ],
     "insights": [
       {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
+        "ticker": "MSFT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Azure growth is decelerating relative to competitors despite solid absolute growth rates (43%). Competitors are accelerating significantly faster, which could lead to market share loss and stock decline if acceleration isn't demonstrated in the Oct. 28 earnings report."
       },
       {
         "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS cloud growth is accelerating rapidly (24% to 37% over recent quarters), outpacing Microsoft's Azure growth trajectory and positioning Amazon favorably in the competitive cloud infrastructure market."
       },
       {
         "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       },
       {
         "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
       }
     ]
   },
   {
-    "id": "ec2e1d6cd035e63d2abb0c0fe91037a2c8d8a9705b688e224464920ea112ecd9",
+    "id": "a28a899df2b7efdc530acc74a805d6ba71c16a7b8bab0e6f22d248f145529ba9",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "AppLovin vs. Pinterest: Which Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T14:58:14Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/applovin-vs-pinterest-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "APP",
+      "PINS",
+      "AMZN",
+      "AAPL",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "U"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares AppLovin and Pinterest as investment opportunities in the digital advertising space. AppLovin demonstrates explosive growth with 70% revenue increase, exceptional profitability (60.8% net margin), and strong free cash flow, making it the author's preferred choice. Pinterest offers a massive 640 million user base and improving AI-powered ad tools but faces challenges with lower profitability (9.9% net margin) and GAAP net losses, though it maintains a conservative balance sheet.",
+    "keywords": [
+      "digital advertising",
+      "ad-tech",
+      "mobile apps",
+      "social commerce",
+      "AI-driven bidding",
+      "profitability",
+      "user engagement",
+      "valuation comparison"
+    ],
+    "insights": [
+      {
+        "ticker": "APP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 70% YoY revenue growth, exceptional 60.8% net margin, $3.9B free cash flow, AI-powered platform delivering results, and author's recommendation as the better buy for 2026."
+      },
+      {
+        "ticker": "PINS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Positive aspects include 640M monthly users, 15.8% revenue growth, conservative balance sheet (0.1x debt-to-equity), and improving AI ad tools. However, negated by lower profitability (9.9% net margin), GAAP net losses, and slower profit conversion despite engaged user base."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as both a client of AppLovin and infrastructure provider for Pinterest, representing competitive and dependency relationships rather than direct investment focus."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a risk factor for AppLovin due to control over privacy policies that limit ad targeting capabilities."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a risk factor for AppLovin through control of mobile platform policies affecting data availability for ad targeting."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a risk factor for AppLovin through control of mobile platform policies affecting data availability for ad targeting."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a risk factor for AppLovin through control of mobile platform policies affecting data availability for ad targeting."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a risk factor for AppLovin through control of mobile platform policies affecting data availability for ad targeting."
+      },
+      {
+        "ticker": "U",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitive rival to AppLovin in the advertising technology space."
+      }
+    ]
+  },
+  {
+    "id": "b0555ccd36e8040c73cc837ba9da888b65a7c13037725b9d09252fef647d48a0",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "1 Number Every UPS Investor Should Watch in Q3 Earnings",
+    "author": "Lee Samaha",
+    "published_utc": "2026-10-21T14:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/1-number-every-ups-investor-should-watch-in-q3/?source=iedfolrf0000001",
+    "tickers": [
+      "UPS",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891374%2Finvesting-stocks-calculations-tracking-market-1201x800-5b2df79.jpg&w=1200&op=resize",
+    "description": "UPS's adjusted operating profit margin is the critical metric to monitor in Q3 earnings. While management raised full-year revenue guidance to $91.2 billion, the implied operating margin actually decreased to 9.48% from the initially forecast 9.6%. A significant portion of the revenue increase appears driven by fuel surcharges rather than core margin improvement, raising questions about whether UPS's transformation strategy is delivering sustainable margin expansion as expected.",
+    "keywords": [
+      "adjusted operating profit margin",
+      "margin expansion",
+      "fuel surcharges",
+      "Amazon deliveries reduction",
+      "Q3 earnings",
+      "guidance revision"
+    ],
+    "insights": [
+      {
+        "ticker": "UPS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite revenue guidance increase, the adjusted operating margin contracted from 9.6% to 9.48%. The margin improvement appears driven by unsustainable fuel surcharges rather than core operational improvements from the strategic transformation. This suggests the company's margin expansion story may not be materializing as hoped, which is concerning given the company's high dividend yield and investor focus on margin trajectory."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Amazon is mentioned contextually regarding UPS's strategic shift away from Amazon deliveries. The article notes UPS completed a 50% reduction in Amazon delivery volumes, but this is presented as part of UPS's strategy rather than commentary on Amazon's business fundamentals."
+      }
+    ]
+  },
+  {
+    "id": "074091c6509f59b5ce3d68c818c7c26bacb59e4117f5abd085c9d239caeeec74",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Amazon (AMZN) Surpasses Market Returns: Some Facts Worth Knowing",
+    "title": "MMM Q3 Earnings Call Highlights AI Deals and Higher Outlook",
     "author": "Na",
-    "published_utc": "2026-10-06T20:45:04Z",
-    "article_url": "https://www.zacks.com/stock/news/3001360/amazon-amzn-surpasses-market-returns-some-facts-worth-knowing?cid=CS-ZC-FT-fundamental_analysis|yseop_template_6-3001360",
+    "published_utc": "2026-10-21T13:10:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3011985/mmm-q3-earnings-call-highlights-ai-deals-and-higher-outlook?cid=CS-ZC-FT-analyst_blog_plus|earnings_call_takeaways-3011985",
     "tickers": [
-      "AMZN"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default112.jpg",
-    "description": "Amazon (AMZN) closed at $256.29, up 1.95% in the latest session, outperforming the S&P 500. The stock has declined 2.75% over the past month. Analysts expect Q3 EPS of $2.02 (up 3.59% YoY) and revenue of $202.01 billion (up 12.12% YoY). Amazon holds a Zacks Rank #3 (Hold) with a Forward P/E of 19.29, trading at a premium to its industry average of 14.69. The Internet-Commerce industry ranks in the bottom 22% of all industries.",
-    "keywords": [
-      "Amazon stock",
-      "earnings forecast",
-      "valuation",
-      "Zacks Rank",
-      "Forward P/E ratio",
-      "retail sector"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Amazon shows positive near-term momentum (+1.95% daily gain) and strong earnings growth expectations (EPS +3.59% YoY, revenue +12.12% YoY), the Zacks Rank #3 (Hold) rating and premium valuation (Forward P/E 19.29 vs. industry 14.69) suggest limited upside. The stock's 2.75% monthly decline and the bottom-ranked industry outlook further support a neutral stance."
-      }
-    ]
-  },
-  {
-    "id": "f35492c04e223a274bc2efaebdb371ee5bfef1d005081362c682875596846c70",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Better Cloud Investment: Amazon or Nebius Group?",
-    "author": "Keithen Drury",
-    "published_utc": "2026-10-06T19:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/better-cloud-investment-amazon-or-nebius-group/?source=iedfolrf0000001",
-    "tickers": [
+      "MMM",
       "AMZN",
-      "NBIS"
+      "MSFT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888993%2Ftwo-software-engineers-walking-down-an-aisle-of-a-data-center.jpg&w=1200&op=resize",
-    "description": "Amazon and Nebius Group represent two different cloud computing investment strategies. Amazon's AWS offers stable, profitable growth with a 37% YoY revenue increase and 39% operating margin, backed by $220 billion in data center spending. Nebius, a neocloud computing specialist, shows explosive 454% YoY growth but operates at a -30% operating margin while taking on significant debt. The article recommends a 75/25 portfolio split favoring Amazon for lower risk, while Nebius offers higher upside potential for risk-tolerant investors.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default118.jpg",
+    "description": "3M raised its 2026 adjusted EPS guidance to $9.10-$9.15, driven by strong industrial demand, expanding data center opportunities, and productivity improvements. The company expanded its Amazon partnership targeting $6 billion in cumulative sales over 7 years and achieved 110 basis points of operating margin expansion to 26.2%. However, consumer electronics weakness persists, particularly in LCD displays and Chinese device manufacturers.",
     "keywords": [
-      "cloud computing",
+      "3M earnings",
+      "EPS guidance raise",
+      "Amazon partnership",
       "AI infrastructure",
-      "neocloud computing",
-      "data centers",
-      "AWS",
-      "growth stocks",
-      "debt financing"
+      "operating margin expansion",
+      "industrial demand",
+      "optical connectivity",
+      "consumer electronics weakness"
     ],
     "insights": [
       {
-        "ticker": "AMZN",
+        "ticker": "MMM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong profitability with 39% operating margin, massive $220 billion data center investment enabling sustained growth, diversified revenue streams from commerce business funding expansion, and stable 37% YoY AWS revenue growth. Positioned as lower-risk investment with proven business model."
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional 454% YoY revenue growth significantly outpacing competitors, short ~2-year payback period on deals justifying debt strategy, positioned in high-demand AI computing market expected to grow through 2030. Higher risk but substantial upside potential for aggressive investors."
-      }
-    ]
-  },
-  {
-    "id": "332299e1d5c84e4dbcb517501c6cb1e577747332026bae80c4e0cb64b3e2a35f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
-    "author": "Marc Guberti",
-    "published_utc": "2026-10-06T18:44:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?source=iedfolrf0000001",
-    "tickers": [
-      "QCOM",
-      "AMZN",
-      "META",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890154%2Fgettyimages-1492319884-1200x675-128554e.jpg&w=1200&op=resize",
-    "description": "Qualcomm is positioning itself for significant growth in 2027 through its pivot into AI infrastructure, with deals secured from Amazon and Meta Platforms. The company expects non-handset revenue to grow over 60% in fiscal 2027 and projects a $200 billion CPU market opportunity by fiscal 2029, yet trades at a modest 23 P/E ratio that undervalues its growth potential.",
-    "keywords": [
-      "AI infrastructure",
-      "chip demand",
-      "data center products",
-      "hyperscaler partnerships",
-      "revenue growth",
-      "energy efficiency"
-    ],
-    "insights": [
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is pivoting successfully into high-growth AI infrastructure with secured multiyear deals from major tech giants (Amazon, Meta), expecting 60%+ non-handset revenue growth in fiscal 2027 and multibillion-dollar AI revenue targets. Stock valuation appears underappreciated relative to growth prospects."
+        "sentiment_reasoning": "3M raised full-year EPS guidance, reported strong industrial and semiconductor demand, expanded high-margin AI infrastructure partnerships with Amazon, achieved significant operating margin expansion (110 bps to 26.2%), and expects further margin growth in 2027. Strong order trends and backlog expansion support positive momentum."
       },
       {
         "ticker": "AMZN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer securing a multiyear deal with Qualcomm for AWS AI infrastructure support, indicating positive business activity but no direct impact on Amazon's core business highlighted."
+        "sentiment_reasoning": "Amazon received warrants for 3M shares tied to $6 billion in cumulative sales over 7 years as part of an expanded optical connectivity and data center products partnership. While this indicates Amazon's continued investment in data center infrastructure, the impact is indirect and the arrangement carries no minimum volume commitments."
       },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as securing a similar multiyear deal with Qualcomm for AI infrastructure, demonstrating partnership activity but no specific impact on Meta's business performance discussed."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a competitor selling out AI chip supply, creating market opportunity for Qualcomm, but no direct negative or positive sentiment expressed about Nvidia itself."
-      }
-    ]
-  },
-  {
-    "id": "c5403e66dbd74dcde0481a2ab7be6edd17f1acdf820af94d9d18ebce965f1dfd",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Magnificent AI Cloud Computing Stocks That Could Help Set You Up for Life",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-10-06T18:18:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/3-magnificent-ai-cloud-computing-stocks-that-could/?source=iedfolrf0000001",
-    "tickers": [
-      "MSFT",
-      "AMZN",
-      "ORCL",
-      "ORCLpD"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889151%2Fgettyimages-987686438-1423x800-e1b8658.jpg&w=1200&op=resize",
-    "description": "Microsoft, Amazon, and Oracle have secured hundreds of billions in contracted AI cloud revenue, demonstrating that AI demand is translating into real business commitments. Microsoft's Azure is running at $100B annually with a $678B backlog, Amazon Web Services locked in a $100B decade-long deal with Anthropic, and Oracle has a $664B backlog (with $300B from OpenAI). While these established tech giants face risks including potential AI spending slowdowns and customer concentration, their massive contracted backlogs and continued infrastructure investments suggest their AI cloud businesses are still in early growth stages.",
-    "keywords": [
-      "AI cloud computing",
-      "contracted revenue",
-      "Azure",
-      "AWS",
-      "Oracle cloud",
-      "AI infrastructure",
-      "data center capacity",
-      "customer commitments"
-    ],
-    "insights": [
       {
         "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Microsoft is mentioned as collaborating with 3M on optical connectivity deployment for hyperscaler adoption. The mention is brief and contextual without specific financial impact or strategic implications disclosed."
+      }
+    ]
+  },
+  {
+    "id": "12eb3c11fc0d0e24bee3e1c1a9f29afc5ffe1df60b4221397042cc585d13f3dd",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Dutch Bros vs. e.l.f. Beauty: Which Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T12:56:41Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/dutch-bros-vs-e-l-f-beauty-which-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BROS",
+      "ELF",
+      "TGT",
+      "WMT",
+      "AMZN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares Dutch Bros and e.l.f. Beauty as investment options in 2026. Dutch Bros, a rapidly expanding drive-thru coffee chain with over 1,225 locations, reported 27.9% revenue growth and improved profitability. e.l.f. Beauty, a digital-first cosmetics company, achieved 24.6% revenue growth with 30 consecutive quarters of sales growth but faces margin pressure from rising costs. The author recommends Dutch Bros for its traffic-driven growth and long runway of new locations, despite e.l.f. Beauty's impressive growth trajectory.",
+    "keywords": [
+      "coffee retail",
+      "cosmetics industry",
+      "consumer growth",
+      "drive-thru expansion",
+      "digital-first marketing",
+      "revenue growth",
+      "margin pressure",
+      "brand loyalty"
+    ],
+    "insights": [
+      {
+        "ticker": "BROS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Azure revenue growing 43% year-over-year at $100B annual run rate with $678B contracted backlog provides strong visibility into future growth. Microsoft 365 Copilot has reached 30 million paid subscribers, demonstrating real AI product adoption."
+        "sentiment_reasoning": "Strong 27.9% revenue growth, improved net margins (4.9%), successful new location performance exceeding expectations, transaction-driven growth, and recommended as the better buy for 2026 due to long expansion runway and cultural brand appeal."
+      },
+      {
+        "ticker": "ELF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Impressive 24.6% revenue growth and 30 consecutive quarters of sales growth, but offset by declining net margins (1.6%), rising costs squeezing profitability, stock pullback from highs, and integration challenges from acquisitions. Viewed as impressive but facing headwinds."
+      },
+      {
+        "ticker": "TGT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
+      },
+      {
+        "ticker": "WMT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
       },
       {
         "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS secured a landmark $100B decade-long commitment from Anthropic and Amazon's custom Trainium chips are reportedly nearly sold out. However, sentiment is tempered by the massive $220B 2026 capital spending budget, which poses margin risk if AI demand cools."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Record $664B remaining performance obligations demonstrates strong contracted AI demand, with 850 megawatts of deployed data center capacity. However, significant risk exists due to customer concentration, with roughly $300B of the backlog tied to a single customer (OpenAI)."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a retail partner for both Dutch Bros and e.l.f. Beauty, providing distribution channels but not the focus of analysis."
       }
     ]
   }

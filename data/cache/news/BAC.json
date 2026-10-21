@@ -1,17 +1,19 @@
 [
   {
-    "id": "ad813b413cdfb8d58848399a553b7ad18ba93a5d0b3416685380050f18c2ada7",
+    "id": "752c9480d9a273c916825d826e645b8eb757150f8632690edcdaa2da8d58f201",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "This Is the No. 1 Move Investors Should Make Before Buying Stocks Right Now.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-27T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/this-is-the-no-1-move-investors-should-make-before/?source=iedfolrf0000001",
+    "title": "2 Stocks to Buy From the 5 That Make Up Roughly 61.5% of Berkshire Hathaway's Portfolio",
+    "author": "Bram Berkowitz",
+    "published_utc": "2026-10-20T23:05:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/2-stocks-to-buy-from-the-5-that-make-up-roughly-61/?source=iedfolrf0000001",
     "tickers": [
+      "AAPL",
+      "KO",
       "BAC",
       "BACpB",
       "BACpE",
@@ -28,170 +30,167 @@
       "BMLpJ",
       "BMLpL",
       "MERpK",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AXP",
+      "BRK.A",
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888294%2F24_09_26-a-person-holding-a-sign-that-says-warning-attention-please-_mf-dload-gettyimages-1639158401-1201x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "Before buying stocks, investors should assess their risk tolerance given current market warnings. Bank of America and JPMorgan Chase CEO Jamie Dimon have cautioned about elevated valuations, geopolitical conflict, inflation, and high debt levels that could trigger a market correction. The article recommends maintaining adequate cash reserves, diversifying away from high-flying sectors like AI, and reducing margin debt to prepare for potential bear markets.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891225%2Fberkshire-hathaway-logo-tmf.png&w=1200&op=resize",
+    "description": "Berkshire Hathaway maintains a concentrated portfolio approach with five stocks comprising 61.5% of its ~$365 billion portfolio. The article recommends Apple and Coca-Cola as the two best picks from Berkshire's top holdings, citing Apple's strong brand, shareholder-friendly practices, and lower AI infrastructure risk, while Coca-Cola offers consistent dividend growth and defensive characteristics during economic uncertainty.",
     "keywords": [
-      "risk tolerance",
-      "bear market",
-      "market correction",
-      "portfolio diversification",
-      "margin debt",
-      "cash reserves",
-      "elevated valuations",
-      "geopolitical risk"
+      "Berkshire Hathaway",
+      "concentrated portfolio",
+      "Warren Buffett",
+      "Greg Abel",
+      "stock recommendations",
+      "dividend stocks",
+      "consumer staples"
     ],
     "insights": [
       {
+        "ticker": "AAPL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a top buy due to strong branding, consumer device integration with AI, lower AI infrastructure risk compared to hyperscalers, and substantial shareholder-friendly stock buybacks exceeding $850 billion since 2013."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as a top buy for its consistent performance through economic cycles, 64-year dividend increase streak (Dividend King status), solid 2.3% dividend yield, and defensive characteristics with 35% stock appreciation this year."
+      },
+      {
         "ticker": "BAC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpQ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BACpS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BMLpG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BMLpH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BMLpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "BMLpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
         "ticker": "MERpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Bank warned about the risk of a market correction, indicating concerns about current market conditions and elevated risk levels."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a core holding but noted that Greg Abel did not list it among 'core holdings' in his first shareholder letter and Berkshire has trimmed positions recently, suggesting potential future divestment."
       },
       {
-        "ticker": "AMJB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as Berkshire's newest large position and first heavy AI hyperscaler bet, with Abel boosting it by tens of billions this year, but not recommended as a top pick due to heavy AI infrastructure investment risk."
       },
       {
-        "ticker": "JPM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as Berkshire's newest large position and first heavy AI hyperscaler bet, with Abel boosting it by tens of billions this year, but not recommended as a top pick due to heavy AI infrastructure investment risk."
       },
       {
-        "ticker": "JPMpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as Berkshire's newest large position and first heavy AI hyperscaler bet, with Abel boosting it by tens of billions this year, but not recommended as a top pick due to heavy AI infrastructure investment risk."
       },
       {
-        "ticker": "JPMpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Described as Berkshire's newest large position and first heavy AI hyperscaler bet, with Abel boosting it by tens of billions this year, but not recommended as a top pick due to heavy AI infrastructure investment risk."
       },
       {
-        "ticker": "JPMpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a long-term holding since the 1980s-1990s but not highlighted as a recommended buy in the article's analysis."
       },
       {
-        "ticker": "JPMpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Discussed as the investment vehicle with a concentrated portfolio strategy; neither praised nor criticized, serving as the framework for the analysis."
       },
       {
-        "ticker": "JPMpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "CEO Jamie Dimon highlighted multiple 'tectonic plates' risks including elevated valuations, geopolitical conflict, inflation, and high debt levels that could cause market turmoil."
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Discussed as the investment vehicle with a concentrated portfolio strategy; neither praised nor criticized, serving as the framework for the analysis."
       }
     ]
   },
   {
-    "id": "ddc44d8afe86944d2cfef11f20e2ef37655633241c4dd5515732d147b56c4c2e",
+    "id": "578f0416382084a55239fe72444a5c0117c04a321e017335810589f4a26a62ac",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Prediction: Micron Stock Will Double Within 2 Years",
-    "author": "Harsh Chauhan",
-    "published_utc": "2026-09-24T13:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/24/prediction-micron-stock-will-double-within-2-years/?source=iedfolrf0000001",
+    "title": "General Mills Stock Is Down 30%, and Wall Street Analysts Keep Cutting Their Price Targets. Here's Why History Says They're Missing the Bigger Picture.",
+    "author": "Reuben Gregg Brewer",
+    "published_utc": "2026-10-20T18:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/general-mills-stock-is-down-30-and-wall-street-ana/?source=iedfolrf0000001",
     "tickers": [
-      "MU",
+      "GIS",
       "BAC",
       "BACpB",
       "BACpE",
@@ -209,533 +208,284 @@
       "BMLpL",
       "MERpK"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887827%2Fmicron-technology-sign-with-micron-logo-in-front-of-building-with-micron-logo_micron.jpg&w=1200&op=resize",
-    "description": "Micron Technology has tripled this year amid strong AI data center demand for memory chips. Analysts project 247% revenue growth and 787% EPS growth for fiscal 2026. The article argues Micron could double or even triple within two years due to persistent memory shortages through 2028-2031, surging demand for high-bandwidth memory (HBM) in AI accelerators, and the company's attractive 6.7x forward earnings valuation.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890330%2F26_10_19-hands-making-the-thumbs-up-and-thumbs-down-signs-_mf-dload-gettyimages-2222250554-1280x853-c533c3e.jpg&w=1200&op=resize",
+    "description": "General Mills stock has declined 30% over the past year as Wall Street analysts cut price targets amid challenging consumer staples market conditions. However, the article argues that historically established companies like General Mills have weathered difficult periods before. Despite flat organic sales growth and a high dividend payout ratio of 80%, the company is stabilizing its business through cost reduction and brand modernization. With a 7.3% dividend yield and a new 27-year company veteran taking over as CEO in 2027, long-term dividend investors may find value in the beaten-down stock.",
     "keywords": [
-      "memory chips",
-      "AI data centers",
-      "semiconductor",
-      "supply shortage",
-      "high-bandwidth memory (HBM)",
-      "earnings growth",
-      "valuation"
+      "General Mills",
+      "consumer staples",
+      "dividend yield",
+      "price target cuts",
+      "organic sales growth",
+      "cost reduction",
+      "payout ratio",
+      "packaged food"
     ],
     "insights": [
       {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong fundamental drivers including 247% projected revenue growth, 787% EPS growth for fiscal 2026, persistent memory shortage through 2028-2031, surging AI-driven HBM demand (7x growth by 2030), and attractive valuation at 6.7x forward earnings. Article projects stock could double to triple within two years."
+        "ticker": "GIS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the stock has declined significantly and faces near-term headwinds including flat sales and high dividend payout ratios, the article presents a balanced view highlighting management's stabilization efforts, strong dividend yield (7.3%), and historical resilience of the company. The sentiment is neutral rather than positive due to acknowledged risks and challenges, but not negative because the article argues Wall Street may be overly pessimistic based on historical precedent."
       },
       {
         "ticker": "BAC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpQ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BACpS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BMLpG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BMLpH",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BMLpJ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "BMLpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       },
       {
         "ticker": "MERpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a source for market research data (HBM demand projection of 7x by 2030). No direct investment thesis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Bank of America is mentioned only as one of the analysts cutting General Mills' price target. It is cited as evidence of Wall Street's negative sentiment but is not the subject of analysis itself."
       }
     ]
   },
   {
-    "id": "5b9d00bde7b8c4e5c31c5b9bb8101a340261c9d2b233ce9ca45a9ff30bef0342",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "What Does the Fed Rate Hike Mean for JPMorgan's Banking Business?",
-    "author": "Na",
-    "published_utc": "2026-09-22T14:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993743/what-does-the-fed-rate-hike-mean-for-jpmorgan-s-banking-business?cid=CS-ZC-FT-analyst_blog|quick_take-2993743",
-    "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "C",
-      "CpN",
-      "CpR"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/80.jpg",
-    "description": "The Federal Reserve's 25 basis point rate hike to 3.75-4.00% is expected to provide modest benefits to JPMorgan's net interest income through higher loan yields, supported by 10% average loan growth and 7% deposit growth in Q2. However, gains may be limited by increased deposit costs, softer loan demand, and rising credit costs. Peers Bank of America and Citigroup are similarly positioned to benefit, though facing comparable headwinds.",
-    "keywords": [
-      "Federal Reserve rate hike",
-      "net interest income",
-      "deposit pricing",
-      "loan growth",
-      "credit costs",
-      "banking sector"
-    ],
-    "insights": [
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While the rate hike provides incremental support to NII through higher asset yields, benefits are expected to be modest and partly offset by rising deposit costs, softer loan demand, and potential credit deterioration. The company carries a Zacks Rank #3 (Hold) rating."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Asset-sensitive balance sheet positions the bank to benefit from higher rates with estimated $1B NII boost per 100 bps increase, but gains are tempered by higher deposit costs and securities valuation pressures."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned to benefit from higher rates with estimated $1.2B NII boost per 100 bps increase, but upside is limited by higher deposit costs and potential securities valuation losses."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned to benefit from higher rates with estimated $1.2B NII boost per 100 bps increase, but upside is limited by higher deposit costs and potential securities valuation losses."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Positioned to benefit from higher rates with estimated $1.2B NII boost per 100 bps increase, but upside is limited by higher deposit costs and potential securities valuation losses."
-      }
-    ]
-  },
-  {
-    "id": "af56dd8d1f5c34a1a6b789a34f35bcded30eeed8d70ae6bb87e80779579651f0",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Will AI Become BAC's Next Major Efficiency & Growth Lever?",
-    "author": "Na",
-    "published_utc": "2026-09-21T15:41:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2993163/will-ai-become-bac-s-next-major-efficiency-growth-lever?cid=CS-ZC-FT-analyst_blog|quick_take-2993163",
-    "tickers": [
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0b/57.jpg",
-    "description": "Bank of America has transitioned its AI strategy from experimentation to deployment, implementing 130-140 AI use cases with $400M in investment generating approximately $800M in benefits. The bank expects 50 new use cases quarterly and plans to double its AI budget next year. Erica digital assistant has surpassed 3.2B client interactions, while AI tools are boosting employee productivity by 10-15%. Peers JPMorgan and Wells Fargo are similarly expanding AI adoption across operations for efficiency and customer engagement.",
-    "keywords": [
-      "artificial intelligence",
-      "AI deployment",
-      "banking technology",
-      "digital transformation",
-      "employee productivity",
-      "customer service automation",
-      "generative AI",
-      "operating efficiency"
-    ],
-    "insights": [
-      {
-        "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "BAC demonstrates strong AI execution with measurable ROI ($800M benefits from $400M investment), rapid expansion plans (50 new use cases quarterly), significant digital adoption (3.2B Erica interactions), and productivity gains (10-15%), positioning it well for future efficiency and growth."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is actively expanding AI across customer service, fraud detection, software development, and internal workflows with emphasis on generative AI, aligning with industry best practices for efficiency and client engagement."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Wells Fargo is increasing AI focus as part of technology modernization, using generative AI and analytics to automate processes, improve servicing, and support employee productivity, demonstrating competitive alignment with peers."
-      }
-    ]
-  },
-  {
-    "id": "33084e115df27ab23e9cacc185167593da4fb32690f3e6a45f76b3b303e93a55",
+    "id": "c690bf9356a82980d315858018e196ec10b7f72750c99c3f4e3a6585443d4564",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Warren Buffett's $187 Billion Warning to Wall Street Echoes Louder Than Ever, Thanks to His Favorite Valuation Measure",
-    "author": "Sean Williams",
-    "published_utc": "2026-09-21T09:07:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/21/warren-buffett-187-billion-warning-wall-street-louder-than-ever-thanks-to-favorite-valuation-measure/?source=iedfolrf0000001",
+    "title": "Warren Buffett Has 1 Rule for Investing During Volatility, and It's More Important Than Ever Right Now",
+    "author": "Ben Gran",
+    "published_utc": "2026-10-20T15:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/20/buffett-has-1-rule-for-investing-during-volatility/?source=iedfolrf0000001",
+    "tickers": [
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "VOO",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891591%2Fwarren-buffett_berkshire-hathaway-inc_chairman-ceo_imagesource_getty-images_40.jpeg&w=1200&op=resize",
+    "description": "Warren Buffett's famous investing strategy of being 'greedy when others are fearful' encourages investors to buy stocks during market downturns when prices are discounted. The article explains how average investors can apply this principle by deploying extra cash during bear markets and maintaining consistent long-term investments, demonstrating how $500 monthly investments in index funds could grow to $18 million over 60 years.",
+    "keywords": [
+      "Warren Buffett",
+      "bear market investing",
+      "stock market volatility",
+      "long-term investing",
+      "index funds",
+      "market crashes",
+      "dollar-cost averaging"
+    ],
+    "insights": [
+      {
+        "ticker": "GS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as one of Buffett's successful 2008 investments during the financial crisis that contributed to Berkshire's $10 billion profit by 2013."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as one of Buffett's successful 2008 investments during the financial crisis that contributed to Berkshire's $10 billion profit by 2013."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as one of Buffett's successful 2008 investments during the financial crisis that contributed to Berkshire's $10 billion profit by 2013."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as one of Buffett's successful 2008 investments during the financial crisis that contributed to Berkshire's $10 billion profit by 2013."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as another successful Buffett investment from 2008 that demonstrated the value of buying quality companies during market panic."
+      },
+      {
+        "ticker": "VOO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Presented as an excellent low-cost index fund option for long-term investors, with strong historical returns of 15% over the past 10 years and used as the primary example for wealth-building calculations."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Buffett's Berkshire Hathaway is presented as a successful investment vehicle that achieved exceptional returns through strategic buying during market downturns, particularly during the 2008 financial crisis."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Buffett's Berkshire Hathaway is presented as a successful investment vehicle that achieved exceptional returns through strategic buying during market downturns, particularly during the 2008 financial crisis."
+      }
+    ]
+  },
+  {
+    "id": "b8fc242d04a189f96bb90a957e7665208bf584106c42849a9e0c807974f26860",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Bank of America vs. Goldman Sachs: Which Financial Stock Is a Better Buy in 2026?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-10-20T12:24:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/bank-of-america-vs-goldman-sachs-which-financial-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
     "tickers": [
       "BAC",
       "BACpB",
@@ -753,122 +503,325 @@
       "BMLpJ",
       "BMLpL",
       "MERpK",
-      "OXY",
-      "OXY.WS",
-      "BRK.A",
-      "BRK.B"
+      "GS",
+      "GSpA",
+      "GSpC",
+      "GSpD",
+      "AAPL"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9aa30ee63967abe68fce610a68144987a313e788-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Warren Buffett sold approximately $187 billion in stocks over 13 consecutive quarters before his December 31 retirement as Berkshire Hathaway CEO, signaling concerns about market valuations. The Buffett Indicator (market-cap-to-GDP ratio) reached an all-time high of 240.24% in August 2026, suggesting stocks are significantly overvalued. However, Buffett's history demonstrates that patience during overvalued markets often leads to substantial long-term gains for investors.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbc26a708ac3f7539d3d78ffa130d122f4b40838f-1200x800.png&w=1200&op=resize",
+    "description": "The article compares Bank of America and Goldman Sachs as investment options for 2026. Bank of America offers stability through its massive consumer banking network and steady cash flow but faces regulatory headwinds and underperformance versus the S&P 500. Goldman Sachs, while navigating a strategic pivot away from consumer businesses, has outperformed the market and the S&P 500 but carries higher leverage and market sensitivity. The author suggests Goldman Sachs may be the better growth investment despite its higher valuation.",
     "keywords": [
-      "Warren Buffett",
-      "stock market valuation",
-      "Buffett Indicator",
-      "net seller",
-      "market overvaluation",
-      "long-term investing",
-      "artificial intelligence bubble"
+      "financial stocks",
+      "bank stocks",
+      "investment banking",
+      "valuation comparison",
+      "regulatory risk",
+      "market performance",
+      "dividend yield",
+      "P/E ratio"
     ],
     "insights": [
       {
         "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers lower valuation metrics and stable cash flow, it underperformed the S&P 500 and faces significant regulatory challenges including a $1.2 billion fine. The company is characterized as 'doing everyday banking things' without growth prospects, making it a defensive but uninspiring choice."
+      },
+      {
+        "ticker": "GS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "GS has outperformed both BAC and the S&P 500, demonstrating stronger market performance. Despite higher leverage (debt-to-equity of 4.9) and negative free cash flow, the company's strategic pivot to core institutional businesses and superior returns make it the author's preferred choice for growth-oriented investors."
+      },
+      {
+        "ticker": "GSpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS has outperformed both BAC and the S&P 500, demonstrating stronger market performance. Despite higher leverage (debt-to-equity of 4.9) and negative free cash flow, the company's strategic pivot to core institutional businesses and superior returns make it the author's preferred choice for growth-oriented investors."
+      },
+      {
+        "ticker": "GSpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS has outperformed both BAC and the S&P 500, demonstrating stronger market performance. Despite higher leverage (debt-to-equity of 4.9) and negative free cash flow, the company's strategic pivot to core institutional businesses and superior returns make it the author's preferred choice for growth-oriented investors."
+      },
+      {
+        "ticker": "GSpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "GS has outperformed both BAC and the S&P 500, demonstrating stronger market performance. Despite higher leverage (debt-to-equity of 4.9) and negative free cash flow, the company's strategic pivot to core institutional businesses and superior returns make it the author's preferred choice for growth-oriented investors."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Apple is mentioned only in context of Goldman Sachs exiting its credit card partnership program. No investment recommendation or sentiment is expressed regarding Apple itself."
+      }
+    ]
+  },
+  {
+    "id": "0d20b0570e3435a0bac9bbdc8932bf1568a26c959c359971f1fb2f0b1aff3cf7",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "JPMorgan Slashes Q3 Share Buybacks: Is Organic Growth a Better Bet?",
+    "author": "Na",
+    "published_utc": "2026-10-19T13:00:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3010580/jpmorgan-slashes-q3-share-buybacks-is-organic-growth-a-better-bet?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3010580",
+    "tickers": [
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "C",
+      "CpN",
+      "CpR",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/80.jpg",
+    "description": "JPMorgan significantly reduced Q3 2026 share buybacks to $664 million from $6.2 billion, signaling a strategic shift toward reinvesting $30 billion in excess capital into technology, branch expansion, and business growth. CEO Jamie Dimon emphasized that franchise investment takes priority over repurchases. While the move supports long-term value creation, fewer buybacks may limit near-term earnings growth amid rising expenses of $108.6 billion.",
+    "keywords": [
+      "share buybacks",
+      "capital allocation",
+      "excess capital",
+      "technology investment",
+      "earnings growth",
+      "CET1 capital",
+      "shareholder returns"
+    ],
+    "insights": [
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook: positive long-term strategy with $30 billion reinvestment and 20% ROTCE supporting franchise growth, but near-term headwinds from reduced buybacks (89% decline) and rising expenses ($108.6B) may pressure earnings growth."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Maintained steady capital returns with $3 billion in Q3 buybacks and $4.1 billion total shareholder returns, demonstrating balanced approach to capital distribution and business investment."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpE",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpM",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpQ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BACpS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpG",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "BMLpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       },
       {
         "ticker": "MERpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "Used as a historical example of Buffett's successful patient investing strategy, where his 2011 investment generated substantial windfall profits through warrant exercises in 2017."
-      },
-      {
-        "ticker": "OXY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an example of Buffett breaking his typical rules by investing in heavily indebted companies; no specific sentiment implied about the company itself."
-      },
-      {
-        "ticker": "OXY.WS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an example of Buffett breaking his typical rules by investing in heavily indebted companies; no specific sentiment implied about the company itself."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Buffett's massive stock sales indicate concern about current valuations, but the article frames his patience strategy as historically successful, suggesting neither bullish nor bearish outlook for the company itself."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Buffett's massive stock sales indicate concern about current valuations, but the article frames his patience strategy as historically successful, suggesting neither bullish nor bearish outlook for the company itself."
+        "sentiment_reasoning": "Strong shareholder commitment with $6 billion in Q3 buybacks and $8.3 billion total returns, supported by solid 10.9% CET1 ratio and management confidence in capital position."
       }
     ]
   }

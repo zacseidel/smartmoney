@@ -1,323 +1,370 @@
 [
   {
-    "id": "332299e1d5c84e4dbcb517501c6cb1e577747332026bae80c4e0cb64b3e2a35f",
+    "id": "5b78693b6ca60a03ae764e378d348e6c023414d3bd51b7f72b7419f9c11d7eea",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
-    "author": "Marc Guberti",
-    "published_utc": "2026-10-06T18:44:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?source=iedfolrf0000001",
-    "tickers": [
-      "QCOM",
-      "AMZN",
-      "META",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890154%2Fgettyimages-1492319884-1200x675-128554e.jpg&w=1200&op=resize",
-    "description": "Qualcomm is positioning itself for significant growth in 2027 through its pivot into AI infrastructure, with deals secured from Amazon and Meta Platforms. The company expects non-handset revenue to grow over 60% in fiscal 2027 and projects a $200 billion CPU market opportunity by fiscal 2029, yet trades at a modest 23 P/E ratio that undervalues its growth potential.",
-    "keywords": [
-      "AI infrastructure",
-      "chip demand",
-      "data center products",
-      "hyperscaler partnerships",
-      "revenue growth",
-      "energy efficiency"
-    ],
-    "insights": [
-      {
-        "ticker": "QCOM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company is pivoting successfully into high-growth AI infrastructure with secured multiyear deals from major tech giants (Amazon, Meta), expecting 60%+ non-handset revenue growth in fiscal 2027 and multibillion-dollar AI revenue targets. Stock valuation appears underappreciated relative to growth prospects."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer securing a multiyear deal with Qualcomm for AWS AI infrastructure support, indicating positive business activity but no direct impact on Amazon's core business highlighted."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as securing a similar multiyear deal with Qualcomm for AI infrastructure, demonstrating partnership activity but no specific impact on Meta's business performance discussed."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a competitor selling out AI chip supply, creating market opportunity for Qualcomm, but no direct negative or positive sentiment expressed about Nvidia itself."
-      }
-    ]
-  },
-  {
-    "id": "4a7cb333f8dba33a228439fd478420ade54b8c89beb78403956c2c01c134cd0c",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Department of Energy Announces a New Multi-Billion-Dollar Nuclear Energy Deal",
-    "author": "Neha Chamaria",
-    "published_utc": "2026-10-06T18:41:48Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/department-of-energy-announces-a-new-multi-billion-dollar-nuclear-energy-deal/?source=iedfolrf0000001",
-    "tickers": [
-      "VST",
-      "CEG",
-      "META",
-      "MSFT",
-      "BEP",
-      "BEPH",
-      "BEPI",
-      "BEPJ",
-      "BEPpA",
-      "CCJ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F72e89a8ac85539d46c47bfb95dc9b7f7b8c235d8-5237x3922.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Department of Energy announced a $4.2 billion loan commitment to Vistra to extend and upgrade three nuclear plants in Pennsylvania and Ohio, preserving 4 GW of power and adding 433 MW of new capacity. This deal is part of Trump's broader initiative to quadruple U.S. nuclear capacity to 400 GW by 2050. Meta has already signed a 20-year power purchase agreement with Vistra for 2,609 MW from these plants, highlighting how existing reactor owners are positioned to benefit most from the nuclear renaissance driven by AI energy demands.",
-    "keywords": [
-      "nuclear energy",
-      "Department of Energy",
-      "loan commitment",
-      "power generation",
-      "AI energy demand",
-      "reactor uprates",
-      "power purchase agreements"
-    ],
-    "insights": [
-      {
-        "ticker": "VST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $4.2 billion DOE loan commitment to extend and upgrade three nuclear plants for 20 additional years, with Meta already committed to purchasing 2,609 MW of power. Positioned as second-largest nuclear fleet owner among competitive power producers."
-      },
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Received $1 billion DOE loan to restart Three Mile Island Unit 1 (835 MW) with Microsoft already committed as a power buyer. Operates the largest nuclear fleet in the U.S., well-positioned for the nuclear renaissance."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Signed 20-year power purchase agreements with Vistra for 2,609 MW, securing reliable nuclear power for AI operations and data centers."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Already signed power purchase agreement with Constellation Energy for Three Mile Island output, securing clean energy for AI and data center operations."
-      },
-      {
-        "ticker": "BEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "BEPpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment."
-      },
-      {
-        "ticker": "CCJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Joint owner of Westinghouse, which received $17.5 billion DOE loan for new reactor deployment, benefiting from nuclear industry expansion."
-      }
-    ]
-  },
-  {
-    "id": "088020987f5387f7068039ff5563bed7075d34278e325096d1c237fc01c2e87a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Why I Don't Think Meta's AI Strategy Will Be Successful",
-    "author": "David Jagielski, Cpa",
-    "published_utc": "2026-10-06T18:10:02Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/why-i-don-t-think-meta-s-ai-strategy-will-be-successful/?source=iedfolrf0000001",
-    "tickers": [
-      "META"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7b5862c738a4a99cbea1b32c4483ec9516bd83a6-2000x1183.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Meta's recent launch of its personal AI agent Muse has boosted the stock 12% this year, but analyst David Jagielski argues the gains won't last. He cites Meta's poor privacy track record as a major obstacle to user trust in AI agents that require access to sensitive information. Additionally, the stock trades at a premium P/E of 28 versus the S&P 500 average of 23, making it vulnerable to decline given risks from its AI strategy and money-losing metaverse segment.",
-    "keywords": [
-      "AI agent",
-      "privacy concerns",
-      "user trust",
-      "stock valuation",
-      "metaverse",
-      "personal AI assistant"
-    ],
-    "insights": [
-      {
-        "ticker": "META",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Author expresses skepticism about Meta's AI strategy success due to the company's poor privacy track record, which undermines user trust needed for AI agents. Additionally, the stock is overvalued at a P/E of 28 relative to market average, and faces risks from costly metaverse investments, making it vulnerable to significant decline."
-      }
-    ]
-  },
-  {
-    "id": "166ece0955db057bf3d36002580116a4be472df6db9445f0e6e4d7f976e8739d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "History Says Infrastructure Booms Create Winners and Losers. Here Are 3 AI Cloud Stocks to Watch.",
-    "author": "Leo Sun",
-    "published_utc": "2026-10-06T16:35:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/history-says-infrastructure-booms-create-winners-a/?source=iedfolrf0000001",
-    "tickers": [
-      "AMZN",
-      "CRWV",
-      "EQIX",
-      "META",
-      "MSFT",
-      "NVDA"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890087%2Fai-brain.jpg&w=1200&op=resize",
-    "description": "As AI infrastructure demand grows, three companies are positioned to benefit: Amazon's AWS controls 28% of the cloud market with strong AI services; CoreWeave operates 51 data centers with a $104.2B revenue backlog and 102% projected revenue CAGR; and Equinix, a data center REIT with 282 global facilities, offers dividend income with 15% EPS growth expected through 2028.",
-    "keywords": [
-      "AI infrastructure",
-      "cloud computing",
-      "data centers",
-      "GPU processing",
-      "AI market expansion"
-    ],
-    "insights": [
-      {
-        "ticker": "AMZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AWS dominates 28% of cloud market, hosts major AI services (Bedrock, SageMaker), expected 15% revenue and 24% EPS CAGR through 2028, reasonably valued at 24x forward earnings"
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Explosive growth with 102% revenue and 110% EBITDA CAGR projected, $104.2B contracted revenue backlog (20x 2025 revenue), serves major clients (Meta, Microsoft, OpenAI), claims 35x faster processing at 80% lower cost than competitors"
-      },
-      {
-        "ticker": "EQIX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "World's largest data center REIT with 282 facilities, 15% EPS CAGR expected, 2% dividend yield, serves 60% of Fortune 500, positioned to benefit from AI infrastructure expansion"
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major CoreWeave customer but no direct analysis provided; indirect beneficiary of AI infrastructure growth"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a CoreWeave customer but not analyzed in the article; indirect exposure to AI infrastructure market"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as supplier of GPUs to CoreWeave but not directly analyzed; indirect beneficiary through infrastructure buildout"
-      }
-    ]
-  },
-  {
-    "id": "470df1b824c9b1ef3dfd94de49113baa7831b3aa9b1a7fcf37eb5abd263edef4",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Here's Why SpaceX's AI Infrastructure in Space \"Moonshot\" Won't Uproot Neocloud Companies",
-    "author": "Marc Guberti",
-    "published_utc": "2026-10-06T15:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/heres-why-spacexs-ai-infrastructure-in-space-moons/?source=iedfolrf0000001",
+    "title": "Pre-Markets Up on Cooling Metrics, Decent Q3 Reports",
+    "author": "Na",
+    "published_utc": "2026-10-21T13:42:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3012023/pre-markets-up-on-cooling-metrics-decent-q3-reports?cid=CS-ZC-FT-ahead_of_wall_street-3012023",
     "tickers": [
       "SPCX",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "NBIS",
-      "IREN",
-      "NVDA",
+      "NEE",
+      "NEEpN",
+      "NEEpS",
+      "NEEpT",
+      "NEEpU",
+      "NEEpV",
+      "NEEpW",
+      "ABT",
+      "CME",
       "META",
       "TSLA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890146%2Fgettyimages-597931174-1200x750-7d59391.jpg&w=1200&op=resize",
-    "description": "SpaceX launched a test satellite with Google's TPUs to explore orbital data centers, but satellite-based data centers will cost 2.5-3x more than Earth-based facilities. Tech giants need computing power immediately and are investing heavily in neocloud companies like Nebius and Iren, which have available megawatt capacity and scaling pipelines. Orbital data centers are unlikely to replace terrestrial data centers in the near term.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ce/129551.webp",
+    "description": "Stock futures opened higher on October 21st, 2026, as bond yields and oil prices cooled from recent highs. SpaceX surged 8% after posting impressive Q3 earnings with 161% revenue growth. Mixed earnings from NEE, ABT, and CME set the stage for major Mag 7 earnings releases after the close, with Meta and Tesla expected to report results amid ongoing market scrutiny.",
     "keywords": [
-      "orbital data centers",
-      "AI infrastructure",
-      "satellite technology",
-      "neocloud companies",
-      "data center costs",
-      "compute demand",
-      "TPU testing"
+      "Q3 earnings",
+      "pre-market gains",
+      "bond yields",
+      "oil prices",
+      "Mag 7 earnings",
+      "revenue growth",
+      "stock market"
     ],
     "insights": [
       {
         "ticker": "SPCX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While SpaceX achieved a milestone launching Google's TPUs, the article emphasizes significant cost barriers (2.5-3x more expensive) and Elon Musk's history of missing ambitious timelines. The technology is promising but faces substantial hurdles before commercial viability."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is actively testing orbital data center technology through Project Suncatcher, showing innovation leadership. However, the article suggests this is a long-term bet while immediate compute needs are being met through terrestrial solutions."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is actively testing orbital data center technology through Project Suncatcher, showing innovation leadership. However, the article suggests this is a long-term bet while immediate compute needs are being met through terrestrial solutions."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is actively testing orbital data center technology through Project Suncatcher, showing innovation leadership. However, the article suggests this is a long-term bet while immediate compute needs are being met through terrestrial solutions."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Alphabet is actively testing orbital data center technology through Project Suncatcher, showing innovation leadership. However, the article suggests this is a long-term bet while immediate compute needs are being met through terrestrial solutions."
-      },
-      {
-        "ticker": "NBIS",
         "sentiment": "positive",
-        "sentiment_reasoning": "Nebius is positioned as a near-term winner with available megawatt capacity, scaling pipelines, and ability to negotiate higher contract values. The article suggests neoclouds will benefit for years to come as tech giants prioritize immediate compute availability."
+        "sentiment_reasoning": "Revenues escalated 161% year-over-year to $14.58 billion with earnings tripling expectations at $0.45 per share; 9x growth in AI business drove strong performance; shares up 8.2% in pre-market and 18% from IPO price"
       },
       {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Similar to Nebius, Iren is highlighted as a neocloud company with infrastructure advantages, available power capacity, and the ability to command premium pricing as AI demand increases."
-      },
-      {
-        "ticker": "NVDA",
+        "ticker": "NEE",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Nvidia benefits from both terrestrial and orbital data center development (hiring orbital architects) while maintaining multibillion-dollar stakes in neocloud companies. The company is hedging across multiple infrastructure approaches."
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpU",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "NEEpW",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Beat earnings expectations with $1.24 per share vs $1.13 expected, but revenues missed consensus by 11%; modest 0.9% share gain offset by year-to-date decline"
+      },
+      {
+        "ticker": "ABT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Earnings missed estimates by $0.01 per share despite revenue beat; concerns about Nutrition business spinoff; shares down 3.36% and down 18.2% year-to-date"
+      },
+      {
+        "ticker": "CME",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Outpaced estimates on both earnings ($3.02 vs $2.98 expected) and revenues ($1.74B beat by 1.43%); solid performance though shares flat ahead of bell"
       },
       {
         "ticker": "META",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Meta's deal with Oklo for a 1.2-gigawatt nuclear data center (completion 2034) demonstrates tech giants are willing to commit to long-term terrestrial infrastructure investments rather than waiting for orbital solutions."
+        "sentiment_reasoning": "Expected to report negative earnings growth of -52.4% despite impressive 23.68% revenue growth; looking to bounce back from Q2 miss; up 5% year-to-date but earnings decline is concerning"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Carries Zacks Rank #4 (Sell) rating; expected -10% earnings growth with minimal revenue gains; down 14.7% year-to-date despite 3% pre-market gain; facing SpaceX takeover speculation uncertainty"
+      }
+    ]
+  },
+  {
+    "id": "e4fe3535dad498fea077210dccc1768eb82930c92df8b9ebd0930b738b369d28",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Don't Get Spooked: Stocks Could Still Soar in Q4",
+    "author": "Not Specified",
+    "published_utc": "2026-10-21T13:08:00Z",
+    "article_url": "https://www.zacks.com/commentary/3011869/don-t-get-spooked-stocks-could-still-soar-in-q4?cid=CS-ZC-FT-investment_ideas-3011869",
+    "tickers": [
+      "NVDA",
+      "CRWV",
+      "META",
+      "TSLA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/27/190344.webp",
+    "description": "October's market volatility has been driven by inflation concerns and AI financing debates, particularly CoreWeave's financial struggles. However, the market correction appears contained to tech themes rather than broad-based panic. Entering the historically strongest nine-month stretch of the presidential cycle (Q4 midterm through Q2 pre-election year), markets face headwinds from elevated valuations and high interest rates, though strong earnings growth and AI's transformative potential could support gains.",
+    "keywords": [
+      "market volatility",
+      "inflation",
+      "AI financing",
+      "semiconductor decline",
+      "seasonal patterns",
+      "earnings growth",
+      "presidential cycle",
+      "tech stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Nvidia holds ~10% stake in CoreWeave and CEO publicly defended CoreWeave's financial strength, suggesting confidence. However, semiconductor index extended losing streak to eight consecutive sessions, indicating sector weakness despite management reassurance."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Carrying roughly $50 billion in debt, CoreWeave fell painfully last week and has become the market's proxy for AI financing concerns. CEO Huang's public defense suggests financial stress."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Meta reports earnings this week. While S&P 500 tracking strong 24.6% earnings growth, the article provides no specific guidance on Meta's performance."
       },
       {
         "ticker": "TSLA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Tesla is mentioned only as an example of Elon Musk's history of missing ambitious timelines (Optimus robot production delays), not directly related to the data center discussion."
+        "sentiment_reasoning": "Tesla reports earnings this week. While S&P 500 tracking strong earnings growth, the article provides no specific guidance on Tesla's performance."
+      }
+    ]
+  },
+  {
+    "id": "048a5dbd36bd28edc5057785876c196ce01690e3ecd9b91e43b78859e9bb3054",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Breakfast News: A $5.7 Billion Flex or Genius?",
+    "author": "Tmf Breakfast News",
+    "published_utc": "2026-10-21T11:30:02Z",
+    "article_url": "https://www.fool.com/investing/breakfast-news/2026/10/21/breakfast-news-a-usd5-7-billion-flex-or-genius/?source=iedfolrf0000001",
+    "tickers": [
+      "CRM",
+      "BRZE",
+      "NFLX",
+      "ISRG",
+      "SPCX",
+      "TSLA",
+      "META",
+      "IBM",
+      "EQT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Fmisc-assets%2Fbn211026.png&w=1200&op=resize",
+    "description": "Salesforce acquires Braze for $5.7 billion to strengthen its marketing capabilities, with Braze stock jumping 50%. Netflix faces growth challenges with slowing revenue and weak ad performance. SpaceX beats expectations with 161% revenue growth, while Intuitive Surgical falls despite beating estimates due to cooling U.S. procedure growth. Tesla, Meta, and IBM report earnings with major capital spending decisions in focus. EQT continues steady cash flow growth as a natural gas producer.",
+    "keywords": [
+      "M&A",
+      "marketing technology",
+      "streaming",
+      "space exploration",
+      "surgical robotics",
+      "capital expenditure",
+      "natural gas",
+      "earnings"
+    ],
+    "insights": [
+      {
+        "ticker": "CRM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Acquisition of Braze is strategically sound and relatively inexpensive, but long-term growth prospects are limited to 7-10% annually rather than historical 20%, suggesting modest upside potential."
+      },
+      {
+        "ticker": "BRZE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock surged 51% on acquisition announcement; company has strong financials with $300M+ net cash, improving margins, and 25%+ annual topline growth at reasonable valuation."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 6% after hours due to slowing revenue growth (12%, slowest in 3 years), weak ad revenue below targets, and minimal viewing hour growth (2%), indicating fundamental growth challenges."
+      },
+      {
+        "ticker": "ISRG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 7% despite beating earnings estimates because U.S. da Vinci procedure growth slowed to 10%, lagging overseas growth and signaling weakening domestic demand momentum."
+      },
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 8% on strong earnings beat with 161% revenue growth and aggressive Q1 2027 guidance of $33-37B, though dependent on compute revenue materializing."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Expected to report flat revenue with significant free cash flow drain and high capex; stock performance depends on clarity around Cybercab and Optimus volume justifying massive capital spending."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Facing investor scrutiny over $130-145B capex guidance for 2026; needs strong Q4 revenue outlook (~$73.6B) to convince market that spending is justified, with historical precedent of capex spikes dragging stock down."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Recovering from prior quarter delays in software and mainframe deals; Q3 software revenue should confirm momentum, but upcoming guidance will be key driver of stock direction."
+      },
+      {
+        "ticker": "EQT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong fundamentals with 78% free cash flow growth, 42% debt reduction, and 3% dividend increase; trading at attractive 12x trailing earnings with built-in hedges and rising natural gas demand from AI data centers."
+      }
+    ]
+  },
+  {
+    "id": "c11bfcc3ca62556d6824054ef73e2d970f3deb38cf8f32d53111e85b95821810",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Bloom Energy vs. Vistra: Which Energy Stock Is a Better Buy in 2026?",
+    "author": "Sara Appino",
+    "published_utc": "2026-10-21T10:32:42Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/bloom-energy-vs-vistra-which-energy-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
+    "tickers": [
+      "BE",
+      "VST",
+      "AEP",
+      "BN",
+      "BNH",
+      "BNJ",
+      "META"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares Bloom Energy, a fast-growing clean-energy company specializing in fuel cell systems for AI data centers, against Vistra, a diversified utility giant with 44,000 megawatts of generation capacity. Bloom Energy is recommended as the better buy for 2026 due to its explosive Q2 growth (166% revenue increase, $1B quarterly revenue milestone) and strong momentum in the AI infrastructure market, despite higher valuation multiples and execution risks. Vistra is acknowledged as a solid, well-executing company with steady performance and diversified assets, but lacks the dynamic growth trajectory of Bloom.",
+    "keywords": [
+      "AI data centers",
+      "power demand",
+      "fuel cell technology",
+      "energy infrastructure",
+      "utility stocks",
+      "clean energy",
+      "distributed power generation"
+    ],
+    "insights": [
+      {
+        "ticker": "BE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q2 2026 results with 166% YoY revenue growth, first $1B quarterly revenue milestone, EPS doubling analyst estimates, and management guidance raise. Explosive demand from AI data centers and expanding backlog demonstrate significant growth momentum, though offset by high valuation multiples (P/E 303.38) and execution risks."
+      },
+      {
+        "ticker": "VST",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Solid operational execution with 30%+ YoY adjusted EBITDA growth and strategic partnerships (KKR, Nvidia). Diversified generation portfolio and stable utility business provide steady performance, but modest revenue growth (3% YoY) and lower valuation (P/E 25.37) reflect mature, slower-growth profile compared to Bloom."
+      },
+      {
+        "ticker": "AEP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a strategic partner with Bloom Energy for 1 gigawatt power supply arrangement, indicating participation in growing AI infrastructure demand, but no direct analysis provided."
+      },
+      {
+        "ticker": "BN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic relationship with Bloom Energy including $5.0 billion financing framework for future projects, indicating confidence in Bloom's growth trajectory, but no independent analysis provided."
+      },
+      {
+        "ticker": "BNH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic relationship with Bloom Energy including $5.0 billion financing framework for future projects, indicating confidence in Bloom's growth trajectory, but no independent analysis provided."
+      },
+      {
+        "ticker": "BNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strategic relationship with Bloom Energy including $5.0 billion financing framework for future projects, indicating confidence in Bloom's growth trajectory, but no independent analysis provided."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a major AI data center customer of Vistra, demonstrating demand for power infrastructure, but no direct investment analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "2e32912c12663b5ff9bf9144ba398dbe1a2514d56c605bb8e8047e1db2941b1d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Advanced Micro Devices (AMD) Stock Plummeted 13% Last Week. Should You Buy the Dip Before Nov. 3?",
+    "author": "Anthony Di Pizio",
+    "published_utc": "2026-10-21T10:04:00Z",
+    "article_url": "https://www.fool.com/investing/2026/10/21/advanced-micro-devices-stock-plummeted-13-buy-dip/?source=iedfolrf0000001",
+    "tickers": [
+      "AMD",
+      "NVDA",
+      "MSFT",
+      "META",
+      "ORCL",
+      "ORCLpD"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891653%2Fthe-advanced-micro-devices-amd-logo-on-a-black-translucent-background.png&w=1200&op=resize",
+    "description": "AMD stock fell 13% last week amid concerns about AI funding challenges and potential slowdown in data center chip demand. While AMD has closed the performance gap with Nvidia through its MI450 GPUs, the company's stock is priced for perfection at a P/E ratio of 91.8\u2014over three times higher than Nvidia's 27.1. Ahead of AMD's Nov. 3 earnings report, the analyst remains cautious due to elevated valuation and uncertainty in the AI industry, despite AMD's strong growth prospects.",
+    "keywords": [
+      "AMD stock decline",
+      "AI chip demand",
+      "data center GPUs",
+      "earnings report",
+      "valuation concerns",
+      "semiconductor industry"
+    ],
+    "insights": [
+      {
+        "ticker": "AMD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock plummeted 13% due to AI funding concerns and potential demand slowdown. Despite strong MI450 GPU performance and growth prospects, the company is priced for perfection at a P/E of 91.8, making it overvalued relative to Nvidia and vulnerable to disappointment."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as AMD's main competitor with superior valuation metrics (P/E of 27.1 vs AMD's 91.8). AMD has closed the performance gap with its MI450 chips, but Nvidia maintains a more reasonable valuation."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a major buyer of AMD's MI450 GPUs and hyperscaler customer. No specific concerns mentioned, but exposed to potential slowdown in AI chip orders if funding conditions worsen."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler customer and expected buyer of AMD's MI450 GPUs. Exposure to potential demand reduction if AI funding tightens."
+      },
+      {
+        "ticker": "ORCL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a customer of AMD's data center GPUs. No specific concerns noted."
+      },
+      {
+        "ticker": "ORCLpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a customer of AMD's data center GPUs. No specific concerns noted."
       }
     ]
   }
