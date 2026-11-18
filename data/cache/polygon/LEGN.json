@@ -1,0 +1,26 @@
+{
+  "ticker": "LEGN",
+  "name": "Legend Biotech Corporation American Depositary Shares",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "ADRC",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001801198",
+  "composite_figi": "BBG00TTGH5W4",
+  "share_class_figi": "BBG00TTGH6N2",
+  "market_cap": 3124840863.87,
+  "description": "Legend Biotech Corp is a clinical-stage biopharmaceutical company. It is engaged in the discovery and development of novel cell therapies for oncology and other indications. The firm's product candidate, LCAR-B38M/JNJ-4528, is a chimeric antigen receptor, or CAR, T cell therapy for the treatment of multiple myeloma. Geographically, the company generates a majority of its revenue from the United States of America. The company generates revenue from License and Collaboration revenue.",
+  "ticker_root": "LEGN",
+  "homepage_url": "https://www.legendbiotech.com",
+  "total_employees": 3300,
+  "list_date": "2020-06-05",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bGVnZW5kYmlvdGVjaC5jb20/images/2026-11-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/bGVnZW5kYmlvdGVjaC5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 193969017,
+  "weighted_shares_outstanding": 193969017,
+  "round_lot": 100
+}

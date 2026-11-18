@@ -1,364 +1,378 @@
 [
   {
-    "id": "65bdbc6375d3f9188a2d23a4c42117033be7b2165af5b23ee3109be229b3589d",
+    "id": "cce6aaa8208b508e96e6ec586453dc501ffe811378e7cd58da83f5f4f05a56e6",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: Colette Kress Is More Vital to Nvidia\u2019s Future Than Her Interim CEO Title Implies",
+    "author": "Daniel Foelber",
+    "published_utc": "2026-11-18T11:45:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/prediction-colette-kress-is-more-vital-to-nvidia-s-future-than-her-interim-ceo-title-implies/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "METAM",
+      "AAPL",
+      "TSLA",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize",
+    "description": "Following Jensen Huang's resignation as Nvidia CEO due to personal scandals, CFO Colette Kress has assumed the interim CEO role. The article argues that Kress, who has historically balanced Huang's visionary but risky bets with financial discipline, may fundamentally shift Nvidia's strategy toward a more cautious approach. This could slow growth but reduce vulnerability to AI spending downturns, potentially transforming Nvidia from a high-growth stock into a value-oriented investment.",
+    "keywords": [
+      "CEO transition",
+      "Jensen Huang resignation",
+      "Colette Kress",
+      "AI infrastructure financing",
+      "corporate strategy shift",
+      "financial discipline",
+      "stock buybacks",
+      "dividend increases"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the leadership transition creates uncertainty and near-term volatility, the article suggests Kress's more disciplined approach could benefit long-term investors by reducing risky bets and maintaining high margins. The stock is down significantly, but the fundamental business remains strong with potential for steady compounding rather than boom-bust cycles."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler with concerns about sustained cash burn in AI infrastructure spending, which sparked the recent AI stock sell-off. No specific positive or negative outlook is provided."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a hyperscaler with cash burn concerns related to AI infrastructure investments, contributing to the broader AI stock sell-off. No specific company-level analysis provided."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable company in terms of CEO importance and as a reference point for Nvidia potentially surpassing it in stock buybacks and dividends. No sentiment-specific analysis provided."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a comparable example of a founder-led company with significant CEO importance, similar to Nvidia. No specific sentiment assessment is made."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable semiconductor company with a long-tenured CEO (Hock Tan). Used for context but no specific sentiment analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "ec9b47db272f7f2b03b83a6b7ae151fb17ebbda6bd0cc3e142aafc3d1b818d94",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "netpulse AG Reveals New Findings on Search Intent in German Language Queries Within AI-Generated Answers",
-    "author": "Netpulse Ag",
-    "published_utc": "2026-10-07T04:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/10/07/3376174/0/en/netpulse-ag-reveals-new-findings-on-search-intent-in-german-language-queries-within-ai-generated-answers.html",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/10/07/3376174/0/en/netpulse-ag-reveals-new-findings-on-search-intent-in-german-language-queries-within-ai-generated-answers.html",
-    "description": "netpulse AG, a Swiss digital marketing agency, released research on how brands appear in AI-generated search answers across ChatGPT, Perplexity, and Google AI Mode. The study found that generative engines prioritize sources with clear topical structure and strong technical foundations over advertising spend, and that companies visible in organic search are more likely to appear in AI answers. The agency uses proprietary tools to measure AI visibility rather than third-party metrics.",
-    "keywords": [
-      "AI-generated answers",
-      "search intent",
-      "German language queries",
-      "generative engine optimization",
-      "brand visibility",
-      "ChatGPT",
-      "Perplexity",
-      "Google AI Overview",
-      "Switzerland",
-      "digital marketing"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Google is mentioned as a platform where AI Overviews are reshaping search results and as a service provider (Google Ads). The article is factual about Google's role without expressing positive or negative sentiment toward the company."
-      }
-    ]
-  },
-  {
-    "id": "39164d0db039fa0a1c80a61d90daca9223c80be80f9df515ec534f34a08333ae",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Nvidia Hits a New All-Time High. Is the AI Stock a Buy?",
-    "author": "Jeremy Bowman",
-    "published_utc": "2026-10-07T01:15:02Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/nvidia-at-an-all-time-high-is-the-ai-stock-a-buy/?source=iedfolrf0000001",
+    "title": "Progressive Ventures Closes $12.24 Million Fund I to Back B2B AI Founders Before Demo Day",
+    "author": "Not Specified",
+    "published_utc": "2026-11-18T11:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/18/3405461/0/en/progressive-ventures-closes-12-24-million-fund-i-to-back-b2b-ai-founders-before-demo-day.html",
     "tickers": [
       "NVDA",
-      "AMD",
-      "INTC",
-      "AVGO",
-      "MRVL",
-      "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "AAPL"
+      "META",
+      "METAM",
+      "NFLX",
+      "IBM",
+      "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F1a4bae1da4a05d0d0e00a764e0d498057cecc411-3240x2160.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Nvidia reached a new all-time high of $243.37 per share, driven by positive macro conditions and strong AI sector momentum. Trading at a P/E ratio of 30, the stock appears undervalued compared to peers like AMD (166 P/E) and Intel (103 P/E), with Wall Street expecting 67% revenue growth to $687 billion in fiscal 2028. While the law of large numbers may eventually constrain growth and competition from AMD, Intel, and custom chips from Amazon and Google pose risks, analysts view Nvidia as well-positioned to capitalize on AI growth and recommend it as a strong buy.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/11/18/3405461/0/en/progressive-ventures-closes-12-24-million-fund-i-to-back-b2b-ai-founders-before-demo-day.html",
+    "description": "Progressive Ventures, founded by three-time entrepreneur Mala Ramakrishnan, closed its first seed fund at $12.24 million in August 2026. The Silicon Valley-based firm has backed 44 B2B AI and SaaS startups from Y Combinator, StartX, and Berkeley SkyDeck, with check sizes ranging from $50,000 to $250,000. Limited partners are exclusively technology industry executives from major companies and university professors.",
     "keywords": [
-      "AI boom",
-      "GPU chips",
-      "data center",
-      "valuation",
-      "market cap",
-      "competition",
-      "earnings growth"
+      "seed fund",
+      "B2B AI",
+      "venture capital",
+      "Silicon Valley",
+      "Y Combinator",
+      "SaaS startups",
+      "verticalization",
+      "early-stage investing"
     ],
     "insights": [
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company hit all-time high, trades at attractive P/E of 30 relative to peers, expected 67% revenue growth, maintains dominant market position in data center GPUs, and is recommended as a strong buy despite valuation concerns."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an LP in Progressive Ventures' fund, indicating participation in early-stage AI investment ecosystem, but no direct business impact disclosed."
       },
       {
-        "ticker": "AMD",
+        "ticker": "GOOG",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor that has soared on AI tailwinds but trades at significantly higher P/E ratio of 166, suggesting market expectations may be overpriced relative to actual AI delivery compared to Nvidia."
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
       },
       {
-        "ticker": "INTC",
+        "ticker": "GOOGL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a competitor in the AI chip space with adjusted P/E of 103, indicating high valuation expectations, but no specific positive or negative developments mentioned in the article."
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Named as an LP in the fund; indicates participation in venture ecosystem but no direct operational or financial impact mentioned."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Named as an LP in the fund; indicates participation in venture ecosystem but no direct operational or financial impact mentioned."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as an LP; shows interest in B2B AI investments but no material business development disclosed."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP participant; indicates engagement with early-stage AI ventures without specific strategic implications."
       },
       {
         "ticker": "AVGO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer that has benefited from AI tailwinds but trades at P/E of 48, higher than Nvidia, suggesting it may be overvalued relative to its AI delivery compared to Nvidia."
-      },
-      {
-        "ticker": "MRVL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Raised 2028 revenue outlook to $20 billion at Investor Day, indicating strong demand for chips and positive momentum in the semiconductor industry supporting the broader AI narrative."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a customer developing its own chips, representing potential competition to Nvidia, but no specific negative developments mentioned."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the #2 most valuable company by market cap, used as a comparison point for Nvidia's valuation, but no specific sentiment drivers mentioned."
+        "sentiment_reasoning": "Named as an LP in the fund; represents participation in AI startup ecosystem without disclosed direct benefits."
       }
     ]
   },
   {
-    "id": "ae831784356ec413628eb611616cd213a5564d27e7756ab3bb0eaec1899bcad2",
+    "id": "068d2f427ac4c8e7340371ff0913955dd371b1e85904da8b8e56f34585588010",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Why Constellation Energy Rallied Today",
-    "author": "Billy Duberstein",
-    "published_utc": "2026-10-06T19:29:23Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/why-constellation-energy-rallied-today/?source=iedfolrf0000001",
+    "title": "Prediction: $200 a Month Invested in SpaceX Could Be Worth This Much by 2035",
+    "author": "Jake Lerch",
+    "published_utc": "2026-11-18T10:45:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/prediction-usd200-a-month-invested-in-spacex-could-be-worth-this-much-by-2035/?source=iedfolrf0000001",
     "tickers": [
-      "CEG",
+      "SPCX",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc86d6d7f28cf578481eb1ba20c17f88fc4a76546-1290x860.jpg&w=1200&op=resize",
+    "description": "The article analyzes a hypothetical investment scenario where an investor contributes $200 monthly to SpaceX stock over 9 years (January 2027 to December 2035). With a total contribution of $21,600, the final account value could range from $14,244 (bearish -10% return) to $81,412 (bullish 25% return). The author estimates a 15% annual return is reasonable, resulting in approximately $46,000, based on SpaceX's strong growth prospects in space launch, satellite connectivity, and AI infrastructure. However, risks include potential AI investment setbacks, launch delays, and regulatory challenges.",
+    "keywords": [
+      "SpaceX",
+      "monthly investment",
+      "stock returns",
+      "AI infrastructure",
+      "Starlink",
+      "space launch",
+      "long-term investing",
+      "growth potential"
+    ],
+    "insights": [
+      {
+        "ticker": "SPCX",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The article presents SpaceX as a strong growth opportunity with exceptional revenue growth (161% YoY in Q3, projected 270% in 2027), expanding into AI infrastructure and satellite connectivity. The author expresses optimism about the company's ability to navigate challenges and expects it to outperform the market with 15%+ annual returns. However, the positive sentiment is tempered by acknowledgment of real risks including AI investment failures, launch delays, and regulatory friction."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned only as a potential customer of SpaceX's AI data center capacity. No direct analysis or sentiment is provided about the company itself; it serves merely as context for SpaceX's business model."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned only as a potential customer of SpaceX's AI data center capacity. No direct analysis or sentiment is provided about the company itself; it serves merely as context for SpaceX's business model."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned only as a potential customer of SpaceX's AI data center capacity. No direct analysis or sentiment is provided about the company itself; it serves merely as context for SpaceX's business model."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Alphabet is mentioned only as a potential customer of SpaceX's AI data center capacity. No direct analysis or sentiment is provided about the company itself; it serves merely as context for SpaceX's business model."
+      }
+    ]
+  },
+  {
+    "id": "e323d6618b575b967b03a3c4c3960dd16ed5ab598391407bf747d7db082762df",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Unstoppable AI Stocks to Buy Hand Over Fist Now That the Midterms Are Over",
+    "author": "Adria Cimino",
+    "published_utc": "2026-11-18T10:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?source=iedfolrf0000001",
+    "tickers": [
+      "AMZN",
       "GOOG",
       "GOOGL",
       "GOOGM",
       "GOOGN",
-      "BRK.A",
-      "BRK.B"
+      "META",
+      "METAM",
+      "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890392%2Fgettyimages-1699619381.jpg&w=1200&op=resize",
-    "description": "Constellation Energy stock surged 12.31% after signing a comprehensive power deal with Alphabet. The agreement includes a 20-year, 890-MW power purchase agreement and a 15-year, 2,700-MW PPA to supply nuclear power to Alphabet's AI data centers in the PJM grid region. Constellation will invest $4.3 billion to expand nuclear capacity, while Alphabet will use Google Cloud's Gemini Enterprise to help optimize power production efficiency.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893640%2Fgettyimages-1320686310.jpg&w=1200&op=resize",
+    "description": "Following the midterm elections, the article argues that Democratic control of Congress and potential AI regulation could actually benefit long-term investors by moderating AI spending growth and reducing risk. The author recommends three AI leaders\u2014Amazon, Alphabet, and Meta Platforms\u2014as strong buying opportunities, citing their full-stack AI approaches, proven demand, and solid financial performance.",
     "keywords": [
-      "nuclear power",
-      "AI data centers",
-      "power purchase agreement",
-      "clean energy",
-      "infrastructure investment",
-      "PJM grid"
-    ],
-    "insights": [
-      {
-        "ticker": "CEG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock rallied 12.31% on announcement of major long-term power contracts worth billions in capital investment, providing significant revenue visibility and growth opportunities in nuclear capacity expansion."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Secured long-term clean energy supply for AI data center expansion at competitive rates while demonstrating responsible environmental stewardship, addressing political concerns about AI infrastructure and positioning the company as a well-funded tech leader capable of managing expansion costs."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major Alphabet investor that participated in its June equity offering, but no direct impact from this deal; serves as contextual validation of Alphabet's strategic positioning."
-      }
-    ]
-  },
-  {
-    "id": "3ceb1d1a608f0e5149de5449e36319cdb953a04eadb4f5a42b5699077e2de8f0",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "3 Growth Stocks to Buy Instead of SpaceX",
-    "author": "Marc Guberti",
-    "published_utc": "2026-10-06T18:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/3-growth-stocks-to-buy-instead-of-spacex/?source=iedfolrf0000001",
-    "tickers": [
-      "SNDK",
-      "MXL",
-      "NVT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890149%2Fgettyimages-2164257248-1201x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "The article argues that SpaceX's $2 trillion valuation is too high relative to its revenue, even accounting for projected $100 billion annual recurring revenue by 2026, resulting in a price-to-sales ratio above 20. Instead, the author recommends three better-valued growth stocks: SanDisk (strong NAND memory demand from AI), MaxLinear (optical data center products), and nVent (liquid cooling solutions for data centers).",
-    "keywords": [
-      "growth stocks",
-      "AI data centers",
-      "valuation",
-      "memory chips",
-      "liquid cooling",
-      "optical products"
-    ],
-    "insights": [
-      {
-        "ticker": "SNDK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised for 600% year-to-date gains, 372% YoY revenue growth, and dramatic profitability improvement ($23M loss to $6.9B net income). Trading at low 8 forward P/E ratio with strong multi-year customer contracts securing capacity through 2028."
-      },
-      {
-        "ticker": "MXL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted for 145% YoY data center segment growth and 55% overall revenue growth. Showing sequential growth rates similar to early SanDisk rally, with 30.3% implied sequential growth guidance. Trading at reasonable 30 P/E despite faster growth than S&P 500."
-      },
-      {
-        "ticker": "NVT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Commended for 53% YoY revenue growth and 92% YoY operating income growth in liquid cooling segment. Expanded facility capacity and maintains $2.5 billion backlog providing revenue visibility. Strong order momentum into Q3."
-      },
-      {
-        "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as manufacturer of chips launched by SpaceX; no direct investment thesis or sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "6ae6a3eca607512c201b836f61844961b1b5e8dfb9c910bc71a701e5b165fcbe",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Not Microsoft. Not Google. Analysts Call This $2.7 Trillion Tech Titan the Most Undervalued AI Play.",
-    "author": "Brett Schafer",
-    "published_utc": "2026-10-06T16:21:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/06/not-microsoft-not-google-the-2-trillion-tech-titan/?source=iedfolrf0000001",
-    "tickers": [
-      "AMZN",
-      "NVDA",
-      "PLTR",
-      "MSFT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889475%2Fwoman-in-an-datacenter.jpg&w=1200&op=resize",
-    "description": "Amazon is positioned as an undervalued AI play despite its $2.7 trillion market cap. AWS revenue grew 37% year-over-year to $42.2 billion, driven by AI infrastructure demand. The company is also integrating AI across its retail business through search tools, ad targeting, and supply chain automation. With projected earnings of $161 billion and a forward P/E of 17, analysts believe Amazon stock has significant upside potential.",
-    "keywords": [
-      "Amazon",
-      "AWS",
-      "artificial intelligence",
-      "cloud infrastructure",
-      "undervalued",
-      "AI growth",
-      "supply chain automation"
+      "AI stocks",
+      "midterm elections",
+      "cloud computing",
+      "AI regulation",
+      "data centers",
+      "machine learning models",
+      "capital spending"
     ],
     "insights": [
       {
         "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "AWS experiencing strong 37% YoY growth driven by AI infrastructure boom; company applying AI across retail operations; analyst price target of $355 vs current $250 suggests upside; forward P/E of 17 indicates undervaluation relative to growth prospects and margin expansion potential."
+        "sentiment_reasoning": "AWS revenue grew 39% to $46 billion in Q3, the fastest growth in nearly five years. The company offers a comprehensive full-stack AI approach with custom chips (Trainium and Graviton) gaining traction, and strong demand justifies the $220 billion capital spending plan."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q3 revenue rose 26% to over $64 billion with strong core business performance. The Muse AI agent reached 11 million accounts in 7 weeks post-launch, demonstrating early traction, and the company has disciplined spending with multiple revenue monetization paths."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q3 revenue rose 26% to over $64 billion with strong core business performance. The Muse AI agent reached 11 million accounts in 7 weeks post-launch, demonstrating early traction, and the company has disciplined spending with multiple revenue monetization paths."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a stock that has soared in recent years, but article positions Amazon as a better undervalued AI opportunity compared to Nvidia."
-      },
-      {
-        "ticker": "PLTR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a stock that has performed well recently, but not the focus of the analysis."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
-      },
+        "sentiment_reasoning": "Mentioned as a GPU supplier to Amazon Web Services but not directly analyzed. The article focuses on companies building full-stack AI solutions rather than hardware suppliers."
+      }
+    ]
+  },
+  {
+    "id": "a6a7361384d28a753c0f0e3195db343746334858ffb44db5b1579e3b21da2e8b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Alphabet Stock Is Down 25% From Its High. History Suggests a $5,000 Investment Now Will Be Worth This Much by 2028.",
+    "author": "Keithen Drury",
+    "published_utc": "2026-11-18T08:25:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/alphabet-stock-is-down-25-from-its-high-history-suggests-a-usd5-000-investment-now-will-be-worth-this-much-by-2028/?source=iedfolrf0000001",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F67fd2117da2a0c9c38b6e8ab8dbc92d695e6cffb-2121x1414.jpg&w=1200&op=resize",
+    "description": "Alphabet's stock has declined 25% from its May 2026 all-time high of $410 to around $290, primarily due to market concerns over its massive $200 billion capital expenditure for AI infrastructure. However, the author argues the sell-off is unwarranted given strong fundamentals: 25% revenue growth, 103% Google Cloud growth, and a forward P/E ratio of just 19x. The analyst suggests the stock could rise 50% if Alphabet reaches the 30x earnings multiple typical for AI hyperscalers, potentially making a $5,000 investment worth $7,500 by 2028.",
+    "keywords": [
+      "Alphabet",
+      "AI infrastructure spending",
+      "Google Cloud",
+      "capital expenditures",
+      "valuation",
+      "stock recovery",
+      "AI hyperscalers"
+    ],
+    "insights": [
       {
         "ticker": "GOOG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite current 25% decline from highs, the author views the stock as undervalued with strong growth fundamentals (25% revenue growth, 103% Google Cloud growth) and an attractive forward P/E of 19x. The massive AI infrastructure spending is seen as a long-term competitive advantage rather than a concern, with potential for 50%+ upside if the stock reaches typical AI hyperscaler valuations of 30x earnings."
       },
       {
         "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite current 25% decline from highs, the author views the stock as undervalued with strong growth fundamentals (25% revenue growth, 103% Google Cloud growth) and an attractive forward P/E of 19x. The massive AI infrastructure spending is seen as a long-term competitive advantage rather than a concern, with potential for 50%+ upside if the stock reaches typical AI hyperscaler valuations of 30x earnings."
       },
       {
         "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite current 25% decline from highs, the author views the stock as undervalued with strong growth fundamentals (25% revenue growth, 103% Google Cloud growth) and an attractive forward P/E of 19x. The massive AI infrastructure spending is seen as a long-term competitive advantage rather than a concern, with potential for 50%+ upside if the stock reaches typical AI hyperscaler valuations of 30x earnings."
       },
       {
         "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned in headline as a comparison point but not analyzed in the article."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite current 25% decline from highs, the author views the stock as undervalued with strong growth fundamentals (25% revenue growth, 103% Google Cloud growth) and an attractive forward P/E of 19x. The massive AI infrastructure spending is seen as a long-term competitive advantage rather than a concern, with potential for 50%+ upside if the stock reaches typical AI hyperscaler valuations of 30x earnings."
       }
     ]
   }

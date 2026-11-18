@@ -1,0 +1,593 @@
+[
+  {
+    "id": "98c03578b965c1040ab3e2d31a2ada96f1dfddbaa5ad8fc33922d78024754ece",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Where These 4 Sector ETFs Stand Heading Into Year-End",
+    "author": "James Brumley",
+    "published_utc": "2026-11-13T15:43:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/13/where-these-4-sector-etfs-stand-heading-into-year/?source=iedfolrf0000001",
+    "tickers": [
+      "XLK",
+      "XLF",
+      "XLE",
+      "XLV",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AMZN",
+      "CVX",
+      "MRK",
+      "PFE",
+      "JNJ",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893153%2Fperson-at-board-that-says-etf.jpg&w=1200&op=resize",
+    "description": "As 2026 winds down, the article analyzes four key sector ETFs heading into 2027. Technology stocks have pulled back 14% from October highs after AI companies missed earnings, but the sector remains reasonably valued. Financial stocks are mixed, with insurance outperforming while banks struggle amid tepid loan demand. Energy stocks surged 40% YTD on oil prices but face headwinds as crude may have peaked around $90/barrel. Healthcare stocks are up 21% but appear slightly overvalued at current levels.",
+    "keywords": [
+      "sector ETFs",
+      "technology stocks",
+      "AI earnings",
+      "financial sector",
+      "energy stocks",
+      "oil prices",
+      "healthcare stocks",
+      "2027 outlook"
+    ],
+    "insights": [
+      {
+        "ticker": "XLK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Recent 14% pullback from October highs is viewed as a healthy reset to more reasonable valuations. Forward P/E of just above 20 is considered reasonable, and AI technology still has practical value despite near-term volatility."
+      },
+      {
+        "ticker": "XLF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed performance with insurance stocks performing well due to higher interest rates, while banks struggle with tepid loan demand. Selective approach recommended rather than broad sector investment."
+      },
+      {
+        "ticker": "XLE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "While up 40% YTD, the sector faces headwinds in 2027 as oil prices near $90/barrel resistance level. EIA predicts crude will average around $80 in 2027, and alternatives to oil are expanding, limiting upside potential."
+      },
+      {
+        "ticker": "XLV",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Despite 21% YTD gains, the ETF is slightly overvalued with forward P/E above 22 and overbought technical conditions. Market may be pricing in results unlikely to materialize until 2028, suggesting a pullback is warranted."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Missed third-quarter earnings estimates and issued disappointing guidance, contributing to broader tech sector weakness."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Missed third-quarter earnings estimates and issued disappointing guidance, contributing to broader tech sector weakness."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Missed third-quarter earnings estimates and issued disappointing guidance, contributing to broader tech sector weakness."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Missed third-quarter earnings estimates and issued disappointing guidance, contributing to broader tech sector weakness."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Missed third-quarter estimates or issued disappointing guidance, raising concerns about AI investment returns."
+      },
+      {
+        "ticker": "CVX",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Energy sector headwinds expected in 2027 as oil prices face resistance and alternatives expand, limiting growth prospects."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Leading healthcare sector gains despite being in midst of major drug portfolio overhauls; regulatory uncertainty remains an overhang."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Contributing to healthcare sector's 21% YTD gains despite undergoing major drug portfolio restructuring and regulatory uncertainty."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Part of healthcare sector's strong performance this year, though undergoing major portfolio overhauls with regulatory uncertainty remaining."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks logging only modest gains despite higher interest rates due to tepid loan demand and concerns about future loan losses."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Banking stocks showing only modest gains this year despite higher interest rates, facing headwinds from weak loan demand."
+      }
+    ]
+  },
+  {
+    "id": "52a6bd3576b1e68c473e1f2296d02d845d940a316f55e1f551859be8f588bedc",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Why Is State Street (STT) Up 3.6% Since Last Earnings Report?",
+    "author": "Na",
+    "published_utc": "2026-11-13T15:30:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3029683/why-is-state-street-stt-up-3-6-since-last-earnings-report?cid=CS-ZC-FT-realtime_blog-3029683",
+    "tickers": [
+      "STT",
+      "STTpG",
+      "XLF"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default138.jpg",
+    "description": "State Street Corporation reported Q3 2026 earnings of $3.69 per share, beating the consensus estimate of $3.65, with net income up 28.4% year-over-year. AUC/A and AUM reached record levels of $59.17 trillion and $6.31 trillion respectively. However, total revenues of $4 billion missed the consensus estimate of $4.04 billion. The company raised its 2026 NII guidance to the upper end of 15-16% range but also increased expense guidance to 8-8.5%. State Street holds a Zacks Rank #3 (Hold) rating with an aggregate VGM Score of F.",
+    "keywords": [
+      "earnings beat",
+      "AUM record levels",
+      "revenue miss",
+      "NII guidance raised",
+      "expense guidance increased",
+      "operating leverage",
+      "share repurchase"
+    ],
+    "insights": [
+      {
+        "ticker": "STT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with earnings beat and record AUM levels offset by revenue miss and rising expenses. Positive guidance revisions for NII but increased expense outlook. Stock rated Hold (Rank #3) with poor growth and momentum scores (F ratings), suggesting in-line returns expected in coming months."
+      },
+      {
+        "ticker": "STTpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with earnings beat and record AUM levels offset by revenue miss and rising expenses. Positive guidance revisions for NII but increased expense outlook. Stock rated Hold (Rank #3) with poor growth and momentum scores (F ratings), suggesting in-line returns expected in coming months."
+      },
+      {
+        "ticker": "XLF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with earnings beat and record AUM levels offset by revenue miss and rising expenses. Positive guidance revisions for NII but increased expense outlook. Stock rated Hold (Rank #3) with poor growth and momentum scores (F ratings), suggesting in-line returns expected in coming months."
+      }
+    ]
+  },
+  {
+    "id": "fa1fec0f0a26afb6dbe183231d2b58c0a7e20ce60ecfe689ef6cae5edf2571a2",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Is Invesco S&P 500 Equal Weight Health Care ETF (RSPH) a Strong ETF Right Now?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-11-11T20:39:50Z",
+    "article_url": "https://www.zacks.com/stock/news/3028199/is-invesco-s-p-500-equal-weight-health-care-etf-rsph-a-strong-etf-right-now?cid=CS-ZC-FT-smart_beta_etf-3028199",
+    "tickers": [
+      "PDP",
+      "VDE",
+      "STT",
+      "STTpG",
+      "XLF",
+      "MRNA"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default216.jpg",
+    "description": "RSPH, an equal-weight healthcare ETF managed by Invesco, has delivered strong year-to-date returns of 30.11% and 12-month returns of 36.18% as of November 11, 2026. With $1.04 billion in assets and a 0.40% expense ratio, it provides diversified exposure to 64 healthcare holdings. However, investors seeking lower-cost alternatives may consider VHT (0.09% expense ratio) or XLV (0.08% expense ratio), which track traditional market-cap weighted healthcare indexes.",
+    "keywords": [
+      "healthcare ETF",
+      "equal-weight strategy",
+      "smart beta",
+      "RSPH",
+      "fund performance",
+      "expense ratio",
+      "diversification"
+    ],
+    "insights": [
+      {
+        "ticker": "PDP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "RSPH has delivered strong performance with 30.11% YTD and 36.18% 12-month returns, manages $1.04 billion in assets, and offers competitive 0.40% expense ratio with effective diversification across 64 holdings."
+      },
+      {
+        "ticker": "VDE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "VHT offers a significantly lower expense ratio of 0.09% and manages $21.15 billion in assets, making it an attractive lower-cost alternative for healthcare exposure."
+      },
+      {
+        "ticker": "STT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "XLV provides the lowest expense ratio at 0.08% and manages the largest asset base at $50.74 billion, positioning it as a cost-efficient option for healthcare sector investment."
+      },
+      {
+        "ticker": "STTpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "XLV provides the lowest expense ratio at 0.08% and manages the largest asset base at $50.74 billion, positioning it as a cost-efficient option for healthcare sector investment."
+      },
+      {
+        "ticker": "XLF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "XLV provides the lowest expense ratio at 0.08% and manages the largest asset base at $50.74 billion, positioning it as a cost-efficient option for healthcare sector investment."
+      },
+      {
+        "ticker": "MRNA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "MRNA is mentioned as RSPH's largest holding at 2.31% of assets; no performance assessment or sentiment is provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "3cf4445efe36aa90f06a49c1a202ce761e678da6183e36693fae1fee1e599c6a",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Can State Street Sustain Its Strong Revenue Growth Trajectory?",
+    "author": "Na",
+    "published_utc": "2026-11-05T14:32:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3024499/can-state-street-sustain-its-strong-revenue-growth-trajectory?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3024499",
+    "tickers": [
+      "STT",
+      "STTpG",
+      "XLF",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "C",
+      "CpN",
+      "CpR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e7/2427.jpg",
+    "description": "State Street Corporation reported 15% revenue growth to $11.85 billion in the first nine months of 2026, driven by 18.6% growth in net interest income and 14.4% increase in fee revenues. Record assets under custody/administration ($59.2 trillion) and assets under management ($6.3 trillion) support continued expansion. The company maintains positive operating leverage and expects NII growth of 15-16% for full-year 2026, with medium-term projections of low- to mid-single-digit growth.",
+    "keywords": [
+      "net interest income",
+      "fee revenues",
+      "assets under custody",
+      "assets under management",
+      "operating leverage",
+      "digital assets",
+      "wealth management",
+      "technology transformation"
+    ],
+    "insights": [
+      {
+        "ticker": "STT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth of 15% YoY, record AUC/A and AUM levels, robust NII growth of 18.6%, positive operating leverage, strategic business expansion into digital assets and wealth management, and raised fee revenue guidance to 13-14% for 2026 all indicate solid financial performance and positive growth trajectory."
+      },
+      {
+        "ticker": "STTpG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth of 15% YoY, record AUC/A and AUM levels, robust NII growth of 18.6%, positive operating leverage, strategic business expansion into digital assets and wealth management, and raised fee revenue guidance to 13-14% for 2026 all indicate solid financial performance and positive growth trajectory."
+      },
+      {
+        "ticker": "XLF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong revenue growth of 15% YoY, record AUC/A and AUM levels, robust NII growth of 18.6%, positive operating leverage, strategic business expansion into digital assets and wealth management, and raised fee revenue guidance to 13-14% for 2026 all indicate solid financial performance and positive growth trajectory."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reported solid revenue momentum with 11% NII growth YoY in first nine months of 2026, supported by asset-sensitive balance sheet, loan growth, and strong client activity across investment banking and markets. Full-year 2026 NII guidance of approximately $106.2 billion and continued growth expectations for 2027 demonstrate positive outlook."
+      },
+      {
+        "ticker": "C",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Non-interest revenues increased 10% YoY during first nine months of 2026 with improved investment banking and trading activity. Ongoing organizational restructuring, expansion into private markets, and expected mid-to-high 6% NII growth excluding Markets in 2026 indicate positive momentum and strategic improvements."
+      },
+      {
+        "ticker": "CpN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Non-interest revenues increased 10% YoY during first nine months of 2026 with improved investment banking and trading activity. Ongoing organizational restructuring, expansion into private markets, and expected mid-to-high 6% NII growth excluding Markets in 2026 indicate positive momentum and strategic improvements."
+      },
+      {
+        "ticker": "CpR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Non-interest revenues increased 10% YoY during first nine months of 2026 with improved investment banking and trading activity. Ongoing organizational restructuring, expansion into private markets, and expected mid-to-high 6% NII growth excluding Markets in 2026 indicate positive momentum and strategic improvements."
+      }
+    ]
+  },
+  {
+    "id": "145f530bd5aabf081ff13f3bc6816b62cf45f5791d27098e1f88e12c1d17f1b8",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
+    "author": "Na",
+    "published_utc": "2026-11-04T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3022588/should-you-invest-in-the-ishares-u-s-financial-services-etf-iyg?cid=CS-ZC-FT-sector_etf-3022588",
+    "tickers": [
+      "IYG",
+      "BRK.A",
+      "BRK.B",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "V",
+      "VFH",
+      "XLF"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default163.jpg",
+    "description": "The iShares U.S. Financial Services ETF (IYG) is a passively managed fund tracking the Dow Jones U.S. Financial Services Index with $2.27 billion in assets. It offers a 0.37% expense ratio and 1.08% dividend yield, with top holdings including Berkshire Hathaway (13.64%), JPMorgan Chase, and Visa. Year-to-date performance is 4.27%, with a beta of 0.97 and standard deviation of 17.19%, making it a high-risk option. The fund holds a Zacks ETF Rank of 2 (Buy).",
+    "keywords": [
+      "ETF",
+      "financial services",
+      "passive management",
+      "expense ratio",
+      "dividend yield",
+      "sector exposure"
+    ],
+    "insights": [
+      {
+        "ticker": "IYG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The ETF received a Zacks ETF Rank of 2 (Buy), has competitive expense ratio of 0.37%, substantial assets of $2.27 billion, and provides diversified exposure with 101 holdings. It is described as an 'outstanding option' for investors seeking financials sector exposure."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the largest holding (13.64%) in IYG, but no specific sentiment is expressed about the company itself; it is simply noted as a portfolio component."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the largest holding (13.64%) in IYG, but no specific sentiment is expressed about the company itself; it is simply noted as a portfolio component."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a top holding in IYG, but no specific sentiment or analysis is provided about the company."
+      },
+      {
+        "ticker": "VFH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative ETF option with lower expense ratio (0.09%) and higher assets ($13.56 billion), but no comparative sentiment judgment is made."
+      },
+      {
+        "ticker": "XLF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative ETF option with the lowest expense ratio (0.08%) and highest assets ($53.23 billion), but no comparative sentiment judgment is made."
+      }
+    ]
+  }
+]

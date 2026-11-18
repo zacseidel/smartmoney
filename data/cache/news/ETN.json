@@ -1,406 +1,291 @@
 [
   {
-    "id": "6be1b87efadaef6a3d075d7551a77f77f6dc8720acdc9d0548e4bbbfb172343f",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "VWDRY vs. ETN: Which Stock Is the Better Value Option?",
-    "author": "Na",
-    "published_utc": "2026-09-07T15:40:02Z",
-    "article_url": "https://www.zacks.com/stock/news/2985948/vwdry-vs-etn-which-stock-is-the-better-value-option?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2985948",
-    "tickers": [
-      "VWDRY",
-      "ETN"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default78.jpg",
-    "description": "In a comparison of two Manufacturing - Electronics stocks, Vestas Wind Systems AS (VWDRY) emerges as the more attractive value investment option compared to Eaton (ETN). VWDRY holds a Zacks Rank #2 (Buy) with a Value grade of B, featuring a forward P/E of 20.41 and PEG ratio of 0.80. ETN, ranked #3 (Hold) with a Value grade of F, has a forward P/E of 30.34 and PEG ratio of 2.60, indicating less favorable valuation metrics.",
-    "keywords": [
-      "value investing",
-      "P/E ratio",
-      "PEG ratio",
-      "Zacks Rank",
-      "valuation metrics",
-      "manufacturing",
-      "electronics"
-    ],
-    "insights": [
-      {
-        "ticker": "VWDRY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "VWDRY has a superior Zacks Rank #2 (Buy) indicating improving earnings estimate revisions, a Value grade of B, lower forward P/E ratio (20.41 vs 30.34), and a more favorable PEG ratio (0.80 vs 2.60), making it the more attractive value investment option."
-      },
-      {
-        "ticker": "ETN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "ETN has a lower Zacks Rank #3 (Hold), a poor Value grade of F, higher forward P/E ratio (30.34), and unfavorable PEG ratio (2.60), indicating it is less attractive for value investors compared to VWDRY."
-      }
-    ]
-  },
-  {
-    "id": "044ec0495fadb07fa4e9d33ee05bda52a741a0d21f6295fc393ec428b3910362",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant",
-    "author": "Na",
-    "published_utc": "2026-09-04T18:05:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2985454/eaton-to-boost-u-s-power-capacity-with-242m-arkansas-plant?cid=CS-ZC-FT-analyst_blog|quick_take-2985454",
-    "tickers": [
-      "ETN",
-      "ROK",
-      "VRT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/84/376.jpg",
-    "description": "Eaton Corporation plans to invest over $242 million in a new one-million-square-foot manufacturing facility in North Little Rock, Arkansas to double U.S. Fibrebond capacity and create 1,200 jobs. The expansion supports strong demand in critical-power infrastructure, with Electrical Americas reporting 18% organic sales growth, 41% order growth, and 33% backlog growth in Q2 2026. The facility will help address capacity constraints and deepen exposure to AI infrastructure and grid modernization.",
-    "keywords": [
-      "manufacturing expansion",
-      "critical-power infrastructure",
-      "data center capacity",
-      "AI infrastructure",
-      "electrical enclosures",
-      "grid modernization",
-      "electrification"
-    ],
-    "insights": [
-      {
-        "ticker": "ETN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong organic sales growth (18%), significant order increases (41%), growing backlog (33%), major capital investment ($242M) to expand capacity, raised 2026 guidance to 11-13%, and strategic positioning in high-growth AI infrastructure and grid modernization markets."
-      },
-      {
-        "ticker": "ROK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer company planning similar manufacturing expansion in Wisconsin, but no specific performance metrics or strategic details provided to indicate positive or negative sentiment."
-      },
-      {
-        "ticker": "VRT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer company investing in power architectures and thermal systems for AI deployments, but no specific financial performance or strategic outcomes provided."
-      }
-    ]
-  },
-  {
-    "id": "c47137a81a1b1515213686ede2a5418043615f5d837af0ba24cb275a0ac4367f",
+    "id": "68ebc8a33dbc7107ded4b4ae70807e6bace1c36adb50b3b96c95d908f356543b",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Every Hyperscaler Raised Capex Again. These 3 Boring Industrials Get Paid No Matter Who Wins the AI Race.",
-    "author": "Patrick Sanders",
-    "published_utc": "2026-09-04T11:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/04/every-hyperscaler-raised-capex-again-these-3-borin/?source=iedfolrf0000001",
+    "title": "Eaton vs. Corning: Which Industrials Stock Is a Better Buy for 2027?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-11-18T04:01:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/11/17/eaton-vs-corning-which-industrials-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
     "tickers": [
-      "CAT",
       "ETN",
-      "VRT",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "AMZN",
+      "GLW",
+      "AAPL",
       "META",
-      "NVDA"
+      "METAM",
+      "NVDA",
+      "AMZN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F885846%2Fcat_machine_with_logo_cat.jpg&w=1200&op=resize",
-    "description": "Major tech companies (Alphabet, Amazon, Meta) are significantly increasing capital expenditures for AI infrastructure. Rather than betting on which tech company will succeed, investors can gain exposure to the AI boom through industrial companies that supply essential infrastructure\u2014power generation, electrical systems, and cooling hardware\u2014regardless of which tech platform dominates.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3bdb062a10e0c4b812c1bd8e01e0a96ae1367fb2-6000x4000.jpg&w=1200&op=resize",
+    "description": "The article compares Eaton Corp. and Corning Inc. as potential industrial stock investments for 2027. Eaton, with 10% revenue growth and a lower P/E ratio of 33.67, benefits from electrification and data center trends with strong order backlogs. Corning, showing 19% revenue growth and ambitious plans to reach $40 billion in sales by 2030 through AI data center deals, trades at a premium P/E of 43.06 but offers greater long-term growth potential. The author ultimately favors Corning for 2027 despite its higher valuation.",
     "keywords": [
-      "AI infrastructure",
-      "capital expenditure",
-      "data centers",
-      "power generation",
-      "cooling systems",
       "industrial stocks",
-      "hyperscalers"
+      "power management",
+      "materials science",
+      "electrification",
+      "data centers",
+      "fiber optics",
+      "valuation comparison",
+      "revenue growth",
+      "customer concentration risk"
     ],
     "insights": [
       {
-        "ticker": "CAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (24% YoY) with power generation segment up 72% due to data center demand. Stock up 91% in past 12 months. Positioned as key AI infrastructure supplier with natural gas generators for data centers."
-      },
-      {
         "ticker": "ETN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Provides essential power distribution and circuit protection for data centers. Revenue growth of 21% YoY ($8.53B vs $7.02B). Benefits from increasing power demands as AI clusters now consume up to 500 MW. Stock up 13% in past year."
+        "sentiment_reasoning": "Strong execution on electrification megatrends, record backlogs, 28% Q3 sales growth, 12-year data center order backlog, and expected 20%+ sales growth in 2026 with 12% growth projected for 2027. Lower valuation (P/E 33.67) provides conservative entry point."
       },
       {
-        "ticker": "VRT",
+        "ticker": "GLW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Specialized power and cooling hardware for data centers with custom solutions for Nvidia's Vera Rubin architecture. Revenue up 24% YoY to $3.27B with net income up 54%. Stock up 115% in past year, indicating strong market recognition."
+        "sentiment_reasoning": "Impressive 19% revenue growth, 60% net income increase in Q3 2026, major deals with Meta, Nvidia, and Amazon for AI data centers, ambitious Springboard program targeting $40 billion sales by 2030, and reduced Apple dependency through new AI customers. Author's preferred choice despite premium valuation."
       },
       {
-        "ticker": "GOOG",
+        "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Raised capex forecast from $185B to $200B for AI infrastructure. Facing investor pressure in 'show me' phase of AI where spending must demonstrate results. Mentioned as subject of uncertainty rather than recommendation."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Increased capex from $200B to $220B for AI data centers. Facing similar investor scrutiny as other hyperscalers regarding AI spending returns. Mentioned as subject of uncertainty rather than recommendation."
+        "sentiment_reasoning": "Mentioned as a major customer of Corning for iPhone glass and advanced cover materials, representing concentration risk for Corning's business."
       },
       {
         "ticker": "META",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Issuing new debt to fund AI ambitions. Facing investor pressure during 'show me' phase of AI. Mentioned as subject of uncertainty rather than recommendation."
+        "sentiment_reasoning": "Mentioned as a recent customer of Corning for AI data center fiber optics deals, supporting Corning's growth strategy."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a recent customer of Corning for AI data center fiber optics deals, supporting Corning's growth strategy."
       },
       {
         "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as beneficiary of AI infrastructure spending through its Vera Rubin architecture that Vertiv designs solutions for. Not directly analyzed in the article."
+        "sentiment_reasoning": "Mentioned as a recent customer of Corning for AI data center connectivity solutions."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a recent customer of Corning through AWS division for AI data center infrastructure."
       }
     ]
   },
   {
-    "id": "d5d5e4f754c39a530f80e73214186b15f30871d53ca31d68b8b3981e11a40ff3",
+    "id": "0fdf16a1102adcac5867e60460c4c7254e8dbecca8319113823ea5a272247aee",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Should You Invest in the iShares U.S. Power Infrastructure ETF (POWR)?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-03T10:20:01Z",
-    "article_url": "https://www.zacks.com/stock/news/2984160/should-you-invest-in-the-ishares-u-s-power-infrastructure-etf-powr?cid=CS-ZC-FT-sector_etf-2984160",
+    "title": "3 AI Infrastructure Stocks to Buy Hand Over Fist if the Market Pulls Back",
+    "author": "Micah Zimmerman",
+    "published_utc": "2026-11-17T18:45:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/3-ai-infrastructure-stocks-to-buy-hand-over-fist-if-the-market-pulls-back/?source=iedfolrf0000001",
     "tickers": [
-      "POWR",
-      "GRID",
-      "PAVE",
-      "GEV",
       "ETN",
-      "PWR"
+      "GLW",
+      "EME",
+      "NVDA"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default254.jpg",
-    "description": "The iShares U.S. Power Infrastructure ETF (POWR) received a Zacks ETF Rank of 4 (Sell), indicating it is not the best option for investors seeking utilities/infrastructure exposure. The ETF has gained 8.56% year-to-date with a 5.94% dividend yield and 0.39% expense ratio, but analysts recommend alternatives like GRID and PAVE as better choices in the space.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fab523b40f3535bf7431546cc0466bbf791f86fd6-1439x725.png&w=1200&op=resize",
+    "description": "Despite recent market volatility and AI stock selloffs, three infrastructure companies supporting the data center boom\u2014Eaton, Corning, and Emcor\u2014reported record quarters with strong outlooks. All three trade significantly below 52-week highs, presenting buying opportunities as their order books and contracts indicate continued growth well into 2027.",
     "keywords": [
-      "ETF",
-      "utilities",
-      "infrastructure",
-      "power",
-      "dividend yield",
-      "expense ratio",
-      "passive management"
+      "AI infrastructure",
+      "data centers",
+      "market pullback",
+      "electrical equipment",
+      "optical fiber",
+      "construction services",
+      "order backlog"
     ],
     "insights": [
       {
-        "ticker": "POWR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Assigned a Zacks ETF Rank of 4 (Sell) and explicitly stated as 'not the best option' for investors seeking utilities/infrastructure exposure, with better alternatives recommended."
-      },
-      {
-        "ticker": "GRID",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a better alternative to POWR with significantly larger assets ($11.63 billion) and comparable expense ratio (0.56%)."
-      },
-      {
-        "ticker": "PAVE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a better alternative to POWR with larger assets ($13.39 billion) and lower expense ratio (0.47%)."
-      },
-      {
-        "ticker": "GEV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as the largest holding in POWR at 7.21% of assets; no sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "ETN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in POWR; no sentiment expressed about the company itself."
-      },
-      {
-        "ticker": "PWR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a top holding in POWR; no sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "6bad3ffb5b498aac55f84b9c76fcec2f06b5cfa269eb1d13e603b59f464be237",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
-    "author": "Mark Vickery",
-    "published_utc": "2026-08-31T20:10:00Z",
-    "article_url": "https://www.zacks.com/commentary/2982568/top-analyst-reports-for-microsoft-intel-bank-of-america?cid=CS-ZC-FT-research_daily-2982568",
-    "tickers": [
-      "MSFT",
-      "INTC",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "AXR",
-      "UBCP",
-      "ETN",
-      "UAL",
-      "EME"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e6/86.jpg",
-    "description": "Zacks Research Daily features analysis of 16 major stocks on August 31, 2026. Microsoft benefits from AI momentum and Azure growth but faces capacity constraints. Intel shows strong recovery with AI roadmap expansion but confronts supply constraints and competition. Bank of America outperforms with earnings beats and NII growth, though elevated expenses and weak asset quality are concerns. Additional coverage includes microcap stocks AMREP and United Bancorp, plus analysis of Eaton, United Airlines, and EMCOR.",
-    "keywords": [
-      "stock analysis",
-      "AI momentum",
-      "cloud infrastructure",
-      "semiconductor recovery",
-      "banking sector",
-      "earnings",
-      "capacity constraints",
-      "competitive pressure"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong outperformance vs. industry (+1.4% vs. -6.2%), AI business momentum, Copilot adoption, and 43% Azure cloud growth offset by capacity constraints and regulatory scrutiny."
-      },
-      {
-        "ticker": "INTC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significant outperformance (+273.8% vs. +29.7%), manufacturing recovery, balanced AI roadmap across multiple markets, and advanced product portfolio support long-term growth despite near-term supply constraints."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformance vs. industry (+25.4% vs. +24.4%), consistent earnings beats, expected NII growth, and digital expansion strategy offset by elevated expenses and weak asset quality concerns."
-      },
-      {
-        "ticker": "AXR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Outperformance vs. real estate development industry (+9.7% vs. -24.2%) supported by homebuilding growth and land bank, but housing affordability pressures, limited visibility, and geographic concentration present balanced risks."
-      },
-      {
-        "ticker": "UBCP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Outperformance vs. Midwest banks (+17.2% vs. +2.3%) with margin expansion and deposit growth, but weakening credit quality, rising nonperforming loans, and CRE concentration risks create balanced outlook."
-      },
-      {
         "ticker": "ETN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Global operations across 175+ countries with ongoing R&D investments support continued demand and profitability growth."
+        "sentiment_reasoning": "Data center revenue rose 65% last quarter with orders more than doubling. Operating margins improved significantly, capacity expansion projects are 72% complete, and management raised full-year guidance for the third time. Stock trades 26% below 52-week high."
       },
       {
-        "ticker": "UAL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Increased air-travel demand aids top-line performance, but rising labor costs weigh on profitability."
+        "ticker": "GLW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Optical fiber sales jumped 44% to $2.38B with AI product sales more than doubling. Signed four multibillion-dollar long-term customer deals that share capacity costs. Generated $2.27B in adjusted free cash flow while expanding. Stock trades 58% below 52-week high with expected 36% earnings growth."
       },
       {
         "ticker": "EME",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong data center demand, record RPOs, disciplined execution, acquisitions, and raised guidance support positive growth outlook."
+        "sentiment_reasoning": "Record remaining performance obligations of $18.57B, up 47% year-over-year, driven by data center work. Data center mechanical revenue more than doubled. Raised 2026 guidance, added $500M buyback authorization, and acquired P1 Construction with minimal debt. Stock trades 31% below 52-week high."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as context for market volatility (CEO resignation on Nov. 12) but not the focus of the article. The author specifically notes the three recommended stocks don't depend on which chip wins."
+      }
+    ]
+  },
+  {
+    "id": "e24558e903c86c5e4a982e5b908aee482ad5873382711956ca07dd86044461fc",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Eaton vs. Vertiv: Which Industrials Stock Is a Better Buy for 2027?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-11-17T13:28:01Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/11/17/eaton-vs-vertiv-which-industrials-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
+    "tickers": [
+      "ETN",
+      "VRT",
+      "MSFT",
+      "AMZN",
+      "SBGSY",
+      "LGRDY"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0e7d469a08b3b32fe97f8f0d41d36f7403f11c2f-2334x1284.jpg&w=1200&op=resize",
+    "description": "Eaton and Vertiv are both industrial companies benefiting from electrification and AI-driven data center demand. Eaton, a diversified power management giant with $27.4B in FY2025 revenue, offers more stability with lower valuations. Vertiv, a specialized cooling and power systems provider, shows stronger growth with 27.7% revenue growth and 44% projected 2026 growth, but carries higher valuation multiples. The article concludes Eaton edges out as the better buy for 2027 due to slightly cheaper P/E and P/S ratios, though both present compelling opportunities.",
+    "keywords": [
+      "industrials stocks",
+      "electrification",
+      "data centers",
+      "AI infrastructure",
+      "power management",
+      "cooling systems",
+      "valuation comparison",
+      "growth prospects"
+    ],
+    "insights": [
+      {
+        "ticker": "ETN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong diversified business with $27.4B revenue, 10.3% YoY growth, solid 14.9% net margin, moderate debt levels (0.6x D/E), record backlogs extending 12 years, Q3 2026 sales up 28%, and lower valuation multiples (P/E 25.8x, P/S 4.3x) make it the article's recommended choice for 2027."
+      },
+      {
+        "ticker": "VRT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Exceptional growth profile with 27.7% FY2025 revenue growth, 44% projected 2026 growth, strong positioning in AI data center cooling market, strategic partnerships with Microsoft and Amazon, and 13% net margin. However, higher valuations (P/E 35.29x, P/S 5.7x) and concentration risk in data center spending limit it as a secondary choice."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent hyperscale customer of Vertiv; no independent analysis provided regarding Microsoft's investment merit."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a prominent hyperscale customer of Vertiv; no independent analysis provided regarding Amazon's investment merit."
+      },
+      {
+        "ticker": "SBGSY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor to Vertiv in power and cooling solutions; mentioned only as a competitive threat without independent valuation or performance analysis."
+      },
+      {
+        "ticker": "LGRDY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor to Vertiv in power and cooling solutions; mentioned only as a competitive threat without independent valuation or performance analysis."
+      }
+    ]
+  },
+  {
+    "id": "1c0d4d7ff81fb09f7daa276226e6580b11c46da29ccc123b971710265113ca9b",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Why a Data Center Slowdown Would Reach Utilities and Electrical Suppliers Before Chipmakers",
+    "author": "Manali Pradhan, Cfa",
+    "published_utc": "2026-11-17T12:33:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/why-a-data-center-slowdown-would-reach-utilities-a/?source=iedfolrf0000001",
+    "tickers": [
+      "AEP",
+      "ETN",
+      "NVDA",
+      "MSFT"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893493%2Fanalyst_smiling_and_studying_on_a_laptop.jpg&w=1200&op=resize",
+    "description": "Recent voter restrictions on data center development in 40 of 41 local ballot contests could delay construction projects, affecting utilities and electrical equipment suppliers before impacting chipmakers. Utilities like American Electric Power may need to postpone infrastructure investments, while electrical suppliers with strong order backlogs could weather near-term weakness. Chipmakers like Nvidia may continue benefiting from existing data center upgrades, though prolonged delays pose longer-term risks.",
+    "keywords": [
+      "data center slowdown",
+      "construction delays",
+      "utilities infrastructure",
+      "electrical equipment suppliers",
+      "chipmaker demand",
+      "voter restrictions",
+      "electricity capacity",
+      "order backlogs"
+    ],
+    "insights": [
+      {
+        "ticker": "AEP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Data center construction delays would postpone AEP's planned $100 billion infrastructure investments through 2031, slowing future earnings growth and reducing rate base expansion opportunities, though current electricity sales to existing customers would be less immediately affected."
+      },
+      {
+        "ticker": "ETN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Strong backlog of $26.2 billion with 72% targeted for delivery within 12 months provides near-term revenue protection despite potential slowdown in new data center orders. However, prolonged weakness could eventually pressure earnings growth and valuation at 26x expected 2026 earnings."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Chipmakers may avoid immediate impact as customers continue upgrading existing facilities and installing chips at alternative locations. However, prolonged construction delays could eventually affect chip demand if data center capacity constraints persist, creating risks around Nvidia's $279 billion in supply commitments."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Microsoft's recent $45.2 billion capital expenditure (75% on chips and hardware) demonstrates continued strong chip spending despite data center construction delays, suggesting resilience in near-term demand for semiconductor purchases."
+      }
+    ]
+  },
+  {
+    "id": "699867f365075965bd0e1580d1220c979205d0e08c1f92dbce7af98b4985d968",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Eaton Stock Declines More Than 7% in 6 Months: Time to Buy the Dip?",
+    "author": "Na",
+    "published_utc": "2026-11-16T17:01:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030604/eaton-stock-declines-more-than-7-in-6-months-time-to-buy-the-dip?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3030604",
+    "tickers": [
+      "ETN",
+      "EMR",
+      "POWL"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0c/69402.jpg",
+    "description": "Eaton Corporation (ETN) has underperformed its industry by 7.6% over six months due to margin pressures and premium valuation concerns, despite raising 2026 organic growth guidance to 13%-15% and adjusted EPS guidance to $13.70-$13.80. The company benefits from data center demand, strategic acquisitions, and capacity expansions, but analysts recommend a wait-and-see approach given the elevated valuation.",
+    "keywords": [
+      "Eaton Corporation",
+      "power management",
+      "data center demand",
+      "margin compression",
+      "valuation concerns",
+      "organic growth",
+      "strategic acquisitions",
+      "grid modernization",
+      "aerospace demand"
+    ],
+    "insights": [
+      {
+        "ticker": "ETN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While Eaton demonstrates strong structural growth drivers (data center expansion, grid modernization, AI demand) and raised guidance multiple times, the stock's premium valuation (22.30X forward P/E) and recent 7.6% underperformance warrant caution. The Zacks Rank #3 (Hold) rating reflects balanced growth prospects offset by valuation risks."
+      },
+      {
+        "ticker": "EMR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Emerson Electric gained 22.5% over six months, outperforming the industry average of 0.2%, indicating positive market sentiment and stronger relative performance compared to peers."
+      },
+      {
+        "ticker": "POWL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Powell Industries declined 42.5% over six months, significantly underperforming both the industry and peers, indicating substantial negative market sentiment."
       }
     ]
   }

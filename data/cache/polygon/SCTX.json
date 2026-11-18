@@ -1,0 +1,33 @@
+{
+  "ticker": "SCTX",
+  "name": "Scribe Therapeutics Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001853921",
+  "composite_figi": "BBG00RR3PF94",
+  "share_class_figi": "BBG00RR3PFD9",
+  "market_cap": 298644674.63,
+  "phone_number": "510-454-0213",
+  "address": {
+    "address1": "1150 MARINA VILLAGE PKWY",
+    "city": "ALAMEDA",
+    "state": "CA",
+    "postal_code": "94501"
+  },
+  "description": "Scribe Therapeutics Inc is a clinical-stage biotechnology company engaged in the development of in vivo CRISPR-based genetic medicines. Its research and development activities focus on cardiovascular and metabolic diseases, including atherosclerotic cardiovascular disease (ASCVD). The company's product pipeline includes STX-1150, a CRISPR-based product candidate that utilizes its ELXR epigenetic silencing technology.",
+  "sic_code": "2836",
+  "sic_description": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
+  "ticker_root": "SCTX",
+  "homepage_url": "https://www.scribetx.com",
+  "list_date": "2026-07-24",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2NyaWJldHguY29t/images/2026-11-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/c2NyaWJldHguY29t/images/2026-11-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 18937519,
+  "round_lot": 100
+}

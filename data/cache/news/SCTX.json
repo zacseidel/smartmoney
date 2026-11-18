@@ -1,0 +1,49 @@
+[
+  {
+    "id": "3b0a235d0b21cdd327fd9d94ab50b671399b9a362727c7153cf12b292259e085",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Cathie Wood Bought Just 3 Stocks On Monday; Here They Are",
+    "author": "Rick Munarriz",
+    "published_utc": "2026-11-10T08:41:07Z",
+    "article_url": "https://www.fool.com/investing/2026/11/10/cathie-wood-bought-just-3-stocks-on-monday-here-they-are/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "SOFI",
+      "SCTX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F4f433629abda9ac132394cc96cf13948bc461359-1280x854.jpg&w=1200&op=resize",
+    "description": "Cathie Wood's Ark Invest made selective purchases on Monday, adding to positions in Nvidia, SoFi Technologies, and Scribe Therapeutics despite a generally bullish market day. Nvidia faced headwinds from a spy scandal investigation involving CEO Jensen Huang but remains attractively valued. SoFi showed strong fundamentals with 35% member growth and 44% revenue increase, though it's down 41% over the past year. Scribe Therapeutics, a gene-editing biotech, has sufficient cash runway through early 2029.",
+    "keywords": [
+      "Cathie Wood",
+      "Ark Invest",
+      "stock purchases",
+      "growth stocks",
+      "gene editing",
+      "fintech",
+      "AI",
+      "valuation"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Despite a 4% decline due to CEO scandal investigation, the stock is attractively valued at 11.2x forward earnings with expected 90% revenue/earnings growth. However, the investigation creates uncertainty about leadership and business relationships, offsetting the positive valuation metrics."
+      },
+      {
+        "ticker": "SOFI",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong operational metrics with 35% member growth to 17.1 million, 44% revenue growth, and accelerating bottom-line growth with raised guidance. Trading at reasonable valuation multiples. Despite 41% decline over past year, fundamentals support future growth potential."
+      },
+      {
+        "ticker": "SCTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Early-stage gene-editing biotech with promising proprietary ELXR platform and strong balance sheet funding operations through early 2029. However, it remains a long-term speculative play dependent on scientific validation, with 22% decline over the past year."
+      }
+    ]
+  }
+]

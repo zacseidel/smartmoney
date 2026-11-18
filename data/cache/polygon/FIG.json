@@ -1,0 +1,35 @@
+{
+  "ticker": "FIG",
+  "name": "Figma, Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001579878",
+  "composite_figi": "BBG00BLZ2CD1",
+  "share_class_figi": "BBG00BLZ2CF9",
+  "market_cap": 9737832446.64,
+  "phone_number": "415-890-5404",
+  "address": {
+    "address1": "760 MARKET ST.",
+    "address2": "FLOOR 5",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "postal_code": "94102"
+  },
+  "description": "Figma provides software solutions for design-related workflows. Since its founding in 2015, the company has introduced a variety of products and established an end-to-end platform for software design and product development. The firm's original and most important solution, Figma Design, was built as a collaborative tool to bring together designers and engineers in a real-time, multiple-simultaneous-editor workspace. Figma is headquartered in San Francisco, California, and completed its IPO in July 2025.",
+  "sic_code": "7372",
+  "sic_description": "SERVICES-PREPACKAGED SOFTWARE",
+  "ticker_root": "FIG",
+  "homepage_url": "https://www.figma.com",
+  "total_employees": 1886,
+  "list_date": "2025-07-31",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/ZmlnbWEuY29t/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/ZmlnbWEuY29t/images/2026-11-01_icon.png"
+  },
+  "weighted_shares_outstanding": 535634348,
+  "round_lot": 100
+}

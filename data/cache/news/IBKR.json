@@ -1,298 +1,253 @@
 [
   {
-    "id": "e0b985e145394bc62dcd00be22c85fa0f08ae63c4f468a0ac8a48d0793e6c869",
+    "id": "cbaf3d4daa93f15a036391bca608383c3718a71bbf0a35da06b2ee31227a6fe8",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Interactive Brokers Stock Has Turned $10,000 Into About $100,000 in 10 Years",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-25T15:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/interactive-brokers-stock-has-turned-10000-into-ab/?source=iedfolrf0000001",
+    "title": "Will Senators' Pushback Derail Robinhood's Prediction-Market Growth?",
+    "author": "Na",
+    "published_utc": "2026-11-17T11:13:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030850/will-senators-pushback-derail-robinhood-s-prediction-market-growth?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3030850",
     "tickers": [
-      "IBKR",
       "HOOD",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
+      "IBKR",
+      "CME",
+      "FLUT"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887642%2F23_07_04-a-scale-showing-risk-from-low-to-high-with-the-pointer-on-the-dial-on-high-_mf-dload.jpg&w=1200&op=resize",
-    "description": "Interactive Brokers has delivered impressive 10-year returns, with a $10,000 investment growing to ~$100,000, driven by surging customer accounts (up 34% YoY) and increased risk-taking including crypto and prediction markets. However, the article warns that this growth is unsustainable, as it's fueled by a bull market and elevated margin debt (up 67% YoY). When the inevitable bear market arrives, the company's business will struggle as investors reduce risk exposure.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/1c/7999.jpg",
+    "description": "Nine Democratic senators urged the CFTC to withdraw a directive on geographic restrictions for prediction-market trading, citing conflicts with court orders and state gaming laws. Despite regulatory challenges, Robinhood's prediction markets business showed strong growth with October event-contract volume surging 136% year-over-year to 5.9 billion contracts. The regulatory dispute could complicate expansion plans for Robinhood and other prediction-market players, though immediate trading operations remain unaffected.",
     "keywords": [
-      "discount broker",
-      "bull market",
-      "margin debt",
-      "cryptocurrency trading",
       "prediction markets",
-      "risk-taking",
-      "bear market",
-      "customer growth"
+      "regulatory uncertainty",
+      "CFTC directive",
+      "event contracts",
+      "geographic restrictions",
+      "prediction-market expansion"
     ],
     "insights": [
       {
-        "ticker": "IBKR",
-        "sentiment": "negative",
-        "sentiment_reasoning": "While the company shows strong near-term metrics (customer growth, margin loans), the article warns that current success is unsustainable and dependent on a bull market. The author explicitly cautions that the stock will likely struggle when market conditions reverse, making the long-term outlook concerning despite impressive historical returns."
-      },
-      {
         "ticker": "HOOD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as a competitive peer in the discount brokerage space with no specific analysis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Strong operational growth (136% YoY volume increase) is offset by significant regulatory headwinds from the CFTC directive and congressional pressure. Stock down 21.3% in three months. Uncertainty about future expansion prospects and compliance costs temper positive momentum."
       },
       {
-        "ticker": "SCHW",
+        "ticker": "IBKR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
+        "sentiment_reasoning": "Mentioned as a competitor in prediction markets facing similar regulatory challenges. No specific operational data provided, but exposure to the same jurisdictional disputes and potential geographic restrictions poses risks to expansion plans."
+      },
+      {
+        "ticker": "CME",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Partnered with Flutter Entertainment for event contracts through FanDuel Predicts. Faces similar regulatory uncertainties and potential geographic restrictions that could hinder expansion and increase compliance costs."
+      },
+      {
+        "ticker": "FLUT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Partnered with CME Group for prediction markets offerings. Subject to the same regulatory challenges and jurisdictional disputes affecting the broader prediction-markets industry."
+      }
+    ]
+  },
+  {
+    "id": "4f2659da9b23a9573f5a8a7d0fe1d26d2b1b21915bfbdaf2738a30d1e0ff9309",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "SCHW Client Assets Hit $13.27T in October: Will the Momentum Continue?",
+    "author": "Zacks.Com",
+    "published_utc": "2026-11-16T14:56:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030421/schw-client-assets-hit-13-27t-in-october-will-the-momentum-continue?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3030421",
+    "tickers": [
+      "SCHW",
+      "SCHWpD",
+      "SCHWpJ",
+      "HOOD",
+      "IBKR"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ac/1026.jpg",
+    "description": "Charles Schwab reported strong October 2026 results with client assets reaching $13.27 trillion (up 12% YoY) and record core net new assets of $66.5 billion. The company opened 409,000 new brokerage accounts and saw daily average trades jump 23% to 10.6 million. However, rising expenses and AI-enabled fintech competition pose challenges ahead. Management expects 2026 net interest margin toward the lower end of its 3.00%-3.10% guidance range.",
+    "keywords": [
+      "client assets",
+      "net new assets",
+      "brokerage accounts",
+      "trading activity",
+      "margin balances",
+      "net interest margin",
+      "fintech competition",
+      "wealth management"
+    ],
+    "insights": [
+      {
+        "ticker": "SCHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record October NNA of $66.5 billion (up 50% YoY), client assets at $13.27T (up 12% YoY), 409,000 new accounts opened, and robust trading activity (23% increase in daily average trades) demonstrate strong momentum. However, sentiment is tempered by rising expenses and competitive pressures from fintech."
       },
       {
         "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record October NNA of $66.5 billion (up 50% YoY), client assets at $13.27T (up 12% YoY), 409,000 new accounts opened, and robust trading activity (23% increase in daily average trades) demonstrate strong momentum. However, sentiment is tempered by rising expenses and competitive pressures from fintech."
       },
       {
         "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned only as an industry competitor with no specific analysis or sentiment expressed about the company itself."
-      }
-    ]
-  },
-  {
-    "id": "194890dd01e408941a1f5b278a1d5b634a2a8951320ded5183cfc17a4b60c1cc",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "I've Covered Stocks for 10 Years. This Is the Single Best Way a New Investor Should Start.",
-    "author": "Brett Schafer",
-    "published_utc": "2026-09-24T21:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/24/ive-covered-stocks-for-10-years-this-is-the-single/?source=iedfolrf0000001",
-    "tickers": [
-      "HOOD",
-      "IBKR",
-      "AAPL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887695%2Fcompound-interest.png&w=1200&op=resize",
-    "description": "A stock market analyst recommends a straightforward approach for new investors: open a zero-fee brokerage account, start with 10 familiar stocks, maintain balanced diversification, and use dollar-cost averaging to mitigate timing risk. The strategy emphasizes long-term wealth building over decades rather than quick gains.",
-    "keywords": [
-      "stock investing",
-      "beginner investors",
-      "zero-fee brokerage",
-      "diversification",
-      "dollar-cost averaging",
-      "portfolio construction",
-      "long-term investing"
-    ],
-    "insights": [
+        "sentiment": "positive",
+        "sentiment_reasoning": "Record October NNA of $66.5 billion (up 50% YoY), client assets at $13.27T (up 12% YoY), 409,000 new accounts opened, and robust trading activity (23% increase in daily average trades) demonstrate strong momentum. However, sentiment is tempered by rising expenses and competitive pressures from fintech."
+      },
       {
         "ticker": "HOOD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a recommended zero-fee brokerage option for new investors, positioning it as a suitable platform for cost-effective stock trading."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed results with platform assets up 12% YoY to $383.2B and strong growth in prediction markets (136% surge), but crypto trading volume declined 48%, indicating uneven performance across product categories."
       },
       {
         "ticker": "IBKR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended alongside Robinhood as a zero-fee brokerage option; author holds positions in the company, indicating confidence in the platform."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Used as an example of a well-known company suitable for beginner investors to start with; mentioned illustratively rather than as an investment recommendation."
+        "sentiment_reasoning": "Strong client equity growth of 19% YoY to $928.6B, margin loan balances up 31%, and account adoption surging 34% YoY to 5.68 million demonstrate robust expansion, though daily average revenue trades declined 4% YoY."
       }
     ]
   },
   {
-    "id": "ee12d34d903387dd8888c00770dc93fed4f76c1514d1f22bf098c4fbac7bbbab",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Top Research Reports for Micron, Costco & Interactive Brokers",
-    "author": "Mark Vickery",
-    "published_utc": "2026-09-23T21:07:00Z",
-    "article_url": "https://www.zacks.com/commentary/2994124/top-research-reports-for-micron-costco-interactive-brokers?cid=CS-ZC-FT-research_daily-2994124",
-    "tickers": [
-      "MU",
-      "COST",
-      "IBKR",
-      "CPHC",
-      "STRN",
-      "SWAG",
-      "SWAGW",
-      "STX",
-      "ENTG",
-      "PAG"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b7/15465.jpg",
-    "description": "Zacks Research Daily highlights strong performance across multiple sectors on September 23, 2026. Micron Technology leads with 284.3% YTD gains driven by AI-demand for memory and storage, though rising costs and competition pose risks. Costco maintains steady growth through its membership model and digital expansion. Interactive Brokers outperforms the financial sector with 43.3% YTD gains, benefiting from its diversified product platform. Smaller players like Canterbury Park and Stran & Company show mixed results with strategic pivots toward diversified business models.",
-    "keywords": [
-      "AI-driven demand",
-      "memory and storage",
-      "membership model",
-      "digital ecosystem",
-      "microcap stocks",
-      "data center growth",
-      "earnings outperformance"
-    ],
-    "insights": [
-      {
-        "ticker": "MU",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 284.3% YTD outperformance driven by AI-demand for memory/storage, record Q3 results, stronger Q4 outlook, and strategic customer agreements. However, balanced risk-reward due to rising operating expenses and competition."
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Well-positioned with differentiated membership model, strong customer loyalty, high renewal rates, and digital ecosystem enhancements. Steady 4.8% YTD gains with long-term growth support from strong balance sheet."
-      },
-      {
-        "ticker": "IBKR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Outperformed industry with 43.3% YTD gains, beat earnings estimates in 3 of 4 quarters, benefits from widening product set and automated platform. Global reach and conservative balance sheet support competitive positioning."
-      },
-      {
-        "ticker": "CPHC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap with 2.5% YTD outperformance supported by diversified business model shift and real estate expansion. Improving table-games activity and reduced purse-funding obligations provide support, but execution risks remain."
-      },
-      {
-        "ticker": "STRN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap with -4.2% YTD decline facing tariff volatility and execution demands. Supported by improving profitability, scalable acquisition strategy, and solid liquidity, but revenue variability and competitive pressure persist."
-      },
-      {
-        "ticker": "SWAG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap with -4.2% YTD decline facing tariff volatility and execution demands. Supported by improving profitability, scalable acquisition strategy, and solid liquidity, but revenue variability and competitive pressure persist."
-      },
-      {
-        "ticker": "SWAGW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap with -4.2% YTD decline facing tariff volatility and execution demands. Supported by improving profitability, scalable acquisition strategy, and solid liquidity, but revenue variability and competitive pressure persist."
-      },
-      {
-        "ticker": "STX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefits from AI-led storage demand, strong data center growth, and rising HAMR and Mozaic adoption supporting higher revenue, margins and cash flow."
-      },
-      {
-        "ticker": "ENTG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong demand from advanced logic, memory and packaging driving higher content for filtration, CMP and advanced materials products."
-      },
-      {
-        "ticker": "PAG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Lexus and Toyota acquisitions add scale, but weaker U.S. EV sales and premium-market pressures may adversely affect regional demand and mix in 2026."
-      }
-    ]
-  },
-  {
-    "id": "af61f316be39dc817007a0cc66148015bff6983dc75c641224c6f7aa3230c53c",
+    "id": "98e5f0057c38d14116bee92ceb8faaaf1c61c86aa63cb578e5d9a9dae796b941",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Losing to Win: A VC Lens Will Find the Next Nvidia",
-    "author": "The Rule Breakers Team",
-    "published_utc": "2026-09-23T15:07:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/23/losing-to-win-a-vc-lens-will-find-the-next-nvidia/?source=iedfolrf0000001",
+    "title": "Is Interactive Brokers (IBKR) Stock a Buy After a 71% Dividend Increase?",
+    "author": "Selena Maranjian",
+    "published_utc": "2026-11-15T17:54:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/15/is-interactive-brokers-ibkr-stock-a-buy-after-a-71/?source=iedfolrf0000001",
     "tickers": [
-      "ADBE",
-      "DASTY",
-      "HAS",
-      "IBKR",
-      "NVDA"
+      "IBKR"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F975e51a3a1b0483c74f0ae91f354f85ffb09f320-7680x4050.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Motley Fool advocates adopting a venture capital investment approach where most picks underperform but a few massive winners drive portfolio returns. Using a five-stock example from 2009, the article shows how Nvidia's extraordinary 58,000% outperformance offset three significant underperformers, demonstrating that investors don't need to be right often\u2014just right enormously when it counts. The strategy recommends holding 50+ diversified stocks to capture breakout winners.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F892015%2Ffool-ibrk-interactive-brokers.jpg&w=1200&op=resize",
+    "description": "Interactive Brokers announced a 71% dividend increase, raising its quarterly payout from $0.0875 to $0.15 per share. Despite the significant hike, the dividend yield remains modest at 0.8%. The stock has averaged nearly 23% annual gains over 15 years and appears fairly valued with a P/E ratio of 22 and price-to-sales ratio of 3, suggesting continued growth potential for the electronic trading platform.",
     "keywords": [
-      "venture capital investing",
-      "Rule Breaker investing",
-      "portfolio diversification",
-      "outsize winners",
-      "emerging industries",
-      "first movers"
+      "dividend increase",
+      "Interactive Brokers",
+      "stock valuation",
+      "electronic trading",
+      "dividend yield",
+      "long-term performance"
     ],
     "insights": [
       {
-        "ticker": "ADBE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Lags S&P 500 by approximately 280% since August 2009 recommendation, significantly underperforming the market"
-      },
-      {
-        "ticker": "DASTY",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Trails the market by more than 500% since September 2009 recommendation, one of the poorest performers in the example basket"
-      },
-      {
-        "ticker": "HAS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Lags the market by roughly 460% since October 2009 recommendation, significantly underperforming"
-      },
-      {
         "ticker": "IBKR",
         "sentiment": "positive",
-        "sentiment_reasoning": "Beats the market by more than 2,300 percentage points since June 2009 recommendation, strong outperformer"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Extraordinary outperformance of 58,000+ percentage points since December 2009 recommendation at $0.38, now trading at $228.87; exemplifies the 'big winner' that justifies the VC investment approach"
+        "sentiment_reasoning": "The company demonstrated strong dividend growth (71% increase), has delivered impressive long-term returns (23% annual average over 15 years), maintains reasonable valuation metrics relative to historical averages, and is well-positioned for continued growth in its electronic trading business with 4+ million daily trades."
       }
     ]
   },
   {
-    "id": "c979e8395640c9b90fc9845fc7a2b7969c77b00148026c5fd2113efbd58f89d5",
+    "id": "c8144f3689885dfec53f50ee54b7b2ea3fb2b87913c7d25eec4c2fc18321b4ce",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-18T19:02:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2992298/coin-stock-trades-at-a-premium-to-industry-what-should-investors-do?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2992298",
+    "title": "Coinbase Strengthens Crypto Custody With National Trust Launch",
+    "author": "Na",
+    "published_utc": "2026-11-13T17:20:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3029785/coinbase-strengthens-crypto-custody-with-national-trust-launch?cid=CS-ZC-FT-analyst_blog|quick_take-3029785",
     "tickers": [
       "COIN",
       "HOOD",
       "IBKR"
     ],
     "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b3/4101.jpg",
-    "description": "Coinbase Global Inc. (COIN) trades at a significant premium valuation (80.17X forward P/E vs. 15.56X industry average) despite outperforming its sector by 6.6% over three months. While the company is diversifying into stablecoins, custody, tokenized assets, and prediction markets with strong strategic initiatives, it faces headwinds from crypto price volatility, rising costs, and softer trading revenues. Zacks rates COIN as a Sell (Rank #4), recommending investors avoid the stock due to stretched valuation and near-term profitability pressures.",
+    "description": "Coinbase Global launched National Trust Company with OCC conditional approval to enhance institutional confidence in digital asset custody. The move aims to address security, governance, and fiduciary concerns that have limited institutional adoption. However, COIN shares have declined 31.6% year-to-date with a P/E ratio of 61.02, significantly above industry average, and consensus estimates suggest 2026 revenue and earnings will decrease year-over-year.",
     "keywords": [
-      "cryptocurrency trading",
-      "premium valuation",
-      "stablecoins",
-      "tokenized assets",
-      "crypto volatility",
-      "institutional inflows",
-      "spot Bitcoin ETFs",
-      "regulatory clarity"
+      "digital asset custody",
+      "institutional adoption",
+      "regulatory oversight",
+      "National Trust Company",
+      "OCC approval",
+      "tokenized securities",
+      "blockchain infrastructure"
     ],
     "insights": [
       {
         "ticker": "COIN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Despite positive strategic initiatives and outperformance, Zacks assigns a Sell rating due to stretched valuation (80.17X forward P/E), exposure to crypto volatility, rising operating costs, softer trading revenues, and near-term earnings pressures. The premium valuation relative to peers and broader market creates notable downside risks."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the National Trust Company launch is a strategic positive development for institutional adoption and regulatory credibility, it is offset by significant headwinds: 31.6% YTD share decline, elevated P/E ratio of 61.02 vs. industry average of 12.75, and consensus estimates showing 2026 revenue and earnings decreases. The company carries a Zacks Rank #3 (Hold)."
+      },
+      {
+        "ticker": "HOOD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Robinhood is focused on accelerating growth through product innovation, global expansion, and opportunistic acquisitions. AI features and rapid rollouts are driving engagement, premium monetization, and retention while attracting both retail and advanced traders."
+      },
+      {
+        "ticker": "IBKR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Interactive Brokers is pursuing growth opportunities in emerging markets (Taiwan, Mexico, India) and has substantially expanded European operations, demonstrating a strong strategy to enhance global presence."
+      }
+    ]
+  },
+  {
+    "id": "433634e468b4f635b21520e5fdde3db6b52b52e86f58a5c7cc9f82dc11741193",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Anthropic IPO Access: Growth Opportunity for Interactive Brokers?",
+    "author": "Na",
+    "published_utc": "2026-11-13T13:54:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3029540/anthropic-ipo-access-growth-opportunity-for-interactive-brokers?cid=CS-ZC-FT-analyst_blog|quick_take-3029540",
+    "tickers": [
+      "IBKR",
+      "HOOD",
+      "DB",
+      "DGP",
+      "DGZ",
+      "DZZ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/34/40658.jpg",
+    "description": "Interactive Brokers (IBKR) is facilitating access to Anthropic's IPO for eligible U.K. investors, positioning itself to attract new customers and boost trading activity. The company reported strong growth with client accounts up 34% year-over-year to 5.68 million in October 2026. However, IBKR faces competition from Robinhood and Deutsche Bank in providing IPO access, and its stock has underperformed the industry over the past six months despite positive earnings growth forecasts.",
+    "keywords": [
+      "Interactive Brokers",
+      "Anthropic IPO",
+      "artificial intelligence",
+      "retail brokerage",
+      "customer acquisition",
+      "trading activity"
+    ],
+    "insights": [
+      {
+        "ticker": "IBKR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong operational momentum with 34% YoY client account growth, 19% YoY increase in client equity, and 16% YoY revenue growth. Anthropic IPO access provides opportunity for customer engagement and market expansion. Zacks Rank #2 (Buy) with positive earnings estimate revisions."
       },
       {
         "ticker": "HOOD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a crypto-oriented competitor with lower valuation than COIN and positive 8.4% gains over three months. Consensus estimates moving north for 2026-2027, but no detailed analysis provided in the article."
+        "sentiment_reasoning": "Mentioned as a competitor with IPO Access platform and expanding retail customer base that could benefit from Anthropic's IPO, but no specific performance data or impact assessment provided."
       },
       {
-        "ticker": "IBKR",
+        "ticker": "DB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as a crypto-oriented competitor with lower valuation than COIN. Lost 6.5% over three months with southbound movement in 2026 consensus estimates, but limited detailed analysis provided."
+        "sentiment_reasoning": "Identified as a competitor with established European presence and investment banking capabilities to support Anthropic IPO participation, but no specific performance metrics or outlook provided."
+      },
+      {
+        "ticker": "DGP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor with established European presence and investment banking capabilities to support Anthropic IPO participation, but no specific performance metrics or outlook provided."
+      },
+      {
+        "ticker": "DGZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor with established European presence and investment banking capabilities to support Anthropic IPO participation, but no specific performance metrics or outlook provided."
+      },
+      {
+        "ticker": "DZZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a competitor with established European presence and investment banking capabilities to support Anthropic IPO participation, but no specific performance metrics or outlook provided."
       }
     ]
   }

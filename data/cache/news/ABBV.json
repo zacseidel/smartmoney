@@ -1,303 +1,273 @@
 [
   {
-    "id": "452fc309f46e14677b254ef728d907d240d06a4d7660d68ba649407158e9ec81",
+    "id": "c05ce1255a8dfd097958a708e0cbe15fb60aa7dff2c155b6a41cd7c716fb9499",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Kevin Warsh Just Signaled Higher-for-Longer Rates. Here's What That Means for Big Pharma Dividend Stocks.",
-    "author": "Alex Carchidi",
-    "published_utc": "2026-09-27T09:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/kevin-warsh-rate-hike-pharma-dividend-stock/?source=iedfolrf0000001",
+    "title": "Johnson & Johnson vs. Vertex Pharmaceuticals: Which Healthcare Stock Is a Better Buy for 2027?",
+    "author": "Brendan Coffey",
+    "published_utc": "2026-11-17T23:27:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/11/17/johnson-johnson-vs-vertex-pharmaceuticals-which-healthcare-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
     "tickers": [
-      "PFE",
-      "ABBV",
-      "BMY",
-      "CELGr"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887983%2Ffed-chair-warsh-stands-in-front-of-flags-official-white-house-photo-via-flickr-by-daniel-torok.jpg&w=1200&op=resize",
-    "description": "Federal Reserve Chair Kevin Warsh's hawkish stance signals sustained higher interest rates to combat inflation. While this increases competition for dividend stocks from Treasury bonds, big pharma dividend stocks like Pfizer, AbbVie, and Bristol Myers Squibb should remain resilient due to strong fundamentals and manageable debt service costs. Historical data shows pharma-specific business factors matter more than interest rates for stock performance.",
-    "keywords": [
-      "Federal Reserve",
-      "interest rates",
-      "higher-for-longer",
-      "dividend stocks",
-      "pharmaceutical",
-      "inflation",
-      "debt service",
-      "free cash flow"
-    ],
-    "insights": [
-      {
-        "ticker": "PFE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Pfizer offers a high 6.1% dividend yield, the article notes it faces headwinds from declining pandemic product sales and has frozen its dividend since early 2025. Higher rates pose moderate competitive pressure, but underlying business challenges are the primary concern rather than rate hikes."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AbbVie demonstrates strong resilience with 2.6% dividend yield, manageable debt burden (interest expenses at only 16% of free cash flow), and historical outperformance during rate-hike cycles (up 19% in 2022). Well-positioned to weather higher-for-longer rates."
-      },
-      {
-        "ticker": "BMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Bristol Myers Squibb shows solid fundamentals with 4.1% dividend yield and a history of increasing dividends (raised to $0.63 quarterly in January 2026). Demonstrated resilience during previous rate-hike periods, suggesting ability to maintain dividends despite higher rates."
-      },
-      {
-        "ticker": "CELGr",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Bristol Myers Squibb shows solid fundamentals with 4.1% dividend yield and a history of increasing dividends (raised to $0.63 quarterly in January 2026). Demonstrated resilience during previous rate-hike periods, suggesting ability to maintain dividends despite higher rates."
-      }
-    ]
-  },
-  {
-    "id": "4b55a425dd429a6ae520ea141bd94f5def4e37b4795d2c73ad927407cb8bdc77",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Enzyme Replacement Therapy Market to Grow to USD 27.90 Billion by 2035 at a CAGR of 8.59% - SNS Insider",
-    "author": "Sns Insider",
-    "published_utc": "2026-09-25T12:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3369104/0/en/enzyme-replacement-therapy-market-to-grow-to-usd-27-90-billion-by-2035-at-a-cagr-of-8-59-sns-insider.html",
-    "tickers": [
-      "BMRN",
-      "PFE",
-      "ABBV",
-      "SNY",
-      "TAK"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
-    "description": "The global Enzyme Replacement Therapy (ERT) market is projected to grow from USD 12.24 billion in 2025 to USD 27.90 billion by 2035, with a CAGR of 8.59%. Growth is driven by early identification of rare lysosomal storage disorders, increased newborn screening, orphan drug incentives, and expanding healthcare access. North America leads with 38.76% market share, while Asia-Pacific shows the fastest growth at 9.43% CAGR. Imiglucerase dominates products, and Gaucher disease represents the largest therapeutic condition.",
-    "keywords": [
-      "enzyme replacement therapy",
-      "rare disease",
-      "lysosomal storage disorders",
-      "orphan drugs",
-      "newborn screening",
-      "Gaucher disease",
-      "Fabry disease",
-      "biopharmaceuticals",
-      "market growth"
-    ],
-    "insights": [
-      {
-        "ticker": "BMRN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major player in ERT market benefiting from fastest-growing segment (MPS disorders) and expansion of oral formulations, with strong growth prospects in Asia-Pacific region."
-      },
-      {
-        "ticker": "PFE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as key player in expanding ERT market with favorable regulatory environment and growing demand for rare disease treatments globally."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major key player positioned to benefit from market expansion driven by increased R&D spending, orphan drug incentives, and improved diagnostic capabilities."
-      },
-      {
-        "ticker": "SNY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a major key player in the rapidly growing ERT market projected to reach $27.90B by 2035 with 8.59% CAGR, benefiting from orphan drug incentives and increased rare disease diagnosis."
-      },
-      {
-        "ticker": "TAK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major key player positioned to benefit from strong market growth driven by newborn screening expansion, orphan drug support, and increasing healthcare spending on rare disease treatments."
-      }
-    ]
-  },
-  {
-    "id": "ad40210123cc061b7942747252a666398886c42cffb8483df444e8ab8f7aab66",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Reuters Momentum AI Austin Day 1: A New Way to Measure Whether AI Is Actually Paying Off",
-    "author": "Reuters Events",
-    "published_utc": "2026-09-25T00:30:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "tickers": [
-      "FDX",
-      "ABBV",
-      "WBD",
-      "UNH",
-      "SCHW",
-      "SCHWpD",
-      "SCHWpJ"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/25/3368825/0/en/reuters-momentum-ai-austin-day-1-a-new-way-to-measure-whether-ai-is-actually-paying-off.html",
-    "description": "Enterprise AI is shifting from experimentation to demonstrating measurable ROI. Companies like FedEx ($3B in cost reductions), Mars (20% top-line growth), and Indeed (70% of matches from AI) are scaling AI beyond pilots, but success requires organizational redesign, clear ownership, and human oversight. Leaders warn that AI can amplify existing organizational weaknesses and autonomous agents need defined spending limits and accountability measures.",
-    "keywords": [
-      "enterprise AI",
-      "ROI",
-      "business value",
-      "AI scaling",
-      "autonomous agents",
-      "organizational transformation",
-      "AI governance",
-      "workforce impact"
-    ],
-    "insights": [
-      {
-        "ticker": "FDX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company demonstrated significant measurable success with 200+ AI use cases contributing to $3 billion in cost reductions over six years, exemplifying successful AI scaling and ROI delivery."
-      },
-      {
-        "ticker": "ABBV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of moving beyond pilots in clinical trials, but no specific metrics or outcomes provided to assess success level."
-      },
-      {
-        "ticker": "WBD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Referenced as example of AI implementation in advertising, but without specific performance data or outcomes mentioned."
-      },
-      {
-        "ticker": "UNH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cited as example of AI scaling in healthcare support, but no quantified results or specific outcomes provided."
-      },
-      {
-        "ticker": "SCHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      },
-      {
-        "ticker": "SCHWpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as example of AI implementation in customer service, but without specific metrics or performance indicators disclosed."
-      }
-    ]
-  },
-  {
-    "id": "5d9a8c688a61f84149cb0a8b441967da189b4519e5ba49e2627263e6ff3b2326",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "ADARx Pharmaceuticals Announces Pricing of Upsized $446.3 Million Initial Public Offering",
-    "author": "Na",
-    "published_utc": "2026-09-24T23:33:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368818/0/en/adarx-pharmaceuticals-announces-pricing-of-upsized-446-3-million-initial-public-offering.html",
-    "tickers": [
-      "ABBV"
-    ],
-    "image_url": "https://www.globenewswire.com/news-release/2026/09/24/3368818/0/en/adarx-pharmaceuticals-announces-pricing-of-upsized-446-3-million-initial-public-offering.html",
-    "description": "ADARx Pharmaceuticals, a late-stage clinical biotechnology company developing siRNA therapeutics, priced its IPO at $17 per share for 26.25 million shares, generating approximately $446.3 million in gross proceeds. The company will begin trading on Nasdaq under ticker 'ADRX' on September 25, 2026. AbbVie has agreed to purchase shares in a concurrent private placement for approximately $100 million, resulting in a 4.9% stake in ADARx.",
-    "keywords": [
-      "IPO",
-      "siRNA therapeutics",
-      "biotechnology",
-      "Nasdaq listing",
-      "private placement",
-      "capital raise"
-    ],
-    "insights": [
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strategic investment in ADARx through concurrent private placement at $17 per share with up to $100 million commitment, indicating confidence in ADARx's technology and existing collaboration agreement across multiple disease areas."
-      }
-    ]
-  },
-  {
-    "id": "400bbde3715d00d434d03c8589a99f1efcc96c202266f51ef0f4421c5b2932c7",
-    "publisher": {
-      "name": "GlobeNewswire Inc.",
-      "homepage_url": "https://www.globenewswire.com",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
-    },
-    "title": "Global Autoimmune Disease Therapeutics Market is Predicted to Cross USD 60 Billion by 2034 | DelveInsight",
-    "author": "Delveinsight",
-    "published_utc": "2026-09-24T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/09/24/3368648/0/en/global-autoimmune-disease-therapeutics-market-is-predicted-to-cross-usd-60-billion-by-2034-delveinsight.html",
-    "tickers": [
-      "ABBV",
       "JNJ",
-      "PFE",
-      "NVS",
-      "RHHBY",
-      "AMGN",
-      "LLY",
-      "BMY",
-      "CELGr"
+      "VRTX",
+      "ABBV",
+      "GMAB",
+      "CRSP"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
-    "description": "The global autoimmune disease therapeutics market is projected to grow from USD 133 billion in 2025 to USD 255 billion by 2034, with an 8% CAGR. Growth is driven by rising prevalence of autoimmune disorders, increasing adoption of biologics and targeted therapies, advancements in precision medicine, and expanding biosimilar availability. North America leads with 44% market share, while Asia-Pacific is the fastest-growing region. Key players include AbbVie, Johnson & Johnson, Pfizer, Novartis, and Roche.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc23399e0a71714feff3d0b57dbbacf3f94162eee-2000x1200.jpg&w=1200&op=resize",
+    "description": "The article compares Johnson & Johnson and Vertex Pharmaceuticals as investment options for 2027. JNJ is a diversified healthcare giant with $99.3B in revenue and strong cash flow, while VRTX is a specialized biotech leader with $13B in revenue focused on cystic fibrosis and expanding into gene therapies. Despite VRTX's higher growth rate and lower P/E ratio, JNJ is recommended as the better buy due to its superior valuation multiples (P/E 25.4x vs 29.6x, P/S 6.8x vs 10.5x) and established market position.",
     "keywords": [
-      "autoimmune disease therapeutics",
-      "biologics",
-      "JAK inhibitors",
-      "TNF inhibitors",
-      "CAR-T therapy",
-      "biosimilars",
-      "rheumatoid arthritis",
-      "multiple sclerosis",
-      "systemic lupus erythematosus",
-      "precision medicine"
+      "healthcare stocks",
+      "pharmaceutical companies",
+      "biotech",
+      "cystic fibrosis",
+      "gene therapy",
+      "valuation comparison",
+      "investment analysis",
+      "2027 outlook"
     ],
     "insights": [
-      {
-        "ticker": "ABBV",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as a key company in the expanding autoimmune therapeutics market with strong presence in North America; mentioned as a major immunology manufacturer supporting market leadership"
-      },
       {
         "ticker": "JNJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Key market player with recent FDA approval of IMAAVY for autoimmune hemolytic anemia in August 2026; proximity to major immunology ecosystem strengthens market position"
+        "sentiment_reasoning": "Recommended as the better buy for 2027 due to lower valuation multiples (P/E 25.4x, P/S 6.8x), diversified portfolio with 28 billion-dollar products, strong free cash flow ($19.7B), solid balance sheet (0.6x debt-to-equity), and robust pipeline with recent FDA approvals."
       },
       {
-        "ticker": "PFE",
+        "ticker": "VRTX",
         "sentiment": "positive",
-        "sentiment_reasoning": "Listed among leading autoimmune disease therapeutics companies benefiting from market growth and expanding biologic therapy adoption"
+        "sentiment_reasoning": "Strong growth profile with 10.5% revenue growth, dominant cystic fibrosis market position, successful product launches (Alyftrek), promising pipeline expansion into autoimmune diseases with peak sales potential of $4-7B, and excellent financial health (0.1x debt-to-equity, 2.9x current ratio)."
       },
       {
-        "ticker": "NVS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in the growing autoimmune therapeutics market with established presence in biologic and targeted therapy development"
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner with JNJ for co-commercializing cancer drug Imbruvica; no independent analysis or sentiment provided in the article."
       },
       {
-        "ticker": "RHHBY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major immunology manufacturer with recent supplemental BLA submission for Gazyva to expand into systemic lupus erythematosus treatment"
+        "ticker": "GMAB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a licensor of Darzalex to JNJ; no independent analysis or sentiment provided in the article."
       },
       {
-        "ticker": "AMGN",
+        "ticker": "CRSP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a collaborator with Vertex on gene-editing therapies for blood disorders; no independent analysis or sentiment provided in the article."
+      }
+    ]
+  },
+  {
+    "id": "7c8f3f9fb637869c146a38edfb1b6546576bb63ff1e65334f10833d7122a2053",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "How Did AbbVie's Neuroscience Franchise Perform in Q3?",
+    "author": "Na",
+    "published_utc": "2026-11-17T17:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031394/how-did-abbvie-s-neuroscience-franchise-perform-in-q3?cid=CS-ZC-FT-analyst_blog|quick_take-3031394",
+    "tickers": [
+      "ABBV",
+      "BIIB",
+      "JNJ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/31/1512.jpg",
+    "description": "AbbVie reported strong Q3 2026 neuroscience revenues of $3.39 billion, up 19.5% year-over-year, driven by key drugs Vraylar, Botox, Ubrelvy, and Qulipta. The company raised its 2026 neuroscience sales forecast to $13 billion from $12.7 billion, with the segment now representing 19.5% of total company revenues. Management expects Vyalev to achieve blockbuster status and Juvmo to represent a sizable opportunity with gradual ramp-up starting 2028.",
+    "keywords": [
+      "neuroscience",
+      "revenue growth",
+      "Vraylar",
+      "Botox",
+      "Ubrelvy",
+      "Qulipta",
+      "Vyalev",
+      "Juvmo",
+      "psychiatry",
+      "migraine",
+      "Parkinson's disease"
+    ],
+    "insights": [
+      {
+        "ticker": "ABBV",
         "sentiment": "positive",
-        "sentiment_reasoning": "Leading immunology company with strong presence in North America supporting market growth in autoimmune therapeutics"
+        "sentiment_reasoning": "Strong Q3 neuroscience segment growth of 19.5% exceeded expectations, with broad-based performance across all therapeutic areas. Company raised full-year 2026 neuroscience sales guidance to $13 billion and overall revenue outlook by $200 million. Multiple key drugs showing double-digit growth with blockbuster potential."
+      },
+      {
+        "ticker": "BIIB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitor in neuroscience space with declining legacy MS portfolio but expanding newer therapies including Leqembi for Alzheimer's and Zurzuvae for postpartum depression. No specific performance data provided."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a major neuroscience competitor with established blockbuster drugs (Spravato, Invega Sustenna) and recent portfolio expansion through Intra-Cellular Therapies acquisition. No specific performance metrics or outlook changes mentioned."
+      }
+    ]
+  },
+  {
+    "id": "fd8190349915919f1f493580debd1e1d8003e2c24ac2716eeeb05607771c7a77",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AstraZeneca Stock Up 12% in a Month: Time to Buy, Sell or Hold?",
+    "author": "Na",
+    "published_utc": "2026-11-17T14:58:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031223/astrazeneca-stock-up-12-in-a-month-time-to-buy-sell-or-hold?cid=CS-ZC-FT-analyst_blog|rank_focused-3031223",
+    "tickers": [
+      "AZN",
+      "MRK",
+      "LLY",
+      "GILD",
+      "JNJ",
+      "ABBV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/85/906.jpg",
+    "description": "AstraZeneca reported Q3 2026 revenues of $16.21 billion (up 7% YoY) and core EPS of $2.79, beating consensus estimates. Strong oncology sales growth (16% to $21.9B) and new drug launches support the company's $80 billion 2030 revenue target. However, generic erosion of mature drugs, recent pipeline failures, and China market uncertainties create headwinds. The company maintains mid-to-high single-digit revenue growth guidance for 2026.",
+    "keywords": [
+      "Q3 2026 earnings",
+      "oncology growth",
+      "generic competition",
+      "pipeline setbacks",
+      "2030 revenue target",
+      "blockbuster drugs",
+      "patent expiration"
+    ],
+    "insights": [
+      {
+        "ticker": "AZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed outlook with positive Q3 results and strong oncology segment growth, but offset by significant headwinds including generic erosion of key drugs (Brilinta, Farxiga, Soliris), recent pipeline failures (Wainua, Ultomiris, volrustomig), and China market uncertainties. Stock rated Zacks Rank #3 (Hold) reflecting balanced risk-reward profile."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as partner on AstraZeneca's blockbuster drugs Lynparza and Enhertu, which are performing well and contributing to AstraZeneca's growth. Partnership success is positive but limited direct impact on Merck's standalone performance."
       },
       {
         "ticker": "LLY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Key player in expanding autoimmune disease therapeutics market with established biologic therapy portfolio"
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a valuation comparison point, with AstraZeneca trading at lower forward P/E ratio. No direct news or performance data provided."
       },
       {
-        "ticker": "BMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major immunology manufacturer benefiting from growing adoption of biologics and targeted therapies in autoimmune disease treatment"
+        "ticker": "GILD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a valuation comparison point for large drugmakers. No direct news or performance data provided."
       },
       {
-        "ticker": "CELGr",
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a valuation comparison point for large drugmakers. No direct news or performance data provided."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a valuation comparison point for large drugmakers. No direct news or performance data provided."
+      }
+    ]
+  },
+  {
+    "id": "6890884443e44df330913412611461137a692718ebf6000306f55dacaba239bf",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "J&J to Acquire Ollin Biosciences: A Look at Its Recent Buyouts",
+    "author": "Na",
+    "published_utc": "2026-11-17T14:43:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031219/j-j-to-acquire-ollin-biosciences-a-look-at-its-recent-buyouts?cid=CS-ZC-FT-analyst_blog|quick_take-3031219",
+    "tickers": [
+      "JNJ",
+      "ABBV",
+      "GILD",
+      "LLY",
+      "MRK",
+      "GSK"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/b2/19786.jpg",
+    "description": "Johnson & Johnson announced a $2.2 billion acquisition of clinical-stage biotech Ollin Biosciences to expand its ophthalmology pipeline with OLN324, a phase III bispecific antibody for retinal diseases. Blackstone will fund $750 million of the phase III development. This acquisition is part of J&J's broader strategy of pursuing strategic M&A to strengthen its Innovative Medicine and MedTech businesses, following recent acquisitions of Firefly Bio, Intra-Cellular Therapies, Shockwave Medical, and Abiomed.",
+    "keywords": [
+      "acquisition",
+      "ophthalmology",
+      "bispecific antibody",
+      "retinal diseases",
+      "pipeline expansion",
+      "M&A strategy",
+      "drug development",
+      "medical devices"
+    ],
+    "insights": [
+      {
+        "ticker": "JNJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "Major immunology manufacturer benefiting from growing adoption of biologics and targeted therapies in autoimmune disease treatment"
+        "sentiment_reasoning": "Strategic acquisition expands ophthalmology pipeline with promising phase III candidate; recent acquisitions (Firefly Bio, Intra-Cellular, Shockwave, Abiomed) are contributing to revenue growth; stock outperformed industry with 36.7% YTD gain. However, valuation is elevated and earnings estimates have declined slightly."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as part of broader pharma M&A trend in 2026 with $10.9B Apogee Therapeutics acquisition to strengthen immunology portfolio; no specific performance data provided."
+      },
+      {
+        "ticker": "GILD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as part of broader pharma M&A trend with $7.8B Arcellx acquisition for cell therapies; no specific performance data provided."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as part of broader pharma M&A trend with $7.8B Centessa Pharmaceuticals acquisition for neuroscience expansion; no specific performance data provided."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as part of broader pharma M&A trend with $6.7B Terns Pharmaceuticals acquisition for oncology; no specific performance data provided."
+      },
+      {
+        "ticker": "GSK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as part of broader pharma M&A trend with $10.6B Nuvalent acquisition for oncology pipeline expansion; no specific performance data provided."
+      }
+    ]
+  },
+  {
+    "id": "f4f88ac8455706a04c8d041c2d0ba24e1f108f4556807164bd264bc4f77708b2",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here is What to Know Beyond Why AbbVie Inc. (ABBV) is a Trending Stock",
+    "author": "Zacks.Com",
+    "published_utc": "2026-11-17T13:00:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3030953/here-is-what-to-know-beyond-why-abbvie-inc-abbv-is-a-trending-stock?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3030953",
+    "tickers": [
+      "ABBV"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default242.jpg",
+    "description": "AbbVie (ABBV) is trending among investors with shares up 4.2% over the past month, outperforming the S&P 500's -3% decline. The pharmaceutical company shows strong earnings growth expectations of +39.7% for the current fiscal year and +14.7% for next year, with a consistent track record of beating consensus estimates. However, the stock received a Zacks Rank #3 (Hold) rating, suggesting it may perform in line with the broader market in the near term. The company is valued at par with its peers based on valuation metrics.",
+    "keywords": [
+      "AbbVie",
+      "pharmaceutical",
+      "earnings growth",
+      "stock rating",
+      "valuation",
+      "revenue growth",
+      "consensus estimates"
+    ],
+    "insights": [
+      {
+        "ticker": "ABBV",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While AbbVie demonstrates strong fundamentals with significant earnings growth (+39.7% current year, +14.7% next year), consistent beat on consensus estimates, and solid revenue growth (+10.8% current year), the Zacks Rank #3 (Hold) rating and par valuation relative to peers suggest the stock is fairly valued with near-term performance expected to match the broader market. The minimal recent estimate revisions (-0.3% to +0.4% over 30 days) indicate limited near-term catalysts."
       }
     ]
   }

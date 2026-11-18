@@ -1,0 +1,35 @@
+{
+  "ticker": "OMDA",
+  "name": "Omada Health, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001611115",
+  "composite_figi": "BBG005TP6Y82",
+  "share_class_figi": "BBG005TP6Y91",
+  "market_cap": 873491168.0,
+  "phone_number": "888-987-8337",
+  "address": {
+    "address1": "611 GATEWAY BLVD.",
+    "address2": "SUITE 120",
+    "city": "SOUTH SAN FRANCISCO",
+    "state": "CA",
+    "postal_code": "94080"
+  },
+  "description": "Omada Health Inc empowers individuals to make lasting health changes through personalized, virtual care between doctor's visits. The integrated platform of the company supports members with cardiometabolic conditions like prediabetes, diabetes, hypertension, musculoskeletal issues, and behavioral health needs. The company's specialized care tracks also assist members using GLP-1 medications. The company delivers measurable health outcomes and value for employers, health plans, health systems, and pharmacy benefit managers.",
+  "sic_code": "8000",
+  "sic_description": "SERVICES-HEALTH SERVICES",
+  "ticker_root": "OMDA",
+  "homepage_url": "https://www.omadahealth.com",
+  "total_employees": 980,
+  "list_date": "2025-06-06",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/b21hZGFoZWFsdGguY29t/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/b21hZGFoZWFsdGguY29t/images/2026-11-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 62037725,
+  "round_lot": 100
+}

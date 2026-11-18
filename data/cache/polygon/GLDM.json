@@ -1,0 +1,27 @@
+{
+  "ticker": "GLDM",
+  "name": "SPDR Gold MiniShares",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "ARCX",
+  "type": "ETV",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001618181",
+  "composite_figi": "BBG00L8YYP89",
+  "share_class_figi": "BBG00L8YYQ05",
+  "phone_number": "(212) 317-3800",
+  "address": {
+    "address1": "685 THIRD AVENUE",
+    "address2": "27TH FLOOR",
+    "city": "NEW YORK",
+    "state": "NY",
+    "postal_code": "10017"
+  },
+  "sic_code": "6221",
+  "sic_description": "COMMODITY CONTRACTS BROKERS & DEALERS",
+  "ticker_root": "GLDM",
+  "list_date": "2018-06-25",
+  "share_class_shares_outstanding": 387450000,
+  "round_lot": 100
+}

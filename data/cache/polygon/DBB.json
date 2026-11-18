@@ -1,0 +1,27 @@
+{
+  "ticker": "DBB",
+  "name": "Invesco DB Base Metals Fund",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "ARCX",
+  "type": "ETV",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001383084",
+  "composite_figi": "BBG000QNK9K6",
+  "share_class_figi": "BBG001SSDLT3",
+  "phone_number": "800-983-0903",
+  "address": {
+    "address1": "3500 LACEY ROAD",
+    "address2": "SUITE 700",
+    "city": "DOWNERS GROVE",
+    "state": "IL",
+    "postal_code": "60515"
+  },
+  "sic_code": "6221",
+  "sic_description": "COMMODITY CONTRACTS BROKERS & DEALERS",
+  "ticker_root": "DBB",
+  "list_date": "2007-01-05",
+  "share_class_shares_outstanding": 13600000,
+  "round_lot": 100
+}

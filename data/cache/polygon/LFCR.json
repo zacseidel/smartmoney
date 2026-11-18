@@ -1,0 +1,34 @@
+{
+  "ticker": "LFCR",
+  "name": "Lifecore Biomedical, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001005286",
+  "composite_figi": "BBG000G1FS10",
+  "share_class_figi": "BBG001S7VTL0",
+  "market_cap": 242218355.94,
+  "phone_number": "(952) 368-4300",
+  "address": {
+    "address1": "3515 LYMAN BOULEVARD",
+    "city": "CHASKA",
+    "state": "MN",
+    "postal_code": "55318"
+  },
+  "description": "Lifecore Biomedical Inc is a fully integrated contract development and manufacturing organization (CDMO) that provides services in the development, fill, and finish of complex sterile injectable pharmaceutical products in syringes, vials, and cartridges. The group recognizes revenue in two different product categories, CDMO and HA manufacturing.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "LFCR",
+  "homepage_url": "https://www.lifecore.com",
+  "total_employees": 382,
+  "list_date": "1996-02-15",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/bGlmZWNvcmUuY29t/images/2026-11-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 37905846,
+  "weighted_shares_outstanding": 37905846,
+  "round_lot": 100
+}

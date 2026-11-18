@@ -1,0 +1,34 @@
+{
+  "ticker": "PBAM",
+  "name": "Private Bancorp of America, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001705284",
+  "composite_figi": "BBG000NFSZV8",
+  "share_class_figi": "BBG001SQM5W8",
+  "market_cap": 480181877.2,
+  "phone_number": "858-875-6900",
+  "address": {
+    "address1": "9404 GENESEE AVENUE, SUITE 100",
+    "city": "LA JOLLA",
+    "state": "CA",
+    "postal_code": "92037"
+  },
+  "description": "Private Bancorp of America Inc is a commercial bank chartered by the State of California. It provides comprehensive banking services, including deposit accounts, treasury management services, and lending solutions tailored to high-net-worth individuals, professionals, family offices, closely-held businesses, real estate entrepreneurs, and small to mid-sized businesses. Lending activities include commercial real estate loans, commercial and industrial loans, and government-guaranteed lending programs.",
+  "sic_code": "6021",
+  "sic_description": "NATIONAL COMMERCIAL BANKS",
+  "ticker_root": "PBAM",
+  "homepage_url": "https://www.calprivate.bank",
+  "total_employees": 12,
+  "list_date": "2005-11-07",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Y2FscHJpdmF0ZS5iYW5r/images/2026-11-01_logo.png"
+  },
+  "share_class_shares_outstanding": 5729788,
+  "weighted_shares_outstanding": 5730094,
+  "round_lot": 100
+}

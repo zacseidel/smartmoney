@@ -1,237 +1,386 @@
 [
   {
-    "id": "233d13abce8d1fab682b211e01b77177568902b218f576219e1f60bde677f771",
+    "id": "c2ceef7b8fec5eaa2057f93339248cc5c5f56dae0292d007b7b337f6b67b9080",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Here's How Many Shares of Coca-Cola You'd Need for $10,000 in Yearly Dividends",
-    "author": "Neil Patel",
-    "published_utc": "2026-09-27T22:04:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/27/how-many-coca-cola-shares-10000-yearly-dividends/?source=iedfolrf0000001",
+    "title": "How Is Coca-Cola's Packaging Strategy Supporting Growth?",
+    "author": "Na",
+    "published_utc": "2026-11-17T15:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031296/how-is-coca-cola-s-packaging-strategy-supporting-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3031296",
     "tickers": [
-      "KO"
+      "KO",
+      "PEP",
+      "KDP"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F889033%2Fcoca-cola-logo-on-red-filter-with-bottles-in-background_-the-motley-fool.png&w=1200&op=resize",
-    "description": "Coca-Cola investors would need to own 4,717 shares (requiring over $414,000 in capital) to generate $10,000 in annual dividend income, based on the company's current $2.12 annualized dividend per share. The beverage giant is highlighted as an attractive passive income investment due to its 64-year streak of consecutive dividend increases, strong brand recognition, durable demand, and robust free cash flow generation.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e3/65.jpg",
+    "description": "Coca-Cola is expanding affordable packaging options across Europe, Africa, and Vietnam to boost consumer accessibility and purchase frequency. The company achieved 5% global unit case volume growth and 7% organic revenue growth in Q3 2026. Competitors PepsiCo and Keurig Dr Pepper are similarly prioritizing packaging innovation and affordable formats to drive long-term growth.",
     "keywords": [
-      "dividend income",
-      "Coca-Cola",
-      "Dividend King",
-      "passive income",
-      "dividend yield",
-      "consumer staples"
+      "packaging strategy",
+      "affordable formats",
+      "volume growth",
+      "consumer reach",
+      "beverage industry",
+      "revenue growth management"
     ],
     "insights": [
       {
         "ticker": "KO",
         "sentiment": "positive",
-        "sentiment_reasoning": "The article presents Coca-Cola as a compelling investment for passive income investors, emphasizing its 64-year dividend increase streak (Dividend King status), strong competitive moat, recognizable brand, durable demand, and substantial free cash flow generation of $12.4 billion expected in 2026. These factors are presented as strengths that make it an attractive dividend stock."
+        "sentiment_reasoning": "Strong Q3 2026 performance with 5% unit case volume growth and 7% organic revenue growth. Successful expansion of affordable packaging across multiple regions and innovative marketing initiatives support continued growth momentum. However, valuation is elevated at 28.33X forward P/E versus industry average of 21.05X, and cost pressures could temper profitability."
+      },
+      {
+        "ticker": "PEP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Portion-control multipacks generating over $3.5 billion in annual revenues with both volume and revenue growth in Q3 2026. Strategic focus on packaging innovation and consumer-focused product combinations supports sustained growth trajectory."
+      },
+      {
+        "ticker": "KDP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong Q3 2026 performance with U.S. Refreshment Beverages sales up 10.9% and coffee appliance volumes up 16.7%. Emphasis on convenient single-serve formats and product innovation demonstrates effective execution of growth strategy."
       }
     ]
   },
   {
-    "id": "e07419edce4e2ebede0eb3c2ea842d764ecc61e6f88bc0f04b84043904a1942b",
+    "id": "71dd174d672f57b9f8542a8f0f193eb6f15e68e95864afb5345a6d802a7eb1e2",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Why Is PepsiCo's Stock Down 10% While the S&P 500 Is Up 13% in 2026? Here's the Only Answer I Can Think of.",
-    "author": "Reuben Gregg Brewer",
-    "published_utc": "2026-09-26T18:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/26/why-is-pepsicos-stock-down-10-while-the-sp-500-is/?source=iedfolrf0000001",
+    "title": "Can PepsiCo's Asia Pacific Foods Business Maintain Volume Growth?",
+    "author": "Na",
+    "published_utc": "2026-11-17T15:03:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031237/can-pepsico-s-asia-pacific-foods-business-maintain-volume-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3031237",
     "tickers": [
       "PEP",
-      "KO"
+      "KO",
+      "MNST"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F887272%2F22_10_05-two-people-drinking-with-straws-from-bottles-on-a-boat-_md-dload.jpg&w=1200&op=resize",
-    "description": "PepsiCo's stock has underperformed the S&P 500 by 23 percentage points in 2026, declining 10% while the broader market gained 13%. The company faces headwinds from rising inflation, consumer belt-tightening, and shifting preferences away from snacks and packaged foods. More critically, PepsiCo is being outpaced by competitor Coca-Cola, which posted 6% organic sales growth in Q2 2026 compared to PepsiCo's 2.4%. Despite its status as a Dividend King with a 4.5% yield and strong fundamentals, investors remain cautious about the consumer staples sector.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/102.jpg",
+    "description": "PepsiCo's Asia Pacific Foods segment delivered organic volume growth in Q3 2026, supported by resilient consumer demand and market share gains in key markets including India, China, Australia, Thailand, and Pakistan. The company's international organic revenues increased 8% marking 22 consecutive quarters of mid-single-digit growth. Continued investments in innovation, distribution expansion, and portfolio diversification are expected to support further growth, though momentum depends on sustained consumer demand and effective execution.",
     "keywords": [
-      "PepsiCo underperformance",
-      "consumer staples headwinds",
-      "Coca-Cola outperformance",
-      "organic sales growth",
-      "dividend yield",
-      "inflation pressure",
-      "consumer spending"
+      "Asia Pacific",
+      "organic volume growth",
+      "market share gains",
+      "international expansion",
+      "convenient foods",
+      "innovation",
+      "distribution expansion"
     ],
     "insights": [
       {
         "ticker": "PEP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock down 10% YTD 2026 and 33% from 2023 highs. Organic sales growth slowing (2.4% in Q2 vs 2.6% in Q1). Significantly underperforming S&P 500 and direct competitor Coca-Cola. Facing sector-wide headwinds from inflation, consumer spending pressure, and shifting consumer preferences away from snacks and packaged foods."
+        "sentiment": "positive",
+        "sentiment_reasoning": "PepsiCo demonstrated strong Asia Pacific performance with organic volume growth, 22 consecutive quarters of mid-single-digit international revenue growth, and market share gains across multiple key markets. However, the stock carries a Zacks Rank #4 (Sell) and has underperformed the industry in the past three months, tempering the overall outlook."
       },
       {
         "ticker": "KO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Stock up nearly 25% YTD 2026, significantly outperforming both PepsiCo and the S&P 500. Posted 6% organic sales growth in Q2 2026, substantially beating PepsiCo's 2.4%. Demonstrating stronger business performance and gaining market share relative to its main competitor."
-      }
-    ]
-  },
-  {
-    "id": "9709c7185953cd4f44098bf73bb19cc38790b4b6f687c0a70ee18b815e0d92bf",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Monster Beverage vs. PepsiCo: Which Consumer Goods Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-09-26T14:33:47Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/09/26/monster-beverage-vs-pepsico-which-consumer-goods-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "MNST",
-      "PEP",
-      "KO",
-      "WMT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares Monster Beverage and PepsiCo as investment options for 2026. Monster Beverage demonstrates stronger growth with 10.7% revenue increase, zero debt, and record quarterly performance across all geographic regions, though it faces concentration risk with Coca-Cola as its primary distributor. PepsiCo offers diversified snack and beverage brands with a 4.51% dividend yield but faces headwinds from reduced North American consumer spending and cautious earnings guidance. The author recommends Monster Beverage for growth-focused investors despite its premium valuation.",
-    "keywords": [
-      "energy drinks",
-      "consumer goods",
-      "stock comparison",
-      "growth vs. dividend",
-      "valuation",
-      "distribution risk",
-      "international expansion"
-    ],
-    "insights": [
+        "sentiment_reasoning": "Coca-Cola delivered volume, revenue, and profit growth in Asia Pacific Q3 2026 with market share gains, particularly strong double-digit growth in India's top 10 brands. However, subdued consumer demand in China and volume declines in Japan present concerns."
+      },
       {
         "ticker": "MNST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong double-digit revenue growth (10.7%), record quarterly performance across all regions, zero debt, excellent free cash flow ($2.0B), expanding international presence (50% of business), and improving net margins (23%). Author explicitly recommends it as the better buy for 2026."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Solid fundamentals with diversified portfolio, strong free cash flow ($7.7B), and reliable 4.51% dividend yield. However, faces headwinds from weak North American consumer spending, cautious earnings guidance, higher leverage (2.4x debt-to-equity), and slower growth (2.3%). Suitable for conservative investors but not recommended over Monster for 2026."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as Monster Beverage's primary distribution partner holding 20.9% stake. Represents both an opportunity and concentration risk for Monster's business model."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Noted as PepsiCo's largest customer accounting for 14% of revenue, representing customer concentration risk."
+        "sentiment_reasoning": "Monster Beverage reported strong 12.3% net sales growth in Asia Pacific (14.9% currency-neutral) with exceptional growth in China (35.5%) and India (86.5%). Expansion into new markets supports future growth, though regulatory challenges in India and softer performance in certain markets pose risks."
       }
     ]
   },
   {
-    "id": "9cf3ccc761a9f15b302a4a2c5008597f23b1eebc019b1534a2266ffea24fc63d",
+    "id": "adbfabc7c1baca253dcd85527fafa60b529782c5fcc5870358303e8de0074433",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "SCHD Is Brilliant. Here's Why I Think This Dividend ETF Is Even Better.",
-    "author": "Matt Dilallo",
-    "published_utc": "2026-09-26T09:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/26/schd-is-brilliant-heres-why-i-think-this-dividend/?source=iedfolrf0000001",
+    "title": "Warren Buffett's Successor Has 61% of Berkshire's Portfolio in 5 Stocks. Here's My Top Pick for November.",
+    "author": "Keith Noonan",
+    "published_utc": "2026-11-17T08:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/warren-buffetts-successor-has-61-of-berkshires-por/?source=iedfolrf0000001",
     "tickers": [
-      "SCHD",
-      "RDVY",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL",
+      "AXP",
       "KO",
-      "PEP",
-      "META",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893419%2Fbuffett17-tmf-copy.jpg&w=1200&op=resize",
+    "description": "Berkshire Hathaway's portfolio is concentrated in five stocks accounting for 61% of holdings. The article recommends Alphabet as the best buy in November, citing a 27% pullback from highs, attractive valuation at 22.5x earnings, strong revenue growth of 25% YoY, and robust Google Cloud expansion at 103% YoY growth. Despite AI market volatility and regulatory concerns following Democratic midterm wins, the author believes Alphabet has strong long-term growth prospects.",
+    "keywords": [
+      "Berkshire Hathaway",
+      "portfolio concentration",
+      "Alphabet",
+      "artificial intelligence",
+      "stock valuation",
+      "Google Cloud",
+      "regulatory concerns",
+      "tech stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as Berkshire's largest holding at 22.1% of portfolio, but not analyzed or recommended in the article. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest Berkshire holding at 13.2% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest Berkshire holding at 10.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the investment conglomerate holding the portfolio. No specific sentiment expressed about the company itself; focus is on its holdings and investment strategy under new CEO Greg Abel."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the investment conglomerate holding the portfolio. No specific sentiment expressed about the company itself; focus is on its holdings and investment strategy under new CEO Greg Abel."
+      }
+    ]
+  },
+  {
+    "id": "28598b8ba3825b6d725c3a9a681016186d01bb170f802b95c7f809a3c22f63ff",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "5 Consumer Staples Stocks Reaching New Highs as Markets Retreat",
+    "author": "Na",
+    "published_utc": "2026-11-16T23:10:00Z",
+    "article_url": "https://www.zacks.com/commentary/3030705/5-consumer-staples-stocks-reaching-new-highs-as-markets-retreat?cid=CS-ZC-FT-investment_ideas-3030705",
+    "tickers": [
+      "COST",
+      "KO",
+      "PG",
+      "MO",
+      "MDLZ",
       "NVDA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F886459%2Fhand-and-etf-spelled-out-1200x800-5b2df79.jpg&w=1200&op=resize",
-    "description": "The article compares two dividend-focused ETFs: SCHD (Schwab U.S. Dividend Equity ETF) and RDVY (First Trust Rising Dividend Achievers ETF). While SCHD offers high current dividend yield (3%) with slower-growing, established companies, RDVY has delivered superior 10-year average annual returns (15.8% vs 13.2%) by focusing on faster-growing Nasdaq-listed companies with rising dividends. The choice between them depends on investment goals: SCHD for income, RDVY for wealth growth.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default269.jpg",
+    "description": "As technology stocks declined due to uncertainty surrounding Nvidia's earnings report and the upcoming Anthropic IPO, investors shifted toward defensive consumer staples stocks. Costco, Coca-Cola, Procter & Gamble, Altria, and Mondelez all reached fresh 52-week highs on Monday, driven by their stable demand, pricing power, and attractive dividend yields.",
     "keywords": [
-      "dividend ETF",
-      "dividend growth stocks",
-      "SCHD",
-      "RDVY",
-      "total returns",
-      "dividend yield",
-      "income investing"
-    ],
-    "insights": [
-      {
-        "ticker": "SCHD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised as 'brilliant' with strong fundamentals including 3% dividend yield, 0.06% low expense ratio, and $111B AUM. Holdings include quality dividend aristocrats like Coca-Cola and PepsiCo with consistent dividend growth."
-      },
-      {
-        "ticker": "RDVY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as superior for wealth growth with 10-year average annual returns of 15.8% outpacing SCHD's 13.2%. Positioned as better for investors seeking faster capital appreciation through growth-focused dividend payers."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Cited as a top SCHD holding and Dividend King with over 50 years of consecutive dividend increases, demonstrating strong dividend reliability."
-      },
-      {
-        "ticker": "PEP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mentioned as a top SCHD holding and Dividend King with 4.6% yield and over 50 years of consecutive dividend increases."
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a notable RDVY holding representing the growth-focused, lower-yielding tech companies (0.3% yield) that characterize the fund's strategy."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a notable RDVY holding exemplifying low-yielding tech giants (0.4% yield) included in the growth-focused dividend achievers strategy."
-      }
-    ]
-  },
-  {
-    "id": "9c0ef367e36beb2433c0879ad9ed58d77bd4bec9d5b679fbcadaf143b3f43ed2",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Dividend Kings to Buy Now and 1 to Avoid Despite the Yield",
-    "author": "Leo Sun",
-    "published_utc": "2026-09-25T15:20:00Z",
-    "article_url": "https://www.fool.com/investing/2026/09/25/2-dividend-kings-to-buy-now-and-1-to-avoid-despite/?source=iedfolrf0000001",
-    "tickers": [
-      "KO",
-      "MO",
-      "PEP"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F888831%2Fman-cash-king.jpg&w=1200&op=resize",
-    "description": "Among three Dividend Kings\u2014Coca-Cola, PepsiCo, and Altria\u2014analyst recommends buying Coca-Cola and Altria while avoiding PepsiCo. Coca-Cola's asset-light model and diversification provide reliable income, while Altria's expansion into smoke-free products offers growth potential. PepsiCo's asset-heavy beverage business and struggling packaged foods segment face more significant near-term challenges despite attractive valuation.",
-    "keywords": [
-      "Dividend Kings",
+      "consumer staples",
+      "defensive stocks",
+      "market rotation",
       "dividend stocks",
-      "beverage companies",
-      "tobacco stocks",
-      "packaged foods",
-      "business models",
-      "dividend yield",
-      "EPS growth"
+      "tech selloff",
+      "52-week highs"
     ],
     "insights": [
       {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reached 52-week high; benefits from loyal membership base and recurring revenue; announced $30-per-share special dividend ($13.3 billion) and $4 billion share repurchase program"
+      },
+      {
         "ticker": "KO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Asset-light business model with high margins, diversified product portfolio beyond soda, reasonable valuation at 25x forward earnings, low payout ratio (62%) allowing room for dividend growth, and strong cash generation capability."
+        "sentiment_reasoning": "Reached 52-week high; recognized as classic defensive investment with pricing power, consistent cash flows, and 64-year dividend increase streak as a Dividend King"
+      },
+      {
+        "ticker": "PG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reached 52-week high; benefits from steady demand for essential household products; 70 consecutive years of dividend increases and 136 years of consecutive dividend payments"
       },
       {
         "ticker": "MO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Attractive valuation at 12x forward earnings, high dividend yield (6.5%), strong EPS growth expected at 13% CAGR through 2028, strategic diversification into smoke-free products targeting $5 billion revenue by 2028, and effective cost management with share buybacks."
+        "sentiment_reasoning": "Reached 52-week high; offers generous dividend yield over 5% with recent 4.7% quarterly payout increase; appeals to income-focused investors despite long-term volume challenges"
       },
+      {
+        "ticker": "MDLZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Reached 52-week high; offers defensive exposure through diversified global snacking brands; dividend increased at annualized rate over 9% in last five years"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Uncertainty surrounding Q3 earnings report weighs on market sentiment; contributing to broader tech sector weakness and investor rotation away from technology stocks"
+      }
+    ]
+  },
+  {
+    "id": "24b44521b046b4d0aff992ae4ee80886488546555745b959433022b941288e38",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "PepsiCo Stock Drops 2.4% in 6 Months: Is More Downside Ahead?",
+    "author": "Na",
+    "published_utc": "2026-11-16T15:54:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030498/pepsico-stock-drops-2-4-in-6-months-is-more-downside-ahead?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3030498",
+    "tickers": [
+      "PEP",
+      "KO",
+      "MNST",
+      "PRMB"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/40/102.jpg",
+    "description": "PepsiCo (PEP) has underperformed its industry peers over the past six months, declining 2.4% as the company faces weak North American beverage volumes, rising input costs, and margin pressures. The company lowered its 2026 earnings guidance to 2.5-3.5% core EPS growth from the previous 5-7%, citing weaker margins and unfavorable business mix. While PEP trades at a discount valuation of 16.89X forward P/E, analysts remain concerned about its subdued growth outlook and profitability challenges.",
+    "keywords": [
+      "PepsiCo",
+      "earnings guidance",
+      "North American beverages",
+      "margin pressure",
+      "commodity costs",
+      "valuation discount",
+      "stock underperformance"
+    ],
+    "insights": [
       {
         "ticker": "PEP",
         "sentiment": "negative",
-        "sentiment_reasoning": "Asset-heavy beverage business with higher capital expenses, struggling packaged foods segment facing competition from healthier and private label brands, margin pressure from inflation, negative impact from GLP-1 weight loss drugs, major product recalls, and throttled North American business growth despite attractive 15x forward earnings valuation."
+        "sentiment_reasoning": "PEP has underperformed peers by 15.3% over six months, lowered earnings guidance significantly, faces persistent margin pressures from rising input costs, weak North American beverage volumes (down 2%), and declining analyst confidence with downward EPS estimate revisions. Despite trading at a discount valuation, the company's profitability concerns and modest growth outlook warrant a negative outlook."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "KO has outperformed PEP significantly with a 22.2% gain over six months and trades at a higher forward P/E multiple of 28.27X, indicating stronger investor confidence and solid growth delivery compared to PepsiCo's challenges."
+      },
+      {
+        "ticker": "MNST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "MNST has gained 4.9% over six months and trades at a premium valuation of 35.73X forward P/E, suggesting strong growth prospects and investor confidence, contrasting with PepsiCo's weak beverage volume performance."
+      },
+      {
+        "ticker": "PRMB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "PRMB has shown modest gains of 1.6% over six months with a forward P/E of 17.37X, slightly above PEP's valuation, indicating relatively stable but unremarkable performance compared to stronger competitors."
       }
     ]
   }

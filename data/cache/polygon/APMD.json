@@ -1,0 +1,33 @@
+{
+  "ticker": "APMD",
+  "name": "Apnimed, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001745648",
+  "composite_figi": "BBG023ML25G9",
+  "share_class_figi": "BBG023ML26P7",
+  "market_cap": 741027866.2,
+  "phone_number": "617-500-8880",
+  "address": {
+    "address1": "39 JOHN F. KENNEDY STREET, 4TH FLR.",
+    "city": "CAMBRIDGE",
+    "state": "MA",
+    "postal_code": "02138"
+  },
+  "description": "Apnimed Inc is a late clinical-stage pharmaceutical company dedicated to the discovery, development, and commercialization of novel oral therapies that address the neurobiology of sleep related breathing diseases. The company's flagship product candidate, AD109, or Oxnimbi, is an investigational, fixed-dose oral combination of a novel anti-muscarinic and selective norepinephrine reuptake inhibitor for the treatment of obstructive sleep apnea (OSA).",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "APMD",
+  "homepage_url": "https://www.apnimed.com",
+  "list_date": "2026-07-31",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YXBuaW1lZC5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YXBuaW1lZC5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 41630779,
+  "round_lot": 100
+}

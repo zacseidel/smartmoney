@@ -1,17 +1,42 @@
 [
   {
-    "id": "d3817a7b4f66d0e1d43509ea8761d578e9178863daa0b9d395e54db1ccd47938",
+    "id": "fc66b7d1bccd77981b95463f1afdff7fc578f902a0d7f53cfd176b2f7b97b1b3",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Capital One (COF) Expected to Beat Earnings Estimates: Can the Stock Move Higher?",
+    "title": "Berkshire Sells 27.5M Bank of America Shares: Should Investors Worry?",
     "author": "Zacks.Com",
-    "published_utc": "2026-10-13T13:00:13Z",
-    "article_url": "https://www.zacks.com/stock/news/3006042/capital-one-cof-expected-to-beat-earnings-estimates-can-the-stock-move-higher?cid=CS-ZC-FT-fundamental_analysis|yseop_template_9-3006042",
+    "published_utc": "2026-11-17T13:59:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031142/berkshire-sells-27-5m-bank-of-america-shares-should-investors-worry?cid=CS-ZC-FT-analyst_blog|quick_take-3031142",
     "tickers": [
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
       "COF",
       "COFpI",
       "COFpJ",
@@ -19,211 +44,195 @@
       "COFpL",
       "COFpN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default134.jpg",
-    "description": "Capital One is expected to report a year-over-year earnings decline but revenue growth for Q3 2026. With a positive Earnings ESP of +1.50% and Zacks Rank #3 (Hold), the stock appears positioned to beat consensus EPS estimates of $5.43 per share. The company has a strong recent surprise history, beating estimates by +19.79% in the last quarter.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0b/57.jpg",
+    "description": "Berkshire Hathaway reduced its Bank of America stake by 5.7% in Q3 2026, selling 27.5 million shares and bringing its total reduction to 57.8 million shares since March 2026. While the persistent selling by a major institutional investor could create sentiment concerns, BAC's underlying fundamentals remain solid with expected 8% net interest income growth in 2026 and at least 8% in 2027. The stock trades at a discount valuation but faces headwinds from lower earnings estimate revisions and broader institutional selling pressure.",
     "keywords": [
-      "earnings estimates",
-      "earnings beat",
-      "Earnings ESP",
-      "Zacks Rank",
-      "credit card issuer",
-      "quarterly earnings",
-      "revenue growth",
-      "earnings surprise"
+      "Berkshire Hathaway",
+      "stake reduction",
+      "institutional selling",
+      "net interest income",
+      "banking sector",
+      "valuation",
+      "earnings estimates"
     ],
     "insights": [
       {
-        "ticker": "COF",
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mixed signals: Berkshire's continued stake reduction creates negative sentiment and potential valuation headwinds, but BAC's fundamentals remain solid with strong NII growth guidance (8% in 2026, 8%+ in 2027), favorable earnings prospects, and attractive valuation (P/TB of 1.78 vs industry 3.15). However, recent earnings estimate revisions lower and 1.2% share price decline in six months offset positive fundamentals."
+      },
+      {
+        "ticker": "AMJB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned favorably as a peer with diversified business model, strong deposit franchise, and multiple revenue streams that provide better cushion against interest-rate volatility and credit challenges compared to Bank of America."
+      },
+      {
+        "ticker": "COF",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       },
       {
         "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       },
       {
         "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       },
       {
         "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       },
       {
         "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       },
       {
         "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Capital One shows positive indicators for an earnings beat with a +1.50% Earnings ESP combined with a Zacks Rank #3 (Hold). The company has demonstrated strong recent earnings surprise history (+19.79% in the last quarter) and analysts have recently become bullish with upward estimate revisions. While earnings are expected to decline year-over-year, revenues are projected to grow 5%, and the combination of positive ESP and Hold rating suggests a ~70% probability of beating consensus estimates."
+        "sentiment": "negative",
+        "sentiment_reasoning": "Berkshire trimmed its Capital One stake by 61.7% in Q3 2026, a much sharper percentage decline than BAC, indicating more significant institutional confidence loss in this company."
       }
     ]
   },
   {
-    "id": "7d8cd75d7289f9b475039b8c36afdce4be3b5e513e2cdf9a64fdeb659553099c",
+    "id": "63f9e2d5f98eabc15d4aa37bba11fff692d21ca1bf4c213af50066c1bb90e955",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Why Investors Need to Take Advantage of These 2 Finance Stocks Now",
+    "title": "Trust Wins Hearts, Deals Win Carts: SYF Eyes Holiday Shopping Gains?",
     "author": "Na",
-    "published_utc": "2026-10-13T11:55:02Z",
-    "article_url": "https://www.zacks.com/stock/news/3005804/why-investors-need-to-take-advantage-of-these-2-finance-stocks-now?cid=CS-ZC-FT-fundamental_analysis|zacks_education_earnings_esp-3005804",
-    "tickers": [
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN",
-      "VIRT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default133.jpg",
-    "description": "Zacks highlights its Earnings ESP (Expected Surprise Prediction) metric as a tool for identifying stocks likely to beat quarterly earnings expectations. Capital One (COF) holds a #3 (Hold) rank with a +1.50% ESP ahead of its October 20, 2026 earnings report, while Virtu Financial (VIRT) carries a #1 (Strong Buy) rank with a +1.88% ESP before reporting on November 5, 2026. Both stocks show positive ESP figures, suggesting potential for earnings beats.",
-    "keywords": [
-      "earnings surprise",
-      "ESP metric",
-      "quarterly earnings",
-      "stock ratings",
-      "earnings beat"
-    ],
-    "insights": [
-      {
-        "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positive Earnings ESP of +1.50% indicates the Most Accurate Estimate ($5.51) exceeds the Zacks Consensus Estimate ($5.43), suggesting potential for an earnings beat. Combined with a #3 (Hold) rank, the stock meets criteria historically associated with 70% positive surprises."
-      },
-      {
-        "ticker": "VIRT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong positive Earnings ESP of +1.88% with a #1 (Strong Buy) rank indicates high confidence in outperformance. The Most Accurate Estimate ($1.52) exceeds consensus ($1.49), and Strong Buy stocks are positioned to outperform the market more than any other rank."
-      }
-    ]
-  },
-  {
-    "id": "4db9042ada6703330737151c901d08c17371df0aab23bd3ba05854f36893df2f",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "SoFi Technologies SMB Lending: Can New Loans Unlock Growth?",
-    "author": "Na",
-    "published_utc": "2026-10-07T15:58:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3002119/sofi-technologies-smb-lending-can-new-loans-unlock-growth?cid=CS-ZC-FT-analyst_blog|quick_take-3002119",
-    "tickers": [
-      "SOFI",
-      "COF",
-      "COFpI",
-      "COFpJ",
-      "COFpK",
-      "COFpL",
-      "COFpN",
-      "AXP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e7/2427.jpg",
-    "description": "SoFi Technologies launched small business loans in Q2 2026, targeting underserved entrepreneurs with fast funding and competitive pricing. The company is using a capital-light approach through its Loan Platform Business, with $3 billion in capacity from Basepoint Capital and additional partnerships. Total originations reached a record $14.8 billion in Q2, up 69% year-over-year, with potential for future balance sheet retention of SMB loans.",
-    "keywords": [
-      "small business loans",
-      "SMB lending",
-      "capital-light strategy",
-      "loan origination",
-      "digital-first platform",
-      "net interest income"
-    ],
-    "insights": [
-      {
-        "ticker": "SOFI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SoFi achieved record lending originations of $14.8 billion (up 69% YoY) and successfully launched SMB loans with strong application demand. The capital-light strategy with $3 billion in partnerships provides scalability while creating a path to recurring net interest income. However, sentiment is tempered by the stock's 12.2% decline in three months and elevated valuation at 20.61X forward P/E versus industry average of 15.45X."
-      },
-      {
-        "ticker": "COF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "COFpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "COFpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "COFpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "COFpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "COFpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Capital One is mentioned as a competitor offering similar small business financing solutions including lines of credit and SBA loans. No specific performance data or developments are provided, warranting a neutral stance."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "American Express is identified as a competitor in small business financing through its Business Line of Credit product. No performance metrics or strategic developments are mentioned, resulting in a neutral rating."
-      }
-    ]
-  },
-  {
-    "id": "f077fb040e93f129c13e053580535c1e3ea7587ddd0b998a6420a3219166e337",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Synchrony Deepens CareCredit's Veterinary Reach With Vetspire Tie-Up",
-    "author": "Na",
-    "published_utc": "2026-10-02T13:20:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2999535/synchrony-deepens-carecredit-s-veterinary-reach-with-vetspire-tie-up?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2999535",
+    "published_utc": "2026-11-10T11:41:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3026979/trust-wins-hearts-deals-win-carts-syf-eyes-holiday-shopping-gains?cid=CS-ZC-FT-analyst_blog|quick_take-3026979",
     "tickers": [
       "SYF",
       "SYFpA",
       "SYFpB",
-      "AXP",
+      "BFH",
+      "BFHpA",
+      "BFHpB",
+      "BFHpC",
       "COF",
       "COFpI",
       "COFpJ",
@@ -231,97 +240,99 @@
       "COFpL",
       "COFpN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/e7/2427.jpg",
-    "description": "Synchrony Financial is integrating CareCredit financing directly into Vetspire's AI-enabled practice management platform used by over 1,000 veterinary clinics. The partnership embeds financing options into the clinical workflow to improve treatment acceptance and efficiency. Health & Wellness purchase volume rose 2.1% year-over-year in Q2 2026, with growth driven by pet spending.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ea/178279.webp",
+    "description": "Synchrony Financial's survey reveals that 83% of consumers plan holiday shopping with trusted retailers while 75% actively seek the best prices. Interest in rewards programs (66%), installment financing (42%), and store cards (40% considering first-purchase discounts) is growing, presenting opportunities for payment processors. However, increased competition and higher rewards-related expenses could pressure profitability across the industry.",
     "keywords": [
-      "veterinary financing",
-      "payment integration",
-      "practice management",
-      "CareCredit",
-      "Vetspire",
-      "healthcare payments",
-      "treatment acceptance"
+      "holiday shopping",
+      "consumer spending",
+      "rewards programs",
+      "installment financing",
+      "store cards",
+      "price sensitivity",
+      "payment processing",
+      "retail partnerships"
     ],
     "insights": [
       {
         "ticker": "SYF",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strategic partnership extends CareCredit into digital healthcare infrastructure with embedded payment options in veterinary clinics. Integration with Vetspire's 1,000+ clinics provides growth opportunity, with 85% already enrolled in CareCredit leaving 15% for incremental adoption. Q2 2026 Health & Wellness volume growth and potential to lift treatment acceptance and utilization support positive outlook."
+        "sentiment_reasoning": "Survey findings show strong consumer interest in rewards redemption (66%), installment financing (42%), and store card adoption (40%), which could drive higher card applications, purchase volumes, and deeper retailer partnerships. The company trades at a favorable valuation (P/E 7.00 vs. industry 13.11) with a Zacks Rank #2 (Buy) rating."
       },
       {
         "ticker": "SYFpA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strategic partnership extends CareCredit into digital healthcare infrastructure with embedded payment options in veterinary clinics. Integration with Vetspire's 1,000+ clinics provides growth opportunity, with 85% already enrolled in CareCredit leaving 15% for incremental adoption. Q2 2026 Health & Wellness volume growth and potential to lift treatment acceptance and utilization support positive outlook."
+        "sentiment_reasoning": "Survey findings show strong consumer interest in rewards redemption (66%), installment financing (42%), and store card adoption (40%), which could drive higher card applications, purchase volumes, and deeper retailer partnerships. The company trades at a favorable valuation (P/E 7.00 vs. industry 13.11) with a Zacks Rank #2 (Buy) rating."
       },
       {
         "ticker": "SYFpB",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strategic partnership extends CareCredit into digital healthcare infrastructure with embedded payment options in veterinary clinics. Integration with Vetspire's 1,000+ clinics provides growth opportunity, with 85% already enrolled in CareCredit leaving 15% for incremental adoption. Q2 2026 Health & Wellness volume growth and potential to lift treatment acceptance and utilization support positive outlook."
+        "sentiment_reasoning": "Survey findings show strong consumer interest in rewards redemption (66%), installment financing (42%), and store card adoption (40%), which could drive higher card applications, purchase volumes, and deeper retailer partnerships. The company trades at a favorable valuation (P/E 7.00 vs. industry 13.11) with a Zacks Rank #2 (Buy) rating."
       },
       {
-        "ticker": "AXP",
+        "ticker": "BFH",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q2 2026 performance with billed business rising 9% year-over-year and total revenues advancing 10% to $19.6 billion. U.S. consumer spending grew 11%, reflecting resilient demand across premium card franchise globally."
+        "sentiment_reasoning": "Well-positioned to capitalize on growing demand for rewards and flexible financing through its private-label and co-branded credit cards. Its survey found 51% of consumers could be influenced by credit card offers, indicating strong market opportunity."
+      },
+      {
+        "ticker": "BFHpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Well-positioned to capitalize on growing demand for rewards and flexible financing through its private-label and co-branded credit cards. Its survey found 51% of consumers could be influenced by credit card offers, indicating strong market opportunity."
+      },
+      {
+        "ticker": "BFHpB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Well-positioned to capitalize on growing demand for rewards and flexible financing through its private-label and co-branded credit cards. Its survey found 51% of consumers could be influenced by credit card offers, indicating strong market opportunity."
+      },
+      {
+        "ticker": "BFHpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Well-positioned to capitalize on growing demand for rewards and flexible financing through its private-label and co-branded credit cards. Its survey found 51% of consumers could be influenced by credit card offers, indicating strong market opportunity."
       },
       {
         "ticker": "COF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       },
       {
         "ticker": "COFpI",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       },
       {
         "ticker": "COFpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       },
       {
         "ticker": "COFpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       },
       {
         "ticker": "COFpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       },
       {
         "ticker": "COFpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong momentum following Discover acquisition with credit card purchase volume climbing 26% year-over-year to $253.8 billion in Q2 2026. Credit Card segment net revenues rose 29% supported by solid spending and resilient credit performance."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Could benefit from increased holiday spending through its credit card portfolio and rewards offerings, with domestic card purchase volume rising 11% year-over-year. However, intensifying competition for price-conscious shoppers and higher rewards expenses could weigh on profitability growth."
       }
     ]
   },
   {
-    "id": "15b35ed9df09ece04bbfc65910edfd7507181b437dcc186ae9f6664773be7288",
+    "id": "d64ca90caaab7aedd984434acb6186919353f8dd494beedee129673331f14e26",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "WFC's Credit Rating Upgraded to 'A-' by S&P, Outlook Remains Stable",
-    "author": "Na",
-    "published_utc": "2026-10-01T15:41:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2999115/wfc-s-credit-rating-upgraded-to-a-by-s-p-outlook-remains-stable?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-2999115",
+    "title": "Software Safety Institute Launches to Reduce Preventable Harm from Insecure Software",
+    "author": "Not Specified",
+    "published_utc": "2026-11-09T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/09/3398616/0/en/software-safety-institute-launches-to-reduce-preventable-harm-from-insecure-software.html",
     "tickers": [
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "RITM",
-      "RITMpA",
-      "RITMpB",
-      "RITMpC",
-      "RITMpD",
-      "RITMpE",
-      "RITMpF",
       "COF",
       "COFpI",
       "COFpJ",
@@ -329,119 +340,198 @@
       "COFpL",
       "COFpN"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8f/410.jpg",
-    "description": "S&P Global Ratings upgraded Wells Fargo's issuer credit rating to 'A-' from 'BBB+' with a stable outlook, citing significant progress in risk management, governance, and profitability. The bank has terminated 14 consent orders since 2019, expanded its balance sheet following the removal of asset caps, and increased its ROTCE target to 17%-18%. S&P also upgraded ratings for Rithm Capital and Capital One in September 2026.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/ac08b73d-5502-4c39-8dd0-fc80be547d25",
+    "description": "The Software Safety Institute, a new independent nonprofit, launched on November 9, 2026, to advance research and policy on software safety. Founded by Lauren Zabierek and Bob Lord, the organization aims to shift responsibility for software defects from users to manufacturers through independent research, public education, and policy frameworks. The institute argues that preventable software flaws, particularly memory safety issues known for 30 years, persist due to misaligned incentives rather than technical limitations.",
     "keywords": [
-      "credit rating upgrade",
-      "risk management",
-      "Wells Fargo",
-      "S&P Global Ratings",
-      "ROTCE",
-      "consent orders",
-      "profitability",
-      "capital ratios",
-      "balance sheet growth"
+      "software safety",
+      "cybersecurity",
+      "public policy",
+      "memory safety",
+      "software quality",
+      "manufacturer responsibility",
+      "nonprofit organization"
     ],
     "insights": [
       {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "ticker": "COF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
       },
       {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "ticker": "COFpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
       },
       {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "ticker": "COFpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
       },
       {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "ticker": "COFpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
       },
       {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "ticker": "COFpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
       },
       {
-        "ticker": "WFCpY",
+        "ticker": "COFpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Capital One's Eric Goldstein serves on SSI's board of directors. This represents organizational participation in a public-interest initiative but does not directly impact the company's business operations or financial performance."
+      }
+    ]
+  },
+  {
+    "id": "cc1f374ff14aaeee29bb7e3a7e70535dcab3093ab021a05776411b6cf1c6de3e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "5 Payment Stocks That Earn a Fee Every Time You Swipe",
+    "author": "Daniel Sparks",
+    "published_utc": "2026-11-04T05:37:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/04/5-payment-stocks-that-earn-a-fee-every-time-you-swipe/?source=iedfolrf0000001",
+    "tickers": [
+      "V",
+      "MA",
+      "AXP",
+      "PYPL",
+      "COF",
+      "COFpI",
+      "COFpJ",
+      "COFpK",
+      "COFpL",
+      "COFpN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb0e7c853010fa49f1db46472fdd703a17c0ff111-7008x4672.jpg&w=1200&op=resize",
+    "description": "The article analyzes five payment processing stocks that earn fees on transactions: Visa, Mastercard, American Express, PayPal, and Capital One. Visa and Mastercard trade at premium valuations (~28x earnings) due to their low-risk fee-based models with no lending exposure. PayPal and Capital One trade cheaper (~9-10x earnings) due to higher risks from shrinking margins and credit exposure respectively. American Express falls in between at ~16x earnings. The author recommends Visa and Mastercard as the simplest payment fee plays, with Mastercard having a slight edge due to faster-growing services revenue.",
+    "keywords": [
+      "payment processing",
+      "transaction fees",
+      "payment networks",
+      "valuation multiples",
+      "credit risk",
+      "payment volume"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "sentiment_reasoning": "Trading at premium 28x earnings multiple justified by pure fee-based model with no credit risk. Handled 74.2B transactions (up 10% YoY) with 13% revenue growth and 17% EPS growth. Author recommends as top choice for simplest payment fee exposure."
       },
       {
-        "ticker": "WFCpZ",
+        "ticker": "MA",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded WFC's credit rating from 'BBB+' to 'A-' reflecting improved risk management, terminated consent orders, removal of asset cap restrictions, expanding profitability with ROTCE rising to 16.1%, and strengthened client relationships. However, stock performance lagged the industry by 12.7% over six months."
+        "sentiment_reasoning": "Trading at premium 28x earnings with strong fundamentals. Value-added services revenue jumped 19% and now comprises 41% of net revenue, providing diversification. Author gives it slight edge over Visa due to faster-growing services business."
       },
       {
-        "ticker": "RITM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Trading at moderate 16x earnings, falling between pure networks and lenders. Generates fees from merchants but also carries credit risk from lending operations. Net write-off rate improved to 1.8%, but credit quality remains a key risk factor."
       },
       {
-        "ticker": "RITMpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
-      },
-      {
-        "ticker": "RITMpB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
-      },
-      {
-        "ticker": "RITMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
-      },
-      {
-        "ticker": "RITMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
-      },
-      {
-        "ticker": "RITMpE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
-      },
-      {
-        "ticker": "RITMpF",
-        "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Rithm Capital's issuer credit rating to 'B+' from 'B' with stable outlook, citing greater earnings diversification through asset management, residential transitional lending, and commercial real estate businesses."
+        "ticker": "PYPL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~10x earnings due to significant headwinds. Transaction revenue grew only 3% despite 6% payment volume growth, indicating shrinking margins (1.58% cut down from 1.65%). Author identifies margin compression as primary reason for cheap valuation."
       },
       {
         "ticker": "COF",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      },
+      {
+        "ticker": "COFpI",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      },
+      {
+        "ticker": "COFpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      },
+      {
+        "ticker": "COFpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      },
+      {
+        "ticker": "COFpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      },
+      {
+        "ticker": "COFpN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Trading cheaply at ~9x earnings primarily due to credit risk exposure. While Discover network volume grew 25%, lending remains core business with net charge-off rates as key metric. Economic slowdown could reverse recent credit quality improvements."
+      }
+    ]
+  },
+  {
+    "id": "840c23b4fbc3d95eb1cc3e5c2c791c6b6e472825c79b64c964fc4f73dfa0aceb",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "What Makes Capital One (COF) a New Buy Stock",
+    "author": "Na",
+    "published_utc": "2026-11-03T16:00:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3022065/what-makes-capital-one-cof-a-new-buy-stock?cid=CS-ZC-FT-fundamental_analysis|yseop_template_12_zacks_rank_upgrade-3022065",
+    "tickers": [
+      "COF",
+      "COFpI",
+      "COFpJ",
+      "COFpK",
+      "COFpL",
+      "COFpN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default146.jpg",
+    "description": "Capital One (COF) received an upgrade to Zacks Rank #2 (Buy) based on upward trends in earnings estimates over the past three months, with a 6.7% increase in consensus estimates. The upgrade reflects improving business fundamentals and suggests the stock could move higher in the near term, as the company is positioned in the top 20% of Zacks-covered stocks for estimate revisions.",
+    "keywords": [
+      "earnings estimates",
+      "earnings revisions",
+      "Zacks Rank",
+      "stock rating upgrade",
+      "Capital One",
+      "credit card issuer",
+      "consensus estimate"
+    ],
+    "insights": [
+      {
+        "ticker": "COF",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       },
       {
         "ticker": "COFpI",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       },
       {
         "ticker": "COFpJ",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       },
       {
         "ticker": "COFpK",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       },
       {
         "ticker": "COFpL",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       },
       {
         "ticker": "COFpN",
         "sentiment": "positive",
-        "sentiment_reasoning": "S&P upgraded Capital One's long-term issuer credit rating to 'BBB+' from 'BBB' with stable outlook, reflecting stronger franchise, successful Discover integration, and expected benefits from higher card purchase volumes and revenue diversification."
+        "sentiment_reasoning": "Company received an upgrade to Zacks Rank #2 (Buy) driven by upward earnings estimate revisions of 6.7% over the past three months. The upgrade indicates improving business fundamentals and positions the stock in the top 20% of covered stocks, suggesting potential for near-term price appreciation."
       }
     ]
   }

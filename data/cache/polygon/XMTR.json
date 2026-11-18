@@ -1,0 +1,35 @@
+{
+  "ticker": "XMTR",
+  "name": "Xometry, Inc. Class A Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001657573",
+  "composite_figi": "BBG00BDCCV93",
+  "share_class_figi": "BBG00BDCCVB0",
+  "market_cap": 6625477754.5,
+  "phone_number": "240-335-7914",
+  "address": {
+    "address1": "6116 EXECUTIVE BOULEVARD, SUITE 800",
+    "city": "NORTH BETHESDA",
+    "state": "MD",
+    "postal_code": "20852"
+  },
+  "description": "Xometry Inc is engaged in providing AI-enabled manufacturing equipment. Its buyers include engineers, product designers, procurement and supply chain personnel, inventors, and business owners. The manufacturing processes offered by the company include CNC Machining, Injection Molding, Urethane Casting, 3D Printing, and Die Casting. The company is organized into two segments referred to as the U.S. and the International. The majority of its revenue is derived from the U.S. segment.",
+  "sic_code": "7389",
+  "sic_description": "SERVICES-BUSINESS SERVICES, NEC",
+  "ticker_root": "XMTR",
+  "homepage_url": "https://www.xometry.com",
+  "total_employees": 1174,
+  "list_date": "2021-06-30",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/eG9tZXRyeS5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/eG9tZXRyeS5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 56162599,
+  "weighted_shares_outstanding": 57637910,
+  "round_lot": 100
+}

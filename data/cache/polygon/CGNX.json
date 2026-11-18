@@ -1,0 +1,35 @@
+{
+  "ticker": "CGNX",
+  "name": "Cognex Corp",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000851205",
+  "composite_figi": "BBG000BPBVW5",
+  "share_class_figi": "BBG001S5TC16",
+  "market_cap": 8166335910.0,
+  "phone_number": "(508) 650-3000",
+  "address": {
+    "address1": "ONE VISION DR",
+    "city": "NATICK",
+    "state": "MA",
+    "postal_code": "01760"
+  },
+  "description": "Cognex Corp provides machine vision products that help automate manufacturing processes. The firm's products include vision software, vision systems, vision sensors, and ID products. Vision software combines vision tools with a customer's cameras and peripheral equipment and can help with several vision tasks, including part location, identification, measurement, and robotic guidance. Vision systems combine a camera, processor, and vision software into a single package. Vision sensors deliver simple, low-cost solutions for common vision applications, such as checking the size of parts. Geographically, it operates in United states, Europe, Greater China and others. Cognex generates the maximum proportion of its sales in the United States and Europe.",
+  "sic_code": "3823",
+  "sic_description": "INDUSTRIAL INSTRUMENTS FOR MEASUREMENT, DISPLAY, AND CONTROL",
+  "ticker_root": "CGNX",
+  "homepage_url": "https://www.cognex.com",
+  "total_employees": 2745,
+  "list_date": "1989-07-20",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Y29nbmV4LmNvbQ/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Y29nbmV4LmNvbQ/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 168378060,
+  "weighted_shares_outstanding": 168378060,
+  "round_lot": 100
+}

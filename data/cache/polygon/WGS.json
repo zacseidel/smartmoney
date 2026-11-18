@@ -1,0 +1,36 @@
+{
+  "ticker": "WGS",
+  "name": "GeneDx Holdings Corp. Class A Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001818331",
+  "composite_figi": "BBG00XDHY5P9",
+  "share_class_figi": "BBG00XDHY5R7",
+  "market_cap": 1417399193.97,
+  "phone_number": "888-729-1206",
+  "address": {
+    "address1": "333 LUDLOW STREET",
+    "address2": "NORTH TOWER, 6TH FLOOR",
+    "city": "STAMFORD",
+    "state": "CT",
+    "postal_code": "06902"
+  },
+  "description": "GeneDx Holdings Corp focuses on genomics, creating the foundation for providing genomic information at scale and pioneering exome and genome sequencing for rare and ultra-rare genetic pediatric disorders. The company believes exome and genome testing will become the standard for diagnosing genetic disease, with the potential to transform healthcare from reactive to proactive. It aims to advance precision medicine by offering genetic diagnoses at the earliest moments, driving improved outcomes, and fueling discovery with genomic intelligence. Its operating segment mainly provides pediatric and rare disease diagnostics, focusing on whole exome and genome sequencing and, to a lesser extent, data and information services.",
+  "sic_code": "8000",
+  "sic_description": "SERVICES-HEALTH SERVICES",
+  "ticker_root": "WGS",
+  "homepage_url": "https://www.genedx.com",
+  "total_employees": 1300,
+  "list_date": "2021-07-23",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Z2VuZWR4LmNvbQ/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Z2VuZWR4LmNvbQ/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 29972493,
+  "weighted_shares_outstanding": 29972493,
+  "round_lot": 100
+}

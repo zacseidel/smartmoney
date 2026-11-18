@@ -1,0 +1,35 @@
+{
+  "ticker": "IOT",
+  "name": "Samsara Inc.",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001642896",
+  "composite_figi": "BBG0099PW5P1",
+  "share_class_figi": "BBG0099PW5Q0",
+  "market_cap": 22996716557.43,
+  "phone_number": "(415) 985-2400",
+  "address": {
+    "address1": "1 DE HARO STREET",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "postal_code": "94107"
+  },
+  "description": "Samsara Inc provides an end-to-end solution for operations. The company's Connected Operations Platform consolidates data from its IoT devices and a growing ecosystem of connected assets and third-party systems, and makes it easy for organizations to access, analyze, and act on data insights using its cloud dashboard, custom alerts and reports, mobile apps, and workflows. The company derives almost all of its revenue from subscription services. Geographically, it derives a majority of its revenue from the United States. The company's customers range from small and medium-sized businesses to state and local governments.",
+  "sic_code": "7373",
+  "sic_description": "SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN",
+  "ticker_root": "IOT",
+  "homepage_url": "https://www.samsara.com",
+  "total_employees": 4100,
+  "list_date": "2021-12-15",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2Ftc2FyYS5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/c2Ftc2FyYS5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 380273036,
+  "weighted_shares_outstanding": 585605209,
+  "round_lot": 100
+}

@@ -1,0 +1,27 @@
+{
+  "ticker": "XLF",
+  "name": "State Street Financial Select Sector SPDR ETF",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "ARCX",
+  "type": "ETF",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000093751",
+  "composite_figi": "BBG000BJ29X7",
+  "share_class_figi": "BBG001S7T223",
+  "phone_number": "617 786-3000",
+  "address": {
+    "address1": "1 CONGRESS STREET",
+    "address2": "SUITE 1",
+    "city": "BOSTON",
+    "state": "MA",
+    "postal_code": "02114"
+  },
+  "sic_code": "6022",
+  "sic_description": "STATE COMMERCIAL BANKS",
+  "ticker_root": "XLF",
+  "list_date": "1998-12-16",
+  "share_class_shares_outstanding": 925245427,
+  "round_lot": 100
+}

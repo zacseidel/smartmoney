@@ -1,262 +1,206 @@
 [
   {
-    "id": "411539f90cc6d1338316755be9e854e6ff24ab13f33d77fd041ebc9c8b6d81dc",
+    "id": "52e6ede73495034927961057f05562d04e39ee4b50ed1e7fd01eff31fa495491",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Paints and Coatings Industry to Hit $240.8 Bn by 2032 Driven by Construction Growth, Automotive Demand, and Green Coating Adoption | Mordor Intelligence",
+    "author": "Mordor Intelligence",
+    "published_utc": "2026-11-18T00:30:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/18/3405334/0/en/paints-and-coatings-industry-to-hit-240-8-bn-by-2032-driven-by-construction-growth-automotive-demand-and-green-coating-adoption-mordor-intelligence.html",
+    "tickers": [
+      "PPG",
+      "SHW",
+      "RPM",
+      "AKZOY",
+      "NPPHY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/416870ff-5134-4fb2-8605-50f7b688dd33",
+    "description": "The global paints and coatings market is projected to grow from $192.5 billion in 2026 to $240.8 billion by 2032, with a CAGR of 3.84%. Growth is driven by residential construction, automotive production, urbanization in Asia-Pacific, and adoption of green, low-VOC coatings. However, tightening VOC regulations and volatile titanium dioxide supply present challenges.",
+    "keywords": [
+      "paints and coatings market",
+      "construction growth",
+      "automotive demand",
+      "green coatings",
+      "low-VOC formulations",
+      "Asia-Pacific expansion",
+      "market forecast 2032"
+    ],
+    "insights": [
+      {
+        "ticker": "PPG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Leading global manufacturer positioned to benefit from steady automotive production and architectural coating demand across multiple regions."
+      },
+      {
+        "ticker": "SHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong presence in North American market which shows healthier sales volumes; benefits from residential construction momentum and green building initiatives."
+      },
+      {
+        "ticker": "RPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Diversified coatings manufacturer benefiting from multiple end-user industries including architectural, automotive, and protective coatings growth."
+      },
+      {
+        "ticker": "AKZOY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major player in growing paints and coatings market benefiting from rising construction, automotive production, and green coating adoption trends."
+      },
+      {
+        "ticker": "NPPHY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Major player in Asia-Pacific region with opportunities from local capacity expansion and water-borne automotive product demand."
+      }
+    ]
+  },
+  {
+    "id": "c92a14f0d76c16b52bf56ed34a48646dec1a3f5b534757318c5a4bdb1745828e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "2 Brilliant Stocks to Buy Before 2027",
+    "author": "John Ballard",
+    "published_utc": "2026-11-15T20:30:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/15/2-brilliant-stocks-to-buy-before-2027/?source=iedfolrf0000001",
+    "tickers": [
+      "W",
+      "SHW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F9dd1b0e4e10d93ce9f03482fe96985af66bd97a7-2190x1369.jpg&w=1200&op=resize",
+    "description": "Despite a severe housing market slump with existing-home sales down 8.8% year-over-year and mortgage rates at 16-year highs, Wayfair and Sherwin-Williams are growing sales and gaining market share. Both companies are positioned to benefit when housing stabilizes, with Wayfair showing strong profitability improvements and Sherwin-Williams maintaining margins while accelerating growth.",
+    "keywords": [
+      "housing market slump",
+      "home furnishings",
+      "paint and coatings",
+      "market share gains",
+      "profitability",
+      "earnings growth",
+      "mortgage rates"
+    ],
+    "insights": [
+      {
+        "ticker": "W",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock nearly doubled since May, Q3 revenue up 9.7% YoY with operating income nearly tripling. Company is gaining market share, reducing advertising spend while growing orders, and has multiple growth initiatives still in early stages. Valuation at 27x 2027 earnings appears reasonable given 24% YoY adjusted EPS growth."
+      },
+      {
+        "ticker": "SHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Sales growth accelerated for five consecutive quarters to 7.9%, with company gaining share across end markets despite housing weakness. Adjusted EBITDA margin stable at 20.5%, and company has multiple 2027 catalysts including 8% price increase, $75M cost savings, and store expansion that don't depend on housing recovery."
+      }
+    ]
+  },
+  {
+    "id": "9ab67e523648f52f8e819b0d9588e79dc7ce2837c2cbdfe22773293b6dce4b7d",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Sherwin-Williams: 3 Key Takeaways for Long-Term Investors",
+    "author": "The Motley Fool Team",
+    "published_utc": "2026-10-28T04:14:45Z",
+    "article_url": "https://www.fool.com/earnings/takeaways/2026/10/28/sherwin-williams-3-key-takeaways-for-long-term-investors/?source=iedfolrf0000001",
+    "tickers": [
+      "SHW"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg&w=1200&op=resize",
+    "description": "Sherwin-Williams reported 8% consolidated sales growth in Q3 2026 despite soft demand. The company implemented an 8% price increase in its Paint Stores Group and expects $75 million in structural cost savings in 2027. Despite declining single-family home completions, Sherwin-Williams continues gaining market share through its proprietary store network and pricing discipline, positioning itself to protect earnings through the industry downturn.",
+    "keywords": [
+      "paint manufacturer",
+      "pricing discipline",
+      "market share gains",
+      "cost reduction",
+      "residential construction",
+      "earnings protection",
+      "industry downturn"
+    ],
+    "insights": [
+      {
+        "ticker": "SHW",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The company demonstrates resilience during a market downturn through successful price increases (8% effective Sept 1), significant cost savings initiatives ($75 million expected in 2027), and continued market share gains despite declining residential construction. Management's confidence in structural improvements and ability to maintain margins positions the company favorably for long-term investors."
+      }
+    ]
+  },
+  {
+    "id": "b451655bce45ea26347da4ae7ffc75f49d840f93b4fae0e2dd5338e5af8e6ecc",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Sherwin-Williams (SHW) Up 1.4% Since Last Earnings Report: Can It Continue?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-08-27T15:30:21Z",
-    "article_url": "https://www.zacks.com/stock/news/2981184/sherwin-williams-shw-up-1-4-since-last-earnings-report-can-it-continue?cid=CS-ZC-FT-realtime_blog-2981184",
+    "title": "Will PPG Industries' Strong Cash Flow Fuel Shareholder Returns?",
+    "author": "Na",
+    "published_utc": "2026-10-08T16:09:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3003128/will-ppg-industries-strong-cash-flow-fuel-shareholder-returns?cid=CS-ZC-FT-analyst_blog|quick_take-3003128",
     "tickers": [
+      "PPG",
       "SHW"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default189.jpg",
-    "description": "Sherwin-Williams reported Q2 2026 earnings that beat estimates with adjusted EPS of $3.70 (up 9.5% YoY) and revenues of $6.79 billion (up 7.5% YoY). All three segments showed growth, supported by the Suvinil acquisition. The company raised full-year 2026 guidance for both net sales and earnings. However, management expects demand softness to continue in the second half. The stock has gained 1.4% since the earnings report but underperformed the S&P 500, and carries a Zacks Rank #3 (Hold) rating.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/21/1443.jpg",
+    "description": "PPG Industries generated $594 million in operating cash flow in H1 2026, up $223 million year-over-year, supported by cost-saving initiatives and pricing actions. The company returned $1.4 billion to shareholders in 2025 and raised its dividend for 54 consecutive years. Global Architectural Coatings saw EBITDA margin expansion of 100 basis points to 19.4%. PPG stock gained 5.5% over the past year and trades at a discount valuation, though it carries a Zacks Rank #3 (Hold) with lower EPS estimate trends.",
     "keywords": [
-      "earnings beat",
-      "revenue growth",
-      "guidance raised",
-      "demand softness",
-      "acquisition",
-      "paint industry",
-      "segment performance"
+      "operating cash flow",
+      "shareholder returns",
+      "dividend increase",
+      "cost savings",
+      "margin expansion",
+      "valuation discount",
+      "specialty chemicals"
     ],
     "insights": [
+      {
+        "ticker": "PPG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong operating cash flow growth of $223 million YoY, consistent dividend increases for 54 years, margin expansion in key segments, and attractive valuation at 1.35x forward P/S versus industry average of 2.44x support positive outlook despite Hold rating."
+      },
       {
         "ticker": "SHW",
         "sentiment": "positive",
-        "sentiment_reasoning": "Company beat earnings and revenue estimates, achieved broad-based sales growth across all three segments, raised full-year guidance for both net sales and adjusted earnings, and demonstrated strong operational performance with margin improvements. However, positive sentiment is tempered by management's expectation of continued demand softness in the second half and the stock's Hold rating."
+        "sentiment_reasoning": "Generated higher net operating cash flow of $1.49 billion in H1 2026 versus $1.05 billion in fiscal 2025, demonstrating strong cash generation improvement through aggressive cost-control and supply chain optimization initiatives."
       }
     ]
   },
   {
-    "id": "526ce9c70dc4b30541d4c5f38f6f76124e3943ee1522b90889d6ff1f148db78a",
+    "id": "42725fb61f1d36821aec859e511d0d741217cfc813446d37fe1ab0c32dbf4319",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Insider Sheds $2.9 Million Worth of Stock Following Option Exercise",
-    "author": "Jake Lerch",
-    "published_utc": "2026-08-15T00:20:01Z",
-    "article_url": "https://www.fool.com/coverage/filings/2026/08/14/insider-sheds-usd2-9-million-worth-of-stock-following-option-exercise/?source=iedfolrf0000001",
+    "title": "Sherwin-Williams Expands Manufacturing Capacity at Statesville",
+    "author": "Na",
+    "published_utc": "2026-10-01T12:32:00Z",
+    "article_url": "https://www.zacks.com/stock/news/2998815/sherwin-williams-expands-manufacturing-capacity-at-statesville?cid=CS-ZC-FT-analyst_blog|company_news_corporate_actions-2998815",
     "tickers": [
       "SHW"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F7c4db55a3ec93213c3928bb0037d6c8d15157943-1401x1251.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Karl Jorgenrud, President of Global Industrial at Sherwin-Williams, sold 7,886 shares worth $2.9 million on August 7, 2026, through a cashless exercise of stock options granted in 2017. The sale reduced his direct holdings by 40%, though he retains over 13,000 shares. Despite the insider sale, the article notes Sherwin-Williams has solid fundamentals with strong operating margins and recently announced an 8% price increase effective September 1, 2026.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/1458.jpg",
+    "description": "Sherwin-Williams opened its expanded architectural paint and coatings manufacturing facility in Statesville, NC, which is now the company's largest manufacturing plant in North America. The expansion added nearly 50,000 square feet of improvements including production space, automation enhancements, and four new rail spurs to increase capacity and operational efficiency.",
     "keywords": [
-      "insider trading",
-      "stock option exercise",
-      "cashless exercise",
-      "equity liquidation",
-      "operating margins",
-      "price increase"
+      "manufacturing expansion",
+      "Statesville facility",
+      "production capacity",
+      "automation",
+      "North Carolina",
+      "distribution hub"
     ],
     "insights": [
       {
         "ticker": "SHW",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While the insider sale could signal reduced confidence, the article emphasizes the company's solid fundamentals including strong operating margins (16.5%, near five-year high), recent 8% price increase to offset input costs, and fair valuation at 33x P/E. The insider retained significant holdings (13,195 shares), suggesting confidence in the company despite underperformance versus the S&P 500 over five years."
-      }
-    ]
-  },
-  {
-    "id": "d9f5c9c555d9a08ee3795df4e989f4e1584c6e6810edd79987c53db740791d8a",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Market Indexes Tumble on Geopolitical Tensions and Chip Stock Selloff",
-    "author": "Anders Bylund",
-    "published_utc": "2026-07-29T17:29:46Z",
-    "article_url": "https://www.fool.com/investing/2026/07/29/market-indexes-tumble-on-geopolitical-tensions/?source=iedfolrf0000001",
-    "tickers": [
-      "CAT",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "MU",
-      "AMD",
-      "SOXX",
-      "SHW",
-      "BA",
-      "BApA",
-      "MSFT",
-      "META"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F881130%2Ftablet-thinking-office.jpg&w=1200&op=resize",
-    "description": "U.S. stock markets fell sharply on Wednesday amid renewed Middle East geopolitical tensions and ahead of the Federal Reserve's policy decision. The Dow dropped 1.7%, S&P 500 fell 1.0%, and Nasdaq declined 1.3%. Semiconductor stocks were hit hardest, with the sector extending a 10% weekly decline. Oil prices surged over 6% on Iran tensions, pressuring energy-dependent companies across sectors.",
-    "keywords": [
-      "geopolitical tensions",
-      "semiconductor selloff",
-      "oil prices",
-      "Federal Reserve",
-      "market decline",
-      "earnings season",
-      "AI infrastructure"
-    ],
-    "insights": [
-      {
-        "ticker": "CAT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock dropped 7.3% due to macroeconomic concerns and higher oil prices impacting manufacturing costs"
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 4.6% on macroeconomic concerns amid market volatility and geopolitical tensions"
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 4.6% on macroeconomic concerns amid market volatility and geopolitical tensions"
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 4.6% on macroeconomic concerns amid market volatility and geopolitical tensions"
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 4.6% on macroeconomic concerns amid market volatility and geopolitical tensions"
-      },
-      {
-        "ticker": "MU",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock dropped 5.7% as a richly valued growth/semiconductor stock experiencing sector-wide de-risking selloff"
-      },
-      {
-        "ticker": "AMD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 5.8% as part of semiconductor sector weakness despite no company-specific negative news"
-      },
-      {
-        "ticker": "SOXX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "ETF plunged 4.4%, extending a 10% weekly decline as semiconductor stocks face broad sector selloff"
-      },
-      {
-        "ticker": "SHW",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 2.7% despite beating analyst estimates, erasing gains on broader market de-risking"
-      },
-      {
-        "ticker": "BA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 2.7% despite posting mixed earnings report, contributing to Dow weakness"
-      },
-      {
-        "ticker": "BApA",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock fell 2.7% despite posting mixed earnings report, contributing to Dow weakness"
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock up 0.6% despite market decline; reporting earnings after close with focus on AI infrastructure spending"
-      },
-      {
-        "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Stock down only 0.1% despite market decline; reporting earnings after close with focus on AI infrastructure spending"
-      }
-    ]
-  },
-  {
-    "id": "48e3eddd032e8f8381cbfecac770148845aa0f7ba0226fc6d6c71840dafbc02d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "The Big Paint vs Rare Earth Faceoff: One Stock to Buy Right Now for 2026 and Beyond",
-    "author": "Neha Chamaria",
-    "published_utc": "2026-06-27T19:11:14Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/06/27/the-big-paint-vs-rare-earth-faceoff-one-stock-to-buy-right-now-for-2026-and-beyond/?source=iedfolrf0000001",
-    "tickers": [
-      "MP",
-      "SHW",
-      "GM",
-      "AAPL"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F8cd6be858db5e4ce4620efa120c8f078af15d22a-1200x800.png%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article compares MP Materials, a rare-earth elements producer serving EVs and defense, against Sherwin-Williams, a mature paint and coatings company. MP Materials offers high-growth potential with government backing and major customer contracts but faces losses and Chinese competition. Sherwin-Williams provides stable cash flows, consistent dividend growth, and profitability but slower growth. The author recommends MP Materials for its explosive growth potential despite higher valuation and risk.",
-    "keywords": [
-      "rare earth elements",
-      "supply chain security",
-      "electric vehicles",
-      "defense technology",
-      "government contracts",
-      "dividend stocks",
-      "valuation comparison",
-      "growth vs stability"
-    ],
-    "insights": [
-      {
-        "ticker": "MP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Positioned as a national security asset with government backing (15% stake), 10-year magnet purchase agreements, high-profile customers (GM, Apple, DoD), and significant growth potential in critical rare-earth supply chains. Despite current losses and negative free cash flow, the company is viewed as having explosive return potential under favorable policy conditions."
-      },
-      {
-        "ticker": "SHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Established market leader with strong profitability, 47 consecutive years of dividend increases, robust cash generation ($2.7B free cash flow), and pricing power. However, modest 2% revenue growth, exposure to housing/construction cyclicality, and valuation near market average limit upside potential compared to growth alternatives."
-      },
-      {
-        "ticker": "GM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a high-profile customer of MP Materials' rare-earth magnets, indicating demand for critical EV components, but no independent analysis provided."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a customer of MP Materials' magnets, supporting demand for rare-earth products, but no independent assessment provided."
-      }
-    ]
-  },
-  {
-    "id": "a56e78e1e142dfc1db36e846b6d2dfa83aa79d1bbe4733ba23f9850583e8d4f7",
-    "publisher": {
-      "name": "Investing.com",
-      "homepage_url": "https://www.investing.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
-    },
-    "title": "Viking Therapeutics Faces Timeline Risk\u2014But Upside Could Be Huge",
-    "author": "Chris Markoch",
-    "published_utc": "2026-05-01T16:10:00Z",
-    "article_url": "https://www.investing.com/analysis/viking-therapeutics-faces-timeline-riskbut-upside-could-be-huge-200679534",
-    "tickers": [
-      "SHW"
-    ],
-    "amp_url": "https://m.investing.com/analysis/viking-therapeutics-faces-timeline-riskbut-upside-could-be-huge-200679534?ampMode=1",
-    "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-    "description": "Sherwin-Williams reported Q1 2026 earnings that beat expectations with adjusted EPS of $2.35 and revenue of $5.67 billion, but guided flat for the year citing elevated mortgage rates and weak DIY consumer demand. The stock fell 3.5% despite solid fundamentals, as investors worry about valuation at 31x P/E and lack of near-term housing market recovery. However, the company's strong operating cash flow and 48-year dividend growth streak position it as a long-term compounder.",
-    "keywords": [
-      "Sherwin-Williams",
-      "Q1 2026 earnings",
-      "housing market",
-      "mortgage rates",
-      "dividend aristocrat",
-      "valuation concerns",
-      "DIY demand"
-    ],
-    "insights": [
-      {
-        "ticker": "SHW",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed signals: beat on earnings and revenue with strong operating cash flow improvement, but flat guidance and elevated valuation (31x P/E) amid weak housing demand and geopolitical cost pressures. Long-term dividend growth story is positive, but near-term headwinds and overvaluation relative to peers create uncertainty."
+        "sentiment_reasoning": "While the facility expansion demonstrates capital investment and operational improvements, SHW shares have underperformed, declining 6% over the past year compared to the industry's 0.9% decline. The company carries a Zacks Rank #3 (Hold), indicating the market has not yet priced in significant positive momentum from this expansion."
       }
     ]
   }

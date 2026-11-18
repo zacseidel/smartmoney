@@ -1,18 +1,826 @@
 [
   {
-    "id": "2f2d2ba9cf6887b1ff2b2937332a9928a3dea6c4a21d4967c304b3e636a3ee91",
+    "id": "4a3a8e28293eb6d2a4073ea540742009f4fce74fccc5e16db512e5c06a1e8ae5",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "JPMorgan Faces Banking Outage: Will Operational Risks Rise?",
+    "author": "Na",
+    "published_utc": "2026-11-17T14:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031162/jpmorgan-faces-banking-outage-will-operational-risks-rise?cid=CS-ZC-FT-analyst_blog|quick_take-3031162",
+    "tickers": [
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/59/80.jpg",
+    "description": "JPMorgan Chase experienced a significant technology disruption on November 16 due to an on-premise software bug that delayed transactions and affected banking services across its customer base and interconnected payment systems. While the bank ruled out cyberattacks and maintained fund accessibility, the incident highlights operational vulnerabilities and potential risks including remediation costs, regulatory scrutiny, and customer confidence concerns. The outage also impacted other lenders including Bank of America and Wells Fargo, underscoring systemic risks in the U.S. payments infrastructure.",
+    "keywords": [
+      "technology outage",
+      "software bug",
+      "payment systems",
+      "operational resilience",
+      "banking services disruption",
+      "regulatory scrutiny",
+      "customer confidence"
+    ],
+    "insights": [
+      {
+        "ticker": "AMJB",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "The bank experienced a major technology outage affecting thousands of customers and interconnected payment systems. While immediate financial impact appears limited, the incident raises concerns about operational resilience, potential remediation costs, regulatory scrutiny, and customer retention risks. The bank carries a Zacks Rank #3 (Hold) rating."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Bank of America's systems were functioning normally during the outage, but its customers experienced transaction difficulties due to interconnected payment infrastructure. The incident highlights operational risks from third-party disruptions rather than internal failures."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Wells Fargo witnessed customer complaints during the outage but had no confirmed internal infrastructure issues. The incident poses potential customer-service cost increases and reputational risks through payment-related disruptions, though diversified operations provide stability."
+      }
+    ]
+  },
+  {
+    "id": "2eefb90a90a95c57367f28081aadcc7889e9c174d7e3c374d6d2adb3187f46df",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "The Banking ETF Battle: Main Street Lenders vs. Wall Street Titans",
-    "author": "Jake Lerch",
-    "published_utc": "2026-10-21T14:30:02Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/the-banking-etf-battle-main-street-lenders-vs-wall-street-titans/?source=iedfolrf0000001",
+    "title": "Bank of America vs. JPMorgan Chase: Which Financial Stock Is a Better Buy for 2027?",
+    "author": "Erin Kennedy",
+    "published_utc": "2026-11-17T13:09:02Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/11/17/bank-of-america-vs-jpmorgan-chase-which-financial-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
     "tickers": [
-      "IAT",
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "AMJB",
+      "JPM",
+      "JPMpC",
+      "JPMpD",
+      "JPMpJ",
+      "JPMpK",
+      "JPMpL",
+      "JPMpM",
+      "VYLD",
+      "MS",
+      "MSpA",
+      "MSpE",
+      "MSpF",
+      "MSpI",
+      "MSpK",
+      "MSpL",
+      "MSpO",
+      "MSpP",
+      "MSpQ",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0fd72c789c2e09092de8f1afc8f2b77ce8962194-1290x860.jpg&w=1200&op=resize",
+    "description": "The article compares Bank of America and JPMorgan Chase as investment options for 2027. While Bank of America offers more attractive valuations (trading at 1.1x book value vs JPMorgan's 2.5x) and stronger recent revenue growth, JPMorgan Chase demonstrates superior scale, higher net margins (31.3% vs 27%), and significantly better stock performance. The author ultimately recommends JPMorgan Chase for 2027 investors, citing its stronger track record of outperforming the S&P 500, despite Bank of America's lower valuation metrics.",
+    "keywords": [
+      "bank stocks",
+      "valuation comparison",
+      "net margin",
+      "dividend yield",
+      "stock performance",
+      "financial services",
+      "investment banking"
+    ],
+    "insights": [
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While BAC offers attractive valuations (lower P/E and P/B ratios) and stronger recent revenue growth (6.8%), it has significantly underperformed JPMorgan and the S&P 500 historically. The company faces regulatory risks including anti-money laundering compliance issues and ongoing securities fraud lawsuits. These factors balance the positive valuation metrics."
+      },
+      {
+        "ticker": "AMJB",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpJ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "JPMpM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "VYLD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "JPM is recommended as the better buy for 2027 due to superior scale, higher net margin (31.3%), stronger historical stock performance that has outpaced the S&P 500, and dominant market position across investment banking and retail services. Despite higher valuation multiples and negative free cash flow, the company's established market leadership and consistent outperformance support a positive outlook."
+      },
+      {
+        "ticker": "MS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpF",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "MSpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive pressure on Bank of America but not analyzed in detail as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a competitive rival to JPMorgan Chase but not analyzed as a primary investment option in this comparison."
+      }
+    ]
+  },
+  {
+    "id": "31ac808e6ec46707c06fb243e62e84fb12c7a2d5abb0f152bee92c4d99fd3be0",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Bank of America Moves to Settle Fake-Accounts Lawsuit: What's Next?",
+    "author": "Na",
+    "published_utc": "2026-11-16T14:05:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030369/bank-of-america-moves-to-settle-fake-accounts-lawsuit-what-s-next?cid=CS-ZC-FT-analyst_blog|quick_take-3030369",
+    "tickers": [
+      "BAC",
+      "BACpB",
+      "BACpE",
+      "BACpK",
+      "BACpL",
+      "BACpM",
+      "BACpN",
+      "BACpO",
+      "BACpP",
+      "BACpQ",
+      "BACpS",
+      "BMLpG",
+      "BMLpH",
+      "BMLpJ",
+      "BMLpL",
+      "MERpK",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "USB",
+      "USBpA",
+      "USBpH",
+      "USBpP",
+      "USBpQ",
+      "USBpR",
+      "USBpS"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/0b/57.jpg",
+    "description": "Bank of America has reached a settlement in principle in a class-action lawsuit over unauthorized customer accounts opened by employees to meet sales targets. The settlement, pending court approval by January 11, 2027, could reduce legal costs and reputational risks, though the financial impact remains uncertain. BAC's shares have underperformed the industry in the past six months, and earnings estimates have been revised lower.",
+    "keywords": [
+      "unauthorized accounts",
+      "settlement",
+      "class-action lawsuit",
+      "regulatory action",
+      "compliance",
+      "sales practices",
+      "consumer banking"
+    ],
+    "insights": [
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the settlement reduces legal uncertainty and reputational risks, the undisclosed settlement amount poses financial uncertainty. The stock has underperformed peers (0.7% vs 5.6% industry gain), and earnings estimates have been revised lower, offsetting the positive aspects of resolving the dispute."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Wells Fargo has successfully resolved its regulatory constraints with the Federal Reserve lifting its asset cap in June 2025 and terminating enforcement actions in March 2026, providing greater flexibility for growth and improved profitability."
+      },
+      {
+        "ticker": "USB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      },
+      {
+        "ticker": "USBpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "USB faced regulatory penalties for unauthorized account openings but has maintained compliance standards. The mention is primarily comparative context without indicating current positive or negative momentum."
+      }
+    ]
+  },
+  {
+    "id": "33c9a1fc2ef3b25343ac74c0bac7c79be03d2e1f0936949863008ce018c1e0dc",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nvidia's Now-Former CEO, Jensen Huang, Just Broke One of Warren Buffett's 2 Unbreakable Rules, Making His Stock Uninvestable for the Foreseeable Future",
+    "author": "Sean Williams",
+    "published_utc": "2026-11-16T12:06:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/16/nvidia-former-ceo-jensen-huang-broke-warren-buffett-rule-making-his-stock-uninvestable/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "MSFT",
+      "WFC",
+      "WFCpA",
+      "WFCpC",
+      "WFCpD",
+      "WFCpL",
+      "WFCpY",
+      "WFCpZ",
+      "CRWV",
+      "BRK.A",
+      "BRK.B"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fbc4d3c9c95dd7ab977d0bd1d733d879d78f0ebe7-1280x853.jpg&w=1200&op=resize",
+    "description": "Nvidia co-founder and CEO Jensen Huang resigned on November 12, 2026, following admissions of an extramarital affair with an alleged Chinese spy and allegations of another affair with a co-worker. The article argues that Huang's resignation breaks Warren Buffett's unbreakable rule about trust in investments, making Nvidia uninvestable. The departure raises concerns about federal investigations, circular financing allegations with collaborators like CoreWeave and OpenAI, and potential AI industry headwinds.",
+    "keywords": [
+      "CEO resignation",
+      "trust in investing",
+      "Warren Buffett rules",
+      "AI industry",
+      "federal investigation",
+      "circular financing",
+      "corporate governance"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "CEO resignation due to personal misconduct breaks investor trust, triggering federal investigations, raising concerns about circular financing with partners, and exposing the company to AI industry headwinds including higher borrowing costs and potential bubble-bursting events."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned only as a reference point in a historical example of Buffett's Activision Blizzard arbitrage investment; no direct impact from Nvidia's CEO resignation."
+      },
+      {
+        "ticker": "WFC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "WFCpZ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Used as a historical case study of how trust violations led Buffett to exit a position; not directly affected by current Nvidia developments."
+      },
+      {
+        "ticker": "CRWV",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as part of Nvidia's circular financing arrangements that may face scrutiny following Huang's resignation and federal investigations."
+      },
+      {
+        "ticker": "BRK.A",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as the framework for investment philosophy and principles rather than being directly impacted by current events. Used as a benchmark for evaluating Nvidia's trustworthiness."
+      },
+      {
+        "ticker": "BRK.B",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as the framework for investment philosophy and principles rather than being directly impacted by current events. Used as a benchmark for evaluating Nvidia's trustworthiness."
+      }
+    ]
+  },
+  {
+    "id": "8fb384313530de146bd306d929733c97965637fdc48bf611ec0644d3d2704319",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Which Bank ETF Is the Better Buy: State Street\u2019s Regional Banking KRE or First Trust\u2019s FTXO?",
+    "author": "Sara Appino",
+    "published_utc": "2026-11-15T16:23:18Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/11/15/which-bank-etf-is-the-better-buy-state-street-s-regional-banking-kre-or-first-trust-s-ftxo/?source=iedfolrf0000001",
+    "tickers": [
+      "KRE",
       "FTXO",
       "AMJB",
       "JPM",
@@ -30,909 +838,151 @@
       "WFCpL",
       "WFCpY",
       "WFCpZ",
-      "C",
-      "CpN",
-      "CpR",
       "USB",
       "USBpA",
       "USBpH",
       "USBpP",
       "USBpQ",
       "USBpR",
-      "USBpS",
-      "PNC",
-      "TFC",
-      "TFCpI",
-      "TFCpO",
-      "TFCpR"
+      "USBpS"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fe782451fcb7901ca92b74c083a50e2ea213ffe74-3300x1856.jpg&w=1200&op=resize",
-    "description": "The article compares two banking ETFs: iShares U.S. Regional Banks ETF (IAT) and First Trust Nasdaq Bank ETF (FTXO). IAT focuses on regional banks with lower costs (0.37% expense ratio), higher dividend yield (2.9%), and better 1-year performance (17.4%), making it ideal for income-focused investors. FTXO offers broader exposure to mega-cap banks with stronger 5-year cumulative returns (26% vs 5%) but higher costs (0.6% expense ratio). The choice depends on whether investors prioritize regional lending exposure and income or broader mega-cap bank exposure with stronger long-term growth.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares two banking ETFs: State Street's KRE (regional banking focus with 167 holdings) and First Trust's FTXO (mega-cap heavy with 50 holdings). KRE is recommended as the better choice for most long-term investors due to its lower 0.35% expense ratio, higher 2.2% dividend yield, broader diversification, and stronger 1-year performance of 22% versus FTXO's 16.6%. FTXO suits investors betting on mega-bank outperformance but carries concentration risk.",
     "keywords": [
-      "banking ETF",
-      "regional banks",
-      "mega-cap banks",
-      "dividend yield",
+      "regional banking ETF",
+      "KRE",
+      "FTXO",
       "expense ratio",
-      "financial sector",
-      "investment comparison"
-    ],
-    "insights": [
-      {
-        "ticker": "IAT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted for lower costs, higher dividend yield (2.9%), better 1-year returns (17.4%), and appeal to income-focused investors seeking regional lending exposure."
-      },
-      {
-        "ticker": "FTXO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Praised for stronger 5-year cumulative returns (26% CAGR of 4.8%) and broader exposure to major financial institutions, though offset by higher costs and lower dividend yield."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.95%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (8.08%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major holding in FTXO (7.90%) representing mega-cap bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "USBpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (15.09%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "PNC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (14.46%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "TFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "TFCpI",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "TFCpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
-      },
-      {
-        "ticker": "TFCpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a top holding in IAT (9.60%) representing regional bank exposure; no specific performance commentary provided."
-      }
-    ]
-  },
-  {
-    "id": "4b705f4cd604c1864b6a8b9116002289e92eaee5a43fe2fbd0e95fa5ab5938d9",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Wells Fargo & Company (WFC) is Attracting Investor Attention: Here is What You Should Know",
-    "author": "Zacks.Com",
-    "published_utc": "2026-10-21T12:00:05Z",
-    "article_url": "https://www.zacks.com/stock/news/3011638/wells-fargo-company-wfc-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3011638",
-    "tickers": [
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default8.jpg",
-    "description": "Wells Fargo has attracted investor attention with mixed performance. The stock returned -1.1% over the past month versus the S&P 500's +0.7% gain. While earnings estimates show growth with expected EPS of $1.88 for the current quarter (+6.8% YoY) and $7.29 for the fiscal year (+16.1% YoY), the stock carries a Zacks Rank #3 (Hold) rating. The company is trading at a premium to peers with a D valuation grade, suggesting it may perform in line with the broader market in the near term.",
-    "keywords": [
-      "Wells Fargo",
-      "earnings estimates",
-      "stock performance",
-      "valuation",
-      "Zacks Rank",
-      "revenue growth",
+      "dividend yield",
+      "portfolio diversification",
+      "mega-cap banks",
       "financial sector"
     ],
     "insights": [
       {
-        "ticker": "WFC",
+        "ticker": "KRE",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy with lower costs (0.35% expense ratio), higher dividend yield (2.2%), broader diversification (167 holdings), stronger recent performance (22% 1-year return), and lower volatility (0.86 beta). Suitable for most long-term investors seeking regional banking exposure."
+      },
+      {
+        "ticker": "FTXO",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Wells Fargo received a Zacks Rank #3 (Hold) rating, indicating expected performance in line with the broader market. While earnings growth is positive (+6.8% to +16.1% YoY), the stock underperformed the S&P 500 over the past month (-1.1% vs +0.7%) and trades at a premium valuation (D grade) relative to peers, offsetting the positive earnings outlook."
-      }
-    ]
-  },
-  {
-    "id": "9af65c97533ae901b1e13cf3492b8ff4177832f73f870494ae942a6377ffc6c1",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Wells Fargo's Stablecoin Push: A Potential Edge in Digital Payments?",
-    "author": "Na",
-    "published_utc": "2026-10-20T13:18:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3011294/wells-fargo-s-stablecoin-push-a-potential-edge-in-digital-payments?cid=CS-ZC-FT-analyst_blog|company_news_finance_sector-3011294",
-    "tickers": [
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "C",
-      "CpN",
-      "CpR",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/8f/410.jpg",
-    "description": "Wells Fargo plans to launch a U.S. dollar-denominated stablecoin in the first half of 2027 alongside 20 international financial institutions to support cross-border and institutional payments. The bank has also launched tokenized deposits that settle transactions in two minutes or less, compared to 1-2 days traditionally. WFC is exploring additional crypto capabilities through potential partnerships with Kraken's parent company Payward.",
-    "keywords": [
-      "stablecoin",
-      "blockchain",
-      "cross-border payments",
-      "tokenized deposits",
-      "digital assets",
-      "cryptocurrency",
-      "institutional payments"
-    ],
-    "insights": [
-      {
-        "ticker": "WFC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "WFC is actively expanding its blockchain and cryptocurrency capabilities with a planned stablecoin launch, tokenized deposit solutions offering significant speed improvements, and potential partnerships to enhance crypto trading. These initiatives position the bank for long-term growth in digital finance, though adoption and regulatory factors remain uncertain."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Citigroup expanded its Coinbase partnership to enable institutional stablecoin payments and fiat conversion, strengthening its digital payments capabilities and creating new fee opportunities in blockchain-based transactions."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "JPMorgan is exploring stablecoin expansion building on existing JPM Coin and Kinexys platforms, with potential to enable faster 24/7 settlement and create fee opportunities through enhanced digital finance offerings."
-      }
-    ]
-  },
-  {
-    "id": "3fc613d12444e54463d4dd121cd49c5bf5b60ffaae700e57c96e982c0aa5cf6f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is Citigroup Stock a Buy 13% Below Its 52-Week High?",
-    "author": "Dave Kovaleski",
-    "published_utc": "2026-10-18T20:30:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/18/is-citigroup-stock-a-buy-x-below-its-52-week-high/?source=iedfolrf0000001",
-    "tickers": [
-      "C",
-      "CpN",
-      "CpR",
-      "GS",
-      "GSpA",
-      "GSpC",
-      "GSpD",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891243%2Fexterior-of-bank-branch.jpeg&w=1200&op=resize",
-    "description": "Citigroup reported strong Q3 2026 earnings with record quarterly revenue of $23.8 billion and a 37% increase in net income, beating analyst estimates. Despite impressive results, the stock has dipped 5% since earnings and 13% from its 52-week high, presenting a potential buying opportunity. The article suggests Citigroup is primarily attractive for dividend investors, offering a 2.18% yield with a sustainable payout ratio of 24% and strong capital reserves.",
-    "keywords": [
-      "Q3 earnings",
-      "dividend stock",
-      "bank stocks",
-      "valuation",
-      "capital returns",
-      "efficiency ratio"
-    ],
-    "insights": [
-      {
-        "ticker": "C",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong Q3 earnings beat with record revenue, 37% net income growth, improved efficiency ratio (58.5% vs 64.7% YoY), solid ROTCE improvement, sustainable dividend with low payout ratio, and attractive valuation at 10x forward earnings with 78% analyst buy ratings."
-      },
-      {
-        "ticker": "GS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
-      },
-      {
-        "ticker": "GSpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
-      },
-      {
-        "ticker": "GSpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
-      },
-      {
-        "ticker": "GSpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as having better earnings results than Citigroup due to investment banking focus, but no specific performance details or analysis provided in the article."
+        "sentiment_reasoning": "Presented as a viable alternative for specific investor profiles willing to accept higher costs (0.6% expense ratio), lower dividend yield (1.9%), and concentration risk (50 holdings) in exchange for mega-cap bank exposure. Better suited for investors betting on large bank outperformance."
       },
       {
         "ticker": "AMJB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpJ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpK",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "JPMpM",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "VYLD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes regarding dividend yield and valuation metrics, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as a major holding (7.81%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank concentration discussion."
       },
       {
         "ticker": "WFC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpC",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpD",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpY",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
         "ticker": "WFCpZ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as one of the big four banks for comparison purposes, but no specific analysis or sentiment provided."
-      }
-    ]
-  },
-  {
-    "id": "dc45ba23f475d58d06ff7590dbabf2f5cb753285add4d9c4d4e7d46d0e29ad84",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Is JPMorgan Chase Stock a Buy 8% Below Its Record High?",
-    "author": "Neil Patel",
-    "published_utc": "2026-10-18T07:15:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/18/jpmorgan-chase-stock-buy-8-below-its-record-high/?source=iedfolrf0000001",
-    "tickers": [
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "BAC",
-      "BACpB",
-      "BACpE",
-      "BACpK",
-      "BACpL",
-      "BACpM",
-      "BACpN",
-      "BACpO",
-      "BACpP",
-      "BACpQ",
-      "BACpS",
-      "BMLpG",
-      "BMLpH",
-      "BMLpJ",
-      "BMLpL",
-      "MERpK",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
-      "C",
-      "CpN",
-      "CpR"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891242%2Fjpmorgan-chase-logo-on-brown-filter-with-office-building-in-background_-the-motley-fool.png&w=1200&op=resize",
-    "description": "JPMorgan Chase stock is trading 8% below its record high of $365.18. While Q3 results missed analyst expectations for revenue and EPS, the company raised full-year net interest margin guidance and demonstrated strong operational metrics including 49% growth in equities revenue and 10% loan growth. Despite a premium valuation relative to peers, JPMorgan Chase's superior return on tangible common equity and ~2% dividend yield make it worthy of consideration for quality-focused investors.",
-    "keywords": [
-      "JPMorgan Chase",
-      "Q3 earnings",
-      "bank stocks",
-      "valuation",
-      "dividend yield",
-      "net interest margin",
-      "return on equity"
-    ],
-    "insights": [
-      {
-        "ticker": "AMJB",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
+        "sentiment_reasoning": "Mentioned as the largest holding (8.07%) in FTXO. No specific performance commentary provided; included as part of the concentration risk discussion."
       },
       {
-        "ticker": "JPM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite missing Q3 analyst expectations, the company raised full-year guidance, demonstrated strong operational growth (49% equities revenue surge, 10% loan growth), maintains superior return on tangible common equity (20%) versus peers, and offers a healthy 1.81% dividend yield. The author concludes the stock deserves closer consideration at current valuations."
-      },
-      {
-        "ticker": "BAC",
+        "ticker": "USB",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpB",
+        "ticker": "USBpA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpE",
+        "ticker": "USBpH",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpK",
+        "ticker": "USBpP",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpL",
+        "ticker": "USBpQ",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpM",
+        "ticker": "USBpR",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       },
       {
-        "ticker": "BACpN",
+        "ticker": "USBpS",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "C",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "CpN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
-      },
-      {
-        "ticker": "CpR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer comparison point for valuation and return metrics, but no specific performance data or analysis provided."
+        "sentiment_reasoning": "Mentioned as a major holding (8.02%) in FTXO. No specific performance commentary provided; included as part of the mega-cap bank holdings."
       }
     ]
   }

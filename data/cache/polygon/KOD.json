@@ -1,0 +1,35 @@
+{
+  "ticker": "KOD",
+  "name": "Kodiak Sciences Inc Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001468748",
+  "composite_figi": "BBG00BVR0D02",
+  "share_class_figi": "BBG00BVR0D11",
+  "market_cap": 6330289530.4,
+  "phone_number": "650-281-0850",
+  "address": {
+    "address1": "1250 PAGE MILL RD",
+    "city": "PALO ALTO",
+    "state": "CA",
+    "postal_code": "94304"
+  },
+  "description": "Kodiak Sciences Inc has developed a new technology platform, the Antibody Biopolymer Conjugate (ABC) platform, for retinal medicines. Its investigational medicine, tarcocimab tedromer (Zenkuda or tarcocimab), is an anti-VEGF therapy built on Kodiak's proprietary ABC platform. Another investigational medicine, KSI-501, is an anti-interleukin 6, or IL-6, VEGF-trap bispecific therapy built on the ABC platform and is being developed for high-prevalence retinal vascular diseases and intended to address the unmet needs of extended durability and targeting disease biology beyond VEGF for differentiated efficacy. Its third investigational medicine, KSI-101, is a high-strength (100 mg/mL) bispecific protein targeting IL-6 and VEGF.",
+  "sic_code": "2836",
+  "sic_description": "BIOLOGICAL PRODUCTS, (NO DIAGNOSTIC SUBSTANCES)",
+  "ticker_root": "KOD",
+  "homepage_url": "https://www.kodiak.com",
+  "total_employees": 124,
+  "list_date": "2018-10-04",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/a29kaWFrLmNvbQ/images/2026-11-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/a29kaWFrLmNvbQ/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 62849457,
+  "weighted_shares_outstanding": 65395553,
+  "round_lot": 100
+}

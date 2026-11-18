@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21",
-  "n_total": 144,
-  "n_matched": 142,
+  "generated": "2026-11-18",
+  "n_total": 146,
+  "n_matched": 144,
   "match_rate": 98.6,
   "members": {
     "aderholt-robert-b": {
@@ -9190,6 +9190,153 @@
         "Food, Beverage & Tobacco",
         "Health Care Equipment & Services",
         "Materials",
+        "Pharmaceuticals & Biotech"
+      ]
+    },
+    "blumenthal-richard": {
+      "bioguide": "B001277",
+      "match_method": "last_name",
+      "matched_name": "Richard Blumenthal",
+      "committees": [
+        {
+          "id": "SSAS",
+          "name": "Senate Committee on Armed Services",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSAS14",
+          "name": "Senate Committee on Armed Services: Airland",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSAS17",
+          "name": "Senate Committee on Armed Services: Personnel",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSAS13",
+          "name": "Senate Committee on Armed Services: Seapower",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSGA",
+          "name": "Senate Committee on Homeland Security and Governmental Affairs",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSGA01",
+          "name": "Senate Committee on Homeland Security and Governmental Affairs: Permanent Subcommittee on Investigations",
+          "type": "senate",
+          "is_sub": true,
+          "title": "Ranking Member"
+        },
+        {
+          "id": "SSGA20",
+          "name": "Senate Committee on Homeland Security and Governmental Affairs: Disaster Management, District of Columbia, and Census",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU",
+          "name": "Senate Committee on the Judiciary",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "SSJU01",
+          "name": "Senate Committee on the Judiciary: Antitrust, Competition Policy, and Consumer Rights",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU22",
+          "name": "Senate Committee on the Judiciary: Crime and Counterterrorism",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU25",
+          "name": "Senate Committee on the Judiciary: Federal Courts, Oversight, Agency Action, and Federal Rights",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSJU28",
+          "name": "Senate Committee on the Judiciary: Privacy, Technology, and the Law",
+          "type": "senate",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "SSVA",
+          "name": "Senate Committee on Veterans' Affairs",
+          "type": "senate",
+          "is_sub": false,
+          "title": "Ranking Member"
+        },
+        {
+          "id": "SCNC",
+          "name": "United States Senate Caucus on International Narcotics Control",
+          "type": "senate",
+          "is_sub": false,
+          "title": null
+        }
+      ],
+      "industries": [
+        "Capital Goods",
+        "Energy",
+        "Health Care Equipment & Services",
+        "Pharmaceuticals & Biotech",
+        "Utilities"
+      ]
+    },
+    "kustoff-david": {
+      "bioguide": "K000392",
+      "match_method": "state+district",
+      "matched_name": "David Kustoff",
+      "committees": [
+        {
+          "id": "HSWM",
+          "name": "House Committee on Ways and Means",
+          "type": "house",
+          "is_sub": false,
+          "title": null
+        },
+        {
+          "id": "HSWM05",
+          "name": "House Committee on Ways and Means: Tax",
+          "type": "house",
+          "is_sub": true,
+          "title": null
+        },
+        {
+          "id": "HSWM02",
+          "name": "House Committee on Ways and Means: Health",
+          "type": "house",
+          "is_sub": true,
+          "title": null
+        }
+      ],
+      "industries": [
+        "Banks",
+        "Diversified Financials",
+        "Health Care Equipment & Services",
+        "Insurance",
         "Pharmaceuticals & Biotech"
       ]
     }

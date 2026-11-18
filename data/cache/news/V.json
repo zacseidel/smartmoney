@@ -1,453 +1,227 @@
 [
   {
-    "id": "b19d1349628aafbd7c9d05e8878b5adcdf89c5b7a92821c59ab6a3d0c2e3ce1f",
+    "id": "3062aa2c203e2b8533f7ebc50f1f80e017e84034c90b9e7e5abc4c9ce4b75553",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "3 Stocks in a Bull Rally Right Now",
+    "author": "Tracey Ryniec",
+    "published_utc": "2026-11-17T17:21:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031406/3-stocks-in-a-bull-rally-right-now?cid=CS-ZC-FT-market_edge-3031406",
+    "tickers": [
+      "V",
+      "RL",
+      "LLY"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/58/608.jpg",
+    "description": "While AI stocks face uncertainty following NVIDIA CEO's resignation, several non-technology companies are breaking out to new highs with strong earnings. Visa beat earnings again with 21.4% YTD gains and raised its dividend 16%. Ralph Lauren reported strong full-price demand and raised FY2027 guidance with 10.3% YTD gains. Eli Lilly surged 23% in one month on 39% revenue growth driven by GLP-1 products Mounjaro and Zepbound, raising full-year earnings guidance.",
+    "keywords": [
+      "earnings breakout",
+      "stock market rally",
+      "non-technology stocks",
+      "GLP-1 drugs",
+      "dividend increase",
+      "luxury apparel",
+      "payment processing"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Consistent earnings beats since 2008 IPO, strong payment and cross-border volume growth, 16% dividend increase, 21.4% YTD gains at new all-time highs, and expected 13.2% earnings growth in FY2027 with reasonable forward P/E of 28."
+      },
+      {
+        "ticker": "RL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat consensus estimates, strong full-price demand across all regions led by Asia, successful US Open collection, raised FY2027 guidance, expected 12.8% earnings growth, and Zacks Rank #2 (Buy) rating despite being near all-time highs."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Beat consensus estimates, 39% Q3 revenue growth from GLP-1 products (Mounjaro and Zepbound), raised full-year earnings guidance, 23% surge in one month, 46.1% expected earnings growth in 2026, and trillion-dollar market cap status despite elevated forward P/E of 40."
+      }
+    ]
+  },
+  {
+    "id": "3aed25aa15d910ab0ed7b5b70969e833f903739ddfc5f5bf63a5d26fde71f16c",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Lightspark Launches Agent Accounts for AI Agents to Make and Receive Payments",
+    "author": "Not Specified",
+    "published_utc": "2026-11-17T17:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/17/3405071/0/en/lightspark-launches-agent-accounts-for-ai-agents-to-make-and-receive-payments.html",
+    "tickers": [
+      "V"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/24d817ea-3d88-4855-87d9-3273169fcef5",
+    "description": "Lightspark launched Agent Accounts, enabling AI agents to hold, spend, and transfer money on behalf of individuals and businesses across multiple payment methods and currencies. The platform supports payments via Visa cards and direct transfers between Agent Account holders, with account owners maintaining control through spending limits and approval requirements. The service connects to banks and payment networks in 65 countries.",
+    "keywords": [
+      "AI agents",
+      "payment infrastructure",
+      "Agent Accounts",
+      "Visa integration",
+      "multi-currency support",
+      "fintech",
+      "settlement network",
+      "agentic commerce"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Visa is mentioned as an existing payment network partner integrated into Lightspark's solution, but the article does not indicate any new strategic partnership or material impact on Visa's business. It is referenced as infrastructure rather than as a primary beneficiary."
+      }
+    ]
+  },
+  {
+    "id": "ac2315107e4bb4fcc368ac28fdc8f2203a7213480973f0ad203e814221f4aea5",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AXP Expands Its Lounge Network: Can Premium Benefits Pay Off?",
+    "author": "Na",
+    "published_utc": "2026-11-17T16:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031357/axp-expands-its-lounge-network-can-premium-benefits-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-3031357",
+    "tickers": [
+      "AXP",
+      "MA",
+      "V"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/22/6107.jpg",
+    "description": "American Express is expanding its Centurion Lounge network with new locations at Newark and Heathrow airports opening in 2027-2028, complementing its existing 33 lounges and access to 1,550+ lounges globally. The strategy supports its Platinum Card refresh, which raised annual fees to $895, with Q3 2026 net card fees growing 16% year-over-year, outpacing 8% billed business growth. However, expansion brings increased construction and operating expenses.",
+    "keywords": [
+      "airport lounges",
+      "premium cards",
+      "Centurion Lounge",
+      "Platinum Card",
+      "card fees",
+      "travel benefits",
+      "customer retention"
+    ],
+    "insights": [
+      {
+        "ticker": "AXP",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong 16% year-over-year growth in net card fees, successful Platinum Card refresh with fee increase gaining traction, expanding lounge network enhancing premium card value proposition, and outperformance against industry decline of 13.9% over six months."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Competitive lounge offering through LoungeKey partnership with 1,600+ lounges, but partnership-based model limits direct infrastructure investment and competitive differentiation compared to AXP's owned lounges."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offers premium travel benefits through DragonPass partnership with 1,200+ lounges, but similar to Mastercard, relies on partnerships rather than owned infrastructure, providing less direct competitive advantage."
+      }
+    ]
+  },
+  {
+    "id": "0ac9cea864a796701566af21e333a46f7f0d07ccca5c0285809d83493db08606",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Invesco QQQ Doesn't Own a Single Bank, and That's Not the Only Thing the Nasdaq-100 Leaves Out",
-    "author": "Daniel Sparks",
-    "published_utc": "2026-10-14T23:23:01Z",
-    "article_url": "https://www.fool.com/investing/2026/10/14/invesco-qqq-doesn-t-own-a-single-bank-and-that-s-not-the-only-thing-the-nasdaq-100-leaves-out/?source=iedfolrf0000001",
+    "title": "Visa and American Express Both Raised Their Dividends 16% This Year, but Only 1 of the Stocks Is Up in 2026",
+    "author": "Eric Volkman",
+    "published_utc": "2026-11-17T13:30:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/visa-and-american-express-both-raised-their-dividends-16-this-year-but-only-1-of-the-stocks-is-up-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "QQQ",
-      "AMJB",
-      "JPM",
-      "JPMpC",
-      "JPMpD",
-      "JPMpJ",
-      "JPMpK",
-      "JPMpL",
-      "JPMpM",
-      "VYLD",
-      "WFC",
-      "WFCpA",
-      "WFCpC",
-      "WFCpD",
-      "WFCpL",
-      "WFCpY",
-      "WFCpZ",
       "V",
-      "ORCL",
-      "ORCLpD",
-      "WMT",
-      "VOO",
-      "XLF",
-      "NVDA",
-      "AAPL",
-      "MSFT",
-      "BRK.A",
-      "BRK.B"
+      "AXP",
+      "MA"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Feb10cec215a181c54cd9c1f8da04bef02f1c40bb-2000x1200.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The Invesco QQQ Trust (QQQ), which tracks the Nasdaq-100 index, excludes all financial companies and any stocks not primarily listed on Nasdaq. This means major banks like JPMorgan Chase and Wells Fargo, as well as NYSE-listed companies like Berkshire Hathaway, Visa, and Oracle, are absent from the fund. Despite missing the entire financial sector (11.5% of the S&P 500), QQQ has delivered superior long-term returns of 21% annually over 10 years compared to 13% for financial sector funds, though it underperformed in certain years like 2022 and 2024.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb0e7c853010fa49f1db46472fdd703a17c0ff111-7008x4672.jpg&w=1200&op=resize",
+    "description": "Despite both Visa and American Express raising dividends by 16% this year, their stock performances have diverged significantly. Visa is up 22% year-to-date, outperforming the S&P 500, while American Express has fallen 14%. The difference stems from American Express missing revenue estimates in consecutive quarters and struggling to control expenses, while Visa benefits from favorable regulatory developments and its asset-light business model.",
     "keywords": [
-      "Nasdaq-100",
-      "ETF composition",
-      "financial sector exclusion",
-      "index rules",
-      "long-term returns",
-      "portfolio diversification"
+      "dividend increase",
+      "payment card companies",
+      "stock performance divergence",
+      "revenue miss",
+      "expense growth",
+      "open-loop vs closed-loop operators",
+      "Credit Card Competition Act",
+      "interest rate sensitivity"
     ],
     "insights": [
       {
-        "ticker": "QQQ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong 10-year annual returns of ~21% and 21% YTD gain in 2026 demonstrate solid performance despite sector exclusions. However, the fund's limitations are acknowledged."
-      },
-      {
-        "ticker": "AMJB",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpJ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "JPMpM",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "VYLD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major bank excluded from QQQ due to index rules. Strong Q3 earnings ($15.3B net income, 6% YoY growth) noted but no investment recommendation provided."
-      },
-      {
-        "ticker": "WFC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpC",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpY",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
-        "ticker": "WFCpZ",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ index. Q3 earnings of ~$6B with 6% YoY growth mentioned, but presented as factual information without investment sentiment."
-      },
-      {
         "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ due to NYSE listing. Noted as a major company absent from the fund without specific performance commentary."
-      },
-      {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ despite being a tech company, due to NYSE listing. Mentioned factually without sentiment."
-      },
-      {
-        "ticker": "ORCLpD",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ despite being a tech company, due to NYSE listing. Mentioned factually without sentiment."
-      },
-      {
-        "ticker": "WMT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Example of mechanical listing rule impact; joined QQQ after moving from NYSE to Nasdaq in January 2026. No performance sentiment expressed."
-      },
-      {
-        "ticker": "VOO",
         "sentiment": "positive",
-        "sentiment_reasoning": "Recommended as a complementary holding to QQQ to fill gaps in financial sector and NYSE-listed companies, providing broader market exposure."
+        "sentiment_reasoning": "Stock up 22% year-to-date, significantly outperforming S&P 500's 8% gain. Benefits from asset-light business model, strong quarterly performance meeting analyst expectations, and favorable regulatory environment with CCCA exempting open-loop operators."
       },
       {
-        "ticker": "XLF",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Presented as an alternative for financial sector exposure with 13% annual returns over 10 years, but noted as concentrated and underperforming QQQ recently."
+        "ticker": "AXP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock down 14% year-to-date despite 16% dividend raise. Missed revenue estimates in two consecutive quarters, expenses growing faster than revenue (12% vs 10% in Q2), and negatively impacted by interest rate sensitivity as a closed-loop issuer and lack of progress on CCCA legislation."
       },
       {
-        "ticker": "NVDA",
+        "ticker": "MA",
         "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted as one of the three largest holdings in both QQQ and S&P 500, indicating strong market position."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Noted as one of the three largest holdings in both QQQ and S&P 500, demonstrating significant market presence."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as one of the three largest holdings in both QQQ and S&P 500, reflecting strong market position."
-      },
-      {
-        "ticker": "BRK.A",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ due to NYSE listing. Mentioned as a major company missing from the fund but no performance assessment provided."
-      },
-      {
-        "ticker": "BRK.B",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Excluded from QQQ due to NYSE listing. Mentioned as a major company missing from the fund but no performance assessment provided."
+        "sentiment_reasoning": "Stock up 16% year-to-date, outperforming S&P 500. Benefits from similar advantages as Visa as an open-loop operator and raised dividend by nearly 15% in 2025, demonstrating strong financial performance."
       }
     ]
   },
   {
-    "id": "7775a4d5770c3fe5abfe3b4edaf963b53ec024f5f6c7b9f8bcd9ac75baeff78a",
+    "id": "c600bddec160b044c80c84f769c22aa453281f4ea831bfff38faabf322a43dd7",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Can American Express Turn AI Commerce Into a New Growth Driver?",
-    "author": "Na",
-    "published_utc": "2026-10-14T16:34:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3007382/can-american-express-turn-ai-commerce-into-a-new-growth-driver?cid=CS-ZC-FT-analyst_blog|quick_take-3007382",
+    "title": "SoFi Technologies vs. Toast: Which Financial Stock Is a Better Buy for 2027?",
+    "author": "Sarah Sidlow",
+    "published_utc": "2026-11-16T21:27:25Z",
+    "article_url": "https://www.fool.com/coverage/better-buy/2026/11/16/sofi-technologies-vs-toast-which-financial-stock-is-a-better-buy-for-2027/?source=iedfolrf0000001",
     "tickers": [
-      "AXP",
+      "SOFI",
+      "TOST",
       "MA",
       "V"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/09/344.jpg",
-    "description": "American Express introduced Intent Intelligence, a new framework that authenticates customer purchase instructions and spending limits for AI agents. Using Intent IDs and Proof of Intent Tokens, the system aims to enhance fraud prevention and streamline transactions. While competitors Mastercard and Visa are developing similar initiatives, AXP's dual role as card issuer and payment network provides competitive advantages, though commercial benefits remain uncertain.",
-    "keywords": [
-      "AI payments",
-      "Intent Intelligence",
-      "fraud prevention",
-      "agentic commerce",
-      "payment security",
-      "tokenization"
-    ],
-    "insights": [
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AXP is advancing its competitive position with innovative Intent Intelligence framework that addresses AI-driven commerce security. The initiative leverages its unique dual role as card issuer and payment network, potentially supporting payment volume growth and revenue expansion while reducing fraud costs."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mastercard is developing a competitive Verifiable Intent framework with Google, demonstrating capability in the AI payments space. However, the article presents this as a competitive threat to AXP rather than highlighting Mastercard's advantages."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Visa is pursuing Intelligent Commerce initiatives and Trusted Agent Protocol to capture AI-driven payment volumes. While positioned as a competitor, the article does not provide specific advantages or disadvantages for Visa's approach."
-      }
-    ]
-  },
-  {
-    "id": "5aa4ee285593aace42073e9e1d9115f85a807a403e9d9322cc55e262a851f193",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Buy 5 Financial Technology Stocks to Strengthen Your Portfolio in Q4",
-    "author": "Na",
-    "published_utc": "2026-10-14T14:20:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3007177/buy-5-financial-technology-stocks-to-strengthen-your-portfolio-in-q4?cid=CS-ZC-FT-analyst_blog|investment_ideas-3007177",
-    "tickers": [
-      "V",
-      "MA",
-      "PYPL",
-      "IBKR",
-      "HOOD"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/31/119.jpg",
-    "description": "Zacks recommends five fintech companies as investment opportunities in the evolving digital payments and financial technology space. Visa and Mastercard benefit from rising payment volumes and cross-border demand, PayPal is expanding through BNPL services and Venmo monetization, while Interactive Brokers and Robinhood are diversifying revenue through expanded product offerings. All five stocks carry a Zacks Rank #2 (Buy) rating.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb0e7c853010fa49f1db46472fdd703a17c0ff111-7008x4672.jpg&w=1200&op=resize",
+    "description": "The article compares two fintech companies for 2027 investment potential. SoFi Technologies, a digital bank with 17.1 million members, reported 73% net income growth and is expanding into digital asset settlement. Toast, a restaurant software platform serving 170,000+ locations, grew revenue 24.1% with $608 million in free cash flow. Despite Toast's stronger recent performance (140% three-year return vs. SoFi's 130%), the analyst recommends SoFi due to its larger addressable market, product diversification, and potential S&P 500 inclusion.",
     "keywords": [
       "fintech",
-      "digital payments",
-      "financial technology",
-      "investment",
-      "payment processing",
-      "BNPL",
-      "brokerage"
+      "digital banking",
+      "restaurant software",
+      "member growth",
+      "profitability",
+      "valuation comparison",
+      "2027 outlook"
     ],
     "insights": [
       {
-        "ticker": "V",
+        "ticker": "SOFI",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong market position in global digital payments with growth driven by higher payment volumes, cross-border activity, and value-added services. Expected revenue growth of 10.5% and earnings growth of 13.3% for current year."
+        "sentiment_reasoning": "Strong member growth (17.1M, up 35%), 73% net income growth, expanding into digital assets, larger addressable market, and analyst recommendation for 2027 despite lower recent performance. Meets S&P 500 eligibility criteria."
+      },
+      {
+        "ticker": "TOST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Solid three-year returns (140%), strong Q3 results with 8,500 net new locations, 24% ARR growth to $2.5B, $608M free cash flow, and AI-powered service expansion. Lower forward P/E ratio (23.8 vs. 18) suggests better valuation."
       },
       {
         "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Benefits from secular shift to electronic payments with scalable model and strong cash generation. Expected revenue growth of 13.6% and earnings growth of 17% for current year, outpacing Visa."
-      },
-      {
-        "ticker": "PYPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Diversified earnings base through Venmo monetization, Braintree growth, and expanding BNPL services. BNPL TPV grew 26% year-over-year in Q2 2026, though overall earnings growth is modest at 1.3%."
-      },
-      {
-        "ticker": "IBKR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong growth prospects with expected revenue growth of 18.8% and earnings growth of 23.3%. Expanding product suite and platform capabilities support competitive positioning and client engagement."
-      },
-      {
-        "ticker": "HOOD",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Broadening beyond retail brokerage with expanding product ecosystem including prediction markets, crypto futures, and IPO underwriting. Expected revenue growth of 18.6%, though earnings growth is modest at 4.4%."
-      }
-    ]
-  },
-  {
-    "id": "a40ae021cdddff776c3799e542f29c5789431400f69d63aa138f2527b287f6e4",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "The Zacks Analyst Blog Highlights Walmart, Visa, Novo Nordisk, Village Super Market and Empire Petroleum",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-10-14T10:51:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3006714/the-zacks-analyst-blog-highlights-walmart-visa-novo-nordisk-village-super-market-and-empire-petroleum?cid=CS-ZC-FT-press_releases-3006714",
-    "tickers": [
-      "WMT",
-      "V",
-      "NVO",
-      "VLGEA",
-      "EP",
-      "EPpC"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/26/120.jpg",
-    "description": "Zacks analysts reviewed five stocks on October 14, 2026. Walmart maintains strong fundamentals with solid omnichannel growth but faces margin pressures. Visa leads digital payments with momentum but elevated valuations and rising costs concern analysts. Novo Nordisk's semaglutide drugs drive growth despite competitive pressures and underperformance. Village Super Market outperforms its industry with steady growth and operational flexibility. Empire Petroleum struggles with liquidity constraints and declining production despite long-term growth potential.",
-    "keywords": [
-      "stock analysis",
-      "retail",
-      "financial services",
-      "pharmaceuticals",
-      "oil and gas",
-      "earnings",
-      "market performance"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong value positioning, integrated omnichannel model, healthy traffic and market-share gains, expanding revenue streams (e-commerce, marketplace, advertising). Outperformed industry by 1% over past year. Concerns about operating costs and margin expansion are offset by resilient fundamentals."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a partner for SoFi's stablecoin settlement expansion, indicating strategic collaboration but no direct investment thesis presented."
       },
       {
         "ticker": "V",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Strong scale and brand with broad momentum across payment solutions and outperformance of +12.6% vs. industry -6.5%. However, rising client incentives and marketing expenses are reducing profitability (adjusted net margin declined to 54.1%), elevated valuation, and regulatory risks warrant caution. Analysts assigned Neutral rating."
-      },
-      {
-        "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Semaglutide drugs (Wegovy, Ozempic) drive growth with label expansions and strong prescription numbers. However, significant underperformance of -29.6% vs. industry +30%, intensifying competition, pricing pressure, and higher spending cloud near-term outlook despite raised 2026 guidance."
-      },
-      {
-        "ticker": "VLGEA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microcap significantly outperformed industry (+37.6% vs. +5.3%), with 3.7% revenue growth, strong operating cash flow of $108.8 million, and planned expansion. Trades at discount to peers. Concerns about margin pressure and unionized workforce are outweighed by operational strength and growth prospects."
-      },
-      {
-        "ticker": "EP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Microcap underperformed industry by 58.8% (-14.9% vs. +43.9%). Faces persistent liquidity constraints, negative operating cash flow, declining production, elevated costs, and regulatory uncertainty. Long-term growth potential from Texas infrastructure and development projects cannot offset significant near-term operational and financial challenges."
-      },
-      {
-        "ticker": "EPpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Microcap underperformed industry by 58.8% (-14.9% vs. +43.9%). Faces persistent liquidity constraints, negative operating cash flow, declining production, elevated costs, and regulatory uncertainty. Long-term growth potential from Texas infrastructure and development projects cannot offset significant near-term operational and financial challenges."
-      }
-    ]
-  },
-  {
-    "id": "bd708150432b2d2164aca5dee904cef20bd014d91f9bc92937d80f317c579c65",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Top Analyst Reports for Walmart, Visa & Novo Nordisk",
-    "author": "Mark Vickery",
-    "published_utc": "2026-10-13T19:38:00Z",
-    "article_url": "https://www.zacks.com/commentary/3006000/top-analyst-reports-for-walmart-visa-novo-nordisk?cid=CS-ZC-FT-research_daily-3006000",
-    "tickers": [
-      "WMT",
-      "V",
-      "NVO",
-      "VLGEA",
-      "EP",
-      "EPpC",
-      "KMI",
-      "SHOP",
-      "UNP",
-      "MNST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/26/120.jpg",
-    "description": "Zacks Research Daily features analysis of 16 major stocks and 2 microcap companies. Walmart maintains strong fundamentals with omnichannel growth but faces margin pressures. Visa leads digital payments but experiences rising client incentives weighing on profitability. Novo Nordisk's semaglutide drugs drive growth despite competitive pressures. Additional coverage includes Shopify, Union Pacific, Monster Beverage, and others with mixed outlooks.",
-    "keywords": [
-      "stock analysis",
-      "earnings reports",
-      "retail",
-      "payments",
-      "pharmaceuticals",
-      "Q3 2026",
-      "omnichannel",
-      "digital payments",
-      "semaglutide"
-    ],
-    "insights": [
-      {
-        "ticker": "WMT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong omnichannel model, healthy traffic and market-share gains, expanding revenue streams (e-commerce, marketplace, advertising). Outperformed industry by 1% over past year. Concerns about operating costs and margin expansion are offset by resilient fundamentals."
-      },
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong scale and brand with broad momentum across payment solutions, but rising client incentives and marketing expenses are pressuring profitability. Adjusted net margin declined to 54.1%. Elevated valuation and regulatory risks warrant caution despite outperforming industry by 19.1%."
-      },
-      {
-        "ticker": "NVO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Semaglutide drugs and Wegovy pill drive growth with positive label expansions and FDA approvals. However, underperformed industry by 59.6% over past year due to intensifying competition, pricing pressure, and higher spending. Raised 2026 outlook offers limited comfort."
-      },
-      {
-        "ticker": "VLGEA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Significantly outperformed industry (+37.6% vs +5.3%), with 3.7% revenue growth, robust operating cash flow, and planned store expansions. Trades at discount to peers. Concerns about margin pressures and unionized workforce are outweighed by strong performance."
-      },
-      {
-        "ticker": "EP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Underperformed industry by 58.8%, facing persistent liquidity constraints, negative operating cash flow, declining production, and elevated operating costs. Regulatory uncertainty and execution risks pose significant concerns despite long-term growth prospects."
-      },
-      {
-        "ticker": "EPpC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Underperformed industry by 58.8%, facing persistent liquidity constraints, negative operating cash flow, declining production, and elevated operating costs. Regulatory uncertainty and execution risks pose significant concerns despite long-term growth prospects."
-      },
-      {
-        "ticker": "KMI",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Underperformed industry by 58.8%, facing persistent liquidity constraints, negative operating cash flow, declining production, and elevated operating costs. Regulatory uncertainty and execution risks pose significant concerns despite long-term growth prospects."
-      },
-      {
-        "ticker": "SHOP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Expanding merchant base, growing payments adoption, AI innovations, and international expansion drive growth. Strong cost control and operating discipline support bottom-line improvement."
-      },
-      {
-        "ticker": "UNP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Cost control and operating discipline are positive, but prolonged freight downturn remains a significant concern limiting near-term growth prospects."
-      },
-      {
-        "ticker": "MNST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Rising global energy drink demand, new product launches, and growing retail reach drive stronger sales across key brands and international markets."
+        "sentiment_reasoning": "Mentioned as a competitive threat in the restaurant payment space but no detailed analysis or investment recommendation provided."
       }
     ]
   }

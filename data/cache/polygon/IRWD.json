@@ -1,0 +1,35 @@
+{
+  "ticker": "IRWD",
+  "name": "Ironwood Pharmaceuticals, Inc. - Class A",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001446847",
+  "composite_figi": "BBG000GBZ3J2",
+  "share_class_figi": "BBG001SNZLM7",
+  "market_cap": 806232201.2,
+  "phone_number": "617-621-7722",
+  "address": {
+    "address1": "100 SUMMER STREET, SUITE 2300",
+    "city": "BOSTON",
+    "state": "MA",
+    "postal_code": "02110"
+  },
+  "description": "Ironwood Pharmaceuticals Inc is a biotechnology company developing and commercializing life-changing therapies for people living with gastrointestinal, or GI, and rare diseases. It is focused on the development and commercialization of inventive product opportunities in areas of unmet need, leveraging its demonstrated expertise and capabilities in GI and rare diseases. LINZESS is its commercial product. LINZESS is also available for the treatment of adults with IBS-C or CIC in Mexico, adults with IBS-C or chronic constipation in Japan, and adults with IBS-C in China. Linaclotide is available under the trademarked name CONSTELLA for the treatment of adults with IBS-C or CIC and pediatric patients ages 6-17 years old with FC in Canada, and to adults with IBS-C in certain European countries.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "IRWD",
+  "homepage_url": "https://www.ironwoodpharma.com",
+  "total_employees": 100,
+  "list_date": "2010-02-03",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/aXJvbndvb2RwaGFybWEuY29t/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/aXJvbndvb2RwaGFybWEuY29t/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 165550760,
+  "weighted_shares_outstanding": 165550760,
+  "round_lot": 100
+}

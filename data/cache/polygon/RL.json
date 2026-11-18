@@ -1,0 +1,35 @@
+{
+  "ticker": "RL",
+  "name": "Ralph Lauren Corporation",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001037038",
+  "composite_figi": "BBG000BS0ZF1",
+  "share_class_figi": "BBG001S9TL45",
+  "market_cap": 22348720241.26,
+  "phone_number": "(212) 318-7000",
+  "address": {
+    "address1": "650 MADISON AVENUE",
+    "city": "NEW YORK",
+    "state": "NY",
+    "postal_code": "10022"
+  },
+  "description": "Founded by designer Ralph Lauren (current executive chair and chief creative officer) in 1967 in New York City, Ralph Lauren Corp. designs, markets, and distributes lifestyle merchandise in North America (41% of fiscal 2026 sales), Europe (31%), and Asia (26%). Best known for its iconic polo shirts, its products also include other types of apparel, footwear, eyewear, jewelry, handbags, home goods, and fragrances. The company's brands include Ralph Lauren Collection, Polo Ralph Lauren, and Lauren Ralph Lauren. Distribution channels for Ralph Lauren include wholesale (department stores and specialty stores), retail (company-owned retail stores and e-commerce), and licensing.",
+  "sic_code": "2320",
+  "sic_description": "MEN'S & BOYS' FURNISHGS, WORK CLOTHG, & ALLIED GARMENTS",
+  "ticker_root": "RL",
+  "homepage_url": "https://www.ralphlauren.com",
+  "total_employees": 23600,
+  "list_date": "1997-06-12",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/cmFscGhsYXVyZW4uY29t/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/cmFscGhsYXVyZW4uY29t/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 37220433,
+  "weighted_shares_outstanding": 59101709,
+  "round_lot": 40
+}

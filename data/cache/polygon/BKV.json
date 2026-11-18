@@ -1,0 +1,35 @@
+{
+  "ticker": "BKV",
+  "name": "BKV Corporation",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001838406",
+  "composite_figi": "BBG00YNGK485",
+  "share_class_figi": "BBG00YNGK494",
+  "market_cap": 2021604698.8799999,
+  "phone_number": "(720) 375-9680",
+  "address": {
+    "address1": "1200 17TH ST., STE 2100",
+    "city": "DENVER",
+    "state": "CO",
+    "postal_code": "80202"
+  },
+  "description": "BKV Corp is a growth-driven energy company focused on the development of natural gas-producing assets, the ownership and operation of natural gas-fired power generation assets, and selective accretive acquisitions. The company's core businesses are the production of natural gas and the generation of natural gas-fired power from its owned and operated assets, supported by a closed-loop plan, enabled by its upstream, midstream, power, and CCUS businesses.",
+  "sic_code": "1311",
+  "sic_description": "CRUDE PETROLEUM & NATURAL GAS",
+  "ticker_root": "BKV",
+  "homepage_url": "https://www.bkvcorp.com",
+  "total_employees": 452,
+  "list_date": "2024-09-26",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Ymt2Y29ycC5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Ymt2Y29ycC5jb20/images/2026-11-01_icon.png"
+  },
+  "share_class_shares_outstanding": 107991704,
+  "weighted_shares_outstanding": 107991704,
+  "round_lot": 100
+}

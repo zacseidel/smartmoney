@@ -1,246 +1,303 @@
 [
   {
-    "id": "f2627f046d86803b888f41e44c7b33e603ba53a766dc822ed3e3ce780c2d8682",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Is Trending Stock Costco Wholesale Corporation (COST) a Buy Now?",
-    "author": "Na",
-    "published_utc": "2026-10-20T12:00:06Z",
-    "article_url": "https://www.zacks.com/stock/news/3010934/is-trending-stock-costco-wholesale-corporation-cost-a-buy-now?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks-3010934",
-    "tickers": [
-      "COST"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default19.jpg",
-    "description": "Costco (COST) has outperformed the broader market with a +10.8% return over the past month. The company shows strong earnings growth expectations of +12.2% for the current quarter and +11% for the fiscal year. However, the stock is rated Zacks Rank #3 (Hold) and receives a D valuation grade, indicating it is trading at a premium to peers. Recent earnings beat consensus estimates, but near-term performance is expected to align with the broader market.",
-    "keywords": [
-      "Costco",
-      "earnings estimates",
-      "stock valuation",
-      "revenue growth",
-      "Zacks Rank",
-      "warehouse retail"
-    ],
-    "insights": [
-      {
-        "ticker": "COST",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "While Costco demonstrates strong fundamentals with consistent earnings beats, revenue growth of +8.4% for the current fiscal year, and positive earnings estimate revisions, the Zacks Rank #3 (Hold) rating and D valuation grade indicate the stock is overvalued relative to peers. The neutral sentiment reflects balanced positive operational performance offset by premium valuation concerns, suggesting near-term performance in line with the market rather than outperformance."
-      }
-    ]
-  },
-  {
-    "id": "b81d7e5b5b50afab889aaa45cf3d075726b0994d6fec43fe0838ad5bfc88c186",
+    "id": "072c6b5bee09875eb6d2b60202c492dc9b15f81b43917a46d506ce1718a2bcfc",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Inflation Just Hit 3.7%. Here's Why Walmart and Costco Could Be the Biggest Winners.",
-    "author": "Micah Zimmerman",
-    "published_utc": "2026-10-20T10:45:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/20/inflation-hit-37-heres-why-walmart-costco-win/?source=iedfolrf0000001",
+    "title": "Stock Market Today, Nov. 17: Stocks Slide on AI Chip and Tech Pressures, Salesforce Plummets 9%",
+    "author": "Emma Newbery",
+    "published_utc": "2026-11-17T22:23:56Z",
+    "article_url": "https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/?source=iedfolrf0000001",
     "tickers": [
-      "WMT",
+      "CRM",
+      "NVDA",
+      "UNH",
+      "COIN",
+      "HOOD",
+      "COST",
+      "MSFT",
+      "META",
+      "METAM",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL",
+      "AMZN",
+      "TSLA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fc608edc6523c713633ddf50ab8ac8081c367a06e-2233x1343.jpg&w=1200&op=resize",
+    "description": "Major stock indexes fell for the fourth consecutive day on November 17, 2026, as AI concerns and technology outages weighed on investor confidence. The S&P 500 dropped 1.03%, the Nasdaq fell 0.74%, and the Dow Jones declined 1.64%. Salesforce plummeted 9.45% amid security concerns and AI replacement fears. However, Nvidia's after-hours earnings beat expectations, offering some reassurance on AI infrastructure demand.",
+    "keywords": [
+      "stock market decline",
+      "AI chip concerns",
+      "technology outages",
+      "Salesforce plunge",
+      "Nvidia earnings",
+      "cryptocurrency decline",
+      "market correction"
+    ],
+    "insights": [
+      {
+        "ticker": "CRM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock plummeted 9.45% due to security jitters and AI replacement fears affecting software stocks"
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "After-hours earnings beat analyst expectations, offering reassurance on AI infrastructure demand and boosting peers"
+      },
+      {
+        "ticker": "UNH",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock dropped 5.42% on sweeping anti-fraud proposals for Medicare & Medicaid"
+      },
+      {
+        "ticker": "COIN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Crypto stock tumbled 4.02% as Bitcoin continued its losing streak, down over 20% in the past month"
+      },
+      {
+        "ticker": "HOOD",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Crypto stock declined 3.98% amid broader cryptocurrency market weakness"
+      },
+      {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock benefited as consumers stockpile essentials; Mizuho Securities raised price target"
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 2.3% as part of broader technology sector weakness"
+      },
+      {
+        "ticker": "META",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 1.2% amid technology sector pressure"
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 1.2% amid technology sector pressure"
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 1.3% as part of technology sector weakness and AI concerns"
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 1.3% as part of technology sector weakness and AI concerns"
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 1.3% as part of technology sector weakness and AI concerns"
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock fell 1.3% as part of technology sector weakness and AI concerns"
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock declined 0.2% amid broader technology sector weakness"
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose marginally 0.1% despite technology sector headwinds"
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Stock rose marginally 0.1% despite broader market decline"
+      }
+    ]
+  },
+  {
+    "id": "2cb1410d83d835cf06266cde3fe9028a59dde03c117fa96e1be2ad0404df9dda",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Here's What to Expect Ahead of Williams-Sonoma's Q3 Earnings Release",
+    "author": "Na",
+    "published_utc": "2026-11-17T16:16:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031346/here-s-what-to-expect-ahead-of-williams-sonoma-s-q3-earnings-release?cid=CS-ZC-FT-analyst_blog|earnings_preview-3031346",
+    "tickers": [
+      "WSM",
+      "ANF",
+      "BBWI",
       "COST"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891279%2Fwmt-2.jpg&w=1200&op=resize",
-    "description": "With inflation rising to 3.7% in September, Walmart and Costco are positioned to benefit from their thin-margin business models that appeal to value-conscious consumers. Both companies reported strong recent quarters with solid sales growth, though their stocks already reflect much of this optimism at elevated valuations.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/7c/313.jpg",
+    "description": "Williams-Sonoma (WSM) is expected to report Q3 fiscal 2026 earnings of $2.17 per share, up 10.7% year-over-year, with revenues projected at $1.98 billion, growing 5.3%. Growth is supported by digital investments, full-price selling, and supply-chain efficiencies across its portfolio brands including Pottery Barn, West Elm, and Williams Sonoma. The company has a positive Earnings ESP of +2.19% and Zacks Rank of 3, suggesting an earnings beat is likely.",
     "keywords": [
-      "inflation",
-      "CPI",
-      "retail",
-      "value shopping",
-      "thin margins",
-      "consumer spending",
-      "stock valuation"
+      "Q3 earnings",
+      "EPS growth",
+      "digital investments",
+      "e-commerce",
+      "supply chain efficiency",
+      "full-price selling",
+      "brand momentum",
+      "earnings beat"
+    ],
+    "insights": [
+      {
+        "ticker": "WSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Expected 10.7% EPS growth and 5.3% revenue growth, positive Earnings ESP of +2.19%, Zacks Rank 3, consistent history of beating estimates (4.9% average surprise over last 4 quarters), and strong operational drivers including digital growth, supply-chain efficiencies, and brand momentum across multiple segments."
+      },
+      {
+        "ticker": "ANF",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +5.47% and Zacks Rank 2, with expected 28% year-over-year earnings growth and consistent track record of beating expectations (13.6% average surprise over last 4 quarters)."
+      },
+      {
+        "ticker": "BBWI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While it has a strong Earnings ESP of +13.43% and Zacks Rank 2, earnings are expected to decrease 68.6% year-over-year, indicating significant headwinds despite the positive earnings surprise potential."
+      },
+      {
+        "ticker": "COST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +3.08%, Zacks Rank 3, expected 12.2% year-over-year earnings growth, and consistent history of beating expectations (1.2% average surprise over last 4 quarters)."
+      }
+    ]
+  },
+  {
+    "id": "b51aef37c4b479b8903c48c720e6cdba2fbb763899cfc0784898cc51f603a3f8",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "Walmart's Q3 Earnings on Deck: Is WMT Stock a Buy or Hold?",
+    "author": "Na",
+    "published_utc": "2026-11-17T13:56:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031139/walmart-s-q3-earnings-on-deck-is-wmt-stock-a-buy-or-hold?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-3031139",
+    "tickers": [
+      "WMT",
+      "KR",
+      "COST",
+      "DG"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/26/123.jpg",
+    "description": "Walmart is set to report Q3 fiscal 2027 results on November 19, with consensus estimates projecting revenues of $186.5 billion (up 3.9%) and EPS of 64 cents (up 3.2%). The Zacks model predicts an earnings beat supported by strong value demand, e-commerce growth, and higher-margin businesses. However, headwinds from pricing investments, pharmacy deflation, and elevated costs may pressure profitability. The stock trades at a premium valuation of 40.78x forward P/E.",
+    "keywords": [
+      "Q3 earnings",
+      "revenue growth",
+      "e-commerce",
+      "higher-margin businesses",
+      "pricing investments",
+      "valuation",
+      "earnings beat"
     ],
     "insights": [
       {
         "ticker": "WMT",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong comparable sales growth of 3.4% and revenue growth of 5.9% demonstrate the company's ability to attract both traditional and higher-income shoppers during inflationary periods. The structural cheapness of its business model positions it well as consumers hunt for value."
+        "sentiment_reasoning": "Positive Earnings ESP (+0.54%) combined with Zacks Rank #3 signals potential earnings beat. Strong fundamentals including value demand, omnichannel growth, and higher-margin business expansion support performance. However, sentiment is tempered by premium valuation and near-term cost pressures."
+      },
+      {
+        "ticker": "KR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an industry peer with lower stock performance (4.9% gain over past year vs. Walmart's 26.7%) and trading at a significantly lower forward P/E multiple (12.99), suggesting market perceives lower growth prospects."
       },
       {
         "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Exceptional fiscal Q4 results with 11.2% sales growth, 9.4% comparable sales growth, and record executive membership levels indicate strong consumer loyalty and willingness to pay for membership. The company's self-imposed 14% markup cap ensures structural value appeal during inflation."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a competitor with similar year-over-year performance (24.3% gain) but trading at a higher forward P/E multiple (48.05), indicating premium valuation comparable to Walmart."
+      },
+      {
+        "ticker": "DG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an outperforming peer with 31.8% stock gain over the past year, but included only for comparative context without specific analysis or sentiment drivers."
       }
     ]
   },
   {
-    "id": "ab9793d045a928844790bfa6c5d08c85811e2a63f43222108d5da082208953d5",
+    "id": "74b9732fbea9dad5eb7267987d312f4c384bbb1467aeb5e47030f4c55b277cd4",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Costco is One of the Best Retailers on the Planet",
-    "author": "Parkev Tatevosian, Cfa",
-    "published_utc": "2026-10-20T01:18:34Z",
-    "article_url": "https://www.fool.com/investing/2026/10/19/costco-is-one-of-the-best-retailers-on-the-planet/?source=iedfolrf0000001",
+    "title": "Should You Buy Costco Stock for Its Special Dividend?",
+    "author": "David Jagielski, Cpa",
+    "published_utc": "2026-11-17T12:56:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/should-you-buy-costco-stock-for-its-special-dividend/?source=iedfolrf0000001",
     "tickers": [
       "COST"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891727%2Fimtbq_gyjgmf0.png&w=1200&op=resize",
-    "description": "Costco continues to be recognized as one of the best retailers globally, offering excellent value to its customers. The company boasts one of the highest customer retention ratios of any membership program, demonstrating strong customer loyalty and a solid business model.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fcf7ca69f2f24829bef1e9a694d3d48d2f584583b-1290x860.jpg&w=1200&op=resize",
+    "description": "Costco announced a $30 special dividend, double its previous payout, enticing investors to buy the stock. However, the author argues the stock is overvalued at 54x trailing earnings compared to the S&P 500 average of 23x, making the ~3% dividend return insufficient to justify the purchase given downside risk.",
     "keywords": [
+      "special dividend",
+      "stock valuation",
       "Costco",
-      "retail",
-      "customer retention",
-      "membership program",
-      "value proposition"
+      "dividend yield",
+      "overvalued",
+      "P/E ratio"
     ],
     "insights": [
       {
         "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The article highlights Costco's status as one of the best retailers on the planet with an excellent value proposition and one of the highest customer retention ratios of any membership program, indicating strong business fundamentals and customer loyalty."
+        "sentiment": "negative",
+        "sentiment_reasoning": "The article advises against buying Costco stock despite the attractive special dividend. The stock is criticized for trading at an inflated valuation of 54x trailing earnings versus the S&P 500 average of 23x. The author warns that the ~3% return from the special dividend is insufficient to offset potential downside risk, and suggests better buying opportunities exist elsewhere."
       }
     ]
   },
   {
-    "id": "0f06c184ffd91b4992b59c80e77a4009802cce3908885545756654c5384ecc91",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "6 Signs of a Winning Stock, Each Shown by a Real Company",
-    "author": "Anders Bylund",
-    "published_utc": "2026-10-19T17:33:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/19/6-signs-of-a-winning-stock-shown-by-real-companies/?source=iedfolrf0000001",
-    "tickers": [
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN",
-      "KO",
-      "MNST",
-      "COST",
-      "CPRT",
-      "NFLX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890506%2Fchecking-charts-with-tablet-and-coffee-cup-getty-images.jpg&w=1200&op=resize",
-    "description": "The article outlines six measurable traits that distinguish long-term winning stocks, illustrated through real companies. These traits include consistent dividend growth (Coca-Cola), high return on invested capital (Alphabet), strong free cash flow conversion (Monster Beverage), customer loyalty/moat (Costco), insider ownership (Copart), and reinvestment at high returns (Netflix). The author emphasizes that no company aces every test, and temporary stock declines shouldn't deter investors in fundamentally strong businesses.",
-    "keywords": [
-      "stock selection",
-      "return on invested capital",
-      "free cash flow",
-      "dividend growth",
-      "competitive moat",
-      "insider ownership",
-      "long-term investing"
-    ],
-    "insights": [
-      {
-        "ticker": "GOOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates exceptional ROIC of 32 cents per dollar and 34% operating margin on $446.6B revenue. Author's personal investment gained 2,166% over 16 years. However, fails free cash flow conversion test due to heavy data center spending."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Shows 64 consecutive years of dividend increases backed by strong free cash flow. 10-year price gain of 121% becomes 8.3x total return with reinvested dividends over 25 years, demonstrating power of compounding."
-      },
-      {
-        "ticker": "MNST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Converts 99% of net income to free cash flow, has zero debt, and maintains strong current ratio of 3.7x. Exemplifies excellent cash generation and financial health."
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Demonstrates powerful business moat through membership model with 92.3% U.S./Canada renewal rate and 89.8% worldwide. Membership base growing from 81M to 84.1M. Premium valuation at 47.3x earnings reflects quality."
-      },
-      {
-        "ticker": "CPRT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Shows strong insider ownership (9%) and minimal debt (1% of equity) with $4.5B cash (17.4% of market cap), indicating long-term management focus. However, stock down 37% past year and 24.6% over 5 years despite 310% 10-year gain, reflecting cyclical car market headwinds."
-      },
-      {
-        "ticker": "NFLX",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Meets reinvestment criteria with 31.1% ROIC, 12.6% annual revenue growth, and no dividend. However, stock down 41.5% past year and trades at 18.5x forward earnings. Low PEG ratio of 0.86 suggests either undervaluation or unrecognized troubles."
-      }
-    ]
-  },
-  {
-    "id": "2a95090f527da4af2ef6846232772b7183c58a275407495a5a90f1fcc78e831e",
+    "id": "a3471da9267711d84a8c343f9ede3e0208319801f6a6c03f4e68718a7e6c7389",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "The Zacks Analyst Blog Highlights Costco, Walt Disney, Marriott, Park Aerospace and Flanigan's",
-    "author": "Zacks Investment Research",
-    "published_utc": "2026-10-19T12:00:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3010334/the-zacks-analyst-blog-highlights-costco-walt-disney-marriott-park-aerospace-and-flanigan-s?cid=CS-ZC-FT-press_releases-3010334",
+    "title": "Why Investors Need to Take Advantage of These 2 Retail and Wholesale Stocks Now",
+    "author": "Zacks.Com",
+    "published_utc": "2026-11-17T12:55:03Z",
+    "article_url": "https://www.zacks.com/stock/news/3030921/why-investors-need-to-take-advantage-of-these-2-retail-and-wholesale-stocks-now?cid=CS-ZC-FT-fundamental_analysis|zacks_education_earnings_esp-3030921",
     "tickers": [
-      "COST",
-      "DIS",
-      "MAR",
-      "PKE",
-      "BDL"
+      "ROST",
+      "COST"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/a0/810.jpg",
-    "description": "Zacks equity research analysts featured five stocks in their daily blog on October 19, 2026. Costco benefits from its membership model and omnichannel expansion. Walt Disney faces near-term headwinds from softer streaming advertising and Asia parks weakness despite strong IP monetization. Marriott outperforms its industry with solid travel demand and technology investments, though Middle East disruption impacts international performance. Microcap Park Aerospace shows strong growth from aerospace demand and defense programs. Flanigan's restaurant operations benefit from traffic growth but face rising labor costs and debt concerns.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default107.jpg",
+    "description": "The article highlights the Zacks Earnings ESP tool, which identifies stocks likely to beat earnings expectations by comparing the most accurate analyst estimates to consensus estimates. Ross Stores and Costco are featured as retail/wholesale stocks with positive ESPs (+2.66% and +3.08% respectively) ahead of their upcoming earnings reports, suggesting potential for positive earnings surprises.",
     "keywords": [
-      "stock analysis",
-      "retail",
-      "media",
-      "hospitality",
-      "aerospace",
-      "earnings",
-      "growth prospects"
+      "earnings surprise",
+      "Earnings ESP",
+      "retail stocks",
+      "wholesale stocks",
+      "earnings estimates",
+      "analyst revisions",
+      "quarterly earnings"
     ],
     "insights": [
       {
+        "ticker": "ROST",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Positive Earnings ESP of +2.66% with Most Accurate Estimate ($1.90) exceeding Zacks Consensus Estimate ($1.85), indicating higher probability of beating earnings expectations on November 19, 2026."
+      },
+      {
         "ticker": "COST",
         "sentiment": "positive",
-        "sentiment_reasoning": "Strong competitive position driven by membership model, robust comparable sales, rising Executive membership penetration, expanding global footprint, and solid balance sheet supporting continued growth momentum."
-      },
-      {
-        "ticker": "DIS",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mixed outlook with positive factors (differentiated IP, profitable streaming model, double-digit Entertainment income growth expected) offset by near-term headwinds (softer SVOD advertising, mixed theatrical performance, Asia parks weakness, elevated borrowings)."
-      },
-      {
-        "ticker": "MAR",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong outperformance with broad travel demand, pricing power, steady room additions, growing Marriott Bonvoy loyalty program, and raised full-year guidance, though Middle East disruption and elevated debt costs present concerns."
-      },
-      {
-        "ticker": "PKE",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microcap showing strong growth prospects from rising commercial aerospace demand, expanding GE Aerospace programs, sole-source defense contracts, and impressive first-half fiscal 2027 results (23% sales growth, 66.2% operating earnings surge)."
-      },
-      {
-        "ticker": "BDL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microcap with positive revenue drivers (rising customer traffic, effective pricing) and property expansion opportunities, but concerns about rising labor/operating expenses, softer alcohol consumption, higher debt, and limited digital capabilities warrant a measured approach."
+        "sentiment_reasoning": "Positive Earnings ESP of +3.08% with Most Accurate Estimate ($5.02) exceeding Zacks Consensus Estimate ($4.87), suggesting strong potential for earnings beat ahead of December 10, 2026 report."
       }
     ]
   }

@@ -1,0 +1,36 @@
+{
+  "ticker": "BNS",
+  "name": "Bank of Nova Scotia",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNYS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0000009631",
+  "composite_figi": "BBG000C2RV03",
+  "share_class_figi": "BBG001S5Y2B1",
+  "market_cap": 108453969584.09999,
+  "phone_number": "(416) 866-3672",
+  "address": {
+    "address1": "44 KING STREET WEST",
+    "address2": "SCOTIA PLAZA 8TH FL.",
+    "city": "TORONTO",
+    "state": "A6",
+    "postal_code": "M5H 1H1"
+  },
+  "description": "Bank of Nova Scotia is a global financial-services provider with over CAD 1.5 trillion in assets as of the end of July 2026. It has four major business segments: Canadian banking, international banking, global wealth management, and global banking and markets. It offers a range of advice, products, and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets. The bank's international operations span numerous countries and are more concentrated in Latin America.",
+  "sic_code": "6022",
+  "sic_description": "STATE COMMERCIAL BANKS",
+  "ticker_root": "BNS",
+  "homepage_url": "https://www.scotiabank.com",
+  "total_employees": 79740,
+  "list_date": "1969-01-27",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c2NvdGlhYmFuay5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/c2NvdGlhYmFuay5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 1215760334,
+  "weighted_shares_outstanding": 1216806570,
+  "round_lot": 100
+}

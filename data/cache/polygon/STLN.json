@@ -1,0 +1,35 @@
+{
+  "ticker": "STLN",
+  "name": "Starling Oncology, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001799191",
+  "composite_figi": "BBG00S5H21H2",
+  "share_class_figi": "BBG00S5H21J0",
+  "market_cap": 346769481.59999996,
+  "phone_number": "562-735-3226",
+  "address": {
+    "address1": "18000 STUDEBAKER RD",
+    "address2": "SUITE 800",
+    "city": "CERRITOS",
+    "state": "CA",
+    "postal_code": "90703"
+  },
+  "description": "Starling Oncology Inc provides oncology care services in community settings. Its services include cancer diagnosis and treatment, clinical trials, transfusion services, and other oncology care delivery models for patients.",
+  "sic_code": "8011",
+  "sic_description": "SERVICES-OFFICES & CLINICS OF DOCTORS OF MEDICINE",
+  "ticker_root": "STLN",
+  "homepage_url": "https://www.starlingoncology.com",
+  "total_employees": 641,
+  "list_date": "2021-11-15",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/c3RhcmxpbmdvbmNvbG9neS5jb20/images/2026-11-01_logo.svg"
+  },
+  "share_class_shares_outstanding": 101991024,
+  "weighted_shares_outstanding": 101991024,
+  "round_lot": 100
+}

@@ -1,0 +1,26 @@
+{
+  "ticker": "CSIQ",
+  "name": "Canadian Solar Inc. Common Shares (ON)",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001375877",
+  "composite_figi": "BBG000K1J931",
+  "share_class_figi": "BBG001SPNJT3",
+  "market_cap": 529934125.945,
+  "description": "Canadian Solar Inc is a Canadian solar technology and renewable energy company. It is a manufacturer of solar photovoltaic modules, a provider of battery energy storage solutions, and a developer of utility-scale solar power and battery energy storage projects. The company is organized in two segments: Manufacturing segment, comprising CS PowerTech, which focuses on manufacturing and sales of solar products, battery energy storage products, and other power technology products for the U.S. market and CSI Solar, which serves all other world-wide markets; and Recurrent Energy segment, which focuses on solar power and battery storage project development, asset sales, power services, and electricity revenue from its operating portfolio. It derives maximum revenue from Manufacturing segment.",
+  "ticker_root": "CSIQ",
+  "homepage_url": "https://www.canadiansolar.com",
+  "total_employees": 12587,
+  "list_date": "2006-11-09",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Y2FuYWRpYW5zb2xhci5jb20/images/2026-04-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Y2FuYWRpYW5zb2xhci5jb20/images/2026-04-01_icon.png"
+  },
+  "share_class_shares_outstanding": 67896749,
+  "weighted_shares_outstanding": 67896749,
+  "round_lot": 100
+}

@@ -1,0 +1,35 @@
+{
+  "ticker": "GSAT",
+  "name": "Globalstar, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001366868",
+  "composite_figi": "BBG000K008L5",
+  "share_class_figi": "BBG001SPN4X1",
+  "market_cap": 11217259327.86,
+  "phone_number": "408-933-4000",
+  "address": {
+    "address1": "1351 HOLIDAY SQUARE BLVD.,",
+    "city": "COVINGTON,",
+    "state": "LA",
+    "postal_code": "70433"
+  },
+  "description": "Globalstar Inc is a telecommunications company that derives revenue from the provision of mobile satellite services. Mobile satellite services, including voice and data communications services to retail, business, and governmental customers, as well as wholesale satellite capacity services. The company provides communications services such as two-way voice and data transmission. In addition, one-way data transmission is also offered. Both services are offered using mobile or fixed devices. The company is the owner of satellite assets. It has one reportable segment: the MSS business. The company generates the vast majority of its revenue within the United States.",
+  "sic_code": "4899",
+  "sic_description": "COMMUNICATIONS SERVICES, NEC",
+  "ticker_root": "GSAT",
+  "homepage_url": "https://www.globalstar.com",
+  "total_employees": 477,
+  "list_date": "2006-11-02",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/Z2xvYmFsc3Rhci5jb20/images/2026-11-01_logo.svg",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/Z2xvYmFsc3Rhci5jb20/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 129619359,
+  "weighted_shares_outstanding": 129619359,
+  "round_lot": 100
+}

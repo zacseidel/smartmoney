@@ -1,272 +1,374 @@
 [
   {
-    "id": "56effcd88f483f7d7b1679e4510d8d3d801a89c01d8f254303d7cf3f6c688fb3",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Biotech ETF (BBH) Hits New 52-Week High",
-    "author": "Na",
-    "published_utc": "2026-10-21T09:00:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3011563/biotech-etf-bbh-hits-new-52-week-high?cid=CS-ZC-FT-etf_news_and_commentary-3011563",
-    "tickers": [
-      "BBH",
-      "AMGN",
-      "AZN"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default133.jpg",
-    "description": "VanEck Biotech ETF (BBH) has reached a 52-week high, rising 41.1% from its low, driven by positive Phase 3 results for Amgen and AstraZeneca's Tezspire treatment for eosinophilic esophagitis. The fund shows a positive weighted alpha of 44.96, suggesting potential for continued gains in the near term.",
-    "keywords": [
-      "biotech ETF",
-      "Tezspire",
-      "eosinophilic esophagitis",
-      "momentum",
-      "52-week high"
-    ],
-    "insights": [
-      {
-        "ticker": "BBH",
-        "sentiment": "positive",
-        "sentiment_reasoning": "The ETF has reached a 52-week high with a 41.1% gain from its low price, driven by positive clinical trial results. The positive weighted alpha of 44.96 suggests continued upward momentum in the near term."
-      },
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Amgen reported significant improvements in Tezspire Phase 3 results for eosinophilic esophagitis, with sustained symptom relief and histologic remission through 52 weeks, potentially expanding the drug's market applications beyond severe asthma."
-      },
-      {
-        "ticker": "AZN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AstraZeneca co-reported positive Phase 3 results for Tezspire, demonstrating significant clinical improvements that could expand the drug's therapeutic potential and market reach."
-      }
-    ]
-  },
-  {
-    "id": "ba2b4daeb3688d924b3e8a756c71ea81f28ea1cbb53f9039324188fbb0524719",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Amgen vs. Bristol Myers Squibb: Which Healthcare Stock Is a Better Buy in 2026?",
-    "author": "Brendan Coffey",
-    "published_utc": "2026-10-20T21:45:02Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/20/amgen-vs-bristol-myers-squibb-which-healthcare-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "AMGN",
-      "BMY",
-      "CELGr",
-      "MCK",
-      "COR",
-      "CAH",
-      "CYTK"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fea7014250c31b630028e62686c4aa5969066a8dc-7952x5141.jpg&w=1200&op=resize",
-    "description": "Amgen and Bristol Myers Squibb represent different investment approaches in pharmaceuticals. Amgen demonstrates stronger revenue growth (~10% YoY) with higher profitability margins (21%) but trades at a premium valuation (P/E 26.4x). Bristol Myers Squibb offers significantly lower valuation (P/E 12.96x) and higher dividend yield (4.1%) with stronger free cash flow ($12.8B), though facing revenue headwinds and generic competition. For long-term dividend-focused investors, Bristol Myers Squibb is recommended despite near-term challenges.",
-    "keywords": [
-      "pharmaceutical comparison",
-      "biotech stocks",
-      "dividend yield",
-      "valuation metrics",
-      "free cash flow",
-      "drug pricing",
-      "patent expiration",
-      "generic competition"
-    ],
-    "insights": [
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong revenue growth (10% YoY to $36.8B), healthy net margins (21%), diverse drug portfolio with six $1B+ franchises, and financial capacity for acquisitions. However, premium valuation (P/E 26.4x) and lower dividend yield (2.35%) limit appeal compared to peer."
-      },
-      {
-        "ticker": "BMY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Attractive valuation (P/E 12.96x, P/S 2.4x), strong free cash flow ($12.8B), higher dividend yield (4.1%), and expected net income growth of 40% in 2026. Recommended for long-term dividend investors despite near-term revenue challenges and generic competition risks."
-      },
-      {
-        "ticker": "CELGr",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Attractive valuation (P/E 12.96x, P/S 2.4x), strong free cash flow ($12.8B), higher dividend yield (4.1%), and expected net income growth of 40% in 2026. Recommended for long-term dividend investors despite near-term revenue challenges and generic competition risks."
-      },
-      {
-        "ticker": "MCK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major pharmaceutical distributor for Amgen with no specific performance analysis or recommendation provided."
-      },
-      {
-        "ticker": "COR",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major pharmaceutical distributor for Amgen with no specific performance analysis or recommendation provided."
-      },
-      {
-        "ticker": "CAH",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a major pharmaceutical distributor for Amgen with no specific performance analysis or recommendation provided."
-      },
-      {
-        "ticker": "CYTK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitor involved in intellectual property disputes with Bristol Myers Squibb with no performance analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "70ea5a7e9d0b2637eb35114983aa20b455af49680d8b46268bdf03cf883d5fa4",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "2 Dividend Stocks Crushing the Market in 2026 (and Which Ones Can Keep Going)",
-    "author": "Prosper Junior Bakiny",
-    "published_utc": "2026-10-20T20:40:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/20/2-dividend-stocks-crushing-the-market-in-2026-and/?source=iedfolrf0000001",
-    "tickers": [
-      "JNJ",
-      "AMGN"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891508%2Famgen-and-johnson-johnson-logos-source-tmf.png&w=1200&op=resize",
-    "description": "Johnson & Johnson and Amgen have outperformed the broader market in 2026 despite facing near-term challenges. JNJ's medtech division struggles with its Impella heart pump facing safety concerns and recalls, but its innovative medicines segment and new products like OTTAVA robotic surgery system offer long-term growth. Amgen faces regulatory pressure on Tavneos and patent losses on denosumab, but strong pipeline candidates like MariTide and established growth drivers like Tezspire and Tepezza support its outlook. Both companies maintain excellent dividend track records, making them solid long-term income investments.",
-    "keywords": [
-      "dividend stocks",
-      "healthcare",
-      "pharmaceuticals",
-      "medtech",
-      "patent cliff",
-      "long-term investing",
-      "income stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Despite near-term medtech headwinds with the Impella heart pump, the company's innovative medicines division is performing well with new product launches. Long-term prospects remain strong with OTTAVA robotic surgery system approval, talc settlement progress, and an exceptional 64-year dividend increase streak with AAA credit rating, making it a reliable long-term income investment."
-      },
-      {
-        "ticker": "AMGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "While facing regulatory challenges with Tavneos and patent losses on denosumab, Amgen demonstrates strong financial performance with 10% revenue growth. Its deep pipeline with promising candidates like MariTide (GLP-1 weight loss drug) and established growth drivers like Tezspire and Tepezza provide confidence in medium to long-term growth. The company's 152% dividend increase over the past decade and 2.3% yield further support a positive outlook."
-      }
-    ]
-  },
-  {
-    "id": "3384cb6df525dba287dfe313bdef6f5ac65ea5fd8a5ee72d1ea1540b05c9177d",
+    "id": "b0958e41c1a2b5024c045be0490877183296af5bc2510801e9822b5fe89c41c0",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Migraine Market is Expected to Expand at 6% Growth Rate by 2036, Owing to the Development of Novel Mechanisms beyond CGRP, including PACAP-targeted Therapies, TRPA1 Antagonists, and Next-generation Neuromuscular Approaches | DelveInsight",
-    "author": "Delveinsight",
-    "published_utc": "2026-10-19T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/10/19/3383774/0/en/migraine-market-is-expected-to-expand-at-6-growth-rate-by-2036-owing-to-the-development-of-novel-mechanisms-beyond-cgrp-including-pacap-targeted-therapies-trpa1-antagonists-and-nex.html",
+    "title": "Biotechnology Market Companies 2027 Analysis: Amgen, Gilead, Regeneron, Vertex and Moderna Post Strong 2026 Results as Billion-Dollar Deals Reshape a Market Headed for USD 6.34 Trillion by 2035",
+    "author": "Precedence Research",
+    "published_utc": "2026-11-17T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/17/3404836/0/en/biotechnology-market-companies-2027-analysis-amgen-gilead-regeneron-vertex-and-moderna-post-strong-2026-results-as-billion-dollar-deals-reshape-a-market-headed-for-usd-6-34-trillio.html",
     "tickers": [
-      "IPSEY",
-      "EVMN",
-      "ABBV",
-      "PFE",
-      "LLY",
       "AMGN",
-      "TEVA",
-      "AXSM",
-      "HLBAY"
+      "GILD",
+      "REGN",
+      "VRTX",
+      "MRNA",
+      "BNTX",
+      "BMY",
+      "CELGr",
+      "GSK",
+      "LLY",
+      "MRK",
+      "BIIB",
+      "PFE",
+      "SNY"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
-    "description": "The global migraine market is projected to grow at a 6% CAGR through 2036, reaching expansion driven by rising prevalence, improved diagnosis rates, and development of novel therapies beyond CGRP inhibitors. Key emerging treatments include PACAP-targeted therapies, TRPA1 antagonists, and next-generation neuromuscular approaches. The market was valued at USD 8.3 billion in 2025 across seven major markets, with the United States leading.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+    "description": "The global biotechnology market, valued at USD 2.02 trillion in 2026, is projected to reach USD 6.34 trillion by 2035 at a 13.61% CAGR. Leading biotech companies including Amgen, Gilead, Regeneron, Vertex, and Moderna reported strong Q3 2026 results with revenue growth ranging from 8% to 36%. The sector experienced record dealmaking activity with major acquisitions totaling tens of billions of dollars, driven by patent expiries, strong cash flows, and strategic pipeline expansion in oncology, immunology, and advanced therapies.",
     "keywords": [
-      "migraine market",
-      "CGRP antagonists",
-      "PACAP-targeted therapies",
-      "TRPM8 blockers",
-      "preventive treatments",
-      "botulinum toxin",
-      "market growth",
-      "pharmaceutical pipeline"
+      "biotechnology market",
+      "biotech companies",
+      "Q3 2026 results",
+      "acquisitions and deals",
+      "mRNA vaccines",
+      "gene therapy",
+      "cell therapy",
+      "oncology",
+      "immunology",
+      "bispecifics",
+      "patent expiries",
+      "pipeline expansion"
     ],
     "insights": [
       {
-        "ticker": "IPSEY",
+        "ticker": "AMGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "Dysport (abobotulinumtoxinA) is highlighted as a key emerging therapy for migraine treatment, representing next-generation botulinum toxin approaches expected to expand market opportunities."
+        "sentiment_reasoning": "Q3 2026 revenue grew 8% to USD 10.4B with strong growth in newer products (Repatha +37%, Evenity +39%, Tezspire +43%, Imdelltra +128%). Raised full-year guidance and increased R&D spending by 11%, demonstrating confidence in pipeline and ability to offset biosimilar competition on older drugs."
       },
       {
-        "ticker": "EVMN",
+        "ticker": "GILD",
         "sentiment": "positive",
-        "sentiment_reasoning": "EVO756, a selective MRGPRX2 antagonist, recently entered Phase IIb trials for migraine prophylaxis, representing an emerging therapeutic approach with differentiated mechanism of action."
+        "sentiment_reasoning": "Q3 2026 product sales grew 13% to USD 8.3B with HIV revenue up 18%. Announced four acquisitions worth USD 12.7B upfront, raised full-year product sales guidance to USD 31.0-31.3B, and demonstrated aggressive pipeline expansion strategy in cell therapy and immunology."
       },
       {
-        "ticker": "ABBV",
+        "ticker": "REGN",
         "sentiment": "positive",
-        "sentiment_reasoning": "UBRELVY (ubrogepant) and QULIPTA (atogepant) are established CGRP-targeted therapies contributing to the expanding acute and preventive migraine treatment market."
+        "sentiment_reasoning": "Q3 2026 revenue climbed 36% to USD 5.1B, the strongest growth among peers, driven by Dupixent sales of USD 6.5B (+35%) and EYLEA HD (+62%). Expanded Sanofi collaboration with USD 1B upfront and up to USD 7B in milestones, and guides to over USD 6B in annual R&D."
       },
       {
-        "ticker": "PFE",
+        "ticker": "VRTX",
         "sentiment": "positive",
-        "sentiment_reasoning": "ZAVZPRET (zavegepant) and NURTEC ODT (rimegepant) are key CGRP-targeted therapies in the acute and preventive migraine segments, benefiting from market expansion."
+        "sentiment_reasoning": "Q3 2026 revenue grew 12% to USD 3.44B with strong cystic fibrosis franchise performance. Gene-edited Casgevy earned USD 99M (nearly 6x year-over-year growth), raised full-year guidance to USD 13.15-13.25B, and acquired Crinetics to expand pipeline."
+      },
+      {
+        "ticker": "MRNA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q3 2026 revenue rose 29% to USD 1.3B. mRNA flu vaccine approved by FDA in August 2026, positive Phase 3 results for cancer vaccine (intismeran autogene) with 42% risk reduction in melanoma recurrence, and raised full-year revenue growth guidance to 15-25%."
+      },
+      {
+        "ticker": "BNTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Q3 2026 revenue EUR 1.29B with guidance of EUR 1.7-1.9B for full year. Running seven pivotal trials of pumitamig (oncology bispecific with BMS) but facing headwind from declining COVID-19 vaccine revenue. Pivoting to oncology represents strategic shift but near-term revenue pressure."
+      },
+      {
+        "ticker": "BMY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Partnering with BioNTech on pumitamig (PD-L1\u00d7VEGF-A bispecific) with seven pivotal oncology trials underway. Collaboration indicates strategic focus on next-generation oncology formats, but limited specific financial impact disclosed in this article."
+      },
+      {
+        "ticker": "CELGr",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Partnering with BioNTech on pumitamig (PD-L1\u00d7VEGF-A bispecific) with seven pivotal oncology trials underway. Collaboration indicates strategic focus on next-generation oncology formats, but limited specific financial impact disclosed in this article."
+      },
+      {
+        "ticker": "GSK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Agreed to acquire Nuvalent for USD 10.6B to gain lung cancer targeted therapy assets. Demonstrates strategic investment in oncology, one of the largest destinations for biotech investment, and commitment to pipeline expansion ahead of patent expiries."
       },
       {
         "ticker": "LLY",
         "sentiment": "positive",
-        "sentiment_reasoning": "EMGALITY (galcanezumab) is an established CGRP monoclonal antibody for migraine prevention, positioned to benefit from growing market demand and expanding patient population."
+        "sentiment_reasoning": "Announced approximately USD 10.8B in 2026 deals including Centessa acquisition, focusing on neuroscience and other therapeutic areas. Active dealmaking demonstrates commitment to pipeline expansion and positioning for long-term growth."
       },
       {
-        "ticker": "AMGN",
+        "ticker": "MRK",
         "sentiment": "positive",
-        "sentiment_reasoning": "AIMOVIG (erenumab) is a leading CGRP monoclonal antibody for migraine prevention with established market presence, benefiting from rising prevalence and improved diagnosis rates."
+        "sentiment_reasoning": "Acquired Terns Pharmaceuticals for approximately USD 6.7B to gain chronic myeloid leukemia assets. Also reported positive Phase 3 results with Moderna for intismeran autogene cancer vaccine. Strategic investments in oncology align with market growth drivers."
       },
       {
-        "ticker": "TEVA",
+        "ticker": "BIIB",
         "sentiment": "positive",
-        "sentiment_reasoning": "AJOVY (fremanezumab) is a CGRP monoclonal antibody contributing to the preventive migraine treatment market expansion."
+        "sentiment_reasoning": "Acquired Apellis Pharmaceuticals for USD 5.6B upfront to gain immunology and rare disease assets. Demonstrates commitment to expanding portfolio in high-growth therapeutic areas and securing late-stage assets."
       },
       {
-        "ticker": "AXSM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "SYMBRAVO (meloxicam and rizatriptan combination) is an emerging acute migraine therapy with recent Phase III trial data presentations demonstrating clinical efficacy."
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Announced collaboration with Innovent for up to USD 10.5B in ADCs and multi-specific antibodies. Partnership indicates strategic focus on next-generation modalities but represents collaboration rather than full acquisition, limiting direct revenue impact."
       },
       {
-        "ticker": "HLBAY",
+        "ticker": "SNY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Bocunebart (AG09222), a PACAP-targeted monoclonal antibody in development, represents a novel mechanism addressing unmet needs. VYEPTI (eptinezumab) continues to generate positive real-world data and clinical trial results."
+        "sentiment_reasoning": "Expanded long-acting antibody collaboration with Regeneron in October 2026 with USD 1B upfront and up to USD 7B in milestones, building on Dupixent's success. Partnership extension demonstrates confidence in immunology franchise and access to next-generation antibody technology."
       }
     ]
   },
   {
-    "id": "a227cfb01a267b77b2c4e3311b5b5d6cbf07787ee8cd54ac6ae2f6c1b76fedaa",
+    "id": "b3f040acf7b9b337b6c11e29366eada1ffbbef5129ade7324f1077b40973cc8c",
     "publisher": {
       "name": "Zacks Investment Research",
       "homepage_url": "https://www.zacks.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "Amgen Inc. (AMGN) is Attracting Investor Attention: Here is What You Should Know",
-    "author": "Zacks.Com",
-    "published_utc": "2026-10-19T12:00:03Z",
-    "article_url": "https://www.zacks.com/stock/news/3010366/amgen-inc-amgn-is-attracting-investor-attention-here-is-what-you-should-know?cid=CS-ZC-FT-fundamental_analysis|most_searched_stocks_v1-3010366",
+    "title": "Should You Invest in the VanEck Biotech ETF (BBH)?",
+    "author": "Na",
+    "published_utc": "2026-11-17T10:20:02Z",
+    "article_url": "https://www.zacks.com/stock/news/3030834/should-you-invest-in-the-vaneck-biotech-etf-bbh?cid=CS-ZC-FT-sector_etf-3030834",
     "tickers": [
-      "AMGN"
+      "BBH",
+      "AMGN",
+      "GILD",
+      "VRTX",
+      "XBI",
+      "IBB"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default121.jpg",
-    "description": "Amgen has attracted investor attention with a +12.2% return over the past month, outperforming the S&P 500's +1.5% gain. The company shows solid fundamentals with expected earnings growth of +5% for the current fiscal year and +7.1% for the next year, along with consistent revenue growth projections of +5.7% and +3.2% respectively. However, with a Zacks Rank #3 (Hold) rating and a neutral valuation grade of C, the stock is expected to perform in line with the broader market in the near term.",
+    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default10.jpg",
+    "description": "The VanEck Biotech ETF (BBH) is a passively managed fund tracking the MVIS US Listed Biotech 25 Index with $521.91 million in assets and a low 0.35% expense ratio. The fund has delivered strong year-to-date returns of 31.47% but carries higher risk with a beta of 0.70 and concentrated exposure through its top 10 holdings representing 73.82% of assets. BBH holds a Zacks ETF Rank of 2 (Buy), though investors should consider alternatives like XBI and IBB.",
     "keywords": [
-      "biotech",
-      "earnings estimates",
-      "revenue growth",
-      "valuation",
-      "stock performance",
-      "Zacks Rank"
+      "biotech ETF",
+      "passive management",
+      "healthcare sector",
+      "expense ratio",
+      "portfolio concentration",
+      "risk assessment"
     ],
     "insights": [
       {
+        "ticker": "BBH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "The ETF received a Zacks ETF Rank of 2 (Buy), has a competitive low expense ratio of 0.35%, and delivered strong year-to-date returns of 31.47%. However, positive sentiment is tempered by high concentration risk and elevated volatility."
+      },
+      {
         "ticker": "AMGN",
         "sentiment": "neutral",
-        "sentiment_reasoning": "While Amgen demonstrates strong recent performance (+12.2% over past month), consistent earnings beat history, and solid revenue growth projections, the Zacks Rank #3 (Hold) rating and neutral valuation grade (C) suggest the stock is fairly valued and expected to perform in line with the market. The modest earnings estimate revisions (+0.6% to +0.7% over the past month) and unchanged current fiscal year estimate indicate limited near-term catalysts for outperformance."
+        "sentiment_reasoning": "Mentioned as the largest holding in BBH at 16.73% of assets, but no specific performance or outlook information is provided."
+      },
+      {
+        "ticker": "GILD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in BBH, but no specific analysis or sentiment indicators are provided."
+      },
+      {
+        "ticker": "VRTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Identified as a top holding in BBH, but lacks specific performance commentary or outlook."
+      },
+      {
+        "ticker": "XBI",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as an alternative option with $9.89 billion in assets and matching 0.35% expense ratio, offering comparable but larger-scale exposure."
+      },
+      {
+        "ticker": "IBB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offered as an alternative with $10.85 billion in assets and slightly higher 0.44% expense ratio, providing another diversified biotech exposure option."
+      }
+    ]
+  },
+  {
+    "id": "67f283839d2bf842bba001cabdf0c271449dcbd5d11d3f30b3d24fd5d9f0e548",
+    "publisher": {
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+    },
+    "title": "AstraZeneca Secures US, EU Nod for New Myasthenia Gravis Drug Klygefa",
+    "author": "Zacks.Com",
+    "published_utc": "2026-11-16T16:02:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3030522/astrazeneca-secures-us-eu-nod-for-new-myasthenia-gravis-drug-klygefa?cid=CS-ZC-FT-analyst_blog|company_news_medical_sector-3030522",
+    "tickers": [
+      "AZN",
+      "UCBJY",
+      "ARGX",
+      "JNJ",
+      "AMGN"
+    ],
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/21/594.jpg",
+    "description": "AstraZeneca received FDA and EU regulatory approvals for Klygefa (gefurulimab), a complement C5 inhibitor for treating adults with AChR-positive generalized myasthenia gravis. The once-weekly, self-administered subcutaneous therapy showed significant improvements in daily activities versus placebo in Phase III trials. While the convenient dosing offers differentiation from AstraZeneca's existing IV therapies (Soliris and Ultomiris), Klygefa faces cannibalization risks and competition from other complement C5 inhibitors and alternative mechanism drugs.",
+    "keywords": [
+      "myasthenia gravis",
+      "complement C5 inhibitor",
+      "regulatory approval",
+      "subcutaneous injection",
+      "autoimmune disorder",
+      "drug competition"
+    ],
+    "insights": [
+      {
+        "ticker": "AZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Secured regulatory approvals in major markets (US and EU) for a new drug with differentiated once-weekly self-administration, expanding its gMG treatment portfolio and offering convenience advantages over existing therapies."
+      },
+      {
+        "ticker": "UCBJY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Faces increased competition from Klygefa's once-weekly dosing advantage over its Zilbrysq (once-daily) and maintains competitive position with alternative mechanisms like Rystiggo."
+      },
+      {
+        "ticker": "ARGX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Competes in the gMG market with Vyvgart/Vyvgart Hytrulo (FcRn blocker), representing alternative mechanism competition but not directly impacted by Klygefa's approval."
+      },
+      {
+        "ticker": "JNJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Competes with Imaavy (FcRn blocker) in the gMG market, representing alternative mechanism competition but not directly impacted by Klygefa's approval."
+      },
+      {
+        "ticker": "AMGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Competes with Uplizna (CD19-targeting B-cell therapy) offering twice-yearly dosing, representing alternative mechanism competition but not directly impacted by Klygefa's approval."
+      }
+    ]
+  },
+  {
+    "id": "951999b6ffb665f2a4552f5af423e194e3d6e462c47a11f1d1e043c4eb5f0b89",
+    "publisher": {
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+    },
+    "title": "Anti-Obesity Drugs Market Companies Analysis 2027: Eli Lilly and Novo Nordisk Lead as Pfizer, Roche and Amgen Invest Billions to Challenge Them in a Market Headed for USD 64.96 Billion by 2035",
+    "author": "Precedence Research",
+    "published_utc": "2026-11-16T15:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/16/3403727/0/en/anti-obesity-drugs-market-companies-analysis-2027-eli-lilly-and-novo-nordisk-lead-as-pfizer-roche-and-amgen-invest-billions-to-challenge-them-in-a-market-headed-for-usd-64-96-billi.html",
+    "tickers": [
+      "LLY",
+      "NVO",
+      "PFE",
+      "AMGN",
+      "RHHBY"
+    ],
+    "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+    "description": "The global anti-obesity drugs market is valued at USD 8.96 billion in 2026 and projected to reach USD 64.96 billion by 2035 at a 24.71% CAGR. Eli Lilly and Novo Nordisk dominate with strong Q3 2026 results, while Pfizer, Roche, and Amgen are investing billions to compete. Key trends include oral GLP-1 formulations, higher efficacy rates (>20% weight loss), and significant manufacturing capacity investments.",
+    "keywords": [
+      "anti-obesity drugs",
+      "GLP-1 agonists",
+      "tirzepatide",
+      "semaglutide",
+      "pharmaceutical market",
+      "drug pipeline",
+      "manufacturing capacity",
+      "oral formulations",
+      "weight loss therapies"
+    ],
+    "insights": [
+      {
+        "ticker": "LLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Market leader with strong Q3 2026 revenue growth of 39% to USD 24.4B. Mounjaro and Zepbound combined generated USD 16.1B. Foundayo oral GLP-1 approved and generating sales. Retatrutide in Phase 3 showing 22.6% weight loss. USD 50B investment in U.S. manufacturing demonstrates confidence and competitive positioning."
+      },
+      {
+        "ticker": "NVO",
+        "sentiment": "positive",
+        "sentiment_reasoning": "No. 2 market leader with obesity sales rising 22% to DKK 26.1B. Wegovy pill launched in U.S. January 2026 with strong uptake (8M+ prescriptions). CagriSema filed with FDA showing 22.7% weight loss. Raised 2026 outlook and investing DKK 50B in capital expenditure to defend market share."
+      },
+      {
+        "ticker": "PFE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Re-entering obesity market through USD 10B acquisition of Metsera completed November 2025 after ending its own oral GLP-1 program. Acquisition provides access to long-acting injectable pipeline but represents a catch-up strategy rather than organic innovation leadership."
+      },
+      {
+        "ticker": "AMGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Entered obesity market with MariTide, a long-acting GLP-1 antibody-peptide. Phase 3 trials launched in 2026 targeting less frequent dosing. Early-stage competitor with potential differentiation but not yet proven in market."
+      },
+      {
+        "ticker": "RHHBY",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Partnering for amylin-based therapies through USD 5.3B collaboration with Zealand Pharma (May 2025). Building obesity franchise but remains a challenger rather than leader. Strategy focuses on differentiated mechanisms rather than market dominance."
+      }
+    ]
+  },
+  {
+    "id": "b4eff904e59e4817cdfadb44fd3f74429d0dfc62b683f19464fd7a2bdedaed78",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Which Healthcare ETF Is the Better Buy: State Street\u2019s Pharma Fund XPH or iShares\u2019 Biotech Fund IBB?",
+    "author": "Sara Appino",
+    "published_utc": "2026-11-15T18:19:54Z",
+    "article_url": "https://www.fool.com/coverage/etfs/2026/11/15/which-healthcare-etf-is-the-better-buy-state-street-s-pharma-fund-xph-or-ishares-biotech-fund-ibb/?source=iedfolrf0000001",
+    "tickers": [
+      "XPH",
+      "IBB",
+      "ABBV",
+      "MRK",
+      "LLY",
+      "GILD",
+      "AMGN",
+      "VRTX"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
+    "description": "The article compares two healthcare ETFs: State Street's XPH (Pharmaceuticals) and iShares' IBB (Biotechnology). XPH charges lower fees (0.35% vs 0.44%), offers higher dividend yield (0.4% vs 0.2%), and focuses on smaller pharmaceutical companies that are acquisition targets. IBB is significantly larger with $11.3B in assets under management and holds 243 established biotech firms. The analyst recommends XPH for long-term investors due to the pharmaceutical industry's active M&A activity and smaller companies' takeover potential.",
+    "keywords": [
+      "healthcare ETF",
+      "pharmaceuticals",
+      "biotechnology",
+      "M&A activity",
+      "expense ratio",
+      "dividend yield",
+      "acquisition targets"
+    ],
+    "insights": [
+      {
+        "ticker": "XPH",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Recommended as the better buy due to lower expense ratio (0.35%), higher dividend yield (0.4%), and strategic positioning to benefit from pharmaceutical industry M&A activity. The fund's focus on smaller companies that are acquisition targets provides upside potential."
+      },
+      {
+        "ticker": "IBB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Presented as a solid alternative with significantly larger assets ($11.3B) and broader diversification across 243 holdings of established biotech firms. However, not recommended over XPH due to higher expense ratio (0.44%), lower dividend yield (0.2%), and less exposure to M&A-driven gains."
+      },
+      {
+        "ticker": "ABBV",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as an active pharmaceutical acquirer racing to buy smaller drug developers as patents expire, indicating strong M&A momentum in the sector."
+      },
+      {
+        "ticker": "MRK",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as an active buyer in the pharmaceutical M&A space, with specific example of acquiring Terns Pharmaceuticals."
+      },
+      {
+        "ticker": "LLY",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Mentioned as a major pharmaceutical company actively acquiring smaller drug developers, supporting the M&A thesis."
+      },
+      {
+        "ticker": "GILD",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IBB (8.97%), representing established profitable biotech firms but not specifically highlighted for growth catalysts."
+      },
+      {
+        "ticker": "AMGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IBB (8.31%), representing established profitable biotech firms but not specifically highlighted for growth catalysts."
+      },
+      {
+        "ticker": "VRTX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a top holding in IBB (7.73%), representing established profitable biotech firms but not specifically highlighted for growth catalysts."
       }
     ]
   }

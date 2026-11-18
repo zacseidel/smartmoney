@@ -1,277 +1,361 @@
 [
   {
-    "id": "c71b4f4e09cda0cd373430eda166b80fa80cc6c5efbc79b9d07085f0a285023c",
+    "id": "cce6aaa8208b508e96e6ec586453dc501ffe811378e7cd58da83f5f4f05a56e6",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Did SpaceX Just Save the AI Trade?",
-    "author": "Neil Rozenbaum",
-    "published_utc": "2026-10-21T14:28:48Z",
-    "article_url": "https://www.fool.com/investing/2026/10/21/did-spacex-just-save-the-ai-trade/?source=iedfolrf0000001",
+    "title": "Prediction: Colette Kress Is More Vital to Nvidia\u2019s Future Than Her Interim CEO Title Implies",
+    "author": "Daniel Foelber",
+    "published_utc": "2026-11-18T11:45:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/prediction-colette-kress-is-more-vital-to-nvidia-s-future-than-her-interim-ceo-title-implies/?source=iedfolrf0000001",
     "tickers": [
-      "SPCX",
-      "NBIS",
-      "CRWV",
       "NVDA",
-      "IREN",
-      "NFLX"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891916%2Fgettyimages-486691192.jpg&w=1200&op=resize",
-    "description": "SpaceX's Q3 2026 earnings report had a significant ripple effect on AI cloud stocks. The company's strong performance and its implications for AI infrastructure demand influenced sentiment across related AI companies including Nebius, CoreWeave, Nvidia, and Iren. The article examines what SpaceX's results mean for the broader AI investment landscape.",
-    "keywords": [
-      "SpaceX earnings",
-      "AI stocks",
-      "cloud infrastructure",
-      "investment sentiment",
-      "Q3 2026"
-    ],
-    "insights": [
-      {
-        "ticker": "SPCX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Stock soared 9.4% on earnings report; described as potentially 'saving the AI trade' with strong performance and positive ripple effects across AI sector"
-      },
-      {
-        "ticker": "NBIS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI cloud infrastructure company mentioned in context of SpaceX's positive impact on AI demand; modest gains of 0.53%"
-      },
-      {
-        "ticker": "CRWV",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AI infrastructure provider mentioned as beneficiary of AI trade momentum; essentially flat performance with -0.06% change"
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Major AI chip manufacturer mentioned in context of AI sector strength; up 1.56% following SpaceX earnings"
-      },
-      {
-        "ticker": "IREN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "AI-related company mentioned alongside other beneficiaries of SpaceX's positive earnings impact; up 4.51%"
-      },
-      {
-        "ticker": "NFLX",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Mentioned as separate earnings topic; stock down 5.01% on the trading day"
-      }
-    ]
-  },
-  {
-    "id": "b886543b2c624b811a1bacbe4e77125b44355c0224cb596ad0a0d75bd1dcd07f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Vanguard Growth ETF Outperforms Small-Cap Peer Over Five Years",
-    "author": "Jake Lerch",
-    "published_utc": "2026-10-21T13:55:02Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-growth-etf-outperforms-small-cap-peer-over-five-years/?source=iedfolrf0000001",
-    "tickers": [
-      "VUG",
-      "VBK",
-      "NVDA",
+      "AMZN",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "METAM",
       "AAPL",
-      "MSFT"
+      "TSLA",
+      "AVGO"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0dbeaa0b9e42976b520af8192b7b599528bff488-4000x3000.jpg&w=1200&op=resize",
-    "description": "Vanguard Morningstar Growth ETF (VUG) significantly outperformed Vanguard Morningstar Small-Cap Growth ETF (VBK) over five years, delivering 79% total return versus 17%, driven by heavy concentration in mega-cap technology stocks. VUG offers a lower expense ratio (0.03% vs 0.05%) and better performance, while VBK provides broader diversification across 579 holdings with lower volatility for investors seeking to reduce tech exposure.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize",
+    "description": "Following Jensen Huang's resignation as Nvidia CEO due to personal scandals, CFO Colette Kress has assumed the interim CEO role. The article argues that Kress, who has historically balanced Huang's visionary but risky bets with financial discipline, may fundamentally shift Nvidia's strategy toward a more cautious approach. This could slow growth but reduce vulnerability to AI spending downturns, potentially transforming Nvidia from a high-growth stock into a value-oriented investment.",
     "keywords": [
-      "growth ETF",
-      "mega-cap technology",
-      "small-cap growth",
-      "five-year performance",
-      "diversification",
-      "expense ratio"
+      "CEO transition",
+      "Jensen Huang resignation",
+      "Colette Kress",
+      "AI infrastructure financing",
+      "corporate strategy shift",
+      "financial discipline",
+      "stock buybacks",
+      "dividend increases"
     ],
     "insights": [
       {
-        "ticker": "VUG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Delivered exceptional 79% total return over five years (12.3% CAGR), significantly outperformed peer, has lower expense ratio (0.03%), and benefits from heavy concentration in mega-cap tech leaders like Nvidia, Apple, and Microsoft."
-      },
-      {
-        "ticker": "VBK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Underperformed VUG with 17% total return (3.2% CAGR) over five years, but offers valuable diversification across 579 holdings with lower volatility and reduced tech concentration (27% vs 58%), appealing to risk-averse investors seeking broader exposure."
-      },
-      {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Largest holding in VUG at 13.49%, contributing to the fund's strong outperformance as a mega-cap technology leader."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the leadership transition creates uncertainty and near-term volatility, the article suggests Kress's more disciplined approach could benefit long-term investors by reducing risky bets and maintaining high margins. The stock is down significantly, but the fundamental business remains strong with potential for steady compounding rather than boom-bust cycles."
       },
       {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VUG at 12.51%, supporting the fund's strong performance as a mega-cap tech giant."
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler with concerns about sustained cash burn in AI infrastructure spending, which sparked the recent AI stock sell-off. No specific positive or negative outlook is provided."
       },
       {
         "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VUG at 9.75%, contributing to the fund's outperformance as a major technology leader."
-      }
-    ]
-  },
-  {
-    "id": "e4fe3535dad498fea077210dccc1768eb82930c92df8b9ebd0930b738b369d28",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "Don't Get Spooked: Stocks Could Still Soar in Q4",
-    "author": "Not Specified",
-    "published_utc": "2026-10-21T13:08:00Z",
-    "article_url": "https://www.zacks.com/commentary/3011869/don-t-get-spooked-stocks-could-still-soar-in-q4?cid=CS-ZC-FT-investment_ideas-3011869",
-    "tickers": [
-      "NVDA",
-      "CRWV",
-      "META",
-      "TSLA"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/27/190344.webp",
-    "description": "October's market volatility has been driven by inflation concerns and AI financing debates, particularly CoreWeave's financial struggles. However, the market correction appears contained to tech themes rather than broad-based panic. Entering the historically strongest nine-month stretch of the presidential cycle (Q4 midterm through Q2 pre-election year), markets face headwinds from elevated valuations and high interest rates, though strong earnings growth and AI's transformative potential could support gains.",
-    "keywords": [
-      "market volatility",
-      "inflation",
-      "AI financing",
-      "semiconductor decline",
-      "seasonal patterns",
-      "earnings growth",
-      "presidential cycle",
-      "tech stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Nvidia holds ~10% stake in CoreWeave and CEO publicly defended CoreWeave's financial strength, suggesting confidence. However, semiconductor index extended losing streak to eight consecutive sessions, indicating sector weakness despite management reassurance."
+        "sentiment_reasoning": "Referenced as a hyperscaler with cash burn concerns related to AI infrastructure investments, contributing to the broader AI stock sell-off. No specific company-level analysis provided."
       },
       {
-        "ticker": "CRWV",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Carrying roughly $50 billion in debt, CoreWeave fell painfully last week and has become the market's proxy for AI financing concerns. CEO Huang's public defense suggests financial stress."
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
       },
       {
         "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "AAPL",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Meta reports earnings this week. While S&P 500 tracking strong 24.6% earnings growth, the article provides no specific guidance on Meta's performance."
+        "sentiment_reasoning": "Mentioned as a comparable company in terms of CEO importance and as a reference point for Nvidia potentially surpassing it in stock buybacks and dividends. No sentiment-specific analysis provided."
       },
       {
         "ticker": "TSLA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Tesla reports earnings this week. While S&P 500 tracking strong earnings growth, the article provides no specific guidance on Tesla's performance."
+        "sentiment_reasoning": "Referenced as a comparable example of a founder-led company with significant CEO importance, similar to Nvidia. No specific sentiment assessment is made."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable semiconductor company with a long-tenured CEO (Hock Tan). Used for context but no specific sentiment analysis provided."
       }
     ]
   },
   {
-    "id": "b27b638d5d1fc5debf3f0e60a19ca812cb3f4f2f8ed40bd558b782943d18a52d",
+    "id": "ec9b47db272f7f2b03b83a6b7ae151fb17ebbda6bd0cc3e142aafc3d1b818d94",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Schneider Electric unveils new prefabricated reference design engineered for modular AI factories",
-    "author": "Schneider Electric",
-    "published_utc": "2026-10-21T13:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/10/21/3385563/0/en/schneider-electric-unveils-new-prefabricated-reference-design-engineered-for-modular-ai-factories.html",
+    "title": "Progressive Ventures Closes $12.24 Million Fund I to Back B2B AI Founders Before Demo Day",
+    "author": "Not Specified",
+    "published_utc": "2026-11-18T11:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/18/3405461/0/en/progressive-ventures-closes-12-24-million-fund-i-to-back-b2b-ai-founders-before-demo-day.html",
     "tickers": [
       "NVDA",
-      "SBGSY"
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "METAM",
+      "NFLX",
+      "IBM",
+      "AVGO"
     ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/3361552b-de0e-46e4-a694-ea92da5c2199",
-    "description": "Schneider Electric announced its RapidScale Modular Data Center Reference Design 115, a prefabricated solution for high-density AI infrastructure built on the NVIDIA Vera Rubin platform. A joint study with Compass Datacenters found that prefabricated modules reduce onsite installation time by 80%. The design addresses rapid AI infrastructure growth, with global data center capacity expected to increase 170 GW by 2030, with AI workloads accounting for 65% of total demand.",
+    "image_url": "https://www.globenewswire.com/news-release/2026/11/18/3405461/0/en/progressive-ventures-closes-12-24-million-fund-i-to-back-b2b-ai-founders-before-demo-day.html",
+    "description": "Progressive Ventures, founded by three-time entrepreneur Mala Ramakrishnan, closed its first seed fund at $12.24 million in August 2026. The Silicon Valley-based firm has backed 44 B2B AI and SaaS startups from Y Combinator, StartX, and Berkeley SkyDeck, with check sizes ranging from $50,000 to $250,000. Limited partners are exclusively technology industry executives from major companies and university professors.",
     "keywords": [
-      "modular data center",
-      "AI infrastructure",
-      "prefabricated solutions",
-      "liquid cooling",
-      "deployment efficiency",
-      "NVIDIA Vera Rubin",
-      "supply chain",
-      "high-density computing"
+      "seed fund",
+      "B2B AI",
+      "venture capital",
+      "Silicon Valley",
+      "Y Combinator",
+      "SaaS startups",
+      "verticalization",
+      "early-stage investing"
     ],
     "insights": [
       {
         "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "NVIDIA's Vera Rubin platform is featured as the core AI infrastructure component in Schneider Electric's new reference design. This integration validates NVIDIA's technology for large-scale AI deployments and positions it as central to the rapidly growing AI data center market expected to reach 65% of total capacity by 2030."
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as an LP in Progressive Ventures' fund, indicating participation in early-stage AI investment ecosystem, but no direct business impact disclosed."
       },
       {
-        "ticker": "SBGSY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company announced innovative modular data center solutions addressing critical market demand for AI infrastructure. The solution demonstrates significant operational improvements (80% reduction in installation time), strong supply chain capabilities (1.35M sq ft manufacturing capacity), and market leadership recognition. The product addresses substantial market growth opportunity with AI workloads expected to reach 65% of data center demand by 2030."
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP contributor to the fund; represents indirect involvement in B2B AI startup ecosystem without specific business implications."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Named as an LP in the fund; indicates participation in venture ecosystem but no direct operational or financial impact mentioned."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Named as an LP in the fund; indicates participation in venture ecosystem but no direct operational or financial impact mentioned."
+      },
+      {
+        "ticker": "NFLX",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Included as an LP; shows interest in B2B AI investments but no material business development disclosed."
+      },
+      {
+        "ticker": "IBM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as an LP participant; indicates engagement with early-stage AI ventures without specific strategic implications."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Named as an LP in the fund; represents participation in AI startup ecosystem without disclosed direct benefits."
       }
     ]
   },
   {
-    "id": "2e32912c12663b5ff9bf9144ba398dbe1a2514d56c605bb8e8047e1db2941b1d",
+    "id": "9bbd0e17d0ba1f124303e74064f6a7f28b4d67c4e8e515982e5c95ea4154e215",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Advanced Micro Devices (AMD) Stock Plummeted 13% Last Week. Should You Buy the Dip Before Nov. 3?",
-    "author": "Anthony Di Pizio",
-    "published_utc": "2026-10-21T10:04:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/21/advanced-micro-devices-stock-plummeted-13-buy-dip/?source=iedfolrf0000001",
+    "title": "Nebius Posted Superb Earnings and Crashed Anyway. Buy the Dip.",
+    "author": "Marc Guberti",
+    "published_utc": "2026-11-18T10:30:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/nebius-superb-earnings-crashed-anyway-buy-the-dip/?source=iedfolrf0000001",
     "tickers": [
-      "AMD",
-      "NVDA",
+      "NBIS",
       "MSFT",
-      "META",
-      "ORCL",
-      "ORCLpD"
+      "NVDA",
+      "IREN"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891653%2Fthe-advanced-micro-devices-amd-logo-on-a-black-translucent-background.png&w=1200&op=resize",
-    "description": "AMD stock fell 13% last week amid concerns about AI funding challenges and potential slowdown in data center chip demand. While AMD has closed the performance gap with Nvidia through its MI450 GPUs, the company's stock is priced for perfection at a P/E ratio of 91.8\u2014over three times higher than Nvidia's 27.1. Ahead of AMD's Nov. 3 earnings report, the analyst remains cautious due to elevated valuation and uncertainty in the AI industry, despite AMD's strong growth prospects.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F57171685ce2b01e4579d326ef058bddea8497e5f-7680x4896.jpg&w=1200&op=resize",
+    "description": "Nebius stock fell 17% after earnings despite strong fundamentals, primarily due to a delay in reaching $7-9 billion ARR targets from December 2026 to February 2027. The delay stems from colocation facility issues rather than execution problems. The company's business model continues to strengthen with rising megawatt values ($25M+ per megawatt in Q3), improving payback periods, and 75-85% of 2027 capex expected to be covered by prepayments. The analyst views the stock decline as a buying opportunity for long-term investors.",
     "keywords": [
-      "AMD stock decline",
-      "AI chip demand",
-      "data center GPUs",
-      "earnings report",
-      "valuation concerns",
-      "semiconductor industry"
+      "AI infrastructure",
+      "data centers",
+      "earnings miss",
+      "revenue guidance delay",
+      "capital expenditures",
+      "customer prepayments",
+      "megawatt pricing",
+      "colocation facilities"
     ],
     "insights": [
       {
-        "ticker": "AMD",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Stock plummeted 13% due to AI funding concerns and potential demand slowdown. Despite strong MI450 GPU performance and growth prospects, the company is priced for perfection at a P/E of 91.8, making it overvalued relative to Nvidia and vulnerable to disappointment."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as AMD's main competitor with superior valuation metrics (P/E of 27.1 vs AMD's 91.8). AMD has closed the performance gap with its MI450 chips, but Nvidia maintains a more reasonable valuation."
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite a 17% stock decline post-earnings, the article highlights strong underlying fundamentals including rising megawatt values, improving payback periods, strong customer prepayments covering capex, and a shift away from risky colocation models. The ARR delay is characterized as a minor timing issue rather than a structural problem, with the analyst recommending the dip as a buying opportunity."
       },
       {
         "ticker": "MSFT",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Identified as a major buyer of AMD's MI450 GPUs and hyperscaler customer. No specific concerns mentioned, but exposed to potential slowdown in AI chip orders if funding conditions worsen."
+        "sentiment_reasoning": "Microsoft is mentioned as a major customer with a $17.4 billion, five-year infrastructure deal with Nebius. The delay in capacity availability is attributed to Microsoft's colocation facility, not Microsoft's performance or strategy. No direct sentiment about Microsoft's business is expressed."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as experiencing negative sentiment due to Jensen Huang's departure, which is cited as contributing to broader AI trade headwinds that have dragged down the entire sector including Nebius."
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point for owning the entire data center stack, contrasting with Nebius' reliance on colocation facilities. No direct sentiment about Iren's performance is provided."
+      }
+    ]
+  },
+  {
+    "id": "295063a65c05570011db0705fb013f9af98215caf2abd908bef90765ff618d8e",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "How Much Was Jensen Huang Worth to Nvidia? More Than $6.7 Trillion, According to One Wall Street Analyst.",
+    "author": "Sean Williams",
+    "published_utc": "2026-11-18T10:06:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/how-much-jensen-huang-worth-to-nvidia-more-than-6-trillion-wall-street-analyst/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "EVR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F77b36599c7bafe4ce2b1695b739afbcc147c1eba-2048x1365.jpg&w=1200&op=resize",
+    "description": "Nvidia co-founder Jensen Huang resigned as CEO on November 12 following admissions and allegations of extramarital affairs, triggering massive price target cuts from Wall Street analysts. One analyst slashed Nvidia's price target by 60% (from $465 to $186), representing a $6.74 trillion difference in market value. The departure raises concerns about Nvidia's identity, investor trust, and the viability of its circular financing deals with hyperscalers and AI developers.",
+    "keywords": [
+      "Jensen Huang resignation",
+      "Nvidia CEO departure",
+      "price target cuts",
+      "AI infrastructure",
+      "GPU market",
+      "investor confidence",
+      "circular financing deals",
+      "semiconductor cycle"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "CEO resignation following personal scandals, massive analyst price target cuts (60% reduction), loss of company identity and leadership, erosion of investor trust, and concerns about circular financing arrangements and succession planning."
+      },
+      {
+        "ticker": "EVR",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as the firm whose analyst (Mark Lipacis) issued the significant price target cut on Nvidia; the company itself is not directly impacted by the news, only noted for its research analysis."
+      }
+    ]
+  },
+  {
+    "id": "e323d6618b575b967b03a3c4c3960dd16ed5ab598391407bf747d7db082762df",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "3 Unstoppable AI Stocks to Buy Hand Over Fist Now That the Midterms Are Over",
+    "author": "Adria Cimino",
+    "published_utc": "2026-11-18T10:02:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/3-unstoppable-ai-stocks-to-buy-hand-over-fist-now/?source=iedfolrf0000001",
+    "tickers": [
+      "AMZN",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "METAM",
+      "NVDA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893640%2Fgettyimages-1320686310.jpg&w=1200&op=resize",
+    "description": "Following the midterm elections, the article argues that Democratic control of Congress and potential AI regulation could actually benefit long-term investors by moderating AI spending growth and reducing risk. The author recommends three AI leaders\u2014Amazon, Alphabet, and Meta Platforms\u2014as strong buying opportunities, citing their full-stack AI approaches, proven demand, and solid financial performance.",
+    "keywords": [
+      "AI stocks",
+      "midterm elections",
+      "cloud computing",
+      "AI regulation",
+      "data centers",
+      "machine learning models",
+      "capital spending"
+    ],
+    "insights": [
+      {
+        "ticker": "AMZN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "AWS revenue grew 39% to $46 billion in Q3, the fastest growth in nearly five years. The company offers a comprehensive full-stack AI approach with custom chips (Trainium and Graviton) gaining traction, and strong demand justifies the $220 billion capital spending plan."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Google Cloud revenue more than doubled with 103% growth driven by AI infrastructure demand. Gemini app reached 1 billion users as the fastest-growing product in company history, and the profitable core business funds AI investments with a financial cushion."
       },
       {
         "ticker": "META",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Listed as a hyperscaler customer and expected buyer of AMD's MI450 GPUs. Exposure to potential demand reduction if AI funding tightens."
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q3 revenue rose 26% to over $64 billion with strong core business performance. The Muse AI agent reached 11 million accounts in 7 weeks post-launch, demonstrating early traction, and the company has disciplined spending with multiple revenue monetization paths."
       },
       {
-        "ticker": "ORCL",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer of AMD's data center GPUs. No specific concerns noted."
+        "ticker": "METAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Q3 revenue rose 26% to over $64 billion with strong core business performance. The Muse AI agent reached 11 million accounts in 7 weeks post-launch, demonstrating early traction, and the company has disciplined spending with multiple revenue monetization paths."
       },
       {
-        "ticker": "ORCLpD",
+        "ticker": "NVDA",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a customer of AMD's data center GPUs. No specific concerns noted."
+        "sentiment_reasoning": "Mentioned as a GPU supplier to Amazon Web Services but not directly analyzed. The article focuses on companies building full-stack AI solutions rather than hardware suppliers."
       }
     ]
   }

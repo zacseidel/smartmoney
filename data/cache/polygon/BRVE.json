@@ -1,0 +1,34 @@
+{
+  "ticker": "BRVE",
+  "name": "Braveheart Bio, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0002131524",
+  "composite_figi": "BBG01YCFNLC2",
+  "share_class_figi": "BBG01YCFNLV1",
+  "market_cap": 1690931837.8200002,
+  "phone_number": "(415) 707-6312",
+  "address": {
+    "address1": "ONE LETTERMAN DR.",
+    "address2": "BLDG. A, STE. A4-300",
+    "city": "SAN FRANCISCO",
+    "state": "CA",
+    "postal_code": "94129"
+  },
+  "description": "Braveheart Bio Inc is a clinical-stage biotechnology company focused on developing therapeutics to treat hypertrophic cardiomyopathy (HCM) and other cardiovascular diseases. Its flagship product candidate, BHB-1893, is an oral small-molecule cardiac myosin inhibitor being developed for the treatment of obstructive HCM (oHCM) and non-obstructive HCM (nHCM).",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "BRVE",
+  "homepage_url": "https://www.braveheart.bio",
+  "list_date": "2026-08-06",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/YnJhdmVoZWFydC5iaW8/images/2026-11-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/YnJhdmVoZWFydC5iaW8/images/2026-11-01_icon.jpeg"
+  },
+  "weighted_shares_outstanding": 90038969,
+  "round_lot": 100
+}

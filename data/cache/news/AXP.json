@@ -1,77 +1,117 @@
 [
   {
-    "id": "9a1e13123206c5413fce7cb62e9347827afebf1d56809f8c644aab7b8696e087",
+    "id": "ac2315107e4bb4fcc368ac28fdc8f2203a7213480973f0ad203e814221f4aea5",
     "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      "name": "Zacks Investment Research",
+      "homepage_url": "https://www.zacks.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
     },
-    "title": "My Top 5 Favorite Stocks for an Uncertain Market",
-    "author": "Adria Cimino",
-    "published_utc": "2026-09-16T11:10:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/16/my-top-5-favorite-stocks-for-an-uncertain-market/?source=iedfolrf0000001",
+    "title": "AXP Expands Its Lounge Network: Can Premium Benefits Pay Off?",
+    "author": "Na",
+    "published_utc": "2026-11-17T16:22:00Z",
+    "article_url": "https://www.zacks.com/stock/news/3031357/axp-expands-its-lounge-network-can-premium-benefits-pay-off?cid=CS-ZC-FT-analyst_blog|quick_take-3031357",
     "tickers": [
-      "JNJ",
-      "VRTX",
-      "COST",
-      "KO",
-      "AXP"
+      "AXP",
+      "MA",
+      "V"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F039065b5f32c9a96def71bc51bf5085e9e04597e-2121x1414.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "The article recommends five resilient stocks suitable for uncertain market conditions: Johnson & Johnson (pharmaceutical and medtech leader with 28 billion-dollar products), Vertex Pharmaceuticals (cystic fibrosis treatment market leader with pipeline expansion), Costco (essential goods retailer with high membership renewal rates), Coca-Cola (beverage company with strong brands and free cash flow), and American Express (payment card company with affluent customer base). These companies offer stability through essential products, strong market positions, and consistent dividend payments.",
+    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/22/6107.jpg",
+    "description": "American Express is expanding its Centurion Lounge network with new locations at Newark and Heathrow airports opening in 2027-2028, complementing its existing 33 lounges and access to 1,550+ lounges globally. The strategy supports its Platinum Card refresh, which raised annual fees to $895, with Q3 2026 net card fees growing 16% year-over-year, outpacing 8% billed business growth. However, expansion brings increased construction and operating expenses.",
     "keywords": [
-      "uncertain market",
-      "resilient stocks",
-      "dividend stocks",
-      "healthcare",
-      "consumer goods",
-      "financial services",
-      "market volatility"
+      "airport lounges",
+      "premium cards",
+      "Centurion Lounge",
+      "Platinum Card",
+      "card fees",
+      "travel benefits",
+      "customer retention"
     ],
     "insights": [
       {
-        "ticker": "JNJ",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Company has 28 products generating over $1 billion annually, demonstrated growth in pharma and medtech, ability to grow after losing exclusivity on star products, and is a Dividend King with 50+ consecutive years of dividend increases."
-      },
-      {
-        "ticker": "VRTX",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Market leader in cystic fibrosis treatment with intellectual property protection until late 2030s, recent approvals in pain and gene editing treatments, and pipeline expansion into renal conditions offering growth catalysts."
-      },
-      {
-        "ticker": "COST",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Offers essential products at low prices with high membership renewal rates (>90%), generates most profit from membership fees providing revenue visibility, and has history of special dividends."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Broad range of essential non-alcoholic beverages with strong brand strength, demonstrated adaptability to market needs, consistent earnings and value share growth, Dividend King status, and high free cash flow of ~$14 billion."
-      },
-      {
         "ticker": "AXP",
         "sentiment": "positive",
-        "sentiment_reasoning": "Serves affluent customer base less sensitive to economic downturns providing earnings stability, successfully attracting younger demographics (65% of new accounts from Millennials and Gen Z), and offers dividend growth."
+        "sentiment_reasoning": "Strong 16% year-over-year growth in net card fees, successful Platinum Card refresh with fee increase gaining traction, expanding lounge network enhancing premium card value proposition, and outperformance against industry decline of 13.9% over six months."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Competitive lounge offering through LoungeKey partnership with 1,600+ lounges, but partnership-based model limits direct infrastructure investment and competitive differentiation compared to AXP's owned lounges."
+      },
+      {
+        "ticker": "V",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Offers premium travel benefits through DragonPass partnership with 1,200+ lounges, but similar to Mastercard, relies on partnerships rather than owned infrastructure, providing less direct competitive advantage."
       }
     ]
   },
   {
-    "id": "02630d3106c4ac69f951d6cf0bc175eb8238cfe6ab3c7ceb64d28f6940b95be4",
+    "id": "0ac9cea864a796701566af21e333a46f7f0d07ccca5c0285809d83493db08606",
     "publisher": {
       "name": "The Motley Fool",
       "homepage_url": "https://www.fool.com/",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
     },
-    "title": "Prediction: Warren Buffett's Successor, Greg Abel, Will Dispose of One of Berkshire Hathaway's Largest Holdings",
-    "author": "Sean Williams",
-    "published_utc": "2026-09-16T09:06:01Z",
-    "article_url": "https://www.fool.com/investing/2026/09/16/prediction-warren-buffett-successor-greg-abel-will-dispose-one-of-berkshire-hathaway-largest-holdings/?source=iedfolrf0000001",
+    "title": "Visa and American Express Both Raised Their Dividends 16% This Year, but Only 1 of the Stocks Is Up in 2026",
+    "author": "Eric Volkman",
+    "published_utc": "2026-11-17T13:30:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/visa-and-american-express-both-raised-their-dividends-16-this-year-but-only-1-of-the-stocks-is-up-in-2026/?source=iedfolrf0000001",
     "tickers": [
-      "BRK.A",
-      "BRK.B",
+      "V",
+      "AXP",
+      "MA"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fb0e7c853010fa49f1db46472fdd703a17c0ff111-7008x4672.jpg&w=1200&op=resize",
+    "description": "Despite both Visa and American Express raising dividends by 16% this year, their stock performances have diverged significantly. Visa is up 22% year-to-date, outperforming the S&P 500, while American Express has fallen 14%. The difference stems from American Express missing revenue estimates in consecutive quarters and struggling to control expenses, while Visa benefits from favorable regulatory developments and its asset-light business model.",
+    "keywords": [
+      "dividend increase",
+      "payment card companies",
+      "stock performance divergence",
+      "revenue miss",
+      "expense growth",
+      "open-loop vs closed-loop operators",
+      "Credit Card Competition Act",
+      "interest rate sensitivity"
+    ],
+    "insights": [
+      {
+        "ticker": "V",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 22% year-to-date, significantly outperforming S&P 500's 8% gain. Benefits from asset-light business model, strong quarterly performance meeting analyst expectations, and favorable regulatory environment with CCCA exempting open-loop operators."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Stock down 14% year-to-date despite 16% dividend raise. Missed revenue estimates in two consecutive quarters, expenses growing faster than revenue (12% vs 10% in Q2), and negatively impacted by interest rate sensitivity as a closed-loop issuer and lack of progress on CCCA legislation."
+      },
+      {
+        "ticker": "MA",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock up 16% year-to-date, outperforming S&P 500. Benefits from similar advantages as Visa as an open-loop operator and raised dividend by nearly 15% in 2025, demonstrating strong financial performance."
+      }
+    ]
+  },
+  {
+    "id": "adbfabc7c1baca253dcd85527fafa60b529782c5fcc5870358303e8de0074433",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Warren Buffett's Successor Has 61% of Berkshire's Portfolio in 5 Stocks. Here's My Top Pick for November.",
+    "author": "Keith Noonan",
+    "published_utc": "2026-11-17T08:15:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/17/warren-buffetts-successor-has-61-of-berkshires-por/?source=iedfolrf0000001",
+    "tickers": [
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "AAPL",
+      "AXP",
+      "KO",
       "BAC",
       "BACpB",
       "BACpE",
@@ -88,277 +128,216 @@
       "BMLpJ",
       "BMLpL",
       "MERpK",
-      "KO",
-      "AXP",
-      "OXY",
-      "OXY.WS",
-      "AAPL",
-      "MCO"
+      "BRK.A",
+      "BRK.B"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3067bb9afe420729bf75ef0b6fed3a0ab059dd8b-2048x1365.jpg%3Fw%3D800%26q%3D75%26fit%3Dmax%26auto%3Dformat&w=1200&op=resize",
-    "description": "Greg Abel, who took over as CEO of Berkshire Hathaway on December 31, is expected to continue selling the company's Bank of America stake. Berkshire has already sold 549.5 million BofA shares (53% of its position) since June 2024, driven by the bank's valuation reaching a 59% premium to book value and reduced interest rate sensitivity following the Fed's rate cuts.",
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893419%2Fbuffett17-tmf-copy.jpg&w=1200&op=resize",
+    "description": "Berkshire Hathaway's portfolio is concentrated in five stocks accounting for 61% of holdings. The article recommends Alphabet as the best buy in November, citing a 27% pullback from highs, attractive valuation at 22.5x earnings, strong revenue growth of 25% YoY, and robust Google Cloud expansion at 103% YoY growth. Despite AI market volatility and regulatory concerns following Democratic midterm wins, the author believes Alphabet has strong long-term growth prospects.",
     "keywords": [
       "Berkshire Hathaway",
-      "Greg Abel",
-      "Bank of America",
-      "portfolio divestment",
-      "valuation",
-      "interest rates",
-      "succession"
+      "portfolio concentration",
+      "Alphabet",
+      "artificial intelligence",
+      "stock valuation",
+      "Google Cloud",
+      "regulatory concerns",
+      "tech stocks"
     ],
     "insights": [
       {
+        "ticker": "GOOG",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Stock has pulled back 27% from highs, offering attractive entry point. Strong fundamentals with 25% YoY revenue growth, 30% operating income growth, and 103% YoY Google Cloud growth. Valued at 22.5x earnings with significant long-term growth potential despite near-term AI market volatility. Berkshire has been aggressively buying the stock."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as Berkshire's largest holding at 22.1% of portfolio, but not analyzed or recommended in the article. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "AXP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Second-largest Berkshire holding at 13.2% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "KO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Third-largest Berkshire holding at 10.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BAC",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpB",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpE",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpP",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpQ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BACpS",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpH",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpJ",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "BMLpL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
+        "ticker": "MERpK",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Fifth-largest Berkshire holding at 6.6% of portfolio, but not analyzed or recommended. Mentioned only for portfolio composition context."
+      },
+      {
         "ticker": "BRK.A",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Leadership transition is proceeding smoothly with Abel maintaining similar investment philosophy to Buffett, though actively reshaping the portfolio."
+        "sentiment_reasoning": "Mentioned as the investment conglomerate holding the portfolio. No specific sentiment expressed about the company itself; focus is on its holdings and investment strategy under new CEO Greg Abel."
       },
       {
         "ticker": "BRK.B",
         "sentiment": "neutral",
-        "sentiment_reasoning": "Leadership transition is proceeding smoothly with Abel maintaining similar investment philosophy to Buffett, though actively reshaping the portfolio."
-      },
-      {
-        "ticker": "BAC",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpB",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpE",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpM",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpN",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpO",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpP",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpQ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BACpS",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BMLpG",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BMLpH",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BMLpJ",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "BMLpL",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "MERpK",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Facing significant selling pressure from Berkshire due to premium valuation (59% above book value), reduced interest rate sensitivity from Fed rate cuts, and exclusion from Berkshire's 'indefinite holdings' list, signaling likely full exit."
-      },
-      {
-        "ticker": "KO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified as an 'indefinite' core holding by Buffett, indicating long-term confidence and commitment to the position."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Listed as an 'indefinite' core holding by Buffett, demonstrating strong conviction in the company's long-term value."
-      },
-      {
-        "ticker": "OXY",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Designated as an 'indefinite' holding by Buffett, reflecting confidence in its long-term prospects."
-      },
-      {
-        "ticker": "OXY.WS",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Designated as an 'indefinite' holding by Buffett, reflecting confidence in its long-term prospects."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Identified by Abel as a holding that can 'compound over decades,' indicating strong conviction in its long-term growth potential."
-      },
-      {
-        "ticker": "MCO",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Highlighted by Abel as a multi-decade compounder, suggesting confidence in sustained value creation."
+        "sentiment_reasoning": "Mentioned as the investment conglomerate holding the portfolio. No specific sentiment expressed about the company itself; focus is on its holdings and investment strategy under new CEO Greg Abel."
       }
     ]
   },
   {
-    "id": "b3a58b42d612e8c5aca11024a49c86361c37a269a78da63173e428583b9b1ed0",
+    "id": "69f105becd5f1d8d7ffbf4a7240ba20b99283caa206c0589ee2139d9ec30af7d",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Visa Finds Online Spending Gaining Ground Across Key Markets",
-    "author": "Na",
-    "published_utc": "2026-09-15T13:24:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2989723/visa-finds-online-spending-gaining-ground-across-key-markets?cid=CS-ZC-FT-analyst_blog|quick_take-2989723",
+    "title": "Les Meilleurs nouveaux restos d\u2019Air\u00a0Canada, r\u00e9f\u00e9rence culinaire d\u00e9nichant des joyaux canadiens depuis 25\u00a0ans, d\u00e9cernent la premi\u00e8re place du classement\u00a02026 au restaurant Capelin",
+    "author": "Not Specified",
+    "published_utc": "2026-11-17T02:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/17/3404250/0/fr/les-meilleurs-nouveaux-restos-d-air-canada-r%C3%A9f%C3%A9rence-culinaire-d%C3%A9nichant-des-joyaux-canadiens-depuis-25-ans-d%C3%A9cernent-la-premi%C3%A8re-place-du-classement-2026-au-restaurant-capelin.html",
     "tickers": [
-      "V",
-      "MA",
       "AXP"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/ea/165565.webp",
-    "description": "Visa reports that the 'couch economy'\u2014home-centered spending on online shopping, streaming, food delivery, and subscriptions\u2014has become a lasting consumer behavior trend. U.S. online and in-app payment volume reached 58% in 2026 from 48% in 2019. This shift benefits payment processors through increased digital transaction volumes and recurring spending, though Visa trades at a premium valuation of 25.18X forward P/E versus the industry average of 17.69X and carries a Zacks Rank #3 (Hold).",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/da4f814e-997c-4da9-848c-d573ae14e69a",
+    "description": "Air Canada announced the 2026 winners of its Best New Restaurants program on its 25th anniversary, with Restaurant Capelin in St. Catharines, Ontario taking the top spot. The restaurant, opened in 2025 by chef Alex Seaborn and his wife Kat, specializes in seasonal seafood and local Ontario products. The top 10 list showcases diverse dining experiences across Canada, from omakase sushi bars to Cambodian bistros. Air Canada also launched its first cohort of Icons recognizing influential chefs and restaurateurs who have shaped Canadian culinary culture.",
     "keywords": [
-      "couch economy",
-      "digital payments",
-      "online shopping",
-      "streaming subscriptions",
-      "food delivery",
-      "payment networks",
-      "recurring spending"
+      "Air Canada",
+      "Best New Restaurants",
+      "Restaurant Capelin",
+      "Canadian cuisine",
+      "culinary awards",
+      "25th anniversary",
+      "A\u00e9roplan",
+      "American Express"
     ],
     "insights": [
       {
-        "ticker": "V",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Visa benefits from the structural shift toward digital, online, and subscription-based spending. Research shows consistent growth in online/in-app payment volumes across all markets studied (2019-2026), with U.S. reaching 58%. This increases transaction activity and demand for Visa's services. However, positive sentiment is tempered by premium valuation and Hold rating."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Mastercard gains from increased digital purchases, higher transaction volumes, and stronger demand for value-added services like tokenization and fraud prevention. The couch economy trend is identified as a broad tailwind for the payments industry."
-      },
-      {
         "ticker": "AXP",
         "sentiment": "positive",
-        "sentiment_reasoning": "American Express benefits from increased card spending, merchant fees, and deeper customer engagement. Its closed-loop model provides transaction data advantages for targeted offers and merchant services, positioning it well for the couch economy trend."
+        "sentiment_reasoning": "American Express is highlighted as a continuing partner in the program, reinforcing its commitment to premium lifestyle experiences for cardholders and positioning itself as a supporter of Canada's culinary scene, which enhances brand prestige and customer value proposition."
       }
     ]
   },
   {
-    "id": "f645c463a90b5708120eea8b2953f10f470e22036acb84bff7a19c8ca29d101d",
+    "id": "5480ba6afff4046bab21c83991aeb48ebb384ad46680da401dffb9bd0a93e375",
     "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
+      "name": "GlobeNewswire Inc.",
+      "homepage_url": "https://www.globenewswire.com",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Visa Stock Offers Growth, but is it Worth Buying at 24.9X Forward P/E?",
-    "author": "Zacks.Com",
-    "published_utc": "2026-09-14T16:16:00Z",
-    "article_url": "https://www.zacks.com/stock/news/2989349/visa-stock-offers-growth-but-is-it-worth-buying-at-24-9x-forward-p-e?cid=CS-ZC-FT-analyst_blog|most_popular_stocks-2989349",
+    "title": "Dishing Up Canada\u2019s Best for 25 Years: Air Canada\u2019s Best New Restaurants Names Restaurant Capelin No. 1 on its 2026 list",
+    "author": "Air Canada",
+    "published_utc": "2026-11-17T02:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/17/3404250/0/en/dishing-up-canada-s-best-for-25-years-air-canada-s-best-new-restaurants-names-restaurant-capelin-no-1-on-its-2026-list.html",
     "tickers": [
-      "V",
-      "MA",
       "AXP"
     ],
-    "image_url": "https://staticx-tuner.zacks.com/images/articles/main/af/643.jpg",
-    "description": "Visa trades at 24.87X forward earnings, above industry average but below its five-year median. While the company demonstrates strong margins (54.1%), expanding Value-Added Services ($3.8B in Q3), and solid cash generation ($15.2B free cash flow YTD), its premium valuation, rising competition from fintech alternatives, and regulatory pressures limit near-term upside. Analysts see 14.7% upside potential, but the stock is rated Hold as much growth is already priced in.",
+    "image_url": "https://ml.globenewswire.com/Resource/Download/da4f814e-997c-4da9-848c-d573ae14e69a",
+    "description": "Air Canada announced its 25th annual Best New Restaurants list, with Restaurant Capelin in St. Catharines, Ontario taking the top spot. The award recognizes emerging culinary talent across Canada, featuring ten restaurants ranging from seafood-focused establishments to contemporary Cambodian cuisine. The program also introduced inaugural Air Canada's Best New Restaurants Icons honoring influential chefs and restaurateurs, and contributed $25,000 to culinary education initiatives.",
     "keywords": [
-      "payment networks",
-      "valuation",
-      "forward P/E ratio",
-      "cash flow",
-      "stablecoins",
-      "regulatory pressure",
-      "competition",
-      "agentic commerce",
-      "Value-Added Services"
+      "restaurant awards",
+      "culinary excellence",
+      "Canadian dining",
+      "Restaurant Capelin",
+      "25th anniversary",
+      "culinary talent",
+      "hospitality",
+      "seasonal cuisine"
     ],
     "insights": [
-      {
-        "ticker": "V",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Strong fundamentals including high margins, VAS growth, and cash generation support long-term outlook. However, premium valuation (24.87X forward P/E), rising fintech competition, and regulatory headwinds limit near-term upside. Stock already prices in much of the growth, warranting a Hold rating."
-      },
-      {
-        "ticker": "MA",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer trading at 25.87X forward earnings, slightly higher than Visa. No specific analysis provided, but used as a valuation comparison point."
-      },
       {
         "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a peer trading at 16.66X forward earnings with a 12.2% YTD decline. Used as a valuation and performance comparison but no detailed analysis provided."
-      }
-    ]
-  },
-  {
-    "id": "14a755d163764a1cde402b1af39685f32d2aa1b2dfdf8c5f6769bc6978f4935e",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "VIRT or AXP: Which Is the Better Value Stock Right Now?",
-    "author": "Na",
-    "published_utc": "2026-09-14T15:40:03Z",
-    "article_url": "https://www.zacks.com/stock/news/2989297/virt-or-axp-which-is-the-better-value-stock-right-now?cid=CS-ZC-FT-fundamental_analysis|yseop_template_3-2989297",
-    "tickers": [
-      "VIRT",
-      "AXP"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default139.jpg",
-    "description": "A comparison of Virtu Financial (VIRT) and American Express (AXP) from the Financial - Miscellaneous Services sector reveals that VIRT is the more attractive value investment. VIRT has a Zacks Rank of #2 (Buy) versus AXP's #3 (Hold), with superior valuation metrics including a forward P/E of 8.67 compared to AXP's 18.36, a PEG ratio of 0.37 versus 1.38, and a P/B ratio of 4.06 versus 6.4. VIRT received a Value grade of B while AXP received a C.",
-    "keywords": [
-      "value investing",
-      "valuation metrics",
-      "P/E ratio",
-      "PEG ratio",
-      "Zacks Rank",
-      "financial services sector"
-    ],
-    "insights": [
-      {
-        "ticker": "VIRT",
         "sentiment": "positive",
-        "sentiment_reasoning": "VIRT demonstrates stronger fundamentals with a higher Zacks Rank (#2 Buy), lower forward P/E ratio (8.67), lower PEG ratio (0.37), and lower P/B ratio (4.06), all indicating better value and more impressive earnings estimate revisions. Received a Value grade of B."
-      },
-      {
-        "ticker": "AXP",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "AXP has a lower Zacks Rank (#3 Hold) and higher valuation multiples across all key metrics (forward P/E of 18.36, PEG ratio of 1.38, P/B ratio of 6.4), making it less attractive for value investors. Received a Value grade of C."
+        "sentiment_reasoning": "American Express continues its partnership with Air Canada's Best New Restaurants program, positioning itself as a lifestyle and dining benefits provider for Cardmembers. The ongoing collaboration demonstrates commitment to premium dining experiences and brand alignment with culinary excellence."
       }
     ]
   }

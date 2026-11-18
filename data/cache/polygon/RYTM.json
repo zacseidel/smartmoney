@@ -1,0 +1,36 @@
+{
+  "ticker": "RYTM",
+  "name": "Rhythm Pharmaceuticals, Inc. Common Stock",
+  "market": "stocks",
+  "locale": "us",
+  "primary_exchange": "XNAS",
+  "type": "CS",
+  "active": true,
+  "currency_name": "usd",
+  "cik": "0001649904",
+  "composite_figi": "BBG007DLZ601",
+  "share_class_figi": "BBG007DLZ629",
+  "market_cap": 8084676948.66,
+  "phone_number": "857-264-4280",
+  "address": {
+    "address1": "222 BERKELEY STREET",
+    "address2": "12TH FLOOR",
+    "city": "BOSTON",
+    "state": "MA",
+    "postal_code": "02116"
+  },
+  "description": "Rhythm Pharmaceuticals Inc is a commercial-stage biopharmaceutical company engaged in the development and commercialization of therapies for patients with rare neuroendocrine diseases. The company is focused on advancing its melanocortin-4 receptor (MC4R) agonists, including its main asset, IMCIVREE (setmelanotide), as a precision medicine designed to treat hyperphagia and severe obesity caused by rare MC4R pathway diseases. In addition, it has two early-stage investigational MC4R agonists in clinical development, RM-718 and bivamelagon, designed not to cause hyperpigmentation. The company is also focused on advancing potential candidates for congenital hyperinsulinism. It currently operates in two business segments: the United States, which generates maximum revenue, and International.",
+  "sic_code": "2834",
+  "sic_description": "PHARMACEUTICAL PREPARATIONS",
+  "ticker_root": "RYTM",
+  "homepage_url": "https://www.rhythmtx.com",
+  "total_employees": 414,
+  "list_date": "2017-10-05",
+  "branding": {
+    "logo_url": "https://api.polygon.io/v1/reference/company-branding/cmh5dGhtdHguY29t/images/2026-11-01_logo.png",
+    "icon_url": "https://api.polygon.io/v1/reference/company-branding/cmh5dGhtdHguY29t/images/2026-11-01_icon.jpeg"
+  },
+  "share_class_shares_outstanding": 69330906,
+  "weighted_shares_outstanding": 69330906,
+  "round_lot": 100
+}

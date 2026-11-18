@@ -1,263 +1,288 @@
 [
   {
-    "id": "199b681c4937e66a4f5c54c487b8f7879e733e5eff9765e9b677326575d1fbca",
+    "id": "cce6aaa8208b508e96e6ec586453dc501ffe811378e7cd58da83f5f4f05a56e6",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Prediction: Colette Kress Is More Vital to Nvidia\u2019s Future Than Her Interim CEO Title Implies",
+    "author": "Daniel Foelber",
+    "published_utc": "2026-11-18T11:45:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/prediction-colette-kress-is-more-vital-to-nvidia-s-future-than-her-interim-ceo-title-implies/?source=iedfolrf0000001",
+    "tickers": [
+      "NVDA",
+      "AMZN",
+      "MSFT",
+      "GOOG",
+      "GOOGL",
+      "GOOGM",
+      "GOOGN",
+      "META",
+      "METAM",
+      "AAPL",
+      "TSLA",
+      "AVGO"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F5129cc85e67acf9267c99f604e89668cf96e455d-1290x860.jpg&w=1200&op=resize",
+    "description": "Following Jensen Huang's resignation as Nvidia CEO due to personal scandals, CFO Colette Kress has assumed the interim CEO role. The article argues that Kress, who has historically balanced Huang's visionary but risky bets with financial discipline, may fundamentally shift Nvidia's strategy toward a more cautious approach. This could slow growth but reduce vulnerability to AI spending downturns, potentially transforming Nvidia from a high-growth stock into a value-oriented investment.",
+    "keywords": [
+      "CEO transition",
+      "Jensen Huang resignation",
+      "Colette Kress",
+      "AI infrastructure financing",
+      "corporate strategy shift",
+      "financial discipline",
+      "stock buybacks",
+      "dividend increases"
+    ],
+    "insights": [
+      {
+        "ticker": "NVDA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "While the leadership transition creates uncertainty and near-term volatility, the article suggests Kress's more disciplined approach could benefit long-term investors by reducing risky bets and maintaining high margins. The stock is down significantly, but the fundamental business remains strong with potential for steady compounding rather than boom-bust cycles."
+      },
+      {
+        "ticker": "AMZN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a hyperscaler with concerns about sustained cash burn in AI infrastructure spending, which sparked the recent AI stock sell-off. No specific positive or negative outlook is provided."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a hyperscaler with cash burn concerns related to AI infrastructure investments, contributing to the broader AI stock sell-off. No specific company-level analysis provided."
+      },
+      {
+        "ticker": "GOOG",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGM",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "GOOGN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Listed as a hyperscaler facing cash burn concerns in AI spending, which triggered the recent market sell-off in AI stocks. No detailed company-specific assessment is offered."
+      },
+      {
+        "ticker": "META",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "METAM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Used as a positive example of how a shrewd operator (Sheryl Sandberg) complemented a visionary CEO (Mark Zuckerberg) to create a 'streamlined cash cow,' suggesting Kress could similarly benefit Nvidia through financial discipline and operational excellence."
+      },
+      {
+        "ticker": "AAPL",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable company in terms of CEO importance and as a reference point for Nvidia potentially surpassing it in stock buybacks and dividends. No sentiment-specific analysis provided."
+      },
+      {
+        "ticker": "TSLA",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Referenced as a comparable example of a founder-led company with significant CEO importance, similar to Nvidia. No specific sentiment assessment is made."
+      },
+      {
+        "ticker": "AVGO",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparable semiconductor company with a long-tenured CEO (Hock Tan). Used for context but no specific sentiment analysis provided."
+      }
+    ]
+  },
+  {
+    "id": "5b659b36e58373466c5b4fb0a18a108bef8e5ecfefafc1b764135a2916059f45",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "If You Have $1,000 to Invest in December, These 3 Stocks Are Built to Last a Decade",
+    "author": "Rick Orford",
+    "published_utc": "2026-11-18T11:30:00Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/if-you-have-1000-to-invest-in-december-these-3-sto/?source=iedfolrf0000001",
+    "tickers": [
+      "MSFT",
+      "ASML",
+      "TSM"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F893129%2Fa-woman-looking-at-her-phone.jpg&w=1200&op=resize",
+    "description": "The article recommends three tech stocks for long-term investors: Microsoft, ASML, and TSMC. Microsoft benefits from its integrated ecosystem and AI-driven cloud growth with Azure revenue up 48% YoY. ASML dominates semiconductor lithography equipment with hard-to-replicate competitive advantages. TSMC leads in advanced chip manufacturing with 51% YoY revenue growth. All three are positioned to capitalize on AI demand over the next decade, though each carries specific risks including geopolitical tensions and cyclical spending.",
+    "keywords": [
+      "artificial intelligence",
+      "semiconductor manufacturing",
+      "cloud computing",
+      "lithography equipment",
+      "long-term investing",
+      "competitive advantage",
+      "AI infrastructure"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Strong ecosystem moat, 48% Azure revenue growth YoY, multiple AI monetization paths through Copilot and cloud infrastructure. Wall Street average target implies 21% upside. Described as 'safest option' with reasonable 26x forward P/E valuation."
+      },
+      {
+        "ticker": "ASML",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Extremely difficult-to-replicate competitive advantage in lithography equipment, record Q3 net sales of \u20ac11.7B, customers already placing orders for 2029-2030. Wall Street consensus suggests 50% upside with reasonable 23x forward P/E. Positioned as middle-risk option."
+      },
+      {
+        "ticker": "TSM",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Dominant foundry business with 51% YoY revenue growth, 79% of wafer revenue from advanced technologies, strong two-nanometer ramp. 20 of 21 analysts rate buy/strong buy with 57% upside potential. Attractive 18x forward P/E valuation, though characterized as higher-risk due to China-Taiwan tensions."
+      }
+    ]
+  },
+  {
+    "id": "9bbd0e17d0ba1f124303e74064f6a7f28b4d67c4e8e515982e5c95ea4154e215",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Nebius Posted Superb Earnings and Crashed Anyway. Buy the Dip.",
+    "author": "Marc Guberti",
+    "published_utc": "2026-11-18T10:30:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/nebius-superb-earnings-crashed-anyway-buy-the-dip/?source=iedfolrf0000001",
+    "tickers": [
+      "NBIS",
+      "MSFT",
+      "NVDA",
+      "IREN"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F57171685ce2b01e4579d326ef058bddea8497e5f-7680x4896.jpg&w=1200&op=resize",
+    "description": "Nebius stock fell 17% after earnings despite strong fundamentals, primarily due to a delay in reaching $7-9 billion ARR targets from December 2026 to February 2027. The delay stems from colocation facility issues rather than execution problems. The company's business model continues to strengthen with rising megawatt values ($25M+ per megawatt in Q3), improving payback periods, and 75-85% of 2027 capex expected to be covered by prepayments. The analyst views the stock decline as a buying opportunity for long-term investors.",
+    "keywords": [
+      "AI infrastructure",
+      "data centers",
+      "earnings miss",
+      "revenue guidance delay",
+      "capital expenditures",
+      "customer prepayments",
+      "megawatt pricing",
+      "colocation facilities"
+    ],
+    "insights": [
+      {
+        "ticker": "NBIS",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Despite a 17% stock decline post-earnings, the article highlights strong underlying fundamentals including rising megawatt values, improving payback periods, strong customer prepayments covering capex, and a shift away from risky colocation models. The ARR delay is characterized as a minor timing issue rather than a structural problem, with the analyst recommending the dip as a buying opportunity."
+      },
+      {
+        "ticker": "MSFT",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Microsoft is mentioned as a major customer with a $17.4 billion, five-year infrastructure deal with Nebius. The delay in capacity availability is attributed to Microsoft's colocation facility, not Microsoft's performance or strategy. No direct sentiment about Microsoft's business is expressed."
+      },
+      {
+        "ticker": "NVDA",
+        "sentiment": "negative",
+        "sentiment_reasoning": "Mentioned as experiencing negative sentiment due to Jensen Huang's departure, which is cited as contributing to broader AI trade headwinds that have dragged down the entire sector including Nebius."
+      },
+      {
+        "ticker": "IREN",
+        "sentiment": "neutral",
+        "sentiment_reasoning": "Mentioned as a comparison point for owning the entire data center stack, contrasting with Nebius' reliance on colocation facilities. No direct sentiment about Iren's performance is provided."
+      }
+    ]
+  },
+  {
+    "id": "6f5fb250f784e88709ab47b89758c73ec6bef690d941345267202ce3390b8a99",
+    "publisher": {
+      "name": "The Motley Fool",
+      "homepage_url": "https://www.fool.com/",
+      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+    },
+    "title": "Is the Stock Market Really in an AI Bubble? Wall Street's Doomsayers Are Ignoring Crucial Facts.",
+    "author": "Trevor Jennewine",
+    "published_utc": "2026-11-18T10:12:02Z",
+    "article_url": "https://www.fool.com/investing/2026/11/18/stock-market-ai-bubble-wall-street-ignoring-crucial-fact/?source=iedfolrf0000001",
+    "tickers": [
+      "MSFT",
+      "ACN",
+      "KLAR"
+    ],
+    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Fa99bbe3a2d96c36fc5003a78418bbc54fb20ad36-2560x1440.png&w=1200&op=resize",
+    "description": "While prominent Wall Street bears warn of an AI bubble and potential market crash, the article argues their concerns overlook key facts. The S&P 500's forward price-to-earnings ratio has fallen to its lowest level in three years as earnings growth accelerates, contrasting with the dot-com bubble. AI adoption is outpacing previous technological revolutions with measurable productivity gains, suggesting the boom has genuine economic benefits rather than being purely speculative.",
+    "keywords": [
+      "AI bubble",
+      "stock market valuation",
+      "forward price-to-earnings ratio",
+      "AI adoption",
+      "productivity gains",
+      "market crash concerns",
+      "technology stocks"
+    ],
+    "insights": [
+      {
+        "ticker": "MSFT",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Cited as conducting randomized workplace experiments showing AI coding assistants increased completed tasks by 26%, demonstrating measurable economic benefits of AI technology."
+      },
+      {
+        "ticker": "ACN",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Referenced for conducting workplace experiments that validated AI productivity gains, supporting the argument that AI generates real economic value."
+      },
+      {
+        "ticker": "KLAR",
+        "sentiment": "positive",
+        "sentiment_reasoning": "Highlighted as a concrete example of AI delivering measurable business value, with its AI assistant performing work of 853 full-time agents and generating $58 million in annual cost savings."
+      }
+    ]
+  },
+  {
+    "id": "440d1943640a248b94725f1fac4f2582dcf4368fdafe6c0b3ba4abca35000b79",
     "publisher": {
       "name": "GlobeNewswire Inc.",
       "homepage_url": "https://www.globenewswire.com",
       "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
       "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
     },
-    "title": "Notified Opens Model Context Protocol (MCP) Beta Program for PR and IR Data and Services",
-    "author": "Notified",
-    "published_utc": "2026-10-21T17:00:00Z",
-    "article_url": "https://www.globenewswire.com/news-release/2026/10/21/3385795/0/en/notified-opens-model-context-protocol-mcp-beta-program-for-pr-and-ir-data-and-services.html",
-    "tickers": [
-      "MSFT"
-    ],
-    "image_url": "https://ml.globenewswire.com/Resource/Download/5ee24f13-0f4b-420a-9586-e4b21532dca3",
-    "description": "Notified has opened a beta program for Notified MCP, which connects its Content OS and IR Hub platforms to AI agents like Microsoft Teams and Copilot. The offering enables PR and IR professionals to access press release analytics, IR events, website metrics and market intelligence through conversational AI without switching between platforms. The service will expand to ChatGPT, Claude and Gemini, with security built around existing enterprise approval processes.",
-    "keywords": [
-      "AI agents",
-      "Model Context Protocol",
-      "PR workflows",
-      "investor relations",
-      "Microsoft Teams",
-      "Copilot",
-      "GlobeNewswire",
-      "enterprise automation",
-      "data integration"
-    ],
-    "insights": [
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Microsoft's Teams and Copilot platforms are selected as the primary launch partners for Notified MCP, highlighting the strategic importance and widespread enterprise adoption of Microsoft 365 in the communications sector."
-      }
-    ]
-  },
-  {
-    "id": "81313f896cc257ddfccbff4133e4b8ab9e4ca6ec6426d2b7e2523fd6b0638684",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Microsoft Must Say This on Oct. 28 or the Stock Will Go Into Free Fall",
-    "author": "Keithen Drury",
-    "published_utc": "2026-10-21T16:57:00Z",
-    "article_url": "https://www.fool.com/investing/2026/10/21/microsoft-must-say-this-on-oct-28-or-the-stock-wil/?source=iedfolrf0000001",
+    "title": "Eviden \u00e9tend \u00e0 Microsoft Azure sa solution de gestion souveraine des cl\u00e9s cryptographiques",
+    "author": "Eviden/Atos Group",
+    "published_utc": "2026-11-18T10:00:00Z",
+    "article_url": "https://www.globenewswire.com/news-release/2026/11/18/3405437/0/fr/eviden-%C3%A9tend-%C3%A0-microsoft-azure-sa-solution-de-gestion-souveraine-des-cl%C3%A9s-cryptographiques.html",
     "tickers": [
       "MSFT",
-      "AMZN",
-      "GOOG",
-      "GOOGL",
-      "GOOGM",
-      "GOOGN"
+      "AEXAY"
     ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891665%2Fperson-touching-data-on-artificial-dashboard.jpg&w=1200&op=resize",
-    "description": "Microsoft's Oct. 28 earnings report will be critical for its stock performance. The key focus is Azure cloud growth acceleration. While Azure grew 43% in Q4, competitors Amazon Web Services and Google Cloud are accelerating faster (37% and 82% respectively in Q2 2026). If Microsoft fails to report significant Azure growth acceleration, the stock could decline as investors may view it as losing cloud market share to competitors.",
+    "image_url": "https://ml-eu.globenewswire.com/Resource/Download/73854b4d-3753-4ad2-a10b-804b8373f1b1",
+    "description": "Eviden announces new capabilities enabling organizations to maintain full control over encryption keys while using Microsoft Azure. The solution offers two deployment models: keeping cryptographic infrastructure outside Azure under customer control, or running Eviden KMS in a confidential virtual machine on Azure while maintaining Proteccio HSM as an external sovereign root of trust. This allows customers to leverage Azure's cloud performance while preserving data sovereignty and cryptographic control.",
     "keywords": [
-      "Azure cloud growth",
-      "earnings report",
-      "cloud computing competition",
-      "AI strategy",
-      "market share",
-      "Copilot",
-      "OpenAI partnership"
+      "cryptographic key management",
+      "data sovereignty",
+      "Azure Key Vault",
+      "external key management",
+      "HSM",
+      "cloud security",
+      "French technology",
+      "ANSSI certification"
     ],
     "insights": [
       {
         "ticker": "MSFT",
-        "sentiment": "negative",
-        "sentiment_reasoning": "Azure growth is decelerating relative to competitors despite solid absolute growth rates (43%). Competitors are accelerating significantly faster, which could lead to market share loss and stock decline if acceleration isn't demonstrated in the Oct. 28 earnings report."
-      },
-      {
-        "ticker": "AMZN",
         "sentiment": "positive",
-        "sentiment_reasoning": "AWS cloud growth is accelerating rapidly (24% to 37% over recent quarters), outpacing Microsoft's Azure growth trajectory and positioning Amazon favorably in the competitive cloud infrastructure market."
+        "sentiment_reasoning": "Microsoft Azure benefits from this partnership by offering enhanced security and sovereignty features through external key management capabilities, making Azure more attractive to organizations with strict data sovereignty requirements."
       },
       {
-        "ticker": "GOOG",
+        "ticker": "AEXAY",
         "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
-      },
-      {
-        "ticker": "GOOGL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
-      },
-      {
-        "ticker": "GOOGM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
-      },
-      {
-        "ticker": "GOOGN",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Google Cloud is experiencing exceptional growth acceleration (48% to 82% over recent quarters), significantly outpacing both Microsoft and Amazon, indicating strong competitive positioning in the cloud market."
-      }
-    ]
-  },
-  {
-    "id": "fe5580e678402c69bee9bbd363858edafbfb4c8198763ab3ef3ad46af17b368d",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Arista Networks vs. Datadog: Which Technology Stock Is a Better Buy in 2026?",
-    "author": "Sara Appino",
-    "published_utc": "2026-10-21T14:20:44Z",
-    "article_url": "https://www.fool.com/coverage/better-buy/2026/10/21/arista-networks-vs-datadog-which-technology-stock-is-a-better-buy-in-2026/?source=iedfolrf0000001",
-    "tickers": [
-      "ANET",
-      "DDOG",
-      "AVGO",
-      "MSFT",
-      "CSCO"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F497213577468110e4ae04f3160ed91a99378c474-1280x853.jpg&w=1200&op=resize",
-    "description": "Comparing two AI infrastructure leaders: Arista Networks, which provides physical networking switches for data centers, and Datadog, which offers cloud monitoring software. Arista shows stronger profitability (39% net margin vs. 3.1%) and lower valuation (44.5x forward P/E vs. 102.7x), while Datadog has higher gross margins (79.48% vs. 63%) and strong revenue growth. The author recommends Arista Networks for its essential role in AI infrastructure scaling, though both companies are solid performers in their respective niches.",
-    "keywords": [
-      "AI infrastructure",
-      "cloud data centers",
-      "networking hardware",
-      "observability platform",
-      "valuation comparison",
-      "profitability",
-      "growth stocks"
-    ],
-    "insights": [
-      {
-        "ticker": "ANET",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Strong financial metrics with 28.6% revenue growth, exceptional 39% net margin, zero debt, $4.3B free cash flow, and dominant market position in AI data center networking. Author's top pick for infrastructure criticality."
-      },
-      {
-        "ticker": "DDOG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Solid 27.7% revenue growth, highest gross margin at 79.48%, strong free cash flow of $1B, and consistent earnings beat. However, lower profitability (3.1% net margin), much higher valuation (102.7x forward P/E), and competitive pressures limit enthusiasm."
-      },
-      {
-        "ticker": "AVGO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a critical silicon supplier to Arista Networks, representing a supply chain dependency risk rather than an investment recommendation."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
-      },
-      {
-        "ticker": "CSCO",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Mentioned as a competitive threat to Datadog in the observability market, not evaluated as an investment option."
-      }
-    ]
-  },
-  {
-    "id": "b886543b2c624b811a1bacbe4e77125b44355c0224cb596ad0a0d75bd1dcd07f",
-    "publisher": {
-      "name": "The Motley Fool",
-      "homepage_url": "https://www.fool.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
-    },
-    "title": "Vanguard Growth ETF Outperforms Small-Cap Peer Over Five Years",
-    "author": "Jake Lerch",
-    "published_utc": "2026-10-21T13:55:02Z",
-    "article_url": "https://www.fool.com/coverage/etfs/2026/10/21/vanguard-growth-etf-outperforms-small-cap-peer-over-five-years/?source=iedfolrf0000001",
-    "tickers": [
-      "VUG",
-      "VBK",
-      "NVDA",
-      "AAPL",
-      "MSFT"
-    ],
-    "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F0dbeaa0b9e42976b520af8192b7b599528bff488-4000x3000.jpg&w=1200&op=resize",
-    "description": "Vanguard Morningstar Growth ETF (VUG) significantly outperformed Vanguard Morningstar Small-Cap Growth ETF (VBK) over five years, delivering 79% total return versus 17%, driven by heavy concentration in mega-cap technology stocks. VUG offers a lower expense ratio (0.03% vs 0.05%) and better performance, while VBK provides broader diversification across 579 holdings with lower volatility for investors seeking to reduce tech exposure.",
-    "keywords": [
-      "growth ETF",
-      "mega-cap technology",
-      "small-cap growth",
-      "five-year performance",
-      "diversification",
-      "expense ratio"
-    ],
-    "insights": [
-      {
-        "ticker": "VUG",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Delivered exceptional 79% total return over five years (12.3% CAGR), significantly outperformed peer, has lower expense ratio (0.03%), and benefits from heavy concentration in mega-cap tech leaders like Nvidia, Apple, and Microsoft."
-      },
-      {
-        "ticker": "VBK",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Underperformed VUG with 17% total return (3.2% CAGR) over five years, but offers valuable diversification across 579 holdings with lower volatility and reduced tech concentration (27% vs 58%), appealing to risk-averse investors seeking broader exposure."
-      },
-      {
-        "ticker": "NVDA",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Largest holding in VUG at 13.49%, contributing to the fund's strong outperformance as a mega-cap technology leader."
-      },
-      {
-        "ticker": "AAPL",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Second-largest holding in VUG at 12.51%, supporting the fund's strong performance as a mega-cap tech giant."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "positive",
-        "sentiment_reasoning": "Third-largest holding in VUG at 9.75%, contributing to the fund's outperformance as a major technology leader."
-      }
-    ]
-  },
-  {
-    "id": "074091c6509f59b5ce3d68c818c7c26bacb59e4117f5abd085c9d239caeeec74",
-    "publisher": {
-      "name": "Zacks Investment Research",
-      "homepage_url": "https://www.zacks.com/",
-      "logo_url": "https://s3.polygon.io/public/assets/news/logos/zacks.png",
-      "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/zacks.ico"
-    },
-    "title": "MMM Q3 Earnings Call Highlights AI Deals and Higher Outlook",
-    "author": "Na",
-    "published_utc": "2026-10-21T13:10:00Z",
-    "article_url": "https://www.zacks.com/stock/news/3011985/mmm-q3-earnings-call-highlights-ai-deals-and-higher-outlook?cid=CS-ZC-FT-analyst_blog_plus|earnings_call_takeaways-3011985",
-    "tickers": [
-      "MMM",
-      "AMZN",
-      "MSFT"
-    ],
-    "image_url": "https://staticx-tuner.zacks.com/images/default_article_images/default118.jpg",
-    "description": "3M raised its 2026 adjusted EPS guidance to $9.10-$9.15, driven by strong industrial demand, expanding data center opportunities, and productivity improvements. The company expanded its Amazon partnership targeting $6 billion in cumulative sales over 7 years and achieved 110 basis points of operating margin expansion to 26.2%. However, consumer electronics weakness persists, particularly in LCD displays and Chinese device manufacturers.",
-    "keywords": [
-      "3M earnings",
-      "EPS guidance raise",
-      "Amazon partnership",
-      "AI infrastructure",
-      "operating margin expansion",
-      "industrial demand",
-      "optical connectivity",
-      "consumer electronics weakness"
-    ],
-    "insights": [
-      {
-        "ticker": "MMM",
-        "sentiment": "positive",
-        "sentiment_reasoning": "3M raised full-year EPS guidance, reported strong industrial and semiconductor demand, expanded high-margin AI infrastructure partnerships with Amazon, achieved significant operating margin expansion (110 bps to 26.2%), and expects further margin growth in 2027. Strong order trends and backlog expansion support positive momentum."
-      },
-      {
-        "ticker": "AMZN",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Amazon received warrants for 3M shares tied to $6 billion in cumulative sales over 7 years as part of an expanded optical connectivity and data center products partnership. While this indicates Amazon's continued investment in data center infrastructure, the impact is indirect and the arrangement carries no minimum volume commitments."
-      },
-      {
-        "ticker": "MSFT",
-        "sentiment": "neutral",
-        "sentiment_reasoning": "Microsoft is mentioned as collaborating with 3M on optical connectivity deployment for hyperscaler adoption. The mention is brief and contextual without specific financial impact or strategic implications disclosed."
+        "sentiment_reasoning": "As the parent company of Eviden, Atos benefits from the expansion of its cybersecurity product portfolio and demonstrates leadership in sovereign cloud security solutions, strengthening its position as a European cybersecurity leader."
       }
     ]
   }
